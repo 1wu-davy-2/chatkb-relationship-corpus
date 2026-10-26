@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12679299",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Toward a new theory of couple functioning: a short overview of \"&lt;i&gt;Love and Rejection Messages Theory&lt;/i&gt;\" (LRM&lt;sup&gt;T&lt;/sup&gt;).",
+  "authors": "Marici M.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1646458",
+  "pmcid": "PMC12679299",
+  "url": "https://europepmc.org/article/PMC/PMC12679299",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12679299/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Love thrives where semantics begins. The purpose of this article is to share with the academic and professional community a new theoretical framework, termed Love and Rejection Messages Theory (LRM T ), with regard to rekindling romantic love. Rather than being derived from systematic experimental research, it represents a practice-based theoretical framework inductively developed through longitudinal clinical observation and anchored in existing research literature. The Love and Rejection Messages Theory (LRMT) emerged from more than 12 years of therapeutic work with more than 300 heterosexual couples-either married or cohabiting-on the verge of divorce or having really deteriorated relationships. Its purpose is to articulate a conceptual understanding of how love and rejection messages shape couple dynamics, forming the basis for future empirical systematic validation. It was developed in the context in which there is no theoretical and practical paradigm to work exclusively on couple romantic love itself. LRM T examines how messages of love and rejection-embedded in everyday interactions-shape the emotional climate of romantic relationships. The theory offers both an explanatory framework and a foundation for a practical approach designed to assess relationship dynamics and guide psychotherapeutic and educational interventions aimed at rekindling romantic love.",
+  "raw_path": "01_raw/europepmc_xml/PMC12679299.xml",
+  "text_path": "02_text/europepmc/PMC12679299.txt",
+  "raw_bytes": 406648,
+  "text_chars": 135324,
+  "raw_sha256": "89fdde0fcab1d8e2e07be56e824ae13fe464e7f4f17fd36ac5b534d33801d022",
+  "text_sha256": "79e49dc1dcc7741b9a2cc5cc73d2d7bfa3630f178511a5bb44f4e9ad3c965413",
+  "retrieved_at": "2026-10-25T13:49:20.401293+00:00"
+}

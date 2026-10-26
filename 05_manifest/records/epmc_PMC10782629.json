@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10782629",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Taiwanese family members' bereavement experience following an expected death: a systematic review and narrative synthesis.",
+  "authors": "Liang HJ, Xiong Q, Remawi BN, Preston N.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s12904-024-01344-3",
+  "pmcid": "PMC10782629",
+  "url": "https://europepmc.org/article/PMC/PMC10782629",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10782629/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Background Bereavement experience is shaped by cultural and social contexts. No systematically constructed reviews were identified to explore the bereavement experience for people who are influenced by Chinese culture valuing filial piety and mutual dependence. This review aimed to systematically review the bereavement experience of Taiwanese family members living in Taiwan following an expected death. Methods MEDLINE, PsycINFO, CINAHL, China Academic Journal Database, and Chinese Electronic Periodical Services were searched with no date restrictions from inception to 20 October 2022. The methodological rigour of studies was assessed using Hawker's appraisal tool. A narrative synthesis approach using Popay's work was employed to synthesise the findings of the studies. Studies investigating Taiwanese family members' bereavement experiences were included. We excluded papers studying bereavement through the death of a child. Results Searches retrieved 12,735 articles (after de-duplication), 17 of which met the inclusion criteria and were included for synthesis: English [9] and Chinese [8], published between 2006 and 2021. The studies varied in quality with scores ranging from 22 to 33 out of 36. The studies differed in the relationship between participants and the deceased, the bereaved time frames, and the definitions of bereavement. Most studies focussed on family members of cancer patients receiving specialist palliative care. Three bereavement theories and four tools were used. Risk factors of bereavement outcomes included family members feeling less prepared for death and deaths where palliative sedative therapy was used. Protective factors were higher caregiving burden and longer caregiving periods. Four themes regarding Taiwanese bereavement experience were generated: multiple impacts of death; problem-based coping strategies; importance of maintaining connections; influential religious beliefs and rituals. Conclusion Continuing the relationship with the deceased is a key element of Taiwanese bereavement experience and it is influenced by religious and cultural beliefs. Suppressing or hiding emotions during bereavement to connect with the deceased and maintain harmonious relationships needs to be acknowledged as culturally acceptable and encouraged by some religions in Taiwan. The findings could be potentially relevant for other Chinese populations, predominantly Buddhist countries or other East Asian societies. The role of preparing for death in bereavement outcomes is little understood and requires further research.",
+  "raw_path": "01_raw/europepmc_xml/PMC10782629.xml",
+  "text_path": "02_text/europepmc/PMC10782629.txt",
+  "raw_bytes": 166379,
+  "text_chars": 64500,
+  "raw_sha256": "f59a50f06a652a118ddc75cfab929fdb6b4c185c8885ccebd83b41ecf95ad07b",
+  "text_sha256": "77f00048cca14cf2603dde3fcd4c6403453899d8cfe6511467d65b3c038c31f3",
+  "retrieved_at": "2026-10-25T15:39:37.313620+00:00"
+}

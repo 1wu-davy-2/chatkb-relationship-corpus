@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9019617",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Student, Staff, and Faculty Perspectives on Intimate Partner and Sexual Violence on 3 Public University Campuses: Protocol for the UC Speaks Up Study and Preliminary Results.",
+  "authors": "Wagman JA, Amabile C, Sumstine S, Park E, Boyce S, Silverman J, Fielding-Miller R, Oaks L, Swendeman D.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.2196/31189",
+  "pmcid": "PMC9019617",
+  "url": "https://europepmc.org/article/PMC/PMC9019617",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9019617/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent"
+  ],
+  "abstract": "Background Intimate partner and sexual violence are pervasive public health issues on college and university campuses in the United States. Research is recommended for creating and maintaining effective, relevant, and acceptable prevention programs and response services for student survivors. Objective The University of California (UC) Speaks Up study aims to examine factors contributing to intimate partner and sexual violence on 3 UC campuses and use the findings to develop and test interventions and policies to prevent violence, promote health, and lay the groundwork for subsequent large-scale quantitative research. Methods A mixed methods study was conducted at UC Los Angeles, UC San Diego, and UC Santa Barbara. Phase I (2017-2020) involved a resource audit; cultural consensus modeling of students' perceptions of sexual consent; in-depth interviews (IDIs) and focus group discussions with students to understand perceptions of campus environment related to experiences as well as prevention of and responses to violence; and IDIs with faculty, staff, and community stakeholders to investigate institutional and community arrangements influencing students' lives and experiences. Phase II (2020-ongoing) involves IDIs with student survivors to assess the use and perceptions of campus and community services. Qualitative content analysis is used to generate substantive codes and subthemes that emerge, using a thematic analysis approach. Results In January 2019, we conducted 149 free-listing interviews and 214 web-based surveys with undergraduate and graduate and professional students for the cultural consensus modeling. Between February 2019 and June 2019, 179 IDIs were conducted with 86 (48%) undergraduate students, 21 (11.7%) graduate and professional students, 34 (19%) staff members, 27 (15.1%) faculty members, and 11 (6.1%) community stakeholders, and 35 focus group discussions (27/35, 77% with undergraduate students and 8/35, 23% with graduate and professional students) were conducted with 201 participants. Since September 2020, 50% (15/30) of the planned student survivor interviews have been conducted. This segment of data collection was disrupted by the COVID-19 pandemic. Recruitment is ongoing. Conclusions Data analysis and phase II data collection are ongoing. The findings will be used to develop and test interventions for preventing violence, promoting health and well-being, and ensuring that survivor services are relevant and acceptable to and meet the needs of all individuals in the campus community, including those who are typically understudied. The findings will also be used to prepare for rigorous, UC-system-wide public health prevention research. International registered report identifier (irrid) DERR1-10.2196/31189.",
+  "raw_path": "01_raw/europepmc_xml/PMC9019617.xml",
+  "text_path": "02_text/europepmc/PMC9019617.txt",
+  "raw_bytes": 115409,
+  "text_chars": 62976,
+  "raw_sha256": "d947a50557de1f8c4ee5a844110b837eaba1c28e3de9dd7cc4cdb47eb3f5d546",
+  "text_sha256": "0c1d1226cf5c97eda41528bc0f9ded08226735b2855acfb5235415957be86053",
+  "retrieved_at": "2026-10-25T15:31:25.762700+00:00"
+}

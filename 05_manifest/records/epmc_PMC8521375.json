@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8521375",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"If You Are Born a Girl in This Crisis, You Are Born a Problem\": Patterns and Drivers of Violence Against Women and Girls in Conflict-Affected South Sudan.",
+  "authors": "Ellsberg M, Murphy M, Blackwell A, Macrae M, Reddy D, Hollowell C, Hess T, Contreras-Urbina M.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1177/1077801221996463",
+  "pmcid": "PMC8521375",
+  "url": "https://europepmc.org/article/PMC/PMC8521375",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8521375/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "bride_price"
+  ],
+  "abstract": "This article presents the results of a qualitative study on the context and different forms of violence committed against women and girls in South Sudan. The study documents many forms of sexual and physical violence against women and girls in South Sudan, including conflict-related sexual violence, intimate partner violence, nonpartner sexual violence, child and forced marriage, and abduction. Violence occurred during three overarching contexts: armed conflict, gender inequality, and the economic crisis. The custom of bride price, combined with the economic crisis, is a key driver of many other forms of violence.",
+  "raw_path": "01_raw/europepmc_xml/PMC8521375.xml",
+  "text_path": "02_text/europepmc/PMC8521375.txt",
+  "raw_bytes": 115887,
+  "text_chars": 70554,
+  "raw_sha256": "c08d46da1b658b19aad181c2b737204a67bf540331b28a5c5d6ad938810db530",
+  "text_sha256": "c74a6cafd62fa5da880a9bc069fd60989256807ac572a7f4d9db30cef70ea3d6",
+  "retrieved_at": "2026-10-25T15:33:04.320999+00:00"
+}

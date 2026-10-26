@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5025524",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "'It is not expected for married couples': a qualitative study on challenges to safer sex communication among polygamous and monogamous partners in southeastern Tanzania.",
+  "authors": "Mtenga SM, Geubbels E, Tanner M, Merten S, Pfeiffer C.",
+  "year": "2016",
+  "journal": "",
+  "doi": "10.3402/gha.v9.32326",
+  "pmcid": "PMC5025524",
+  "url": "https://europepmc.org/article/PMC/PMC5025524",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5025524/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "Background Behavioral change approaches for human immunodeficiency virus (HIV) prevention in Tanzania encourage married partners to observe safe sex practices (condom use, avoidance of, or safe sex with multiple partners). To implement this advice, partners need to communicate with each other about safer sex, which is often challenging. Although social-structural factors are crucial in understanding sexual behavior, only a few studies focus on understanding safer sex dialogue in a broader social context. Design Drawing on the WHO-Commission on the Social Determinants of Health (WHO-CSDH) framework, this study explored key social-structural constructs for studying health in the context of improving safer sex dialogue between polygamous and monogamous partners. Twenty-four in-depth interviews (IDIs) and six focus group discussions (FGDs) with 38 men and women aged 18-60 years were conducted in Ifakara town located in Kilombero district, Tanzania. The study was nested within the community health surveillance project MZIMA (Kiswahili: 'being healthy'). Partners' experiences of safer sex dialogue in polygamous and monogamous relations were investigated and the challenges to safer sex dialogue explored. Results The study revealed that open safer sex dialogue in marriage is limited and challenged by social norms about marriage (a view that safer sex dialogue imply that partners are 'not really' married); marital status (a belief that safer sex dialogue is not practical in polygamous marriages, the elder wife should be exempted from the dialogue since she is at lower risk of engaging in extramarital affairs); relationship quality (marital conflicts, extramarital affairs, trust, and sexual dissatisfaction); and gender power relations (the notion that females' initiative to discuss condom use and HIV couple counseling and testing may lead to conflict or divorce). Conclusions Implementing safer sex practices requires interventions beyond promotion messages. HIV prevention interventions in Tanzania should be carefully adapted to the local context including respective social norms, gender systems, marital context and relationship uncertainties as aspects that facilitate or hinder safer sex dialogue between partners. The WHO-CSDH framework could be strengthened by explicitly integrating relationship quality, marital status, and social norms as additional determinants of health.",
+  "raw_path": "01_raw/europepmc_xml/PMC5025524.xml",
+  "text_path": "02_text/europepmc/PMC5025524.txt",
+  "raw_bytes": 116990,
+  "text_chars": 54425,
+  "raw_sha256": "57cc2b61e7d0ca523cb038c93230d4be1bb2973cbf167fac169272b889c51fb5",
+  "text_sha256": "55811c3eceb881f556a809854d7154250692fb13cb315d51d2b2e32bb0c74d52",
+  "retrieved_at": "2026-10-25T15:45:38.447918+00:00"
+}

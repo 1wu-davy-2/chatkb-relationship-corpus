@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8888404",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychological Antecedents and Consequences of Social Integration Based on Self-Disclosure in Virtual Communities: Empirical Evidence From Sina Microblog.",
+  "authors": "Zhang Y, Cheng Z, Pan Y, Xu Y.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2022.829327",
+  "pmcid": "PMC8888404",
+  "url": "https://europepmc.org/article/PMC/PMC8888404",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8888404/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_disclosure"
+  ],
+  "abstract": "Introduction With the normalization of COVID-19 prevention and control, a large number of intergenerational audiences with different cognition preferences and value orientations have started to pour into non-acquaintance virtual communities (VCs) to address their social needs by disclosing their own thoughts, feelings and experiences toward certain topics. To avoid the negative impacts of self-disclosure, this study introduced the concept of social integration into cyber society among non-acquaintance VCs, such as the topic-based VCs. Our theoretical model considers both the psychological antecedents and consequences of VC audiences' social integration and our findings have implications for public online (and even offline) social life. Moreover, this research could play a guiding role in improving VC audiences' social integration status in future online learning and telecommuting scenarios. Method To assess the theoretical model constructed in this manuscript, we conducted an online survey in two different topic-based VCs among Microblog and yielded 472 useable responses from intergenerational audiences, among which 28.81% were born before 1985, 26.67% were born from 1985 to 1995, and 48.52% were born after 1995. Our sample consisted of 208 individuals from Health Regimen VC and 264 individuals from Star Chasing VC, 200 (42.37%) were men and 272 (57.63%) were women. Results Our structural equation model (SEM) indicated that individuals' self-disclosure in topic-based VCs might not directly guide them to acquire social integration. However, intimacy and cognitive communion derived from VC audiences' self-disclosure might not only enhance their social integration, but also improve their psychological well-being. In addition, VC audiences' social integration mediated the relationship between intimacy and psychological well-being, and the relationship between cognitive communion and psychological well-being. Moreover, VC audiences' intimacy was found to have a direct influence on their cognitive communion. Conclusion In the context of topic-based VCs, audiences' self-disclosure could significantly foster their intimacy and cognitive communion with others, and both intimacy and cognitive communion are conductive to VC audiences' social integration. Thus, audiences in topic-based VCs who wish to improve their psychological well-being need to disclose themselves and build corresponding psychological foundations (i.e., intimacy and cognitive communion) to enhance their social integration. Meanwhile, topic-based VCs should pay attention to the cultivation of intimacy and cognitive communion among audiences while encouraging them to reveal themselves.",
+  "raw_path": "01_raw/europepmc_xml/PMC8888404.xml",
+  "text_path": "02_text/europepmc/PMC8888404.txt",
+  "raw_bytes": 177893,
+  "text_chars": 47466,
+  "raw_sha256": "4d8f0890a15d1e0467a8bcba9637c8327e3b733bea50df08c37da002497264da",
+  "text_sha256": "3e017408c7920c07988c98d65713af4d9bb703407ba3f4c49669997bbcfc3415",
+  "retrieved_at": "2026-10-25T13:59:51.137925+00:00"
+}

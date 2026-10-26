@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13018249",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"Although Her Words Said No, Her Actions Spoke Otherwise\": Potential Jurors' Understanding of the \"Reasonable Belief\" Element of Sexual Assault Law.",
+  "authors": "Gillies-Goldsmith T, Beres MA, Zajac R.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/10778012251323863",
+  "pmcid": "PMC13018249",
+  "url": "https://europepmc.org/article/PMC/PMC13018249",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13018249/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types"
+  ],
+  "abstract": "Sexual assault laws in several jurisdictions require jurors to consider whether a defendant \"reasonably believed\" in consent. Using thematic analysis, we explored how potential jurors ( N = 50) make judgments about consent communication and the behaviors that, when informed by the reasonable belief standard, are perceived to communicate (non)consent. Two themes captured the perception that consent is something that is implied, while non-consent is explicit. This narrative supports legal scholars' concerns that the reasonable belief standard is applied in inappropriate ways-prioritizing a defendant's sense of implied consent over a complainant's attempt to refuse and failing to consider the defendant's honesty.",
+  "raw_path": "01_raw/europepmc_xml/PMC13018249.xml",
+  "text_path": "02_text/europepmc/PMC13018249.txt",
+  "raw_bytes": 131947,
+  "text_chars": 63340,
+  "raw_sha256": "3296257ea125173b40d70ba634163394a2a0db9d5735ec7c098615c60142adb9",
+  "text_sha256": "d51e355be9138578c177b630991cbdd961de6213d2f4e231ed6a35dc72031314",
+  "retrieved_at": "2026-10-26T13:27:58.802870+00:00"
+}

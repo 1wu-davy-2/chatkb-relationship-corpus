@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7037474",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychological Correlates of Ghosting and Breadcrumbing Experiences: A Preliminary Study among Adults.",
+  "authors": "Navarro R, Larrañaga E, Yubero S, Víllora B.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.3390/ijerph17031116",
+  "pmcid": "PMC7037474",
+  "url": "https://europepmc.org/article/PMC/PMC7037474",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7037474/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "ghosting"
+  ],
+  "abstract": "The present study aimed to examine differences in three psychological constructs (satisfaction with life, loneliness, and helplessness) among adults experiencing ghosting and breadcrumbing. A sample of 626 adults (303 males and 323 females), aged from 18 to 40 years, completed an online survey asking to indicate whether someone they considered a dating partner had ghosted or breadcrumbed them in the last year and to complete three different scales regarding satisfaction with life, loneliness, and helplessness. The results showed than those participants who had indicated experiencing breadcrumbing or the combined forms (both breadcrumbing and ghosting) reported less satisfaction with life, and more helplessness and self-perceived loneliness. The results from the regression models showed that suffering breadcrumbing would significantly increase the likelihood of experiencing less satisfaction with life, and of having more feelings of loneliness and helplessness. However, no significant relation was found between ghosting and any of the examined psychological correlates.",
+  "raw_path": "01_raw/europepmc_xml/PMC7037474.xml",
+  "text_path": "02_text/europepmc/PMC7037474.txt",
+  "raw_bytes": 108704,
+  "text_chars": 39908,
+  "raw_sha256": "972fcf8fdd405a6d61afcc4dd65b540c5ab581bacc1d13a3b512c55d5ce8bff8",
+  "text_sha256": "7e0dd478fbfdb7774d9b3aa4cd3ac139994ef56dc18ddf468d1ca8cc553dd8f3",
+  "retrieved_at": "2026-10-25T13:55:37.888885+00:00"
+}

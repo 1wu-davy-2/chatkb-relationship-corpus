@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_infidelity",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "不忠",
+  "requested_title": "不忠",
+  "url": "https://zh.wikipedia.org/wiki/%E4%B8%8D%E5%BF%A0",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 不忠",
+  "topics": [
+    "marriage",
+    "relationship"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/infidelity.json",
+  "text_path": "02_text/zh_wikipedia/infidelity.txt",
+  "raw_bytes": 1241,
+  "text_chars": 688,
+  "text_sha256": "87a5ff4ce7a9596345a9f6012697c9e71b42910b7de42d49840795d298346919",
+  "retrieved_at": "2026-10-25T16:27:07.391256+00:00"
+}

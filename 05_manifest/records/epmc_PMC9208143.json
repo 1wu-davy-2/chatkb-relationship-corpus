@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9208143",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Development and validation of the Chinese version of the perceived partner responsiveness scale (C-PPRS).",
+  "authors": "Zhou X, Cai Y, Huang W, Chen Q.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1186/s40359-022-00865-x",
+  "pmcid": "PMC9208143",
+  "url": "https://europepmc.org/article/PMC/PMC9208143",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9208143/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "responsiveness"
+  ],
+  "abstract": "Background Perceived partner responsiveness (PPR) refers to the belief that the relational partner knows and is sensitive and supportive. Instead of translating the English version of the Perceived Partner Responsiveness Scale (PPRS) into Chinese, this study aimed to construct and analyze the psychometric properties of the Chinese version of the Perceived Partner Responsiveness Scale (C-PPRS). On the one hand, some words in the original scale are inappropriate for the Chinese due to cultural differences. On the other hand, we intended the scale to apply just to persons in romantic relationships, not to friends or roommates. Method We conducted two studies. In the first study, 441 participants who completed the C-PPRS were randomly divided into two samples for exploratory factor analysis and confirmatory factor analysis. Concurrent validity was assessed in a group of 224 participants who completed the C-PPRS and the Quality of Relationship Index in the second study. Results The results indicated that the four-factor model (understanding, intimacy, acceptance, and trust) was a feasible representation of the C-PPRS factor structure (χ 2 /df = 2.27, CFI = 0.94, TLI = 0.93, RMSEA = 0.08, SRMR = 0.05) and had robust internal consistency reliability (alpha = 0.90) and concurrent validity (moderately correlated with the Quality of Relationship Index, r = 0.66, p Conclusion PPR is a concept to understand the psychological manifestations of a person who believes that his or her partner is concerned with core characteristics of the self. The C-PPRS has good psychometric characteristics to evaluate such manifestations and can be applied to future intimacy research.",
+  "raw_path": "01_raw/europepmc_xml/PMC9208143.xml",
+  "text_path": "02_text/europepmc/PMC9208143.txt",
+  "raw_bytes": 75236,
+  "text_chars": 28571,
+  "raw_sha256": "a21ff3f9621d3178415142026a76afd29b4981e7782e01821bada9ea56ea38e4",
+  "text_sha256": "e6583ca7f00040a94c57929d1d4ddbcfff10c34843b810a082386d4a99fbd7e7",
+  "retrieved_at": "2026-10-25T13:58:08.421009+00:00"
+}

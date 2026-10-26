@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13296042",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Experiences and Impacts of Intimate Partner Violence Against Men in Northern Ireland: Qualitative Findings from the Male Experiences of Intimate Partner Violence Study.",
+  "authors": "Spikol E, McGlinchey E, Armour C.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/bs16061007",
+  "pmcid": "PMC13296042",
+  "url": "https://europepmc.org/article/PMC/PMC13296042",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13296042/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Intimate partner violence (IPV) affects individuals of all genders and can result in adverse physical, psychological, and social outcomes. Experiences of IPV in men remain understudied when compared with those of cisgender women, leading to considerable gaps in understanding of prevalence, experiences, disclosure, and outcomes. The Male Experiences of Intimate Partner Violence Study (ME-IPV Study) was designed to explore: nature of IPV experiences, physical and psychological impacts, barriers to reporting/disclosing, experiences of disclosure, experiences of support, and support needs in a Northern Ireland (NI) context. This mixed-method study utilised data from N = 10 qualitative interview participants (quantitative results reported separately), analysed using an Interpretative Phenomenological Analysis (IPA) framework. Participants described experiencing multiple forms of IPV, with coercive control, psychological and institutional abuse being highly prevalent. Detrimental effects of their experiences included diagnoses of anxiety, depression, and PTSD, physical symptomology, the advent/exacerbation of multiple health conditions, and suicidal ideation. Barriers to care were primarily a lack of dedicated care pathway, concerns over being believed, and stigmatic barriers. Experiences of disclosure were mixed: positive with family/friends and negative with police and institutions of state. Male experiences of IPV in NI are a significant public health issue and it is evident that the impacts of IPV on men's physical/mental health and wellbeing are profound.",
+  "raw_path": "01_raw/europepmc_xml/PMC13296042.xml",
+  "text_path": "02_text/europepmc/PMC13296042.txt",
+  "raw_bytes": 189918,
+  "text_chars": 76700,
+  "raw_sha256": "8bfe9b3bc588a1eb6cec8119adf29c4fc480faac84e63df3ca231fc728078bd6",
+  "text_sha256": "90950a4f0991fd8582a1896d17cc1ef245c6bd41c41b3c37abbe6cebe6869f15",
+  "retrieved_at": "2026-10-25T15:38:13.142240+00:00"
+}

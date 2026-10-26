@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_cohabitation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "同居",
+  "requested_title": "同居",
+  "url": "https://zh.wikipedia.org/wiki/%E5%90%8C%E5%B1%85",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 同居",
+  "topics": [
+    "relationship"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/cohabitation.json",
+  "text_path": "02_text/zh_wikipedia/cohabitation.txt",
+  "raw_bytes": 1821,
+  "text_chars": 852,
+  "text_sha256": "ce0af5520f494e7eda17a5dbb392eb5ed81c8a9118dcbf45f6d28b5e602f4706",
+  "retrieved_at": "2026-10-25T16:27:03.897985+00:00"
+}

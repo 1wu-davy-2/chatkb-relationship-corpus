@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12206458",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Psychometric Properties of the Persian Version of Emotional Abuse Questionnaire.",
+  "authors": "Shafiei Rezvani Nejad K, Mirpour ZS, Novin MH, Najafi Chenari A, Jafaryparvar Z.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.18502/ijps.v19i4.16553",
+  "pmcid": "PMC12206458",
+  "url": "https://europepmc.org/article/PMC/PMC12206458",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12206458/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "gottman"
+  ],
+  "abstract": "Objective: Intimate partner emotional abuse is a serious issue that can lead to catastrophic outcomes for victims. Emotional abuse involves psychological tactics to control, manipulate, and degrade a person within an intimate relationship. This research aimed to translate the Emotional Abuse Questionnaire (EAQ) developed by Jacobson and Gottman into Persian for use among Iranian university students. Method : The translation of the 66-item EAQ involved a meticulous forward and backward translation process, linguistic matching, and a pilot review. In this cross-sectional study, 346 university students from Rasht, Iran, completed the EAQ. The mean age of participants was 26.78 ± 8.10 years, with most being female (89.0%). Reliability was evaluated using Cronbach's alpha and test-retest analysis while content and face validity were assessed by a panel of experts. Construct validity was examined through confirmatory factor analysis (CFA) and internal consistency measures. Divergent validity was assessed by comparing the EAQ with the ENRICH Marital Satisfaction Scale (EMS). Results: Impact scores for face validity ranged from 2.33 to 3.92, based on respondents' ratings of frequency and importance. Content validity assessment led to removing four items with a CVR below 0.62, resulting in 62 valid items. The EAQ showed strong internal consistency, with a Cronbach's alpha of 0.97, exceeding the acceptable threshold of 0.70. CFA results confirmed the validity of the second-order factor model of the EAQ (χ 2 /df = 4.34, CFI = 0.95, RMSEA = 0.098, SRMR = 0.077). The EAQ demonstrated a strong correlation with EMS measures, confirming divergent validity. Conclusion: The Persian version of the EAQ is a reliable instrument for assessing emotional abuse among Iranian university students. Future research should explore the cultural sensitivity of the questionnaire and investigate associations between emotional abuse and other variables of interest, such as mental health outcomes or relationship dynamics. These avenues promise valuable insights into the frequency and effects of emotional abuse across diverse cultural contexts.",
+  "raw_path": "01_raw/europepmc_xml/PMC12206458.xml",
+  "text_path": "02_text/europepmc/PMC12206458.txt",
+  "raw_bytes": 81439,
+  "text_chars": 30004,
+  "raw_sha256": "6a266917aa4b220ba1466baaa72fdab14c304eb5da410905c864b8fca46edb32",
+  "text_sha256": "6628ed62484b37bca4cea6c25642b1d8e6b018ba56d6ed15a79502cfb4709d6f",
+  "retrieved_at": "2026-10-25T13:52:04.479312+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13629783",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Assessing coercive control in intimate partner relationships: psychometric validation and clinical thresholds of a French version of the Coercive Control Screening Scale (CCSS-F).",
+  "authors": "Le Griguer Atig F, Gonthier C, Magagna T, Delage-Oheix M, Le Roux L, Einloft Brunnet A, Salomé F, Boudoukha AH.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1080/20008066.2026.2694186",
+  "pmcid": "PMC13629783",
+  "url": "https://europepmc.org/article/PMC/PMC13629783",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13629783/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Background: Coercive control is increasingly conceptualized as a chronic relational pattern of domination that may function as a mechanism of traumatization over time. Sustained exposure to intimidation, isolation, surveillance, and credible threat has been linked to post-traumatic stress disorder (PTSD), complex PTSD (CPTSD), and depressive symptomatology. Despite its relevance for trauma-informed assessment, no validated French-language instrument exists, and no empirically derived cutoff score has been established for the original Coercive Control Screening Scale (CCSS). Objective: This study aimed to translate and validate a French version of the CCSS (CCSS-F) and to establish the first empirically derived cutoff score to support clinically meaningful screening of coercive control exposure. Method: Following forward-backward translation and expert panel review, 304 French-speaking women (18-70 years) were recruited, including 225 community participants and 79 women receiving hospital-based psychiatric care for documented intimate partner violence and trauma-related difficulties. Participants completed the CCSS-F and validated measures of battering (WEB), relationship abuse, post-traumatic stress symptoms, depression, relationship dissatisfaction, perceived social support, and social desirability. Factor structure (EFA/CFA), reliability ( α , ω ), construct validity, and receiver operating characteristic (ROC) analyses were conducted. Results: The CCSS-F demonstrated excellent internal consistency ( α and ω > .90) and a stable unidimensional structure. Strong associations were observed with battering and relationship abuse ( ρ > .80), and moderate associations with PTSD and depressive symptoms, supporting convergent validity. Associations with social desirability were non-significant. ROC analyses indicated acceptable discriminatory accuracy (AUC ≈ .78) and supported an empirically derived cutoff score (> 34), representing the first internationally proposed screening threshold for the CCSS. Conclusions: The CCSS-F is a psychometrically robust and clinically grounded screening instrument. By combining validation in a hospital-based trauma sample with the first empirically derived cutoff score, this study advances trauma-informed identification of coercive control and supports its integration into psychotraumatology research and clinical practice.",
+  "raw_path": "01_raw/europepmc_xml/PMC13629783.xml",
+  "text_path": "02_text/europepmc/PMC13629783.txt",
+  "raw_bytes": 172958,
+  "text_chars": 59383,
+  "raw_sha256": "76ac2c18ec5daf590098b552ac7d1d7ec7f97516e30dcffb6bb4fb2517cb2412",
+  "text_sha256": "5048360adec8848bdab7a283bc21a89d06b10637e536b93c27fa4fc434c009ac",
+  "retrieved_at": "2026-10-25T13:50:58.033134+00:00"
+}

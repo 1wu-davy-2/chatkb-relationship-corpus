@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6435157",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Ideal and actual partner assessments in male batterers with different attachment styles.",
+  "authors": "Gonzalez-Mendez R, Jiménez-Ardila O, Ramírez-Santana G.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0214388",
+  "pmcid": "PMC6435157",
+  "url": "https://europepmc.org/article/PMC/PMC6435157",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6435157/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Research analyzing male batterers' views of what constitutes an ideal partner is scarce, and rejected features have not been tested. Analyzing the association of attraction and rejection patterns with attachment could help us understand how these men choose their female partners and the biases that make violence against these women more likely. The objective of this study was to analyze these patterns in male batterers with different attachment styles, considering both their ideal and actual partner assessments and the discrepancies between the two. Participants were 108 male offenders who were serving sentences in Colombian prisons for violence against women. In addition to identifying their attachment styles (secure, dismissive, preoccupied, and fearful), the study had participants assess their ideal and actual partners. The results showed significant differences in their actual partner assessments and in ideal-actual partner discrepancies, but not in their ideals. Secure attachment was related to the best partner assessments (higher scores in positive features and lower scores in negative ones), whereas the fearfully attached participants stood out for showing the worst assessments (higher scores in negative features and lower scores in positive ones). The findings provide evidence of the association of attachment styles with attraction and rejection patterns and offer suggestions for tailoring interventions.",
+  "raw_path": "01_raw/europepmc_xml/PMC6435157.xml",
+  "text_path": "02_text/europepmc/PMC6435157.txt",
+  "raw_bytes": 98260,
+  "text_chars": 29476,
+  "raw_sha256": "6955332d4434feba6b1fb78651ee070dc2082374a7805393444a98c5a9eaadaf",
+  "text_sha256": "13a8552cd434707c5b752fcd6530cd7dbd4efb387efac4aca26727046e1da6db",
+  "retrieved_at": "2026-10-25T15:41:41.258303+00:00"
+}

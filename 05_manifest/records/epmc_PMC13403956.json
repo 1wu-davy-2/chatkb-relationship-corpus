@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13403956",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sculpted by Love: Attachment Security and the Michelangelo Phenomenon.",
+  "authors": "Gu Y, Kumashiro M, Arriaga XB.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/bs16071237",
+  "pmcid": "PMC13403956",
+  "url": "https://europepmc.org/article/PMC/PMC13403956",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13403956/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "The Michelangelo phenomenon describes an interpersonal model of personal growth in which romantic partners affirm each other's ideal selves, thereby enhancing their relational and personal well-being. The present study examined how attachment security relates to this process. Based on cross-sectional data from N = 452 individuals in 258 couples, the results replicated prior work and provided new insights. Greater partner affirmation was associated with higher relationship quality, higher life satisfaction, and lower depression, but was not associated with general anxiety. Movement toward the ideal self mediated the links between partner affirmation and well-being outcomes. Importantly, attachment security (lower attachment anxiety and avoidance) was directly associated with greater partner affirmation and indirectly associated with greater well-being outcomes through partner affirmation and movement toward the ideal self. The effects were particularly robust for lower attachment anxiety, relative to lower attachment avoidance. The findings suggest that attachment security may allow individuals to better rely on close relationships to experience personal growth.",
+  "raw_path": "01_raw/europepmc_xml/PMC13403956.xml",
+  "text_path": "02_text/europepmc/PMC13403956.txt",
+  "raw_bytes": 160868,
+  "text_chars": 54395,
+  "raw_sha256": "48d95aaf97f71449cdbda39d8d492dc8d816cf57a9a4341228e1153226738462",
+  "text_sha256": "00b7b62be43bc88af651c82ad1afca54aca1d68f5dfbd7ab2fd219eadd4bc4d8",
+  "retrieved_at": "2026-10-25T14:01:55.585109+00:00"
+}

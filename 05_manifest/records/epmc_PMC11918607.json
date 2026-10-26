@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11918607",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "What Does It Take to Make an Incel: The Role of Paranoid Thinking, Depression, Anxiety, and Attachment Patterns.",
+  "authors": "Fontanesi L, Marchetti D, Cosi G, Limoncin E, Jannini EA, Verrocchio MC, Ciocca G.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1155/2024/5512878",
+  "pmcid": "PMC11918607",
+  "url": "https://europepmc.org/article/PMC/PMC11918607",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11918607/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "incel"
+  ],
+  "abstract": "Background The term \"incel\" (involuntary celibate) refers to the members of an online subculture, mainly composed of heterosexual men. These individuals find it difficult or impossible to have a romantic and/or sexual partner, and they express extreme anger and resentment toward women, as they hold them accountable for their \"inceldom.\" In recent years, online and offline acts of violence have been perpetrated by incels, raising concern at social and political levels. This study aims to understand the personal, psychological, and psychopathological variables that may contribute to developing incel traits. Materials and methods A total of 800 Italian heterosexual cisgender men were recruited by a link to the survey forwarded on social networks. Participants have completed a sociodemographic questionnaire and a set of psychometric tests to assess incels' personality traits, attachment patterns, paranoia, anxiety, and depression. Results Positive correlations among incel personality traits and psychopathological symptoms and insecure attachment were found. Hierarchical regression analysis showed the significant role of paranoid thinking, insecure attachment, depression, and anxiety symptoms in the presence of incels' personality traits. Conclusion Therefore, the assessment of these psychopathological aspects could help clinicians, parents, and teachers to early identify young males that can be caught in the inceldom and to develop specific intervention programs to prevent violence.",
+  "raw_path": "01_raw/europepmc_xml/PMC11918607.xml",
+  "text_path": "02_text/europepmc/PMC11918607.txt",
+  "raw_bytes": 176162,
+  "text_chars": 33587,
+  "raw_sha256": "5bcdf9a6a0c06ef19934a962479c72454526a92dbbe3543e13fadf7c394294ea",
+  "text_sha256": "edfbba4d4255e137a7575ea518851aea3bbd15ee55c407bd38afd6d68525d148",
+  "retrieved_at": "2026-10-25T15:27:38.998381+00:00"
+}

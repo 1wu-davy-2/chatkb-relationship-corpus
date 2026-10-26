@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10121698",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Using Observational Dyadic Methods in Youth Mentoring Research: Preliminary Evidence of the Role of Actors' and Partners' Self-disclosure in Predicting Relationship Quality.",
+  "authors": "Dutton H, Deane KL, Overall NC.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1007/s10964-023-01757-y",
+  "pmcid": "PMC10121698",
+  "url": "https://europepmc.org/article/PMC/PMC10121698",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10121698/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_disclosure"
+  ],
+  "abstract": "Self-disclosure builds high quality relationships, but knowledge of self-disclosure in youth mentoring relationships is limited by a lack of research and reliance on self-reports. To demonstrate the value of observational methods and dyadic modeling of mentoring communication processes, this study examined the associations between behavioral observation of self-disclosure and self-reported relationship quality in 49 mentee-mentor dyads (mentees: 73.5% female; x̄ age = 16.2, range = 12-19; mentors: 69.4% female; x̄ age = 36.2, range = 19-59). Video-recorded observations of disclosure were coded on three dimensions: amount (number of topics and detail of disclosure), intimacy (disclosure of personal or sensitive information), and openness (willingness to disclose). More intimate mentor disclosure was associated with higher mentee relationship quality, whereas higher amount of mentor disclosure combined with low intimacy was associated with lower mentee relationship quality. Greater mentee openness correlated with higher mentor relationship quality, but more intimate mentee disclosures were associated with lower mentee relationship quality. These preliminary findings illustrate the potential of methods that enable in-depth investigation of dyadic processes to advance understanding of how behavioral processes may influence mentoring relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC10121698.xml",
+  "text_path": "02_text/europepmc/PMC10121698.txt",
+  "raw_bytes": 105178,
+  "text_chars": 53350,
+  "raw_sha256": "d3bb1e9cc81eb59f1a970db7d9bbafdef2cfb6c1f155d97ab40a3827789ea848",
+  "text_sha256": "c88b7a7708bfa85914f6caaabb07472fcb201d53756a52934a80c568fd86dc34",
+  "retrieved_at": "2026-10-25T13:57:48.195284+00:00"
+}

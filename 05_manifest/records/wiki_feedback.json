@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_feedback",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "反馈",
+  "requested_title": "反馈",
+  "url": "https://zh.wikipedia.org/wiki/%E5%8F%8D%E9%A6%88",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "communication",
+    "workplace"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/feedback.json",
+  "text_path": "02_text/zh_wikipedia/feedback.txt",
+  "raw_bytes": 8896,
+  "text_chars": 3541,
+  "text_sha256": "1df71e3bbbe645e25e23fc9c3989604965915efae3600ff76596588a4cb26f8d",
+  "retrieved_at": "2026-10-25T16:06:07.173752+00:00"
+}

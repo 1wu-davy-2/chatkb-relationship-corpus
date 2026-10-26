@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13406130",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Q Methodological Study on Algorithmic Intimacy, Social Connection, Well-Being, and the Boundaries of Autonomy in University Students' Conversational Artificial Intelligence Experiences.",
+  "authors": "Moon KY, Shim T.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/bs16071258",
+  "pmcid": "PMC13406130",
+  "url": "https://europepmc.org/article/PMC/PMC13406130",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13406130/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "This study explores how university students experience conversational artificial intelligence (AI) in the era of generative AI from the perspectives of algorithmic intimacy, social connection, well-being, and autonomy, and identifies their subjective meaning structures. Specifically, it examines how university students perceive conversational AI in relation to emotional regulation, self-understanding, relational boundaries, and autonomy, and how these perceptions relate to intimacy and well-being. Unlike previous studies focused primarily on AI use and acceptance, this study analyses how students interpret their experiences with conversational AI and negotiate relational boundaries. Using Q methodology, we developed 40 Q statements from literature review and in-depth interviews. Fifty-six university students in South Korea with experience using conversational AI completed the Q-sorting process. A four-factor solution explained 55% of the total variance and yielded four distinct types: (1) Relationship-Negating Instrumentalists, (2) Selective Emotional Utilizers, (3) Reflective Distancers, and (4) Autonomy Defenders. Although none of the groups viewed AI as a complete substitute for human relationships, they differed in their acceptance of algorithmic intimacy, use of AI for emotional support and regulation, concerns about dependence, and efforts to protect autonomy. These findings suggest that conversational AI experiences involve negotiating intimacy and boundaries rather than producing uniformly positive or negative outcomes. This study complements variable-centred approaches by identifying distinct subjective meaning structures in university students' human-AI relationship experiences.",
+  "raw_path": "01_raw/europepmc_xml/PMC13406130.xml",
+  "text_path": "02_text/europepmc/PMC13406130.txt",
+  "raw_bytes": 243393,
+  "text_chars": 78184,
+  "raw_sha256": "37a4320958e2747e7d1604186e082388ec0959b6733cf5c2e6fc43a9625ae989",
+  "text_sha256": "6d808caafbfe508605365c535320e862169304bcd736903c9bbde95006b94253",
+  "retrieved_at": "2026-10-25T13:57:28.646495+00:00"
+}

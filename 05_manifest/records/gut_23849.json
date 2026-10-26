@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_23849",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "牡丹亭",
+  "gutenberg_id": "23849",
+  "url": "https://www.gutenberg.org/ebooks/23849",
+  "download_url": "https://www.gutenberg.org/cache/epub/23849/pg23849.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/23849.txt",
+  "text_path": "02_text/gutenberg/gut_23849_牡丹亭.txt",
+  "raw_bytes": 202055,
+  "text_chars": 60983,
+  "text_sha256": "d2cbcc1a3e9ce3da50f6e50759ef226e8fdfe267c301077d0b45d4255a583a3e",
+  "retrieved_at": "2026-10-25T15:50:56.844252+00:00"
+}

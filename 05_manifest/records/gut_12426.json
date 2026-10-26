@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_12426",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Routledge's Manual of Etiquette",
+  "gutenberg_id": "12426",
+  "url": "https://www.gutenberg.org/ebooks/12426",
+  "download_url": "https://www.gutenberg.org/cache/epub/12426/pg12426.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/12426.txt",
+  "text_path": "02_text/gutenberg/gut_12426_routledge_s_manual_of_etiquette.txt",
+  "raw_bytes": 534378,
+  "text_chars": 494629,
+  "text_sha256": "59e384c260ca73a341421dc023a336574a864f8077628a5f8006a4434cffac7a",
+  "retrieved_at": "2026-10-25T15:45:32.287308+00:00"
+}

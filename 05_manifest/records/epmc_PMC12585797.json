@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12585797",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Subjective Cognitive Decline, Inter-Personal Attachment Style and Relationship Quality.",
+  "authors": "Eshmawey M, Kagerer SM, Ribaldi F, Fall AB, Unschuld PG.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1002/jgf2.70076",
+  "pmcid": "PMC12585797",
+  "url": "https://europepmc.org/article/PMC/PMC12585797",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12585797/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Background Subjective cognitive decline (SCD) is characterized by the perception of cognitive dysfunction, and it could be one of the early signs of dementia. While SCD is a common phenomenon in old persons, little is known about how it affects interpersonal relationships. Methods We conducted a cross-sectional study involving 16 patients with SCD and 39 volunteers recruited from the COSCODE study. The Hazan and Shafer questionnaires were used to assess patients' attachment styles. The Experience in Close Relationships Scale was used to assess individual differences in attachment-related anxiety and attachment-related avoidance. A Wilcoxon rank-sum test was performed to test for differences between groups, and p -values were Bonferroni-corrected. Results SCD is associated with lower disorganized attachment scores ( p = 0.01). SCD was not associated with experience in close relationships. Conclusion Coping with progressive cognitive decline is a difficult mission. The results of our study on persons with SCD help us to better understand changes in couple relationships before the onset of dementia.",
+  "raw_path": "01_raw/europepmc_xml/PMC12585797.xml",
+  "text_path": "02_text/europepmc/PMC12585797.txt",
+  "raw_bytes": 77594,
+  "text_chars": 19553,
+  "raw_sha256": "964a67630cf080898fa11da93f20df66a4bf2e3ba8353d8c3a5403a4683bcf7f",
+  "text_sha256": "d8eca8fbb63b69b0f174e98f2a96d71f8137b08cee94db55be53b8153bd10f06",
+  "retrieved_at": "2026-10-25T15:43:48.229994+00:00"
+}

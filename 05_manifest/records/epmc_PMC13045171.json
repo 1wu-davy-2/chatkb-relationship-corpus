@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13045171",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Caregiving experiences of older spouses with frailty: an exploratory qualitative study.",
+  "authors": "Zhang N, Tao A, Kong D, Chan HYL.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1080/17482631.2026.2650369",
+  "pmcid": "PMC13045171",
+  "url": "https://europepmc.org/article/PMC/PMC13045171",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13045171/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "Purpose Spouses often assume the responsibility of caring for their partners in advanced age, given their intimate relationships. However, less attention has been given to understanding their unique needs during caregiving. This study aims to explore the spouses' experience of caring for a partner with frailty in older couples. Method An exploratory qualitative study was conducted through focus group interviews. The interviews were transcribed verbatim and analysed using qualitative content analysis. Results A total of 23 participants were interviewed in three focus groups. Their average age was 68.4 (SD 7.6) years, and the average duration of marriage or cohabitation was 43.2 (SD 13.4) years. Most of them were female (69.6%) and had a primary school education or lower (60.9%). Three categories were identified, namely, impacts of caregiving responsibilities, caregiving resources and coping strategies. Conclusion This qualitative study reveals that the caregiving experiences perceived by spousal caregivers are influenced by the availability of caregiving resources and appropriateness of individual coping skills for counteracting the impacts brought by the caregiving responsibilities for partners with frailty. It points to the need for multidimensional interventions that offer both psychological and practical support to spousal caregivers.",
+  "raw_path": "01_raw/europepmc_xml/PMC13045171.xml",
+  "text_path": "02_text/europepmc/PMC13045171.txt",
+  "raw_bytes": 104708,
+  "text_chars": 34259,
+  "raw_sha256": "db9c389a9b9b8b9b0e325280fcadcb85a695a6caea3985dc755e04227dcbfcab",
+  "text_sha256": "69aaf7151069378baa55b6a46af1adbeaab57ecad09f508bd44bc67a599ed025",
+  "retrieved_at": "2026-10-25T15:35:22.042240+00:00"
+}

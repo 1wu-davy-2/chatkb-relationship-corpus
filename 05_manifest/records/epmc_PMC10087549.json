@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10087549",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Couple therapy in the 2020s: Current status and emerging developments.",
+  "authors": "Lebow J, Snyder DK.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1111/famp.12824",
+  "pmcid": "PMC10087549",
+  "url": "https://europepmc.org/article/PMC/PMC10087549",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10087549/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "This paper provides a critical analysis and synthesis of the current status and emerging developments in contemporary couple therapy. Its narrative centers on the evolution of couple therapy into a prominent intervention modality and coherent body of practice. The review begins with the consideration of the field's strong empirical underpinnings derived from research on couple therapy and basic relational science. Couple therapy comprises the widely accepted method for reducing relationship distress and enhancing relationship quality. Moreover, both as a stand-alone intervention and in conjunction with other treatment formats, couple-based interventions have garnered considerable empirical support for their effectiveness in addressing a broad spectrum of specific relational dysfunctions as well as individual emotional and physical health problems. We highlight the convergence of methods through common factors, shared strategies, and remarkably similar arrangements across approaches. Our review also points to key differences among approaches, the importance of recognizing respective strengths and limitations linked to these differences, and building on differences across models when selecting and tailoring interventions for a given couple. The discussion concludes with a consideration of recent trends in the field including the impact of telehealth and related digital technologies, the expansion of specific treatments for specific problems and diverse populations, the interface of couple therapy with relationship education, and enduring challenges as well as new opportunities addressing broader systemic and global dynamics.",
+  "raw_path": "01_raw/europepmc_xml/PMC10087549.xml",
+  "text_path": "02_text/europepmc/PMC10087549.txt",
+  "raw_bytes": 220343,
+  "text_chars": 87015,
+  "raw_sha256": "de00e2de349a927e1e5b1d7c05da93814905b3ceb74345dc7721bf7e8d1c9a2b",
+  "text_sha256": "6b5e8322c90da2ad87772f2e0175467d781e179a03a0b7ca412798a785dfbb14",
+  "retrieved_at": "2026-10-25T15:46:46.637744+00:00"
+}

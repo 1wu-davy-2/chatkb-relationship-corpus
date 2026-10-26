@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8669216",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Long-distance texting: Text messaging is linked with higher relationship satisfaction in long-distance relationships.",
+  "authors": "Holtzman S, Kushlev K, Wozny A, Godard R.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1177/02654075211043296",
+  "pmcid": "PMC8669216",
+  "url": "https://europepmc.org/article/PMC/PMC8669216",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8669216/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "texting"
+  ],
+  "abstract": "Due to the widespread use of smartphones, romantic couples can connect with their partners from virtually anywhere, at any time. Remote communication may be particularly important to long-distance relationships (LDRs), compared to geographically close relationships (GCRs). The goals of the current research were to examine differences between LDRs and GCRs in (1) the patterns of remote communication (video calls, voice calls, and texting), and (2) how frequency and responsiveness of remote communication are related to relationship satisfaction. Data were drawn from an online survey of emerging adults ( n = 647) who were in a relationship or dating someone (36.5% were in an LDR). Participants in LDRs engaged in more frequent video calling, voice calling and texting, compared to those in GCRs. Long-distance relationship participants also perceived their partners to be more responsive during video and voice calls, compared to GCR participants. More frequent and responsive texting predicted significantly greater relationship satisfaction among participants in LDRs, but not GCRs. Meanwhile, frequency of voice calls was associated with greater relationship satisfaction in GCRs, but not in LDRs. The use of video calls was not significantly related to relationship satisfaction in either group. Overall, study findings add to a growing literature on remote communication in romantic couples and suggest a uniquely positive role of texting within LDRs. Further research is needed to examine the ways in which LDR and GCR couples can best capitalize on different forms of remote technology to maintain their relationships during periods of separation.",
+  "raw_path": "01_raw/europepmc_xml/PMC8669216.xml",
+  "text_path": "02_text/europepmc/PMC8669216.txt",
+  "raw_bytes": 153317,
+  "text_chars": 45489,
+  "raw_sha256": "3f584a1ec094344f2c25f674e0957e32234e59ae9e3ad9e9cd956e0611a6bf65",
+  "text_sha256": "b021979d33963cc8562277ac72d03b6f54ae5963f671a37261f5ca41fdfed02e",
+  "retrieved_at": "2026-10-25T15:28:01.463131+00:00"
+}

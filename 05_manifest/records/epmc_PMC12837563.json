@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12837563",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"Mind 4 Partner Abuse\" Task: Assessment of Cognitive Patterns in Young Adults and Their Romantic Relationship Perceptions.",
+  "authors": "Mammarella S, Giusti L, Yılmaz-Karaman İG, Salza A, Casacchia M, Roncone R.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs16010004",
+  "pmcid": "PMC12837563",
+  "url": "https://europepmc.org/article/PMC/PMC12837563",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12837563/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "assertiveness_boundaries"
+  ],
+  "abstract": "Toxic romantic relationships, a popular term referring to intimate partner violence (IPV) characterized by psychological, physical, and sexual violence, are a growing concern among young people. This pilot study aimed to preliminarily validate the vignette task on IPV, the \"Mind 4 partner abuse\" task, and to investigate the cognitive patterns and emotional profiles concerning IPV. Our research involved 228 university students from the University of L'Aquila who participated in an online psychoeducational program to raise awareness of the risks of IPV. Participants completed the \"Mind 4 partner abuse\" task, which included five vignettes depicting escalating violence in relationships. The task assessed participants' emotional responses (anger, anxiety/fear, sadness, shame/guilt) and cognitive responses (functional-assertive or dysfunctional) to each vignette. In addition, for convergent validation, the Interpersonal Reactivity Index (IRI) was administered to assess empathic abilities. Five distinct factors were identified: active coping and legal awareness (ACLA), emotional distress (ED), assertiveness and autonomy defense (AAD), assertive reaction and self-empowerment (ARSE), and refusal of public humiliation and dignity assertion (RDA). One factor out of the five, emotional distress (ED), identified a dysfunctional cognitive pattern. The instrument showed a good convergent validity with the IRI. The correlation analysis showed that the IRI personal distress scale was negatively associated with ACLA and positively associated with ED. The IRI Empathic Concern scale was positively associated with RDA. In the dysfunctional cognitive pattern, as measured by the \"Mind 4 Partner Abuse\" vignette task, the ED factor was positively correlated with anxiety, sadness, shame, and guilt. The potential of the vignette task to identify high-risk cognitive profiles is promising, but it has yet to be confirmed. Given the limitations of the study, the findings offer only preliminary indications of cognitive patterns in young adults and their perceptions of romantic relationships, as assessed through a psychoeducational intervention. Further research with larger and more diverse samples, as well as more robust task designs, is necessary before firm conclusions can be drawn.",
+  "raw_path": "01_raw/europepmc_xml/PMC12837563.xml",
+  "text_path": "02_text/europepmc/PMC12837563.txt",
+  "raw_bytes": 150112,
+  "text_chars": 44554,
+  "raw_sha256": "7ae2d693d535bba9c6a9193aab712171f6f82d0343f7eeb726443eae89f92d1d",
+  "text_sha256": "84f38422c4fa303b3123ea5ff375087dc216a62b53faa2b2df8900bbcee6e562",
+  "retrieved_at": "2026-10-25T15:26:41.899914+00:00"
+}

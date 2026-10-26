@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11662556",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Assessment of intimate partner violence victimization and its association with the psychological state of abused women and social support in Saudi Arabia: a cross-sectional study.",
+  "authors": "Innab A, Shaqiqi W, Alammar K, Alshammari A, Shaqiqi R.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s12889-024-20698-0",
+  "pmcid": "PMC11662556",
+  "url": "https://europepmc.org/article/PMC/PMC11662556",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11662556/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Background Intimate partner violence (IPV) against women is a significant global concern, profoundly affecting physical, psychological, sexual, and financial well-being. Its prevalence is notably high in conservative societies including Saudi Arabia (SA). Given the limited research on the role of social support in IPV within SA. This study aimed to assess IPV victimization and its association with the psychological state of abused women in SA, and the effects of social support on the women's experience of IPV. Methods A total of 128 women participated in this cross-sectional study. Data were collected from September 2022 to March 2023 using the World Health Organization Multi-Country Violence Against Women, the General Health Questionnaire, and the Multi-Dimensional Scale of Perceived Social Support. Results One-quarter of women experienced at least one type of IPV, with more than half of them experienced financial (65.6%), sexual (53.9%), emotional (57.8%), controlling behavior (43.8%) and physical (39.8%) abuse. IPV victimization, be it physical, emotional, or sexual abuse, and IPV frequency were positively correlated with psychological distress (M = 15.05, SD = 6.82, p = .009), anxiety and depression (M = 6.29, SD = 2.57, p = .004), and loss of confidence (M = 2.57, SD = 1.90, p Conclusions The conclusion was that IPV can cause psychological distress, anxiety, depression, and loss of confidence and can be buffered by social support. Given its prevalence and impact on mental health, it is crucial to establish strict policies and regulations to prevent IPV and provide effective interventions and support for abused women.",
+  "raw_path": "01_raw/europepmc_xml/PMC11662556.xml",
+  "text_path": "02_text/europepmc/PMC11662556.txt",
+  "raw_bytes": 133613,
+  "text_chars": 44113,
+  "raw_sha256": "a65b212a23a1e5b2324afa5b732f65f0f3c949b9050848b965b600b94f09137e",
+  "text_sha256": "dda2701bd86c10c56853536c8ceb604ef809ef06b079aea790c7c063ed490492",
+  "retrieved_at": "2026-10-25T15:45:17.414341+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_psychotherapy",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "心理治療",
+  "requested_title": "心理治疗",
+  "url": "https://zh.wikipedia.org/wiki/%E5%BF%83%E7%90%86%E6%B2%BB%E7%99%82",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "mental_health",
+    "help"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/psychotherapy.json",
+  "text_path": "02_text/zh_wikipedia/psychotherapy.txt",
+  "raw_bytes": 4168,
+  "text_chars": 1637,
+  "text_sha256": "69301c2810f6f0b05c6e7cd79f507bb2d36f21ca017e0f51441460b2bffee773",
+  "retrieved_at": "2026-10-25T15:33:11.826328+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10913346",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Self-Compassion, Health, and Empowerment: A Pilot Randomized Controlled Trial for Chinese Immigrant Women Experiencing Intimate Partner Violence.",
+  "authors": "Li Y, Rhee H, Bullock LFC, McCaw B, Bloom T.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/08862605231207624",
+  "pmcid": "PMC10913346",
+  "url": "https://europepmc.org/article/PMC/PMC10913346",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10913346/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "Chinese immigrant survivors of men's violence experience both significant mental health impacts from abuse and barriers to formal services. Therefore, we examined the preliminary efficacy of an innovative mobile-based empowerment-based intervention (self-compassion, health, and empowerment; SHE) that specifically focuses on abused Chinese immigrant women in the US. This pilot study used a two-arm randomized controlled design with repeated measures. A convenience sample ( N = 50) of Chinese immigrant women who experienced past year intimate partner violence (IPV) were recruited online and randomly assigned to the intervention or control group (25 per group). We assessed IPV exposure, safety behaviors, depressive symptoms, anxiety symptoms, post-traumatic stress disorder (PTSD) symptoms, and self-compassion at baseline, post-intervention, and 8-week follow-up. Of 95 eligible participants, 50 (52.6%) agreed to participate and completed baseline data collection; intervention completion rate was 64%. We found a significant group and time interaction for self-judgment (a self-compassion component), with a significant reduction seen in the intervention group compared to the control group. Despite no other significant group differences observed over time, the intervention group showed consistent trends toward improvements in most outcome measures, including specific types of IPV (i.e., negotiation, psychological aggression, and sexual coercion), depressive and PTSD symptoms, self-compassion, and certain components of self-compassion (i.e., isolation and over-identification) when compared to the control group. Our findings suggest that the SHE intervention shows promise in improving the mental health well-being of Chinese immigrant survivors. However, a fully powered randomized controlled trial is warranted to determine its efficacy. Our intervention has the potential to be translated in the Chinese immigrant populations with the necessary organizational support.",
+  "raw_path": "01_raw/europepmc_xml/PMC10913346.xml",
+  "text_path": "02_text/europepmc/PMC10913346.txt",
+  "raw_bytes": 134734,
+  "text_chars": 35654,
+  "raw_sha256": "925d0df4a6e1bf121d1d94dc7a14f897e0f1d037172aa5d0859da9266300d32c",
+  "text_sha256": "a8418c536fe5af77ea574f49f2a1e11ea4f782d87537f49257411dac7a9aa365",
+  "retrieved_at": "2026-10-26T13:12:11.393523+00:00"
+}

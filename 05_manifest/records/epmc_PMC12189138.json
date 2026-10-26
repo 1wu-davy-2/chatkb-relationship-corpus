@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12189138",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Furthering Our Understanding of Post-Traumatic Mental Health Conditions and Intimate Relationship Outcomes in Veterans of the Wars in Afghanistan and Iraq.",
+  "authors": "Azubuike CAT, Crenshaw AO, Monson CM.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15060719",
+  "pmcid": "PMC12189138",
+  "url": "https://europepmc.org/article/PMC/PMC12189138",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12189138/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "Objective Although there has been substantial research on post-traumatic stress disorder and its commonly comorbid conditions, the unique associations among these mental health symptoms and relationship adjustment have not been investigated. The purpose of this paper is to extend understanding of the associations among PTSD and relationship adjustment for female and male veterans, as well as to account for the impact of comorbid symptoms of depression and problematic alcohol use in a large sample. Method Participants were 2325 ( n = 1122 men and 1203 women) veterans of the wars in Iraq and Afghanistan from a larger study exploring wartime experiences and post-deployment adjustment. Chi-square analyses and regressions tested the associations among mental health symptoms (PTSD symptom severity, depressive symptoms, and problematic alcohol use) and relationship status and adjustment. Results For both men and women, those with probable PTSD were less likely to be in an intimate relationship than those without probable PTSD, and those in intimate relationships had lower PTSD symptom severity compared with those not in intimate relationships. However, when accounting for PTSD, depression, and problematic alcohol use simultaneously, only depression emerged as a significant negative predictor of relationship adjustment. Conclusions Shared variance among these common post-traumatic mental health conditions comorbidities may be most responsible for PTSD's negative association with relationship adjustment. Unique remaining variance of depression is also negatively associated with relationship adjustment. Treatment implications of these findings for individual and couple therapy post-trauma are provided.",
+  "raw_path": "01_raw/europepmc_xml/PMC12189138.xml",
+  "text_path": "02_text/europepmc/PMC12189138.txt",
+  "raw_bytes": 76612,
+  "text_chars": 17055,
+  "raw_sha256": "0bb5139e7ca4e8d778fb0b7aee20ce90c9c464d528f6dcae1856571b7fc00c18",
+  "text_sha256": "53f3e06ca4e37cef0b5958e1684f8d618e73ff0b6a793ed2931465bbeda261cf",
+  "retrieved_at": "2026-10-25T15:49:07.827841+00:00"
+}

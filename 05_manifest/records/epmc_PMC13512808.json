@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13512808",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Scoping Review of IPV Prevention Curricula and Their Implementation in Low- and Middle-Income Countries: Implications for the Next Generation of Programs.",
+  "authors": "Doyle K, Levtov RG, Rolleri L, Stern E, Heise L.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/ijerph23080989",
+  "pmcid": "PMC13512808",
+  "url": "https://europepmc.org/article/PMC/PMC13512808",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13512808/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "Curriculum-based programs are one of the most common and effective strategies for preventing intimate partner violence (IPV) in low- and middle-income countries (LMICs). Yet relatively little is known about how curricula and their implementation compare across programs, limiting learning and innovation. This scoping review examined the design, content, and implementation of 55 curricula from 42 programs implemented in 23 LMICs between 2001 and 2024. Curricula were identified through screening systematic reviews, grey literature, donor reports, and professional contacts. Data on program characteristics, subject matter, methodologies, and implementation were extracted, synthesized, and analyzed. We found curricula employed similar participatory methodologies and content, and violence, gender, relationships, power, and communication emerged as core topics. Adaptation of earlier programming was widespread: only five curricula did not cite content adapted from an earlier program. Key gaps included the relatively limited use of evidence-based strategies to build relationship skills and content addressing alcohol use and poor mental health, important IPV risk factors. Implementation varied considerably in terms of intensity, frequency, duration, group size, facilitators and their training, and information on some features was sparse. The findings highlight several opportunities for strengthening and innovation, for which we present six recommendations to guide future IPV prevention programming.",
+  "raw_path": "01_raw/europepmc_xml/PMC13512808.xml",
+  "text_path": "02_text/europepmc/PMC13512808.txt",
+  "raw_bytes": 286205,
+  "text_chars": 96207,
+  "raw_sha256": "7f44fe63242275452b64531bd9c05c3ea60d6838c9f5623c5e841fbedacc9383",
+  "text_sha256": "5f6576df42f0b91023b3cfee9e91ee8578e82ce8a95d091ff973ad974a4fa390",
+  "retrieved_at": "2026-10-25T13:52:12.120387+00:00"
+}

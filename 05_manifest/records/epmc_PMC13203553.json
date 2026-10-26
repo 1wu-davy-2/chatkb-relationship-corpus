@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13203553",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Parental Education as a Tool for Sustainable Development: The Role of Self-Efficacy and Relationship Satisfaction in Family Well-Being.",
+  "authors": "Roxana Mariana C, Sabin C.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/bs16050692",
+  "pmcid": "PMC13203553",
+  "url": "https://europepmc.org/article/PMC/PMC13203553",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13203553/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "Family and parental education are increasingly recognized as key levers for sustainable development and family well-being. This study examines whether an online parental intervention program focused on strengthening parental self-efficacy can improve parents' relationship satisfaction and couple satisfaction. A sample of 50 Romanian parents with below-average levels of parental self-efficacy and relationship satisfaction was randomly assigned to an experimental group and a control group. Participants in the experimental group attended the \"Confident Parents\" program over three months, while the control group received no structured intervention. Pre- and post-test data were collected using standardized measures of parental self-efficacy, couple satisfaction, and relationship satisfaction. Data analysis combined non-parametric Wilcoxon signed-rank tests with linear regression and moderation analysis. The results showed significant pre-post improvements in parental self-efficacy, relationship satisfaction, and couple satisfaction in the experimental group, with no meaningful changes in the control group. Post-test, parental self-efficacy significantly predicted both relationship satisfaction and couple satisfaction, and moderation analyses indicated that this predictive relationship was stronger for parents in the intervention group. These findings suggest that parental education programs centered on self-efficacy can contribute to more satisfying couple and family relationships, supporting psychological well-being and the broader goals of sustainable family functioning.",
+  "raw_path": "01_raw/europepmc_xml/PMC13203553.xml",
+  "text_path": "02_text/europepmc/PMC13203553.txt",
+  "raw_bytes": 146436,
+  "text_chars": 51785,
+  "raw_sha256": "5705cc0a8b1b03d5ac69c1c251a6a2160f52e7566111b82733c8a0d192bdf12e",
+  "text_sha256": "ac9f4717cb0ce87d2d1f7c3f5dff5d65202c673862962315e5c0b01b9850a6db",
+  "retrieved_at": "2026-10-25T13:49:33.555571+00:00"
+}

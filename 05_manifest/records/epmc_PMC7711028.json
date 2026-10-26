@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7711028",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Gender role conflict: Is it a predictor of marital dissatisfaction? A cross sectional study in Tehran.",
+  "authors": "Pourshahbaz A, Eftekhar Ardebili M, Dolatshahi B, Ranjbar H, Taban M.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.34171/mjiri.34.84",
+  "pmcid": "PMC7711028",
+  "url": "https://europepmc.org/article/PMC/PMC7711028",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7711028/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "gender_roles"
+  ],
+  "abstract": "Background: Gender role, sex-oriented attitudes, behaviors, cognitions, and emotions play an essential role in interpersonal relationships. Along with other factors, marital relationships and satisfaction can also be affected by a person's gender role. The increased rate of divorce is related to a decrease in marital satisfaction. The aim of this study was to evaluate the predictor power of gender role conflict on marital satisfaction considering the role of demographic variables (age, income, number of children, and number of family members), marriage-related factors (duration of the marriage, family functioning), and mental health disorder. Methods: This was a cross sectional study. Participants were selected from couples who were attending West of Tehran health center. A total of 123 married couples aged 18 to 60 years who did not have mental or other medical disorders were recruited. Data gathering tools were McMaster Family Assessment Device (FAD), ENRICH Marital Satisfaction Scale, Bem Sex-Role Inventory (BSRI), a sociodemographic questionnaire, and Brief Symptom Inventory (BSI). Pearson correlation, chi-square, t test, ANOVA, Scheffe post hoc, and linear regression tests were used to analyze the data. Data were analyzed using SPSS 16, and in all statistical tests, significance level was set at p Results: No significant correlations were observed between marital satisfaction and age, number of family members, duration of the marriage, number of children, and income (p>0.05). The presence of gender role conflict was correlated with lower marital satisfaction. Family functioning, gender role conflict, and presence of psychotic problems were predictors of marital satisfaction (p Conclusion: Screening couples who applied for divorce due to psychiatric problems and gender role conflict and evaluating their family functioning may have a positive effect on reduction of divorce rate.",
+  "raw_path": "01_raw/europepmc_xml/PMC7711028.xml",
+  "text_path": "02_text/europepmc/PMC7711028.txt",
+  "raw_bytes": 89444,
+  "text_chars": 28922,
+  "raw_sha256": "2cdadbd83e19a0d38632f2fd3b025d3f7eb81958aee39acba8c28443b1cc4033",
+  "text_sha256": "eb20f9b0ae44cb325c5a1ecde2b7d5aadec65f8fab0ed974061fb50a1002d2f3",
+  "retrieved_at": "2026-10-25T15:33:34.700803+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7551964",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Jealousy Incarnate : Quiet Ego, Competitive Desire, and the Fictional Intelligence of Long-Term Mating in a Romantic K-Drama.",
+  "authors": "Lucchi Basili L, Sacco PL.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.3390/bs10090134",
+  "pmcid": "PMC7551964",
+  "url": "https://europepmc.org/article/PMC/PMC7551964",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7551964/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "In this paper, we analyze a K-drama aired by the Korean TV network SBS in 2016, Jealousy Incarnate , as a case study of the application of the Tie-Up Theory to a romantic narrative as a form of simulation of human mating processes with social cognition valence. We find that this case provides us with an example of a mating process where the choice of the male partner by the female lead character does not privilege the one that should be preferable on the basis of the standard prediction of the experimental research on human mating. This discrepancy is a signal of a basic limitation of experimental research, that highlights the subjects' preferences for abstract potential partners but is not able to fully account for the mechanisms that lead to the choice of a specific partner in a specific mating interaction. We argue that the narrative simulation viewpoint provides insights that are complementary to those of experimental research, and that a more comprehensive theoretical approach, such as the one offered by the Tie-Up Theory, may be helpful to account for both perspectives.",
+  "raw_path": "01_raw/europepmc_xml/PMC7551964.xml",
+  "text_path": "02_text/europepmc/PMC7551964.txt",
+  "raw_bytes": 139261,
+  "text_chars": 63266,
+  "raw_sha256": "896ab343d7f65c0afa663fb2969aea7773af81d365001ffb6b35c7abf197dd31",
+  "text_sha256": "78d16276abde3870bb2c5e8df13bf32b4580e95c3efaaabaf7335e573dab3de2",
+  "retrieved_at": "2026-10-25T15:46:07.922259+00:00"
+}

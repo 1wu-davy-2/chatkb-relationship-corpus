@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10172649",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The long-distance relationship between Dirofilaria and the UK: case report and literature review.",
+  "authors": "Panarese R, Moore R, Page AP, McDonald M, MacDonald E, Weir W.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fvets.2023.1128188",
+  "pmcid": "PMC10172649",
+  "url": "https://europepmc.org/article/PMC/PMC10172649",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10172649/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "long_distance"
+  ],
+  "abstract": "Over the last two decades, vector-borne pathogens (VBPs) have changed their distribution across the globe as a consequence of a variety of environmental, socioeconomic and geopolitical factors. Dirofilaria immitis and Dirofilaria repens are perfect exemplars of European VBPs of One Health concern that have undergone profound changes in their distribution, with new hotspots of infection appearing in previously non-endemic countries. Some areas, such as the United Kingdom, are still considered non-endemic. However, a combination of climate change and the potential spread of invasive mosquito species may change this scenario, exposing the country to the risk of outbreaks of filarial infections. Only a limited number of non-autochthonous cases have been recorded in the United Kingdom to date. These infections remain a diagnostic challenge for clinicians unfamiliar with these \"exotic\" parasites, which in turn complicates the approach to treatment and management. Therefore, this review aims to (i) describe the first case of D. repens infection in a dog currently resident in Scotland, (ii) summarise the available literature on Dirofilaria spp. infections in both humans and animals in the United Kingdom and (iii) assess the suitability of the United Kingdom for the establishment of these new VBPs.",
+  "raw_path": "01_raw/europepmc_xml/PMC10172649.xml",
+  "text_path": "02_text/europepmc/PMC10172649.txt",
+  "raw_bytes": 121261,
+  "text_chars": 31316,
+  "raw_sha256": "6a558aa7709af253ed0af6857a851de2fd7599db28fd08665a7f09927922ad7c",
+  "text_sha256": "a0eb0e8283896f7735f25b16165070635fa7a06462765ee3e1610d97bea6487c",
+  "retrieved_at": "2026-10-25T15:27:03.631178+00:00"
+}

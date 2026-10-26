@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_conflict_resolution",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "衝突解決",
+  "requested_title": "衝突解決",
+  "url": "https://zh.wikipedia.org/wiki/%E8%A1%9D%E7%AA%81%E8%A7%A3%E6%B1%BA",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "conflict",
+    "communication"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/conflict_resolution.json",
+  "text_path": "02_text/zh_wikipedia/conflict_resolution.txt",
+  "raw_bytes": 12844,
+  "text_chars": 4874,
+  "text_sha256": "1a1c99280edf506e7147e68d3d0e6951c36e34317ad5a8217625047dbfdfe98b",
+  "retrieved_at": "2026-10-25T15:30:41.281417+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12997587",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Evaluation of the relationship between dry eye syndrome severity and corneal sensitivity.",
+  "authors": "Akgun Z, Kiyat P, Sarikaya I, Yilmaz U, Selver OB.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.5935/0004-2749.2024-0202",
+  "pmcid": "PMC12997587",
+  "url": "https://europepmc.org/article/PMC/PMC12997587",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12997587/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Purpose This study aimed to evaluate the relationship between the objective severity of dry eye disease subjective symptoms, and corneal sensitivity. Methods The study included 62 eyes from 31 healthy volunteers and 150 eyes from 75 patients diagnosed with dry eye disease . Participants underwent the Schirmer I test, tear break-up time assessment, and corneal staining evaluation using the Oxford Scale. Subjective symptoms were assessed through the Ocular Surface Disease Index questionnaire and a modified Ocular Surface Pain Score questionnaire. Corneal sensitivity was measured in five corneal regions using a Cochet-Bonnet esthesiometer. Dry eye disease severity was graded from 1 to 5 based on the Oxford Scale. Comparative analyses were performed. Results Schirmer I and tear break-up time values were significantly lower in the DED group, while Ocular Surface Disease Index and Ocular Surface Pain Score were significantly higher (p Conclusion Corneal sensitivity decreases in dry eye disease and is negatively correlated with disease severity. Subjective symptoms increase with disease progression and show a positive correlation with severity. The absence of significant differences between the advanced stages suggests that neuropathic mechanisms and subbasal nerve plexus deterioration play a role in chronic and late-stage dry eye disease.",
+  "raw_path": "01_raw/europepmc_xml/PMC12997587.xml",
+  "text_path": "02_text/europepmc/PMC12997587.txt",
+  "raw_bytes": 79928,
+  "text_chars": 19954,
+  "raw_sha256": "c1a9a99ca5c2cfbe0135231a3ecac0956a8ba8bf8e8d2ad8ce1af24633047dee",
+  "text_sha256": "b2772afc53ef57951032612f2955df9e100a844bf98b1ba0c178c911630f792f",
+  "retrieved_at": "2026-10-25T15:41:59.758681+00:00"
+}

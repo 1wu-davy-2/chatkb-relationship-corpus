@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_52276",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "竇娥冤",
+  "gutenberg_id": "52276",
+  "url": "https://www.gutenberg.org/ebooks/52276",
+  "download_url": "https://www.gutenberg.org/cache/epub/52276/pg52276.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/52276.txt",
+  "text_path": "02_text/gutenberg/gut_52276_竇娥冤.txt",
+  "raw_bytes": 67099,
+  "text_chars": 16563,
+  "text_sha256": "bb991629d58835e7bc451caab3561e713ecb209fb33eebc6d7f24cc38b260d2c",
+  "retrieved_at": "2026-10-25T16:04:29.695819+00:00"
+}

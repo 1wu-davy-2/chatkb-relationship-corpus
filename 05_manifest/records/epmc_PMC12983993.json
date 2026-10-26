@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12983993",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Role of Communication in Romantic Attachment and Relationship Satisfaction: A Dyadic Longitudinal Study.",
+  "authors": "Lefebvre AA, Brassard A, Jean M, Daspe MÈ, Lafontaine MF, Péloquin K.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jmft.70127",
+  "pmcid": "PMC12983993",
+  "url": "https://europepmc.org/article/PMC/PMC12983993",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12983993/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "Researchers and clinicians note that romantic attachment insecurities, negative communication, and stressors interact in ways that gradually undermine relationship satisfaction over time. Grounding clinical models in empirical findings is crucial. This longitudinal study examined the mediating role of communication patterns in associations between romantic attachment insecurities and relationship satisfaction, while accounting for stressful life events. Path analyses conducted with 263 couples over a year revealed that attachment insecurities were indirectly associated with lower relationship satisfaction in both partners via greater use of demand/withdraw and demand/demand communication patterns. Attachment avoidance was indirectly associated with lower satisfaction in both partners via the withdraw/withdraw communication pattern. Results indicated differences according to dyad gender and revealed that stressful life events played a moderating role in the associations between attachment insecurities and communication patterns. The findings provide support for the theoretical underpinnings of both attachment-based and communication-based couple interventions, highlighting their clinical value.",
+  "raw_path": "01_raw/europepmc_xml/PMC12983993.xml",
+  "text_path": "02_text/europepmc/PMC12983993.txt",
+  "raw_bytes": 139296,
+  "text_chars": 49776,
+  "raw_sha256": "cc508f406eabe5bce6af80024bb9d3e590e90414cfa8834512d0668cff793bf5",
+  "text_sha256": "f54e7bb3b32f501d30c57143b58202cbc5225b3453b784da68f87ebf7738f304",
+  "retrieved_at": "2026-10-25T13:53:27.256010+00:00"
+}

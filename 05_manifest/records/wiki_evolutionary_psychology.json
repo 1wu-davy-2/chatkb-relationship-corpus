@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_evolutionary_psychology",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "演化心理學",
+  "requested_title": "进化心理学",
+  "url": "https://zh.wikipedia.org/wiki/%E6%BC%94%E5%8C%96%E5%BF%83%E7%90%86%E5%AD%B8",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 演化心理學",
+  "topics": [
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/evolutionary_psychology.json",
+  "text_path": "02_text/zh_wikipedia/evolutionary_psychology.txt",
+  "raw_bytes": 12276,
+  "text_chars": 4833,
+  "text_sha256": "a8d4aeb30f2a95ef2441a08abf1d3e8f1b45206a0225a6e3139682e731c93297",
+  "retrieved_at": "2026-10-25T16:22:25.930146+00:00"
+}

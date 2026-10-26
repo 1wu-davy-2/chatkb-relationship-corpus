@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8859252",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Infamous Gaming: The Intergroup Bias of Non-gamers in the Chinese Marriage Market.",
+  "authors": "Zhao S, Zhang W.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2022.682372",
+  "pmcid": "PMC8859252",
+  "url": "https://europepmc.org/article/PMC/PMC8859252",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8859252/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_market"
+  ],
+  "abstract": "The link between gaming and negative outcomes has been explored by previous research and has led to the widespread adverse attitude toward gaming (ATG) and gamers, especially from those who are unfamiliar with this activity. By implementing an audit study with gamers and non-gamers as participants ( N = 1,280), we found that non-gamer participants rated gamers less as similar to their ideal marriage partners compared to non-gamers, while gamer participants did not differentiate between gamers and non-gamers in the ideal marriage partners similarity rating (IMPSR). The findings also revealed that the difference in IMPSR between gamer and non-gamer participants toward gamers was completely mediated by their ATG. These results imply that non-gamers consider gaming as an undesired characteristic, and this is due to the relatively negative attitude of non-gamers toward gaming. Current study provides a new perspective on exploring the effect of gaming by investigating the social interaction between gamers and non-gamers in real-world and suggests that the unfamiliarity of gaming can lead to the negative ATG, which may, ultimately, place gamers at a disadvantage in the context of mate selection.",
+  "raw_path": "01_raw/europepmc_xml/PMC8859252.xml",
+  "text_path": "02_text/europepmc/PMC8859252.txt",
+  "raw_bytes": 67775,
+  "text_chars": 19984,
+  "raw_sha256": "2d2c294eeba5124a31e1304e4150e5acf5bdf1b945aa410e39776fb75e4bd50a",
+  "text_sha256": "79057d08553bab611f388e2c4a2a0811053fd20232f8a9a3a17d4b6a0ac855e1",
+  "retrieved_at": "2026-10-25T15:35:26.488567+00:00"
+}

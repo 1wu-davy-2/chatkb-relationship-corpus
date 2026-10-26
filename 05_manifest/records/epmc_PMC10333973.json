@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10333973",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Development and Preliminary Validation of a Measure of Victimization within the Friendships of Emerging Adults.",
+  "authors": "Dryburgh NSJ, Martin-Storey A, Craig WM, Dirks MA.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/02654075221142631",
+  "pmcid": "PMC10333973",
+  "url": "https://europepmc.org/article/PMC/PMC10333973",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10333973/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "situationship"
+  ],
+  "abstract": "For emerging adults, high-quality friendships can be an important source of companionship and support. The most commonly studied negative interaction between friends is conflict, yet work with youth suggests more serious victimization also occurs in friendship. In the current study, we developed and obtained preliminary psychometric evidence for the Friendship Victimization Scale, a measure that assesses physical, sexual, relational, and verbal forms of victimization in the friendships of emerging adults, as well as coercive and controlling behaviors. Emerging adults ( N = 316, M age = 21.27 years, SD = 1.47; 60.4% women, 37.0% men; 59.2% White) completed the Friendship Victimization Scale along with measures to examine construct validity. The majority of the sample reported experiencing at least one act of victimization by a friend, and men reported more victimization than did women. Results supported a 2-factor structure, with relational and verbal victimization loading on one factor and physical and sexual victimization and controlling behaviors loading on the other. Cronbach's alphas exceeded .90 for the total score and both subscales. Greater friendship victimization was predicted by negative features in each of a best and a challenging friendship, even after accounting for negative features in a dating relationship, and was unrelated to positive features in any of these relationships. Overall, results indicate that victimization is common in emerging adults' friendships. The findings provide preliminary evidence for the utility of the Friendship Victimization Scale as a measure of this understudied source of risk in the interpersonal lives of emerging adults.",
+  "raw_path": "01_raw/europepmc_xml/PMC10333973.xml",
+  "text_path": "02_text/europepmc/PMC10333973.txt",
+  "raw_bytes": 163347,
+  "text_chars": 49736,
+  "raw_sha256": "68d3a47ea1d3f3cb9351220cdc67051c142476e303764038bac1448968026710",
+  "text_sha256": "8c3c6c53c91df9446b7de08f27b063b173c61ffa142c2f926a0dce1957b5184e",
+  "retrieved_at": "2026-10-25T15:29:46.054405+00:00"
+}

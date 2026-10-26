@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13350872",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Large language models can detect verbal indicators of romantic attraction.",
+  "authors": "Matz SC, Peters H, Cerf M, Grunenberg E, Eastwick PW, Back M, Finkel EJ.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1038/s41598-026-52308-x",
+  "pmcid": "PMC13350872",
+  "url": "https://europepmc.org/article/PMC/PMC13350872",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13350872/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "first_date"
+  ],
+  "abstract": "What makes people \"click\" on a first date and become mutually attracted to one another? While understanding and predicting the dynamics of romantic interactions used to be exclusive to human judgment, we show that Large Language Models (LLMs) demonstrate some capacity to detect linguistic cues of romantic attraction during brief getting-to-know-you interactions. Examining data from 964 speed dates, we show that ChatGPT (and Claude 3) can predict both objective and subjective indicators of speed dating success (r = 0.12-0.23), and that their judgements overlap with those made by human observers (r = 0.21-0.35) with modest levels of accuracy. Notably, however, ChatGPT's predictions of actual matching (i.e., the exchange of contact information) were not only on par with those of human judges who had access to the same information but also incremental to speed daters' own predictions. Drawing on the Brunswik lens model, our findings also offer insights into how ChatGPT arrives at its judgements. Specifically, they suggest that its predictions can be explained by a combination of common content dimensions (e.g. the valence of the conversation) as well as more complex conversational dynamics (e.g., the use of humor, common interests or aligned values). While we found substantial overlap in the social cues utilized by ChatGPT and human raters, not all of these cues were valid predictors of matching. This suggests that both humans and LLMs rely on shared but imperfect heuristics when judging romantic attraction.",
+  "raw_path": "01_raw/europepmc_xml/PMC13350872.xml",
+  "text_path": "02_text/europepmc/PMC13350872.txt",
+  "raw_bytes": 136004,
+  "text_chars": 54559,
+  "raw_sha256": "8846054d8b7b990fda96b08b402bf741d0784f19d63ac7641b3ae946ff9995d9",
+  "text_sha256": "43eab581fb910cc3b1609e7f4adb9606c1bbfbbf0ed115adb5bdc292237f5294",
+  "retrieved_at": "2026-10-25T13:47:21.555611+00:00"
+}

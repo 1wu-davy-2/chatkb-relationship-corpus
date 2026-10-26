@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9363338",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "#Metoo or #Hertoo? A Moderated Mediation Model of Gender Differences in Perceptions of Sexual Harassment.",
+  "authors": "Clarke HM.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1007/s10508-022-02344-1",
+  "pmcid": "PMC9363338",
+  "url": "https://europepmc.org/article/PMC/PMC9363338",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9363338/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Sexual harassment continues to pervade workplaces due, at least in part, to gender differences in the perception of sociosexual behaviors. Some scholars have argued that such differences are minimal and inconsistent. This study examined and demonstrated several reasons why this conclusion is fallacious. Approximately equal numbers of gay men (n = 191), heterosexual men (n = 193), lesbians (n = 190), and heterosexual women (n = 196) reported their perceptions of scenarios describing an interaction between a target and their manager. The target was either a fictional female, a fictional male, or the participant. As predicted, only heterosexual men's perceptions of sociosexual behaviors varied by the target of the behaviors. Heterosexual men viewed the behaviors as harassment only when the target was female. Further, women and gay men, but not heterosexual men, viewed the sociosexual behaviors as discrimination. The results also supported a moderated mediation model where, following exposure to sociosexual behaviors, the effect of participant group on perceived sexual harassment was mediated by fear and perceived discrimination and moderated by target. This study contributes to research on workplace sexual harassment by explaining alleged inconsistent results of studies of gender differences in perceptions of sexual harassment and by proposing and testing a novel process following exposure to sociosexual behaviors in the workplace.",
+  "raw_path": "01_raw/europepmc_xml/PMC9363338.xml",
+  "text_path": "02_text/europepmc/PMC9363338.txt",
+  "raw_bytes": 177811,
+  "text_chars": 57720,
+  "raw_sha256": "f5e56521e2afc5f2ed1dfa7b02493e4c3e6180e91518f002ab8835f5caf0c9fa",
+  "text_sha256": "aa8ee3cd179650e2c698fc7b162b3850d642fd90de2f6870b1b513497f7ad54b",
+  "retrieved_at": "2026-10-26T13:12:57.581401+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12415507",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Attachment Dimensions and Infertility: Exploring Psychological Outcomes Through Systematic Review and Meta-Analysis.",
+  "authors": "Tacchino C, Castellano R, Rogier G, Cocchiaro T, Lago AD, Rago R, Velotti P.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/jmft.70073",
+  "pmcid": "PMC12415507",
+  "url": "https://europepmc.org/article/PMC/PMC12415507",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12415507/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "This systematic review and meta-analysis examines the role of romantic attachment as a protective or risk factor in how individuals cope with infertility diagnosis, treatment, and outcomes. A systematic search was conducted across six databases from January 1, 2011, to February 3, 2025. Seventeen studies met inclusion criteria, exploring associations between romantic attachment and individual psychological correlates of infertility. Seven studies examining links between attachment (anxiety and avoidance) and infertility-related stress were included in a meta-analysis. Findings highlight significant associations between insecure attachment and various psychological outcomes, including infertility-related stress, general well-being, mental health symptoms, and body image concerns. Meta-analytic results confirmed moderate, positive associations between both attachment anxiety and avoidance and infertility-related stress. The review underscores the influence of attachment in couple relationships on coping with infertility, emphasizing the distinct roles of attachment anxiety and avoidance. These insights offer valuable clinical implications. Trial registration: PROSPERO (CRD42024523311).",
+  "raw_path": "01_raw/europepmc_xml/PMC12415507.xml",
+  "text_path": "02_text/europepmc/PMC12415507.txt",
+  "raw_bytes": 175827,
+  "text_chars": 57163,
+  "raw_sha256": "700e96f7a2334c4a0d0b34619f1155f097b48d58ce133810916724c4c8ac1e67",
+  "text_sha256": "0292aa528e5f0244b65f0385ff825f851d3386750012398111ede0c96df6c93e",
+  "retrieved_at": "2026-10-25T13:58:46.451398+00:00"
+}

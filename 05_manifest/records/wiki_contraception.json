@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_contraception",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "避孕",
+  "requested_title": "避孕",
+  "url": "https://zh.wikipedia.org/wiki/%E9%81%BF%E5%AD%95",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 避孕",
+  "topics": [
+    "sexuality",
+    "health",
+    "decision"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/contraception.json",
+  "text_path": "02_text/zh_wikipedia/contraception.txt",
+  "raw_bytes": 30742,
+  "text_chars": 11152,
+  "text_sha256": "dd24902604cb7d451d41376d2e30c1f52f8ccc7b86043d499acf204be9685d59",
+  "retrieved_at": "2026-10-26T13:01:07.563846+00:00"
+}

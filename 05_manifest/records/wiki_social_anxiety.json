@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_social_anxiety",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "社交焦慮",
+  "requested_title": "社交焦虑",
+  "url": "https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E7%84%A6%E6%85%AE",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "anxiety",
+    "social"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/social_anxiety.json",
+  "text_path": "02_text/zh_wikipedia/social_anxiety.txt",
+  "raw_bytes": 10809,
+  "text_chars": 4233,
+  "text_sha256": "a7615666d0be048af238450b8a5f10d1b88987536d8a447663395aea3893419d",
+  "retrieved_at": "2026-10-25T15:32:13.070324+00:00"
+}

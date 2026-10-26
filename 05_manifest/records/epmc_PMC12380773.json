@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12380773",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Addressing alcohol-involved sexual violence on college campuses: a collaborative system dynamics theory of change.",
+  "authors": "Moore TR, Alejandro J, Dougherty M, Coulter RWS, Burke JG, Miller E, Futcher R, Sumetsky N, Mair CF.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpubh.2025.1620598",
+  "pmcid": "PMC12380773",
+  "url": "https://europepmc.org/article/PMC/PMC12380773",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12380773/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types"
+  ],
+  "abstract": "Introduction Alcohol-involved sexual violence on college campuses is a complex public health challenge shaped by interacting individual, interpersonal, social, and institutional factors. This paper presents a systems science-based theory of change for addressing alcohol-involved sexual violence, developed through collaborative modeling with campus collaborators as part of the CAMPUS (Collaborative Model-building Project to Understand Sexual Violence) study. Methods This study presents a stock-and-flow diagram (SFD) theory of change developed by a research team through the synthesis of three causal loop diagrams co-produced by three cohorts of students and practitioners across five college campuses. The SFD formalizes key feedback structures shaping alcohol use, sexual violence, and campus responses. Results The resulting SFD models the interplay of alcohol availability, drinking culture, peer norms, and consent communication. Key reinforcing loops highlight how alcohol use, consent, rape myths, and underreporting of sexual violence incidents mutually reinforce one another. Balancing loops underscore the potential of peer support and bystander interventions to interrupt these cycles. The model identifies multiple leverage points for systems-aligned interventions, including trauma-informed services and consent education. Conclusion This practice-based and collaborative model provides a systems theory of change to guide future simulation modeling and intervention design.",
+  "raw_path": "01_raw/europepmc_xml/PMC12380773.xml",
+  "text_path": "02_text/europepmc/PMC12380773.txt",
+  "raw_bytes": 103609,
+  "text_chars": 38487,
+  "raw_sha256": "50bcec90b07b219507d9d28755b60bd24a13300d0a6a2727d5704ad4f6499749",
+  "text_sha256": "c9f2f86119855bd860f9043859a0013244e95d8916fc41b09f833f7fbd6e3636",
+  "retrieved_at": "2026-10-26T13:28:02.476230+00:00"
+}

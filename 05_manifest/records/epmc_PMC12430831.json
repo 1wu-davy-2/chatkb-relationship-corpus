@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12430831",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Transactional Sex and its Drivers among Men Who Have Sex with Men in Plateau State North Central Nigeria.",
+  "authors": "Afolaranmi TO, Dogo JM, Adeoye PA, Ugwu RA, Omokore OA, Wekpe S, Ogunshola OO, Zoakah AI, Kanki P.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.4103/ijcm.ijcm_110_24",
+  "pmcid": "PMC12430831",
+  "url": "https://europepmc.org/article/PMC/PMC12430831",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12430831/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "Background Involvement in transactional sex encompasses a spectrum of activities ranging from casual sex to continual professional exchange of sex for benefits. Transactional sex is driven by economic, structural, social, legal, and psychological vulnerability factors that are common among men who have sex with men (MSM) and could negatively impact the gains and mileage achieved in HIV/AIDS epidemic control. Hence, this study was conducted to assess the prevalence and drivers of transactional sex among the MSM population in Plateau State Northern Central Nigeria. Methodology This was a cross-sectional study conducted among the MSM population between October 2021 and June 2022 using a quantitative data collection method. Respondent-driven sampling (RDS) was used to recruit participants into the study. SPSS version 22 was used for data analysis with crude and adjusted odds ratios as well as 95% confidence interval used as point and interval estimates with a P ≤ 0.05 considered statistically significant. Results The mean age of the study participants was 26.7 ± 5.4 years with 203 (42.6%) being strictly homosexual and 273 (57.4%) bisexuals. The prevalence of self-reported engagement in transactional sex was 89.9%, which was found to be driven by lack of employment in jobs (adjusted odds ratio [AOR]: 1.4, 95% CI: 1.1-2.3), bisexual orientation (AOR: 2.7, 95% CI: 1.1-6.4), positive family history of same-sex engagement (AOR: 4.6, 95% CI: 1.8-11.6), and being married (AOR: 2.6, 95% CI: 1.1-8.1). Conclusion This study found a higher prevalence of engagement in self-reported transactional sex being driven by lack of employment, bisexual orientation, and positive family history of same-sex engagement.",
+  "raw_path": "01_raw/europepmc_xml/PMC12430831.xml",
+  "text_path": "02_text/europepmc/PMC12430831.txt",
+  "raw_bytes": 80129,
+  "text_chars": 20198,
+  "raw_sha256": "128a025b20a3bd97f3540cd4616f8d1c2d25d4453995cfcbbc2c53d490e0b41b",
+  "text_sha256": "b4643030deeb1c3c1acc52ae61dc7545bf549875095ffd1e09e9175cccc89ba8",
+  "retrieved_at": "2026-10-26T13:11:46.138122+00:00"
+}

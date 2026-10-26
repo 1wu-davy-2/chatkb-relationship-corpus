@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_marriage_squeeze",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "婚姻挤压",
+  "requested_title": "婚姻挤压",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A9%9A%E5%A7%BB%E6%8C%A4%E5%8E%8B",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "marriage",
+    "china",
+    "demography"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/marriage_squeeze.json",
+  "text_path": "02_text/zh_wikipedia/marriage_squeeze.txt",
+  "raw_bytes": 3077,
+  "text_chars": 1164,
+  "text_sha256": "ebc1f83c4955b4306c4d8635e01272faf5e0c02a4eeb0ae0b4fef65d23f9e811",
+  "retrieved_at": "2026-10-25T15:41:06.566591+00:00"
+}

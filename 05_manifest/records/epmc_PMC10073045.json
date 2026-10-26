@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10073045",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dual Mating Strategies Observed in Male Clients of Female Sex Workers.",
+  "authors": "Butterworth J, Pearson S, von Hippel W.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1007/s12110-023-09439-1",
+  "pmcid": "PMC10073045",
+  "url": "https://europepmc.org/article/PMC/PMC10073045",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10073045/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "Humans have a complex and dynamic mating system, and there is evidence that our modern sexual preferences stem from evolutionary pressures. In the current paper we explore male use of a dual mating strategy: simultaneously pursuing both a long-term relationship (pair-bonding) as well as short-term, extra-pair copulations (variety-seeking). The primary constraint on such sexual pursuits is partner preferences, which can limit male behavior and hence cloud inferences about male preferences. The aim of this study was to investigate heterosexual male mating preferences when largely unconstrained by female partner preferences. In service of this goal, female full-service sex workers (N = 6) were surveyed on the traits and behaviors of their male clients (N = 516) and iterative cluster analysis was used to identify male mating typologies. Two clusters emerged: clients seeking a pair-bonding experience and clients seeking a variety experience. Results also suggested that romantically committed men were more likely to seek a variety experience than a relationship experience. We conclude that men desire both pair-bonding and sexual variety, and that their preference for one might be predicted by fulfilment of the other. These findings have implications for relationships, providing insight into motivations for male infidelity.",
+  "raw_path": "01_raw/europepmc_xml/PMC10073045.xml",
+  "text_path": "02_text/europepmc/PMC10073045.txt",
+  "raw_bytes": 111422,
+  "text_chars": 36353,
+  "raw_sha256": "e8b2fc2aafa4adeb847a18ac78bacc6d1edecf386b6d68833b6c34997ee77789",
+  "text_sha256": "e6f82430390d8c704e1a5c97904c749cdc6e7585537167c2cbe17c152bd3fd01",
+  "retrieved_at": "2026-10-25T15:42:10.874452+00:00"
+}

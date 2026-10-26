@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11558222",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Short-Term Outcomes of a Healthy Relationship Intervention for the Prevention of Sexual Harassment and Sexual Assault in the US Military: Pilot Pretest-Postest Study.",
+  "authors": "Hernandez B, Shegog R, Markham C, Emery S, Baumler E, Thormaehlen L, Andina Teixeira R, Rivera Y, Pertuit O, Kanipe C, Witherspoon I, Doss J, Jones V, Peskin M, Peskin M.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.2196/64412",
+  "pmcid": "PMC11558222",
+  "url": "https://europepmc.org/article/PMC/PMC11558222",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11558222/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "Background Sexual harassment (SH) and sexual assault (SA) are serious public health problems among US service members. Few SH and SA prevention interventions have been developed exclusively for the military. Code of Respect (X-CoRe) is an innovative web-based, multilevel, SA and SH intervention designed exclusively for the active-duty Air Force. The program's goal is to increase Airmen's knowledge and skills to build and maintain respectful relationships, ultimately reducing SH and SA and enhancing Airmen's overall well-being and mission readiness. Objective This pilot study aimed to assess the short-term psychosocial impact (eg, knowledge, attitudes, and self-efficacy) of the web-based component of X-CoRe on a sample of junior enlisted and midlevel Airmen. Methods Airmen from a military installation located in the Northeastern United States were recruited to complete the 10 web-based modules in X-CoRe (9/15, 60% male; 7/15, 54% aged 30-35 years). Participants were given pretests and posttests to measure short-term psychosocial outcomes associated with SH and SA. Descriptive statistics and paired 2-tailed t tests were conducted to assess differences from preintervention to postintervention time points. Results After completing X-CoRe, participants had a significantly greater understanding of active consent (P=.04), confidence in their healthy relationship skills (P=.045), and confidence to intervene as bystanders (P=.01). Although not statistically significant (P>.05), mean scores in attitudes about SH, couple violence, and cyberbullying; perceptions of sexual misconduct as part of military life; and relationship skills self-efficacy with a romantic partner and friend also improved. Conclusions The findings from this study demonstrate X-CoRe's effectiveness in improving critical determinants of SH and SA, making it a promising intervention for SH and SA prevention. More rigorous research is needed to determine X-CoRe's impact on SH and SA victimization and the long-term impact on associated psychosocial determinants.",
+  "raw_path": "01_raw/europepmc_xml/PMC11558222.xml",
+  "text_path": "02_text/europepmc/PMC11558222.txt",
+  "raw_bytes": 133584,
+  "text_chars": 34288,
+  "raw_sha256": "fe364eb695fd37ecddd9b097eb229619c22b83118f3298e7a4210e26761202ad",
+  "text_sha256": "9a369fa86413411a11e4df8942aab8b781f71c69a561aabbfd6da2378fbe60f5",
+  "retrieved_at": "2026-10-25T13:50:48.506133+00:00"
+}

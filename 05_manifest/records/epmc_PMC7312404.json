@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7312404",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Perception of Gender-Based Violence and Sexual Harassment in University Students: Analysis of the Information Sources and Risk Within a Relationship.",
+  "authors": "Osuna-Rodríguez M, Rodríguez-Osuna LM, Dios I, Amor MI.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.3390/ijerph17113754",
+  "pmcid": "PMC7312404",
+  "url": "https://europepmc.org/article/PMC/PMC7312404",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7312404/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "In a truly democratic society, there should be no place for any kind of discrimination or violence. Among the basic tools for eradicating discrimination and violence against women, education has a crucial role to play. Education about gender should be considered at all levels, in all year groups and across the curriculum, so as to improve education about this subject. Although these matters are increasingly addressed, at university level, including at postgraduate level, they are often forgotten. The purpose of this study is to break down the level of knowledge of gender-based violence and/or sexual stalking, the sources of information most widely used for developing this knowledge, and beliefs about situations of risk in relationships among a sample of 268 Science and Social Science students at the University of Córdoba (Spain). The analysis was descriptive, comparative and correlative. Means and standard deviations were analyzed, and correlations were used to establish possible relations among the variables. Cluster analysis was used to distribute the sample with respect to knowledge of violence and Student's t -test was used to identify differences between groups. The chi-squared test was used to find the association between variables such as situations of violence and places of residence. The results show that, although the experience of gender-based violence is among the least common sources of violence, there is evidence that these situations do exist, and the risk of violent acts and/or stalking is greater when couples break up. The perception of risk is higher when students have a greater knowledge of gender-based violence or sexual harassment and this perception is higher in women. As expected, greater knowledge is also associated with experience of this type of situation; however, place of residence was not linked to greater or lesser knowledge. Training in gender is considered essential and necessary in the university environment.",
+  "raw_path": "01_raw/europepmc_xml/PMC7312404.xml",
+  "text_path": "02_text/europepmc/PMC7312404.txt",
+  "raw_bytes": 119849,
+  "text_chars": 38544,
+  "raw_sha256": "1d7b61071a76231eaa014189a2d9ce67725824d2570ece952ef69d8dbab50ef5",
+  "text_sha256": "8d1420ceebce345411867c269124124cc7f473acef5e8a8d7865ef9e0904d926",
+  "retrieved_at": "2026-10-25T15:46:12.043523+00:00"
+}

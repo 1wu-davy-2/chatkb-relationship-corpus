@@ -1,0 +1,30 @@
+{
+  "doc_id": "skill_qingsheng-skill",
+  "source": "github_skill",
+  "source_type": "ai_skill",
+  "title": "tomwong001/qingsheng-skill",
+  "repo": "tomwong001/qingsheng-skill",
+  "url": "https://github.com/tomwong001/qingsheng-skill",
+  "language": "zh",
+  "license": "MIT",
+  "license_url": "https://api.github.com/licenses/mit",
+  "topics": [
+    "skill",
+    "structure",
+    "policy_filtered"
+  ],
+  "excerpt_only": false,
+  "raw_path": "01_raw/skills/qingsheng-skill",
+  "text_path": "02_text/skills/qingsheng-skill.md",
+  "raw_bytes": 47037,
+  "text_chars": 21662,
+  "policy_dropped_files": [
+    "README.md",
+    "skill/SKILL.md",
+    "skill/references/advanced-techniques.md",
+    "skill/references/signals-tools.md",
+    "skill/references/stages.md"
+  ],
+  "skipped_plumbing_files": 12,
+  "retrieved_at": "2026-10-26T12:30:01.942764+00:00"
+}

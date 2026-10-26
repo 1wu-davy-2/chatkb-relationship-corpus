@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12196001",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Romantic Partners with Mismatched Relationship Satisfaction Showed Greater Interpersonal Neural Synchrony When Co-Viewing Emotive Videos: An Exploratory Pilot fNIRS Hyperscanning Study.",
+  "authors": "Heng WX, Ng LY, Goh ZZ, Esposito G, Azhari A.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/neurosci6020055",
+  "pmcid": "PMC12196001",
+  "url": "https://europepmc.org/article/PMC/PMC12196001",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12196001/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "Emotional attunement, or emotional co-regulation in a relationship, can manifest as interpersonal neural synchrony, where partners exhibit similar anti-phase or phase-shifted brain activity. In adult romantic relationships, emotional attunement may differ according to relationship satisfaction. No study has examined how relationship satisfaction difference influences interpersonal neural synchrony. This exploratory pilot study on 17 couples (unmarried Chinese undergraduate couples in a Southeast Asian university) investigated whether relationship satisfaction difference influenced interpersonal neural synchrony during a shared emotive experience. Each couple wore an fNIRS cap to measure brain activity in their prefrontal cortex (PFC) while co-viewing seven videos intended to evoke positive, negative or neutral emotions. We found preliminary evidence that relationship satisfaction difference modulated interpersonal neural synchrony in the right ventral PFC regions, including the right ventromedial PFC (involved in the encoding of emotional values to stimuli and emotional regulation), right ventrolateral PFC (involved in voluntary emotional regulation) and the right orbitofrontal cortex (involved in processing of emotional experiences and regulation of emotions). This suggested that couples with mismatched relationship satisfaction displayed greater interpersonal neural synchrony, possibly due to mutual social cognitive processes when viewing emotive videos together. Further studies can replicate the findings with larger, diverse samples.",
+  "raw_path": "01_raw/europepmc_xml/PMC12196001.xml",
+  "text_path": "02_text/europepmc/PMC12196001.txt",
+  "raw_bytes": 107653,
+  "text_chars": 33773,
+  "raw_sha256": "58db238838e1ad2565a25435d0795e92333f3f1e2041e459348be869c2f01d44",
+  "text_sha256": "36c6b6355191e4a34920021e539222045d39ba06e898f2ccc3d0fa9b609248a6",
+  "retrieved_at": "2026-10-25T15:46:29.894429+00:00"
+}

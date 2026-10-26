@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11508192",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Courtship Behavior of Adult Spodoptera frugiperda (Lepidoptera: Noctuidae) Observed Using Track 3D Trajectory Tracking.",
+  "authors": "Liu J, Tallat M, Wang G, Li Z, Li G, Zhao X, Feng H.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/insects15100824",
+  "pmcid": "PMC11508192",
+  "url": "https://europepmc.org/article/PMC/PMC11508192",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11508192/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "Spodoptera frugiperda , also known as the fall armyworm (FAW), is classified by the Food and Agriculture Organization of the United Nations (FAO) as a major agricultural pest. By gaining a more nuanced understanding of the fall armyworm's courtship behavior, simpler and more environmentally friendly methods of controlling this pest can be developed. This study used the Track 3D system to meticulously record and describe the activity characteristics and patterns of adult males and females during courtship. The results show that adult FAWs engaged in a variety of activities during courtship that were either discrete (flying, flapping, moving, and crawling), continuous (flapping + flying, flapping + crawling, and flying + crawling), or combined (flapping + touching + flapping; flying + touching + flying). Flying and flapping were the most common activities, with observed flight patterns consisting of parabolic, circular, and zigzag trajectories. The peak activity times for adult FAWs are mainly concentrated at 11:00 p.m., 3:00 a.m., and 5:00 a.m., providing fundamental data for the precise attraction and control of adult FAWs at later stages.",
+  "raw_path": "01_raw/europepmc_xml/PMC11508192.xml",
+  "text_path": "02_text/europepmc/PMC11508192.txt",
+  "raw_bytes": 94898,
+  "text_chars": 28647,
+  "raw_sha256": "1974fb528905019eab1ec68a21540adea8152375024daf99320a594426f24316",
+  "text_sha256": "180d21eeafaeac702688b898cdea43b085a909d12888c08c69d6cd9c6a4aa6ae",
+  "retrieved_at": "2026-10-25T14:01:10.622930+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_cancer_constellation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "巨蟹座",
+  "requested_title": "巨蟹座",
+  "url": "https://zh.wikipedia.org/wiki/%E5%B7%A8%E8%9F%B9%E5%BA%A7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 巨蟹座",
+  "topics": [
+    "zodiac",
+    "astronomy"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/cancer_constellation.json",
+  "text_path": "02_text/zh_wikipedia/cancer_constellation.txt",
+  "raw_bytes": 3844,
+  "text_chars": 1729,
+  "text_sha256": "5c20eb396d3fa5754705b9e60bd073dd11ff7c7107f17e1835d841ced2e2f119",
+  "retrieved_at": "2026-10-26T13:04:34.543265+00:00"
+}

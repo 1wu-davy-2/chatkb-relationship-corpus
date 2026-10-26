@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11580234",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Feasibility and acceptability of tailored sexual assault prevention in the US Air Force.",
+  "authors": "Kan ML, Scaglione NM, Buben A, Morgan JK, Grimes KEL, Watson CJ, Charm S, Lowe AN, Eckhoff RP, Lane M, Root MK, Pound LB.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s40814-024-01565-6",
+  "pmcid": "PMC11580234",
+  "url": "https://europepmc.org/article/PMC/PMC11580234",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11580234/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_communication"
+  ],
+  "abstract": "Background Sexual assault prevention is a priority for the military and is likely to be most effective when tailored to specific needs and individual experiences. Technology advances make it possible to integrate individualized programming into group education settings common to military training, but this approach is not without potential challenges. Prior to implementing and evaluating a novel prevention program, it is critical to conduct a feasibility study to assess the extent to which the program can be successfully implemented, is acceptable to participants, and can be rigorously evaluated. This paper presents the results of a large feasibility study of the Sexual Communication and Consent (SCC) program in Air Force Basic Military Training. The objectives were to understand (1) the suitability and acceptability of SCC and study procedures, (2) the research team's resources and ability to manage and implement the study and SCC, and (3) the appropriateness of the data collection procedures and outcome measures. Methods The 26-week feasibility study involved more than 9000 trainees. At pretest, the sample was 73% male and 90% straight. Half of trainees (51%) reported not being in a romantic relationship, and 46% reported being in an exclusive romantic relationship. SCC involved 6 h of training over two sessions delivered 2 weeks apart. Sessions combined tablet-based training that was tailored to individual sexual assault risk (for revictimization, first-time victimization, or perpetration based on a screening instrument) with instructor-led classroom activities and discussion. Results Trainee, instructor, and observer data indicated that the program was feasible, implemented with high fidelity, and acceptable to trainees. Technology and data collection procedures worked well, but time constraints led to program changes, missed content, and missing survey data. Staff time and skill requirements for SCC implementation exceeded those of standard training. Conclusions Our results suggest that high-quality implementation of tailored sexual assault prevention training is feasible in a military environment, and they inform recommendations for program revisions, future evaluation, and sustainability.",
+  "raw_path": "01_raw/europepmc_xml/PMC11580234.xml",
+  "text_path": "02_text/europepmc/PMC11580234.txt",
+  "raw_bytes": 122504,
+  "text_chars": 54202,
+  "raw_sha256": "63d5778d6b49398369535a99b5a348e54a3e4c800bbc9b5deda741f86675eb48",
+  "text_sha256": "19a3b0aa103f181ff0de2a42533bbd5c8ee04cbb96c1bbbde4b0cb2aa44d74fb",
+  "retrieved_at": "2026-10-25T13:56:07.549676+00:00"
+}

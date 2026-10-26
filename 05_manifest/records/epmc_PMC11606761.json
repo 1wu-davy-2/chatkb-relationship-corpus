@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11606761",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Understanding motivations for sexual communication from a regulatory focus perspective.",
+  "authors": "Wasson KS, Rehman US.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/02654075241289832",
+  "pmcid": "PMC11606761",
+  "url": "https://europepmc.org/article/PMC/PMC11606761",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11606761/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_communication"
+  ],
+  "abstract": "Despite the overwhelming support for the importance of sexual communication to intimate relationships, there is limited information about what motivates someone to engage in or avoid sexual communication. Motivational frameworks have been applied to various aspects of intimate relationships, serving as strong predictors of different behavioural processes and playing a crucial role in facilitating behavioural change. As such, we aimed to elucidate the motivations for sexual communication and explore how they relate to other aspects of the process of sexual communication. A total of 373 participants were recruited from online crowdsourcing websites across two studies, and they completed online questionnaires using a mixed methods approach. In Study 1, open-ended responses regarding participants' motivations for sexual communication were inductively coded and aligned with the Regulatory Focus Theory, which describes two distinct modes of goal pursuit depending on if the person is focused on growth and advancement (i.e., promotion-focused) or safety and security (prevention-focused). This coding structure was replicated in Study 2, and we expanded the results to examine the predictive ability of the coded motivations. We found that those higher in attachment avoidance were more likely to have prevention-focused motivations, and those with relationship-oriented promotion-focused motivations reported more depth of both sexual and nonsexual communication as well as more relationship and sexual satisfaction. The implications of these findings are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC11606761.xml",
+  "text_path": "02_text/europepmc/PMC11606761.txt",
+  "raw_bytes": 167153,
+  "text_chars": 81547,
+  "raw_sha256": "2c8091a4399ef4725bc33f0e91a8b1a01539704dec799fe488ebc162d2298d31",
+  "text_sha256": "f72a899962e6fee9845aafba3d8e76d12131c430ea425a742fd9fbccbf4e3fb8",
+  "retrieved_at": "2026-10-25T13:53:32.340114+00:00"
+}

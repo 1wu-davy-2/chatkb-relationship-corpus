@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11245514",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Depressive symptoms among individuals identifying as asexual: a cross-sectional study.",
+  "authors": "Lech S, Köppe M, Berger M, Alonso-Perez E, Gellert P, Herrmann W, Buspavanich P.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1038/s41598-024-66900-6",
+  "pmcid": "PMC11245514",
+  "url": "https://europepmc.org/article/PMC/PMC11245514",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11245514/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "asexuality_celibacy"
+  ],
+  "abstract": "Although asexuality became a growing research subject over the last decade, data on the mental health of individuals identifying as asexual is still rare. The key objective of the present study was to examine depressive symptoms among individuals identifying as asexual. Data of LGBTQIA+ (Lesbian, Gay, Bi-sexual, Trans*, Queer, Inter*, Asexual and/or + indicating others within the community) and cisgender heterosexual individuals was collected through an online survey during the COVID-19 lockdowns in Germany. The survey included questions about sexual and gender identity, depressive symptoms, and asexual identity. An analysis of N = 6601 participants was conducted. A total of n = 445 individuals identified as asexual. Regression results indicated identifying as asexual being significantly associated with higher depressive symptoms. Results suggest that individuals identifying as asexual represent a vulnerable group within the group of sexual minorities, one that fundamentally requires special psychosocial support, especially in times of pandemics.",
+  "raw_path": "01_raw/europepmc_xml/PMC11245514.xml",
+  "text_path": "02_text/europepmc/PMC11245514.txt",
+  "raw_bytes": 90888,
+  "text_chars": 24033,
+  "raw_sha256": "93b52aee01d82b806a885aef620d0b131d0389be750e58862fd69e80df3afbbb",
+  "text_sha256": "aade1a22f61e00c22bba268bd09e8537362959ec8b23b18754975d51e9bd51c7",
+  "retrieved_at": "2026-10-26T13:06:06.322754+00:00"
+}

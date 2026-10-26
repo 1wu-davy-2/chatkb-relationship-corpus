@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6048558",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "From Face-to-Face to Facebook: Probing the Effects of Passive Consumption on Interpersonal Attraction.",
+  "authors": "Orben AC, Mutak A, Dablander F, Hecht M, Krawiec JM, Valkovičová N, Kosīte D.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2018.01163",
+  "pmcid": "PMC6048558",
+  "url": "https://europepmc.org/article/PMC/PMC6048558",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6048558/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Social media is radically altering the human social landscape. Before the internet era, human interaction consisted chiefly of direct and reciprocal contact, yet with the rise of social media, the passive consumption of other users' information is becoming an increasingly popular pastime. Passive consumption occurs when a user reads the posts of another user without interacting with them in any way. Previous studies suggest that people feel more connected to an artificial person after passively consuming their Facebook posts. This finding could help explain how relationships develop during passive consumption and what motivates this kind of social media use. This protocol proposes two studies that would make both a methodological and a theoretical contribution to the field of social media research. Both studies investigate the influence of passive consumption on changes in interpersonal attraction. The first study tests whether screenshots, which are widely used in present research, can be used as a proxy for real Facebook use. It measures the changes in interpersonal attraction after passive consumption of either a screenshot, an artificial in situ profile, or an acquaintance's real Facebook profile. The second study relies on traditional theories of relationship formation and motivation to investigate which variables (perceived intimacy, perceived frequency of posts, perceived variety of post topics, attributional confidence, and homophily) moderate the link between interpersonal attraction before and after passive consumption. The results of the first study provide insights into the generalizability of the effect by using different stimuli, while also providing a valuable investigation into a commonly used method in the research field. The results of the second study supplement researchers' understanding of the pathways linking passive use and interpersonal attraction, giving the field further insight into whether theories about offline relationship formation can be used in an online context. Taken together, this protocol aims to shed light on the intricate relation between passive consumption and interpersonal attraction, and variables moderating this effect.",
+  "raw_path": "01_raw/europepmc_xml/PMC6048558.xml",
+  "text_path": "02_text/europepmc/PMC6048558.txt",
+  "raw_bytes": 91220,
+  "text_chars": 47040,
+  "raw_sha256": "e47b8a2fec4de84273a23ed3f92b1b38f35f71eded93dc752993c76d660ed922",
+  "text_sha256": "3d6596afb55d1012ae6bad1baf08304cc7993a81ed4c968e99a284c976333d5d",
+  "retrieved_at": "2026-10-25T15:46:01.803602+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13342075",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The impact of couple-focused counseling based on the Ex-PLISSIT model on the sexual self-concept of infertile couples: a randomized trial.",
+  "authors": "Dalvand R, Otogara M, Shayan A, Kazemi F, Haghighi M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1038/s41598-026-43203-6",
+  "pmcid": "PMC13342075",
+  "url": "https://europepmc.org/article/PMC/PMC13342075",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13342075/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_therapy_interventions"
+  ],
+  "abstract": "The negative impact of infertility and its treatments on sexual health is well-documented. Self-concept plays a crucial role in sexual behavior and overall sexual health. This study aims to investigate how couple-oriented counseling, using the Ex-Plissit model, can influence the sexual self-concept of infertile couples. This parallel-group randomized controlled clinical trial was conducted in Hamadan, Iran, at the infertility clinic of Fatemieh Hospital, from 2022 to 2023. One hundred twenty individuals (60 infertile couples) who referred to the clinic were randomly assigned to either the intervention group (n = 30 couples) or the control group (n = 30 couples). Based on entry criteria, the allocation sequence was determined using six blocks of 4 before the study began. Demographic characteristics and a self-reported sexual self-concept questionnaire were used to identify infertile couples with negative sexual self-concepts. The intervention group received four sessions of couple-centered sexual counseling based on the Ex_PLISSIT model, while the control group received routine treatments. Registration date in IRCT: 2022-09-13 .After the sessions, both groups completed the sexual self-concept questionnaire again. Data analysis was performed using SPSS version 26 software, including descriptive and inferential statistics (paired T-test, independent T-test, Wilcoxon, covariance) with a significance level of P < 0.05. The research findings indicated that the average score of women's sexual self-concept in the intervention group before the intervention was 21.50 (4.86), slightly higher than the control group's average of 19.87 (8.41). However, this difference was not found to be statistically significant (p = 0.361). Furthermore, there was no significant difference in the average sexual self-concept scores between the intervention and control groups of women after the intervention (p = 0.053). Interestingly, there was a statistically significant difference in the average sexual self-concept scores between the intervention and control groups of men after the intervention (p = 0.003). The paired t-test results revealed a statistically significant difference in the average score of men's self-concept before and after the intervention group intervention (p = 0.001). Furthermore, when comparing the mean (standard deviation) of men's self-concept scores in the post-intervention phase while controlling for pre-intervention scores, smoking, and male occupation, the average score in the intervention group was found to be 17.45 (3.23) lower than the control group's average score of 21 (3.23). This difference was also statistically significant (p = 0.001). The results of the current study indicate that couple-based counseling using the Ex-PLISSIT model has a significant impact on improving negative sexual self-perception in infertile couples. Therefore, infertile couples visiting fertility centers should be evaluated for their sexual function and self-perception. If needed, they should be offered educational, therapeutic, and counseling programs to provide them with the necessary information.Trial registration: Iranian Registry of Clinical Trial IRCT20120215009014N443.",
+  "raw_path": "01_raw/europepmc_xml/PMC13342075.xml",
+  "text_path": "02_text/europepmc/PMC13342075.txt",
+  "raw_bytes": 80383,
+  "text_chars": 26402,
+  "raw_sha256": "b0df9ddcbfdd30bb914d014d2f55fd3b3aa9f9605af82b33958ff423516e486e",
+  "text_sha256": "7a6af62283904758853284872449d12f64573e99e3094ee0d58318bf516882a1",
+  "retrieved_at": "2026-10-26T12:58:08.673752+00:00"
+}

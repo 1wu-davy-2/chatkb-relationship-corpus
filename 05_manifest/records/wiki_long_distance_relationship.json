@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_long_distance_relationship",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "遠距離戀愛",
+  "requested_title": "异地恋",
+  "url": "https://zh.wikipedia.org/wiki/%E9%81%A0%E8%B7%9D%E9%9B%A2%E6%88%80%E6%84%9B",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "relationship",
+    "distance"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/long_distance_relationship.json",
+  "text_path": "02_text/zh_wikipedia/long_distance_relationship.txt",
+  "raw_bytes": 2332,
+  "text_chars": 872,
+  "text_sha256": "cce2bab2382576b5265602b029c23851d8044c12642899ce0c450a8fe0413ee5",
+  "retrieved_at": "2026-10-25T15:35:10.206867+00:00"
+}

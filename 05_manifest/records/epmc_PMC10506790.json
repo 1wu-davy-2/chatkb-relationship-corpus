@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10506790",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Comparing the self-awareness and problem-solving skills training on sexual desire of newly married women: A field trial study.",
+  "authors": "Moodi S, Mehrbakhsh Z, Amtaeh F, Moghasemi S.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.4103/jehp.jehp_739_22",
+  "pmcid": "PMC10506790",
+  "url": "https://europepmc.org/article/PMC/PMC10506790",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10506790/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction"
+  ],
+  "abstract": "Background Sexual desire of women is one of the most important factors affecting marital and sexual satisfaction. Regarding the association of life skills level with sexual dissatisfaction and sexual desire, the present study aims to compare the effect of self-awareness and problem-solving skills training on the sexual desire of newly married women. Materials and methods This was an experimental field trial study conducted since October 2019 to September 2020. The participants included 105 married women with a history of up to 5 years of cohabitation assigned randomly to either of the two intervention or control groups. The data collection tools include a demographic form, Hulbert index of sexual desire (HISD), and ENRICH couple scale that were completed by the participants before (T1), immediately (T2), and one month after the intervention (T3). The first intervention group received self-awareness skills training, whereas the second one received problem-solving skills training (four sessions of 90 min) weekly. On the other hand, the control group received no training. Statistical analyses were performed using SPSS 16 software and descriptive-analytical statistical tests including one-way ANOVA, Kruskal-Wallis, Bonferroni test, tests of within-subjects effects, and analysis test with repeated measures. P value Results The effect of time (statistic test: 51.24, P -value P -value: 0.03) were statistically significant. The mean score of sexual desire both in interventions and control groups showed statistically significant improvement. The mean score of sexual desire in the self-awareness group was 44.31 ± 9.08 (T1), 51.34 ± 10.92 (T2), and 59.48 ± 13.76 (T3) ( P P P = 0.02). Conclusion The present study showed the effectiveness of both self-awareness and problem-solving skills training on newly married women's sexual desire. Moreover, this study showed simply participating in a study related to sexual desire as a control group could be effective on women's sexual desire.",
+  "raw_path": "01_raw/europepmc_xml/PMC10506790.xml",
+  "text_path": "02_text/europepmc/PMC10506790.txt",
+  "raw_bytes": 64949,
+  "text_chars": 22304,
+  "raw_sha256": "0ef86eefe16457eb2f848d689470e0439b771aacda6150ddeb056780aec92134",
+  "text_sha256": "6acbf07a96223cf4d82c35672e8d9d9d2ae113f0903dfcd83acef593db5a5be3",
+  "retrieved_at": "2026-10-25T15:35:29.318279+00:00"
+}

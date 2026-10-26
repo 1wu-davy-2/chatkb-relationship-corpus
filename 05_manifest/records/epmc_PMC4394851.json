@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4394851",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Fortune telling addiction: Unfortunately a serious topic about a case report.",
+  "authors": "Grall-Bronnec M, Bulteau S, Victorri-Vigneau C, Bouju G, Sauvaget A.",
+  "year": "2015",
+  "journal": "",
+  "doi": "10.1556/jba.4.2015.1.7",
+  "pmcid": "PMC4394851",
+  "url": "https://europepmc.org/article/PMC/PMC4394851",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4394851/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "fortune_telling_china"
+  ],
+  "abstract": "Background Constant social change brings about new forms of behavior, such as smartphone use, social networking,indoor tanning, cosmetic surgery, etc., that could become excessive or even lead to new forms of addictive disorders. Methods We report the case of a woman who starts consulting for “clairvoyance addiction”. We then discuss the addictive nature of her disorder, based on several classifications of addiction. Results The patient fulfilled the criteria for addiction and her clinical features were typical of that of addicted people. Other differential diagnoses were discussed. Conclusion As for any addictive behavior, the interaction of several risk factors should be considered.They are related to the individual himself, but also to the object of addiction and to the socio-environmental context. In this case, all the conditions were met for fortune telling use to become addictive.",
+  "raw_path": "01_raw/europepmc_xml/PMC4394851.xml",
+  "text_path": "02_text/europepmc/PMC4394851.txt",
+  "raw_bytes": 49968,
+  "text_chars": 16464,
+  "raw_sha256": "a95fdd879db60a4d0dc2981a46d228470106a869465d09cb8a5bba44c00050ce",
+  "text_sha256": "a1206a75ad01acbad4deb852072e22769ce6743d9c36f80f166681568c89b392",
+  "retrieved_at": "2026-10-26T12:54:50.882161+00:00"
+}

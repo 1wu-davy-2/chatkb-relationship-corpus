@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11594333",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Reproductive and Flight Characteristics of Lymantria xylina (Lepidoptera: Erebidae) in Fuzhou, China.",
+  "authors": "Zhang J, Wang B, Wang L, Zuo C, Li J, Cui Y, Wen X, Cowan D, Wu S, Liu M, Wang R, Zhang F.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/insects15110894",
+  "pmcid": "PMC11594333",
+  "url": "https://europepmc.org/article/PMC/PMC11594333",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11594333/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "china_marriage"
+  ],
+  "abstract": "The biological characteristics of Lymantria xylina Swinhoe (Lepidoptera: Erebidae), a moth that threatens coastal forests in Fuzhou, China, are closely linked to its spread risk. To characterize these traits, we primarily investigated emergence, reproductive, and flight behaviors. Our findings show that females typically emerge, mate, and copulate during specific times of day. The peak hours of emergence, courtship, and copulation are 13:00-14:00, 19:00-21:00, and around 0:00, respectively. The starting time of oviposition was concentrated before dawn and during the daytime. They preferentially lay eggs on columnar objects, including artificial ones. On average, females laid 361 eggs, lived for 4.5 days, and weighed 0.74 g. Non-ovipositing females were observed to fly for short distances, especially during the evening. Field observations suggest that these females can potentially travel up to 184.5 m in total and 34.5 m continuously. While this indicates a theoretical risk of long-distance dispersal, our findings suggest that the overall risk is limited. These results contribute to our understanding of the biology and dispersal potential of L. xylina .",
+  "raw_path": "01_raw/europepmc_xml/PMC11594333.xml",
+  "text_path": "02_text/europepmc/PMC11594333.txt",
+  "raw_bytes": 166707,
+  "text_chars": 49007,
+  "raw_sha256": "4ccf30db70be2f15362afcb7fea4aad090af19e6d0115cf909edbc49a809c336",
+  "text_sha256": "bac99ec21dd4b5d666250d3f9c308a4933fab89ec50b263ec0266285d884be24",
+  "retrieved_at": "2026-10-25T13:54:47.165830+00:00"
+}

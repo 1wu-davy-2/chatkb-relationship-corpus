@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_personal_finance",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "个人理财",
+  "requested_title": "个人理财",
+  "url": "https://zh.wikipedia.org/wiki/%E4%B8%AA%E4%BA%BA%E7%90%86%E8%B4%A2",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "money",
+    "skills"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/personal_finance.json",
+  "text_path": "02_text/zh_wikipedia/personal_finance.txt",
+  "raw_bytes": 31684,
+  "text_chars": 10976,
+  "text_sha256": "1ba6d22840b6840a410c3a0211a6f98e2f2ce5f480b3914bf8a0c7a690d17474",
+  "retrieved_at": "2026-10-25T15:43:10.604022+00:00"
+}

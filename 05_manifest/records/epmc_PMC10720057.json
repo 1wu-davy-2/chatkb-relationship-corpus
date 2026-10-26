@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10720057",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The psychosexual and psychosocial impacts of polygamous marriages: a cross-sectional study among Somali women.",
+  "authors": "Barut A, Mohamud SA.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1186/s12905-023-02830-1",
+  "pmcid": "PMC10720057",
+  "url": "https://europepmc.org/article/PMC/PMC10720057",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10720057/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "arranged_marriage"
+  ],
+  "abstract": "Background Polygamous marriages are common in many Africa countries. This study aimed to document psychosexual and psychosocial problems of Somali women engaged in monogamous or polygamous marriages. Methods This cross-sectional study included 607 consecutive women who had presented between June 7 and October 1, 2022, to the Department of Gynaecology of Mogadishu Somali Turkey Training and Research Hospital in Mogadishu, the capital city of Somalia. Data included maternal age, type of marriage (polygamy, monogamy, and arranged marriage), wives' education, husbands' education, husband income, residence area (rural or urban), number of marriages, living in houses (same or different), number of co-wives, and age of marriage. The participants were asked to complete three questionnaires: The Female Sexual Function Index (FSFI), the Rosenberg Self-Esteem Scale (RSE), and the Brief Symptom Inventory-18 (BSI-18). Results Of 607 women, 435 (71.7%) had monogamous marriages and 172 (28.3%) had polygamous marriages. The mean age was 29.0 ± 7.2 years (range 16-46). In polygamous marriages, the mean number of wives a husband had was 2.4 ± 0.7 women (range 2- 4). The overall incidences of sexual dysfunction, low self-esteem and arranged marriage were 59.8%, 79.4% and 64.4%, respectively. Wives in polygamous marriages differed from those in monogamous marriages with significantly higher rate of illiterateness (41.9% vs. 27.4%, p = 0.004). Increases in husband income corresponded to higher rates of polygamous marriage. Women in polygamous marriages had significantly lower scores in the desire, arousal, orgasm, and satisfaction sub-domains. Sexual dysfunction, with a significantly increased rate among women in polygamous marriages. Polygamous marriages were associated with significantly higher levels of anxiety, and depression, and a significantly higher total BSI score (p = 0.010, p = 0.004, and p = 0.020, respectively). Women in both groups had similar levels of low self-esteem (p > 0.05). In univariate analysis, polygamous marriage was in significant inverse associations with the total FSFI score and subdomain scores of desire, arousal, orgasm, satisfaction, and sexual dysfunction and in significant associations with the BSI total score and subdomain scores of anxiety and depression (p Conclusion Our findings suggest that women in polygamous marriages experience considerably higher psychosexual and psychosocial adverse effects as compared with their monogamous counterparts.",
+  "raw_path": "01_raw/europepmc_xml/PMC10720057.xml",
+  "text_path": "02_text/europepmc/PMC10720057.txt",
+  "raw_bytes": 80682,
+  "text_chars": 26322,
+  "raw_sha256": "070ba768113afe95207555088b84c925d5e7e9943244e407baf43dc0540ce4c5",
+  "text_sha256": "82405bd0b6fc2aaca5e7e57e95f45b1f473731db7ee14d133b3f555a23d53f5e",
+  "retrieved_at": "2026-10-25T13:56:19.372661+00:00"
+}

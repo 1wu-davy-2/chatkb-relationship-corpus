@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7396032",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Disclosure of Intimate Partner Violence and Associated Factors among Victimized Women, Ethiopia, 2018: A Community-Based Study.",
+  "authors": "Agenagnew L, Tebeje B, Tilahun R.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1155/2020/6513246",
+  "pmcid": "PMC7396032",
+  "url": "https://europepmc.org/article/PMC/PMC7396032",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7396032/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "arranged_marriage"
+  ],
+  "abstract": "Background Disclosure is a vital step in the process of finding a lasting solution and breaking the abuse chain in a victim woman by the intimate partner. Objectives This study is aimed at assessing the disclosure of intimate partner violence and associated factors among victim women in Dilla town, Gedeo Zone, South Ethiopia, 2018. Methods A community-based cross-sectional study design triangulated with the qualitative method was employed. Data were collected from 280 women victims of intimate partner violence using pretested, structured, and interviewer-administered questionnaires. SPSS version 20.0 software was used for analysis. Binary logistic regression and a multivariate logistic regression model were fitted to assess the association between the independent and dependent variables. Qualitative data were collected through in-depth interviews and categorized into themes and triangulated with the quantitative result. Results Half of the respondents (51%) disclosed intimate partner violence. Partner alcohol use (AOR = 1.99; 95% CI:1.18, 3.34), women experiencing a single type of intimate partner violence (AOR = 0.38, 95% CI: 0.17, 0.79), women having strong social support (AOR = 2.52; 95% CI:1.44, 4.41), and women whose partners' having primary (AOR = 2.04; 95% CI:1.07, 3.9) and secondary education (AOR = 2.16; 95% CI: 1.07, 4.33) were significantly associated with the disclosure of intimate partner violence as the qualitative result shows most of the women prefer their family to disclose and those who kept silent were due to economic dependency, societal norms towards wife beating, arranged marriage, and not getting the chance especially those who went to the hospital. Conclusion Nearly 50% of victims of intimate partner violence women disclose intimate partner violence to others. Thus, it is needed for stakeholders to use their efforts to further increase the disclosure of violence and respect women's rights and equality.",
+  "raw_path": "01_raw/europepmc_xml/PMC7396032.xml",
+  "text_path": "02_text/europepmc/PMC7396032.txt",
+  "raw_bytes": 90122,
+  "text_chars": 28816,
+  "raw_sha256": "bfb5187da0d781229e2ffa2a077345a32f9fe848aa11804d47e62bfc2eafc896",
+  "text_sha256": "afd1bf84aa6211e1a03a2fc221848956959fac3465f334ef5f57d8af474e7ca9",
+  "retrieved_at": "2026-10-25T15:32:44.086624+00:00"
+}

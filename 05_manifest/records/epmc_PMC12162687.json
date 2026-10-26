@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12162687",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Dual Pathways Hypothesis of Incel Harm: A Model of Harmful Attitudes and Beliefs Among Involuntary Celibates.",
+  "authors": "Costello W, Whittaker J, Thomas AG.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10508-025-03161-y",
+  "pmcid": "PMC12162687",
+  "url": "https://europepmc.org/article/PMC/PMC12162687",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12162687/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "incel"
+  ],
+  "abstract": "Incels (involuntary celibates) are an online subculture of men who form their identity around a perceived inability to form sexual or romantic relationships. This community operates almost exclusively online, often serving as an outlet for misogynistic hostility. Concerns about violence from incels have positioned them as a growing (inter)national security threat. This study, the largest primary investigation of incel harmful attitudes and beliefs to date (N = 561), recruited participants from the USA and the UK with a mean age of 26 years. Consistent with previous research, the sample showed ethnic and political diversity, poor mental health, high levels of suicidal ideation, and autistic traits. Using a 3N (needs, networks, and narratives) informed theoretical framework, our pathway analysis revealed that poor mental health and ideological adherence were twice as predictive of harmful attitudes and beliefs (e.g., displaced aggression, hostile sexism, and justification of violence) compared to networking, with a bidirectional effect between poor mental health and ideology. We also found two distinct indirect pathways to harmful attitudes and beliefs among incels: one involving experiential vulnerabilities (e.g., autism traits, low mate value, and histories of bullying and abuse) and the other rooted in dispositional traits (e.g., the dark triad and right-wing political orientation), leading us to propose the dual pathways hypothesis of incel harm. These findings suggest that interventions targeting mental health and ideology may be more effective than those focusing solely on online networking. Implications for intervention strategies, informed by these theoretical models, are discussed, including date coaching, therapy and role modeling from former incels. As issues of extremism, online radicalization, and mental health grow in importance, these insights are vital for policymakers, educators, journalists, and others addressing the challenges incels face and represent in society.",
+  "raw_path": "01_raw/europepmc_xml/PMC12162687.xml",
+  "text_path": "02_text/europepmc/PMC12162687.txt",
+  "raw_bytes": 222829,
+  "text_chars": 74817,
+  "raw_sha256": "378c4bbc7be5e3305b35836eafc1576b1e4574eedd490a3780c2800e49de89c2",
+  "text_sha256": "ecb0a71a9857b403bd33200bf7153ef7a0b14459032da546d126c715bb6b7ef4",
+  "retrieved_at": "2026-10-25T15:29:05.947848+00:00"
+}

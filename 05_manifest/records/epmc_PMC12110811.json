@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12110811",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Navigating Body Perception, Affectivity, Intimacy, Gender Identity, and Sexuality: An Exploratory Qualitative Study in Young Adults with SMI, IDs, and ASD in a Community Setting.",
+  "authors": "Belluzzo M, Giaquinto V, Volpe D, Esposito C, De Alfieri E, Amodeo AL.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/ijerph22050722",
+  "pmcid": "PMC12110811",
+  "url": "https://europepmc.org/article/PMC/PMC12110811",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12110811/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "This exploratory qualitative study investigates the challenges faced by young adults (aged 18-40) with severe mental illness (SMI), intellectual disabilities (IDs), and autism spectrum disorder (ASD) in navigating body perception, affectivity, intimacy, gender identity, and sexuality. Through semi-structured interviews with 13 participants recruited from a community habilitation center, thematic analysis revealed systemic barriers rooted in societal stigma, familial overprotection, and institutional neglect. Key findings highlight tensions between bodily autonomy and familial control, with prolonged caregiver dependency in intimate hygiene reflecting patterns of infantilization. We found that participants' self-image was shaped by gendered expectations and familial critiques, reinforcing internalized stigma. Romantic relationships were often idealized through cultural narratives, yet lacked practical guidance on consent or boundaries, exacerbating vulnerabilities. Fragmented sexual education left individuals reliant on pornography or peers, perpetuating misconceptions and anxiety. Despite these barriers, participants demonstrated resilience and agency in advocating for inclusive interventions. This study underscores the urgent need for trauma-informed, rights-based approaches that prioritize autonomy, dignity, and intersectionality. Recommendations include structured skill-building programs for independence, disability-adapted comprehensive sexuality education, and systemic reforms fostering interdisciplinary collaboration. By centering lived experiences, this work challenges structural inequities and advocates for community care models that honor the diverse needs of individuals navigating the intersection of disability, identity, and sexuality.",
+  "raw_path": "01_raw/europepmc_xml/PMC12110811.xml",
+  "text_path": "02_text/europepmc/PMC12110811.txt",
+  "raw_bytes": 225591,
+  "text_chars": 117474,
+  "raw_sha256": "d778ad30ccd9a12069878db710da45eae84813c491f12821ed2f9746677ea35f",
+  "text_sha256": "4538d6ffb1196f6c219803a77a2f46934285d5300a2fa1338be5812dd0712e1e",
+  "retrieved_at": "2026-10-25T15:48:39.228130+00:00"
+}

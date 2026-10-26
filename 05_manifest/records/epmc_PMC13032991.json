@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13032991",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychological Maltreatment, Trait Mindfulness, and Marital Quality: An Actor-Partner Interdependence Model.",
+  "authors": "Akçıl S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s11126-025-10171-5",
+  "pmcid": "PMC13032991",
+  "url": "https://europepmc.org/article/PMC/PMC13032991",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13032991/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "mindfulness"
+  ],
+  "abstract": "Each partner's unique experiences may shape the quality of their romantic relationship. Individuals with a history of psychological maltreatment may need to exercise greater mindfulness to preserve relational well-being. This study examined the mediating role of mindfulness in marriage in the association between psychological maltreatment and relationship quality, considering both actor and partner effects. The Actor-Partner Interdependence Mediation Model (APIMeM) was used to analyze data from 361 married couples (N = 722). The average age was 35.39 years (SD = 8.29) for men and 33.02 years (SD = 7.83) for women. Participants completed standardized self-report measures of psychological maltreatment, marital mindfulness, and relationship quality. Results showed that mindfulness significantly mediated the relationship between psychological maltreatment and relationship quality at both the actor and partner levels. In partner effects, one partner's experience of maltreatment predicted the other's relationship quality through the latter's mindfulness. These findings suggest that higher levels of mindfulness-both individual and partner-based-may buffer the negative effects of psychological maltreatment on relationship quality.",
+  "raw_path": "01_raw/europepmc_xml/PMC13032991.xml",
+  "text_path": "02_text/europepmc/PMC13032991.txt",
+  "raw_bytes": 77024,
+  "text_chars": 29273,
+  "raw_sha256": "b8d5f250d5b08d1f1027693084bf19d505f1f1ede7f98927fa1d04c493686021",
+  "text_sha256": "0947bd3cccb7b57eab73482aeb03c023f7e32f30a5ba524e32d6b42d8d66f769",
+  "retrieved_at": "2026-10-25T15:30:24.158728+00:00"
+}

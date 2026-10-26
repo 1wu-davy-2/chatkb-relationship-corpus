@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9151734",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Experimental data exploring the effects of intranasal oxytocin on young adult social preference and attachment to romantic partners, parents, friends, and strangers.",
+  "authors": "Freeman H, Scholl JL, AnisAbdellatif M, Forster GL, Jacob S, Kaflay S, Bam R, Do T, Gnimpieba EZ.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1016/j.dib.2022.108283",
+  "pmcid": "PMC9151734",
+  "url": "https://europepmc.org/article/PMC/PMC9151734",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9151734/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Experimental studies exploring the effects of intranasal oxytocin are typically underpowered due to small samples. Open access to experimental data and procedures and the use of previously employed measures is critical to building more robust and replicable findings, especially in less studied areas of oxytocin research. In this paper, data is provided from a double-blind placebo-controlled crossover study exploring the effects of intranasal oxytocin (IN-OT: 24 IU) on social preference to romantic partners, parents, peers, and strangers. Young adults ( N = 44; 91% female) in committed dating relationships completed three phases of data collection including a screening survey followed by two cmd kwdnextpage ?>laboratory visits. In addition to romantic partner-, and stranger attraction ratings, the data is the first to provide comparisons between attachment and social preference ratings to parents, close friends, and romantic partners under placebo and IN-OT conditions. The data also include differences by situational and life history factors known to moderate oxytocin effects. The detailed protocol, and dataflow can be accessed to verify the analysis and findings or to conduct a replication study. The standardized experimental design and common IN-OT protocol add to the capacity for a meta-analysis exploring oxytocin effects on partner preference and may also be directly ported to existing or future studies with related questions to increase sample size and power.",
+  "raw_path": "01_raw/europepmc_xml/PMC9151734.xml",
+  "text_path": "02_text/europepmc/PMC9151734.txt",
+  "raw_bytes": 70925,
+  "text_chars": 31494,
+  "raw_sha256": "00d129a686dbf10b7c8f8cfd68bbe486e129b9fe5778d747c8da21289ab61178",
+  "text_sha256": "6440a5c06270eaa32d59f1f026b360d5e465ca8220403d27fb8c2ecf51a2b9ed",
+  "retrieved_at": "2026-10-25T15:38:22.987526+00:00"
+}

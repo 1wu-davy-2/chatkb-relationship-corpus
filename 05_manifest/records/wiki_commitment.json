@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_commitment",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "承諾",
+  "requested_title": "承诺",
+  "url": "https://zh.wikipedia.org/wiki/%E6%89%BF%E8%AB%BE",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "relationship",
+    "commitment"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/commitment.json",
+  "text_path": "02_text/zh_wikipedia/commitment.txt",
+  "raw_bytes": 1112,
+  "text_chars": 462,
+  "text_sha256": "e3ebaece19d93a7fb4fd9c709ff07d90644451c6bfd265482acbabed8daa427e",
+  "retrieved_at": "2026-10-25T15:34:12.866865+00:00"
+}

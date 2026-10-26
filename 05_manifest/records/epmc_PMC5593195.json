@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5593195",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Misattribution of musical arousal increases sexual attraction towards opposite-sex faces in females.",
+  "authors": "Marin MM, Schober R, Gingras B, Leder H.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0183531",
+  "pmcid": "PMC5593195",
+  "url": "https://europepmc.org/article/PMC/PMC5593195",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5593195/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Several theories about the origins of music have emphasized its biological and social functions, including in courtship. Music may act as a courtship display due to its capacity to vary in complexity and emotional content. Support for music's reproductive function comes from the recent finding that only women in the fertile phase of the reproductive cycle prefer composers of complex melodies to composers of simple ones as short-term sexual partners, which is also in line with the ovulatory shift hypothesis. However, the precise mechanisms by which music may influence sexual attraction are unknown, specifically how music may interact with visual attractiveness cues and affect perception and behaviour in both genders. Using a crossmodal priming paradigm, we examined whether listening to music influences ratings of facial attractiveness and dating desirability of opposite-sex faces. We also tested whether misattribution of arousal or pleasantness underlies these effects, and explored whether sex differences and menstrual cycle phase may be moderators. Our sample comprised 64 women in the fertile or infertile phase (no hormonal contraception use) and 32 men, carefully matched for mood, relationship status, and musical preferences. Musical primes (25 s) varied in arousal and pleasantness, and targets were photos of faces with neutral expressions (2 s). Group-wise analyses indicated that women, but not men, gave significantly higher ratings of facial attractiveness and dating desirability after having listened to music than in the silent control condition. High-arousing, complex music yielded the largest effects, suggesting that music may affect human courtship behaviour through induced arousal, which calls for further studies on the mechanisms by which music affects sexual attraction in real-life social contexts.",
+  "raw_path": "01_raw/europepmc_xml/PMC5593195.xml",
+  "text_path": "02_text/europepmc/PMC5593195.txt",
+  "raw_bytes": 130747,
+  "text_chars": 45628,
+  "raw_sha256": "9008dcfd5fff5dea362ecae543fb38cfc5aae0818aed3f3f03cfe0ea7c48e358",
+  "text_sha256": "6a439cb8d595fddb9ec06ae7f703ac6dca0425269e04ff3a92770a93e3f1fb05",
+  "retrieved_at": "2026-10-25T15:49:25.065381+00:00"
+}

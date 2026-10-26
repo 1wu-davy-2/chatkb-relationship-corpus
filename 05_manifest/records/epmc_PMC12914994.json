@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12914994",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Comparison of women's and men's sexual desires based on the emotional atmosphere of the family and the initial incompatible schemas with the mediating role of self-compassion.",
+  "authors": "Abooei A, Pourakbari A, Salemian H.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-025-03938-9",
+  "pmcid": "PMC12914994",
+  "url": "https://europepmc.org/article/PMC/PMC12914994",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12914994/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy",
+    "sexual_pleasure_gender"
+  ],
+  "abstract": "This study examined gender differences in sexual desire in relation to family emotional climate and early maladaptive schemas, with self-compassion as a mediating factor. A sample of 300 married adults in Yazd, Iran (150 women, 150 men; aged 20–50) completed validated measures of sexual desire, family emotional climate, early maladaptive schemas, and self-compassion. Structural equation modeling was used to test direct and indirect relationships. Results showed that self-compassion was significantly associated with sexual desire in women (β = − 0.33), but not in men (β = − 0.11). The indirect effect of family emotional climate on sexual desire through self-compassion was small but significant among women (B = − 0.05), whereas it was nonsignificant among men. Women reported higher difficulties in sexual desire than men; however, these gender differences should be interpreted with caution because measurement invariance was not formally tested. Overall, the findings suggest that self-compassion and family emotional climate play a more prominent role in shaping women’s sexual desire compared to men’s. These results may inform culturally sensitive interventions in couples therapy and sexual health programs, especially those targeting emotional regulation, family dynamics, and self-compassion.",
+  "raw_path": "01_raw/europepmc_xml/PMC12914994.xml",
+  "text_path": "02_text/europepmc/PMC12914994.txt",
+  "raw_bytes": 126677,
+  "text_chars": 52858,
+  "raw_sha256": "5bb333a19745d281574ee0c8927a202954b3f17c70d9799ffa730a5228f44568",
+  "text_sha256": "481898742a7edafe0a6c20f3fb08a60cf824486b1e4f63c9508b5e55ca505086",
+  "retrieved_at": "2026-10-25T15:43:44.730206+00:00"
+}

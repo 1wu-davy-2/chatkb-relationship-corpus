@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_24422",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "定情人",
+  "gutenberg_id": "24422",
+  "url": "https://www.gutenberg.org/ebooks/24422",
+  "download_url": "https://www.gutenberg.org/cache/epub/24422/pg24422.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/24422.txt",
+  "text_path": "02_text/gutenberg/gut_24422_定情人.txt",
+  "raw_bytes": 288520,
+  "text_chars": 89033,
+  "text_sha256": "f017f16df7b0253df3a8cce48276bdd879e7a9f1488667bf4959897ed304714b",
+  "retrieved_at": "2026-10-25T16:05:31.376210+00:00"
+}

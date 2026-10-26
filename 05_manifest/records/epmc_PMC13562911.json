@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13562911",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Phenotypic Integration Facilitates Plasticity Through Reorganization of Traits Under Multiple Stress: Evidence From Asexual Water Flea Genotypes.",
+  "authors": "Tian X, Feng W, Zhang X.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1002/ece3.74304",
+  "pmcid": "PMC13562911",
+  "url": "https://europepmc.org/article/PMC/PMC13562911",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13562911/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "asexuality_celibacy"
+  ],
+  "abstract": "Traditional theory posits that phenotypic integration-the structured covariation among traits-constrains phenotypic plasticity, thereby limiting adaptive responses. In contrast, emerging perspectives suggest integration may instead facilitate plasticity through coordinated trait adjustments. The mechanistic basis of this relationship, particularly how differential plasticity among traits shapes integration, remains empirically unresolved. To test these competing hypotheses, we exposed five genotypes of an asexual Daphnia cf. pulex to a factorial design of six temperature × food environments. We measured key functional traits (activities of five digestive enzymes and body length) and quantified phenotypic integration, trait plasticity, and differential plasticity. We then assessed: (i) how genotype and environment shape integration structure, (ii) the relationship between integration strength and plasticity magnitude, and (iii) how integration shapes correlated versus differential plasticity across environments. Our results show that phenotypic integration is itself highly plastic, dynamically reconfigured by genotype-by-environment interactions. The integration-plasticity relationship was context-dependent: under low-food conditions, stronger integration was associated with greater plasticity, supporting a facilitative rather than constraining role in this system. Notably, the stability of trait correlations across environments declined significantly as the magnitude of differential plasticity between traits increased. This identifies plasticity coordination as the mechanistic link through which integration buffers organisms against environmental variation. Variation in integration and plasticity was independent of pairwise genetic distance among clones. Our findings challenge the classic constraint model by demonstrating that phenotypic integration is a labile property that facilitates functional plasticity through coordinated trait adjustments. Specifically, variation in differential plasticity serves as a critical mechanistic determinant of this process. This capacity for context-dependent reorganization of trait relationships is largely decoupled from genetic constraints in our study system. It positions integration as a potential dynamic facilitator of rapid adaptation, potentially underpinning the success of asexual lineages in fluctuating environments.",
+  "raw_path": "01_raw/europepmc_xml/PMC13562911.xml",
+  "text_path": "02_text/europepmc/PMC13562911.txt",
+  "raw_bytes": 192742,
+  "text_chars": 68232,
+  "raw_sha256": "ed4ef74aba68ecc07a479625bcdae9512ee3ccb2c8b0e0b702ae26fb6c73315f",
+  "text_sha256": "7ff5c1bce04ff350e5baa4bd69ccd14ecc964fe852bfc1188cf2ba3960f8e5ca",
+  "retrieved_at": "2026-10-26T13:10:45.288403+00:00"
+}

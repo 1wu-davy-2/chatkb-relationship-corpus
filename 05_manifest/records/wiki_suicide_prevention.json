@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_suicide_prevention",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "自殺預防",
+  "requested_title": "自杀预防",
+  "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E6%AE%BA%E9%A0%90%E9%98%B2",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 自殺預防",
+  "topics": [
+    "mental_health",
+    "safety"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/suicide_prevention.json",
+  "text_path": "02_text/zh_wikipedia/suicide_prevention.txt",
+  "raw_bytes": 15619,
+  "text_chars": 5840,
+  "text_sha256": "1874ea196d35262efcf7fbec9e707bfbabe82bd8dc6dc37de66a72f9cf6d850f",
+  "retrieved_at": "2026-10-25T16:24:27.819318+00:00"
+}

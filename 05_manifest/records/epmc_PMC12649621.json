@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12649621",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring Lay Understandings of Romantic Chemistry Using Inductive and Deductive Content Analysis.",
+  "authors": "Devenport S, Phillips MJ, Mullan B, Winter S, Davis-McCabe C.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15111565",
+  "pmcid": "PMC12649621",
+  "url": "https://europepmc.org/article/PMC/PMC12649621",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12649621/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Romantic chemistry is an important indicator of compatibility between prospective romantic partners, but, despite theoretical work, lay understandings of romantic chemistry that could inform theory are still unclear. We used an online survey question to collect romantic chemistry conceptualisations from 571 Australian adults who were currently looking for a romantic partner, of whom 53.06% identified with minority gender and/or sexual identities. We analysed responses using inductive content analysis, which resulted in the construction of categories and sub-categories concerning the multifaceted nature of romantic chemistry, the importance of mutual feelings, and central concepts of interactivity, connection, and attraction. We performed a deductive content analysis using these categories and sub-categories to re-code responses and observed little evidence of differences between groups based on assigned sex, gender, sexual, and minority identities. Our findings suggest that romantic chemistry is only perceivable when multiple facets are experienced and that experiences of facets vary individually, which provides ample grounds for future investigation and measurement of romantic chemistry.",
+  "raw_path": "01_raw/europepmc_xml/PMC12649621.xml",
+  "text_path": "02_text/europepmc/PMC12649621.txt",
+  "raw_bytes": 138366,
+  "text_chars": 49469,
+  "raw_sha256": "b0b94d41d147a977fa2dd32950157eeb8a0aabe3dce1d516f46664c11a1e3625",
+  "text_sha256": "7acffbe62219596c41f1d8ce5c8a118d03bfbce8813d5a475299466bf394817f",
+  "retrieved_at": "2026-10-25T13:53:43.548099+00:00"
+}

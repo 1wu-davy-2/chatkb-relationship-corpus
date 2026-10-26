@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12675610",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual Satisfaction in Spanish Same-Sex Couples: Testing the Interpersonal Exchange Model of Sexual Satisfaction.",
+  "authors": "Mangas P, Tavares IM, Calvillo C, Granados R, Sierra JC.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10508-025-03219-x",
+  "pmcid": "PMC12675610",
+  "url": "https://europepmc.org/article/PMC/PMC12675610",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12675610/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction"
+  ],
+  "abstract": "The Interpersonal Exchange Model of Sexual Satisfaction (IEMSS) is a theoretical framework that conceptualizes sexual satisfaction in couple relationships by including both sexual and non-sexual interpersonal variables. The IEMSS has not been validated dyadically in same-sex couples. This study aimed to examine the sexual satisfaction of 228 Spanish same-sex couples (116 male dyads and 112 female dyads) from the IEMSS perspective. Both men and women surveyed reported high levels of sexual and relationship satisfaction, as well as elevated scores on all IEMSS components. Men's sexual satisfaction was explained by their own relationship satisfaction, the balance of sexual rewards and costs, and the comparison level of sexual rewards and costs. Women's sexual satisfaction was explained by the same variables as men's and by their partner's balance of sexual rewards and costs and the comparison level of sexual rewards and costs. Consistent with most previous evidence, we found no effect of equality components on sexual satisfaction beyond the bivariate level. These results expand current knowledge on sexual satisfaction and its correlates in same-sex couples. Although no partner effects were found in the sample of male couples, our findings highlight the importance of assessing both partners to understand the dyadic dynamics that determine sexual satisfaction, especially in the case of women, for whom sexual satisfaction is linked to the experiences manifested by both members of the couple. The current results have implications for improving the sexual well-being and quality of life of same-sex couples.",
+  "raw_path": "01_raw/europepmc_xml/PMC12675610.xml",
+  "text_path": "02_text/europepmc/PMC12675610.txt",
+  "raw_bytes": 239154,
+  "text_chars": 59978,
+  "raw_sha256": "09cf130849e2cd83a254ce218b92a10790e3217af38f04e9894e471c571b275d",
+  "text_sha256": "21b10eaef6266afa3ba73e0ba999f2cf606354786c361a5a9081f93aac71f84f",
+  "retrieved_at": "2026-10-25T15:28:58.103714+00:00"
+}

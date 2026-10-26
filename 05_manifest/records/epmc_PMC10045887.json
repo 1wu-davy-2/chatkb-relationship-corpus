@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10045887",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Social Odour Perception and Stress Responses in Women's Quality of Partner Relationship and Attachment Style.",
+  "authors": "Piraino G, Gelo OCG, Schito A, Giménez-Llort L, Invitto S.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3390/bs13030239",
+  "pmcid": "PMC10045887",
+  "url": "https://europepmc.org/article/PMC/PMC10045887",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10045887/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_desire_gap"
+  ],
+  "abstract": "The perception of body and social odours (SOP) is crucial for interpersonal chemosensory signalling and mate choice, yet little is known about the role of the SOP on the quality of partnerships and the attachment style. The aim of this study was to investigate the role of the SOP in women's stress responses by considering the role of biopsychosocial variables in the quality of interpersonal relationships (also considering intimate partner violence). In total, 253 women filled out an online survey that included a series of questionnaires to investigate self-perceived stress (PSS), emotional regulation (ERQ), olfactory social assessment (SOS), quality of partnership (RRQ), attachment style (RQ), and the Conflict Tactile Scale 2 (CTS-2). The main results highlight that a high awareness of social odours correlates with a good quality of relationship and with an emotional regulation capacity; the PSS correlates negatively with the ERQ (i.e., as the PSS increases, the ERQ decreases). The level of IPV predicts an interpersonal style characterized by a low desire to develop meaningful relationships but with a tendency to depend on and trust another. The idea of being hurt by the other is not central in women who experience this type of relationship. The study's main conclusion is that social odour perception is important for emotional regulation and in partner relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC10045887.xml",
+  "text_path": "02_text/europepmc/PMC10045887.txt",
+  "raw_bytes": 81870,
+  "text_chars": 22485,
+  "raw_sha256": "8113f301082b23941f288da7b9c80ab1fb62731635eae1ed16d7bc8522793fc5",
+  "text_sha256": "d74a51a651a163c42f8008e0ce5bd38852561406fa4b25de6f97364e0db8a1d6",
+  "retrieved_at": "2026-10-26T13:08:24.480913+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_premature_ejaculation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "早發性射精",
+  "requested_title": "早泄",
+  "url": "https://zh.wikipedia.org/wiki/%E6%97%A9%E7%99%BC%E6%80%A7%E5%B0%84%E7%B2%BE",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 早發性射精",
+  "topics": [
+    "sexuality",
+    "health"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/premature_ejaculation.json",
+  "text_path": "02_text/zh_wikipedia/premature_ejaculation.txt",
+  "raw_bytes": 11181,
+  "text_chars": 4694,
+  "text_sha256": "d509de2c8074ab429cefbfcce058e5badd924bea583d9bfe8191abd5f5f04aab",
+  "retrieved_at": "2026-10-26T13:00:11.836952+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13231634",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Registration of family vital events in a conflict-induced displacement setting.",
+  "authors": "Torrisi O, Zimmerman L, Elnakib S, Hossain T, Hasan MT, Rashid SF, Traill TW, Akter R, Robinson WC.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12963-026-00480-7",
+  "pmcid": "PMC13231634",
+  "url": "https://europepmc.org/article/PMC/PMC13231634",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13231634/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Background In many low- and middle-income countries, the registration of family-related vital events (marriages and births) remains incomplete, with consequences for women's and their children's ability to exercise fundamental rights. In humanitarian and displacement settings, the absence of documentation creates additional barriers to legal recognition, identification and protection, especially if the population is already at risk of statelessness, as in the case of the Rohingya, a minority ethnic group that has experienced genocide. Data and methods Drawing on unique primary survey data collected among Rohingya youth (aged 15-24) in refugee camps in Bangladesh, this study examines the prevalence, timeliness, and determinants of marriage registration with relevant camp authorities, as well as associations with birth registration. Results We find relatively high registration rates: approximately 65% of marriages and 58% of births are reportedly registered. Among young adults (aged 18+), few socio-demographic or locational factors are associated with marriage registration or its timeliness, but marriage-specific characteristics - including early marriage, spousal age gaps, and whether the union was arranged - emerge as important predictors. Marrying before age 18 remains linked to lower likelihood of union registration, regardless of marital duration, and to longer delays. Moreover, marriage registration strongly predicts the registration of births, with respondents in registered marriages being nearly three times as likely to register their child(ren)'s births and having about 50% higher odds of doing so in a timely manner. Registration of family events is more common and more timely among less economically disadvantaged households. Conclusions These findings provide initial insights into the factors influencing access to documentation among a population highly vulnerable to statistical and legal invisibility and underscore the interconnectedness of family-related vital events in contexts of forced displacement.",
+  "raw_path": "01_raw/europepmc_xml/PMC13231634.xml",
+  "text_path": "02_text/europepmc/PMC13231634.txt",
+  "raw_bytes": 215743,
+  "text_chars": 47282,
+  "raw_sha256": "2f3474d79b674efd0bcac290082287595971ef954c9d5427705a2463991dce5b",
+  "text_sha256": "55aacc7eab7511c5adbe078930c6f5c045ee939d0f045bd24ee9791700557d4e",
+  "retrieved_at": "2026-10-25T13:57:45.035500+00:00"
+}

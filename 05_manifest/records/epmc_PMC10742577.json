@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10742577",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dating Violence and Mental Health in Emerging Adulthood.",
+  "authors": "Matud MP, Hernández-Lorenzo DE, Fortes D, Ibáñez I.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3390/healthcare11243172",
+  "pmcid": "PMC10742577",
+  "url": "https://europepmc.org/article/PMC/PMC10742577",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10742577/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gender_roles"
+  ],
+  "abstract": "Dating violence constitutes a serious social and health problem. This study aims to increase knowledge on dating violence in emerging adulthood by analysing the relevance of gender and of having or not having a current partner in the victimization and perpetration of such violence. It also analyses the association between dating violence and mental health, as well as the relevance of traditional gender role attitudes and the internalization of feminine/expressive and masculine/instrumental traits in the victimization and perpetration of such types of violence. The participants were 930 Spanish emerging adults who were assessed by six self-report questionnaires and scales. Men reported more psychological and physical violence victimization and physical violence perpetration than women, and women and men without a current partner reported more psychological and sexual violence than women and men with a current partner. Dating violence victimization was associated with more mental symptomatology, less life satisfaction, and lower self-esteem in men with a current partner and in women without a current partner. The main predictor of dating violence victimization was dating violence perpetration, and the main predictor of dating violence perpetration was victimization by such violence. More traditional gender role attitudes also predicted greater victimization and perpetration of dating violence, except among women without a current partner.",
+  "raw_path": "01_raw/europepmc_xml/PMC10742577.xml",
+  "text_path": "02_text/europepmc/PMC10742577.txt",
+  "raw_bytes": 228086,
+  "text_chars": 53734,
+  "raw_sha256": "c21ffaa8c89ecb6c01f63555d0dc0d4817b6b661a9b150fb9e100cf3ba837ede",
+  "text_sha256": "deb8278da2912d828950cce25e6ef2beeb4d733ff4ec11d3d8f4b452be8af207",
+  "retrieved_at": "2026-10-25T13:55:23.716246+00:00"
+}

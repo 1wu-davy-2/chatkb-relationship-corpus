@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13215846",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Living with a spouse or partner, material hardship, and mental distress among men and women during the COVID-19 pandemic in New York City.",
+  "authors": "Shen A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpubh.2026.1794714",
+  "pmcid": "PMC13215846",
+  "url": "https://europepmc.org/article/PMC/PMC13215846",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13215846/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "Background The COVID-19 pandemic affected mental health worldwide. Mental health is considered related to marriage or cohabitation and material hardship. This study aims to explore the associations between living with a spouse or partner, material hardships, and mental distress among New York City residents during the pandemic. It focuses specifically on the relationship between living with a spouse/a spouse or partner and the risk of mental distress, as well as the role of material hardship in this association, examined separately for men and women. Methods This study used cross-sectional data collected between late 2020 and early 2021 from the NYC Longitudinal Survey of Wellbeing. Chi-squared tests and several groups of logistic regression models were conducted. Results Women and those who were not living with a spouse or partner were more likely to report material hardship, and mental distress than men and those living with a spouse or partner. Several material hardships were associated with a higher risk of mental distress. Among men, the results revealed that both living with a spouse and living with a spouse or partner were associated with a lower risk of mental distress, whereas material hardship moderated these relationships. For women, only living with a spouse or partner was found to be related to a lower risk of mental distress. Conclusion The findings may reflect inequalities for some disadvantaged groups and provide implications for designing relevant social policies or delivering social services.",
+  "raw_path": "01_raw/europepmc_xml/PMC13215846.xml",
+  "text_path": "02_text/europepmc/PMC13215846.txt",
+  "raw_bytes": 128445,
+  "text_chars": 33911,
+  "raw_sha256": "67a9b4cca7f9101a4975f168ed0c6229fea0ea9559157101102c7df2db6e98f9",
+  "text_sha256": "7d438c260fde28a766319da6ad2dbbe579cca5f0b9574cc270207d4ff43ac1fe",
+  "retrieved_at": "2026-10-25T15:33:01.410414+00:00"
+}

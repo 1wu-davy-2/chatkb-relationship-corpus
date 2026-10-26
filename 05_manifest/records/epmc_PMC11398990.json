@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11398990",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual exchanges explain the association between attachment insecurities and sexual satisfaction in long-term couples.",
+  "authors": "Péloquin K, Byers ES, Beaulieu N, Bergeron S, Brassard A.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/02654075231209242",
+  "pmcid": "PMC11398990",
+  "url": "https://europepmc.org/article/PMC/PMC11398990",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11398990/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "Although attachment insecurity has been linked to sexual dissatisfaction in cross-sectional research, little is known about the mechanisms by which attachment is associated with sexual satisfaction over time. This study examined the role of attachment insecurities in sexual satisfaction over time using the Interpersonal Exchange Model of Sexual Satisfaction (IEMSS) as a theoretical framework. Participants were 151 Canadian mixed-gender couples in a long-term relationship ( M = 9.7 years) who completed questionnaires at two time points. The results demonstrate that sexual exchanges explained the associations between attachment insecurities (anxiety and avoidance) and sexual satisfaction in both men and women in long-term relationships, although the specific pathways differed by gender. These results are discussed in the context of the IEMSS and attachment theory.",
+  "raw_path": "01_raw/europepmc_xml/PMC11398990.xml",
+  "text_path": "02_text/europepmc/PMC11398990.txt",
+  "raw_bytes": 135579,
+  "text_chars": 54214,
+  "raw_sha256": "75827bc7f3a3a8f320f53bd11551e9e29befa05e4564f0ce8102908e2a1fb948",
+  "text_sha256": "6948d2ba7876de7d1702b0a33099133bc2c314d0d59953eaee5eef6fff782559",
+  "retrieved_at": "2026-10-26T13:08:28.662217+00:00"
+}

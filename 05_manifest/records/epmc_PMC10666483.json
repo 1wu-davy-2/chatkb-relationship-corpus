@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10666483",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Role of Attachment, Insecurity, and Stress in Partner Maltreatment: A Meta-Analysis.",
+  "authors": "Knox L, Karantzas G, Ferguson E.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/15248380231161012",
+  "pmcid": "PMC10666483",
+  "url": "https://europepmc.org/article/PMC/PMC10666483",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10666483/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "validation"
+  ],
+  "abstract": "Negative, destructive, and abusive behaviors in romantic relationships can vary from explicit kinds of abuse and aggression to more subtle and seemingly innocuous slights against or ways of treating a partner. However, regardless of the severity or explicit nature, these behaviors all, to one extent or another, reflect acts of invalidation, disrespect, aggression, or neglect toward a partner, and could be considered maltreatment of a partner. The current paper proposes the term partner maltreatment as a broad overarching concept, which was used to facilitate a meta-analytic synthesis of the literature to examine the associations between attachment insecurity (i.e., attachment anxiety, attachment avoidance) and perpetration of partner maltreatment. Additionally, this paper situated partner maltreatment within an attachment-based diathesis-stress perspective to explore the moderating role of stress. Five databases were systematically searched for published and unpublished studies that examined the direct association between perpetrator's adult attachment orientation and perpetration of partner maltreatment behaviors. We synthesized effect sizes from 139 studies ( N = 38,472) and found the effect between attachment insecurity and acts of partner maltreatment varied between r = .11 to .21. Our findings provide meta-analytic evidence to suggest that attachment insecurity is a significant individual vulnerability factor (diathesis) associated with partner maltreatment; and that when individuals with an insecure attachment orientation experience stress, the tendency to perpetrate partner maltreatment is typically heightened. The findings of this meta-analysis provide empirical evidence for the importance of considering and addressing contextual factors, especially stress, for those individuals and couples seeking therapy for partner maltreatment.",
+  "raw_path": "01_raw/europepmc_xml/PMC10666483.xml",
+  "text_path": "02_text/europepmc/PMC10666483.txt",
+  "raw_bytes": 175520,
+  "text_chars": 65247,
+  "raw_sha256": "881d80ac704b348acf744e80385969edac368b76531844c7d905592dba2fa23c",
+  "text_sha256": "0e5733687e56531d3cff73c6593424d03a42365e92d097b2a2189cce84e541bf",
+  "retrieved_at": "2026-10-25T15:32:23.612358+00:00"
+}

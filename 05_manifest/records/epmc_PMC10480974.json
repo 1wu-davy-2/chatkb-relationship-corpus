@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10480974",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Association Between Mating Performance, Marital Status, and the Length of Singlehood: Evidence From Greece and China.",
+  "authors": "Apostolou M, Wang Y.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1177/1474704919887706",
+  "pmcid": "PMC10480974",
+  "url": "https://europepmc.org/article/PMC/PMC10480974",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10480974/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "A considerable proportion of people in postindustrial societies experience difficulties in intimate relationships and spend considerable time being single. In the current research, we attempted to examine mating performance, and occurrence and length of singlehood in a Greek ( N = 884) and a Chinese ( N = 2,041) sample. We found that, in both samples, about half of the participants experienced difficulties in intimate relationships. In addition, more than half of the participants were single, and nearly one in four participants indicated that they were single because they faced difficulties attracting a partner. Moreover, more than one in five singles in the Greek sample were without a partner for more than 3 years, and almost half of the singles in the Chinese sample had never been in a relationship. Mating performance predicted marital status, with low scorers being more likely to be single because they faced difficulties in attracting a partner than high scorers. Mating performance predicted also the length of singlehood, with low scorers spending more time being single than high scorers. In addition, singles who faced difficulties in attracting partners experienced lengthier spells of singlehood than other categories of singles. Furthermore, there were significantly more participants who preferred to be single and who never had a relationship in the Chinese than in the Greek sample. Overall, in both samples, a considerable proportion of participants experienced low mating performance, which was associated with increased incidence of prolonged spells of singlehood.",
+  "raw_path": "01_raw/europepmc_xml/PMC10480974.xml",
+  "text_path": "02_text/europepmc/PMC10480974.txt",
+  "raw_bytes": 90507,
+  "text_chars": 42410,
+  "raw_sha256": "9a9f9b14d9ff7ea9e5c9be46bf87a2ff37aaea2aca2272afe0c1ab09233e4f07",
+  "text_sha256": "5c1721801a52f198940892b1c1802882e2de88f024ccc489d220ab4bc9dbd3a3",
+  "retrieved_at": "2026-10-25T15:44:15.240674+00:00"
+}

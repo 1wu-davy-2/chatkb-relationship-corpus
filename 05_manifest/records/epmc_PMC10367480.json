@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10367480",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Your Cheatin' Voice Will Tell on You: Detection of Past Infidelity from Voice.",
+  "authors": "Hughes SM, Harrison MA.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.1177/1474704917711513",
+  "pmcid": "PMC10367480",
+  "url": "https://europepmc.org/article/PMC/PMC10367480",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10367480/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "Evidence suggests that many physical, behavioral, and trait qualities can be detected solely from the sound of a person's voice, irrespective of the semantic information conveyed through speech. This study examined whether raters could accurately assess the likelihood that a person has cheated on committed, romantic partners simply by hearing the speaker's voice. Independent raters heard voice samples of individuals who self-reported that they either cheated or had never cheated on their romantic partners. To control for aspects that may clue a listener to the speaker's mate value, we used voice samples that did not differ between these groups for voice attractiveness, age, voice pitch, and other acoustic measures. We found that participants indeed rated the voices of those who had a history of cheating as more likely to cheat. Male speakers were given higher ratings for cheating, while female raters were more likely to ascribe the likelihood to cheat to speakers. Additionally, we manipulated the pitch of the voice samples, and for both sexes, the lower pitched versions were consistently rated to be from those who were more likely to have cheated. Regardless of the pitch manipulation, speakers were able to assess actual history of infidelity; the one exception was that men's accuracy decreased when judging women whose voices were lowered. These findings expand upon the idea that the human voice may be of value as a cheater detection tool and very thin slices of vocal information are all that is needed to make certain assessments about others.",
+  "raw_path": "01_raw/europepmc_xml/PMC10367480.xml",
+  "text_path": "02_text/europepmc/PMC10367480.txt",
+  "raw_bytes": 150210,
+  "text_chars": 51622,
+  "raw_sha256": "33921ce683c5859f8c6ed53b7db8d0624e9038f66e7945a73a8c6e4d7a8a798f",
+  "text_sha256": "dbdcbe5ac8dd8fbdc71792b0b4622bff0dd951b3228ce9a438e20f55e76a3743",
+  "retrieved_at": "2026-10-25T15:42:50.874339+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_physical_attractiveness",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "外貌吸引力",
+  "requested_title": "外貌吸引力",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A4%96%E8%B2%8C%E5%90%B8%E5%BC%95%E5%8A%9B",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 外貌吸引力",
+  "topics": [
+    "attraction",
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/physical_attractiveness.json",
+  "text_path": "02_text/zh_wikipedia/physical_attractiveness.txt",
+  "raw_bytes": 4259,
+  "text_chars": 1706,
+  "text_sha256": "f1e276a5b8cc7f525af8bddf2b2ee39ac1b15646dfdfec0592f25f8168b7270a",
+  "retrieved_at": "2026-10-25T16:08:11.885226+00:00"
+}

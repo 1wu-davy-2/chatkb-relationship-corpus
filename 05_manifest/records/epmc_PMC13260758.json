@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13260758",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dating App Safety Among Older Women in Australia: Using Informational Videos for Effective Safety Messaging Delivery.",
+  "authors": "Turley EL, Cattoni J, Corbett-Jarvis N.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/10778012251366224",
+  "pmcid": "PMC13260758",
+  "url": "https://europepmc.org/article/PMC/PMC13260758",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13260758/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "This study investigates dating app safety concerns and effective safety messaging for Australian women aged 55 and over. As older women increasingly use dating apps for companionship, romance, or casual encounters, they may face risks such as harassment and scams. Using a qualitative approach, 121 cisgender women viewed three character-driven educational safety videos and then completed a survey. Reflexive Thematic Analysis generated four themes: safety concerns, modalities of safety messaging, video-based knowledge building, and behavioral change. Findings can be used to inform effective intervention development for targeted groups of people, providing memorable visual alternatives to traditional text-based safety information.",
+  "raw_path": "01_raw/europepmc_xml/PMC13260758.xml",
+  "text_path": "02_text/europepmc/PMC13260758.txt",
+  "raw_bytes": 140245,
+  "text_chars": 61747,
+  "raw_sha256": "43fc38488f12c524f1104632f3df92ef974c9457561b8f915e243e7b187cfeb1",
+  "text_sha256": "e9d6707438b11798ddfecfae8aad8de9e47927a24c8675b93dd769257487db47",
+  "retrieved_at": "2026-10-25T13:58:47.696585+00:00"
+}

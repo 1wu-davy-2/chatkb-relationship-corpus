@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11201850",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Rejection in romantic relationships: Does rejection sensitivity modulate emotional responses to perceptions of negative interactions?",
+  "authors": "Richter M, Kouri G, Meuwly N, Schoebi D.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s40359-024-01864-w",
+  "pmcid": "PMC11201850",
+  "url": "https://europepmc.org/article/PMC/PMC11201850",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11201850/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Background Rejection is a highly stressful experience and individuals tend to avoid it whenever possible. In intimate relationships, experiences of rejection can shape the interaction dynamics between partners. Highly rejection sensitive people fear that their romantic partner will reject them and they overreact to any ambiguous cues that might indicate rejection. Furthermore, because they focus on the threat of rejection, they may have difficulty disengaging from rejection-related emotions, persevere in a rejection-focused state and have a reduced capacity to regulate their emotions. The prolonged experience of strong negative emotions, together with maladaptive attempts to respond to rejection, may undermine key relationship maintenance processes that contribute to relationship functioning and lead to negative reciprocity in interactions. The goal of the present study was to shed light on how individuals experience rejection-related emotions and determine whether, following perceptions of negative interactions, rejection sensitivity was associated with stronger negative responses and less efficient downregulation of negative emotions. In addition, we examined whether dyadic patterns of rejection sensitivity were associated with negative emotion dynamics following perceptions of negative interactions. Methods The participants (N = 298) were couples experiencing the transition to parenthood. A multilevel modelling approach was used to assess the associations between rejection sensitivity, perceptions of negative interactions and emotional states. The analyses included repeated daily reports for both rejection and emotions. Results The results suggest that rejection sensitive individuals do not report higher negative emotions when they perceive negative interactions. Moreover, rejection sensitive men and women did not remain longer in a negative emotional state after they perceived negative interactions with their partner. Finally, when both men and women partners reported higher levels of rejection sensitivity, neither reported having higher negative emotions after experiencing negative interaction perceptions. Conclusions Our findings provide further insights into emotional dynamics and rejection sensitivity in romantic relationships. Our results do not provide evidence for a link between rejection sensitivity and higher negative emotions or slower recovery after reports of negative interactions. If individuals suppress their emotions, they may not benefit from regulation with their partner and instead may protect themselves over their relationships. However, in this context, rejection sensitivity might also not constitute a strong predictor of daily emotion fluctuations, but other variables- such as relationship satisfaction - might. Future research may investigate emotional responses in a sample with higher levels of rejection sensitivity and use more diverse measures of perceptions of negative interactions.",
+  "raw_path": "01_raw/europepmc_xml/PMC11201850.xml",
+  "text_path": "02_text/europepmc/PMC11201850.txt",
+  "raw_bytes": 150988,
+  "text_chars": 55476,
+  "raw_sha256": "d5290760788ebb473ba0891ce80749a1d568013771c018ba5034131bf1c570f4",
+  "text_sha256": "53eb55f2e5d0d9785fd023c23d030af872794efdabdf305f1febbf2b8542f33f",
+  "retrieved_at": "2026-10-25T13:56:42.262849+00:00"
+}

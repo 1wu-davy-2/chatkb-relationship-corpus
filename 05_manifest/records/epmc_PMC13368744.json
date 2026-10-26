@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13368744",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The mediating role of fragility of happiness in the association between marital loneliness and depression sensitivity: an actor-partner interdependence analysis.",
+  "authors": "Akçıl S, Erdinç B.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1870144",
+  "pmcid": "PMC13368744",
+  "url": "https://europepmc.org/article/PMC/PMC13368744",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13368744/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "Introduction Although marriage generally supports psychological wellbeing, individuals can still experience profound loneliness within intimate relationships, which may increase susceptibility to adverse mental health outcomes. This study employed a cross-sectional, dyadic research design to investigate whether the belief that happiness is fragile mediates the relationship between marital loneliness and depression sensitivity. Methods Self-report data were collected from 307 married couples ( N = 614; husbands' mean age = 35.71, wives' mean age = 33.24) in Türkiye. Both intrapersonal (actor) and interpersonal (partner) pathways were examined by adopting the Actor-Partner Interdependence Mediation Model (APIMeM) via structural equation modeling. Results Results revealed significant actor and partner mediation effects for both husbands and wives (e.g., actor effect: β = 0.39, p p Discussion These findings illustrate how cognitive appraisals of happiness transmit relational loneliness into depressive vulnerabilities. Addressing maladaptive beliefs about the fragility of happiness in couple therapy may help prevent marital loneliness from exacerbating depressive symptoms for both partners.",
+  "raw_path": "01_raw/europepmc_xml/PMC13368744.xml",
+  "text_path": "02_text/europepmc/PMC13368744.txt",
+  "raw_bytes": 102629,
+  "text_chars": 37071,
+  "raw_sha256": "4ac2d295cd74a1af74ac8a49a7982a892c8b16466499922694f134947c7d83a9",
+  "text_sha256": "70199c5906476676dec8be5680ca0b162e97f19fa51c78e597a382a96bd30473",
+  "retrieved_at": "2026-10-25T15:41:29.461236+00:00"
+}

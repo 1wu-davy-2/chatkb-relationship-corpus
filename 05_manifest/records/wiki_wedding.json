@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_wedding",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "婚礼",
+  "requested_title": "婚礼",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A9%9A%E7%A4%BC",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "marriage",
+    "culture"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/wedding.json",
+  "text_path": "02_text/zh_wikipedia/wedding.txt",
+  "raw_bytes": 11351,
+  "text_chars": 3983,
+  "text_sha256": "0ee56cc6491c9c30d259b7f73b79c54a8d0cf0d29381cbd75f041feb20ec391f",
+  "retrieved_at": "2026-10-25T15:36:11.181808+00:00"
+}

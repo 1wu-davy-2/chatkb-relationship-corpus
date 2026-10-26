@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10706159",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Being Female and in a Romantic Relationship Enhances the Association between Satisfaction with Love Life and Capacity to Love.",
+  "authors": "Leite Â, Costa A, Ribeiro B, Fonseca C, Ribeiro I, Mesquita J, Ribeiro S.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3390/ijerph20237108",
+  "pmcid": "PMC10706159",
+  "url": "https://europepmc.org/article/PMC/PMC10706159",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10706159/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "This study aims to evaluate if the relation between love life satisfaction, assessed by the satisfaction with love life scale (SWLLS), and capacity to love, assessed by the capacity to love inventory (CTL-I), is moderated by gender and by being or not in a romantic relationship, in a Portuguese sample. To this end, the adaptation and validation of CTL-I for this population were carried out through an exploratory factorial analysis (EFA) followed by a Robust Maximum Likelihood (MLR) confirmatory factorial analysis (CFA). A multi-group analysis for measurement invariance depending on being in a romantic relationship or not was assessed. The model's reliability was also evaluated. The associations between SWLLS and CTL-I were tested by correlations, regressions and moderations. At last, differences between means and distributions concerning sociodemographic variables were determined. The results showed that a good model fit for the Portuguese version of the CTL-I was found, as well as good psychometric properties. Results also showed that satisfaction with love life contributes to explaining the capacity to love and all its dimensions, and that gender and being in a romantic relationship moderate the association between love life satisfaction and the capacity to love. Being female and being in a romantic relationship make the relationship between love life satisfaction and the capacity to love stronger and more meaningful.",
+  "raw_path": "01_raw/europepmc_xml/PMC10706159.xml",
+  "text_path": "02_text/europepmc/PMC10706159.txt",
+  "raw_bytes": 240450,
+  "text_chars": 40435,
+  "raw_sha256": "9440bad5d6769f557381d408588df0df07e9be4e57a6cdb9fe5e73af446edcb5",
+  "text_sha256": "47e201b5dfa02743fd88bf95dee922bad3ebb5940c4b7c348e21c9c1e5d23afa",
+  "retrieved_at": "2026-10-25T15:31:35.768988+00:00"
+}

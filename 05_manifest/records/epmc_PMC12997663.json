@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12997663",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship between morphological changes in meibomian glands, age, and ocular surface parameters.",
+  "authors": "Erkan E, Bayhan SA, Erkan FB, Durukan KF, Songur MS, Bayhan HA.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12886-026-04669-0",
+  "pmcid": "PMC12997663",
+  "url": "https://europepmc.org/article/PMC/PMC12997663",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12997663/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "OBJECTIVE: To investigate the relationship of changes in the meibomian glands as visualized through meibography with demographic characteristics and ocular surface parameters. METHODS: This prospective study included a total of 155 participants. Tear breakup time (TBUT) and Schirmer test results were recorded for each participant, and symptoms were assessed using the Ocular Surface Disease Index (OSDI). Meibographic imaging of the upper and lower eyelids was performed on all individuals. The rates of meibomian gland loss were manually measured by the same experienced specialist, and morphological changes in the meibomian glands (distortion, tortuosity, thinning, thickening, shortening, hooked appearance, dropout, overlapping, ghost appearance, and abnormal gaps) were examined. RESULTS: Among the cases, 83 (53.5%) were female and 72 (46,5%) were male, with a mean age of 41.50 ± 20.2 years. The most frequently observed morphological change in the meibomian glands was distortion (67.9%), followed by shortening (57.7%) and increased tortuosity (53.8%). Ghost morphology was the least commonly observed. Patients with more than two morphological changes in the meibomian glands had significantly shorter TBUT (more than two morphological changes; 6.18 ± 2.22 s vs. more than one morphological change; 8.98 ± 2.17 s) and significantly higher OSDI scores (33.18 ± 7.53 vs. 14.36 ± 5.11) compared to others (both p < 0.05). The gland loss rates in both the upper and lower lids showed a significant negative correlation with TBUT (r = -0.278, p < 0.05) and a significant positive correlation with OSDI and age (r = 0.343, p < 0.01; r = 0.701, p < 0.05, respectively). CONCLUSION: This study demonstrated morphological changes and gland loss in the meibomian glands of the young population. Meibography is a non-invasive and reproducible test that provides detailed information regarding the correlation between dry eye symptoms/signs and morphological changes.",
+  "raw_path": "01_raw/europepmc_xml/PMC12997663.xml",
+  "text_path": "02_text/europepmc/PMC12997663.txt",
+  "raw_bytes": 102927,
+  "text_chars": 31519,
+  "raw_sha256": "58a9a7ea217612b8805dc7e0d5f5262f4eb73839cd2fbcc294f005f3405310ed",
+  "text_sha256": "164cfd9c32fb6866d14140a276bcae606cd309ee2b232de032c929b01cb0fccb",
+  "retrieved_at": "2026-10-25T15:47:47.812346+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13124952",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Life satisfaction, regret, and death reflection among older adults in Turkey: a qualitative study within Erikson's framework of ego integrity.",
+  "authors": "Talu E.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1745222",
+  "pmcid": "PMC13124952",
+  "url": "https://europepmc.org/article/PMC/PMC13124952",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13124952/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Background Erikson's psychosocial theory of development conceptualizes the final stage of Ego Integrity versus Despair as a crucial process in achieving psychological well-being during late adulthood. However, the cultural expressions of this developmental conflict remain insufficiently explored, particularly in non-Western and collectivist societies such as Turkey. Objective This study aimed to examine life satisfaction, regrets, and reflections on death among older adults in Turkey within Erikson's psychosocial framework of ego integrity. Methods Using a qualitative research design, the study analyzed open-ended written narratives collected from 48 participants aged 65 and above, residing in different regions of Turkey. Data were examined through a three-phase thematic coding process. More than 100 unique codes were identified and categorized into twelve overarching themes that represented shared psychosocial experiences. Results Participants most frequently expressed gratitude (\"I'm glad I did\") for experiences related to family formation, child-rearing, professional achievements, and adherence to moral and religious values. Regrets were largely associated with missed educational opportunities, relational disruptions-particularly within marriage-and health neglect. Reflections on death ranged from faith-based acceptance and existential fear to feelings of incompletion and the desire for a dignified death.",
+  "raw_path": "01_raw/europepmc_xml/PMC13124952.xml",
+  "text_path": "02_text/europepmc/PMC13124952.txt",
+  "raw_bytes": 164451,
+  "text_chars": 61711,
+  "raw_sha256": "c570716f4c33e1b5f8fc9f10f51d6343efa6941b5db28e08af6eb336b47f5b06",
+  "text_sha256": "f394bac2637bdf9d90003af60cbe4db4a89f84267a3f51fd6ec192cd4fad2167",
+  "retrieved_at": "2026-10-25T13:54:09.454126+00:00"
+}

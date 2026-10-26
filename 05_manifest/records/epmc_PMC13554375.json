@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13554375",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marital Dynamics, Physical and Non-Physical Violence, and Indian Women's Reproductive Control.",
+  "authors": "Saunders R.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/10778012251384630",
+  "pmcid": "PMC13554375",
+  "url": "https://europepmc.org/article/PMC/PMC13554375",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13554375/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Intimate partner violence is highly prevalent worldwide. Previous research has linked partner violence with reduced contraceptive use, but little is known about the role of non-physical violence in non-Western contexts. Using data from the 2015-16 India Demographic and Health Survey, this study investigates how unequal gender dynamics, marital violence, and coercive control influence unmet need for contraception. Findings suggest that coercive control may play an important role in shaping women's contraceptive use and reproductive autonomy. Health practitioners and advocates should consider coercive control by spouses as a meaningful barrier to contraceptive uptake when women wish to space or limit pregnancies.",
+  "raw_path": "01_raw/europepmc_xml/PMC13554375.xml",
+  "text_path": "02_text/europepmc/PMC13554375.txt",
+  "raw_bytes": 166411,
+  "text_chars": 48744,
+  "raw_sha256": "807474334ee9ab172f291bd3e3d15d13359095538e1339b7b20994b324f54321",
+  "text_sha256": "64aa6308af1a75b9142a7bab257a382d638951b72de0d018f09c6f4e172e7d3c",
+  "retrieved_at": "2026-10-25T13:59:04.293872+00:00"
+}

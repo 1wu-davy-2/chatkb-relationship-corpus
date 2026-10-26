@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13096026",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Localizing adult playfulness in dimensions of romantic attachment and jealousy in singles.",
+  "authors": "Brauer K, Proyer RT.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1776141",
+  "pmcid": "PMC13096026",
+  "url": "https://europepmc.org/article/PMC/PMC13096026",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13096026/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Adult playfulness is a personality trait gaining increasing attention, particularly in romantic contexts. We localize four facets of playfulness (Other-directed, Lighthearted, Intellectual, and Whimsical) within dimensions of attachment styles and romantic jealousy. Earlier findings from couples showed that Other-directed playfulness relates to low avoidant attachment and all facets related to lower emotional expressions of jealousy. To expand the knowledge about the generalizability and overcome variance restrictions from couples' data, we conceptually replicated earlier research using the same measures and analyzed data of N = 384 singles. As expected, singles showed greater insecure attachment than couples, whereas only cognitive jealousy was elevated in comparison to partnered individuals. Our findings replicated associations between playfulness and attachment, with Other-directed playfulness being the strongest predictor of lower avoidant attachment and Lighthearted playfulness showing a small negative association with anxious attachment. However, we found negligible associations with jealousy. We discuss the role of playfulness in singles and couples and whether the reframing process that characterizes playfulness might be less active in singles when it comes to jealousy in the sense of (re)interpreting actual and perceived relationship threats.",
+  "raw_path": "01_raw/europepmc_xml/PMC13096026.xml",
+  "text_path": "02_text/europepmc/PMC13096026.txt",
+  "raw_bytes": 97886,
+  "text_chars": 37689,
+  "raw_sha256": "d055625483b834ae1440feb9c79bbf2485f3afece9256f85126de90421eeb33e",
+  "text_sha256": "a175cdf6933fcb431d16c9bc29c6fe4ad2110e8f27ab0e4fe4b95bcca0c91a7c",
+  "retrieved_at": "2026-10-25T13:53:00.400191+00:00"
+}

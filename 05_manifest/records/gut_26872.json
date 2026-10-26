@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_26872",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "海上花列傳",
+  "gutenberg_id": "26872",
+  "url": "https://www.gutenberg.org/ebooks/26872",
+  "download_url": "https://www.gutenberg.org/cache/epub/26872/pg26872.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/26872.txt",
+  "text_path": "02_text/gutenberg/gut_26872_海上花列傳.txt",
+  "raw_bytes": 988135,
+  "text_chars": 322170,
+  "text_sha256": "e5119089d7f4619097d35fd7eceaa35ca6fb8cf61de3f547a2e72bbcc4e4dd92",
+  "retrieved_at": "2026-10-25T15:45:46.136286+00:00"
+}

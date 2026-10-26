@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12555709",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Role of Marital Status in Sexual Violence Against Women Among Ghanaian Couples: Evidence From the 2022 Ghana Demographic and Health Survey.",
+  "authors": "Latifah L, Laksono AD, Khairunnisa M, Yunitawati D, Handayani S.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.34172/jrhs.9086",
+  "pmcid": "PMC12555709",
+  "url": "https://europepmc.org/article/PMC/PMC12555709",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12555709/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation",
+    "sexual_frequency"
+  ],
+  "abstract": "Background Cohabitation is vulnerable from a legal perspective. However, legal marriage does not exempt women from experiencing sexual abuse, while marriage is often misused as a justification. This study aimed to examine the impact of marital status on the incidence of sexual violence against women within couples. Study Design: A cross-sectional study. Methods The secondary analysis examined the 2022 Ghana Demographic and Health Survey, which included data from 8811 respondents. The study used sexual violence and marital status as outcome and exposure variables, respectively. Meanwhile, five control variables, including age, marital status, education, employment, wealth, and recent sexual activity, were analyzed in this study. Finally, the results were analyzed by binary logistic regression ( P Results Sexual violence was reported by 5.3% of women living with a partner and 2.6% of married women ( P Conclusion The evaluation revealed that marital status was related to sexual violence against women among Ghanaian couples. Women living in cohabitation with a partner were more likely to experience sexual violence than married women.",
+  "raw_path": "01_raw/europepmc_xml/PMC12555709.xml",
+  "text_path": "02_text/europepmc/PMC12555709.txt",
+  "raw_bytes": 92989,
+  "text_chars": 23668,
+  "raw_sha256": "f79c08c36c0cee1c677731e636683ee412ccb91ea21f0381e26dd10887b07c00",
+  "text_sha256": "61fc3eace0878a267fa09767c2b3cb21425e34659eee6fda66fb5afba74a7b0e",
+  "retrieved_at": "2026-10-25T15:32:00.837321+00:00"
+}

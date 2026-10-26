@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_equity_theory",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "公平理论",
+  "requested_title": "公平理论",
+  "url": "https://zh.wikipedia.org/wiki/%E5%85%AC%E5%B9%B3%E7%90%86%E8%AE%BA",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 公平理论",
+  "topics": [
+    "psychology",
+    "relationship"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/equity_theory.json",
+  "text_path": "02_text/zh_wikipedia/equity_theory.txt",
+  "raw_bytes": 6496,
+  "text_chars": 2516,
+  "text_sha256": "70cd128777fccd3f392d4b0aa8dc0945aa4e8d031a6e7ce48a91b6921deb8686",
+  "retrieved_at": "2026-10-25T16:22:22.105002+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_24028",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "東坡樂府",
+  "gutenberg_id": "24028",
+  "url": "https://www.gutenberg.org/ebooks/24028",
+  "download_url": "https://www.gutenberg.org/cache/epub/24028/pg24028.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/24028.txt",
+  "text_path": "02_text/gutenberg/gut_24028_東坡樂府.txt",
+  "raw_bytes": 141107,
+  "text_chars": 40280,
+  "text_sha256": "76b3ea86eb77a09008255653a0696a8bf450934a3f0f16eb4d4f41d71e4cf0ba",
+  "retrieved_at": "2026-10-25T15:50:54.524144+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12469647",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Home Difficulties Experienced by Male Firefighters in South Korea: A Qualitative Study on Work-Family Conflict.",
+  "authors": "Lee N, Lee HJ.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/healthcare13182300",
+  "pmcid": "PMC12469647",
+  "url": "https://europepmc.org/article/PMC/PMC12469647",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12469647/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Background/Objectives : Family is a key protective factor for firefighters' mental health, yet the home-related challenges of firefighting's occupational demands remain underexplored in South Korea. This study aimed to establish an initial understanding of these challenges by conducting in-depth interviews with male firefighters and analyzing their lived experiences using a phenomenological approach. Methods : Twenty-nine married male firefighters (mean age = 43.4 years, range = 31-55) affiliated with the Busan Fire Department participated in individual telephone interviews between April and July 2022 during the COVID-19 pandemic. Data were analyzed using Giorgi's descriptive phenomenological method, with NVivo Pro 12.0 employed for coding and organization. Results : Six themes were identified: (1) acting as an emergency commander at home, (2) reinterpreting traumatic experiences after marriage, (3) physical and emotional exhaustion from irregular schedules, (4) being national heroes misunderstood by families, (5) guilt-ridden and indebted Superman, and (6) striving to be Superman at home as well. These themes reflected the overarching meaning of a \"lonely breadwinner struggling to be Superman both at work and home.\" Participants described hyperarousal, emotional withdrawal, strained relationships, guilt over missed family events, and compensatory overextension. Distress was often concealed to protect families, but this limited emotional support. Conclusions : Korean male firefighters face significant work-family conflict shaped by cultural and occupational factors. These findings highlight the need for family-centered counseling, psychoeducation, and organizational interventions. Policy measures such as guaranteed rest after shifts, couple-based communication programs, and resilience-building initiatives are recommended to strengthen families as vital sources of psychological resilience.",
+  "raw_path": "01_raw/europepmc_xml/PMC12469647.xml",
+  "text_path": "02_text/europepmc/PMC12469647.txt",
+  "raw_bytes": 121693,
+  "text_chars": 67823,
+  "raw_sha256": "c0ec89fd2ed8f7b66caca7b7398a57d561ee7f97bebb7b5b8810bfe173660f97",
+  "text_sha256": "869340f98ff53f295bd6b01f303ee1fcf825afc72341af783611a6fd317b6a59",
+  "retrieved_at": "2026-10-25T15:36:42.600558+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10758086",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Comparison of Toxoplasmosis Seroprevalence in Multi Partner, Married (Monogamous) and Virgin Iranian Women.",
+  "authors": "Shajarizadeh M, Biderouni FT, Sohrabi MR, Abadi A, Seyyedtabaei SJ.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.18502/ijpa.v18i4.14256",
+  "pmcid": "PMC10758086",
+  "url": "https://europepmc.org/article/PMC/PMC10758086",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10758086/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_frequency"
+  ],
+  "abstract": "Background Toxoplasmosis could lead to serious outcomes during pregnancy. The aim of this study was to investigate serologic toxoplasmosis in three groups of women according to number of sexual partners. Methods The frequency of anti- Toxoplasma IgG from 471 women (101 virgin girls, 240 married women and 130 multi partner women) were determined by ELISA method from referred participant to medical centers of Tehran, Iran in 2020. The results were analyzed by chi-square and logistic regression tests. Results Prevalence of toxoplasmosis was significant with the number of sexual partner according to chi square test ( P Toxoplasma IgG in married women was significant but it was not significant in multi partners' women. In addition to IgG frequency in married women and multi partners' women had no significant relationship with the number of children. Conclusion Having sexual activity after marriage and having multi partner in sexual activity may possibly be a novel risk factor for toxoplasmosis infection or increasing the IgG frequency.",
+  "raw_path": "01_raw/europepmc_xml/PMC10758086.xml",
+  "text_path": "02_text/europepmc/PMC10758086.txt",
+  "raw_bytes": 77908,
+  "text_chars": 17254,
+  "raw_sha256": "28dde9f4008e950fb1cad2bd35099d3e5c0a7a5ffa4be6d2719ed9ca5d98ace5",
+  "text_sha256": "14d4bde8a403045ab6c1e3f02f1f670af5da06c68b2ec3b97bc9fb267a83eceb",
+  "retrieved_at": "2026-10-26T13:08:06.499493+00:00"
+}

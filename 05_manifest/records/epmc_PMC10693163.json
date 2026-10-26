@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10693163",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Protocol for a randomised controlled trial of a healthy relationship tool for men who use intimate partner violence (BETTER MAN).",
+  "authors": "Hegarty K, Tarzia L, Navarro Medel C, Hameed M, Chondros P, Gold L, Tassone S, Feder G, Humphreys C.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1186/s12889-023-17032-5",
+  "pmcid": "PMC10693163",
+  "url": "https://europepmc.org/article/PMC/PMC10693163",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10693163/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "Background Intimate partner violence (IPV) is common globally, but there is a lack of research on how to intervene early with men who might be using IPV. Building on evidence supporting the benefits of online interventions for women victim/survivors, this study aims to test whether a healthy relationship website (BETTER MAN) is effective at improving men's help seeking, their recognition of behaviours as IPV and their readiness to change their behaviours. Methods/design In this two-group, pragmatic randomised controlled trial, men aged 18-50 years residing in Australia who have been in an adult intimate relationship (female, male or non-binary partner) in the past 12 months are eligible. Men who report being worried about their behaviour or have had others express concerns about their behaviour towards a partner in the past 12 months will be randomised with a 1:1 allocation ratio to receive the BETTER MAN website or a comparator website (basic healthy relationships information). The BETTER MAN intervention includes self-directed, interactive reflection activities spread across three modules: Better Relationships, Better Values and Better Communication, with a final \"action plan\" of strategies and resources. Using an intention to treat approach, the primary analysis will estimate between-group difference in the proportion of men who report undertaking help-seeking behaviours for relationship issues in the last 6 months, at 6 months post-baseline. Analysis of secondary outcomes will estimate between-group differences in: (i) mean score of awareness of behaviours in relationships as abusive immediately post-use of website; (ii) mean score on readiness to change immediately post-use of website and 3 months after baseline; and (iii) cost-effectiveness. Discussion This trial will evaluate the effectiveness of an online healthy relationship tool for men who may use IPV. BETTER MAN could be incorporated into practice in community and health settings, providing an evidence-informed website to assist men to seek help to promote healthy relationships and reduce use of IPV. Trial registration ACTRN12622000786796 with the Australian New Zealand Clinical Trials Registry: 2 June 2022. Version: 1 (28 September 2023).",
+  "raw_path": "01_raw/europepmc_xml/PMC10693163.xml",
+  "text_path": "02_text/europepmc/PMC10693163.txt",
+  "raw_bytes": 99184,
+  "text_chars": 43304,
+  "raw_sha256": "40398d79b98f4badafbbb72d1d01eb43026fb026765d36cf71aaf3a8c42e8011",
+  "text_sha256": "44fbe9da64c0529b59ed430a20546c906840ec202c552c6c8d82c5f3549d2c44",
+  "retrieved_at": "2026-10-25T15:40:50.918322+00:00"
+}

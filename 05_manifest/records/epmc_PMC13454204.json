@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13454204",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychological inflexibility and insomnia as serial mediators of the link between social media addiction and romantic relationship quality.",
+  "authors": "Zeybek Çakti SU.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1847722",
+  "pmcid": "PMC13454204",
+  "url": "https://europepmc.org/article/PMC/PMC13454204",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13454204/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "social_media"
+  ],
+  "abstract": "Widespread social media use may be one of the most important factors influencing individuals' romantic relationships. In particular, excessive, uncontrolled, and problematic social media use may negatively affect both individuals' psychological processes and their relational functioning in interpersonal interactions. The aim of the present study is to examine the serial predicting roles of psychological inflexibility and insomnia in the relationship between social media addiction and romantic relationship quality. The sample consisted of 466 adults from different regions of Türkiye. Of the participants, 368 were female (79%) and 98 were male (21%). The mean age of the participants, whose ages ranged from 18 to 72, was 34.32 years ( SD = 10.93). In line with the aim of the study, the relationships among variables were examined using correlation analysis, and structural equation modeling was employed to test the mediation model. The findings indicated that social media addiction was positively associated with psychological inflexibility and insomnia and negatively associated with romantic relationship quality. According to the structural equation modeling results, the model fit indices suggested that the proposed model demonstrated a good fit to the data. The analysis further revealed that psychological inflexibility and insomnia played serial predicting roles in the relationship between social media addiction and romantic relationship quality. These findings suggest that social media addiction may increase levels of psychological inflexibility, which in turn may contribute to sleep-related problems, and that these processes may be reflected in lower perceived romantic relationship quality. Accordingly, interventions aimed at enhancing psychological flexibility and improving sleep patterns may be useful in understanding the relational consequences of social media addiction.",
+  "raw_path": "01_raw/europepmc_xml/PMC13454204.xml",
+  "text_path": "02_text/europepmc/PMC13454204.txt",
+  "raw_bytes": 106668,
+  "text_chars": 47282,
+  "raw_sha256": "0af55c187a6f0c4b7043a32e7c8ec04cc5d04b589d7301e951f45dd0f83d522e",
+  "text_sha256": "96d6c8947d14ccea039bc25fc8c3053da704c786d6261155f4ce2eb2be9ace13",
+  "retrieved_at": "2026-10-25T13:48:31.067496+00:00"
+}

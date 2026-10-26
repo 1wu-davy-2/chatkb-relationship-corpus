@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9958285",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship (in)congruency may differently impact mental health.",
+  "authors": "Adamczyk K, Watkins N, Dębek A, Kaczmarek D, Łazarów N.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1016/j.ijchp.2023.100376",
+  "pmcid": "PMC9958285",
+  "url": "https://europepmc.org/article/PMC/PMC9958285",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9958285/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "Background Being involved in romantic relationships has historically been related to better mental health compared to being single. However, research exploring heterogeneity within these status groups is still understudied. Our study examined the role of (in)congruency between relationship desire, dismissal, satisfaction with relationship status, and current relationship status on the mental health measured in terms of anxiety, depression, insomnia, and romantic loneliness. Method The online questionnaire survey included 790 participants aged 18 - 40 ( M = 26.51, SD = 5.60) at baseline and 421 at a 1-month follow-up. Participants represented five relationship statuses (single, casual dating, LAT relationships, cohabitation, and engagement/marriage). Results Our results suggest that greater relationship desire and dismissal at baseline were associated with higher anxiety and depression in casual daters one month later, while greater relationship desire was linked to lower anxiety for individuals in living apart together relationships (LATs). Higher relationship dismissal in casual daters and engaged/married individuals was associated with lower insomnia. Higher satisfaction with relationship status was associated with lower depression in single individuals and lower romantic loneliness in cohabitors and engaged/married individuals. Conclusions This study highlights that relationship (in)congruency may operate differently across various relationship status subgroups on mental health outcomes.",
+  "raw_path": "01_raw/europepmc_xml/PMC9958285.xml",
+  "text_path": "02_text/europepmc/PMC9958285.txt",
+  "raw_bytes": 157884,
+  "text_chars": 43459,
+  "raw_sha256": "24881af7cbb7c239558414f04b2d9c9f8127f152d7ad51cdcc2dc7bb325d984d",
+  "text_sha256": "56769735889c98fdb3f8fee1133f0c420de09eca07d84edc9cd23828b10ea894",
+  "retrieved_at": "2026-10-25T15:44:40.095917+00:00"
+}

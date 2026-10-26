@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11892109",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Introducing AI-generated cases (AI-cases) &amp; standardized clients (AI-SCs) in communication training for veterinary students: perceptions and adoption challenges.",
+  "authors": "Artemiou E, Hooper S, Dascanio L, Schmidt M, Gilbert G.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fvets.2024.1504598",
+  "pmcid": "PMC11892109",
+  "url": "https://europepmc.org/article/PMC/PMC11892109",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11892109/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "communication_training"
+  ],
+  "abstract": "Introduction The integration of Artificial Intelligence (AI) into medical education and healthcare has grown steadily over these past couple of years, though its application in veterinary education and practice remains relatively underexplored. This study is among the first to introduce veterinary students to AI-generated cases (AI-cases) and AI-standardized clients (AI-SCs) for teaching and learning communication skills. The study aimed to evaluate students' beliefs and perceptions surrounding the use of AI in veterinary education, with specific focus on communication skills training. Methods Conducted at Texas Tech University School of Veterinary Medicine (TTU SVM) during the Spring 2024 semester, the study included pre-clinical veterinary students ( n = 237), who participated in a 90-min communication skills laboratory activity. Each class was introduced to two AI-cases and two AI-SCs, developed using OpenAI's ChatGPT-3.5. The Calgary Cambridge Guide (CCG) served as the framework for practicing communication skills. Results Results showed that although students recognized the widespread use of AI in everyday life, their familiarity, comfort and application of AI in veterinary education were limited. Notably, upper-year students were more hesitant to adopt AI-based tools, particularly in communication skills training. Discussion The findings suggest that veterinary institutions should prioritize AI-literacy and further explore how AI can enhance and complement communication training, veterinary education and practice.",
+  "raw_path": "01_raw/europepmc_xml/PMC11892109.xml",
+  "text_path": "02_text/europepmc/PMC11892109.txt",
+  "raw_bytes": 173649,
+  "text_chars": 58423,
+  "raw_sha256": "b0fc544df9494cf58759f78866168edb87e35658bd1dce878ace553238ebb737",
+  "text_sha256": "9a48af4498179b69ea817bac2c9e25d364c5a20a9a1d7610b9a9e9a27f7ffa6e",
+  "retrieved_at": "2026-10-25T15:30:23.214893+00:00"
+}

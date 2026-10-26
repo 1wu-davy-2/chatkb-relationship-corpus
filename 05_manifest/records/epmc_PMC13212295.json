@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13212295",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship between parental marital conflict and malevolent creativity propensity among junior school students: roles of deviant peer affiliation and self-control.",
+  "authors": "Zhao M, Liu Y.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2026.1794219",
+  "pmcid": "PMC13212295",
+  "url": "https://europepmc.org/article/PMC/PMC13212295",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13212295/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "This study explored the relationship between parental marital conflict and malevolent creativity propensity among junior school students, as well as the roles of deviant peer affiliation and self-control on that relationship. A sample of 947 junior school students was surveyed using the Children's Perception of Marital Conflict Scale, Deviant Peers Affiliation Scale, Brief Self Control Scale, and Malevolent Creativity Behavior Scale. The results indicated that parental marital conflict was positively associated with students' malevolent creativity propensity, and deviant peer affiliation partially mediated the relationship between parental marital conflict and malevolent creativity propensity. In addition, self-control moderated the second stage of the mediation of deviant peer affiliation in the link between parental marital conflict and malevolent creativity propensity. Ecological systems theory, social learning theory, and Self-Determination theory were used to explain our findings, while limitations and future research directions were discussed in detail.",
+  "raw_path": "01_raw/europepmc_xml/PMC13212295.xml",
+  "text_path": "02_text/europepmc/PMC13212295.txt",
+  "raw_bytes": 106427,
+  "text_chars": 35919,
+  "raw_sha256": "e51f0108385225df76116ac5cc7959c8e01134d06cf6ca8b371533fe9d1139dc",
+  "text_sha256": "c83d69f367627f2fe1caed8c7718f12d812f7f91d3b0cb9381079b8e87fafa1d",
+  "retrieved_at": "2026-10-25T13:55:40.593169+00:00"
+}

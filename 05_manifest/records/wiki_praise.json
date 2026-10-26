@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_praise",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "赞颂",
+  "requested_title": "赞美",
+  "url": "https://zh.wikipedia.org/wiki/%E8%B5%9E%E9%A2%82",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "communication",
+    "skills"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/praise.json",
+  "text_path": "02_text/zh_wikipedia/praise.txt",
+  "raw_bytes": 1687,
+  "text_chars": 668,
+  "text_sha256": "e87d3d146d2fbc8c1ce1d6fe36f6cd3df7559ea2a3a81f90ae69d7a48187ad6e",
+  "retrieved_at": "2026-10-25T16:06:03.132419+00:00"
+}

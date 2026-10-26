@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_privacy",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "隐私",
+  "requested_title": "隐私",
+  "url": "https://zh.wikipedia.org/wiki/%E9%9A%90%E7%A7%81",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "safety",
+    "privacy"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/privacy.json",
+  "text_path": "02_text/zh_wikipedia/privacy.txt",
+  "raw_bytes": 25113,
+  "text_chars": 9578,
+  "text_sha256": "e01d74ac4da5a6b59682131f6f0b93f5e64e246617f3314cccd0bbb0c88183c7",
+  "retrieved_at": "2026-10-25T15:39:07.065544+00:00"
+}

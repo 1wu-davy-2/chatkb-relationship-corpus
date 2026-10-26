@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9556696",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychopathological aspects of sexting and IBSA perpetrators: A brief research report.",
+  "authors": "Gassó AM, Forero CG, Piqueras J, Gómez-Durán EL.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2022.983881",
+  "pmcid": "PMC9556696",
+  "url": "https://europepmc.org/article/PMC/PMC9556696",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9556696/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Introduction IBSA has been defined as taking, distributing, and/or making threats to distribute, a sexual image without a person's consent, and up to date there is still limited research on IBSA perpetration and characteristics of IBSA perpetrators. Thus, the aim of this study was to identify characteristics of IBSA perpetrators, in order to guide future intervention and prevention programs. Methods An online survey was conducted regarding IBSA related behaviors and psychopathology. The original sample comprised 1,370 Spanish college students (74% females). Results The IBSA perpetrator subsample comprised 284 participants (49.5% females). Our findings indicate that perpetrators are more commonly males, with higher psychopathology scores, especially in hostility scales, with previous IBSA victimization experiences, and who usually target friends, to have fun or as a joke, or partners, to flirt. Furthermore, when examining intragroup differences regarding perpetration level of severity, results showed that those who reported engaging in the most severe forms of IBSA reported higher rates of psychopathology and hostility. Yet, to intervene in those who present more severe behaviors, we must also pay attention to depression, somatization and sleep disturbances. Conclusions IBSA perpetrators share key factors that could be targeted in forensic and clinical interventions, and that should be taken into account when designing effective offender intervention programs. Intervention programs should focus on anger-management issues that help reduce perpetrators' hostility and anxiety symptoms, and should also be aimed at modifying attitudes that justify perpetration behaviors and contribute to harmful interactions with their friends or to intimate partner violent dynamics.",
+  "raw_path": "01_raw/europepmc_xml/PMC9556696.xml",
+  "text_path": "02_text/europepmc/PMC9556696.txt",
+  "raw_bytes": 97998,
+  "text_chars": 27493,
+  "raw_sha256": "4f79b32feede511775cebb066309de0700f6a4a7b286b5ea62773ed4b58926cf",
+  "text_sha256": "6bd056e69c137dbb0dc60252dd696373704218f2d9ddc41a7652da8fe113bdfc",
+  "retrieved_at": "2026-10-26T13:13:32.877641+00:00"
+}

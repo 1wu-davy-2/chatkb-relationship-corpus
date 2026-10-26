@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_shame",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "羞耻",
+  "requested_title": "羞耻",
+  "url": "https://zh.wikipedia.org/wiki/%E7%BE%9E%E8%80%BB",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 羞耻",
+  "topics": [
+    "emotion"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/shame.json",
+  "text_path": "02_text/zh_wikipedia/shame.txt",
+  "raw_bytes": 1266,
+  "text_chars": 652,
+  "text_sha256": "376e23c7806beff8e973899c9e6748c70a7ee9f6d5dc07dca3ff3456b4f8e658",
+  "retrieved_at": "2026-10-25T16:24:01.927289+00:00"
+}

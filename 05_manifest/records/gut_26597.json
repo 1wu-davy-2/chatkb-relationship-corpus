@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_26597",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "How to Behave: A Pocket Manual of Republican Etiquette, and Guide to Correct Personal Habits",
+  "gutenberg_id": "26597",
+  "url": "https://www.gutenberg.org/ebooks/26597",
+  "download_url": "https://www.gutenberg.org/cache/epub/26597/pg26597.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/26597.txt",
+  "text_path": "02_text/gutenberg/gut_26597_how_to_behave_a_pocket_manual_of_republi.txt",
+  "raw_bytes": 333913,
+  "text_chars": 303164,
+  "text_sha256": "318065e62a65745ab7f2ba762fc8ce8ad0a5a843b1f6664535ec9aea67dc7da6",
+  "retrieved_at": "2026-10-25T15:45:15.947324+00:00"
+}

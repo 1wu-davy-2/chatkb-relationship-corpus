@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC3960151",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Fluctuating experimental pain sensitivities across the menstrual cycle are contingent on women's romantic relationship status.",
+  "authors": "Vigil JM, Strenth C, Trujillo T, Gangestad SW.",
+  "year": "2014",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0091993",
+  "pmcid": "PMC3960151",
+  "url": "https://europepmc.org/article/PMC/PMC3960151",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3960151/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "We explored the social-signaling hypothesis that variability in exogenous pain sensitivities across the menstrual cycle is moderated by women's current romantic relationship status and hence the availability of a solicitous social partner for expressing pain behaviors in regular, isochronal ways. In two studies, we used the menstrual calendars of healthy women to provide a detailed approximation of the women's probability of conception based on their current cycle-day, along with relationship status, and cold pressor pain and ischemic pain sensitivities, respectively. In the first study (n = 135; 18-46 yrs., Mage = 23 yrs., 50% natural cycling), we found that naturally-cycling, pair-bonded women showed a positive correlation between the probability of conception and ischemic pain intensity (r = .45), associations not found for single women or hormonal contraceptive-users. A second study (n = 107; 19-29 yrs., Mage = 20 yrs., 56% natural cycling) showed a similar association between greater conception risk and higher cold-pressor pain intensity in naturally-cycling, pair-bonded women only (r = .63). The findings show that variability in exogenous pain sensitivities across different fertility phases of the menstrual cycle is contingent on basic elements of women's social environment and inversely correspond to variability in naturally occurring, perimenstrual symptoms. These findings have wide-ranging implications for: a) standardizing pain measurement protocols; b) understanding basic biopsychosocial pain-related processes; c) addressing clinical pain experiences in women; and d) understanding how pain influences, and is influenced by, social relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC3960151.xml",
+  "text_path": "02_text/europepmc/PMC3960151.txt",
+  "raw_bytes": 115070,
+  "text_chars": 36877,
+  "raw_sha256": "07964a82a14c659d23229faa23d1751b61c4278ad571da6cbdeeac03892bada1",
+  "text_sha256": "d7813e014987dc7af3fed9ca4af42d9685f62cca02c0d151c871b0ab2c331e1c",
+  "retrieved_at": "2026-10-25T15:47:30.652299+00:00"
+}

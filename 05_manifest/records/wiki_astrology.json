@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_astrology",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "占星术",
+  "requested_title": "占星学",
+  "url": "https://zh.wikipedia.org/wiki/%E5%8D%A0%E6%98%9F%E6%9C%AF",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "astrology",
+    "pseudoscience"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/astrology.json",
+  "text_path": "02_text/zh_wikipedia/astrology.txt",
+  "raw_bytes": 19981,
+  "text_chars": 7251,
+  "text_sha256": "34970246c43be9840f1b7c16c8b6f152aeb435656534457e100217d91c12425d",
+  "retrieved_at": "2026-10-25T15:39:12.785679+00:00"
+}

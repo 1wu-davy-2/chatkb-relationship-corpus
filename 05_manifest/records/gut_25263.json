@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_25263",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "周禮",
+  "gutenberg_id": "25263",
+  "url": "https://www.gutenberg.org/ebooks/25263",
+  "download_url": "https://www.gutenberg.org/cache/epub/25263/pg25263.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/25263.txt",
+  "text_path": "02_text/gutenberg/gut_25263_周禮.txt",
+  "raw_bytes": 210021,
+  "text_chars": 64076,
+  "text_sha256": "c4c8ba45d8b98651182c4a4740f31cd51ce652cbd4e3c66eaec4f831fe1fff1d",
+  "retrieved_at": "2026-10-25T16:06:23.177667+00:00"
+}

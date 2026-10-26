@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13089360",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dyadic Dynamic in Generalized Political Attitudes: Homophily, Relationship Satisfaction, and Convergence.",
+  "authors": "Miculka A, Imhoff R.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.5334/irsp.1102",
+  "pmcid": "PMC13089360",
+  "url": "https://europepmc.org/article/PMC/PMC13089360",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13089360/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "Despite the social nature of generalized political attitudes such as conspiracy mentality, right-wing authoritarianism (RWA), and social dominance orientation (SDO), dyadic phenomena concerning these attitudes have not been comprehensively investigated. Employing Response Surface Analysis on two longitudinal samples of couples in romantic relationships ( N 1;T1 = 249 couples, N 1;T2 = 76, N 2;T1 = 312, N 2;T2 = 263), this research examined a) couple similarity in generalized political attitudes, b) whether similarity concurrently and longitudinally predicted relationship satisfaction, and c) whether couples converged in their attitudes over time. Partners exhibited substantial similarity in all attitude dimensions. However, there was only little support that similarity predicted relationship satisfaction. Finally, romantic partners did not converge in their attitudes over time, indicating that couple similarity reflected initial assortment rather than convergence. The wide prevalence of ideologically congruent relationships may restrict the range of political views that individuals are exposed to, potentially playing a role in political polarization.",
+  "raw_path": "01_raw/europepmc_xml/PMC13089360.xml",
+  "text_path": "02_text/europepmc/PMC13089360.txt",
+  "raw_bytes": 147105,
+  "text_chars": 43151,
+  "raw_sha256": "edd500918db27c62e6284271fc1e1d059d4095e9f2df6cb9c855c13e3943a63a",
+  "text_sha256": "845a3d3df934d6167e19fa9450b70fa69ed1d6196a70c0fe26e0fc7cec9d0180",
+  "retrieved_at": "2026-10-25T14:02:22.034781+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12824436",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Post-Therapy Trajectories Following Brief Systemic Couple Therapy for Parents.",
+  "authors": "Darwiche J, Nunes CE, Vowels L, Liekmeier E, Antonietti JP.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/famp.70114",
+  "pmcid": "PMC12824436",
+  "url": "https://europepmc.org/article/PMC/PMC12824436",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12824436/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "This study examined post-therapy trajectories among parent couples who received either the Integrative Brief Systemic Intervention (IBSI)-targeting both romantic and coparenting relationships-or Brief Systemic Therapy as usual (BST-as-usual). Based on previous results showing comparable post-treatment improvements across conditions, participants were analyzed together to identify the typical patterns of change couples follow after therapy. We assessed whether distinct trajectory groups could be identified over the 1-year follow-up and examined whether treatment-related variables (therapy condition, number of sessions) and family characteristics (relationship duration, blended family status, number of children, age of youngest child) predicted group membership. Of the 101 Swiss randomized parent couples, 85 (44 IBSI, 41 BST-as-usual) provided data at post-therapy, 6-month, and 1-year follow-ups on individual symptomatology, romantic and coparenting relationship quality, and child adjustment. Mixed effects models first indicated that therapy gains were largely stable over time, with some parents reporting improvements in child adjustment, particularly men in BST-as-usual and women in IBSI. Using multiple factor analysis and hierarchical clustering (n = 72 couples), we identified five trajectories reflecting different configurations of individual distress and relational functioning. Multinomial logistic regression showed that both treatment characteristics and family context contributed to differentiating these pathways: IBSI was associated with more favorable trajectories, while having younger children or more children was linked to less optimal patterns. Clinically, identifying distinct post-therapy trajectories underscores the importance of monitoring couples beyond treatment termination and tailoring support to those whose individual or family circumstances place them at higher risk of deterioration.",
+  "raw_path": "01_raw/europepmc_xml/PMC12824436.xml",
+  "text_path": "02_text/europepmc/PMC12824436.txt",
+  "raw_bytes": 128929,
+  "text_chars": 42334,
+  "raw_sha256": "32e88aab6bad6d9c2e856cbb987c5aa68cc7fbff387f4bfaee0953389218a08c",
+  "text_sha256": "43956823a04a0741a29a66ab829d6ebc334563280d74c6d669473639e1b8a8de",
+  "retrieved_at": "2026-10-25T15:36:16.784790+00:00"
+}

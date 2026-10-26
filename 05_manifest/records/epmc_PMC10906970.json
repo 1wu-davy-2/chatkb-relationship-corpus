@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10906970",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Non-consensual and Consensual Non-monogamy in Norway.",
+  "authors": "Træen B, Thuen F.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1080/19317611.2021.1947931",
+  "pmcid": "PMC10906970",
+  "url": "https://europepmc.org/article/PMC/PMC10906970",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10906970/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "The paper sets out to study Norwegians' experiences of non-monogamy. Data were collected by questionnaires in a web sample of 4160 Norwegians (18-89 years). 26.3% of men and 17.8% of women reported that they ever had non-consensual non-monogamy. Consensual non-monogamy was reported by 3%. Compared to participants with no or non-consensual experience, consensual non-monogamy was highly related to relationship intimacy and positive sexual attitudes toward sex and sexuality. At the most recent extradyadic event, 21.5% of heterosexual men and 47.1% of gay/bisexual men reported condom use, which implies a risk for sexually transmitted diseases.",
+  "raw_path": "01_raw/europepmc_xml/PMC10906970.xml",
+  "text_path": "02_text/europepmc/PMC10906970.txt",
+  "raw_bytes": 149515,
+  "text_chars": 47305,
+  "raw_sha256": "aaddf287b8fe8f2b8424dff24097dd358e7aee812c3010c0f0b4a9ab8355bb07",
+  "text_sha256": "8c1600e51f0c5e1f1d65c448c6980181da4c50ecc46db067b9042cc1335a736e",
+  "retrieved_at": "2026-10-26T13:14:17.436485+00:00"
+}

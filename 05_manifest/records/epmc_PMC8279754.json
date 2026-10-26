@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8279754",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring How UK Adults' Attachment Style in Romantic Relationships Affects Engagement in Controlling Behaviours.",
+  "authors": "Gilbert MC, Blakey R.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2021.649868",
+  "pmcid": "PMC8279754",
+  "url": "https://europepmc.org/article/PMC/PMC8279754",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8279754/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Copious studies have identified a link between disorganised attachment and engagement in controlling caregiving or controlling punitive behaviours. Studies have suggested that consistently engaging in these behaviours can cause difficulties within relationships and contribute to the development of a personality disorder. Most of the literature thus far has focused on engagement in controlling behaviours by children with a disorganised attachment style, despite there being theoretical grounds to suggest they may also be used by adults and across all types of insecure attachment. This study aimed to address these gaps by looking at adult attachment style and engagement in controlling behaviours in romantic relationships, across all insecure attachment styles; avoidant, anxious and disorganised. The current study recruited a non-clinical sample; specifically, 149 English-speaking adults, living in the UK, between the ages of 18 and 77 years old ( M = 34.28, SD = 14.90). The participants answered an anonymous online questionnaire containing four self-report measures which assessed the participants' attachment security and organisation, caregiving style and engagement in punitive behaviours. The results indicated that participants who scored higher in disorganised attachment were more likely to use controlling punitive behaviours in their romantic relationships. Moreover, participants who reported a more insecure-anxious attachment style were more likely to use compulsive caregiving behaviours in their romantic relationships. In contrast, participants who reported a higher insecure avoidant attachment style were less likely to use compulsive caregiving behaviours in their romantic relationships. These results have implications for adult attachment theory and aid the understanding of some of the behaviours that can be harmful within romantic relationships. The findings could be used to help at-risk individuals develop healthy interpersonal relationship going forward.",
+  "raw_path": "01_raw/europepmc_xml/PMC8279754.xml",
+  "text_path": "02_text/europepmc/PMC8279754.txt",
+  "raw_bytes": 143636,
+  "text_chars": 47770,
+  "raw_sha256": "e19c0a2369ba818859122f1645ed2f64ed2b4f300674433e7ee90afc9f63576c",
+  "text_sha256": "fe1f26ef96697ad29161769abdacb837ee78cca23976f4a155e39db9d87f5e98",
+  "retrieved_at": "2026-10-25T15:48:20.929750+00:00"
+}

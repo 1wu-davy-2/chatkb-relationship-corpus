@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_ponzi_scheme",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "龐氏騙局",
+  "requested_title": "庞氏骗局",
+  "url": "https://zh.wikipedia.org/wiki/%E9%BE%90%E6%B0%8F%E9%A8%99%E5%B1%80",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "fraud",
+    "money"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/ponzi_scheme.json",
+  "text_path": "02_text/zh_wikipedia/ponzi_scheme.txt",
+  "raw_bytes": 5266,
+  "text_chars": 2128,
+  "text_sha256": "a5590e7d74c4fd92f915763c3aeec4e7c04a7a5b479fda2d00404f4fbd9be7ad",
+  "retrieved_at": "2026-10-25T15:39:02.920898+00:00"
+}

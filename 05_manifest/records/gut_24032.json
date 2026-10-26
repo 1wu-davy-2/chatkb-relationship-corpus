@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_24032",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "儒林外史",
+  "gutenberg_id": "24032",
+  "url": "https://www.gutenberg.org/ebooks/24032",
+  "download_url": "https://www.gutenberg.org/cache/epub/24032/pg24032.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/24032.txt",
+  "text_path": "02_text/gutenberg/gut_24032_儒林外史.txt",
+  "raw_bytes": 853632,
+  "text_chars": 277561,
+  "text_sha256": "7fddc1618d533c1814e5813437c75c0503802835c62bcb7996d74a04d9f1ba23",
+  "retrieved_at": "2026-10-25T15:51:12.284653+00:00"
+}

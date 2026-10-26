@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC9892684",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "One is the loneliest number: Involuntary celibacy (incel), mental health, and loneliness.",
+  "authors": "Sparks B, Zidenberg AM, Olver ME.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1007/s12144-023-04275-z",
+  "pmcid": "PMC9892684",
+  "url": "https://europepmc.org/article/PMC/PMC9892684",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9892684/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "asexuality_celibacy",
+    "rejection"
+  ],
+  "abstract": "Incels-a ragtag collection of young males who have rallied around their shared experience of romantic rejection-have slowly emerged as an online group of interest to researchers, no doubt as a result of several high-profile attacks. Much of this work has centered around incels' dating experiences, sexual attitudes, and online forums. However, it is possible that their moniker, short for involuntary celibate, has resulted in an overemphasis on their sexual exclusion and frustration. Recent work has identified social isolation as a key aspect of inceldom, which may help explain why incels have responded negatively to romantic rejection. The present study thus sought to examine the role of social support and loneliness in experiences of rejection in a sample of incel ( n = 67) and non-incel ( n = 103) men. Results indicated that incels experience more feelings of loneliness and less social supports than non-incel men. Both of these variables were associated with multiple mental and relational health issues that incels also scored more highly on. Further, incels reported using more solitary and problematic coping mechanisms. These results suggest that incels may be missing a key buffer in sheltering them from the adverse effects of romantic rejection. It also extends previous findings highlighting the importance of attachment styles in differentiating incels from non-incels, which may perpetuate feelings of isolation. Implications for how this may relate to incel discourse and clinical interventions are discussed. Supplementary information The online version contains supplementary material available at 10.1007/s12144-023-04275-z.",
+  "raw_path": "01_raw/europepmc_xml/PMC9892684.xml",
+  "text_path": "02_text/europepmc/PMC9892684.txt",
+  "raw_bytes": 165820,
+  "text_chars": 60271,
+  "raw_sha256": "3fbfa8a3cb9b4d36df3d6edda690980a90157a392500d1e49143b96da744b0c3",
+  "text_sha256": "646d6d26c810ffef2d35eb7a18d0ba83926f6ea90e01439c06ad651ec569ddf4",
+  "retrieved_at": "2026-10-25T14:01:09.211358+00:00"
+}

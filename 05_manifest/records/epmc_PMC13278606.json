@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13278606",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Treatment outcomes in integrative behavioral couple therapy: An RCT study using the clinical significance approach.",
+  "authors": "Salimi C, Kachooei M, Dadashi M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.4103/jehp.jehp_1893_24",
+  "pmcid": "PMC13278606",
+  "url": "https://europepmc.org/article/PMC/PMC13278606",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13278606/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "Background Statistical significance is a commonly used method for assessing the effectiveness of psychological treatments. However, statistically significant differences do not necessarily indicate reliable change. Therefore, methods that complement statistical significance, such as the clinical significance of change, are necessary. This study explores the evaluation of psychological treatment outcomes beyond conventional statistical significance measures. Materials and methods This study has a pretest and post-test design. After the initial assessment, 30 participants attended 11 weekly 90-minute sessions of Integrative Behavioral Couple Therapy (IBCT). All couples completed the Spanier Dyadic Adjustment Scale 1 week before the first intervention session and 1 week after the final intervention session. The data collection tool was a questionnaire, and the statistical method used was the clinical significance of change based on Jacobsen and Truax. Results After conducting the IBCT, the clinical significance can individually identify each participant's status. Additionally, categorized groups offer more detailed information compared to statistical significance methods. Regarding clinical significance, 46.7% of couples were treated or recovered, 16.7% showed improvement, 33.3% remained unchanged (no reliable change), and 3.3% deteriorated. Conclusion Change studies are essential for evaluating all clinical interventions and research, and it is important to use methods that can provide more comprehensive information. After the IBCT sessions, we assessed the client's recovery based on clinical significance. The study indicates that the following subjects have recovered: 1, 2, 7, 8, 9, 10, 12, 14, 18, 19, 20, 21, 22, and 28.",
+  "raw_path": "01_raw/europepmc_xml/PMC13278606.xml",
+  "text_path": "02_text/europepmc/PMC13278606.txt",
+  "raw_bytes": 113121,
+  "text_chars": 29095,
+  "raw_sha256": "c2e38e11d64b808e29c6d11636f5ca66384cdce91d8204c11903429dd7572bac",
+  "text_sha256": "406674d0056d50945010d79dd33c4fd7f71436d2b60da5643682f4a2bc4b9a23",
+  "retrieved_at": "2026-10-25T15:33:13.538130+00:00"
+}

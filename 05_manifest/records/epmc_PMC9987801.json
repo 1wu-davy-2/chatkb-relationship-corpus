@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9987801",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Who seeks sex therapy? Sexual dysfunction prevalence and correlates, and help-seeking among clinical and community samples.",
+  "authors": "Lafortune D, Girard M, Dussault É, Philibert M, Hébert M, Boislard MA, Goyette M, Godbout N.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0282618",
+  "pmcid": "PMC9987801",
+  "url": "https://europepmc.org/article/PMC/PMC9987801",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9987801/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_therapy_interventions"
+  ],
+  "abstract": "Sexual dysfunctions (SD; e.g., female sexual interest/arousal disorder, erectile disorder, female orgasmic disorder, delayed ejaculation, genito-pelvic pain/penetration disorder, etc.) affect up to a third of individuals, impairing sexuality, intimate relationships, and mental health. This study aimed to compare the prevalence of SDs and their sexual, relational, and psychological correlates between a sample of adults consulting in sex therapy (n = 963) and a community-based sample (n = 1,891), as well as examine barriers to sexual health services for SD and the characteristics of individuals seeking such services. Participants completed an online survey. Analyses showed that participants in the clinical sample reported lower levels of sexual functioning and sexual satisfaction and higher levels of psychological distress than participants in the community-based sample. Moreover, higher SD rates were related to lower relational satisfaction and higher psychological distress in the community sample, and to lower sexual satisfaction in both samples. Among participants in the community sample who sought professional services for SD, 39.6% reported that they were unable to access services, and 58.7% reported at least one barrier to receiving help. This study provides important data regarding the prevalence of SD and the link between SD and psychosexual health in clinical and nonclinical samples, as well as barriers to treatment access.",
+  "raw_path": "01_raw/europepmc_xml/PMC9987801.xml",
+  "text_path": "02_text/europepmc/PMC9987801.txt",
+  "raw_bytes": 186092,
+  "text_chars": 31655,
+  "raw_sha256": "eb61597e32f99f3fe8a463c35d846c3bc00704c60f38c285916ee344fb7b95af",
+  "text_sha256": "486681607fd5775cbf2e639352b11ee92099abcd41bd728c5e9b4a7c2c75ed25",
+  "retrieved_at": "2026-10-26T13:08:16.619964+00:00"
+}

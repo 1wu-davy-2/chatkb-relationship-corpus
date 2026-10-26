@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12076108",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Bangladeshi Couple Therapists' Perspectives of Divorce Decision-Making.",
+  "authors": "Kawser U, Harris SM, Mallick PP, White ML, Gramlow LD.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/jmft.70028",
+  "pmcid": "PMC12076108",
+  "url": "https://europepmc.org/article/PMC/PMC12076108",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12076108/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "This qualitative study explores how family therapists (n = 15) in Dhaka, Bangladesh, assist couples in navigating divorce decision-making, addressing a gap in research on divorce ideation in non-Western contexts. Thematic analysis of the interviews revealed four key themes: (1) Therapists as experts, (2) Respect for client autonomy, (3) Therapist neutrality, and (4) Clarity in the decision as the goal. Each of the themes is situated in the social context of Dhaka, the capital city, where couple therapy is a fairly new mental health practice and beliefs about marriage and divorce are culturally informed. These cultural beliefs include ideas that divorce is shameful, is not religiously sanctioned, and is harder on women. Future research could focus on the experiences of therapists or other community helpers (i.e., religious or kinship networks) in rural areas and among less-educated populations to better understand the broader landscape of divorce decision-making in Bangladesh.",
+  "raw_path": "01_raw/europepmc_xml/PMC12076108.xml",
+  "text_path": "02_text/europepmc/PMC12076108.txt",
+  "raw_bytes": 84797,
+  "text_chars": 42086,
+  "raw_sha256": "de14da1bd6ae61558b64670a4bead98cf6c4fbfbf5666e8697260706478fca14",
+  "text_sha256": "4d5df8ec1426a062ae0b7d1d0341bcf65d769c2a7ae28dfdf0fe533b8f6dce41",
+  "retrieved_at": "2026-10-25T15:44:24.486957+00:00"
+}

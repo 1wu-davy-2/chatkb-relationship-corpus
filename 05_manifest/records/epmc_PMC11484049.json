@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11484049",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Predictors of premarital cohabitation timing among young women in Ethiopia: insights from the 2016 demographic and health survey using a shared frailty model.",
+  "authors": "Nimani TD, Tadese EE, Butta FW, Tadese ZB.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fgwh.2024.1327219",
+  "pmcid": "PMC11484049",
+  "url": "https://europepmc.org/article/PMC/PMC11484049",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11484049/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "Introduction Most new HIV infections occur in sub-Saharan Africa due to premarital, likely experiences of abuse, exploitation, intimate partner violence, murder, and suicide. Transient nature of the relationship, cohabiting young females are frequently at risk for poor mental health following disagreements. This study's aim was to predictors of premarital cohabitation timing among young women in Ethiopia. Method Secondary data from the 2016 Ethiopian Health and Demographic Survey was analyzed. The study comprised a weighted sample of 6,142 young women. A weighted descriptive analysis of graphs, frequency tables, medians, and percentiles was performed to describe the study participants. The Akaike information criteria were used to choose the best-shared frailty model for the data. Final measures of effect size included the adjusted hazard ratio, both of which had a p -value of less than 0.05. Result Premarital cohabitation was reported to have a median age of 16 years (IQR, 15-18 years). Woman's age (AHR = 0.795; 95% CI: 0.761-0.868) was one of the independent predictors of time to premarital cohabitation. For primary, secondary, and higher education, respectively, 0.733 (95% CI: 0.607, 0.959) and 0.610 (95% CI: 0.589, 0.632) were seen among women who can read and write (AHR = 0.896; 95% CI: 0.872, 0.920). Women with access to the media (AHR = 0.722, 95% CI: 0.510, 0.963). Conclusion The most important idea is that educational level, access to media, age, and literacy are the most significant factors for the time-to-premarital cohabitation rate.",
+  "raw_path": "01_raw/europepmc_xml/PMC11484049.xml",
+  "text_path": "02_text/europepmc/PMC11484049.txt",
+  "raw_bytes": 113183,
+  "text_chars": 31793,
+  "raw_sha256": "2d85a8096ece82e0afac9ae9fb103c9a3f43d451361add35e2b5cf52b898de78",
+  "text_sha256": "d0072fa4b74616c364e9f97dba88ea86786e45f28194583a46844ba258c84c83",
+  "retrieved_at": "2026-10-25T15:39:27.640864+00:00"
+}

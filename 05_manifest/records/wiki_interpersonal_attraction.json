@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_interpersonal_attraction",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "人际吸引",
+  "requested_title": "人际吸引",
+  "url": "https://zh.wikipedia.org/wiki/%E4%BA%BA%E9%99%85%E5%90%B8%E5%BC%95",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 人际吸引",
+  "topics": [
+    "attraction",
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/interpersonal_attraction.json",
+  "text_path": "02_text/zh_wikipedia/interpersonal_attraction.txt",
+  "raw_bytes": 16936,
+  "text_chars": 6964,
+  "text_sha256": "682ecbeffe347e1080e72ebf67453bdf10341a4fc705b56f6a47710d8de76700",
+  "retrieved_at": "2026-10-26T14:01:02.258052+00:00"
+}

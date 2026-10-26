@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12013069",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship between parental phubbing and social anxiety in emerging adulthood students: a serial mediation model.",
+  "authors": "Li J, Tang F, Yin H, Liu S.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40359-025-02748-3",
+  "pmcid": "PMC12013069",
+  "url": "https://europepmc.org/article/PMC/PMC12013069",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12013069/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "Background Emerging adulthood is a critical period for the establishment of personal intimacy, and emerging adulthood students are vulnerable groups with social anxiety. Some studies have explored the mechanism of social anxiety. However, most of these studies are limited to analysis from a single individual or family dimension perspective, without considering its mechanism from a comprehensive perspective. Based on the cognitive behavioral framework of social anxiety, this study investigated the influence of parental phubbing on social anxiety in emerging adulthood students, and the mediating role of shyness and fear of negative evaluation. Method This study surveyed 5173 emerging adulthood students from two colleges in China to explore the mediating effect of shyness and fear of negative evaluation between parental phubbing and social anxiety. Correlations between variables were analysed using Pearson correlation analysis, and mediation analyses were performed using Hayes' PROCESS macro software (model 6). Result (1) The results of the correlation analysis showed that parental phubbing was significantly positively correlated with shyness, fear of negative evaluation and social anxiety. (2) After controlling for sociodemographic variables, parental phubbing can not only indirectly aggravate social anxiety through the separate mediation of shyness and fear of negative evaluation, but also through the serial mediation of shyness and fear of negative evaluation. Specifically, these mediating effects account for 27.12%, 8.40%, and 10.30% of the total effect. Conclusion Parental phubbing positively and directly affects the social anxiety of emerging adulthood students, and a higher level of shyness and fear of negative evaluation further aggravate social anxiety. These findings provide not only empirical support for the cognitive behavioral framework of social anxiety, but also have practical implications for the intervention of social anxiety in emerging adulthood students.",
+  "raw_path": "01_raw/europepmc_xml/PMC12013069.xml",
+  "text_path": "02_text/europepmc/PMC12013069.txt",
+  "raw_bytes": 149440,
+  "text_chars": 35774,
+  "raw_sha256": "b14026459e6ed52b47357b13fa825a47a673b3c44b0937d66e0e1f475469dfda",
+  "text_sha256": "0c532eb84fd7c494da9a9386ea7510f8a539019b45ab0e844b325eb968b3052d",
+  "retrieved_at": "2026-10-25T15:45:53.331949+00:00"
+}

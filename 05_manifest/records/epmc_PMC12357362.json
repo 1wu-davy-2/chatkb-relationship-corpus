@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12357362",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The effects of early marriages on academic performance of marginalized girls in secondary schools of central province in Zambia.",
+  "authors": "Sharper S, Evans CS, Mwiya MS, Bowa M, Mutengo E, University KN.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s12889-025-24089-x",
+  "pmcid": "PMC12357362",
+  "url": "https://europepmc.org/article/PMC/PMC12357362",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12357362/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Zambia’s education sector faces significant challenges, particularly for female students who are affected by poverty, cultural attitudes, and early marriage. Despite efforts to improve educational access, many girls struggle with enrollment and academic performance. This study aimed to analyze the effects of early marriages on the academic performance of marginalized girls in Secondary Schools in selected secondary schools in the Central Province of Zambia. Adopting a phenomenological approach, the study conducted focus group discussions and interviews with key stakeholders, including marginalized girls, out-of-school girls, school staff, and community leaders. Thematic analysis of data from structured field notes and NVivo software identified six themes including direct costs, inadequate parental support, restrictive gender norms, inclusivity, improving child safety, and dissolving early marriages. The findings indicated that sponsorship initiatives help reduce dropout rates, increase access to education for girls, and improve child safety in schools and communities. Nonetheless, challenges such as poverty, cultural attitudes, inadequate parental support, early marriage, and restrictive gender norms are prevalent. The intricate interplay of poverty, socio-cultural norms, and enduring gender inequalities poses a significant barrier to educational attainment for marginalized girls. Financial constraints and poverty forces families to prioritize survival over education, leaving girls susceptible to early marriage, school dropout, and risky behaviors as coping mechanisms. In conclusion, early marriage greatly harms the education of marginalized girls by making existing problems worse and putting them at greater risk. Solving this issue needs a full plan that lowers school costs, involves the community, keeps girls safe, supports gender equality in schools, and applies laws that stop early marriage.",
+  "raw_path": "01_raw/europepmc_xml/PMC12357362.xml",
+  "text_path": "02_text/europepmc/PMC12357362.txt",
+  "raw_bytes": 79118,
+  "text_chars": 41127,
+  "raw_sha256": "76d3b51a73f5c6ac97c1df679ac72761ca0dd6edbc13b7ed10393a742a229652",
+  "text_sha256": "b4589fe9585b2c1a4ab459bf6d20999c419dba0f54208f30a032bd415675832e",
+  "retrieved_at": "2026-10-25T13:57:54.481455+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12283805",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Scent of Intimacy: Exploring the Associations Between Intimacy, Disgust, and Olfactory Ability.",
+  "authors": "Murphy EL, Wylie FE, Mahmut MK.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10508-025-03145-y",
+  "pmcid": "PMC12283805",
+  "url": "https://europepmc.org/article/PMC/PMC12283805",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12283805/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "Intimacy is a fundamental aspect of romantic relationships, yet its underlying sensory mechanisms remain understudied. Research has suggested that experiences of intimacy are related to both olfaction and disgust. For example, studies indicate greater olfactory ability is associated with fulfilling relationships, while heightened disgust sensitivity can hinder sexual arousal and interpersonal affiliation. However, no study has investigated intimacy, olfaction, and disgust together. To investigate this, 74 participants aged 17-56 years (M = 22.6, SD = 7.1), completed self-report surveys assessing relationship intimacy and sensitivity to pathogen, moral, and sexual disgust. Participants also completed a short form of the Sniffin' Sticks identification test. Results revealed emotional and intellectual intimacy shared a significant weak positive association with olfactory ability, and no significant relationship with any form of disgust. Physical intimacy had a significant weak positive relationship with pathogen and sexual disgust, but not olfactory ability or moral disgust. Social intimacy had a significant positive moderate relationship with only pathogen disgust. Findings highlight the multifactorial nature of relationships and the importance of exploring different factors that may relate to intimacy.",
+  "raw_path": "01_raw/europepmc_xml/PMC12283805.xml",
+  "text_path": "02_text/europepmc/PMC12283805.txt",
+  "raw_bytes": 115998,
+  "text_chars": 31827,
+  "raw_sha256": "dc2df0fd1b359aabfa59373625c9b487e7533ad9c0c21b226dea2efc6e1c6bbd",
+  "text_sha256": "730d2ca0887716fc4c4e35949cd4872e37bebe5a10428c36cc39fb1f48b0da50",
+  "retrieved_at": "2026-10-25T13:55:09.605980+00:00"
+}

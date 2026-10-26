@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11390763",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Porn or Partner Arousal? When It Comes to Romantic Relationships, Not All Sexual Arousal Is Equal: A Prospective Study.",
+  "authors": "Lawless NJ, Karantzas GC.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1007/s10508-024-02985-4",
+  "pmcid": "PMC11390763",
+  "url": "https://europepmc.org/article/PMC/PMC11390763",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11390763/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship",
+    "sexual_satisfaction"
+  ],
+  "abstract": "Little is known about the role of subjective sexual arousal within romantic relationships. The current paper addresses this limitation using a prospective study design that investigates the direct associations between subjective sexual arousal induced by a romantic partner (partner arousal) and arousal induced by pornography (porn arousal) on changes in relational outcomes. A total of 309 participants who were in a current romantic relationship completed measures of partner and porn arousal as well as relational outcomes (i.e., sexual satisfaction and relationship quality and stability) at baseline (T1) and completed a second assessment of relational outcomes 2 months later (T2). Partner arousal was found to have no significant associations with changes in relational outcomes; however, porn arousal was associated with significant declines in sexual satisfaction and relationship quality and stability over a 2-month period. This paper is the first to examine how feeling sexually aroused by porn may impact relational outcomes for those in romantic relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC11390763.xml",
+  "text_path": "02_text/europepmc/PMC11390763.txt",
+  "raw_bytes": 97012,
+  "text_chars": 40265,
+  "raw_sha256": "756cb800af560eeef6c8f33de03815042d9967cf5f88f40cfadcc728f474d695",
+  "text_sha256": "213742bd2dd6abf0eaad72da80f174b6732565f5e5d2c9f60023a40f0a67d4a5",
+  "retrieved_at": "2026-10-25T15:44:47.432685+00:00"
+}

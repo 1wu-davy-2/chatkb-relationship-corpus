@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10002055",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Love and Infidelity: Causes and Consequences.",
+  "authors": "Rokach A, Chan SH.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3390/ijerph20053904",
+  "pmcid": "PMC10002055",
+  "url": "https://europepmc.org/article/PMC/PMC10002055",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10002055/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "This is a narrative review addressing the topic of romantic infidelity, its causes and its consequences. Love is commonly a source of much pleasure and fulfillment. However, as this review points out, it can also cause stress, heartache and may even be traumatic in some circumstances. Infidelity, which is relatively common in Western culture, can damage a loving, romantic relationship to the point of its demise. However, by highlighting this phenomenon, its causes and its consequences, we hope to provide useful insight for both researchers and clinicians who may be assisting couples facing these issues. We begin by defining infidelity and illustrating the various ways in which one may become unfaithful to their partner. We explore the personal and relational factors that enhance an individual's tendency to betray their partner, the various reactions related to a discovered affair and the challenges related to the nosological categorization of infidelity-based trauma, and conclude by reviewing the effects of COVID-19 on unfaithful behavior, as well as clinical implications related to infidelity-based treatment. Ultimately, we hope to provide a road map, for academicians and clinicians alike, of what some couples may experience in their relationships and how can they be helped.",
+  "raw_path": "01_raw/europepmc_xml/PMC10002055.xml",
+  "text_path": "02_text/europepmc/PMC10002055.txt",
+  "raw_bytes": 177316,
+  "text_chars": 59680,
+  "raw_sha256": "3f5d5d587e75c9ef3cb67b00215bf6a77a4c61b7ad85b152f48e30ddbe34771e",
+  "text_sha256": "269e671106fbe47e86f0d1871bdfd6617ee9f44126a0d551d420450b192d988c",
+  "retrieved_at": "2026-10-25T15:30:56.599993+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_25130",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "夜雨秋燈錄",
+  "gutenberg_id": "25130",
+  "url": "https://www.gutenberg.org/ebooks/25130",
+  "download_url": "https://www.gutenberg.org/cache/epub/25130/pg25130.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/25130.txt",
+  "text_path": "02_text/gutenberg/gut_25130_夜雨秋燈錄.txt",
+  "raw_bytes": 528255,
+  "text_chars": 168086,
+  "text_sha256": "7679bbfebf5757e8dff2a48fcb16b57b19757b3a10d2810c5b9fcaaa5257d4e9",
+  "retrieved_at": "2026-10-25T16:05:53.658003+00:00"
+}

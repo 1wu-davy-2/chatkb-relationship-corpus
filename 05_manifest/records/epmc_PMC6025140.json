@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6025140",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mental Health Status and Associated Contributing Factors among Gay Men in China.",
+  "authors": "Liu X, Jiang D, Chen X, Tan A, Hou Y, He M, Lu Y, Mao Z.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.3390/ijerph15061065",
+  "pmcid": "PMC6025140",
+  "url": "https://europepmc.org/article/PMC/PMC6025140",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6025140/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "family_pressure"
+  ],
+  "abstract": "Chinese gay men are preferentially vulnerable to mental health problems because of deep-rooted, traditional social influence that overemphasizes heterosexual marriage, fertility, and filial piety. A cross-sectional survey was conducted from November to December 2017 using the Chinese version of the Symptom Checklist-90-R (SCL-90-R) to assess the status of, and factors associated with the mental health of Chinese gay men. Unadjusted associations between demographic factors and the total score of SCL-90-R were examined using t / F tests or person correlation analysis. The main factors that were most predictive of the aggregate score of SCL-90-R were identified by multiple linear regressions. A total of 367 gay men participated in this survey with an average score of SCL-90-R of 180.78 ± 79.58. The scores of seven dimensions (OCS, INTS, DEPR, ANX, HOS, PHOA, PARI) for Chinese gay men were found to be significantly higher than the national norm (all p p = 0.023), educational level (B = -14.053, SE = 5.270, p = 0.008), and degree of coming out publicly (B = -23.750, SE = 4.690, p p < 0.001). Our study reveals the worrying mental health status of Chinese gay men. Shifts in familial, governmental, and societal normas are suggested to improve the current social acceptance towards sexual minority men, as well as to reduce detrimental health effects.",
+  "raw_path": "01_raw/europepmc_xml/PMC6025140.xml",
+  "text_path": "02_text/europepmc/PMC6025140.txt",
+  "raw_bytes": 126267,
+  "text_chars": 25582,
+  "raw_sha256": "06870ab66088966be1c26578cc817ab5399585eb6dda54366a993c0655305cbb",
+  "text_sha256": "9802b037a17c63c9f927b338140f69386a2277ae78abe6f7e6729ce4c28e8910",
+  "retrieved_at": "2026-10-25T13:52:41.544796+00:00"
+}

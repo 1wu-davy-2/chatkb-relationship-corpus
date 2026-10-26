@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11303874",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A narrative review of mechanisms linking romantic relationship experiences to sleep quality.",
+  "authors": "Xie Y, Feeney BC.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1093/sleepadvances/zpae049",
+  "pmcid": "PMC11303874",
+  "url": "https://europepmc.org/article/PMC/PMC11303874",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11303874/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Although a significant body of research has revealed associations between romantic relationship experiences and sleep quality, there has not been clarity regarding the mechanisms underlying such associations. Toward this end, we review the existing studies that have tested mechanisms linking romantic relationship experiences to sleep quality. Guided by both theory and existing research, we organize our review around five key categories of mechanisms that may explain associations between romantic relationship experiences and sleep quality: emotional/affective responses, self-perceptions, social perceptions, self-regulation, and biological functioning. Our review of the literature indicates strong evidence in support of the mediating effects of emotional/affective mechanisms (e.g. emotions and mood states) in explaining associations between various aspects of romantic relationships (e.g. relationship satisfaction, partner conflicts, and attachment orientation) and sleep quality. Although there is ample theoretical support for the other mechanisms proposed, and although all proposed mechanisms have been separately linked to both romantic relationship experiences and sleep quality, few studies have directly tested them, pointing to profitable directions for future research. Understanding underlying mechanisms will enable the development of wise, process-based interventions that target specific mechanisms to improve couple members' sleep quality and romantic relationship functioning.",
+  "raw_path": "01_raw/europepmc_xml/PMC11303874.xml",
+  "text_path": "02_text/europepmc/PMC11303874.txt",
+  "raw_bytes": 220817,
+  "text_chars": 58888,
+  "raw_sha256": "944246f34691b26902676e6853f4678ceac542fe17e5ab0f7aa043bab492bde6",
+  "text_sha256": "349e1bac0940d11e644b08ce4871a1995e054719185569074fe8fce004770f64",
+  "retrieved_at": "2026-10-25T13:59:23.833824+00:00"
+}

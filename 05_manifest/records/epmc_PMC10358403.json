@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10358403",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "What makes It Difficult to keep an Intimate Relationship: Evidence From Greece and China.",
+  "authors": "Apostolou M, Wang Y.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1177/1474704920987807",
+  "pmcid": "PMC10358403",
+  "url": "https://europepmc.org/article/PMC/PMC10358403",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10358403/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "Keeping an intimate relationship is challenging, and there are many factors causing strain. In the current research, we employed a sample of 1,403 participants from China and Greece who were in an intimate relationship, and we classified 78 difficulties in keeping an intimate relationship in 13 factors. Among the most common ones were clinginess, long work hours, and lack of personal time and space. Clinginess was reported as a more common source of relationship strain by women, while bad sex was reported as a more common source of relationship strain by men. Fading away enthusiasm, bad sex, infidelity and children were reported as more important by older participants, while lack of personal time and space, and character issues were reported as more important by younger participants. The factor structure was similar in the Greek and in the Chinese cultural contexts, but there were also differences. In addition, there were significant interactions between the sample and the sex. For instance, for the non-monogamous factor, men gave higher scores than women in both samples, but the difference was much more pronounced in the Greek sample.",
+  "raw_path": "01_raw/europepmc_xml/PMC10358403.xml",
+  "text_path": "02_text/europepmc/PMC10358403.txt",
+  "raw_bytes": 117358,
+  "text_chars": 51720,
+  "raw_sha256": "8dd5993f6f6784a0caa1380257909ccb6b6980937fd5a0079244243c07b07bc6",
+  "text_sha256": "72b32d1977cc4c27c96c956e2823bcf3a313f7fab0a7b45f333f937637139543",
+  "retrieved_at": "2026-10-25T15:43:40.906171+00:00"
+}

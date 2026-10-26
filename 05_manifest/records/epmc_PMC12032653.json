@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12032653",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Successful sexual aging: conceptualization and Bi-Country (Croatia and Germany) measure validation.",
+  "authors": "Štulhofer A, Pietras L, Landripet I, Koletić G.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s12877-025-05899-5",
+  "pmcid": "PMC12032653",
+  "url": "https://europepmc.org/article/PMC/PMC12032653",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12032653/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_self_disclosure"
+  ],
+  "abstract": "Background The increasing importance of sexual expression among older Europeans calls for a more comprehensive understanding of the process of sexual aging. Combining social gerontological and sexological theories, the current study aimed to conceptualize and operationalize a process-focused model of successful sexual aging (the SSAM). Methods Using a Croatian sample of older partnered individuals (n = 200; M age = 71.2) and a large-scale German sample of both partnered (n = 442; M age = 69.2) and non-partnered individuals (n = 971; M age = 69.2), we developed and validated a 9-item measure of successful sexual aging. Results The 3-dimensional Successful Sexual Aging Scale (SSAS) reflects two internal processes (acceptance of and adaptation to aging-related changes) and an external one (opportunities for sexual expression). The measure was age, gender, and (to a large extent) culture invariant in older partnered individuals. With a minor adjustment (re-wording of a single item), the SSAS assessed positive sexual aging comparably well in non-partnered individuals. As hypothesized, the measure was significantly related to positive attitudes about older people's sexuality, life and relationship satisfaction, subjective age, and self-reported health. SSAS scores, which were lower among Croatian than German participants, were also linked to lower levels of social isolation, as well as depression and anxiety symptoms. Conclusions The new measure can be useful in a range of quantitative assessments of older people's sexuality and well-being. Furthermore, the concept of successful sexual aging may assist in challenging ageism and in interventions focusing on positive sexual aging. Clinical trial number Not applicable.",
+  "raw_path": "01_raw/europepmc_xml/PMC12032653.xml",
+  "text_path": "02_text/europepmc/PMC12032653.txt",
+  "raw_bytes": 153191,
+  "text_chars": 58545,
+  "raw_sha256": "44a13fa90498f9c5b75a232cacd9ba36d7048e1cfc8ac143a341029280b4f8b5",
+  "text_sha256": "dce8fe19e5dff5418ca3bbc440ad6db789480e29486675dbe91915dff59193dd",
+  "retrieved_at": "2026-10-26T12:58:01.260432+00:00"
+}

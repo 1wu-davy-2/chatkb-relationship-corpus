@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_15381",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Victorian Short Stories: Stories of Courtship",
+  "gutenberg_id": "15381",
+  "url": "https://www.gutenberg.org/ebooks/15381",
+  "download_url": "https://www.gutenberg.org/cache/epub/15381/pg15381.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "courtship"
+  ],
+  "raw_path": "01_raw/gutenberg/15381.txt",
+  "text_path": "02_text/gutenberg/gut_15381_victorian_short_stories_stories_of_court.txt",
+  "raw_bytes": 222661,
+  "text_chars": 198043,
+  "text_sha256": "f61e822cc2d245b72c91f7446b05d1530944c5841eba7aa443f5523a317f87bd",
+  "retrieved_at": "2026-10-25T15:55:34.296132+00:00"
+}

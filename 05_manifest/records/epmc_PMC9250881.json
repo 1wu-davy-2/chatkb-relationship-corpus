@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9250881",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sex Differences in Attitudes Toward Marriage and Childbearing Based on the Assumption of Being BRCA1/2 Mutation Carriers Among Young People.",
+  "authors": "Jeong J, Park B, Kim D, Kim J, Lee BY, Yoon J, Kim SW.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.4048/jbc.2022.25.e25",
+  "pmcid": "PMC9250881",
+  "url": "https://europepmc.org/article/PMC/PMC9250881",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9250881/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_attitudes"
+  ],
+  "abstract": "Purpose This study investigated changes in attitudes toward marriage and childbearing assuming a BRCA1/2 mutation carrier status among healthy, unmarried individuals in Korea. Methods A nationally representative sample of healthy, unmarried individuals aged 20-39 years was surveyed. A questionnaire on marriage and childbearing intentions was administered to the participants before and after providing them with information on BRCA1/2 mutation carriers' breast and ovarian cancer risks and their autosomal dominant inheritance pattern. The participants were asked about their attitudes toward childbearing through preimplantation genetic diagnosis (PGD). Results Of the participants who initially wanted to marry, the assumption that they or their partners had BRCA1/2 mutation caused 25.3% to no longer want to get married and 36.2% to change their attitude from wanting to bear children to no longer wanting them. Females were more likely than males to change their attitudes toward marriage and childbearing. The participants who had negative attitudes toward genetic testing were more likely to change their attitudes regarding marriage and childbearing than those who were favorable toward both disclosure and testing. More than 50% of the participants who did not want children were willing to bear children through PGD when it was assumed that they were BRCA mutation carriers. Conclusion On the assumption of being carriers, general, young, and healthy females were more likely than males to negatively change their attitudes toward marriage and childbearing. Public education on the implications of living with mutation carriers and reproductive options may be required.",
+  "raw_path": "01_raw/europepmc_xml/PMC9250881.xml",
+  "text_path": "02_text/europepmc/PMC9250881.txt",
+  "raw_bytes": 112511,
+  "text_chars": 25058,
+  "raw_sha256": "3652ef5b90a5feea879a96ce902a52dce2219789caacd8d89f2bb70eea2fd5b1",
+  "text_sha256": "407e5a1f571141f6f00f8e8b9bcd66ce9b3fe68097c1b2b4190c6ee4c46e2e5e",
+  "retrieved_at": "2026-10-25T15:32:03.502884+00:00"
+}

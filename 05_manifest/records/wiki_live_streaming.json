@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_live_streaming",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "網路直播",
+  "requested_title": "网络直播",
+  "url": "https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E7%9B%B4%E6%92%AD",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 網路直播",
+  "topics": [
+    "technology",
+    "money"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/live_streaming.json",
+  "text_path": "02_text/zh_wikipedia/live_streaming.txt",
+  "raw_bytes": 6381,
+  "text_chars": 2635,
+  "text_sha256": "95b1072f7b3c7afcfe4c626a772b3eba0705d23c57ea34104a60a6981f452d00",
+  "retrieved_at": "2026-10-25T16:31:03.735178+00:00"
+}

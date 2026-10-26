@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7991636",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Data-driven identification of subtypes of intimate partner violence.",
+  "authors": "Hacıaliefendioğlu AM, Yılmaz S, Smith D, Whiting J, Koyutürk M, Karakurt G.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1038/s41598-021-85947-3",
+  "pmcid": "PMC7991636",
+  "url": "https://europepmc.org/article/PMC/PMC7991636",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7991636/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "Intimate partner violence (IPV) is a complex problem with multiple layers of heterogeneity. We took a data-driven approach to characterize this heterogeneity. We integrated data from different studies, representing 640 individuals from various backgrounds. We used hierarchical clustering to systematically group cases in terms of their similarities according to violence variables. Results suggested that the cases can be clustered into 12 hierarchically organized subgroups, with verbal abuse and negotiation being the main discriminatory factors at higher levels. The presence of physical assault, injury, and sexual coercion was discriminative at lower levels of the hierarchy. Subgroups also exhibited significant differences in terms of relationship dynamics and individual factors. This study represents an attempt toward using integrative data analysis to understand the etiology of violence. These results can be useful in informing treatment efforts. The integrative data analysis framework we develop can also be applied to various other problems.",
+  "raw_path": "01_raw/europepmc_xml/PMC7991636.xml",
+  "text_path": "02_text/europepmc/PMC7991636.txt",
+  "raw_bytes": 192513,
+  "text_chars": 66577,
+  "raw_sha256": "fca5a8ba36d7b78a29daee665be0b34b9af6b3c4dd5d3ba9d7a0cf5026c59347",
+  "text_sha256": "d643bdadba2400ee3e7c00e21350587617f87f6b5519823543aaa7e9a2d3caf9",
+  "retrieved_at": "2026-10-26T13:13:03.022517+00:00"
+}

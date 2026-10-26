@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_conflict_management",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "衝突",
+  "requested_title": "衝突",
+  "url": "https://zh.wikipedia.org/wiki/%E8%A1%9D%E7%AA%81",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "conflict",
+    "communication"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/conflict_management.json",
+  "text_path": "02_text/zh_wikipedia/conflict_management.txt",
+  "raw_bytes": 4435,
+  "text_chars": 1585,
+  "text_sha256": "57c93cd7141c01963e68a074422a69cfe434f915048058a3fc3e2ce953fdf7be",
+  "retrieved_at": "2026-10-25T15:57:06.100496+00:00"
+}

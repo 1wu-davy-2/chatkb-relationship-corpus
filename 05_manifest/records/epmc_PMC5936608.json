@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5936608",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship between Quality of Life, Relationship Beliefs and Attribution Style in Infertile Couples.",
+  "authors": "Navid B, Mohammadi M, Maroufizadeh S, Amini P, Shirin Z, Omani-Saman R.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.22074/ijfs.2018.5221",
+  "pmcid": "PMC5936608",
+  "url": "https://europepmc.org/article/PMC/PMC5936608",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5936608/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_ideals"
+  ],
+  "abstract": "Background Many infertile couples experience psychological distress and suffer from impaired quality of life. Generally, when couples are dealing with uncontrolled events such as infertility, it is important to manage it well and to use the suitable coping style; so this can represent an example of attribution style. The purpose of this study is to investigate the quality of life, relationship beliefs and attribution style in infertile couples. Materials and methods This cross-sectional study consisted of 50 infertile couples, who were at least 18 years of age and could read and write in Persian. Participants provided demographic and general characteristics and completed the quality of life (SF-12), relationship belief inventory (RBI) and attribution style (ASQ) forms. Data was analyzed by the paired t test, Pearson correlation tests and multiple linear regression analysis, using SPSS version 22 statistical software. Results Overall, 50 infertile couples participated in our study. The males had a significantly higher score for quality of life compared to the females (P=0.019). In RBI subscales except \"Disagreement is Destructive\" all others significantly higher in wives than husbands. All subscales of RBI had a negative correlation with the quality of life. The quality of life had a significant correlation with positive internal (r=0.213, P=0.033). The adjusted regression model showed that the quality of life for males was higher than in females (β=-3.098, P=0.024). Conclusion The current data indicate that in infertile couples, the husbands have a higher quality of life in comparison to their wives. Also, all subscales of relationship beliefs have a negative correlation with the quality of life, but in attribution style, just internal attribution style for positive events is associated with the quality of life. In general, there is a correlation between relationship beliefs and the quality of life in infertile couples.",
+  "raw_path": "01_raw/europepmc_xml/PMC5936608.xml",
+  "text_path": "02_text/europepmc/PMC5936608.txt",
+  "raw_bytes": 79404,
+  "text_chars": 17312,
+  "raw_sha256": "e44dc7d0387e94b0ca5ed83ed75d3edd9c26d7d239681784cf16852292797c82",
+  "text_sha256": "f717f9470980dc5db56a41c4acf0a07d29035a9bab9a3b16ab24c0ab6948e5d1",
+  "retrieved_at": "2026-10-25T15:29:08.335617+00:00"
+}

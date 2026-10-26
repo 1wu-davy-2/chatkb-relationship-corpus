@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13077900",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A fNIRS hyperscanning study on enhancing intimacy through emotional self-disclosure from the discloser-responder perspective.",
+  "authors": "Yu Y, Li W.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-04257-3",
+  "pmcid": "PMC13077900",
+  "url": "https://europepmc.org/article/PMC/PMC13077900",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13077900/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_disclosure"
+  ],
+  "abstract": "During social interactions, individuals often share their emotions with friends to enhance mutual intimacy. According to the interpersonal process model of intimacy, emotional disclosure predicts the development of intimacy, and a partner' s responsive behavior can further facilitate this process. However, how emotional self-disclosure and a partner' s response jointly influence intimacy and the underlying neural mechanisms in naturalistic conversations remain unclear. This study employed functional near-infrared spectroscopy (fNIRS) hyperscanning to investigate the brain mechanisms underlying the enhancement of intimacy in female dyads during emotional conversations, which included conditions of positive and negative emotional self-disclosure as well as non-self-disclosure. Behavioral results revealed that dyads in the self-disclosure condition reported higher levels of intimacy, and both state-level cognitive and state-level affective empathy were positively correlated with intimacy. At the neural level, the responder's left inferior frontal gyrus (IFG) showed significant activation differences. Specifically, responder's brains exhibited greater activation during positive (vs. negative) emotional sharing and during self-disclosure (vs. non-self-disclosure) conditions. Furthermore, in positive emotional contexts, self-disclosure elicited stronger neural activation in responder's compared to non-self-disclosure; however, no significant difference was observed in negative emotional contexts. Importantly, this neural activation mediated the path through which state-level empathy influenced intimacy. These findings highlight the responder's neural reactivity as a crucial factor in transforming empathic resonance into intimacy during emotional communication, underscoring the importance of partner feedback in forging deeper emotional bonds.",
+  "raw_path": "01_raw/europepmc_xml/PMC13077900.xml",
+  "text_path": "02_text/europepmc/PMC13077900.txt",
+  "raw_bytes": 157590,
+  "text_chars": 50390,
+  "raw_sha256": "f40d528bbd6a0a5f081b2c12608a851597b837380ffb343fa2495004b5850044",
+  "text_sha256": "2a39f97b4947ee14762abecaf91e8fcd8e1aa88728859790de602725dc48669a",
+  "retrieved_at": "2026-10-25T13:46:04.710644+00:00"
+}

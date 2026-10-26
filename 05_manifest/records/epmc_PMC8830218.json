@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8830218",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Intimate partner violence (IPV) prevention using a cross-sectoral couple-based intervention: results from a cluster randomised control trial in Ibadan, Nigeria.",
+  "authors": "John NA, Adebayo A, Boychuk NA, OlaOlorun F.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1136/bmjgh-2021-007192",
+  "pmcid": "PMC8830218",
+  "url": "https://europepmc.org/article/PMC/PMC8830218",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8830218/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_styles"
+  ],
+  "abstract": "Introduction Intimate partner violence (IPV) is the most common form of violence women experience globally. Economic empowerment interventions have been implemented across countries to prevent and address IPV, with mixed results. A sociological 'male-backlash' model suggests that addressing unequal gender norms is crucial to reduce IPV. This study evaluates the impact of a multipronged intervention among heterosexual couples in urban and periurban Ibadan that aimed at reducing IPV by increasing financial and reproductive literacy, fostering gender equality and improving relationship quality. Methods A four-arm mixed-methods cluster randomised control trial was employed. Baseline data and end line data six months postintervention were collected to estimate changes in key outcomes. In-depth interviews were conducted with 15 couples 2 years postintervention to explore the drivers of changes in outcomes. Difference-in-differences regression models were estimated to compare changes in IPV levels across the three intervention arms and control arm, and thematic analysis was conducted to understand drivers of change in IPV outcomes. Results Physical IPV decreased significantly in the gender socialisation (GS) (β: -4.63 (SE: 2.12)) and GS and financial literacy (β: -4.61 (SE: 2.02)) groups as compared with the control group. Changes in emotional and sexual IPV were marginally significant or insignificant, respectively, suggesting that the intervention did not have an impact on non-physical forms of IPV. In the in-depth interviews, couples reported improved communication and trust, enhanced conflict management skills, and increased mutual respect as a result of participation across intervention arms, which may have facilitated the reduction of violence in their relationships. Conclusion This study highlights the potential utility of gender transformative interventions for improving physical IPV outcomes. Future research should seek to understand the mechanisms that influence sexual and emotional IPV as their aetiology may be different from physical violence. Trail registration number The study protocol was registered at ClinicalTrials.gov (ID: NCT03888495).",
+  "raw_path": "01_raw/europepmc_xml/PMC8830218.xml",
+  "text_path": "02_text/europepmc/PMC8830218.txt",
+  "raw_bytes": 97435,
+  "text_chars": 38788,
+  "raw_sha256": "c77418be96a89173f399c4dfd9d71c5be14380a2330be674310dc1a643446a2e",
+  "text_sha256": "975e06c2eb4b8955c5206edf9ee7b9f0d7e4a10cc24fd93ad9116be339b0efb3",
+  "retrieved_at": "2026-10-25T15:34:05.049289+00:00"
+}

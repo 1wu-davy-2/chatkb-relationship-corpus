@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_sexual_pleasure",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "性愉悅",
+  "requested_title": "性愉悦",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E6%84%89%E6%82%85",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 性愉悅",
+  "topics": [
+    "sexuality",
+    "health"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/sexual_pleasure.json",
+  "text_path": "02_text/zh_wikipedia/sexual_pleasure.txt",
+  "raw_bytes": 14416,
+  "text_chars": 5389,
+  "text_sha256": "5a0f07ac0864112a756ab3cddc69799d2617766046b4b8a7520a5034e970d2b6",
+  "retrieved_at": "2026-10-26T13:42:10.970571+00:00"
+}

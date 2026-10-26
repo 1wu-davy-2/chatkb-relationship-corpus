@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10338100",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship between self-cohesion and smartphone addiction: the mediating role of rejection sensitivity.",
+  "authors": "El Keshky MES, Aseem H, Alzain A.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpubh.2023.1166864",
+  "pmcid": "PMC10338100",
+  "url": "https://europepmc.org/article/PMC/PMC10338100",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10338100/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection_sensitivity"
+  ],
+  "abstract": "Background The increasing use of smartphones with attractive applications has yielded concerns over problematic overuse, also called smartphone addiction, thus creating a need to investigate the antecedents and pathways of this addiction. Objective The aim of this study was to investigate the relationships between the self-cohesion dimensions of presence and consistency and smartphone addiction, and the potentially mediating role of rejection sensitivity. Methods A total sample of 910 respondents (58% females, mean age = 34.9, SD = 13.6) participated in the study. They completed a questionnaire including demographic characteristics and queries about frequency and duration of smartphone use, as well as the Self-Cohesion Scale, the Short Version of Smartphone Addiction Scale, and the Rejection Sensitivity RS-Adult Questionnaire. Structural equation modeling was used to examine the relationships in question. Results The findings indicated that smartphone addiction was positively correlated with rejection sensitivity and negatively correlated with the self-cohesion dimensions of presence and consistency. Further, both presence and consistency were negatively associated with smartphone addiction and rejection sensitivity negatively mediated these relationships. Conclusion Self-cohesion and rejection sensitivity appear to be important predictors of smartphone addiction. Efforts to counteract smartphone addiction should, therefore, endeavor to increase smartphone users' self-cohesion and reduce their rejection sensitivity.",
+  "raw_path": "01_raw/europepmc_xml/PMC10338100.xml",
+  "text_path": "02_text/europepmc/PMC10338100.txt",
+  "raw_bytes": 127674,
+  "text_chars": 28933,
+  "raw_sha256": "73a0a215fe1dbbfb158e018459633773fb4349d0dd084c4fb49c49aa27b0b3f8",
+  "text_sha256": "dddd0b3197cf802eb22e2cfebb2de329db2e7aa526adbe63a1731f03bd5d8378",
+  "retrieved_at": "2026-10-25T13:49:48.240196+00:00"
+}

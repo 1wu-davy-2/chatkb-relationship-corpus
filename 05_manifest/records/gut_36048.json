@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_36048",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Martine's Hand-book of Etiquette, and Guide to True Politeness",
+  "gutenberg_id": "36048",
+  "url": "https://www.gutenberg.org/ebooks/36048",
+  "download_url": "https://www.gutenberg.org/cache/epub/36048/pg36048.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/36048.txt",
+  "text_path": "02_text/gutenberg/gut_36048_martine_s_hand_book_of_etiquette_and_gui.txt",
+  "raw_bytes": 305475,
+  "text_chars": 278979,
+  "text_sha256": "564657813e753d246e9f9a0a9cba06444ca2cdd08fb03c7f71cc9f24c2c6172b",
+  "retrieved_at": "2026-10-25T15:46:12.099448+00:00"
+}

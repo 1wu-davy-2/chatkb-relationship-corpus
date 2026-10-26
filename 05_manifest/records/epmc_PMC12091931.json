@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12091931",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Satisfaction of Women's Orgasms: The Relationship Between Women's Orgasmic Pleasure and Sexual Relationship Satisfaction in Aotearoa/New Zealand.",
+  "authors": "Janssen AK, Csako RI, Rowland DL, Hevesi K.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1080/19317611.2025.2464535",
+  "pmcid": "PMC12091931",
+  "url": "https://europepmc.org/article/PMC/PMC12091931",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12091931/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance",
+    "sexual_frequency"
+  ],
+  "abstract": "Objectives Orgasms have become a symbol of successful sex in modern society. It is common knowledge that women's orgasms can be elusive in heterosexual partnered sex. To ascertain the impact of this disparity and to better understand women's sexuality for clinical applications, this study explores the relationship between women's orgasms and their relationship satisfaction in Aotearoa/New Zealand. Methods This cross-sectional study utilises data from an online questionnaire. A stepwise logistic regression model building exercise was run on select orgasm variables (consistency, pleasure, and difficulty) and covariates (age, frequency of sex, and self-rated importance of sex) to determine which variables best predicted sexual relationship satisfaction. Results Notably, more consistent orgasms and more frequent sex were the strongest predictors of sexual relationship satisfaction. The relationship between orgasmic variables and sexual relationship satisfaction was curvilinear, with satisfaction increasing only up to a certain point. Conclusions These findings demonstrate an association between women's orgasms and their relationship satisfaction. Consistent with research in other Western populations, sex and relationship therapists working with women aiming to improve their sexual relationship satisfaction might achieve better outcomes by focusing on interventions that increase the frequency of sex and/or improve orgasm consistency. Nevertheless, reaching orgasm every time is neither necessary nor necessarily better for a woman's satisfaction, information that might help couples manage distress when orgasm does not occur and reduce a goal-oriented mindset that might hinder both orgasm and sexual pleasure.",
+  "raw_path": "01_raw/europepmc_xml/PMC12091931.xml",
+  "text_path": "02_text/europepmc/PMC12091931.txt",
+  "raw_bytes": 138811,
+  "text_chars": 30190,
+  "raw_sha256": "ec3e90362ba78b6e470a01ea44fc24d54f7f78fe87c5aee0ec0dc04069b8e599",
+  "text_sha256": "aaec9d0d29dafe21db742c372b8378db7fdcfafd3cd6d78a0dfe2ac0768fc185",
+  "retrieved_at": "2026-10-25T15:48:29.512049+00:00"
+}

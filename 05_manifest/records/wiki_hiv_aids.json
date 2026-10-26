@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_hiv_aids",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "艾滋病",
+  "requested_title": "艾滋病",
+  "url": "https://zh.wikipedia.org/wiki/%E8%89%BE%E6%BB%8B%E7%97%85",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 艾滋病",
+  "topics": [
+    "sexuality",
+    "health",
+    "stigma"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/hiv_aids.json",
+  "text_path": "02_text/zh_wikipedia/hiv_aids.txt",
+  "raw_bytes": 48421,
+  "text_chars": 17872,
+  "text_sha256": "e72fac21be433cc413a0166745f21481455f46b854fa58ed4d7ee81af1eb735d",
+  "retrieved_at": "2026-10-26T13:01:12.200467+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9047667",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dynamic associations between stress and relationship functioning in the wake of COVID-19: Longitudinal data from the German family panel (pairfam).",
+  "authors": "Pauly T, Lüscher J, Berli C, Scholz U.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/02654075221092360",
+  "pmcid": "PMC9047667",
+  "url": "https://europepmc.org/article/PMC/PMC9047667",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9047667/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Individuals all across the world experienced significant disruptions in their personal and family life with the outbreak of the new coronavirus disease 2019 (COVID-19). The current study investigated dynamic associations between stress and relationship functioning over time in the face of the COVID-19 pandemic. Perceived stress, relationship satisfaction, and relationship quality (appreciation, intimacy, conflict) were reported by 1483 young to middle-aged participants who were in a romantic relationship and lived with their partner in 2018/2019 and in May-July 2020 (a few months after the onset of COVID-19). Data were analyzed using bivariate latent change score models. Relationship functioning (satisfaction, appreciation, intimacy) showed small decreases from before to during the pandemic. Contrary to expectations, levels of perceived stress also decreased on average from before to during the pandemic. Changes in relationship functioning were correlated with changes in stress over time, so that participants with greater decreases in relationship satisfaction, appreciation, and intimacy and greater increases in conflict from before to during the pandemic showed lesser decreases/greater increases in stress. Higher pre-pandemic relationship satisfaction was associated with greater decreases/lesser increases in stress from before to during the pandemic. Pre-pandemic levels of other measures of relationship functioning or stress were not associated with changes in outcomes over time. Results add to the literature demonstrating that stress is closely intertwined with the functioning of intimate relationships. Furthermore, they suggest that greater relationship satisfaction may serve as a protective factor for stressful life events.",
+  "raw_path": "01_raw/europepmc_xml/PMC9047667.xml",
+  "text_path": "02_text/europepmc/PMC9047667.txt",
+  "raw_bytes": 143210,
+  "text_chars": 40883,
+  "raw_sha256": "8af4602802696019a44b8d30ecd0ecbcb7e8d4d46a5d073c5b8679eead919880",
+  "text_sha256": "b05b83475130d7fa774c28ae4aec92198115a4da2f145f11c5524a797f2d6b57",
+  "retrieved_at": "2026-10-25T15:48:37.119204+00:00"
+}

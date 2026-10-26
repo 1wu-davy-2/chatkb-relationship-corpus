@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_wechat",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "微信",
+  "requested_title": "微信",
+  "url": "https://zh.wikipedia.org/wiki/%E5%BE%AE%E4%BF%A1",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "technology",
+    "communication",
+    "china"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/wechat.json",
+  "text_path": "02_text/zh_wikipedia/wechat.txt",
+  "raw_bytes": 43986,
+  "text_chars": 16001,
+  "text_sha256": "6b8009eb51c6b8b8e1e9878d1e07d5f90b2282fdb47efb9dc921934073ef4760",
+  "retrieved_at": "2026-10-25T15:44:07.973290+00:00"
+}

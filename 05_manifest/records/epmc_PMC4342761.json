@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4342761",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Why Do You Make Us Feel Good? Correlates and Interpersonal Consequences of Affective Presence in Speed-dating.",
+  "authors": "Berrios R, Totterdell P, Niven K.",
+  "year": "2015",
+  "journal": "",
+  "doi": "10.1002/per.1944",
+  "pmcid": "PMC4342761",
+  "url": "https://europepmc.org/article/PMC/PMC4342761",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4342761/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Recent research indicates that people consistently make others feel a certain way (e.g. happy or stressed). This individual difference has been termed affective presence, but little is known about its correlates or consequences. The present study investigated the following: (i) whether affective presence influences others' romantic interest in a person and (ii) what types of people have positive and negative affective presence. Forty volunteers took part in a speed-dating event, during which they dated six or seven opposite-sex partners. A Social Relations Model analysis confirmed that individuals prompted consistent positive emotional reactions in others. Participants were more likely to want to see dates with greater positive affective presence again in the future, and positive affective presence explained the effects of perceived responsiveness on romantic interest. Associations between positive affective presence and trait predictors, including emotion regulation, emotional expressiveness, attachment style, agreeableness and extraversion, were also observed. The findings indicate that what emotionally distinguishes one individual from another lies in part in the emotional consequences of their behaviours on others. © 2013 The Authors. European Journal of Personality published by John Wiley & Sons Ltd on behalf of European Association of Personality Psychology.",
+  "raw_path": "01_raw/europepmc_xml/PMC4342761.xml",
+  "text_path": "02_text/europepmc/PMC4342761.txt",
+  "raw_bytes": 129743,
+  "text_chars": 52463,
+  "raw_sha256": "b675c127179ec8185e542a9b45fd6fc017b2189405e613e543acd112ae81f3be",
+  "text_sha256": "26faa13558ca99bb226d68b331d2dffb2b18c078c194b2eef2684b64fc98a758",
+  "retrieved_at": "2026-10-25T15:48:33.729859+00:00"
+}

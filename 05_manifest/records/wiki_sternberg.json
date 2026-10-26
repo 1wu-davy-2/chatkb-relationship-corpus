@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_sternberg",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "羅伯特·史坦伯格",
+  "requested_title": "罗伯特·斯腾伯格",
+  "url": "https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E5%8F%B2%E5%9D%A6%E4%BC%AF%E6%A0%BC",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "love",
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/sternberg.json",
+  "text_path": "02_text/zh_wikipedia/sternberg.txt",
+  "raw_bytes": 1430,
+  "text_chars": 712,
+  "text_sha256": "14d1dfb20c972cb92923d55faf0d4c4280a24aec11f9d6dabccdfca7dab55741",
+  "retrieved_at": "2026-10-25T15:34:08.904026+00:00"
+}

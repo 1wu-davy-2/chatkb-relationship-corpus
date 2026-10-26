@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9255456",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Seemingly Paradoxical Relationship Between Masturbation Frequency and Sexual Satisfaction.",
+  "authors": "Fischer N, Træen B.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1007/s10508-022-02305-8",
+  "pmcid": "PMC9255456",
+  "url": "https://europepmc.org/article/PMC/PMC9255456",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9255456/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "Despite many benefits related to masturbation, we know surprisingly little about how solo sex is associated with sexual satisfaction. Using questionnaire data from a probability-based sample of 4,160 Norwegians aged 18-89 years, we explored subgroups of women and men that differed in their masturbation-sexual satisfaction typology and examined whether sociodemographic, psychological, and sexual behavioral characteristics were associated with distinct masturbation-satisfaction patterns. A cluster analysis revealed four similar groupings for women and men, reflecting sex lives characterized by high masturbation/sexual satisfaction, low masturbation/sexual satisfaction, high masturbation/sexual dissatisfaction, or low masturbation/sexual dissatisfaction. While being younger, higher pornography consumption, and sexual variety were primarily associated with increased masturbation frequency, sexual distress and a negative body and genital self-image were more clearly associated with sexual dissatisfaction. Predicting different masturbation-satisfaction groupings also revealed some gender-specific findings in the use of pornography, and in the association between masturbation and intercourse frequency, which suggested a complementary pattern for women and a compensatory pattern for men. Our findings emphasize that the linkage between masturbation and sexual satisfaction warrants closer focus.",
+  "raw_path": "01_raw/europepmc_xml/PMC9255456.xml",
+  "text_path": "02_text/europepmc/PMC9255456.txt",
+  "raw_bytes": 205566,
+  "text_chars": 60888,
+  "raw_sha256": "7d0f004e81c37c606a0c8a0a5338db643abd1136e4fb19967d9d39cf85248378",
+  "text_sha256": "f6d3e8d4099032131d700f6173f1de9d06b238fd088f4a10e077017d01b5c445",
+  "retrieved_at": "2026-10-26T13:13:10.020890+00:00"
+}

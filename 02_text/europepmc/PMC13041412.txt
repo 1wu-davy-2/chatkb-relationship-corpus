@@ -1,0 +1,184 @@
+TITLE: Measuring marital choice as an indicator of women's marital agency in rural India.
+AUTHORS: Raj A, Gebrehanna H, Johns NE, Rao N, Ghule M, Battala M, Begum S, Clark CJ.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1186/s40834-026-00437-z
+PMCID: PMC13041412
+LICENSE: cc by-nc-nd
+LICENSE_URL: https://creativecommons.org/licenses/by-nc-nd/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC13041412
+TOPICS: arranged_marriage
+
+---
+
+ABSTRACT
+BackgroundThere is limited data on forced marriages in the context of India. This study involved validation of new measures of women’s marital choice in terms of partner selection and timing of marriage as indicators of women’s marital agency in rural India.MethodsWe conducted a cross-sectional analysis of survey data from N = 1192 married women aged 18–30 who participated in the Counseling Husbands and wives to Achieve Reproductive health and Marital equity (CHARM2) trial in rural Maharashtra, India. We included two novel items on women’s decision-making regarding who the married and when they married. We evaluated the construct validity of these measures by testing their associations with other traditionally gender normative practices related to marriage including girl child marriage, purdah, and dowry using Fisher’s exact test. We then conducted crude and adjusted regression models to determine associations between our marital choice variables and indicators of current marital agency, specifically recent intimate partner violence, marital quality, and contraceptive self-efficacy.Results15.5% of women reported they were the primary decision-maker on marital partner selection and 9.4% reported they were the primary decision-maker on marital timing. Both measures were highly corelated to each other (r = 0.8) and with reports of arranged marriage (with partner choice r = 0.9; with marriage timing r = 0.6). Having choice over marriage partner and timing were equally inversely correlated with child marriage (r = -0.3, respectively) and equally and positively correlated with not receiving a dowry (r = 0.4, respectively). Both choice variables were negatively correlated with the practice of purdah (r = -0.3 and − 0.1). Our marital choice variables were not associated with any agency in marriage dependent variables, except for choice of partner and marital quality (adjusted odds ratio = 1.5; 95% confidence interval: 1.0, 2.1), but all outcomes trended in the expected direction.ConclusionThe findings indicate that our marital choice measures show partial construct validity, linked to normative practices restricting women and girls’ agency at marital entry, and may be a useful indicator of non-forced marriage, but measures of agency at marriage largely do not correlate with agency in marriage.
+
+BODY
+Background
+
+In November 2018, the United Nations (UN) General Assembly reaffirmed its commitment to end child, early, and forced marriage by 2030, with a resolution co-sponsored by 116 nations representing all world regions [1]. Correspondingly, as part of UN Sustainable Development Goal (SDG) 5: Gender Equality and Empowerment of All Women and Girls, SDG 5.3 targets elimination of child, early, and forced marriage. The child and early marriage components of this target can be readily monitored, given the availability of age at marriage data through Demographic and Health Surveys and United Nations Children’s Fund (UNICEF’s) Multiple Indicator Cluster Surveys which are nationally representative surveys conducted at regular intervals across more than 100 low-and low-middle-income countries (LMICs). However, forced marriage remains absent as an indicator of this target, as we have no standard measure to evaluate it [2].
+
+Forced marriage is understood as pressure, coercion, trickery, or force to marry that can come from family, community, or the marital partner, and it is often rooted in social norms requiring marriage by a certain age or to a certain type of match or to address a broader socioeconomic need for a family or community [3]. Such marriages disproportionately affect those contending with structural inequalities (e.g., minoritized caste or race/ethnicity, rural) and more traditional gendered social norms, and they often render women and girls more vulnerable in marriage [3, 4]. Discussion of forced marriage in LMICs largely has focused on the most egregious forms, such as physical threats, kidnapping, trafficking, forced marriage to one’s rapist to protect family “honor,” or forced marriage for economic survival [5–8].
+
+One recent survey study [9] tried to capture forced marriage in a population-based sample with items more broadly asking the individual if they felt that they “had a real choice around 1) whether they wanted to get married, 2) who they married, or 3) when they got married; or felt that they could not express what they really wanted without negative consequences.” This study, conducted in the U.S., found that men were more likely than women to report forced marriage and indicated that reputation was the predominant reason that they felt forced to marry [9]. While this measure shows good face validity in capture of forced marriage, it may not be effectively capturing women’s experiences of forced marriage, not may it be indicative of forced marriage in LMIC contexts.
+
+India is an important context in which to understand forced marriage given that child marriage is not uncommon, affecting every 1 in 4 young women in the country, and family control or influence over women’s and girls’ marital decision-making remains a norm [1, 10–12]. While we could find no published study that directly assessed forced marriage in India, unpublished data from this team did include an item that asked married women in rural Maharashtra if they were “forced to marry.” We found 1 respondent (< 1%) reporting yes to this item [13]. In this context, assessment of marital choice appears to be more useful. Data from the India Human Development Survey 2011-12 found that 45% of married women in India were not consulted on the selection of their marriage partner and/or timing of their marriage, and only 5% of married women had independent control over their marital decision-making [14]. Research with parents and adolescents in rural India also show that engagement of girls’ in marital decision-making is not normative, and these types of beliefs appear to be clarified to youth by adolescence [12]. Data collected from 15–21-year-old married girls and young women in Jharkhand show that most (80%) had an arranged marriage; 49% did not meet their spouse until the wedding [15]. While it is not clear from the items whether force was involved in these marriages, we can see that women and girls’ decision-making agency at the time of marriage is hindered.
+
+Given the limitations of measuring forced marriage, an indicator achieving SDG 5.3 may better focus on marital choice and agency. Further, this approach can facilitate a shift to future goals emphasizing improvement of positive outcomes rather than reduction in negative outcomes. Focusing SDG 5 on positive outcomes better captures women’s empowerment and lived agency, because the absence of harm (e.g., reduced forced marriage) does not ensure the presence of meaningful choice. Measuring gains in women’s marital choice and decision-making reflects transformative progress rather than minimum compliance. Hence, we sought to examine the value and validity of measures on marital choice, both in terms of marital timing and partner selection, as a potentially valuable indicator to capture women’s marital agency and as an alternate to a forced marriage indicator. Specifically, we evaluated the construct validity of marital agency, which we defined as women being the primary decision-makers of whom and when they marry, by testing its association with traditional gender normative practices at marriage, specifically arranged marriage, child marriage, dowry, and purdah, proven associated in prior research [16]. Secondarily, we also examine whether our marital agency indicators are associated with agency in marriage, which we measured using the following indicators: intimate partner violence, marital quality, and contraceptive self-efficacy, which we selected based on prior research documenting these as features of women’s agency in marriage in India [17, 18].
+
+Methods
+
+Data source
+
+We analyzed baseline survey data from women in a cluster-randomized controlled trial to evaluate CHARM2 [Counseling Husbands and Wives to Achieve Reproductive Health and Marital Equity], a gender-synchronized gender-transformative family planning intervention for young married couples in India. We have published the details of the study setting and design elsewhere [16]. Trained research staff recruited a randomly selected subsample of eligible couples in the rural Pune District of Maharashtra, India, from September 2018 to June 2019. Couples were eligible for study inclusion if the wife was aged 18–29 and neither member of the couple was infertile nor sterilized; eligible couples also needed to have resided together for at least three months and not have plans to migrate in the two years subsequent to recruitment.
+
+Of 1,756 eligible couples approached for participation, 1,201 (68%) participated in the study at baseline. As we asked some questions about their first marriage and others about current marriage, the sample analyzed was limited to women who had only been married once to allow the inclusion of all marriage-related variables including those related to the current marriage. We excluded from the analysis nine women (0.7%) who had been married twice, resulting in a final analytic sample of 1,192.
+
+Trained study staff gender-matched with participants collected all baseline data in private settings and with husbands and wives separately in the local language of Marathi. All participants were provided with information regarding available local family planning services through the public health system and local services for domestic violence, regardless of their responses to the domestic violence items in the survey. Surveys assessed participant demographics, marital age, involvement in marital decision-making, family planning behaviors, and marital relationship indicators, including violence.
+
+Ethical considerations
+
+Ethical approval for this study was obtained from the National Institute for Research in Reproductive Health Ethics Committee (#270/2014, initial approval 11/12/2018), Population Council Institutional Review Board (#EX2018012, initial approval 7/16/2018), and the University of California San Diego Institutional Review Board (#161797, initial approval 1/19/2017; #190167, initial approval 4/12/2019). Written informed consent was obtained from all respondents in the baseline survey. The interviewers documented the receipt of written informed consent on the individual consent forms. Emory University Institutional Review Board determined that this secondary data analysis using de-identified data was not human subject research.
+
+Measures
+
+Independent variable: marital choice- agency at marriage
+
+Marital choice- agency at marriage
+
+Based on prior formative research for this study, as well as other studies on marital choice in India [11, 12], the marital agency measure was constructed with two items: partner choice and choice of timing of marriage. We conducted cognitive interviews to field test these measures for participants’ comprehension and clarity of items prior to implementation with the full sample. These measures asked female respondents: (1) “Who was the primary person to decide whom you married?” (2) “Who was the primary person to decide when you should get married?” The response options were self, mother, father, brother, sister, aunt, uncle, grandmother, grandfather, community leader, religious leader, or other individual. We dichotomized responses to indicate whether the woman or someone else was the primary and final decision-maker for (1) who to marry (i.e., marital choice in partner selection) and (2) when to marry (i.e., marital choice in timing of marriage).
+
+In addition to our marital choice variables, we also asked women about their type of marriage - arranged, love without parents’ consent, or love with parents’ consent. In arranged marriages in India, parents and the family of the bride will typically choose a spouse based on caste, religion, social and economic status, education, and physical characteristics of the bride and groom, but her consent may or may not be sought. She might even be the primary decision-maker among her parents’ selections in these cases, so we cannot presume arranged marriage to be indicative of a lack of choice [19, 20]. To address this gap, we asked women if they were forced to marry via a single yes/no item; only women who did not report that they were the primary decision-making for whom to marry were asked this item. Both variables, type of marriage and forced marriage, were included for descriptive purposes to highlight their limitations in assessing marital choices.
+
+Variables to test construct validity: marital choice, child marriage, purdah, and dowry
+
+We asked female respondents their age at marriage directly; this has been shown to yield accurate reporting in this context [21]. Child marriage was indicated if the wife’s age was younger than 18 years (the legal age for women’s marriage in India). We asked about dowry payment and the practice of purdah, both traditional practices related to marriage, directly as yes/no questions. Dowry is an illegal practice that includes nuptial payment in the form of gifts or money from the bride’s family to the groom and his family. Purdah is the practice of wearing a veil or gender segregation expected of women upon their marriage, and the practice can impede women’s social and economic participation [14].
+
+Dependent variables: current agency in marriage- IPV, marital quality, contraceptive self-efficacy
+
+We assessed marital intimate partner violence (IPV) in the past 12 months using 11 items measuring emotional (3 items), physical (6 items) and sexual (2 items) abuse taken from India’s National Family Health Survey [10]. Response options were ‘often’, ‘sometimes,’ ‘not at all,” and ‘never in our relationship.’ The variable was recoded as 0 for “not at all” and “never in our relationship”, 1 for sometimes, and 2 for often. The Cronbach alpha for the scale was good (0.9). For clarity in interpretation, we have also dichotomized this variable into any instance of IPV in the prior 12 months or not.
+
+We assessed marital quality via a previously validated 9-item measure asking participants about the quality and stability of their relationship [22]; 7 of the items had a 6-point response ranging from never to all the time while 2 items had a 5-point response option tailored to the question [22]. Items were reverse coded, as needed, and summed so that higher scores represent higher marital quality. The Cronbach alpha was acceptable (0.8).
+
+To assess contraceptive self-efficacy, respondents completed a 4-item scale assessing how confident they felt bringing up the topic of contraception with their husband, conveying to their husband that they wanted to use contraception, using contraception, and using contraception even if their husband did not want them to use it on a 5-point Likert scale, with response options ranging from 1 (completely unsure that I could) to 5 (completely sure that I could). Items were summed so that higher scores represent higher self-efficacy. Cronbach alpha for the 4-item measure was poor (0.5). The item most affecting the Cronbach alpha was confidence in contraceptive use even when their husband did not want them to. Removing this item improved the Cronbach’s alpha to 0.8.
+
+Covariates- sociodemographics
+
+We included single-item measures on age, education level, caste, and religion as potential confounders. In the analysis, age(years) was left in its original response form. We defined education using four categories: primary or no education, secondary, higher secondary, and post-secondary. Caste and religion were dichotomized to identify minority groups - Scheduled caste, Scheduled Tribe, or Other Backwards Classes (SC/ST/OBC) vs. other caste; and Hindu vs. Other for religion.
+
+Data analysis
+
+We descriptively summarized all variables included in the study. We employed construct analysis to validate marital agency measures, a method that typically requires the examination of correlations between a measure of a construct and several other measures with which these should theoretically be associated [23]. We examined the correlation between the two marital choice variables themselves, and between the two marital choice variables and conditions of the respondent’s marriage including type of marriage (arranged, love marriage without consent, love marriage with consent), child marriage, dowry, and purdah. Secondarily, we sought to assess whether our marital agency variables predicted current marital agency, which we defined as IPV, marital quality, and contraceptive self-efficacy using multivariate linear and logistic regression models adjusting for sociodemographics. We employed a negative binomial regression model to analyze the IPV variable due to the presence of many zeros and overdispersion (the variance exceeds the mean). Given the fact that the marital quality and contraceptive self-efficacy variables were highly skewed, attempts were made to transform them (log or square root) to approximate a normal distribution; however, these transformations did not alter the distribution in any meaningful way, so the raw data were used in the regression analyses. Although the parent study used a cluster-randomized design, all analyses used baseline, pre-intervention data; sensitivity analyses accounting for clustering at the village level yielded substantively similar results, consistent with the low intraclass correlation observed in this sample (ICC ≈ 0.01). Data were analyzed using SAS v. 9.4, and statistical significance was set at p < 0.05.
+
+Results
+
+Table 1 describes the sociodemographics of the sample. Our married sample was aged 18–29 (mean age = 23.9), 92.4% Hindu and 31.5% were from a scheduled tribe, scheduled caste, or other backward classes (SC/ST/OBC). The majority (55.6%) of women had completed secondary or higher secondary education, and almost one-third (30.6%) had obtained tertiary education. The minority of women reported that they were the primary decision-makers in partner selection for marriage (15.5%) and in determination of the timing for their marriage (9.4%). Most commonly, uncles (29.8%) and fathers (20.8%) were primary decision-makers on partner selection, and fathers were the primary decision-makers on marital timing (66.0%). Most (80.9%) of the sample had an arranged marriage, 7.1% reported marrying for love without parental consent, and 12.0% reported marrying for love with parental consent. Very few women reported that they were forced to marry (1.3%, n = 16). Missingness was negligible (one or zero women skipping or refusing the item) for all variables used in analysis.
+
+Table 1Characteristics of the sample of married young women in rural Maharashtra, India (N = 1192)Sociodemographicsn (%)Age mean (range, std dev)29.4 years (18.0–42.0; 3.7)Education Primary Education or Less Secondary Education Higher Secondary Education Tertiary Education165 (13.8)343 (28.8)319 (26.8)365 (30.6)Religion Hindu Other1101 (92.4)91 (7.6)Caste SC/ST/OBC1 Other Caste376 (31.5)816 (68.5)Agency at marriage (marital choice) Primary Decision-maker in Partner Selection 185 (15.5) Primary Decision-maker in Timing of Marriage 112 (9.4)Type of Marriage Arranged Love marriage without parent consent Love marriage with parent consent964 (80.9)85 (7.1)143 (12.0)Forced Marriage16 (1.6) Other agency at marriage indicators Age at marriage Married before 18 Married at 18+209 (17.5)983 2.5)Dowry Yes No148 (12.4)1044 (87.6)Agency in marriageMarital IPV, past year141 (11.8)Purdah115 (9.7)Marital Quality mean (range, std dev)40.5 (8.0–47.0, 5.2)Contraceptive Self-Efficacy mean (range, std dev)14.3 (3.0–15.0, 1.6)1ST/SC/OBC: Scheduled Tribe/Scheduled Caste/Other Backward Classes
+
+Characteristics of the sample of married young women in rural Maharashtra, India (N = 1192)
+
+Primary Education or Less
+
+Secondary Education
+
+Higher Secondary Education
+
+Tertiary Education
+
+165 (13.8)
+
+343 (28.8)
+
+319 (26.8)
+
+365 (30.6)
+
+Hindu
+
+Other
+
+1101 (92.4)
+
+91 (7.6)
+
+SC/ST/OBC1
+
+Other Caste
+
+376 (31.5)
+
+816 (68.5)
+
+Arranged
+
+Love marriage without parent consent
+
+Love marriage with parent consent
+
+964 (80.9)
+
+85 (7.1)
+
+143 (12.0)
+
+Married before 18
+
+Married at 18+
+
+209 (17.5)
+
+983 2.5)
+
+Yes
+
+No
+
+148 (12.4)
+
+1044 (87.6)
+
+1ST/SC/OBC: Scheduled Tribe/Scheduled Caste/Other Backward Classes
+
+Validation analyses indicated strong correlations across the marital agency at marriage variables. Our marital choice at marriage variables - choice of partner and choice in timing of marriage - were strongly correlated with each other (r = 0.8). These were also associated, as anticipated, with having had an arranged marriage, although the correlation between marriage type and partner choice was much higher (r = 0.9) than between marriage type and marriage timing (r = 0.6). For marriage type, 0.4% (n = 4) of women with an arranged marriage, 94.1% (n = 80) of women with a love marriage without parental consent, and 70.6% (N = 101) of women with a love marriage with parental consent reported decision-making on partner choice. Choice about the timing of marriage was most prominent among women who reported a love marriage without parental consent (72.9%; n = 62) compared to women with love marriages with parental consent (14.7%; n = 21) and women with arranged marriages (3.0%; n = 29). Having choice over marriage partner and timing were equally inversely correlated with child marriage (r = -0.3) and equally and positively correlated with not receiving a dowry (r = 0.4). Both choice variables were also negatively correlated with the practice of purdah, but the magnitude of the association was stronger for choice in the timing of marriage (r = -0.3) than choice of partner (-0.1).
+
+In the regression analysis examining the associations between our agency at marriage indicators (marital choice in partner and marital timing) with agency in marriage indicators (IPV, relationship satisfaction, and contraceptive self-efficacy), adjusting for education, caste, religion, and age at marriage, we saw no significant effects. (See Tables 2 and 3.)
+
+Table 2Associations between marital choice in partner selection and agency during marriage indicators- IPV, marital quality, and contraceptive self-efficacy among married women in rural Maharashtra, India (N = 1192)IPVAdj Odds Ratio (95% CI)Poor marital qualityAdj. Estimate (95% CI)Contraceptive self-efficacyAdj. Estimate (95% CI)Marital Choice:Primary Decision-maker in Partner Selection0.9 (0.6, 1.4)-0.1 (-1.0, 0.8)0.0 (-0.2, 0.3)Primary vs. no education0.6 (0.4, 0.9)1.2 (0.2, 2.3)0.7 (0.4, 1.0)Secondary Vs no education0.8 (0.5, 1.2)1.0 (-0.1, 2.1)1.0 (0.7, 1.2)Higher Vs no education0.5 (0.3, 0.8)2.7 (1.7, 3.8)1.0 (0.7, 1.3)Caste (SC/ST/OBC vs. other)1.2 (0.9, 1.6)-0.1 (-0.8, 0.6)0.0 (-0.2, 0.2)Other religions Vs Hindu1.0 (0.6, 1.7)-0.5 (-1.7, 0.7)-0.3 (-0.6, 0.0)Age1.0 (1.0, 1.1)-0.1 (-0.2, 0.0)0.1 (0.0, 0.1)Notes: Odds ratios stem from logic regression models, adjusting for covariates denoted in the table. Estimates stem from linear regression models, adjusting for covariates denoted in the table
+
+Associations between marital choice in partner selection and agency during marriage indicators- IPV, marital quality, and contraceptive self-efficacy among married women in rural Maharashtra, India (N = 1192)
+
+Marital Choice:
+
+Primary Decision-maker in Partner Selection
+
+Notes: Odds ratios stem from logic regression models, adjusting for covariates denoted in the table. Estimates stem from linear regression models, adjusting for covariates denoted in the table
+
+Table 3Associations between marital choice in timing of marriage and agency during marriage indicators- IPV, marital quality, and contraceptive self-efficacy among married women in rural Maharashtra, India (N = 1192)Intimate partner violenceAdj. Odds Ratio (95% CI)Poor marital qualityAdj. Estimate (95% CI)Contraceptive self-efficacyAdj. Estimate (95% CI)Marital Choice: Primary Decision-maker in Timing of Marriage 0.9 (0.5–1.5)-0.3 (-1.4, 0.8)0.1 (-0.2, 0.4)Primary vs. no education 0.6 (0.4 − 0.9) 1.2 (0.2, 2.3)0.7 (0.4, 1.0)Secondary vs. no education0.8 (0.5–1.2)1.0 (-0.1, 2.0)0.9 (0.7, 1.2)Higher vs. no education 0.5 (0.3–0.8) 2.7 (1.7, 3.8)1.0 (0.7, 1.3)Caste (SC/ST/OBC vs. other)1.2 (0.9–1.6)-0.1 (-0.8, 0.6)0.0 (-0.2, 0.2)Other religions vs. Hindu1.0 (0.6–1.7)-0.5 (-1.7, 0.7)-0.3 (-0.6, 0.0)Age1.0 (1.0–1.1)-0.1 (-0.2, 0.0)0.4 (0.0, 0.1)Notes: Odds ratios stem from logic regression models, adjusting for covariates denoted in the table. Estimates stem from linear regression models, adjusting for covariates denoted in the table
+
+Associations between marital choice in timing of marriage and agency during marriage indicators- IPV, marital quality, and contraceptive self-efficacy among married women in rural Maharashtra, India (N = 1192)
+
+Primary Decision-maker in Timing of Marriage
+
+Discussion
+
+This study examined marital choice in partner selection and timing of marriage as indicators of marital agency among young married women in rural Maharashtra, India. We found that the minority of these women were the primary decision-makers on partner selection (16%) and timing of marriage (9%), and instead, it was other family members, mainly fathers and uncles, who served as primary marital decision-makers. These findings support findings from prior research from India, which found that 45% of women had no decision-making input on marriage, and the other 50% reported decision-making with family about their marriage [14]. These findings belie assumptions of improved marital agency for women as child marriage rates have declined in the country [10].
+
+These measures show strong correlation with each other and with other known standard measures of traditional gender normative practices related to marriage- child marriage, dowry, and purdah. The very high correspondence between marriage type (love versus arranged) and marital choice in partner selection in this sample, with love marriages almost uniformly associated with women’s involvement in partner selection and arranged marriages almost uniformly associated with its absence. This strong empirical overlap indicates that, in this context, marriage type functions as a highly convergent indicator of partner selection agency rather than an independent validating construct. We therefore interpret this finding as evidence of expected convergence rather than distinct construct validity. Importantly, marriage type was less strongly correlated with agency over the timing of marriage, underscoring that marital agency is multidimensional and that different aspects of agency may vary even within broadly defined marriage categories. The more moderate correlations between marital agency measures and related practices such as child marriage, dowry, and purdah provide evidence of convergent validity; however, these findings support only partial construct validation, underscoring the need to interpret the measure as capturing key dimensions of marital agency rather than a fully independent or exhaustive construct. These findings also substantiate prior evidence highlighting the intricate web of social norms that curtail women’s agency in marriage in some LMIC contexts, and the interconnection of early marriage [24], the imposition of purdah and dowry requirements [16], and women’s involvement in marital decision-making in affecting women’s marital agency. Parent-child relationships may also have bearing on women’s marital decision-making involvement. A longitudinal study with unmarried adolescent girls aged 15–19 years in Uttar Pradesh and Bihar India found that those who discussed personal issues with parents in wave 1 (2015–16) were more likely to report involvement in marital decision-making on mate selection in wave 2 (2018–19) [25]. However, parent-child communication is subject to social norms, as well [26].
+
+Our secondary analysis focused on whether women’s marital agency in mate selection and timing of marriage were associated with indicators of current marital agency as indicated by measures of IPV, marital satisfaction, and contraceptive self-efficacy. Contrary to our hypotheses, marital agency was not associated with these indicators in current marital agency. We anticipated that compromised agency at the time of marriage might have longer-term effects on agency and safety in marriage, as child marriage, a correlate of marital agency, has been associated with these outcomes in India and other national settings [27–29]. A recent study with married girls in Jharkand, India would also have suggested significant findings [15]. This study compared girls’ experiences in marriage based on whether they (a) selected their spouse (not arranged), (b) they did not select their spouse but met them before marriage (semi-arranged marriage), or (c) did not meet their spouse prior to the wedding (fully-arranged marriage). This study found that those who selected their own partner, compared to those with semi- or fully-arranged marriages, were more likely to be engaged in household decision-making, communicate with their partner, uphold girls’ rights, and use contraceptives; they also found that those with fully-arranged marriages had lower mobility and self-efficacy than those with semi-arranged or not arranged marriages. Lack of similar findings in our study may be indicative of variation by state or culture.
+
+From a theoretical perspective, women’s agency at the time of marriage may shape—but does not necessarily determine—autonomy later in marriage. Gender and kinship theories emphasize that marital entry occurs within patriarchal family systems in which authority often shifts from natal to marital households, potentially constraining women’s bargaining power regardless of initial choice [30–32]. Even when women exercise agency in partner selection or timing of marriage, subsequent co-residence with in-laws, economic dependence, and entrenched gender norms may limit the translation of early agency into later autonomy, safety, or decision-making power. Women’s empowerment frameworks further suggest that agency is dynamic and contingent, shaped by post-marital factors such as fertility, economic contribution, and social support, rather than fixed at marital entry [33, 34]. These theoretical perspectives offer plausible explanations for our largely null findings linking marital agency at marriage with later indicators of marital autonomy, including IPV, contraceptive self-efficacy, and marital quality. Taken together, our findings suggest that agency at marriage may be a necessary but insufficient condition for sustained autonomy within marriage, underscoring the importance of considering marital agency as a temporally situated and socially mediated construct rather than a stable predictor of later outcomes.
+
+Findings should be considered in light of certain study limitations. All measures relied on self-report and were subject to recall bias and social desirability. Cross-sectional data precludes the assessment of causality. Difficulties in marriage may create recall biases against the participant’s involvement in approving mate selection, which may also explain observed associations between poor marital quality and IPV with non-involvement with marital choice. Although quantitative measures offer an important way of understanding and tracking progress at scale, they cannot provide a nuanced understanding of the complexity of decision-making offered by qualitative evidence. For example, qualitative data suggest that girls in difficult circumstances such as humanitarian crises, economic insecurity, or family violence may self-select to marry, even at a young age and without parental permission, for emotional, economic, or sexual security [11, 35]. The study population had relatively higher education and income than other rural populations in India, and results may therefore have limited generalizability, especially as these characteristics may be protective for women’s agency broadly and in marriage specifically.
+
+A key strength of this study is the contribution to gender measurement science via the use of more nuanced and multi-faceted measures of marital decision-making; the analyzed measures are indicative of marital agency more broadly and offer more variation in response than that seen in a forced marriage measure. These indicators of marital agency cannot be viewed as synonymous with forced marriage, only as an important proxy that can serve as a target for global goals to eliminate early, child, and forced marriage. Further, the measures of marital choice are limited to choice of mate and timing of marriage, but not marital negotiation and refusal. These other aspects of marital agency also require study. Similarly, the single item on forced marriage was likely insufficient to capture this construct, as it did not include the full range of force or coercion that can occur, including emotional blackmail and threats; further research with a more robust measure of forced marriage, inclusive of coercion, threats, and blackmail, is needed.
+
+Policy implications
+
+Despite India’s legal framework penalizing dowry and child marriage and upholding the right to choose one’s life partner, this study, consistent with broader evidence, reveals a significant disparity in lived realities of marital choice. This study demonstrates that, in this context, marriages remain predominantly arranged, with male family members serving as primary decision-makers regarding partner selection and timing of marriage. To foster meaningful change in women’s marital agency, programs and policies must therefore address both women and girls directly, as well as influential male family members. Beyond merely supporting and protecting women’s rights in marital choice, policies should strategically encourage normative shifts within families, particularly among male members, to actively endorse and celebrate women’s choices rather than impede them. Targeting both groups is crucial for tangible improvements in marital agency. Such efforts can also advance a shifting of global development goals related to gender equality away from simply reducing gender-based discrimination and violence and toward targets and indicators focused on women’s empowerment and lived agency.
+
+Conclusion
+
+This study developed and tested measures of marital agency—women’s choice in marital partner selection and timing of marriage—as components of women’s empowerment and as potential quantitative indicators relevant to the elimination of child, early, and forced marriage. Findings demonstrate that these measures show expected associations with gender-normative practices at the time of marriage, including child marriage, dowry, and purdah, providing evidence of convergent and partial construct validity and highlighting the interlinked nature of gendered constraints surrounding marital entry in rural India. However, marital agency at marriage, as indicated by women’s choice of partner or timing of marriage, was not associated with indicators of agency in marriage, with the latter indicated by IPV, marital quality, and contraceptive self-efficacy, suggesting that agency exercised at marital entry may not be sufficient to shape longer-term power dynamics within marriage. A finding that differs from prior research regarding child marriage and these same outcomes [36–38]. These findings underscore the importance of viewing marital agency as a temporally situated and socially mediated construct, rather than a stable predictor of later marital outcomes. Further research across diverse settings is needed to refine measurement, examine post-marital pathways shaping women’s autonomy, and assess the utility of marital agency indicators for monitoring progress toward global gender equality goals.

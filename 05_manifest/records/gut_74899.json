@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_74899",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "The behaviour book : A manual for ladies",
+  "gutenberg_id": "74899",
+  "url": "https://www.gutenberg.org/ebooks/74899",
+  "download_url": "https://www.gutenberg.org/cache/epub/74899/pg74899.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/74899.txt",
+  "text_path": "02_text/gutenberg/gut_74899_the_behaviour_book_a_manual_for_ladies.txt",
+  "raw_bytes": 528665,
+  "text_chars": 491623,
+  "text_sha256": "b0715ac5cdc5ebe0aac59a108e08173c4e8b05d330c34263260a6c80f83633cc",
+  "retrieved_at": "2026-10-25T15:55:29.811759+00:00"
+}

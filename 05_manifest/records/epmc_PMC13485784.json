@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13485784",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Distinguishing paranormal belief and paranormal involvement: canonical correlation analysis of positive psychological functioning.",
+  "authors": "Dagnall N, Drinkwater KG, Hughes ZD, Dempsey RC, Walsh S, Escolà-Gascón Á, Denovan A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1821311",
+  "pmcid": "PMC13485784",
+  "url": "https://europepmc.org/article/PMC/PMC13485784",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13485784/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "paranormal_belief"
+  ],
+  "abstract": "Background Psychological focus on supernatural credence has overlooked how behavioural engagement with the paranormal relates to wellbeing. Addressing this gap, this study distinguished between paranormal belief (PB; cognitive credence) and paranormal involvement (PI; behavioural engagement) and examined multivariate associations with positive psychological functioning. It further investigated whether PB and PI represented discrete yet related dimensions of personal paranormal salience (i.e., perceived significance). Method A UK sample ( N = 2,011; M age = 50.18 years) completed self-report measures assessing PB (Traditional Paranormal Belief and New Age Philosophy), PI, hope (agency and pathways), optimism, positive emotion, hedonic and eudaimonic wellbeing, and mental toughness. Canonical correlation analysis (CCA) examined shared variance between paranormal variables and positive psychological indicators. Results CCA revealed two significant canonical functions. Function 1, defined by PB, aligned moderately with optimism and hope agency, indicating an attitudinal-motivational profile. Function 2, characterised by PI, showed stronger associations with hedonic and eudaimonic wellbeing, hope pathways, and mental toughness, reflecting a proactive and resilient psychological formation. Although PB and PI were positively correlated, they contributed to distinct multivariate patterns. Collectively, findings indicated that distinguishing PB from PI revealed functionally distinct psychological profiles, consistent with the theoretical conceptualisation of paranormal salience (PS) as a higher-order framework encompassing belief and engagement. Conclusion PB and PI can be conceptualised as functionally distinct yet complementary components of PS. In terms of wellbeing, behavioural involvement aligned more consistently with positive psychological functioning.",
+  "raw_path": "01_raw/europepmc_xml/PMC13485784.xml",
+  "text_path": "02_text/europepmc/PMC13485784.txt",
+  "raw_bytes": 114956,
+  "text_chars": 38715,
+  "raw_sha256": "d0eb0d770dbb926643479d3ee988f138400e0a1136e491cfc055ca2f3748c041",
+  "text_sha256": "61fd08c3f8272cfe2fefd284fda3b9da28ab87f7765ad36a0dbe0227c0ceb986",
+  "retrieved_at": "2026-10-26T13:26:20.416787+00:00"
+}

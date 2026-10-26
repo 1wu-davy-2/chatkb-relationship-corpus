@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13318046",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Intimate partner violence, anxiety, stress, and depression among Israeli Arab married women in the shadow of the second wave of the COVID-19 pandemic.",
+  "authors": "Ali-Saleh O, Hochwald IH, Tarabeia J, Basis F.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1371/journal.pgph.0006670",
+  "pmcid": "PMC13318046",
+  "url": "https://europepmc.org/article/PMC/PMC13318046",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13318046/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "The COVID-19 pandemic was accompanied by lengthy lockdowns, school closures, and mandatory stay-at-home orders, causing stress, anxiety and depression. Since most Arabs in Israel live in closed communities in villages, with high birthrates and specific demographic characteristics, during the pandemic they may have experienced higher rates of stress, anxiety, depression, and violence against women compared to the general population. To measure the rate of stress, anxiety, and depression among Arab women during the second wave of the COVID-19 pandemic and to attempt to build a model that links these parameters and intimate partner violence (IPV). 602 women were recruited from Israeli Arab society through an online self-reported questionnaire. All participants were involved in an intimate relationship; the vast majority were married. Arab women experienced more anxiety, depression, and a higher rate of spousal violence than the general population. Violence was more prevalent among religious than among secular Muslim women and more frequent among Muslim women than among Christian women. A high rate of childbirth, lower education, and low socioeconomic background were highly correlated with violence. Living in close communities and fear of shaming led to a lower rate of seeking intervention. Authorities should be aware of different minorities` needs during pandemics and deliver suitable and discrete interventions. Furthermore, intervention in the education of minority groups, especially religious Muslim women, may lead to lower childbirth rates and improved socioeconomic status, and thus may decrease the prevalence of violence against women during stressful prolonged situations.",
+  "raw_path": "01_raw/europepmc_xml/PMC13318046.xml",
+  "text_path": "02_text/europepmc/PMC13318046.txt",
+  "raw_bytes": 122865,
+  "text_chars": 35430,
+  "raw_sha256": "407eeb53940f0fbf7a08d111b2ba6b26e27db1146b6040124a2b2a4756f5020c",
+  "text_sha256": "974ef7a46eca61873a20a8d3676d08295daeffc25fe91d0a3e11d7bd0afc06e2",
+  "retrieved_at": "2026-10-25T15:49:18.034797+00:00"
+}

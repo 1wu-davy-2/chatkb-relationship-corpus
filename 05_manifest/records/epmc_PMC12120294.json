@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12120294",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Short-Term Mating Orientation Predicts Openness to \"Sugar Relationships\" More Than Life History Strategy.",
+  "authors": "Meskó N, Ehlers JS, Zsidó AN.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/14747049251339453",
+  "pmcid": "PMC12120294",
+  "url": "https://europepmc.org/article/PMC/PMC12120294",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12120294/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Life history theory suggests that individuals vary in their sexual, reproductive, parental, familial, and social behavior in response to the physical and social challenges encountered during development. So-called \"sugar relationships\" generally involve exchanges of resources for sex and/or companionship between a younger partner and an older provider. This research aimed to explore the relationship between openness to sugar relationships and life history strategy. A total of 312 participants (192 women, 120 men) completed an extensive online questionnaire, including scales such as the Acceptance of Sugar Relationships in Young Women and Men Scale, High-K Strategy Scale, Multidimensional Measure of Sociosexual Orientation, Family Resources Scale, Childhood Unpredictability Scale, and Perceived Vulnerability to Disease Scale. The results indicate that openness to sugar relationships is primarily associated with short-term mating orientation, while the role of life history strategy appears to be weaker than previously assumed. Importantly, the SEM analysis reveals an indirect link between limited family resources in childhood and openness to sugar relationships, mediated by a fast life history strategy. This pathway suggests that early environmental constraints may shape an adaptive orientation toward immediate resource acquisition in adult relationships. No such associations were observed among men, indicating sex-specific patterns. These findings provide insight into how specific life history strategies, particularly in women, may influence attitudes toward resource-based relationships, illustrating the nuanced interactions between early experiences, life history orientation, and adult relational preferences.",
+  "raw_path": "01_raw/europepmc_xml/PMC12120294.xml",
+  "text_path": "02_text/europepmc/PMC12120294.txt",
+  "raw_bytes": 134437,
+  "text_chars": 43125,
+  "raw_sha256": "35db50553fa0944b6bea6d312b8398cea7b559c35e6f5500253739ff8610b17f",
+  "text_sha256": "ec1394a73671133432aec7956d6562e4d5681052f39d11deb27d4eee6f18dbfd",
+  "retrieved_at": "2026-10-26T13:13:46.170488+00:00"
+}

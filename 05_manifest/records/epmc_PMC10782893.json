@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC10782893",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"Trust me, do not trust anyone\": how epistemic mistrust and credulity are associated with conspiracy mentality.",
+  "authors": "Brauner F, Fonagy P, Campbell C, Griem J, Storck T, Nolte T.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.4081/ripppo.2023.705",
+  "pmcid": "PMC10782893",
+  "url": "https://europepmc.org/article/PMC/PMC10782893",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10782893/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "astrology_belief",
+    "astrology_personality_validity"
+  ],
+  "abstract": "Previous research shows that the propensity to endorse conspiracy theories is associated with disrupted forms of epistemic trust, i.e., the appropriate openness towards interpersonally communicated information. There are associations, first, with an increased mistrust in several actors and institutions responsible for the communication of information in society, and second, with a pronounced credulity in unreliable sources and implausible phenomena (e.g., superstition, astrology). This study aims to investigate whether these phenomena are associated with specific personality-related disruptions of epistemic trust. Based on selfreported data of 417 individuals (mean = 33.28; standard deviation = 11.11) from a UK population sampled online, the potential relationships between disruptions in epistemic trust and the endorsement of a conspiracy mentality are explored. The epistemic stances characterized by mistrust and credulity (independent variables) are measured with the epistemic trust, mistrust, and credulity questionnaire (ETMCQ), and conspiracy mentality (dependent variable) is measured with the conspiracy mentality questionnaire. In a multiple linear regression model, mistrust is associated with the endorsement of a conspiracy mentality, even when accounting for other contributing factors (e.g., individual narcissism, attachment avoidance and anxiety, authoritarianism, loneliness). In a bootstrapped mediation model controlling for other relevant predictors, the association between credulity and conspiracy mentality is fully mediated by mistrust. In future research, the impact of disrupted epistemic trust on conspiracy beliefs should be investigated in terms of the specific epistemic stances of mistrust and credulity. In this respect, the ETMCQ represents a highly promising instrument to assess individual differences in factors underpinning aspects of conspiracy endorsement.",
+  "raw_path": "01_raw/europepmc_xml/PMC10782893.xml",
+  "text_path": "02_text/europepmc/PMC10782893.txt",
+  "raw_bytes": 164905,
+  "text_chars": 62828,
+  "raw_sha256": "e9c38adede009ea761835a3967297970c2ad97a039f701a5cddcaf153fedb8ed",
+  "text_sha256": "663fb6e3f73a44df7266105753d910d1df1259cabed577fec32e64977a269883",
+  "retrieved_at": "2026-10-26T12:56:41.684449+00:00"
+}

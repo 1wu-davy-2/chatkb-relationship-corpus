@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_51828",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "聊齋志異",
+  "gutenberg_id": "51828",
+  "url": "https://www.gutenberg.org/ebooks/51828",
+  "download_url": "https://www.gutenberg.org/cache/epub/51828/pg51828.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/51828.txt",
+  "text_path": "02_text/gutenberg/gut_51828_聊齋志異.txt",
+  "raw_bytes": 1473790,
+  "text_chars": 481640,
+  "text_sha256": "6337128ad598ab346f1c7fc5e0e27cd89dc030724e6552fe306cd5ff6d1f7740",
+  "retrieved_at": "2026-10-25T15:50:50.440854+00:00"
+}

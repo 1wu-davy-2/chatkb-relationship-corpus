@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10812790",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Measurement Invariance of the Multidimensional Jealousy Scale and Quality of Relationships Inventory (Friend).",
+  "authors": "Leite Ã, Silva B, Vilela B, Rodrigues I, Fernandes J, Romão J, Ribeiro AM.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/bs14010044",
+  "pmcid": "PMC10812790",
+  "url": "https://europepmc.org/article/PMC/PMC10812790",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10812790/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "The aim of this study is to measure the invariance of the Multidimensional Jealousy Scale (MJS) and of the Quality of Relationships Inventory (Friend) (QRI-F) across gender, age, education, and being in a romantic relationship in a Portuguese sample (N = 662). A confirmatory factor analysis was performed to test the fit of different potential factor structures. The results pointed out that both MJS and QRI-F were most suitable if represented by three first-order factors correlated between them. Results from multi-group analyses suggested there was factorial invariance for these structures across groups, suggesting that the MJS and the QRI-F provide, respectively, an assessment of romantic jealousy and quality of relationship that are equivalent across gender, age, education, and being in a romantic relationship. The study established the strong psychometric properties of its instruments, validating reliability and convergent and discriminant validity, thereby bolstering the research's overall credibility. Additionally, cognitive jealousy is primarily influenced by heightened conflict values, with education, relationship status, and gender moderating the associations between QRI-F dimensions and MJS behavioral and cognitive jealousy. The research offered in-depth perspectives on jealousy, underscoring its diverse manifestations across demographic variables and illuminating the complexities within the dynamics of friendships.",
+  "raw_path": "01_raw/europepmc_xml/PMC10812790.xml",
+  "text_path": "02_text/europepmc/PMC10812790.txt",
+  "raw_bytes": 261488,
+  "text_chars": 51522,
+  "raw_sha256": "5b75afad821f4e70f021ad99ec45e41051e5093816b2ed1b4aa377b6671012cc",
+  "text_sha256": "8123312632b323888e9923feb65a9986486065f76552f2d8e52c6426dac3e9e1",
+  "retrieved_at": "2026-10-25T15:46:35.436334+00:00"
+}

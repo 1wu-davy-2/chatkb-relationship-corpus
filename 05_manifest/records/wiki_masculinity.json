@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_masculinity",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "男性气质",
+  "requested_title": "男性气质",
+  "url": "https://zh.wikipedia.org/wiki/%E7%94%B7%E6%80%A7%E6%B0%94%E8%B4%A8",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "gender",
+    "society"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/masculinity.json",
+  "text_path": "02_text/zh_wikipedia/masculinity.txt",
+  "raw_bytes": 2839,
+  "text_chars": 1599,
+  "text_sha256": "4b894e9412c79fae39f3fbea885f228eec8f63b3e969de07fe03540f114b3ac0",
+  "retrieved_at": "2026-10-25T15:42:16.313732+00:00"
+}

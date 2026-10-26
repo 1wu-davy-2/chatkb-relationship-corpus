@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13619578",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marital satisfaction and phubbing: the roles of depressive symptoms and subjective social status.",
+  "authors": "Zhang X, Zhou R, Zhang W, Zhang W.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2026.1868381",
+  "pmcid": "PMC13619578",
+  "url": "https://europepmc.org/article/PMC/PMC13619578",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13619578/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "phubbing"
+  ],
+  "abstract": "Background Previous studies have mainly examined the associations between partner phubbing and relationship outcomes among phubbees, whereas less is known about how marital relationship quality is associated with phubbing among phubbers themselves. This study aims to examine the relationship between marital satisfaction and phubbing among Chinese married adults, and examine the mediating role of depressive symptoms, as well as the moderating role of subjective social status (SSS) in this association. Methods A cross-sectional survey was conducted with 565 married adults in China (31.85 ± 4.85 years; 67.3% female). Participants completed self-report measures of marital satisfaction, depressive symptoms, phubbing, and SSS. Moderated mediation analyses were conducted to examine the indirect role of depressive symptoms and the conditional indirect associations across levels of SSS. Results Depressive symptoms significantly mediated the association between marital satisfaction and phubbing. SSS moderated both the direct path from marital satisfaction to phubbing and the second stage of the mediation model from depressive symptoms to phubbing. Simple slope analyses revealed that marital satisfaction was negatively associated with phubbing only among individuals with a high SSS (β simple = -0.42, t = -4.16, p simple = 0.62, t = 6.99, p simple = 0.11, t = 1.13, p = 0.26). Conclusion Depressive symptoms accounted for part of the indirect association between lower marital satisfaction and greater phubbing among Chinese married adults, and this process varies as a function of SSS. Prevention and intervention efforts targeting phubbing in marital contexts may benefit from considering both depressive symptoms and individuals' perceived social status.",
+  "raw_path": "01_raw/europepmc_xml/PMC13619578.xml",
+  "text_path": "02_text/europepmc/PMC13619578.txt",
+  "raw_bytes": 138496,
+  "text_chars": 39477,
+  "raw_sha256": "5f066279a21da9a157d3a331ea8d0cec7f854688069a52ffc3549cdf909b1a07",
+  "text_sha256": "746ce845cc7444b65c3d3e5fbd44c365c259f4119fb0e6261fb90c3213b05fc5",
+  "retrieved_at": "2026-10-25T13:48:32.048772+00:00"
+}

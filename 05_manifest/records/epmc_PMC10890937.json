@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10890937",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Impacts of Lifetime Violence on Women's Current Sexual Health.",
+  "authors": "Güler A, Maas MK, Mark KP, Kussainov N, Schill K, Coker AL.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1089/whr.2023.0089",
+  "pmcid": "PMC10890937",
+  "url": "https://europepmc.org/article/PMC/PMC10890937",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10890937/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_communication"
+  ],
+  "abstract": "Background Intimate partner violence (IPV), nonpartner sexual violence (SV), child sexual and physical abuse, and neglect have detrimental impacts on women's reproductive and sexual health. More empirical studies are needed to investigate the negative impacts of lifetime violence, including physical or sexual child abuse, nonpartner SV, physical, sexual, and psychological IPV on women's sexual health to better understand long-term impacts from IPV and physical or sexual child abuse. Materials and methods We used data from Wellness, Health and You, an ongoing health registry. A total of 1,213 women were included in data analysis. Our aim was to investigate the associations between lifetime IPV, nonpartner SV, child abuse, and women's current sexual health defined using Patient-Reported Outcomes Measurement Information System (PROMIS) measures of sexual health ( e.g ., sexual satisfaction, interest, and functioning), sexual assertiveness, female sexual subjectivity, and use of online resources to address sexual needs. Multivariate analysis of covariance was used to investigate demographic factors ( e.g ., age and current relationship) as potential correlates of current sexual health. Results Women with lifetime experiences of physical, sexual, or psychological IPV, nonpartner SV, and child physical or sexual abuse reported lower sexual satisfaction compared to women with no history of lifetime violence ( p Conclusion Lifetime experiences of violence ( i.e ., IPV, nonpartner SV, child abuse) are associated with poorer sexual health. Asking questions about past sexual and physical violence/abuse in ways that support disclosure is important toward improving women's physical and sexual health and wellbeing.",
+  "raw_path": "01_raw/europepmc_xml/PMC10890937.xml",
+  "text_path": "02_text/europepmc/PMC10890937.txt",
+  "raw_bytes": 120066,
+  "text_chars": 29421,
+  "raw_sha256": "e16d5c0ac05195b7525c922329d17f5a0e52fc874776012c7960e9636958f565",
+  "text_sha256": "858b5989360765202c0f056b7c25eac54ccc88b6e71d90a458e23c80a5259e81",
+  "retrieved_at": "2026-10-25T13:54:58.048607+00:00"
+}

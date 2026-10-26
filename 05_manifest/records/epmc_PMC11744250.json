@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11744250",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Effectiveness of continuous positive airway pressure therapy on romantic relationships and intimacy among individuals with obstructive sleep apnea: A systematic review and a meta-analysis.",
+  "authors": "Poletti V, Battaglia EG, Banfi P, Volpato E.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/jsr.14262",
+  "pmcid": "PMC11744250",
+  "url": "https://europepmc.org/article/PMC/PMC11744250",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11744250/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "Obstructive sleep apnea is a common yet often overlooked chronic sleep disorder with significant health implications globally. Bedpartners play a vital role in motivating individuals with obstructive sleep apnea to seek medical help, though their sleep quality may suffer, straining the couple's relationship. From September 2023 to January 2024, utilizing PubMed, Scopus, BioMed Central, Cochrane Library, ScienceDirect and www.clinicaltrials.gov databases, this systematic review meticulously examined data from 27 studies to investigate how continuous positive airway pressure therapy, recognized as the gold-standard for treating obstructive sleep apnea, may positively influence psychological dynamics within couples. Additionally, a meta-analysis was conducted on nine studies, to assess the effect of continuous positive airway pressure on erectile function, which is often compromised in patients with obstructive sleep apnea. The PRISMA checklist and specific quality assessments were followed to ensure methodological rigour and transparency. Findings reveal positive changes in conflict resolution for patients with obstructive sleep apnea post- continuous positive airway pressure adaptation (p < 0.05). Emotional functioning (p = 0.002) and social relationships (p < 0.001) also show improvements in bedpartners. While six subjective assessments indicate enhancements in sexual quality of life for patients with obstructive sleep apnea, challenges related to continuous positive airway pressure use as a barrier to intimacy are acknowledged. Focusing on male patients with obstructive sleep apnea, findings demonstrated a substantial improvement in erectile function post-continuous positive airway pressure utilization, with a Z-score of 4.84 (p < 0.00001). Female patients with obstructive sleep apnea using continuous positive airway pressure show no significant improvements in sexual functioning, while female bedpartners report positive changes. These insights emphasize the importance of holistic approaches in addressing the impact of obstructive sleep apnea on both individuals and their relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC11744250.xml",
+  "text_path": "02_text/europepmc/PMC11744250.txt",
+  "raw_bytes": 251849,
+  "text_chars": 48280,
+  "raw_sha256": "5bbe27767106f31d7da34dae9e385e59b9f344e5d8929755ae502e8a965ff2d7",
+  "text_sha256": "b772bd6ec37265b1874a3d2152222212fceec6b55228f62e3a848b85a53ddc5d",
+  "retrieved_at": "2026-10-25T15:48:08.361970+00:00"
+}

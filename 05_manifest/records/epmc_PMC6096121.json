@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6096121",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Online intimacy and well-being in the digital age.",
+  "authors": "Lomanowska AM, Guitton MJ.",
+  "year": "2016",
+  "journal": "",
+  "doi": "10.1016/j.invent.2016.06.005",
+  "pmcid": "PMC6096121",
+  "url": "https://europepmc.org/article/PMC/PMC6096121",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6096121/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_disclosure"
+  ],
+  "abstract": "Engagement in intimate social interactions and relationships has an important influence on well-being. However, recent advances in Internet and mobile communication technologies have lead to a major shift in the mode of human social interactions, raising the question of how these technologies are impacting the experience of interpersonal intimacy and its relationship with well-being. Although the study of intimacy in online social interactions is still in its early stages, there is general agreement that a form of online intimacy can be experienced in this context. However, research into the relationship between online intimacy and well-being is critically limited. Our aim is to begin to address this research void by providing an operative perspective on this emerging field. After considering the characteristics of online intimacy, its multimodal components and its caveats, we present an analysis of existing evidence for the potential impact of online intimacy on well-being. We suggest that studies thus far have focused on online social interactions in a general sense, shedding little light on how the level of intimacy in these interactions may affect well-being outcomes. We then consider findings from studies of different components of intimacy in online social interactions, specifically self-disclosure and social support, to indirectly explore the potential contribution of online intimacy to health and well-being. Based on this analysis, we propose future directions for fundamental and practical research in this important new area of investigation.",
+  "raw_path": "01_raw/europepmc_xml/PMC6096121.xml",
+  "text_path": "02_text/europepmc/PMC6096121.txt",
+  "raw_bytes": 132689,
+  "text_chars": 37191,
+  "raw_sha256": "c778a961b42bfdbc9d275b7a633ef55d8a54a53d176cf8e3cbf6235be7ce8f75",
+  "text_sha256": "cb453b07d5747b2be1db5f46fe5a4541fa557e7a0d9d7bc8343429621c9629c6",
+  "retrieved_at": "2026-10-25T15:41:33.249796+00:00"
+}

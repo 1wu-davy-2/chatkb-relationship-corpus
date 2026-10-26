@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12255689",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Analysis of couple communication patterns as a mediator of fertility-related stress and psychological capital in women with severe ovarian hyperstimulation syndrome after embryo transfer.",
+  "authors": "Lan M, Zhou N, Chen B, Yu H.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1038/s41598-025-10945-8",
+  "pmcid": "PMC12255689",
+  "url": "https://europepmc.org/article/PMC/PMC12255689",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12255689/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_communication_training"
+  ],
+  "abstract": "Severe ovarian hyperstimulation syndrome (OHSS) following embryo transfer (ET) can significantly impact psychological well-being and fertility-related stress in women. To examine the associations among couple communication patterns, psychological capital, and fertility-related stress and to explore the mediating effect of communication patterns on the relationship between psychological capital and fertility-related stress in women with severe OHSS after ET in China. This research used a cross-sectional study design. This cross-sectional study included 175 women diagnosed with severe OHSS following ET, recruited from the reproductive ward of a tertiary hospital in China using convenience sampling. Participants completed validated self-administered questionnaires assessing psychological capital, fertility-related stress, and couple communication patterns. Structural equation modeling (SEM) was conducted to examine the mediating role of couple communication patterns in the relationship between psychological capital and fertility-related stress. The study was reported by the STROBE (Strengthening the Reporting of Observational Studies in Epidemiology) guidelines. A combination of low levels of psychological capital and requested avoidance/complete avoidance communication patterns were associated with high levels of fertility-related stress among participants. Psychological capital was negatively correlated with fertility-related stress. The requested/completed communication had a significant positive effect on the stress, but constructive communication had no relationship with the stress. In addition, the requested avoidance communication pattern had a negative mediating effect between psychological capital and fertility-related stress in patients with severe OHSS (95% CI - 0.207, - 0.005). Couple communication patterns and psychological capital levels are significant predictors of fertility-related stress in women with severe OHSS after ET. Interventions aimed at enhancing psychological capital and addressing maladaptive communication styles may help reduce fertility-related stress. Healthcare professionals should focus on the psychological status of women with severe OHSS post-ET, facilitate effective couple communication, and raise awareness about the role of communication in mitigating emotional distress.",
+  "raw_path": "01_raw/europepmc_xml/PMC12255689.xml",
+  "text_path": "02_text/europepmc/PMC12255689.txt",
+  "raw_bytes": 98531,
+  "text_chars": 36556,
+  "raw_sha256": "95550572628bda23e7e13b72280c0a99d8f1b17f88f67f715fe436a4c37c895a",
+  "text_sha256": "4e46ac7839c5c5cd0266e5c3029d3fd9900af32cd552c3f3ce538ade0508d4ad",
+  "retrieved_at": "2026-10-26T13:32:44.138918+00:00"
+}

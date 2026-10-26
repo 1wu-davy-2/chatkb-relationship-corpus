@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_emotion_regulation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "情緒自我調節",
+  "requested_title": "情绪调节",
+  "url": "https://zh.wikipedia.org/wiki/%E6%83%85%E7%B7%92%E8%87%AA%E6%88%91%E8%AA%BF%E7%AF%80",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "emotion",
+    "skills"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/emotion_regulation.json",
+  "text_path": "02_text/zh_wikipedia/emotion_regulation.txt",
+  "raw_bytes": 14842,
+  "text_chars": 5259,
+  "text_sha256": "e8dcd1340c3c3fad5e3e9dcc96f2fd1a997ff01d6c4ccabea235d69cea699d60",
+  "retrieved_at": "2026-10-25T15:31:12.904735+00:00"
+}

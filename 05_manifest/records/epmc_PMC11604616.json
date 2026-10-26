@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11604616",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring relationships between dating app use and sexual activity among young adult college students.",
+  "authors": "Reeves JM, Griner SB, Johnson KC, Jones EC, Shangani S.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/frph.2024.1453423",
+  "pmcid": "PMC11604616",
+  "url": "https://europepmc.org/article/PMC/PMC11604616",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11604616/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating",
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Background University campus clinics provide crucial sexual health services to students, including STI/HIV screening, testing, contraception, and counseling. These clinics are essential for engaging young adults who may lack access to primary care or have difficulty reaching off-campus services. Dating apps are widely used by young adults, yet there is a lack of studies on how they affect sexual practices. This study aimed to evaluate the use of dating apps, engagement in condomless sexual activity, and the prevalence of STIs among young adult college students in Northern Texas. Methods A cross-sectional survey was conducted from August to December 2022 among undergraduate and graduate students aged 18-35 at a large university in Northern Texas. A total of 122 eligible participants completed the survey, which assessed demographics, sexual behaviors, dating app use, and STI/HIV testing practices. Descriptive statistics, bivariate analyses, and multivariate Poisson regression analyses with robust variance were performed to identify factors associated with dating app use and condomless sexual activity. Results Two-thirds of participants reported using dating apps. Significant differences were found between app users and non-users regarding demographic factors and unprotected sexual behaviors. Dating app users were more likely to report multiple sexual partners, inconsistent condom use, and a higher likelihood of engaging in unprotected sex. Poisson regression analysis indicated that app use was associated with residing in large urban areas, frequent use of campus STI/HIV screening services, and having multiple sexual partners ( p Conclusion The study highlights a significant association between dating app use and engagement in condomless sexual activity among college students. University health clinics play a critical role in providing sexual health services and can enhance their impact by expanding access to testing, contraception, and inclusive, sex-positive education. Future research should explore the long-term effects of dating app use on sexual health and evaluate the effectiveness of app-based interventions in promoting safer sexual practices.",
+  "raw_path": "01_raw/europepmc_xml/PMC11604616.xml",
+  "text_path": "02_text/europepmc/PMC11604616.txt",
+  "raw_bytes": 134743,
+  "text_chars": 34458,
+  "raw_sha256": "1260784e9766dbda27d97b74a524f794286c1ad5ca084f9ae069bbcc4f7cadce",
+  "text_sha256": "9ff1a3e55a19972fab3bae599aec4c5a459a4ad372cccd2e8691bbfb2ce11118",
+  "retrieved_at": "2026-10-25T15:41:35.904281+00:00"
+}

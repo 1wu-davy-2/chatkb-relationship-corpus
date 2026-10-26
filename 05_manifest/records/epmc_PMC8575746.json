@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8575746",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Does Re-Partnering Behavior Spread Among Former Spouses?",
+  "authors": "Buyukkececi Z.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1007/s10680-021-09589-x",
+  "pmcid": "PMC8575746",
+  "url": "https://europepmc.org/article/PMC/PMC8575746",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8575746/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "This study focused on individuals' re-partnering behavior following a divorce and asked whether divorcees influence each other's new union formation. By exploiting the System of Social statistical Datasets (SSD) of Statistics Netherlands, I identified divorced dyads and examined interdependencies in their re-partnering behavior. Discrete-time event history models accounting for shared characteristics of divorcees that are likely to influence their divorce and re-partnering behavior simultaneously were estimated. Findings showed that the probability of re-partnering increased within the first two years following a former spouse's new union formation. Further analyses focusing on formerly cohabiting couples rather than divorcees also revealed significant associations in re-partnering behavior. Following a former romantic partner's new union formation, women were exposed to risk longer than men, due to men's quicker re-partnering. These results were robust to the falsification tests. Overall, findings indicate that the consequences of a divorce or breakup are not limited to the incidence itself and former romantic partners remain important in each other's life courses even after a breakup. With the increasing number of divorcees and changing family structures, it is important to consider former spouses as active network partners that may influence individual life courses. Supplementary information The online version contains supplementary material available at 10.1007/s10680-021-09589-x.",
+  "raw_path": "01_raw/europepmc_xml/PMC8575746.xml",
+  "text_path": "02_text/europepmc/PMC8575746.txt",
+  "raw_bytes": 189904,
+  "text_chars": 67200,
+  "raw_sha256": "ea8324c57abb9854e333f8a101db8a310fe2d2eb087a7b9d87e79cc94ab1aa55",
+  "text_sha256": "187ad3bdd12fd09102fc9fac3f3e3ac01b40856ab9145c69018b12aed644d5b2",
+  "retrieved_at": "2026-10-25T15:40:14.932952+00:00"
+}

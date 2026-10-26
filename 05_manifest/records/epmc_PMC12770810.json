@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12770810",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Interventions for Perpetrators of Intimate Partner Violence: An Umbrella Review of Systematic Reviews.",
+  "authors": "Punzo G, Velotti P.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1002/ab.70056",
+  "pmcid": "PMC12770810",
+  "url": "https://europepmc.org/article/PMC/PMC12770810",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12770810/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Intimate partner violence (IPV) represents a global public health concern, with significant psychological, physical, and social consequences. Numerous interventions have been proposed and evaluated over time to address perpetrator behavior; however, the heterogeneity and variability of outcomes across studies limit the clarity of evidence-based guidance. To address this, the present study conducted an umbrella review of systematic reviews and meta-analyses, aiming to synthesize and critically appraise the highest level of available evidence on interventions targeting IPV perpetrators. A comprehensive search was conducted across five major databases (PsycInfo, PsycArticles, Scopus, PubMed, and MEDLINE), supplemented by Google Scholar and manual bibliographic screening. The initial search yielded 8827 records. After duplicate removal and screening phases, a total of 41 systematic reviews met the inclusion criteria. The included studies span a wide range of intervention types, target populations, and outcome measures. This umbrella review highlights key methodological limitations in the literature, varying degrees of effectiveness across intervention modalities, and gaps in long-term outcome evaluations. By providing a high-level synthesis, the findings offer valuable insights for practitioners, policymakers, and researchers, informing the development of more effective and evidence-based strategies for the prevention and reduction of IPV perpetration.",
+  "raw_path": "01_raw/europepmc_xml/PMC12770810.xml",
+  "text_path": "02_text/europepmc/PMC12770810.txt",
+  "raw_bytes": 396009,
+  "text_chars": 126512,
+  "raw_sha256": "3179f94f5cbbcf997715dce7233a527504107700a94f3859bcc524ee9297cfa9",
+  "text_sha256": "6b01672d42164383e21729dc8f7cfb318e57a3b498be8974487744fe736ab56a",
+  "retrieved_at": "2026-10-25T15:48:32.450833+00:00"
+}

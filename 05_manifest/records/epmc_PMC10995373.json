@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10995373",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The mediating role of social media addiction and phubbing in basic psychological needs in relationships and relationship satisfaction.",
+  "authors": "Karaman HB, Arslan C.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2024.1291638",
+  "pmcid": "PMC10995373",
+  "url": "https://europepmc.org/article/PMC/PMC10995373",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10995373/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "phubbing"
+  ],
+  "abstract": "This study aimed to examine the mediating role of phubbing and social media addiction in the correlation between satisfaction levels of basic psychological needs in romantic relationships and relationship satisfaction. The participants were 958 students from various universities in Türkiye. The research utilized demographic information form for personal information of the participants, the Satisfaction of Basic Psychological Needs in Romantic Relationships Scale, the Generic Scale of Phubbing, the Social Media Addiction Scale-Adult Form, and the Relationship Satisfaction Scale. It was concluded in the research that social media addiction and phubbing had a mediating role in the correlation between the needs for love/belonging β = 0.05, power β = 0.03, and freedom β = -0.08 and the relationship satisfaction. The bootstrapping method performed in the study showed that indirect effect of the need for fun on the relationship satisfaction was significant, but in the Sobel test, social media addiction and phubbing was not found to have a mediating role in this correlation ( p > 0.05). It was concluded that phubbing had a mediating role for all needs other than the need for fun in the correlation between satisfaction of basic psychological needs in romantic relationships and social media addiction. Finally, social media addiction was found to have a mediating role in the correlation between phubbing and relationship satisfaction. These findings were discussed in line with the literature. As shown by the findings, it was observed that satisfaction of basic psychological needs in romantic relationships affected the relationship satisfaction, and social media addiction and phubbing had a mediating role in that correlation.",
+  "raw_path": "01_raw/europepmc_xml/PMC10995373.xml",
+  "text_path": "02_text/europepmc/PMC10995373.txt",
+  "raw_bytes": 127503,
+  "text_chars": 44078,
+  "raw_sha256": "f3c33425a1ebd89fcbb65655fc1af3b49dfad73fcdf2f3b4473ae556976e66e5",
+  "text_sha256": "676163a126679eeebba0e20f3133271f7683abd67ef7875a6dce8866e5bd392e",
+  "retrieved_at": "2026-10-25T15:31:48.219945+00:00"
+}

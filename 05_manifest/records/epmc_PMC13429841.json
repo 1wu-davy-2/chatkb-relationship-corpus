@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13429841",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Deconstructing sex differences in emotion regulation: the underlying role of gender attitudes.",
+  "authors": "Oleas D, Chicaiza-Briones M, Cobo T, Greene CM, Rodas JA.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1900243",
+  "pmcid": "PMC13429841",
+  "url": "https://europepmc.org/article/PMC/PMC13429841",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13429841/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "emotion_regulation"
+  ],
+  "abstract": "Introduction Although biological sex is frequently associated with distinct emotion regulation profiles, this dichotomy often overlooks the influence of sociocultural constructs. This study aimed to determine whether specific gender role attitudes predict the use of cognitive reappraisal and expressive suppression, and whether biological sex moderates these relationships. Methods A cross-sectional sample of 201 Ecuadorian university students completed the Gender Role Attitudes Scale and the Emotion Regulation Questionnaire. Data were analysed using multiple linear regressions and moderation analyses, controlling for income, mental health history, and marital status. Results Biological sex neither significantly differentiated the use of cognitive reappraisal and expressive suppression, nor moderated the relationship between gender beliefs and these strategies. Following adjustments for multiple comparisons, non-egalitarian gender roles significantly and negatively predicted the use of both cognitive reappraisal and expressive suppression, whereas adherence to traditional roles positively predicted only the use of expressive suppression. Discussion The findings suggest that the internalisation of sociocultural gender beliefs accounts for individual differences in specific emotion regulation strategies. Emotion regulation appears to be driven by perceived social permissibility, offering additional explanatory value beyond biological sex. Consequently, the promotion of egalitarian gender beliefs may be associated with increased psychological flexibility and adaptive emotional functioning.",
+  "raw_path": "01_raw/europepmc_xml/PMC13429841.xml",
+  "text_path": "02_text/europepmc/PMC13429841.txt",
+  "raw_bytes": 116608,
+  "text_chars": 40711,
+  "raw_sha256": "181425db54bc4da8b3e17335cc93a0b8f814b5d348df14f2c865fa19a786fc21",
+  "text_sha256": "9d33dfd20b2d398044d0081bf615c84dd6f516a5a7f31562ecc237b1056cc8aa",
+  "retrieved_at": "2026-10-25T15:34:26.837295+00:00"
+}

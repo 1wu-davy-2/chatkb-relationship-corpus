@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11332061",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Social and nonsocial synchrony are interrelated and romantically attractive.",
+  "authors": "Cohen M, Abargil M, Ahissar M, Atzil S.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1038/s44271-024-00109-1",
+  "pmcid": "PMC11332061",
+  "url": "https://europepmc.org/article/PMC/PMC11332061",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11332061/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "The mechanisms of romantic bonding in humans are largely unknown. Recent research suggests that physiological synchrony between partners is associated with bonding. This study combines an experimental approach with a naturalistic dating setup to test whether the individual differences in social and nonsocial synchrony are interdependent, and linked to romantic attractiveness. In a preregistered online experiment with 144 participants, we discover that inducing physiological synchrony between an actor and an actress determines their attractiveness ratings by participants, indicating that synchrony can increase perceived attraction. In a lab-based naturalistic speed-dating experiment, we quantify in 48 participants the individual tendency for social physiological synchrony, nonsocial sensorimotor synchrony, and romantic attractiveness. We discover that the individual propensity to synchronize in social and nonsocial tasks is correlated. Some individuals synchronize better regardless of partners or tasks, and such Super Synchronizers are rated as more attractive. Altogether, this demonstrates that humans prefer romantic partners who can synchronize.",
+  "raw_path": "01_raw/europepmc_xml/PMC11332061.xml",
+  "text_path": "02_text/europepmc/PMC11332061.txt",
+  "raw_bytes": 168093,
+  "text_chars": 43187,
+  "raw_sha256": "6e3fd4767517d81aa9cf45b513cc956774e180c4960cad874e9a5e3e5ce08054",
+  "text_sha256": "256e697de91100716b4dd76c1ac9fc112e033d45a42f9b452f9d78e1e6fed46b",
+  "retrieved_at": "2026-10-25T13:57:30.110207+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13588490",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Novel and Exciting or Tried and True? Tailoring Shared Relationship Experiences to Insecurely Attached Partners.",
+  "authors": "Schrage KM, Impett EA, Topal MA, Harasymchuk C, Muise A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/19485506251411438",
+  "pmcid": "PMC13588490",
+  "url": "https://europepmc.org/article/PMC/PMC13588490",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13588490/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "In the current research, we extend work on buffering attachment insecurities by examining how tailoring shared relationship experiences to attachment avoidance and anxiety is associated with relationship satisfaction. Meta-analytic results across three dyadic 21-day diary studies ( N = 390 couples) revealed that on days when avoidantly attached individuals reported more (vs. less) novelty and excitement in their relationship, their typically lower relationship satisfaction was attenuated, in part, because they perceived greater relationship reward (i.e., intimacy and connection). Familiar and comfortable activities did not buffer avoidantly attached individuals' relationship satisfaction. In contrast, on days when anxiously attached individuals reported more (vs. less) familiarity and comfort, their lower relationship satisfaction was fully buffered. Novel and exciting activities did not buffer anxiously attached individuals' satisfaction. Exploratory analyses revealed that these effects also extended to partners. Thus, structuring shared time in ways that align with attachment needs may benefit the couple as a whole.",
+  "raw_path": "01_raw/europepmc_xml/PMC13588490.xml",
+  "text_path": "02_text/europepmc/PMC13588490.txt",
+  "raw_bytes": 133080,
+  "text_chars": 42715,
+  "raw_sha256": "564e773ef575735541224655d30947b729a9b69bfbff1b7d4954a35feeae91d3",
+  "text_sha256": "6119c26dd27246e5de1b9429306309bc7a604a8918d30770ec133ab1744f3dad",
+  "retrieved_at": "2026-10-25T14:01:22.242033+00:00"
+}

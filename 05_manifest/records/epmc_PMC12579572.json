@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12579572",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Assessing Gender and Sexual Harassment in Iranian Academia: Persian Adaptation and Validation of the Sexual Experiences Questionnaire.",
+  "authors": "Azizzadeh A, Azimi Nasab Peyvasti S, Alizadeh M, Ahmadnia S.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.7759/cureus.93667",
+  "pmcid": "PMC12579572",
+  "url": "https://europepmc.org/article/PMC/PMC12579572",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12579572/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "Background Sexual harassment remains a significant and widespread challenge in academic institutions worldwide. There is a significant lack of understanding and validated measurement tools for this issue in Iran. This study aimed to translate, culturally adapt, and validate the sexual experiences questionnaire for use among the Persian-speaking university student population. Methods This study developed a linguistically and culturally adapted Persian version of the shortened Sexual Experiences Questionnaire (p-SEQ). The translation followed established guidelines, involving forward and back-translation, expert panel reviews, and a pilot study with 36 students. A total of 441 students from a university in northwestern Iran were recruited using nonprobability sampling, with 391 completing the survey. Validity was assessed through face, content, and construct validity analyses, including exploratory and confirmatory factor analysis (EFA & CFA). Reliability was evaluated using Cronbach's alpha and McDonald's omega. Results The sample had a median age of 22 and 59.1% of respondents identified as female participants. EFA suggested a three-factor solution as the most interpretable, explaining 63.97% of the variance. However, CFA revealed that a modified four-factor model, aligning with the original domains of sexist gender harassment, crude gender harassment, unwanted sexual attention, and sexual coercion, provided the best fit (minimum discrepancy/degrees of freedom (CMIN/DF)=3.712, comparative fit index (CFI)=0.946, root mean square error of approximation (RMSEA)=0.083, standardized root mean square residual (SRMR)=0.048). The p-SEQ demonstrated strong internal consistency, with an overall Cronbach's alpha of 0.880 and McDonald's omega of 0.858 and subscale alphas ranging from 0.842 to 0.935. The scale also showed good convergent and discriminant validity. Conclusion The p-SEQ is a psychometrically sound, valid, and reliable instrument for assessing sexual and gender harassment among Iranian university students. This tool addresses a critical gap in the existing literature and provides a psychometrically sound instrument in this single site sample. multi-site replication and invariance testing are needed before routine policy use within academic institutions in Iran.",
+  "raw_path": "01_raw/europepmc_xml/PMC12579572.xml",
+  "text_path": "02_text/europepmc/PMC12579572.txt",
+  "raw_bytes": 76674,
+  "text_chars": 31265,
+  "raw_sha256": "936b420f02364c995c4aba1c359469e9f88c04a82ec9ec9f1703e6f949611f39",
+  "text_sha256": "b4d1c658ca5cf0e57fea9ecc08f6533607cbdf6964216614486f9dae267e631e",
+  "retrieved_at": "2026-10-26T12:56:28.963264+00:00"
+}

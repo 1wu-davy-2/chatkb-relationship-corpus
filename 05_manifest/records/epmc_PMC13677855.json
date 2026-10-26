@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC13677855",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Adult attachment and hypersexuality: links to couple and sexual satisfaction in a Mexican sample.",
+  "authors": "Mejía-Cruz D, Avila-Chauvet L, Villalobos-Gallegos L.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1911233",
+  "pmcid": "PMC13677855",
+  "url": "https://europepmc.org/article/PMC/PMC13677855",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13677855/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment",
+    "sexual_satisfaction"
+  ],
+  "abstract": "Introduction Previous research has linked anxious and avoidant attachment with emotional dysregulation and hypersexuality-related symptoms and has documented associations between risky sexual behaviors and adverse health outcomes. However, the relationships of sexual and couple satisfaction with hypersexuality remain comparatively underexplored, particularly in Mexican populations. Objective This study examined the associations among attachment dimensions, hypersexuality-related symptoms, risky sexual behaviors, psychological distress, sexual satisfaction, and couple satisfaction in a sample of Mexican adults. Methods A total of 214 participants completed the Sexual Addiction Screening Test-Revised (SAST-R), Couple Satisfaction Index-4 (CSI-4), Experiences in Close Relationships Scale (ECR-8), Symptom Checklist-90 (SCL-90), and measures of risky sexual behaviors. Data were analyzed using Classification and Regression Trees (CART), logistic regression, correlational analyses, and Mann-Whitney U tests. Results Higher SAST-R scores were associated with several risky sexual behaviors, including a greater number of sexual partners, substance use during sexual activity, and lack of sexual protection. Psychological distress and risky sexual behaviors also contributed to the exploratory classification of participants according to SAST-R scores. Participants with higher SAST-R scores showed descriptively lower sexual satisfaction; however, these differences were not statistically significant. Contrary to expectations, neither attachment anxiety nor attachment avoidance was significantly associated with SAST-R scores. Nevertheless, attachment avoidance was negatively associated with couple and sexual satisfaction and was associated with age at sexual debut. Discussion and conclusion The findings suggest that psychological distress and risky sexual behaviors may be more closely associated with hypersexuality-related symptoms than attachment dimensions in the present sample. In contrast, attachment avoidance appears to be associated with selected aspects of sexual and relational functioning, particularly sexual and couple satisfaction. These findings underscore the importance of distinguishing correlates of hypersexuality-related symptoms from broader relational functioning and suggest that prevention and intervention efforts should prioritize psychological distress, sexual-health risk reduction, and promoting secure attachment patterns.",
+  "raw_path": "01_raw/europepmc_xml/PMC13677855.xml",
+  "text_path": "02_text/europepmc/PMC13677855.txt",
+  "raw_bytes": 195639,
+  "text_chars": 59697,
+  "raw_sha256": "6083af00ab1a3e82e6248600dabbcae5d9e2f4de7e7213b25a9ab41886d414ee",
+  "text_sha256": "a4b6c42e6522d5df47d51bb156359ffea0016dbacf19350464e57245044d2c22",
+  "retrieved_at": "2026-10-25T13:50:28.673105+00:00"
+}

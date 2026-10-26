@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13126790",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Multiple origins of the apple seed microbiome: disentangling sexual and asexual transmission pathways.",
+  "authors": "Faticov M, Tack AJM, Köberl D, Berg G, Abdelfattah A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40793-026-00901-y",
+  "pmcid": "PMC13126790",
+  "url": "https://europepmc.org/article/PMC/PMC13126790",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13126790/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "asexuality_celibacy"
+  ],
+  "abstract": "Background The seed microbiome plays a key role in the assembly of the plant microbiome, which has major impacts on plant health. Nonetheless, little is known about the origin of the seed microbiome. We investigated the relative contributions of two potential transmission routes: sexual inheritance (via reproductive organs) and asexual inheritance (via the plant vascular system). To do that, we sampled flower ovaries and pollen sacs, fruiting spurs both before bloom and at seed maturity stages and mature seeds from five field-grown apple trees (Malus domestica BORKH. cv 'Gala Galaxy Selecta'). Results We showed that bacterial alpha diversity differed among tissues: spurs sampled before bloom had significantly higher richness and Shannon diversity than all other compartments, whereas ovary, pollen, spurs at seed maturity, and seeds did not differ in either richness or Shannon diversity. In addition, bacterial community composition differed significantly across all tissue types (ovary, pollen, spurs before bloom, spurs at seed maturity, and seeds). Source tracking revealed that both sexual (30.3%) and asexual (23.8%) pathways contributed to seed microbiome assembly, with spurs at seed maturity being the dominant source. Notably, a large proportion (45.9%) of the seed microbiome originated from unknown sources. Conclusions Overall, such insights into seed microbiome origin offer new opportunities to enhance seed health and crop productivity through microbiome-assisted breeding.",
+  "raw_path": "01_raw/europepmc_xml/PMC13126790.xml",
+  "text_path": "02_text/europepmc/PMC13126790.txt",
+  "raw_bytes": 99462,
+  "text_chars": 38890,
+  "raw_sha256": "cb6fc968556cf2bc566a014072b6acb10e7f312a0a83a22327f2883b62e9d878",
+  "text_sha256": "cda8cbc6da963a07b5ed76c01042485da02745ef1e5e827a9aa4d691e33c9958",
+  "retrieved_at": "2026-10-26T13:13:05.796140+00:00"
+}

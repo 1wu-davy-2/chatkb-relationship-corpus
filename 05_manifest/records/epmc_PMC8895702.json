@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8895702",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Contribution of Attachment Styles and Reassurance Seeking to Trust in Romantic Couples.",
+  "authors": "Evraire LE, Dozois DJA, Wilde JL.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.5964/ejop.3059",
+  "pmcid": "PMC8895702",
+  "url": "https://europepmc.org/article/PMC/PMC8895702",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8895702/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "The current daily diary study examined the moderating impact of attachment style on the association between excessive reassurance seeking (ERS) behavior and trust in romantic dyads. A sample of 110 heterosexual couples completed measures of attachment, ERS, and relationship trust. In line with prior research, an anxious attachment style was associated with higher daily ERS, and an avoidant attachment style with lower daily ERS. Lower levels of trust were also associated with greater daily ERS. Moreover, analyses remained significant while controlling for symptoms of depression. This study extended the literature by demonstrating that for women with an anxious attachment style, and men with an avoidant attachment style, ERS was related to lower next day trust. In contrast, the partners of men with an avoidant attachment style, who also engaged in ERS, reported higher levels of next day trust. This study was also the first to examine how individual attachment styles influenced the perception of, and reactions to, ERS. Women with an anxious attachment style liked when their male partners engaged in ERS, as illustrated by higher levels of reported trust. These results support the idea that attachment styles play an important role in determining whether or not ERS leads to negative interpersonal consequences. They also suggest that it is the combination of relationship insecurities and ERS that leads to negative interpersonal consequences.",
+  "raw_path": "01_raw/europepmc_xml/PMC8895702.xml",
+  "text_path": "02_text/europepmc/PMC8895702.txt",
+  "raw_bytes": 138071,
+  "text_chars": 69488,
+  "raw_sha256": "d644134b08c4053e76d6d3028dd6cce1938457d571f479ec1ac0ff3e2b5eb176",
+  "text_sha256": "d6ac68bdce272f1039e9470c3f0e70c5b8879c036c32bd626054e6817358062a",
+  "retrieved_at": "2026-10-25T15:41:34.686120+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12888074",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Emotion Regulation and Relationship Satisfaction in Couple Therapy: What Happens Across Sessions?",
+  "authors": "Xu M, Johnson LN, Anderson SR, Bradford A, Witting AB.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/famp.70125",
+  "pmcid": "PMC12888074",
+  "url": "https://europepmc.org/article/PMC/PMC12888074",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12888074/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance",
+    "sexual_pleasure_gender"
+  ],
+  "abstract": "While previous studies have demonstrated significant associations between partners' emotion regulation (ER) and overall well-being, very few studies provide knowledge on ER in clinical couples, especially across couple therapy sessions. The sample consisted of 174 mixed-sex couples, predominantly white and from the western region of the United States, who attended at least the initial eight sessions of couple therapy. The current study examined the intra- and inter-personal effects of ER difficulties (i.e., lack of awareness, nonacceptance, limited strategies, and impulsivity) on the trajectory of relationship satisfaction over the initial eight sessions of couple therapy. The results provide a few important findings. First, gender differences exist in ER and relationship satisfaction. Second, across the initial eight couple therapy sessions, relationship satisfaction improves, and partners change at a similar rate (0.97 for women and 0.83 for men per session on a 100-point scale; Wald test indicated no difference between these two rates of change). Third, ER difficulties have intra- and inter-personal effects on the starting scores and rates of change in relationship satisfaction in couple therapy. It is worth noting that we found several counterintuitive positive associations between ER difficulties and relationship satisfaction, including lack of emotional awareness, nonacceptance of negative emotions, and limited regulation strategies. For clinical implications, we discussed that clinicians working with couples may find it beneficial to utilize modalities with a specific emphasis on the ER process, such as Greenberg's emotion-focused couple therapy. The need for future studies with more diverse samples was recommended.",
+  "raw_path": "01_raw/europepmc_xml/PMC12888074.xml",
+  "text_path": "02_text/europepmc/PMC12888074.txt",
+  "raw_bytes": 151871,
+  "text_chars": 62674,
+  "raw_sha256": "d4ece03354e800818b41cffbb5616607e3c8960ad1ee240f3e1a9a40e4c98a5d",
+  "text_sha256": "5d0408238595afe3c292afdfd474395df1f5959dc8dca62c4dc3000062655be2",
+  "retrieved_at": "2026-10-25T13:54:50.842974+00:00"
+}

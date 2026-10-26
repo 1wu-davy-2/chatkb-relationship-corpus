@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9806246",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Associations of sexual behavioral aspects and sexual scripts among college students: A cross-sectional study.",
+  "authors": "Omidvar A, Mirhashemi M, Yousefi H, Merghati Khoei E.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.18502/ijrm.v20i11.12358",
+  "pmcid": "PMC9806246",
+  "url": "https://europepmc.org/article/PMC/PMC9806246",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9806246/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "Background Sexual scripts (SSs) are formed based on the gendered culture in societies. Objective To evaluate the associations between the sexual behavioral aspects: capacity, motivation, performance, and SS amongst Iranian college students. Materials and methods From September to December 2020, we recruited 400 college students who were married, had no acute or chronic diseases, was no drug abuser, and were not pregnant at the time of the study. The demographic questionnaire, sexual behavior assessment, and SSs questionnaires were completed by all the participants. Descriptive statistics and inferential statistics, Pearson correlation coefficient, and multivariate regression were used for data analysis. We also employed an independent t test to compare sexual behavior-related variables: sexual capacity, sexual performance, sexual motivation, and SSs in 2 female and male student groups. Results Men and women were significantly different in the component of sexual behaviors. Women had higher sexual motivation than men. The participants' SSs were positively correlated with all 3 components of sexual behaviors at a significant level of p ≤ 0.001. Of demographic characteristics, only women's age had a significant correlation with sexual capacity. For men, education level and economic status were positively correlated with all components of men's sexual behaviors. Conclusion Sexual behaviors seem to be highly gendered, particularly, in the motivational component. Based on the results, SSs are more determinant than demographics. We recommend gender-sensitive and cultural-oriented sexuality educations for Iranians to provide fundamental changes in the SSs.",
+  "raw_path": "01_raw/europepmc_xml/PMC9806246.xml",
+  "text_path": "02_text/europepmc/PMC9806246.txt",
+  "raw_bytes": 63653,
+  "text_chars": 18871,
+  "raw_sha256": "77afcb2338b32afbca8bec971aeaff15da29fad9412b7f313f3f0b89fc7c3770",
+  "text_sha256": "c5a69c802b0cc11b8af9319d88c8820ff1340fea7e6af2af340736e27ff0de69",
+  "retrieved_at": "2026-10-26T13:12:09.613467+00:00"
+}

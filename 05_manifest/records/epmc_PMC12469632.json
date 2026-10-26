@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12469632",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychometric Validation of Trust, Commitment, and Satisfaction Scales to Measure Marital Relationship Quality Among Newly Married Women in Nepal.",
+  "authors": "Gopalakrishnan L, Diamond-Smith N, Leslie HH.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/ijerph22091457",
+  "pmcid": "PMC12469632",
+  "url": "https://europepmc.org/article/PMC/PMC12469632",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12469632/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "commitment"
+  ],
+  "abstract": "Marital relationship quality significantly influences health outcomes, but validated measurement tools for South Asian populations remain limited. To validate scales measuring trust, commitment, and satisfaction as key components of marital relationship quality among newly married women in Nepal, we conducted a two-wave psychometric validation study in rural Nawalparasi district. The study included 200 newly married women aged 18-25 years, with 192 participants (96% retention) completing 6-month follow-up. We assessed factor structure, internal consistency, test-retest reliability, and criterion validity of trust (eight items), commitment (five items), and satisfaction (seven items) scales using exploratory and confirmatory factor analysis. Exploratory factor analysis identified single-factor solutions for trust and commitment scales and a two-factor model for satisfaction. Confirmatory factor analysis confirmed these structures, with satisfaction comprising marital conflict/dissatisfaction (four items) and general satisfaction (two items) subscales. All scales demonstrated good internal consistency (Cronbach's α: 0.79-0.96) and significant criterion validity correlations with relationship happiness (r = 0.63-0.72, p < 0.001). Test-retest reliability showed moderate to low stability (r = 0.21-0.51), likely reflecting genuine relationship changes in early marriage. The validated scales provide reliable tools for assessing relationship quality in South Asian contexts, enabling research on marriage-health associations and evidence-based interventions.",
+  "raw_path": "01_raw/europepmc_xml/PMC12469632.xml",
+  "text_path": "02_text/europepmc/PMC12469632.txt",
+  "raw_bytes": 172091,
+  "text_chars": 42578,
+  "raw_sha256": "b1a769e20e733838e202c047857a835f86274a3c36ba90d900ec982b6ca4a943",
+  "text_sha256": "54a2c65342720f798156f034eda6167e13795f8e12ee07f29f0dec53954711e4",
+  "retrieved_at": "2026-10-25T13:51:24.039342+00:00"
+}

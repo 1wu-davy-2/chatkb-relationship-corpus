@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12823706",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exposure to pornographic material and perpetration of intimate partner violence among young men in Mwanza Tanzania.",
+  "authors": "Aloyce D, Stöckl H, Mosha N, Malibwa D, Sichalwe S, Hashim R, Ayieko P, Kapiga S, Mshana G.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s10389-024-02262-7",
+  "pmcid": "PMC12823706",
+  "url": "https://europepmc.org/article/PMC/PMC12823706",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12823706/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "porn_and_relationship"
+  ],
+  "abstract": "Aim Intimate partner violence (IPV) is a public health concern that negatively impacts women's health. Preliminary evidence from high-income countries suggests that IPV is linked with exposure to pornographic materials among men, by encouraging negative norms of masculinity. To generate evidence from low and middle-income countries, we examined the relationship between frequent exposure to pornography and IPV perpetration among young men in Mwanza, Tanzania. Subject and methods We conducted a cross-sectional survey among 1002 randomly selected young men aged 18 to 24 living in Mwanza, Tanzania. Results Of the 828 ever-partnered young men included in the study, 396 (47.8%) reported viewing pornography in the past 12 months, with 14.1% viewing it at least once a week. In the last 12 months, 21.4% of participants reported perpetrating sexual IPV, while 43.2% and 15% reported to have perpetrated emotional and physical IPV respectively. After adjusting for covariates, exposure to pornography was significantly associated with sexual (aOR = 2.77 95% CI 1.51 - 5.08), emotional (aOR = 1.84 95% CI: 1.01 - 3.37) and physical (aOR = 1.65 95% CI 1.00 - 2.74) IPV perpetration. Conclusion Frequent exposure to pornography was associated with sexual, emotional, and physical IPV perpetration. Interventions to prevent violence against women therefore need to address men's exposure to pornography.",
+  "raw_path": "01_raw/europepmc_xml/PMC12823706.xml",
+  "text_path": "02_text/europepmc/PMC12823706.txt",
+  "raw_bytes": 108170,
+  "text_chars": 32518,
+  "raw_sha256": "2a0a95193cdd55513512f76e50ca64197cca185b9edff95c6f93270b44747e81",
+  "text_sha256": "20957eb04d3ed6f52bb21d578b91ab9d0a27acf24eb89360628d81174a6157da",
+  "retrieved_at": "2026-10-26T12:53:17.228533+00:00"
+}

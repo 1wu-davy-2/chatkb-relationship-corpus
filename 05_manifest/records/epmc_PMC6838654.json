@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6838654",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marriage stability in a pastoralist society.",
+  "authors": "Du J, Mace R.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1093/beheco/arz115",
+  "pmcid": "PMC6838654",
+  "url": "https://europepmc.org/article/PMC/PMC6838654",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6838654/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "bride_price"
+  ],
+  "abstract": "We examined how individual investment was associated with the duration of marriage partnerships in a pastoralist society of Amdo Tibetans in China. We collected demographic and socioeconomic data from 420 women and 369 men over five villages to assess which factors predicted partnership length. We found that the payment of dowry and bridewealth from both sides of the family predicted marriage stability. The production of offspring, regardless of their survivorship, also had a positive effect on marriage duration, as did trial marriage, a time period before formal marriage. Finally, we found that if both bride and groom invest resources initially into a partnership-whether wealth or labor-their subsequent partnership is stronger than couples who do not make such investments. This paper adds to our understanding of complex social institutions like marriage from a behavioral ecological perspective.",
+  "raw_path": "01_raw/europepmc_xml/PMC6838654.xml",
+  "text_path": "02_text/europepmc/PMC6838654.txt",
+  "raw_bytes": 86594,
+  "text_chars": 32017,
+  "raw_sha256": "acd8984811f72efad56330c6e7f57e0375b48908ac15deaa066fd1411d8255c4",
+  "text_sha256": "f0f0fc30efdd9b0990f7e00f7e46e29427a97b450b54606729c3d46b8cc55ada",
+  "retrieved_at": "2026-10-25T15:32:04.524983+00:00"
+}

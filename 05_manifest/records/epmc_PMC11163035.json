@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11163035",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Disembedding and re-embedding: the online interaction mechanisms of divorced youth in China.",
+  "authors": "Wang J, Guo J.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2024.1413129",
+  "pmcid": "PMC11163035",
+  "url": "https://europepmc.org/article/PMC/PMC11163035",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11163035/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_disclosure"
+  ],
+  "abstract": "Introduction In recent years, China's divorce rates have remained high, especially in metropolitan areas such as Beijing and Shanghai, where rates reach up to 40%. Additionally, there has been a notable shift towards younger demographics in divorce cases. In a society that highly values marital harmony, divorce is often seen as a cultural transgression. Anthony Giddens' theory of disembedding and re-embedding provides a useful framework for understanding these changes. This study addresses a gap in literature by focusing on the online social interactions of divorced Chinese youth, exploring their use of dating apps for emotional support and social reconnections. Methods This qualitative study employed semi-structured interviews with 19 divorced young adults in China who engaged with dating apps such as Momo, Tantan, and Soul. Participants were recruited via Douban and Xiaohongshu. The interviews, conducted through WeChat voice calls and Tencent Meetings, lasted 45-70 minutes each. Data was analyzed using Nvivo12 to understand the disembedding and re-embedding processes in their online interactions, exploring themes such as motivations, self-presentation, and the transition from online to offline engagements. Results and discussion The findings reveal that these individuals face societal challenges, biases, and the residual effects of past marriages, leading them to seek refuge in online environments to avoid stigmatization. In digital spaces, they cautiously engage, revealing a lack of confidence through selective self-disclosure. Their goals range from forming same-sex and opposite-sex friendships to seeking new romantic relationships, indicating a nuanced approach to remarriage and challenging stereotypes of dating app users. Re-engaging online, they discover social support and a sense of community, which aids in regaining confidence post-divorce, underscoring the complex interplay between societal influences and individual adaptation strategies in the digital age. The study highlights the unique challenges faced by this demographic, including maintaining anonymity and dealing with societal prejudices. Future research should consider a broader age range and gender differences to provide a more comprehensive understanding of the online behaviors and experiences of divorced individuals.",
+  "raw_path": "01_raw/europepmc_xml/PMC11163035.xml",
+  "text_path": "02_text/europepmc/PMC11163035.txt",
+  "raw_bytes": 168734,
+  "text_chars": 75131,
+  "raw_sha256": "93df4fe779dc1532e719fa4e95695b4088c0a9b92adb6211d02a0355543f3e5a",
+  "text_sha256": "f26bbef9e0092cfdf55668c8306fe803a3e0074f4951daa160dba5c13e7b6520",
+  "retrieved_at": "2026-10-25T13:58:44.079310+00:00"
+}

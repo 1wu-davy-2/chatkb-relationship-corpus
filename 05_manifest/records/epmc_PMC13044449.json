@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13044449",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A dyadic daily diary investigation of partner-schema structures on relational well-being and depressed mood.",
+  "authors": "Murphy GCM, Ying F, Hicks O, Maxwell JA, Dozois DJA.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/02654075251407064",
+  "pmcid": "PMC13044449",
+  "url": "https://europepmc.org/article/PMC/PMC13044449",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13044449/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "Partner-schemas structures (i.e., the degree of interconnectedness in the beliefs one holds about their romantic partner) have been associated with relationship well-being and, to a lesser degree, depression, in cross-sectional research. However, little is known about how schema structures may impact couples in their daily lives. To address this gap, 260 couples were sampled at baseline to assess partner-schema structures, then surveyed for 14 days. Daily surveys captured relationship quality, relationship conflict severity, and relationship rumination; changes in relationship quality and relationship rumination on the day of a relational conflict; and depressed mood. Using multilevel modelling, guided by the Actor-Partner Interdependence Model, significant actor and partner effects emerged. Generally, the results suggest that an individual's partner-schema structures are significantly associated with their own daily relationship quality, relationship rumination, increased relationship rumination on the day of a relational conflict, and depressed mood. Two partner effects also emerged, indicating that one's own partner-schema structures may shape one's partner's relationship rumination on the day of a conflict, as well as their partner's depressed mood. Exploratory analyses also suggest that the linkages between conflict severity and daily relationship quality, daily relationship rumination, and daily depressed mood may be moderated by partner-schema structures. These findings extend previous cross-sectional research to the daily dyadic context. Implications for future research are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC13044449.xml",
+  "text_path": "02_text/europepmc/PMC13044449.txt",
+  "raw_bytes": 165384,
+  "text_chars": 58891,
+  "raw_sha256": "a3d3af5728e75c9b73ca024735fb24bd98cf5e74e59393004afcb9f4c647cd44",
+  "text_sha256": "c62ba3c1d90e88a12ef0c557fa808e6a0922b8a3a29ae0377b1eac0f46f4c53a",
+  "retrieved_at": "2026-10-25T15:47:58.474426+00:00"
+}

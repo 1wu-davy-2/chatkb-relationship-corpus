@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13489820",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The moderating role of emotional skills between jealousy and mate retention tactics.",
+  "authors": "Mandal E, Latusek A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.5114/hpr/185886",
+  "pmcid": "PMC13489820",
+  "url": "https://europepmc.org/article/PMC/PMC13489820",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489820/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Background The purpose of this study was to investigate the moderating role of emotional skills - emotion regulation, emotion understanding and emotional intelligence - between jealousy in a close relationship and employing mate retention tactics. Participants and procedure The study involved a group of 196 Polish nationals (111 women and 85 men) aged between 19 and 62, who were involved in romantic relationships of the following types: dating relationship, cohabitating, engaged or married. The following research tools were used: the Emotion Regulation Questionnaire (ERQ), the Emotion Understanding Test, INTE questionnaire, the Mate Retention Inventory - Short Form (MRI-SF) and the Multidimensional Jealousy Scale. Results Emotion suppression was identified as a modifier between jealousy and the use of acts linked to the direct guarding tactic, and between jealousy and acts associated with the public signals of possession tactic. The ability to suppress emotion contributes to an increased readiness to employ direct guarding at the time of a high jealousy level. Conclusions The results showed that the moderators of the relationship between jealousy and mate retention tactics were emotional suppression and emotion understanding. Emotional functioning is important for the well-being of relationships, especially for dealing with jealousy.",
+  "raw_path": "01_raw/europepmc_xml/PMC13489820.xml",
+  "text_path": "02_text/europepmc/PMC13489820.txt",
+  "raw_bytes": 85308,
+  "text_chars": 30812,
+  "raw_sha256": "a58f276dbc928e31834f6f5b296c8cc90add31e75e742138179e00a989ec28d9",
+  "text_sha256": "e28558aef96c60fe98743abfc743dc75d6bc26f42302e23f16cacc67601a232e",
+  "retrieved_at": "2026-10-25T15:32:57.652979+00:00"
+}

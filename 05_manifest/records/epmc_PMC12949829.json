@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12949829",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Evaluating the Impact of Reproductive and Sexual Health Education on Knowledge and Attitudes of Couples in Premarital Counseling Classes: A Quasi-Experimental Study.",
+  "authors": "Ashrafi E, Oskoei LB, Hamzehkolaee ME, Izadi B, Mansourian M, Bahadori B.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1002/hsr2.71921",
+  "pmcid": "PMC12949829",
+  "url": "https://europepmc.org/article/PMC/PMC12949829",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12949829/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_communication_training"
+  ],
+  "abstract": "Background and aims Educating couples about reproductive and sexual health is crucial for enhancing marital well-being, fostering healthy sexual relationships, and ultimately strengthening family bonds. The purpose of this study is to determine the impact of reproductive and sexual health education on knowledge and attitudes of couples in premarital counseling classes. Methods This quasi-experimental controlled intervention study involved 200 people (100 couples) attending the General Health Service Center No. 8 in Rasht city. Forty eligible couples were selected using simple random sampling and randomly assigned to two groups: the intervention group (20 couples) and the control group (20 couples). Data were collected using a researcher-designed questionnaire comprising two sections: the first covered four demographic questions, while the second assessed couples' knowledge and attitudes toward reproductive and sexual health. The intervention group participated in a tailored reproductive and sexual health education program delivered five 60-min sessions. Questionnaires were administered before the intervention and 3 months afterward. Data were analyzed using SPSS version 24, employing descriptive statistics, Chi-square tests, Mann-Whitney U test, and Wilcoxon tests with a significance level of p Results Demographic variables were homogeneous across both groups, with no statistically significant differences observed ( p > 0.05). Prior to the intervention, there was no significant difference in the average knowledge and attitude scores between the intervention and control groups. However, following the educational program, the intervention group demonstrated a significant increase in these scores ( p Conclusion The findings underscore the effectiveness of premarital educational interventions in enhancing couples' knowledge and attitudes regarding reproductive and sexual health.",
+  "raw_path": "01_raw/europepmc_xml/PMC12949829.xml",
+  "text_path": "02_text/europepmc/PMC12949829.txt",
+  "raw_bytes": 65869,
+  "text_chars": 21137,
+  "raw_sha256": "c7cdf3811712a612f10eac1706e006a454e73aae80cf4785383b46ebe6bd8cfc",
+  "text_sha256": "17da7eb818e0f0393b9c52e9d06085ad21db5635c1ae71a0ddaafaaa40723fec",
+  "retrieved_at": "2026-10-26T13:32:30.006890+00:00"
+}

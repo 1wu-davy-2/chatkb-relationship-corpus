@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC8255964",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Associations of Intimacy, Partner Responsiveness, and Attachment-Related Emotional Needs With Sexual Desire.",
+  "authors": "van Lankveld JJDM, Dewitte M, Verboon P, van Hooren SAH.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2021.665967",
+  "pmcid": "PMC8255964",
+  "url": "https://europepmc.org/article/PMC/PMC8255964",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8255964/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "responsiveness",
+    "sexual_desire_gap"
+  ],
+  "abstract": "In this online cross-sectional survey study in a large community sample we investigated the associations between attachment-related relational needs, partner responsiveness, intimacy, and sexual desire, using structural equation modeling. Participants were heterosexual and non-heterosexual women and men. Intimacy and partner responsiveness correlated positively with sexual desire in all subsamples. Anxious attachment-related relational needs correlated positively with sexual desire. Avoidant attachment-related relational needs correlated negatively with sexual desire. Anxious and avoidant attachment-related needs, however, did not moderate the association between intimacy and sexual desire. Individuals with problems of low sexual desire may benefit from an emphasis in sex therapy on ways to increase (perceptions of) intimacy.",
+  "raw_path": "01_raw/europepmc_xml/PMC8255964.xml",
+  "text_path": "02_text/europepmc/PMC8255964.txt",
+  "raw_bytes": 143222,
+  "text_chars": 45114,
+  "raw_sha256": "de661dee569cba99841f61c1a2b8455f0020aefed7961d3fb78c470f3fd95236",
+  "text_sha256": "373e9aead6255f08f1ef175760bfdacbaf1b946255148aded73a5491dd488d8d",
+  "retrieved_at": "2026-10-25T15:40:58.532996+00:00"
+}

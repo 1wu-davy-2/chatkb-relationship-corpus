@@ -1,0 +1,24 @@
+{
+  "doc_id": "zh_boundaries_zju",
+  "source": "zh_official",
+  "source_type": "university",
+  "title": "人际边界的问题（浙江大学心理健康教育与咨询中心）",
+  "page_title": "人际边界的问题",
+  "url": "http://www.xlzx.zju.edu.cn/2014/1225/c55639a2236240/page.htm",
+  "requested_url": "http://www.xlzx.zju.edu.cn/2014/1225/c55639a2236240/page.htm",
+  "language": "zh",
+  "license": "copyrighted_excerpt_personal_research",
+  "license_url": "",
+  "topics": [
+    "boundaries",
+    "relationship",
+    "communication"
+  ],
+  "excerpt_only": true,
+  "raw_path": "01_raw/zh_official/boundaries_zju.html",
+  "text_path": "02_text/zh_official/boundaries_zju.txt",
+  "raw_bytes": 32430,
+  "text_chars": 1826,
+  "text_sha256": "3c0cb8c8192f7a73be72e2c25cb73de827519021beec4f4016b1fb662b332d83",
+  "retrieved_at": "2026-10-25T16:24:00.064791+00:00"
+}

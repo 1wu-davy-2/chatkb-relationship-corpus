@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12471714",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Relationship Between Erectile Dysfunction and Dyadic Adjustment, Couple Relationship Quality, and Intimacy: A Cross-Sectional Study.",
+  "authors": "Trifu DM, Leucuța DC, Pintea-Trifu ML, Elec F, Crișan N, Eniu D, Coman I.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/medicina61091590",
+  "pmcid": "PMC12471714",
+  "url": "https://europepmc.org/article/PMC/PMC12471714",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12471714/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction"
+  ],
+  "abstract": "Background and Objectives : This study aimed to evaluate the association between relationship dynamics as measured by dyadic adjustment and factors such as erectile function and lower urinary tract symptoms, adjusting for relevant clinical characteristics. Materials and Methods : This cross-sectional study collected data from 94 males in relationships of at least 6 months and with a prostate volume equal to or higher than 30 cc. Lower urinary tract symptoms, erectile function, and relationship dynamics were assessed with the International Prostate Symptom Score (I-PSS), International Index of Erectile Function (IIEF), Dyadic Adjustment Scale (DAS). Results : We found significant positive correlations between DAS affective expressions (AEs) and erectile dysfunction duration; between IIEF general satisfaction and DAS dyadic adjustment (DA), dyadic consensus (DC), and dyadic cohesion (DH); and between prostate width and DAS DA and DC (all ρ ≈ 0.2-0.3, p p = 0.013) and DH ( p = 0.008) remained significant, while the relationship with DAS DC ( p = 0.051) was borderline. Conclusions : Our findings highlight that general sexual satisfaction, as measured with the IIEF, had a small but independent association with higher affective expressions, dyadic cohesion, and dyadic consensus in couples, which are key domains of dyadic adjustment, regardless of relationship duration, prostate width, and comorbidities. These results emphasize the importance of considering sexual satisfaction in the context of relationship quality and, therefore, involving the female partner in the assessment and treatment of erectile dysfunction.",
+  "raw_path": "01_raw/europepmc_xml/PMC12471714.xml",
+  "text_path": "02_text/europepmc/PMC12471714.txt",
+  "raw_bytes": 103736,
+  "text_chars": 31228,
+  "raw_sha256": "ec3b3d11a70a4be47a57f7b656a51cd61630b76de880e47f9baeaf040b7e426a",
+  "text_sha256": "32306ece3752a03a3c87b544ec008960714cbfb5bd5a90fccc7d2edca0639a98",
+  "retrieved_at": "2026-10-25T15:32:13.358786+00:00"
+}

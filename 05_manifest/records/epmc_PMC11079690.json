@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11079690",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual Harassment, Abuse, and Discrimination in Obstetrics and Gynecology: A Systematic Review.",
+  "authors": "Gupta A, Thompson JC, Ringel NE, Kim-Fine S, Ferguson LA, Blank SV, Iglesia CB, Balk EM, Secord AA, Hines JF, Brown J, Grimes CL.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1001/jamanetworkopen.2024.10706",
+  "pmcid": "PMC11079690",
+  "url": "https://europepmc.org/article/PMC/PMC11079690",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11079690/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "Importance Unlike other surgical specialties, obstetrics and gynecology (OB-GYN) has been predominantly female for the last decade. The association of this with gender bias and sexual harassment is not known. Objective To systematically review the prevalence of sexual harassment, bullying, abuse, and discrimination among OB-GYN clinicians and trainees and interventions aimed at reducing harassment in OB-GYN and other surgical specialties. Evidence review A systematic search of PubMed, Embase, and ClinicalTrials.gov was conducted to identify studies published from inception through June 13, 2023.: For the prevalence of harassment, OB-GYN clinicians and trainees on OB-GYN rotations in all subspecialties in the US or Canada were included. Personal experiences of harassment (sexual harassment, bullying, abuse, and discrimination) by other health care personnel, event reporting, burnout and exit from medicine, fear of retaliation, and related outcomes were included. Interventions across all surgical specialties in any country to decrease incidence of harassment were also evaluated. Abstracts and potentially relevant full-text articles were double screened.: Eligible studies were extracted into standard forms. Risk of bias and certainty of evidence of included research were assessed. A meta-analysis was not performed owing to heterogeneity of outcomes. Findings A total of 10 eligible studies among 5852 participants addressed prevalence and 12 eligible studies among 2906 participants addressed interventions. The prevalence of sexual harassment (range, 250 of 907 physicians [27.6%] to 181 of 255 female gynecologic oncologists [70.9%]), workplace discrimination (range, 142 of 249 gynecologic oncologists [57.0%] to 354 of 527 gynecologic oncologists [67.2%] among women; 138 of 358 gynecologic oncologists among males [38.5%]), and bullying (131 of 248 female gynecologic oncologists [52.8%]) was frequent among OB-GYN respondents. OB-GYN trainees commonly experienced sexual harassment (253 of 366 respondents [69.1%]), which included gender harassment, unwanted sexual attention, and sexual coercion. The proportion of OB-GYN clinicians who reported their sexual harassment to anyone ranged from 21 of 250 AAGL (formerly, the American Association of Gynecologic Laparoscopists) members (8.4%) to 32 of 256 gynecologic oncologists (12.5%) compared with 32.6% of OB-GYN trainees. Mistreatment during their OB-GYN rotation was indicated by 168 of 668 medical students surveyed (25.1%). Perpetrators of harassment included physicians (30.1%), other trainees (13.1%), and operating room staff (7.7%). Various interventions were used and studied, which were associated with improved recognition of bias and reporting (eg, implementation of a video- and discussion-based mistreatment program during a surgery clerkship was associated with a decrease in medical student mistreatment reports from 14 reports in previous year to 9 reports in the first year and 4 in the second year after implementation). However, no significant decrease in the frequency of sexual harassment was found with any intervention. Conclusions and relevance This study found high rates of harassment behaviors within OB-GYN. Interventions to limit these behaviors were not adequately studied, were limited mostly to medical students, and typically did not specifically address sexual or other forms of harassment.",
+  "raw_path": "01_raw/europepmc_xml/PMC11079690.xml",
+  "text_path": "02_text/europepmc/PMC11079690.txt",
+  "raw_bytes": 114597,
+  "text_chars": 26755,
+  "raw_sha256": "99d5f21d5f8ddb9467c49c4dbc3b4398293017d9bda8d9d87f5fbf3f59052aa1",
+  "text_sha256": "40733b2dea5ed94c12294c5cded22fb780248fc6d74f40e942cc6f8759aa8c66",
+  "retrieved_at": "2026-10-26T13:13:12.739858+00:00"
+}

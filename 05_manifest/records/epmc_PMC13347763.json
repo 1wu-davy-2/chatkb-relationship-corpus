@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13347763",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Economic Costs and Benefits of the Digital OurRelationship Program for Distressed Couples.",
+  "authors": "Doss BD, Guttman S, Metser-Waldman M, Ajmera N, Dopp A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/famp.70177",
+  "pmcid": "PMC13347763",
+  "url": "https://europepmc.org/article/PMC/PMC13347763",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13347763/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "Relationship distress is a prevalent issue with significant economic and societal consequences, including increased mental and physical health problems, decreased workplace productivity, and increased absences. Although couple therapy has been shown to improve relationship and individual well-being, its high costs limit accessibility. Digital relationship interventions provide a cost-effective alternative. However, limited research has assessed the cost-benefit of such programs using experimental designs. This study conducted a cost-benefit analysis of the OurRelationship program using data from two randomized controlled trials (RCTs). The Washington State Institute for Public Policy (WSIPP) cost-benefit model was applied to quantify economic benefits across four domains-depression, anxiety, alcohol misuse, and insomnia-relative to a waitlist control. Program costs were estimated at $280 per individual, and benefits were assessed in terms of healthcare savings, productivity gains, and labor market outcomes. The primary analysis found that, for every dollar spent on the OurRelationship program, $6.60 was saved in societal costs. Sensitivity analyses suggested benefit-cost ratios ranging from $1.88 to $22.06 depending on assumptions regarding the number of participants, duration of effects, and magnitude of program impact. Findings suggest that the OurRelationship program yields substantial economic benefits, making it a viable investment for policymakers, employers, and healthcare systems. The study supports broader implementation of efficacious digital relationship interventions and highlights the importance of economic evaluations in guiding funding decisions for relationship support programs. Further research should explore the long-term benefits and applicability across diverse populations.",
+  "raw_path": "01_raw/europepmc_xml/PMC13347763.xml",
+  "text_path": "02_text/europepmc/PMC13347763.txt",
+  "raw_bytes": 120040,
+  "text_chars": 41741,
+  "raw_sha256": "f00ecc8ba5063abf8969f4dd25d809a38e2f46cdb6fee7de7f364c0b3512264a",
+  "text_sha256": "389d99700fdf6690d5bea013adfeb0e2364668dd3ba0f8c5eb685cb1c945c5b9",
+  "retrieved_at": "2026-10-25T15:38:45.724788+00:00"
+}

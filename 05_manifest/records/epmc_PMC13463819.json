@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13463819",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Prevalence and correlates of unprotected casual sex among sexually experienced college students in Guangxi: a cross-sectional study.",
+  "authors": "Qin J, Lin Z, He J, Qin W, Liu J, Huang X, Su Q, Ye L, Liang H, Zheng Y, Liang B, Cen P.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12981-026-00899-w",
+  "pmcid": "PMC13463819",
+  "url": "https://europepmc.org/article/PMC/PMC13463819",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13463819/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "Background Risky sexual behavior significantly contributes to sexually transmitted infections (STIs) among Chinese college students, yet data on unprotected casual sex remain limited. This study investigated the prevalence and associated factors of unprotected casual sex among sexually experienced students in Guangxi. Methods A cross‑sectional online survey was conducted from October 2020 to March 2021among students from 16 colleges in Guangxi, using multistage stratified cluster sampling. Firth's penalized likelihood multivariable logistic regression was used to identify factors associated with unprotected casual sex. Stratified analyses were then conducted according to sexual orientation, and interaction terms were added to test for cross-group differences. Results Among 12,847 sexually experienced students, 5.9% reported engaging in unprotected casual sex in the past year. In multivariate analysis, factors negatively associated with unprotected casual sex included higher level of HIV-related knowledge (OR = 0.55, 95% CI 0.38-0.80), neutral (OR = 0.57, 95% CI 0.37-0.88) or accepting attitudes (OR = 0.38, 95% CI 0.26-0.56) toward premarital cohabitation, and neutral attitudes on engaging in one-night stands (OR = 0.65, 95% CI 0.44-0.95). In contrast, having more than five sexual partners (OR = 1.60, 95% CI 1.10-2.31), seeking sexual partners online (OR = 5.04, 95% CI 4.00-6.38), and receiving HIV testing in the past year (OR = 1.70, 95% CI 1.30-2.22) were positively associated with unprotected casual sex. Conclusion The prevalence of unprotected casual sex was low among sexually experienced college students in Guangxi. Unprotected casual sex was associated with HIV-related knowledge, HIV testing history, acceptance of premarital cohabitation, multiple sexual partners, and the behavior of seeking sexual partners online. These findings suggest that targeted interventions addressing the modifiable factors are of great significance for reducing unprotected casual sex and STIs risk in this population.",
+  "raw_path": "01_raw/europepmc_xml/PMC13463819.xml",
+  "text_path": "02_text/europepmc/PMC13463819.txt",
+  "raw_bytes": 121162,
+  "text_chars": 33512,
+  "raw_sha256": "5175f6ef91a5ab41c41e6f4472ee6dac23f3ebe3aedece9e082f5dac251b644e",
+  "text_sha256": "29b693af959fc3830c5b90db05d1d42e2ac396cab32b737e2848ac2dd0f47d41",
+  "retrieved_at": "2026-10-26T12:53:33.281649+00:00"
+}

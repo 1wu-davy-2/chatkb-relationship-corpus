@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12257991",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Strategy or Necessity? The Determinants of Marriage Between Relatives in the Barcelona Area, Sixteenth-Nineteenth Centuries.",
+  "authors": "Ruíz García J, Pujadas-Mora JM, López-Villanueva C.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1002/ajhb.70106",
+  "pmcid": "PMC12257991",
+  "url": "https://europepmc.org/article/PMC/PMC12257991",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12257991/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_market"
+  ],
+  "abstract": "Consanguineous marriages illustrate the complex interplay between environmental and social factors in family formation. However, there remains a significant lack of quantitative studies exploring this phenomenon in preindustrial contexts. In this sense, this study examines the intensity and the structural and strategic determinants of consanguineous marriages in the Barcelona area between the 16th and 19th centuries, utilizing the unique Barcelona Historical Marriage Database. Methodologically, the isonymy method (spouses with matching surnames) was used to estimate the level of consanguinity (structural and strategic), while binary logistic regression models were constructed to analyze the social and territorial patterns of these marriages. The main findings indicate that consanguinity in the Barcelona area remained limited until the 19th century, mirroring European trends, though to a lesser degree. The nobility strategically adopted consanguineous marriages from the early modern period, while the peasantry largely avoided them, relying instead on primogeniture to preserve family assets. By the 19th century, the emerging bourgeoisie increasingly turned to consanguinity as a means of strengthening social networks and establishing class identity rather than merely preserving material heritage. Furthermore, the marriage market size and contextual factors-such as decreasing adult mortality and reduced dispensation costs-significantly influenced the rise of consanguineous unions.",
+  "raw_path": "01_raw/europepmc_xml/PMC12257991.xml",
+  "text_path": "02_text/europepmc/PMC12257991.txt",
+  "raw_bytes": 235094,
+  "text_chars": 55842,
+  "raw_sha256": "2bc7a87ff20899a52eda07c21196f1c62dcc27b350b953244b1b623e671b52c2",
+  "text_sha256": "f5c9a7274c9b83272f4c7999044e103abf7d0b183cc3677a03fa86b4b1ce7218",
+  "retrieved_at": "2026-10-25T15:30:10.295057+00:00"
+}

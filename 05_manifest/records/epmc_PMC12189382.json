@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12189382",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Phubbing Behaviour: A Bibliometric Analysis of Scientific Production †",
+  "authors": "Cebollero-Salinas A, Gutiérrez-Nieto B, Cano-Escoriaza J.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15060745",
+  "pmcid": "PMC12189382",
+  "url": "https://europepmc.org/article/PMC/PMC12189382",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12189382/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "phubbing"
+  ],
+  "abstract": "Phubbing refers to the act of ignoring someone in a face-to-face conversation by paying more attention to a mobile phone. This practice, although common, has been identified as harmful and deserves to be considered a problem. As a result, it has captured the attention of the scientific community, with a significant increase in studies in recent years. However, there is a lack of bibliometric analyses examining existing research on this topic, which would be useful in guiding future studies. This article seeks to fill that gap by providing a detailed bibliometric analysis of phubbing. It analyses the entire production in the Web of Science database between 1985 and 2022 (199 articles and 82 keywords). The study employs citation, co-occurrence, and co-citation analysis techniques using scientific maps created with VOSviewer software. The results indicate that most research has focused on how phubbing affects romantic relationships, with less emphasis on other types of relationships such as family, work, or friends. Areas that require further research are identified, such as motivations for internet use, the tendency to compare oneself on social networks, impulsivity, and the influence of executive functions on phubbing. Further exploration of the relationship between phubbing and other disorders is also suggested. This analysis will serve as a guide and stimulus for future research, offering valuable resources for professionals in psychology, health, and education.",
+  "raw_path": "01_raw/europepmc_xml/PMC12189382.xml",
+  "text_path": "02_text/europepmc/PMC12189382.txt",
+  "raw_bytes": 202661,
+  "text_chars": 47479,
+  "raw_sha256": "d0d2e3bcd73f5f4ce8d11a2f341cb84875f66d691f0b1cc3f5fddcd79016664c",
+  "text_sha256": "ab743137c90f55b136de9d44229d996169379c89aba986d0bc63592378926576",
+  "retrieved_at": "2026-10-25T15:29:27.992133+00:00"
+}

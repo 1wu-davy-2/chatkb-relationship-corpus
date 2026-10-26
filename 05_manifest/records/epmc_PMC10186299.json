@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10186299",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Parental exhaustion during COVID-19 pandemic: links to relationship outcomes and dyadic coping.",
+  "authors": "Carvalho M, Matias M.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1007/s12144-023-04658-2",
+  "pmcid": "PMC10186299",
+  "url": "https://europepmc.org/article/PMC/PMC10186299",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10186299/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "The COVID-19 pandemic and lockdown altered families? routines, from telework imposition to performing additional childcare, as children started studying at home. Adapting to these demands can have effects on couples' relationships. This study aimed to analyze couples? experiences of parental exhaustion during the lockdown and to understand its links to relationship satisfaction and conflict frequency. It also explored how couples' internal resources (e.g., dyadic coping) buffered these effects. We examined data from 210 individuals in a romantic relationship who were cohabiting with their partners, teleworking, and had children under 18. Absolute values of parental exhaustion and relationship quality were not severe, but there was evidence that parental exhaustion contributed to decreasing relationship satisfaction and increasing conflict. Positive forms of dyadic coping were found to moderate only the adverse effects on conflict frequency. Implications of these results to couple's support under stressful events are provided.",
+  "raw_path": "01_raw/europepmc_xml/PMC10186299.xml",
+  "text_path": "02_text/europepmc/PMC10186299.txt",
+  "raw_bytes": 107488,
+  "text_chars": 40779,
+  "raw_sha256": "d7137297bf97a899f3b94209b8a3408a7c37e5526883c79b1dcd0694a51a9419",
+  "text_sha256": "17778e515285cde533dbb55d90a8bbb2d92ff5a88e8434e80085bb277de60640",
+  "retrieved_at": "2026-10-25T15:38:20.610394+00:00"
+}

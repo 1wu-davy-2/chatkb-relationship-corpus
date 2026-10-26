@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13422616",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Ten-Year Latent Trajectories of Global Function and Their Associations with Social Relationship Factors: A Traumatic Brain Injury Model Systems Study.",
+  "authors": "Feigel ED, Mastrodicasa M, Luster CB, Finegan B, Guo D, Lewis CW, Troadec MM, Olsen B, Fuentes I, Giacino JT, Barzilay R, Daneshvar DH.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/2689288x261442480",
+  "pmcid": "PMC13422616",
+  "url": "https://europepmc.org/article/PMC/PMC13422616",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13422616/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "The Glasgow Outcome Scale-Extended (GOS-E) measures global functional recovery status following traumatic brain injury (TBI). We aimed to identify 10-year latent GOS-E trajectories and examine their associations with social relationship factors at 1 year and over 10 years post-injury. A total of 4,564 participants from the TBI Model Systems dataset with GOS-E at 1-, 2-, 5-, and 10-year post-discharge were included. Latent class growth analysis identified trajectory classes, with the optimal model selected based on fit indices. Social relationship factors were assessed using the social subscale of the Participation Assessment with Recombined Tools-Objective, including total and seven-item scores at 1 year and over 10 years post-injury. Multinomial logistic regression examined associations between social relationship factors and trajectory membership, adjusting for covariates ( α = 0.05). Four-class model solution revealed the best model fit: High Function (46.3%), Declining Function (6.0%), Improving Function (29.7%), and Low Sustained Function (18.0%). At 1 year post-injury, relative to a High Function group, trajectories showed higher odds of living with a partner, being in an intimate relationship, and having a close friend to confide in (odds ratios [ORs]: 1.08-1.21, p p p p < 0.05). Ten-year GOS-E trajectory modeling post-TBI identified four subgroups: high, improving, nonlinear decline, and low sustained function. Trajectories associated with functional disability and improvement were associated with having confided friendships, intimate relationships, and cohabitation with partners, and fewer weekly social engagements at 1 year post-injury, with associations strengthening over time. Social relationship factors may offer contextual insight into global functional status following TBI.",
+  "raw_path": "01_raw/europepmc_xml/PMC13422616.xml",
+  "text_path": "02_text/europepmc/PMC13422616.txt",
+  "raw_bytes": 244776,
+  "text_chars": 57059,
+  "raw_sha256": "5a10e404b11d908c4617a6f506d76c9fb7879c785a140444ba338561ebd48747",
+  "text_sha256": "2bd3697ddc578b04b58607292ba6d562ff0b259f5373083dba645082187c47e8",
+  "retrieved_at": "2026-10-25T15:41:25.696278+00:00"
+}

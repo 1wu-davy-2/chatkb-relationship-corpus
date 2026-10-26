@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12445260",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Attachment Anxiety and Relationship Satisfaction in the Digital Era: The Contribution of Social Media Jealousy and Electronic Partner Surveillance.",
+  "authors": "Métellus S, Vaillancourt-Morel MP, Brassard A, Daspe MÈ.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/jmft.70074",
+  "pmcid": "PMC12445260",
+  "url": "https://europepmc.org/article/PMC/PMC12445260",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12445260/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Social media platforms (e.g., Facebook, Instagram) are woven into modern romantic relationships, particularly among young adults. Grounded in the attachment framework, this study expands on previous literature by using a longitudinal design to examine social media jealousy and electronic partner surveillance as mediators between attachment anxiety and relationship satisfaction. Over a 2-year span, 322 young adults aged 18-29 years and in a romantic relationship completed questionnaires about their social media use, attachment orientation, and relationship satisfaction. Results showed that social media jealousy was associated with more electronic partner surveillance, and lower relationship satisfaction 1 year later. Additionally, although longitudinal support for the association between attachment anxiety and relationship satisfaction was found, it was no longer significant when accounting for the more proximal influence of social media-related jealousy and electronic partner surveillance. These findings emphasize the interplay between social media use and young couples' relationship functioning over time.",
+  "raw_path": "01_raw/europepmc_xml/PMC12445260.xml",
+  "text_path": "02_text/europepmc/PMC12445260.txt",
+  "raw_bytes": 157689,
+  "text_chars": 42940,
+  "raw_sha256": "bfa689ac0bb6b957bd95c91c19887067856f4f2754b80c96cbd25da8ab245229",
+  "text_sha256": "4bf34a9a55c967ea1640c5b7124550a1c5cd77dd672467dfb110325cac40ca9f",
+  "retrieved_at": "2026-10-25T15:38:01.837058+00:00"
+}

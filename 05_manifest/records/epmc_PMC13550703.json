@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13550703",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Silent Rejection: The Indirect Path From Partner Phubbing to Psychological Well-Being Through Self-Esteem and Romantic Loneliness.",
+  "authors": "Doğru MC, Türk Kurtça T.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1002/jcop.70146",
+  "pmcid": "PMC13550703",
+  "url": "https://europepmc.org/article/PMC/PMC13550703",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13550703/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Romantic relationships play an important role in individuals' psychological well-being. However, with the widespread use of digital technologies, these relationships may face new challenges. Partner phubbing refers to an individual's preoccupation with their phone during face-to-face interactions with a romantic partner and may weaken relational bonds. In this context, it is important to examine how this form of digital disengagement in romantic relationships is associated with individuals' psychological well-being, as well as the mediating variables that may help explain this relationship. The study included 1627 heterosexual young adults (821 females, 806 males; age range = 18-35, M = 21.63) recruited through convenience sampling. The findings indicated that partner phubbing was associated with lower self-esteem and higher levels of romantic loneliness. In the serial mediation model, self-esteem and romantic loneliness fully mediated the relationship between partner phubbing and psychological well-being. Identifying the mediating roles of self-esteem and romantic loneliness may help clarify how partner phubbing is associated with individuals' internal evaluations and relationship experiences. These findings may contribute to the development of targeted interventions in clinical and counseling practice by illustrating how communication problems in romantic relationships affect psychological well-being as part of broader social interaction patterns.",
+  "raw_path": "01_raw/europepmc_xml/PMC13550703.xml",
+  "text_path": "02_text/europepmc/PMC13550703.txt",
+  "raw_bytes": 130093,
+  "text_chars": 43355,
+  "raw_sha256": "717e4abd7e7937f41d8d63be3448e8a8241d4fc0a5c72b7b2e528dec1af904a6",
+  "text_sha256": "ed9a14dcedd8089d7a498467fb2371a4a3b5828c8b7569577d37aa564e2d6af1",
+  "retrieved_at": "2026-10-25T13:47:30.926950+00:00"
+}

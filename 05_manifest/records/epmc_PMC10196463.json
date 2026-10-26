@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10196463",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring the relationship between gratitude and depression among older adults with chronic low back pain: a sequential mediation analysis.",
+  "authors": "Makhoul M, Bartley EJ.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpain.2023.1140778",
+  "pmcid": "PMC10196463",
+  "url": "https://europepmc.org/article/PMC/PMC10196463",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10196463/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gratitude"
+  ],
+  "abstract": "Introduction Gratitude has been identified as a key factor in a number of positive health-related outcomes; however, the mechanisms whereby gratitude is associated with well-being among older adults with chronic pain are poorly understood. Using the Positive Psychological Well-Being Model as a theoretical framework, the objective of the present study was to examine the serial mediating effects of social support, stress, sleep, and tumor necrosis factor-alpha (TNF-α) on the relationship between gratitude and depressive symptoms. Methods A total sample of 60 community-dwelling older adults with chronic low back pain (cLBP) provided blood samples for high-sensitivity TNF-α and completed the Gratitude Questionnaire, Perceived Stress Scale, and the PROMIS Emotional Support, Sleep Disturbance, and Depression forms. Descriptive statistics, correlation analyses, and serial mediation analyses were performed. Results Gratitude was negatively associated with perceived stress, sleep disturbance, and depression, and was positively associated with social support. No significant association was observed between gratitude and TNF-α. After controlling for age and marital status, analyses revealed that perceived stress and sleep disturbance sequentially mediated the association between gratitude and depressive symptoms. Conclusion Perceived stress and sleep disturbance may be potential mechanistic pathways by which gratitude impacts negative well-being. Targeting gratitude as a protective resource may be a potential therapeutic tool to improve psychological and behavioral outcomes in older adults with cLBP.",
+  "raw_path": "01_raw/europepmc_xml/PMC10196463.xml",
+  "text_path": "02_text/europepmc/PMC10196463.txt",
+  "raw_bytes": 165009,
+  "text_chars": 35216,
+  "raw_sha256": "de3ac371b3be77615e048df0482cb3d128612972417ea8721477ea39d255d1c3",
+  "text_sha256": "1e19a725c279214f1724fb6e15ce8ad67d210158c9058d2014280a291644c9a5",
+  "retrieved_at": "2026-10-25T15:30:52.951434+00:00"
+}

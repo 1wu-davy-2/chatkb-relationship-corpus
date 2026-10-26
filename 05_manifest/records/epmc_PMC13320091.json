@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13320091",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The exploitation argument against artificial companionship.",
+  "authors": "VandenHombergh J.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s43681-026-01064-9",
+  "pmcid": "PMC13320091",
+  "url": "https://europepmc.org/article/PMC/PMC13320091",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13320091/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "arranged_marriage"
+  ],
+  "abstract": "There is increasing interest in the use of artificial intelligence for companionship. Most resistance to this proposal appeals to the risk of deception: the idea that, because they lack the relevant mental states, artificial companions cannot authentically befriend their users. In this paper, I argue that it would be morally impermissible to befriend artificial companions even if there was no deception involved in doing so. This is because, without deception, such befriending would become exploitative : it would require users to take unjust advantage of certain vulnerabilities required for authentic friendship. I make the premises of this argument explicit and defend each in turn, both positively and from various objections. The resulting view is one on which-barring some interesting alternatives raised by those objections-non-deceptive artificial companionship is analogous to knowing participation in an arranged marriage.",
+  "raw_path": "01_raw/europepmc_xml/PMC13320091.xml",
+  "text_path": "02_text/europepmc/PMC13320091.txt",
+  "raw_bytes": 142652,
+  "text_chars": 38179,
+  "raw_sha256": "9f1a7b971567fc040fba0591e4f4f99fc0bb972de700385eff807d6072ba126c",
+  "text_sha256": "ac0bad6b780f817b90f09767cadac318e5080e5d0ea3e9a290e28b8a054a55ca",
+  "retrieved_at": "2026-10-25T13:48:29.956320+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12987719",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Leveraging multimodal machine learning for accurate risk identification of intimate partner violence.",
+  "authors": "Gu J, Carballo KV, Ma Y, Bertsimas D, Khurana B.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1038/s44294-025-00126-3",
+  "pmcid": "PMC12987719",
+  "url": "https://europepmc.org/article/PMC/PMC12987719",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12987719/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Intimate partner violence (IPV) refers to the abuse from previous or current partners. It is a widespread but underreported public health concern that has a wide range of negative effects on the physical and mental health of those affected. This work presents machine learning models for the early detection of IPV in clinical settings, developed with a dataset of female patients who sought help at a domestic abuse intervention and prevention center of a major hospital in the United States. Utilizing tabular clinical data and unstructured clinical notes, we build single-modality and multimodal models for different data availability scenarios. Our multimodal model can identify patients at risk of IPV with an AUC of 0.88 and years before patients seek help. We validated the model on patients who did not seek help at the intervention center and patients from another hospital in the same integrated network with comparable performance.",
+  "raw_path": "01_raw/europepmc_xml/PMC12987719.xml",
+  "text_path": "02_text/europepmc/PMC12987719.txt",
+  "raw_bytes": 85316,
+  "text_chars": 41300,
+  "raw_sha256": "046f435db11f7cb85ffb746a05228a461d7d7c63a5911255da2daf12fd434889",
+  "text_sha256": "9e6de11f2d648757cf68b91df84db685c7bb862dc4e6a3fec35c933420e68e6f",
+  "retrieved_at": "2026-10-25T13:54:55.169177+00:00"
+}

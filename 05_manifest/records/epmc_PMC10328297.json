@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10328297",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Examining the attitudes of sexually abused and non-abused individuals towards marriage in terms of ambivalent sexism.",
+  "authors": "Çelik E, Dombak K, Kaya M, Sahranç Ü, Makas S, Koçak L, Takunyacı M, Bekir S.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0288110",
+  "pmcid": "PMC10328297",
+  "url": "https://europepmc.org/article/PMC/PMC10328297",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10328297/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_attitudes"
+  ],
+  "abstract": "The research aims to examine the attitudes of individuals who are victims of abuse and those who are not towards marriage in terms of ambivalent sexism. The research study group consists of 718 individuals between the ages of 18-48. Research data were collected with the Inonu Marriage Attitude Scale and Ambivalent Sexism Inventory. As a result of the correlation analysis, it was concluded that the marriage attitude was positively and significantly correlated with hostile and protective sexism. However, since the relationship between hostile sexism and attitudes towards marriage is lower than that of protective sexism, hostile sexism was not included in the model as a control variable. In the covariance analysis, it is seen that protective sexism and sexual abuse predict the attitude towards marriage at a statistically significant level. In addition, when the effect of sexual abuse on the attitude towards marriage was examined by controlling the protective sexism variable, it was found that it was statistically significant without the effect of sexism. According to the findings, it was determined that individuals who were not victims of sexual abuse had higher attitudes towards marriage than those who were victims.",
+  "raw_path": "01_raw/europepmc_xml/PMC10328297.xml",
+  "text_path": "02_text/europepmc/PMC10328297.txt",
+  "raw_bytes": 125682,
+  "text_chars": 21349,
+  "raw_sha256": "85647874142522d711ac1cea4114e8ea99a615630d714482529b47811a49d7f5",
+  "text_sha256": "a33eb7c262b45fcae5faf0148326a57deca9a0d05bb4a4bd86f026a1c3872cb6",
+  "retrieved_at": "2026-10-25T15:35:23.990205+00:00"
+}

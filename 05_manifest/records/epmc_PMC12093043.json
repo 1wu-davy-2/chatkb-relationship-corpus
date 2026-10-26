@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12093043",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"Be Open to All Those Ways That People Can Live Their Lives:\" LGBTQ+ Client Recommendations for Adapting Emotionally Focused Couple Therapy.",
+  "authors": "Edwards C, Wittenborn AK, Allan R.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/jmft.70037",
+  "pmcid": "PMC12093043",
+  "url": "https://europepmc.org/article/PMC/PMC12093043",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12093043/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "Emotionally focused couple therapy (EFCT) is an empirically supported treatment for relationship distress. Yet, despite EFCT's substantial evidence base, to date, there have been no studies that have integrated LGBTQ+ clients' experiences and therapeutic needs into the EFCT process. Thirty-five EFCT clients participated in theater testing focus groups to generate client recommendations for the use of EFCT for LGBTQ+ relationships. Data were analyzed using thematic analysis. Participants drew on their own lived experiences, their experiences receiving EFCT, and EFCT video observation to make recommendations about the use of EFCT for LGBTQ+ relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC12093043.xml",
+  "text_path": "02_text/europepmc/PMC12093043.txt",
+  "raw_bytes": 177459,
+  "text_chars": 60823,
+  "raw_sha256": "ba4712e95e97b5250cea212d7045d93e12a923147458ae62543e9c75721d44e5",
+  "text_sha256": "02274d6412961a8804fcf60e2730271be9454b073c34a037b98a1ef7d6bda4d5",
+  "retrieved_at": "2026-10-25T15:34:02.478605+00:00"
+}

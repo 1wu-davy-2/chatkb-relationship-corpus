@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13203380",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Impact of the COVID-19 Pandemic on Male Intimate Partner Violence Victims.",
+  "authors": "Hines DA, Bates EA, Taylor J.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/bs16050707",
+  "pmcid": "PMC13203380",
+  "url": "https://europepmc.org/article/PMC/PMC13203380",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13203380/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "The COVID-19 pandemic contributed to more severe and frequent intimate partner violence (IPV) among victims, and less availability of services; however, this research has largely been conducted on only female victims. We investigated the COVID-19 pandemic's contribution to more severe and frequent IPV among male victims, barriers to getting help, and factors contributing to both increased severity/frequency and barriers. Participants included 318 male IPV victims from English-speaking Western countries who reported being the victim of IPV during the pandemic. They completed a Qualtrics questionnaire asking about their IPV experiences, mental health, COVID-19-related experiences in general and IPV experiences in specific. Overall, 47.8% of the participants experienced an increase in frequency and/or severity of IPV victimization, with help-seeking barriers, job loss, being confined to the house with their aggressor, and prior trauma independently predicting increases. Also, 75.5% reported one or more barriers to accessing help; such barriers were independently predicted by increased severity/frequency of IPV, financial strain, relationship length, being married, using marijuana, severe depression, prior trauma, IPV stigma, and coercive control victimization. Results are discussed in terms of their consistency with the literature on female victims, and the need for gender inclusive research, service provisions, and service recommendations in light of crises such as the COVID-19 pandemic.",
+  "raw_path": "01_raw/europepmc_xml/PMC13203380.xml",
+  "text_path": "02_text/europepmc/PMC13203380.txt",
+  "raw_bytes": 182362,
+  "text_chars": 56531,
+  "raw_sha256": "1add3ccd9c67013c9e03630c28c71457f0839e92bb307dda94c397ce50f30ea9",
+  "text_sha256": "d2e3ec249edf780b376a5c6abf2e43bee5b4172a98c5c3e069c65e9739cfb173",
+  "retrieved_at": "2026-10-25T15:45:22.269390+00:00"
+}

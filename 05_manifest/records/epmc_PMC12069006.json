@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12069006",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Study partner characteristics moderate the prediction of cognitive decline in aging.",
+  "authors": "Horn O, Hickey RE, Nietert PJ, Benitez A, Aghamoosa S.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1002/alz.70240",
+  "pmcid": "PMC12069006",
+  "url": "https://europepmc.org/article/PMC/PMC12069006",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12069006/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "Introduction We investigated whether study partner characteristics moderated the ability of informant measures to predict cognitive decline in a cognitively unimpaired sample. Methods Data were from 2164 cognitively unimpaired participants from the National Alzheimer's Coordinating Center and their study partners. Composite cognition scores were calculated at baseline and first follow-up. Linear mixed models tested whether prediction of cognitive change from informant-dependent measures (Functional Activities Questionnaire [FAQ], Neuropsychiatric Inventory Questionnaire [NPI-Q], and Clinical Dementia Rating Scale Sum of Boxes [CDR-SB]) was moderated by study partner characteristics (i.e., demographics, relationship, cohabitation, duration known, frequency of visits and calls). Results Prediction of cognitive decline from FAQ and NPI-Q, but not CDR-SB, was more accurate for study partners who were cohabitants and spouses/partners versus others. There were no other significant moderations. Discussion Information from cohabitant and spousal study partners better predicted cognitive decline, but effects were modest and may not warrant stringent inclusion criteria for study partners. Highlights Study partners provide information about participant functioning in AD studies. Study partner characteristics moderated the utility of informant-dependent measures. Ratings from spousal and cohabitant study partners best predicted cognitive decline. Study partner demographics, duration known, and frequency of contact had no effects. These moderators had modest effect sizes in this cognitively unimpaired sample.",
+  "raw_path": "01_raw/europepmc_xml/PMC12069006.xml",
+  "text_path": "02_text/europepmc/PMC12069006.txt",
+  "raw_bytes": 115405,
+  "text_chars": 37820,
+  "raw_sha256": "0b9e72cce9765fe09a7a53bb6a2be306a4de1993ad9234f72850be801561a9f9",
+  "text_sha256": "2796ef09922238d8307c2ed4f257f76995531e17bfe8209958bd72c93d7eeb42",
+  "retrieved_at": "2026-10-25T15:47:33.228045+00:00"
+}

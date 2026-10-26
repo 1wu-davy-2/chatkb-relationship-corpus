@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10815145",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship between Solitary Masturbation and Sexual Satisfaction: A Systematic Review.",
+  "authors": "Cervilla O, Álvarez-Muelas A, Sierra JC.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/healthcare12020235",
+  "pmcid": "PMC10815145",
+  "url": "https://europepmc.org/article/PMC/PMC10815145",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10815145/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "Masturbation is a healthy sexual behavior associated with different sexual functioning dimensions, which highlights sexual satisfaction as an important manifestation of sexual wellbeing. This review aims to systematically examine studies that have associated masturbation with sexual satisfaction, both in individuals with and without a partner. Following the PRISMA statement, searches were made in the APA PsycInfo, Medline, Scopus, and Web of Science databases. The search yielded 851 records, and twenty-two articles that examined the relation between solitary masturbation and sexual satisfaction were selected. In men, a negative relation between masturbation and sexual satisfaction was observed in 71.4% of the studies, 21.4% found no such relation, and 7.2% observed a positive association. In women, 40% reported no relation, 33.3% a negative relation, and 26.7% a positive one. The negative association between solitary masturbation and sexual satisfaction is consistent with the previously proposed compensatory role of masturbation, especially for men. In women, compared to men, the complementary role of masturbation in relation to sexual relationships is observed to a greater extent and is associated more closely with sexual health. The importance of including different parameters beyond the masturbation frequency in future studies to explore its relation with sexual satisfaction is emphasized. This systematic review is registered in PROSPERO (CRD42023416688).",
+  "raw_path": "01_raw/europepmc_xml/PMC10815145.xml",
+  "text_path": "02_text/europepmc/PMC10815145.txt",
+  "raw_bytes": 193229,
+  "text_chars": 30648,
+  "raw_sha256": "a274560285f1d5647c03e5c05d21d512422021af5d5ae26f5163ad932fd19be9",
+  "text_sha256": "e651bd30b6c0811b48d491c00fa21651ac3f953d1ac9ad6a994e861f6ee265ed",
+  "retrieved_at": "2026-10-26T13:11:01.959775+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11979529",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Evaluating a Digital Health Tool Designed to Improve Low Sexual Desire in Women: Mixed-Methods Implementation Science Study.",
+  "authors": "Brotto LA, Stephenson KR, Marshall N, Balvan M, Okara Y, Mahar EA.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.2196/69828",
+  "pmcid": "PMC11979529",
+  "url": "https://europepmc.org/article/PMC/PMC11979529",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11979529/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_therapy_interventions"
+  ],
+  "abstract": "Background Sexual health difficulties affect up to 30% of women, with desire and arousal problems being the most prevalent. While cognitive behavioral therapy and mindfulness-based therapy are effective treatments, access is limited by barriers such as specialist shortages, cost, and embarrassment. Web-based interventions offer a potential solution by providing self-paced, cost-effective treatments. eSense, a digital health program, offers cognitive behavioral therapy and mindfulness-based therapy skills targeted to women with low sexual desire, and previous trials find eSense to be highly feasible and efficacious. Objective The goal of the present implementation science study was to use the RE-AIM (Reach, Effectiveness, Adoption, Implementation, and Maintenance of Implementation) framework to assess the integration of eSense into several sexual health clinics. We chose the RE-AIM framework because it addresses both dissemination (eg, reach) and implementation of an intervention. Methods A total of 14 specialty clinics participated, and we report on the reported experiences of those clinics in implementing eSense. We also examined responses from 12 women on waitlists to receive sex therapy or sexual medicine care. Results Per clinic outcomes, all aspects of implementation (reach, effectiveness, adoption, implementation, and maintenance) were in the moderate to high range for clinics, reporting that offering eSense helped them overcome negative feelings associated with their long clinic waitlists. The majority expressed a need for eSense and could see how it overcame the limitations of traditional therapy. Nearly all expressed a wish to continue offering eSense to patients after the implementation study was complete. One caveat was that half of the clinics noted cost as a key issue for future implementation, and one-third noted that the administrative burden of implementing eSense as a standard of care may be challenging. For individual users, the majority expressed an interest in knowing more about eSense and a desire to use eSense, though most of these did not complete the program in its entirety. Users experienced a significant improvement in sex-related distress with no clinically meaningful change in other outcomes and a high level of satisfaction with eSense. Most also reported doing things differently in their sexual lives after participating in eSense. Conclusions We found that eSense demonstrates potential as a digital intervention for sexual difficulties for women, particularly concerning its moderate implementation outcomes and also because of its ability to reduce sexual distress. Future studies should address the barriers identified for broader adoption of eSense in clinical settings. Trial registration ClinicalTrials.gov NCT05168371; https://clinicaltrials.gov/study/NCT05168371.",
+  "raw_path": "01_raw/europepmc_xml/PMC11979529.xml",
+  "text_path": "02_text/europepmc/PMC11979529.txt",
+  "raw_bytes": 145818,
+  "text_chars": 52014,
+  "raw_sha256": "cf1d6ade8f583778799aad4ddb4550fbdb40416458d7c873cbaebdd8976da546",
+  "text_sha256": "b65d17c59f6b7cd08305c88994ec6b5aa2c352a41acbe2ab9d1bc1a14d22fc04",
+  "retrieved_at": "2026-10-26T13:09:32.145040+00:00"
+}

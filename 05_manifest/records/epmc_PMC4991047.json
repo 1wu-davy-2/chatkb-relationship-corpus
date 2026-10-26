@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4991047",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Strategically Funny: Romantic Motives Affect Humor Style in Relationship Initiation.",
+  "authors": "DiDonato TE, Jakubiak BK.",
+  "year": "2016",
+  "journal": "",
+  "doi": "10.5964/ejop.v12i3.1105",
+  "pmcid": "PMC4991047",
+  "url": "https://europepmc.org/article/PMC/PMC4991047",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4991047/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "first_date"
+  ],
+  "abstract": "Not all humor is the same, yet little is known about the appeal of specific humor styles in romantic initiation. The current experimental study addresses this gap by investigating how romantic motives (short-term or long-term) affect individuals' anticipated use of, and response to, positive humor and negative humor. Heterosexual participants (n = 224) imagined the pursuit of either a desired short-term or long-term relationship, indicated the extent to which they would produce positive and negative humor, and reported how their own interest would change in response to the imaginary target's use of positive or negative humor. Results revealed that individuals are strategic in their humor production as a function of relational motives. Individuals produced positive humor in both contexts but limited their use of negative humor when pursuing a long-term relationship. The target's positive humor increased individuals' attraction, especially women's, and although negative humor boosted attraction, it did not boost attraction more for short-term than long-term relationships. Findings extend a trait-indicator model of humor and their implications are discussed in light of other theoretical perspectives.",
+  "raw_path": "01_raw/europepmc_xml/PMC4991047.xml",
+  "text_path": "02_text/europepmc/PMC4991047.txt",
+  "raw_bytes": 99789,
+  "text_chars": 40526,
+  "raw_sha256": "bb6a317a304f4fa2a41b3b623bb2ce499f86f0fb81d4ddad44ac3c87ab79b34a",
+  "text_sha256": "9f0c78dfb70186bd19b6a11255b6df994bec2fea6dd9ef99bb93c57112c112c5",
+  "retrieved_at": "2026-10-25T15:27:52.593506+00:00"
+}

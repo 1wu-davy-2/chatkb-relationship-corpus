@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12290270",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Self-Perceived Physical Attractiveness and Moral Intuitions as Mediators Between Somatic-Parental Effort and Mating Orientation.",
+  "authors": "Łukasik A, Wołpiuk-Ochocińska A.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/14747049251349052",
+  "pmcid": "PMC12290270",
+  "url": "https://europepmc.org/article/PMC/PMC12290270",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12290270/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Research suggests that physical attractiveness may be associated with more permissive moral norms, which can in turn lead to the adoption of a more liberal sexual strategy. However, different predictions arise from evolutionary Life History Theory and Moral Foundations Theory. We hypothesized that self-reported physical attractiveness and moral intuitions (innate morality) mediate the relationship between somatic-parental effort (SPE) and sociosexual desire - an indicator of mating orientation. The study involved 326 women aged 19-33 years. A sequential mediation analysis was conducted. As hypothesized, higher levels of SPE were associated with higher self-reported physical attractiveness. It was also shown that self-perceived physical attractiveness was a positive indicator of innate morality and that among all moral intuitions only Authority was a negative predictor of a preference for short-term relationships. Furthermore, in the studied women SPE was a direct positive predictor only of the intuition of Sanctity/Purity. However, the relationship between physical attractiveness in women following the slow reproductive strategy and sociosexual desire was characteristic of reproductive effort rather than somatic-parental effort. However, it was found that certain relationships between variables were in particular characteristic of women with a rural background. For this reason, the obtained results in the hypothesis context are significantly limited to this specific subpopulation of women.",
+  "raw_path": "01_raw/europepmc_xml/PMC12290270.xml",
+  "text_path": "02_text/europepmc/PMC12290270.txt",
+  "raw_bytes": 206686,
+  "text_chars": 56708,
+  "raw_sha256": "6cd9da28d874ede8fba8d99433342348672a699c05df0747e5a2fb83b4f8cc9f",
+  "text_sha256": "65f914b961dad04f2e9787d636604ea3b2eb41be8738086f4f7d61ca4201ffbd",
+  "retrieved_at": "2026-10-26T13:07:22.980100+00:00"
+}

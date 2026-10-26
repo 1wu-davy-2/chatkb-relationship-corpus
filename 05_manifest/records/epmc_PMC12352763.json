@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12352763",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Validation of the Multidimensional Sociosexual Orientation Inventory (SOI-M) in the Chilean population.",
+  "authors": "Figueroa O, Polo P, Muñoz-Reyes JA, Ferrer R, Fajardo G, Torrico-Bazoberry D.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0329036",
+  "pmcid": "PMC12352763",
+  "url": "https://europepmc.org/article/PMC/PMC12352763",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12352763/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "We used the SOI-M Multidimensional Sociosexual Orientation Inventory developed by Jackson and Kirkpatrick for validation in the Chilean population. This 3-dimensional instrument measures sociosexuality in terms of short-term mating orientation, long-term mating orientation, and sociosexual behavior. This inventory allows us to capture the deployment of reproductive strategies in men and women simultaneously (that is, in the short and long-term). We tested the psychometric properties of the instrument on a final sample of 865 subjects (247 women and 616 men) aged between 18 and 55 years old (M = 23.56; SD = 5.52). First, with a subsample (N = 172), we performed an EFA to establish dimensionality. Then, with the remaining sample (N = 693) an ESEM and CFA. We performed an ESEM for confirmatory analysis, analyzed invariance by sex and relations with other variables. We verified the existence of three factors, maintaining the 20 original items. Then, we eliminated the redundant or cross-factor loading items, thus obtaining a reduced version of 15 items and three factors. We tested and verified the convergent and divergent validity of the instrument. Also, we tested invariance by sex, establishing that the SOI-M behaves invariantly. The SOI-M is a valid and reliable instrument to measure multidimensional sociosexuality in the Chilean population.",
+  "raw_path": "01_raw/europepmc_xml/PMC12352763.xml",
+  "text_path": "02_text/europepmc/PMC12352763.txt",
+  "raw_bytes": 172785,
+  "text_chars": 35692,
+  "raw_sha256": "132f64afd6c788878a9c292b79fd356e4b7f08d738c72cb1b65e2e07b2e0bf6c",
+  "text_sha256": "deadfa4abd89057b58589209cf2cfb2980d2d498a8774057b1231bf37c33453e",
+  "retrieved_at": "2026-10-26T12:53:27.218508+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_45591",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Beadle's Dime Book of Practical Etiquette for Ladies and Gentlemen",
+  "gutenberg_id": "45591",
+  "url": "https://www.gutenberg.org/ebooks/45591",
+  "download_url": "https://www.gutenberg.org/cache/epub/45591/pg45591.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/45591.txt",
+  "text_path": "02_text/gutenberg/gut_45591_beadle_s_dime_book_of_practical_etiquett.txt",
+  "raw_bytes": 158009,
+  "text_chars": 131797,
+  "text_sha256": "8b9c27dffd4c031e94a984526311596d580e9081a633fab08781176b62bee31c",
+  "retrieved_at": "2026-10-25T15:55:15.377753+00:00"
+}

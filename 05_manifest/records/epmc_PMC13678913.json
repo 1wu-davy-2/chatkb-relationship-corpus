@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13678913",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Protocol for a parallel-group superiority randomized controlled trial comparing Sage- a couple psychotherapy- to supportive individual psychotherapy for borderline personality disorder.",
+  "authors": "Fitzpatrick S, Arunagiri V, Traynor JM, Fredborg BK, Daros AR, Crenshaw AO, Fitzpatrick D, McMain SF, Monson CM, Courey L, Liebman RE.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12888-026-08374-6",
+  "pmcid": "PMC13678913",
+  "url": "https://europepmc.org/article/PMC/PMC13678913",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13678913/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "Background Although borderline personality disorder (BPD) is associated with substantial mortality and morbidity, frontline BPD interventions are difficult to access and have suboptimal efficacy. Therefore, there is a pressing need to develop and test brief, optimized BPD interventions. BPD is associated with disrupted intimate relationships, and recent theoretical models suggest that such disruptions may play a central role in driving BPD pathology. This led to the development of Sage, a protocolized, conjoint psychotherapeutic intervention delivered to people with BPD and their intimate partners to treat BPD and simultaneously improve relationship conflict and intimate partner's mental health. While preliminary research supports the efficacy of Sage, a key next step is identifying whether Sage is more efficacious compared to standard care in improving its targets. This manuscript outlines the study protocol for a single-blind, parallel two-arm randomized controlled trial (RCT) comparing Sage to a supportive psychotherapy that is delivered separately to people with BPD and their intimate partners. Methods Couples wherein one member has BPD (target N = 152 couples) are actively being recruited. After eligibility and baseline assessments are complete, couples are randomized to Sage or Supportive Individual Psychotherapy. Weekly supervision meetings are held for both conditions by independent supervisors to ensure intervention adherence and prevent drift. Primary (BPD symptoms), secondary (relationship conflict, partner mental health), and exploratory outcomes (e.g. people with BPD's emotion dysregulation, suicidal ideation, suicidal and self-injurious behaviors, relationship satisfaction) are assessed by masked assessors at baseline, mid-intervention, post-intervention, and at a one-, three, and six-month follow-up. Generalized mixed linear models using an intent-to-treat philosophy will be conducted to examine differences between study outcomes across conditions. Discussion Results will illuminate whether Sage is an efficacious means of treating BPD and expanding intervention outcomes to include relationship conflict and partner mental health in a short timeframe. Trial registration ClinicalTrials.gov (ID NCT06458933, registered on June 12, 2024).",
+  "raw_path": "01_raw/europepmc_xml/PMC13678913.xml",
+  "text_path": "02_text/europepmc/PMC13678913.txt",
+  "raw_bytes": 213667,
+  "text_chars": 43531,
+  "raw_sha256": "e34c54f1cbccfcc2d22408f4e44e5e4100887b1d2f91bda3d6b7630ffe8281ce",
+  "text_sha256": "57cc8d1747cf87bc9096a2955bb1324934935858a6b63d69eb92f2f8b6eca185",
+  "retrieved_at": "2026-10-25T15:42:23.298385+00:00"
+}

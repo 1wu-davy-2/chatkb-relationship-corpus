@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12894202",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Grey Zones, Ambiguous Zones: A Cogenetic and Dialogical Understanding of Sexual Consent.",
+  "authors": "Obando J, Branco AU, Tateo L.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s12124-026-09975-2",
+  "pmcid": "PMC12894202",
+  "url": "https://europepmc.org/article/PMC/PMC12894202",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12894202/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types"
+  ],
+  "abstract": "In this article, we seek to articulate cogenetic and dialogical theory to understand the dynamics of ambiguities in human lives, using the phenomena of negotiating sexual relations as the empirical arena. We are interested in the factors that contribute to the maintenance of ambiguity in interpreting communicative messages in settings where experiences are characterized by ambivalence and ambiguity. We highlight ambiguity as a fundamental characteristic of social relations, arising from polysemy in the production and interpretation of signs. Most everyday social interactions express the constant need to negotiate meanings with others, and various \"misunderstandings\" (ambiguous \"grey zones\") can therefore occur. Examples of interpretations were selected from individual interviews with nine participants, four young male and five female adults, aged 20-30, to analyze and discuss metacommunication processes that are expressed (or not) during sexual intercourse from reading a story. In this process of constructing meanings.",
+  "raw_path": "01_raw/europepmc_xml/PMC12894202.xml",
+  "text_path": "02_text/europepmc/PMC12894202.txt",
+  "raw_bytes": 70068,
+  "text_chars": 47700,
+  "raw_sha256": "0c27781a76fe29558a28a692eb7af46ad40be10635e4af6c5f9347c0033d0528",
+  "text_sha256": "da14f4f338dbe6736170e93feb2bc0473d28a27218ea737dcf445c10a561ac65",
+  "retrieved_at": "2026-10-26T13:27:28.354493+00:00"
+}

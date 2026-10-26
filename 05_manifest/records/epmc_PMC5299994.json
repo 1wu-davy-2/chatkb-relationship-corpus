@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5299994",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Women prefer men who use metaphorical language when paying compliments in a romantic context.",
+  "authors": "Gao Z, Gao S, Xu L, Zheng X, Ma X, Luo L, Kendrick KM.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.1038/srep40871",
+  "pmcid": "PMC5299994",
+  "url": "https://europepmc.org/article/PMC/PMC5299994",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5299994/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Language plays an important role in romantic attachment. However, it is unclear whether the structure and topic of language use might influence potential mate choice. We investigated 124 female students' preference for compliments paid by males incorporating either literal or metaphoric (conventional/novel) language and targeting their appearance or possessions (house) throughout their menstrual cycle. Male faces paired with novel metaphorical compliments were rated as more attractive by women than those paired with literal ones. Compliments targeting appearance increased male attractiveness more than possessions. Interestingly, compliments on appearance using novel metaphors were preferred by women in a relationship during the fertile phase but by single women during the luteal phase. A similar pattern of altered face attraction ratings was subsequently shown by subjects in the absence of the verbal compliments and even though they were unable to recognize the faces. Thus the maintained attraction bias for faces previously associated with figurative language compliments appears to be unconscious. Overall this study provides the first evidence that women find men who typically use novel metaphorical language to compliment appearance more attractive than those using prosaic language or complimenting possessions. The evolutionary significance for such a language use bias in mate selection is discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC5299994.xml",
+  "text_path": "02_text/europepmc/PMC5299994.txt",
+  "raw_bytes": 126015,
+  "text_chars": 47469,
+  "raw_sha256": "1a39ca69a2c856bdff212db4eada3c52914b1af6adda4347de6255d8e18c82a0",
+  "text_sha256": "1b44ae247d3a44eb0cbf8331b6e027ac36b3be0aecbef2a8f308fdbab3896a06",
+  "retrieved_at": "2026-10-25T15:49:00.840954+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11782301",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Birth Order and Family Size of UK Biobank Subjects Identified as Asexual, Bisexual, Heterosexual, or Homosexual According to Self-Reported Sexual Histories.",
+  "authors": "Kabátek J, Blanchard R.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10508-024-03004-2",
+  "pmcid": "PMC11782301",
+  "url": "https://europepmc.org/article/PMC/PMC11782301",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11782301/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "asexuality_celibacy"
+  ],
+  "abstract": "This study used a recently developed statistical technique to investigate the relations between various elements of a subject's family background and the odds of that subject reporting a sexual history indicative of a minority sexual orientation. The subjects were 78,983 men and 92,150 women who completed relevant questionnaire items in the UK Biobank, a large-scale biomedical database of volunteers aged 40-69 years. The men were divided into three sexual minority groups-homosexual, bisexual, and asexual-and a comparison group of heterosexual men. The same was done for the women. The analytic procedure consisted of logistic regressions specifically designed to disentangle the effects of birth order and family size. The results showed that older brothers increased the odds of homosexuality in both men and women, and that older sisters increased the odds in men. In contrast, neither older brothers or older sisters affected the odds of bisexuality or asexuality in men or in women. These results suggest that birth order effects may be specific to homosexuality and not common to all minority orientations. The only family size finding was the negative association between family size and the odds of asexuality in both men and women. The outcomes of this study indicate that the maternal immune hypothesis, which was advanced to explain the relation between older brothers and homosexuality in later-born males, might have to be abandoned or else expanded to explain the findings concerning females. A few such modifications are considered.",
+  "raw_path": "01_raw/europepmc_xml/PMC11782301.xml",
+  "text_path": "02_text/europepmc/PMC11782301.txt",
+  "raw_bytes": 155755,
+  "text_chars": 55343,
+  "raw_sha256": "78b6d47ae614dbe86ff15ef8dfe8e22e78194b186b51129694266560ef4bb148",
+  "text_sha256": "1228e1e489bcc5e34f78512b9d12abe222c3bed3da460ccd7ca8be78bd933070",
+  "retrieved_at": "2026-10-26T13:07:49.332288+00:00"
+}

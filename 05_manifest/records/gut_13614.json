@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_13614",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_sexuality_science",
+  "title": "Studies in the Psychology of Sex, Volume 5",
+  "gutenberg_id": "13614",
+  "url": "https://www.gutenberg.org/ebooks/13614",
+  "download_url": "https://www.gutenberg.org/cache/epub/13614/pg13614.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "sexuality",
+    "psychology",
+    "public_domain",
+    "psychology of sex"
+  ],
+  "raw_path": "01_raw/gutenberg/13614.txt",
+  "text_path": "02_text/gutenberg/gut_13614_studies_in_the_psychology_of_sex_volume.txt",
+  "raw_bytes": 783647,
+  "text_chars": 721753,
+  "text_sha256": "00e18688a9b8f3db3ca8c8cc2e4e42be3db89fec4eb20098bd30a771242ef8e4",
+  "retrieved_at": "2026-10-26T13:00:56.628629+00:00"
+}

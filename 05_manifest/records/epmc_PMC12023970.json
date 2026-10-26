@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12023970",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "An Initial Examination of Couple Therapy for PTSD Outcomes Among Black/African American Adults: Findings from an Uncontrolled Trial with Military Dyads.",
+  "authors": "Fredman SJ, Gamaldo AA, Jenkins AIC, Le Y, Mogle JA, Monson CM, Gamaldo CE, Thorpe RJ, Hall-Clark BN, Blount TH, Fina BA, Buxton OM, Engeland CG, Rhoades GK, Stanley SM, Macdonald A, Dondanville KA, Taylor DJ, Pruiksma KE, Litz BT, Young-McCaughan S, Yarvis JS, Keane TM, Peterson AL, Consortium to Alleviate PTSD.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15040537",
+  "pmcid": "PMC12023970",
+  "url": "https://europepmc.org/article/PMC/PMC12023970",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12023970/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "Black/African American individuals experience high rates of posttraumatic stress disorder (PTSD), which is frequently chronic and undertreated in this population. Intimate relationships are a salient resource for Black/African American adults' psychological well-being. To help advance health equity, this study serves as an initial, proof-of-concept investigation of patient outcomes among Black/African American adults who received a disorder-specific couple therapy for PTSD. Participants were a subsample of seven Black/African American adults (mean age = 40.56 years, SD = 10.18; 85.7% male) who participated in an uncontrolled trial of an abbreviated, intensive, multi-couple group version of cognitive-behavioral conjoint therapy for PTSD with 24 military dyads. Treatment was delivered over 2 days in a weekend retreat format. Assessments were administered at baseline, 1 month post-retreat, and 3 months post-retreat. There were large and significant decreases in patients' PTSD symptoms based on clinicians' and patients' ratings ( d s -1.37 and -1.36, respectively) by the 3-month follow-up relative to baseline. There were also large and significant decreases in patients' depressive, anxiety, and anger symptoms ( d s -1.39 to -1.93) and a large, marginally significant decrease in patients' insomnia ( d = -0.85; p = 0.083). Patients reported a medium, non-significant increase in relationship satisfaction ( d = 0.68; p = 0.146) and a large, marginally significant increase in joint dyadic coping ( d = 0.90; p = 0.069). Findings offer preliminary evidence that treating PTSD within a couple context is a relevant strategy to reduce PTSD and comorbid symptoms among partnered Black/African American adults and a promising approach to enhance relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC12023970.xml",
+  "text_path": "02_text/europepmc/PMC12023970.txt",
+  "raw_bytes": 96137,
+  "text_chars": 26560,
+  "raw_sha256": "aeedc7286eac5a323ebd20862d2eb6b14f8a6513da1fa0305d8e016aeb676255",
+  "text_sha256": "138e025d17b21bbc16f00004e0cac67fdb02bdb1bf61f3da7a3d093dbebcfadd",
+  "retrieved_at": "2026-10-25T15:45:04.204200+00:00"
+}

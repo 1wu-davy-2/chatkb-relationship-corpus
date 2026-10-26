@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10190009",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Abusive behaviours in relationships, need satisfaction, conflict styles and relationship satisfaction: mediation and moderation roles.",
+  "authors": "Aricioglu A, Kaya S.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1186/s40359-023-01202-6",
+  "pmcid": "PMC10190009",
+  "url": "https://europepmc.org/article/PMC/PMC10190009",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10190009/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Background The current study focuses on the mediator role of abusive behaviour in romantic relationships (ABRR) in the relationship between subordination, retreat, and relationship satisfaction and the moderation role of relatedness and autonomy in the relationships between ABRR and relationship satisfaction. Methods 333 (91 men, 242 women) Turkish emerging adults in relationships participated in this research. These participants completed a measure of abusive behaviour in romantic relationship, conflict resolution styles, relationship satisfaction and need satisfaction in romantic relationship. Models 1 and 4 of Process Hayes were used in SPSS 22 to investigate moderation and mediation roles. Results According to the results, ABRR has a full mediator role in the relationship between subordination and relationship satisfaction and has a partial mediator role in the relationship between retreat and relationship satisfaction. Another result of the study showed that ABRR negatively affected relationship satisfaction and that relatedness and autonomy moderated this relationship. Moderator roles are strong when the level of relatedness and autonomy are high. Conclusions In conclusion, subordination and retreat as well as ABRR are risk factors for relationship satisfaction for individuals in romantic relationships. Our results suggest that relatedness and autonomy present an adaptive approach and protection method associated with improved relationship satisfaction. Therefore, subordination, withdrawal, ABRR, autonomy, and relatedness should be considered in relationship satisfaction assessment and couple therapies.",
+  "raw_path": "01_raw/europepmc_xml/PMC10190009.xml",
+  "text_path": "02_text/europepmc/PMC10190009.txt",
+  "raw_bytes": 78070,
+  "text_chars": 24585,
+  "raw_sha256": "a7a6e2a03b749a4f7e05ddd12e531f60d0dc208c44e40505f09160e1010ad9ce",
+  "text_sha256": "d21a7a7aac76248e006b3b0d2b00ac2fc3ddee43e06f04bc8a1a721dc6568cfb",
+  "retrieved_at": "2026-10-25T15:32:35.021237+00:00"
+}

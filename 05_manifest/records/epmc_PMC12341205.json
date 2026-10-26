@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12341205",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The romantic loneliness scale (RomLon scale): the development and validation of a novel and brief measure to assess loneliness stemming from the absence of romance in dating, hookups, and marital relationships.",
+  "authors": "Husain W, Husain MA, Ijaz F, Farrukh J, Batool F, Tahir N, Trabelsi K, Ammar A, Jahrami H.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40359-025-03208-8",
+  "pmcid": "PMC12341205",
+  "url": "https://europepmc.org/article/PMC/PMC12341205",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12341205/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "Background Despite extensive research on general loneliness, existing scales overlook romantic loneliness as an independent construct, hindering the understanding of its psychological impact. The present study aimed to develop and validate a concise instrument to assess romantic loneliness: the Romantic Loneliness Scale (RomLon scale). Method The current research was conducted in a series of three consecutive phases involving 854 participants (M age = 26.25 years, SD = 8.160; women = 64.9%). The validation of the RomLon scale involved exploratory and confirmatory factor analyses and Rasch model analysis for item‒response theory, along with convergent, divergent, and predictive validity. Results The RomLon scale, comprising four items (English) in a single factor, demonstrated excellent reliability (α = 0.919; ICC = 0.963). The model fit indices, such as CFI (0.997), TLI (0.992), RMSEA (0.065), and SRMSR (0.009), showed strong validity. Convergent validity and divergent validity were demonstrated by the strong correlation (p Conclusion The RomLon scale fills a critical gap in psychological assessment by providing a reliable tool to measure romantic loneliness, which is distinct from general loneliness scales. Its strong psychometric properties make it valuable for research and clinical applications across diverse cultures, with implications for psychosocial health, life satisfaction, and relational wellbeing.",
+  "raw_path": "01_raw/europepmc_xml/PMC12341205.xml",
+  "text_path": "02_text/europepmc/PMC12341205.txt",
+  "raw_bytes": 166038,
+  "text_chars": 60090,
+  "raw_sha256": "9e40ca08b565b3cedf83ab8bca14734fda6d7fd293648c0735c3c7ab805031ea",
+  "text_sha256": "39548b9535c26cf05f6d38f1b88ef725c2c65d958ae6814c7ed8d8ca89b59458",
+  "retrieved_at": "2026-10-25T13:49:26.720132+00:00"
+}

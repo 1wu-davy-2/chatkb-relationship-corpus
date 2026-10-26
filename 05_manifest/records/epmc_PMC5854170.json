@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5854170",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Direct and Indirect Effects of Young Adults' Relationship Status on Life Satisfaction through Loneliness and Perceived Social Support.",
+  "authors": "Adamczyk K, Segrin C.",
+  "year": "2015",
+  "journal": "",
+  "doi": "10.5334/pb.bn",
+  "pmcid": "PMC5854170",
+  "url": "https://europepmc.org/article/PMC/PMC5854170",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5854170/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "This study examined the indirect effects of relationship status (single vs. in a relationship) on life satisfaction through social and emotional (romantic and family) loneliness and perceived social support from significant others, family, and friends. Five hundred and fifty three Polish young adults (335 females and 218 males), ranging in age from 20-30 years ( M = 23.42), completed the Polish versions of the Satisfaction With Life Scale, the Social and Emotional Loneliness Scale for Adults, and the Multidimensional Scale of Perceived Social Support. The results indicated that single individuals reported significantly lower satisfaction with life and social support from a significant other, but higher romantic and social loneliness, and higher family support compared to participants in a relationship. A path analysis revealed no direct effect of relationship status on satisfaction with life. However, there were significant indirect effects from relationship status to life satisfaction though romantic, family, and social loneliness, and through perceived social support from significant others and from family. Therefore, singlehood may be deleterious to life satisfaction because of the higher loneliness and lower social support from a significant other.",
+  "raw_path": "01_raw/europepmc_xml/PMC5854170.xml",
+  "text_path": "02_text/europepmc/PMC5854170.txt",
+  "raw_bytes": 98899,
+  "text_chars": 41550,
+  "raw_sha256": "b2d8de6d12bf34c2dca6035ea72df26781d01d57ba9018279a3f23cb1f047c54",
+  "text_sha256": "dde0b79bd9733f1736dbb6ce8f426f59ddbedddee2dcbb8bd1df7ad48aa838eb",
+  "retrieved_at": "2026-10-25T15:46:06.204071+00:00"
+}

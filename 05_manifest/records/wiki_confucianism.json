@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_confucianism",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "儒家",
+  "requested_title": "儒家",
+  "url": "https://zh.wikipedia.org/wiki/%E5%84%92%E5%AE%B6",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "culture",
+    "values"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/confucianism.json",
+  "text_path": "02_text/zh_wikipedia/confucianism.txt",
+  "raw_bytes": 71695,
+  "text_chars": 24420,
+  "text_sha256": "5207dd3cec84e6aefba47c4e09871f810b1221021c2d476906481d9bb4e22021",
+  "retrieved_at": "2026-10-25T15:41:13.248874+00:00"
+}

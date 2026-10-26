@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11300203",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The impact of widowhood on mental health: anxiety, depression, and stress among widowed women in Nepal.",
+  "authors": "Mamidanna P, Thagunna NS, Dangi J, Zelman DC.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fgwh.2024.1256484",
+  "pmcid": "PMC11300203",
+  "url": "https://europepmc.org/article/PMC/PMC11300203",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11300203/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Introduction In South Asia, particularly in regions with strong patriarchal norms, widowhood is stigmatized, compounding the negative impact of grief and partner loss. This study measured the prevalence of mental health symptoms among widows in Nepal and its relationship to demographic variables. Methods This cross-sectional study surveyed 588 Nepalese widows from six districts in Nepal (mean age = 52.62, SD = 13.99) who had lost their spouses within the past two years. Participants completed the Anxiety, Depression and Stress Scale (ADSS). Analyses examined prevalence of anxiety, depression, and stress symptoms, using standard ADSS cut-points. Level of anxiety, depression, and stress symptoms measured by the ADSS in the sample were also compared with female psychiatric and nonpsychiatric normative ADSS data, and were compared with one available comparison sample (a sample of older Nepalese women). Measures of association between ADSS scores and demographic variables were computed. Results Results showed that a high percentage of the Nepalese widows reported moderate to severe symptoms of anxiety, depression, and stress. They also endorsed significantly higher levels of anxiety, depression, and stress symptoms relative to normative data and the comparison sample. Stress scores were significantly negatively correlated with age, Anxiety and Depression scores were associated with income under the poverty line, and Depression scores were associated with homemaker status. Discussion These findings confirm the high emotional distress among widowed women in Nepal, and establish the relationship between emotional distress and poverty, homemaker status, and age. These findings can inform public health efforts and mental health care providers regarding the mental health needs of widows in Nepal.",
+  "raw_path": "01_raw/europepmc_xml/PMC11300203.xml",
+  "text_path": "02_text/europepmc/PMC11300203.txt",
+  "raw_bytes": 89586,
+  "text_chars": 42924,
+  "raw_sha256": "e0017f114b31af98e3e0afe76c60f14081f3cee53a160062070956c2fc9f8af4",
+  "text_sha256": "67e4943c0180a5700a62b2a260414842e847985306c93f25c7f6543e0494fb96",
+  "retrieved_at": "2026-10-25T15:32:19.902080+00:00"
+}

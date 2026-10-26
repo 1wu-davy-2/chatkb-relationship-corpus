@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8980444",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Dark Triad and Sexual Assertiveness Predict Sexual Coercion Differently in Men and Women.",
+  "authors": "Lyons M, Houghton E, Brewer G, O'Brien F.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/0886260520922346",
+  "pmcid": "PMC8980444",
+  "url": "https://europepmc.org/article/PMC/PMC8980444",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8980444/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "Sexual coercion is a global problem that has been studied widely with regard to various characteristics of the perpetrators. The Dark Triad of personality (i.e., narcissism, Machiavellianism, and primary and secondary psychopathy) has been indicated as an important predictor of coercive cognitions and behaviors. In this study, we report findings of an online study ( N = 208), exploring the relationship between sexual coercion, the Dark Triad, and sexual assertiveness (i.e., strategies for achieving sexual autonomy). We found that the Dark Triad was a stronger predictor of sexual coercion in men than in women. In men, all the Dark Triad components were significantly, positively correlated with sexual coercion, and narcissism and Machiavellianism had significant, negative correlations with sexual assertiveness. In women, only narcissism had a significant, positive correlation with sexual coercion, and the Dark Triad traits were not correlated with sexual assertiveness. In regression analyses, controlling for shared variance between the predictor variables, high secondary psychopathy, and low sexual assertiveness emerged as significant predictors of coercion in men. Only narcissism was a significant positive predictor in women. We discuss the results with a reference to evolutionary Life History theory.",
+  "raw_path": "01_raw/europepmc_xml/PMC8980444.xml",
+  "text_path": "02_text/europepmc/PMC8980444.txt",
+  "raw_bytes": 101704,
+  "text_chars": 25098,
+  "raw_sha256": "a1626bc8ed0f7cb09038e190b93234f97f0d0afea86b88b04cfd54e5129ddd09",
+  "text_sha256": "16eeca39d81ee5e7cc289a70b570c20ac5830bf66ac9548b82938a20016fe065",
+  "retrieved_at": "2026-10-26T12:58:02.496911+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9216709",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "CortiLove: A pilot study on hair steroids in the context of being in love and separation.",
+  "authors": "Renner J, Stanulla M, Walther A, Schindler L.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1016/j.cpnec.2021.100061",
+  "pmcid": "PMC9216709",
+  "url": "https://europepmc.org/article/PMC/PMC9216709",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9216709/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "While romantic infatuation and separation influence psychological and physiological functioning, the hypothalamic-pituitary-adrenal axis with its biomarkers cortisol, dehydroepiandrosterone (DHEA), and progesterone central for coping and distress has been scarcely researched in this context. In particular, endocrine hair analyses assumed to be more valid than saliva or blood assessments for studying long-term processes have not yet been conducted in the context of romantic love. Thus, 101 female subjects in phases of infatuation ( n = 16), separation ( n = 14), long-term relationships ( n = 40), and singlehood ( n = 31) reported psychological distress and provided 1 cm hair samples for the assessment of long-term integrated cortisol, DHEA, and progesterone over the last month. Separated, infatuated, and single women exhibited higher cortisol levels than those in a long-term relationship (all p s ≤ .031), while self-reported distress was only evident in separated individuals. Further, no group differences for progesterone ( p = .602), but higher DHEA levels in the separation ( p = .009) and single group ( p = .016) compared to the long-term relationship group were detected. This is the first study showing that compared to women in long-term relationships, infatuation, separation, and single groups exhibit higher levels of physiological, but not necessarily self-reported indicators of distress. These findings, albeit on a very small and preliminary sample, are discussed in the context of the stress-buffering effect of relationships, and provide important starting points for bigger, more balanced studies combining multimodal self-report and biological markers in psychological research of romantic love.",
+  "raw_path": "01_raw/europepmc_xml/PMC9216709.xml",
+  "text_path": "02_text/europepmc/PMC9216709.txt",
+  "raw_bytes": 124978,
+  "text_chars": 34445,
+  "raw_sha256": "411789faa319ce09b403f33a7da7b1f2b3f5ad550a8ff3d7ad179dcaf686ebc1",
+  "text_sha256": "701429548fe7d32fffbf35ecfff6d52138443385a68637db40f6ab073a2eb2f9",
+  "retrieved_at": "2026-10-25T15:38:31.042877+00:00"
+}

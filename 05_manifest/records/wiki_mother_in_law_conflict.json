@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_mother_in_law_conflict",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "夫家",
+  "requested_title": "婆媳关系",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A4%AB%E5%AE%B6",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 夫家",
+  "topics": [
+    "family",
+    "china"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/mother_in_law_conflict.json",
+  "text_path": "02_text/zh_wikipedia/mother_in_law_conflict.txt",
+  "raw_bytes": 3005,
+  "text_chars": 1249,
+  "text_sha256": "35d2e9ef1760b40b4af2b5746eba0fe866ae6e29aa3d3893e92b8dd80f1340a3",
+  "retrieved_at": "2026-10-25T16:26:22.542359+00:00"
+}

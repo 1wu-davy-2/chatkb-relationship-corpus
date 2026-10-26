@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4128647",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Gift-giving and network structure in rural China: utilizing long-term spontaneous gift records.",
+  "authors": "Chen X.",
+  "year": "2014",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0102104",
+  "pmcid": "PMC4128647",
+  "url": "https://europepmc.org/article/PMC/PMC4128647",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4128647/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_market"
+  ],
+  "abstract": "The tradition of keeping written records of gift received during household ceremonies in many countries offers researchers an underutilized means of data collection for social network analysis. This paper first summarizes unique features of the gift record data that circumvent five prevailing sampling and measurement issues in the literature, and we discuss their advantages over existing studies at both the individual level and the dyadic link level using previous data sources. We then document our research project in rural China that implements a multiple wave census-type household survey and a long-term gift record collection. The pattern of gift-giving in major household social events and its recent escalation is analyzed. There are significantly positive correlations between gift network centrality and various forms of informal insurance. Finally, economic inequality and competitive marriage market are among the main demographic and socioeconomic determinants of the observed gift network structure.",
+  "raw_path": "01_raw/europepmc_xml/PMC4128647.xml",
+  "text_path": "02_text/europepmc/PMC4128647.txt",
+  "raw_bytes": 134003,
+  "text_chars": 54645,
+  "raw_sha256": "912e61b71fde67b0425a00cc7dfac39fafda3ac236ae58688415bdb96eccd827",
+  "text_sha256": "255d26ae1aac0a35108cd22136cb31a5fe5a1ca7927be36b8559da66c48d2388",
+  "retrieved_at": "2026-10-25T15:39:29.640926+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_erectile_dysfunction",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "勃起功能障碍",
+  "requested_title": "勃起功能障碍",
+  "url": "https://zh.wikipedia.org/wiki/%E5%8B%83%E8%B5%B7%E5%8A%9F%E8%83%BD%E9%9A%9C%E7%A2%8D",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 勃起功能障碍",
+  "topics": [
+    "sexuality",
+    "health"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/erectile_dysfunction.json",
+  "text_path": "02_text/zh_wikipedia/erectile_dysfunction.txt",
+  "raw_bytes": 15733,
+  "text_chars": 5777,
+  "text_sha256": "06881e7b2e261099532f1ccbb31ba4f5302a2ba0c47e3ee045960b15c884f4b6",
+  "retrieved_at": "2026-10-26T13:00:08.097516+00:00"
+}

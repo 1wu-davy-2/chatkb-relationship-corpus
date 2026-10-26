@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_23818",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "鏡花緣",
+  "gutenberg_id": "23818",
+  "url": "https://www.gutenberg.org/ebooks/23818",
+  "download_url": "https://www.gutenberg.org/cache/epub/23818/pg23818.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/23818.txt",
+  "text_path": "02_text/gutenberg/gut_23818_鏡花緣.txt",
+  "raw_bytes": 1293613,
+  "text_chars": 423348,
+  "text_sha256": "b7b1da16a5907b2fcee07391066c64c43899252add4cc455acb8e74b487eb36b",
+  "retrieved_at": "2026-10-25T15:50:29.492316+00:00"
+}

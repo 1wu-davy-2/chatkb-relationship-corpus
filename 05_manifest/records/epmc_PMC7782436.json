@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7782436",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Re-examining the Role of Coping Strategies in the Associations Between Infertility-Related Stress Dimensions and State-Anxiety: Implications for Clinical Interventions With Infertile Couples.",
+  "authors": "Zurlo MC, Cattaneo Della Volta MF, Vallone F.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2020.614887",
+  "pmcid": "PMC7782436",
+  "url": "https://europepmc.org/article/PMC/PMC7782436",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7782436/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "childfree"
+  ],
+  "abstract": "Research has shown a direct relationship between infertility-related stress and anxiety in infertile patients. The present study goes into this relationship in depth, testing the moderating role of coping strategies (Seeking Social Support, Avoidant, Positive Attitude, Problem-Solving, Turning to Religion) in the associations between specific infertility-related stress dimensions (Social Concern, Need for Parenthood, Rejection of Childfree Lifestyle, Couple's Relationship Concern) and State-Anxiety among male and female partners of infertile couples. Gender differences were also explored. Both members of 254 infertile couples completed a questionnaire consisting of Socio-demographics, Fertility Problem Inventory-Short Form (FPI-SF), Coping Orientation to Problem Experienced-New Italian Version (COPE-NIV), and State-Trait Anxiety Inventory-Y (STAI-Y). The results revealed that Social Concern and Couple's Relationship Concern, in both partners, and Need for Parenthood, in female partners, had positive correlations with State-Anxiety. Seeking Social Support and Avoidant coping were related to increasing levels of State-Anxiety in both partners, whereas Positive Attitude coping strategies were related to lower levels of State-Anxiety in female partners. Problem-Solving and Avoidant coping played moderating roles between specific infertility-related stress dimensions and State-Anxiety in unexpected directions. Problem-Solving exacerbated the negative effects of Social Concern, whereas Avoidant coping buffered the negative effects of several infertility-related stress dimensions in both partners. Interventions to improve stress management and psychological health in infertile couples should consider that the adequacy of coping strategies is inherently situation specific. It therefore follows that patient-centered clinical interventions should consider the potential inadequacy of promoting Problem-Solving strategies, and that even Avoidance can be an efficient strategy for dealing with specific infertility-related stress dimensions.",
+  "raw_path": "01_raw/europepmc_xml/PMC7782436.xml",
+  "text_path": "02_text/europepmc/PMC7782436.txt",
+  "raw_bytes": 139978,
+  "text_chars": 40833,
+  "raw_sha256": "3ec2b177b2df7cba51fbec3b839f2dc2b47ca99cee8c458507a32115f37e94a8",
+  "text_sha256": "64bd93fe24a21065165c6b6707ca9368ff95f937e8a4e0e0bfb6156290e05030",
+  "retrieved_at": "2026-10-25T15:29:49.577054+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12071234",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Differential Effects of Decisional and Emotional Forgiveness on Psychological, Spiritual, Social, Volitional, and Physical Well-Being: A Scoping Review.",
+  "authors": "Cowden RG, Worthington EL, Chung CA, Chen ZJ.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/healthcare13090992",
+  "pmcid": "PMC12071234",
+  "url": "https://europepmc.org/article/PMC/PMC12071234",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12071234/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "Within a stress-and-coping theory of forgiveness, two dimensions of forgiveness have been hypothesized-decisional forgiveness (DF) and emotional forgiveness (EF). Each is theorized to have different impacts on different dimensions of well-being-psychological, spiritual (or religious), social, volitional, and physical. A scoping review was performed to explore the associations of each dimension of forgiveness with each dimension of well-being. A total of k = 30 articles met the criteria for inclusion, and estimates of the association between DF and/or EF with one or more indicators of well-being were extracted. Both dimensions of forgiveness were positively linked to all dimensions of well-being, except that there were too few studies on physical well-being (e.g., self-rated physical health) to analyze. DF was generally more strongly related to indicators of spiritual well-being (e.g., faith maturity), psychological well-being (e.g., happiness), and volitional well-being (e.g., conciliatory behavior) than EF, whereas the inverse was observed for social well-being (e.g., marital satisfaction). However, because most studies were cross-sectional, firm conclusions about the associations of both DF and EF with well-being were limited by a paucity of robust studies. Suggestions to guide future research are provided, including the need for more rigorous longitudinal research and better evidence-based theorizing.",
+  "raw_path": "01_raw/europepmc_xml/PMC12071234.xml",
+  "text_path": "02_text/europepmc/PMC12071234.txt",
+  "raw_bytes": 215995,
+  "text_chars": 48556,
+  "raw_sha256": "8052604572632f53a65013898656610ed4de0a9cbd0b03a4e9e5daa9e455954e",
+  "text_sha256": "6f520c26446f598ae0d7ec1a52fd51390d018e44f4d3297749d4d1ea932c8c24",
+  "retrieved_at": "2026-10-25T15:41:37.740495+00:00"
+}

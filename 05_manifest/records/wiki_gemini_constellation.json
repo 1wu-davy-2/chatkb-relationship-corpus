@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_gemini_constellation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "双子座",
+  "requested_title": "双子座",
+  "url": "https://zh.wikipedia.org/wiki/%E5%8F%8C%E5%AD%90%E5%BA%A7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 双子座",
+  "topics": [
+    "zodiac",
+    "astronomy"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/gemini_constellation.json",
+  "text_path": "02_text/zh_wikipedia/gemini_constellation.txt",
+  "raw_bytes": 4520,
+  "text_chars": 1997,
+  "text_sha256": "d71f3df8f97adf697337e68ae8415c9e18bfbfa426abcaec5854d1a8013d4239",
+  "retrieved_at": "2026-10-26T13:04:30.945496+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11485238",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mating proximity blinds threat perception.",
+  "authors": "Cazalé-Debat L, Scheunemann L, Day M, Fernandez-D V Alquicira T, Dimtsi A, Zhang Y, Blackburn LA, Ballardini C, Greenin-Whitehead K, Reynolds E, Lin AC, Owald D, Rezaval C.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1038/s41586-024-07890-3",
+  "pmcid": "PMC11485238",
+  "url": "https://europepmc.org/article/PMC/PMC11485238",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11485238/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "Romantic engagement can bias sensory perception. This 'love blindness' reflects a common behavioural principle across organisms: favouring pursuit of a coveted reward over potential risks 1 . In the case of animal courtship, such sensory biases may support reproductive success but can also expose individuals to danger, such as predation 2,3 . However, how neural networks balance the trade-off between risk and reward is unknown. Here we discover a dopamine-governed filter mechanism in male Drosophila that reduces threat perception as courtship progresses. We show that during early courtship stages, threat-activated visual neurons inhibit central courtship nodes via specific serotonergic neurons. This serotonergic inhibition prompts flies to abort courtship when they see imminent danger. However, as flies advance in the courtship process, the dopaminergic filter system reduces visual threat responses, shifting the balance from survival to mating. By recording neural activity from males as they approach mating, we demonstrate that progress in courtship is registered as dopaminergic activity levels ramping up. This dopamine signalling inhibits the visual threat detection pathway via Dop2R receptors, allowing male flies to focus on courtship when they are close to copulation. Thus, dopamine signalling biases sensory perception based on perceived goal proximity, to prioritize between competing behaviours.",
+  "raw_path": "01_raw/europepmc_xml/PMC11485238.xml",
+  "text_path": "02_text/europepmc/PMC11485238.txt",
+  "raw_bytes": 192532,
+  "text_chars": 92416,
+  "raw_sha256": "3e45b51ea5a2f60800ef93114d45b1e5d4f100dc2be52a896e5018cd65aca3aa",
+  "text_sha256": "984071770a88bd939438788fd0a3665311e90786e9cd7039f6bf4a3e1d057af4",
+  "retrieved_at": "2026-10-25T13:56:45.420998+00:00"
+}

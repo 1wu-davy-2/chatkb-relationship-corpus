@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10903564",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Role of Mutual Masturbation within Relationships: Associations with Sexual Satisfaction and Sexual Self-Esteem.",
+  "authors": "Kılıç D, Armstrong HL, Graham CA.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1080/19317611.2023.2237950",
+  "pmcid": "PMC10903564",
+  "url": "https://europepmc.org/article/PMC/PMC10903564",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10903564/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction"
+  ],
+  "abstract": "Objectives We explored mutual masturbation among women and men and investigated associations with sexual satisfaction and sexual self-esteem. Methods 117 women and 151 men (M age = 29.7 years), mostly heterosexual, all in current relationships, completed an online survey covering experiences of solo and partnered sexual activities, feelings about mutual masturbation, sexual self-esteem, and sexual satisfaction. Results Mutual masturbation was common among both genders. Men reported significantly higher positive feelings about mutual masturbation than women. Recent mutual masturbation was positively associated with sexual satisfaction but not with sexual self-esteem. Conclusions These findings have implications for sex and couple therapy and research.",
+  "raw_path": "01_raw/europepmc_xml/PMC10903564.xml",
+  "text_path": "02_text/europepmc/PMC10903564.txt",
+  "raw_bytes": 213279,
+  "text_chars": 56007,
+  "raw_sha256": "c159f97c900a5ad8e7343c0850cd4d3c6432b915ea425d4ad3cf3213e8d2b534",
+  "text_sha256": "bdcc382194acb6efa07f31ff4be3b4e5b8e914bda926739ef2e1e8a245a8725e",
+  "retrieved_at": "2026-10-25T15:40:30.104798+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6669241",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Walk the Line: How Successful Are Efforts to Maintain Monogamy in Intimate Relationships?",
+  "authors": "Lee BH, O'Sullivan LF.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1007/s10508-018-1376-3",
+  "pmcid": "PMC6669241",
+  "url": "https://europepmc.org/article/PMC/PMC6669241",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6669241/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Monogamy, typically defined as sexual and romantic exclusivity to one partner, is a near-universal expectation in committed intimate relationships in Western societies. Attractive alternative partners are a common threat to monogamous relationships. However, little is known about how individuals strive to protect their relationships from tempting alternatives, particularly those embedded in one's social network. The current exploratory study was guided by the Investment Model, which states that satisfaction, investments, and perceived alternatives to a relationship predict commitment, which in turn predicts relationship longevity. The study aimed to identify relationship and extradyadic attraction characteristics associated with monogamy maintenance efforts, specifically relationship commitment, as predicted by the Investment Model. The efficacy of monogamy maintenance efforts was assessed via sexual and emotional infidelity measures at a 2-month follow-up. U.S. adults in heterosexual intimate relationships (N = 287; 50.2% male; M age = 34.5 years; M relationship length = 87 months) were recruited online to complete the survey study. Through structural equation modelling, the Investment Model structure was replicated, and relationship commitment predicted use of relationship-enhancing efforts as well as self-monitoring/derogation efforts. Individuals who experienced reciprocated attraction used significantly more avoidance and self-monitoring/derogation efforts than did those who experienced unreciprocated attraction. Ultimately, monogamy maintenance efforts did not significantly predict success in maintaining monogamy at follow-up. These findings have important research, educational, and clinical implications relating to relationship longevity.",
+  "raw_path": "01_raw/europepmc_xml/PMC6669241.xml",
+  "text_path": "02_text/europepmc/PMC6669241.txt",
+  "raw_bytes": 144622,
+  "text_chars": 57374,
+  "raw_sha256": "74745e033804c469102befc38ccf7e3e0d2d4b7e3efb22b48e61c8d8f48ef8cf",
+  "text_sha256": "573d13c107b3f435183f93d2bf31ef8dcac20ddeb5c0ba0b390ceefb96010bb7",
+  "retrieved_at": "2026-10-25T15:47:28.316104+00:00"
+}

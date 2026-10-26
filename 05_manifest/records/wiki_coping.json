@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_coping",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "因應 (心理學)",
+  "requested_title": "因应",
+  "url": "https://zh.wikipedia.org/wiki/%E5%9B%A0%E6%87%89_(%E5%BF%83%E7%90%86%E5%AD%B8)",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 因應 (心理學)",
+  "topics": [
+    "psychology",
+    "stress"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/coping.json",
+  "text_path": "02_text/zh_wikipedia/coping.txt",
+  "raw_bytes": 2977,
+  "text_chars": 1419,
+  "text_sha256": "37fa40b0482ba6348e711ea90f686adadee817fb95d1177ff6e9d206687d4feb",
+  "retrieved_at": "2026-10-26T14:03:07.311209+00:00"
+}

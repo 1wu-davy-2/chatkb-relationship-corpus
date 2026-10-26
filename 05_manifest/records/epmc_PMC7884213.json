@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7884213",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Couples-Based Intervention (Ghya Bharari Ekatra) for the Primary Prevention of Intimate Partner Violence in India: Pilot Feasibility and Acceptability Study.",
+  "authors": "Kalokhe AS, Iyer S, Gadhe K, Katendra T, Kolhe A, Rahane G, Stephenson R, Sahay S.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.2196/26130",
+  "pmcid": "PMC7884213",
+  "url": "https://europepmc.org/article/PMC/PMC7884213",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7884213/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_communication"
+  ],
+  "abstract": "Background The high global prevalence of intimate partner violence (IPV) and its association with poor physical and mental health underscore the need for effective primary prevention. We previously developed Ghya Bharari Ekatra (GBE), a couples-based primary prevention intervention for IPV among newly married couples residing in slum communities in Pune, India. Objective Through this pilot study, we aimed to explore the acceptance, safety, feasibility, and preliminary efficacy of GBE. Methods Between January and May 2018, we enrolled and assigned 20 couples to receive GBE plus information on IPV support services and 20 control couples to receive information on IPV support services alone. The GBE intervention was delivered over 6 weekly sessions to groups of 3 to 5 couples by lay peer educators in the communities in which the participants resided. Intervention components addressed relationship quality, resilience, communication and conflict negotiation, self-esteem, sexual communication and sexual health knowledge, and norms around IPV. Outcome evaluation included exit interviews with participants and peers to examine acceptance and feasibility challenges and baseline and 3-month follow-up interviews to examine change in IPV reporting and mental health (by women) and alcohol misuse (by men). The process evaluation examined dose delivered, dose received, fidelity, recruitment, participation rate, and context. Results Half (40/83) of the eligible couples approached agreed to participate in the GBE intervention. Retention rates were high (17/20, 85% across all 6 sessions), feedback from exit interviews suggested the content and delivery methods were very well received, and the community was highly supportive of the intervention. The principal feasibility challenge involved recruiting men with the lowest income who were dependent on daily wages. No safety concerns were reported by female participants over the course of the intervention or at the 3-month follow-up. There were no reported physical or sexual IPV events in either group, but there were fewer incidents of psychological abuse in GBE participants (3/17, 18%) versus control participants (4/16, 25%) at 3-month follow-up. There was also significant improvement in the overall mental health of female intervention participants and declines in the control participants (change in mean General Health Questionnaire-12 score: -0.13 in intervention vs 0.13 in controls; P=.10). Conclusions GBE has high acceptance, feasibility, and preliminary efficacy in preventing IPV and improving mental health among women. Next steps include refining the intervention content based on pilot findings and examining intervention efficacy through a large-scale randomized trial with longer follow-up. Trial registration ClinicalTrials.gov NCT03332134; https://clinicaltrials.gov/ct2/show/NCT03332134. Clinical Trials Registry of India CTRI/2018/01/011596; http://ctri.nic.in/Clinicaltrials/pmaindet2.php?trialid=21443. International registered report identifier (irrid) RR2-10.2196/11533.",
+  "raw_path": "01_raw/europepmc_xml/PMC7884213.xml",
+  "text_path": "02_text/europepmc/PMC7884213.txt",
+  "raw_bytes": 104808,
+  "text_chars": 44971,
+  "raw_sha256": "137079ef99b3d3cc05f04b389bd07c0e9acacf2899274230c6029315a12a9d3b",
+  "text_sha256": "96cd72ca170827ca58c7d6e3f75f9d6ad03fc134c6488575f3df3560a3436777",
+  "retrieved_at": "2026-10-25T15:40:06.361009+00:00"
+}

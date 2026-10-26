@@ -1,0 +1,296 @@
+TITLE: Core Processes in Emotionally Focused Couple Therapy: Testing Hypothesized Associations in Two Independent Samples.
+AUTHORS: Conradi HJ, Jonker S, Noordhof A.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1111/famp.70191
+PMCID: PMC13578553
+LICENSE: cc by-nc-nd
+LICENSE_URL: https://creativecommons.org/licenses/by-nc-nd/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC13578553
+TOPICS: conflict_repair
+
+---
+
+ABSTRACT
+ABSTRACTEmotionally Focused Couple Therapy (EFCT) is a widely used, evidence‐based treatment with established effectiveness, and several underlying mechanisms have been examined. However, the assumptions of the full EFCT model have not yet been tested. The basic model proposes four interrelated layers within and between partners: (1) relationship satisfaction depends on (2) need fulfillment, which results from (3) support‐giving, and is moderated by (4) attachment, emotional awareness/clarity, and conflict styles. We tested these associations using Structural Equation Modeling in AMOS with Actor‐Partner Interdependence Modeling in two independent Dutch samples (N = 848 and N = 938 partners). We found strong support for the basic model and successfully replicated this result: relationship satisfaction was explained for 60%–71% by the underlying layers, need fulfillment for 88%–89%, and support giving for 51%–53%. Extending layer (4) with emotion regulation and repair added little more explained variance, whereas extending it with validation did. The pivotal EFCT interaction, support‐seeking and support‐giving, was primarily explained by attachment and validation, with validation emerging as an important novel finding. This suggests a specific implication for clinical practice: reducing insecure attachment, particularly avoidance, and enhancing validation of each other's emotions and needs may be key therapeutic targets.Keywords: accessibility and responsiveness, APIM, attachment, emotionally focused couple therapy, needs, relationship satisfaction, SEM, validation
+
+BODY
+Introduction
+
+Serious relationship dissatisfaction is experienced by about 40% of couples at some point (Conradi et al. 2025). Emotionally Focused Couple Therapy (EFCT; Johnson 2020) is a widely used intervention for reducing relationship distress, with its effectiveness supported by several meta‐analyses (e.g., Spengler et al. 2024). EFCT is an experiential, attachment‐based therapy that conceptualizes intimate relationships as attachment bonds in which core needs must be met for the relationship to be satisfying. Its main goals are to enhance secure attachment which facilitates the experiencing and expression of emotions and related needs, and ultimately promotes need fulfillment.
+
+Process research in couples receiving EFCT suggests support for several of these proposed mechanisms. Deeper emotional experiencing and more affiliative partner responses (self‐disclosure, sharing, understanding) have been linked to increased relationship satisfaction (Greenberg et al. 1993; Johnson and Greenberg 1988). Reduced conflict engagement and increased expression of vulnerable emotions and needs, so‐called “blamer softening” (Bradley and Furrow 2004), were found to be followed by increased relationship satisfaction (Burgess Moser et al. 2018; Dalgleish et al. 2015) and reduced attachment avoidance and anxiety (Burgess Moser et al. 2018). Finally, EFCT has been shown to reduce insecure attachment and enhance secure support‐seeking and support‐giving at post‐treatment and follow‐up, with these changes associated with increases in relationship satisfaction (Burgess Moser et al. 2016; Wiebe et al. 2017).
+
+Despite this support, several assumptions of the EFCT model remain untested. No studies have examined predictors of need fulfillment; most have not systematically disentangled actor and partner effects of moderators on support‐seeking and support‐giving, and several studies have relied on cases or small samples. In the current study, we aimed to (a) provide a comprehensive overview of the core processes assumed to underlie the EFCT model (primarily support‐seeking and support‐giving in romantic relationships), (b) develop a statistical model encompassing self‐reported assessments of associations mirroring these core processes, and (c) test the adequacy and replicability of this model in two independent cross‐sectional general population samples.
+
+The EFCT Model: Core Processes in Securely Attached Couples
+
+The core processes of the EFCT model can be organized into four layers (Figure 1), encompassing the associations assumed in EFCT that we aim to test (Bradley and Furrow 2004; Johnson 2020).
+
+The EFCT model: Support‐seeker (actor) and support‐giver (partner). ______ = actor effect (within one partner); _ _ _ _ = partner effect (between two partners); gray rectangles = the basic EFCT model. For the sake of clarity, we omitted the actor and partner effects between moderators and being accessible and responsive in the support‐seeker, and support‐seeking in the support‐giver, as well as the corresponding effects between layers 1, 2, and 3; however, we tested the full APIM, which means that all arrows must be mirror‐doubled. The roles of support‐seeker and support‐giver may switch continuously between partners. Bold arrow numbers represent unstudied or understudied associations.
+
+The first core process is that relationship satisfaction (layer 1) is assumed to depend on partners' need fulfillment (layer 2). According to the self‐determination theory (Deci and Ryan 2000), people have three basic needs: relatedness, competence, and autonomy, which correspond to needs described in EFCT (Greenberg and Goldman 2008; Johnson and Greenberg 1987; Johnson et al. 1999).
+
+Need fulfillment within relationships (layer 2) depends on a delicate process of support‐seeking and support‐giving between partners (layer 3), described in EFCT as the “ARE conversation” (Accessible, Responsive and Emotionally engaged; Johnson 2020). Support‐seeking begins when one partner recognizes his/her unmet needs and reaches out to the other in a bid for support. The support‐giving partner then must be accessible and responsive to these needs to facilitate need fulfillment.
+
+EFCT further assumes multiple moderating processes (layer 4) that facilitate or hinder functional support‐seeking and giving (layer 3). Drawing on attachment theory (Ainsworth et al. 1978; Mikulincer and Shaver 2016), EFCT posits that secure attachment plays a central role among these interrelated moderators (Johnson 2020). Secure attachment develops when attachment figures (parents and partners) are consistently accessible and responsive to the needs expressed by the child or partner. Such experiences foster functional emotion regulation (arrow 1), creating a window of tolerance wide enough for both the support‐seeker and support‐giver to be aware of and clearly understand their emotions (arrow 2). Emotional awareness and clarity are important because emotions are markers of unmet needs and drive action tendencies (Frijda 1986; Johnson and Greenberg 1987). For example, fear may reflect an unmet need for relatedness and safety that drives proximity seeking; shame or sadness may indicate a need for competence and self‐esteem and motivate seeking validation; and anger may signal a need for autonomy, leading to boundary setting. As partners often experience multiple emotions simultaneously, recognizing emotions and related needs can be complicated. Further, deploying the primary secure attachment strategy of proximity seeking in both support‐seeker and giver is deemed crucial for constructive communication about these needs. This requires absence of destructive conflict styles (arrow 3), as well as reciprocal validation of emotions and relational repair to restore relationship security (arrow 4). The latter is considered a necessary condition for a successful ARE conversation (Johnson 2020).
+
+The EFCT Model: Disruption of Core Processes in Insecurely Attached Couples
+
+Partners presenting for couple treatment, however, are commonly insecurely attached (e.g., Conradi et al. 2018). Insecurely attached partners face multiple intra‐ and interpersonal processes that can disrupt adequate support‐seeking and giving, thereby hampering need fulfillment and relationship satisfaction. These constraining associations are represented by the arrows in Figure 1. Below we discuss research examining these associations. 1
+
+Attachment as Core Influence on Emotion Regulation, Conflict Styles and Validation
+
+A core tenet of EFCT (Johnson 2020) is that the two main forms of insecure attachment are core factors influencing the other factors depicted in layer 4 (Figure 1, arrows 1–4). Anxious attachment develops in individuals when attachment figures are inconsistently accessible and responsive to their needs. This results in uncertainty about getting support and fear of rejection. To overcome the fear of not receiving support, anxiously attached individuals upregulate their emotions and needs to secure their partner's attention. Unfortunately, the accompanying strong arousal can exceed the window of tolerance and obscure awareness and clarity of their needs (Greenberg 2015). Further, to overcome their fear of not being supported, they tend to claim their partner's support; however, when they expect their partner to be unsupportive, they may engage in conflict styles, mainly conflict engagement (blaming) or withdrawal and down‐regulation of emotions. All of this hampers adequate support‐seeking and giving, thereby disrupting need fulfillment. In contrast, avoidant attachment develops in individuals when attachment figures are consistently inaccessible and unresponsive to their needs. This fosters the conviction of not getting support and fear of being disapproved/rejected. To manage this fear, avoidantly attached individuals downregulate their emotions below the window of tolerance, muting awareness and clarity of their needs, allowing them to avoid support‐seeking and ultimately preventing disapproval/rejection. This, however, results in unfulfilled needs. Finally, the self‐protective strategies of blaming and withdrawal employed by insecurely attached individuals are often accompanied by a tendency not to validate their partner's emotions and, particularly among avoidantly attached partners, not to repair relational ruptures.
+
+Research supports the assumed associations between anxious and avoidant attachment and emotional up‐ and downregulation, respectively (arrow 1; Caldwell and Shaver 2012; Goodall et al. 2012; Han and Pistole 2014; Karreman and Vingerhoets 2012; Pascuzzo et al. 2013; Stevens 2014; Velotti et al. 2016; Winterheld 2016). Not surprisingly, insecure attachment was found to be associated with less emotional awareness and clarity (arrow 2; Caldwell and Shaver 2012; Goodall et al. 2012; Han and Pistole 2014; Stevens 2014; Velotti et al. 2016) and with destructive interaction, with anxious attachment more strongly related to conflict‐engagement and avoidance more strongly related to withdrawal (arrow 3; Bonache et al. 2017; Bonache et al. 2019; Cann et al. 2008; González‐Ortega et al. 2021; Rholes et al. 2014; Shi 2003; Sierau and Herzberg 2012). Finally, scant research has found positive associations between anxiety and avoidance and invalidation (Brandão et al. 2023), and between avoidance and failure to repair relational ruptures (arrow 4; Schumann and Orehek 2019).
+
+Support‐Seeking: Actor Effects of Attachment, Emotion Regulation, Conflict Styles and Validation
+
+EFCT posits (Johnson 2020) that insecure attachment and the associated moderators (layer 4) hinder support‐seeking (layer 3) within the support‐seeker (i.e., actor effects, arrows 5–9). In general, anxiously attached partners need support but fear rejection by the support‐giver, resulting in ambivalence about support‐seeking, whereas avoidantly attached partners are confident they will be rejected and therefore avoid support‐seeking. Moreover, emotional upregulation, as seen in anxiously attached individuals, may activate support‐seeking, while emotional downregulation, primarily seen in avoidantly attached individuals may deactivate support‐seeking. In both, this emotional dysregulation reduces emotional awareness and clarity which hinders functional need expression by the support‐seeker. Both anxiously and avoidantly attached individuals may engage in conflict engagement and conflict withdrawal interfering with support‐seeking. On top of that both anxiously and avoidantly attached individuals show a lack of genuine validation of the partner further hampering support‐seeking.
+
+Research confirms that anxiously attached individuals are ambivalent about support‐seeking, whereas avoidantly attached individuals tend to avoid support‐seeking (arrow 5; for an overview see Mikulincer and Shaver 2016). Scant evidence further suggests that emotional upregulation is positively and downregulation negatively associated with support‐seeking (arrow 6; De Castella et al. 2018; Romanson 2018). Emotional awareness and clarity (arrow 7) are positively associated with intentions to seek support (Harvey and White 2023; Locke and Kim 2024; Makris 2020*; Romanson 2018; Ward‐Ciesielski et al. 2019), and with actual support‐seeking (Romanson 2018). Finally, scant evidence suggests that conflict styles (blaming and withdrawal) are negatively, and validation is positively associated with support‐seeking (arrows 8 and 9; Lafontaine et al. 2009), while, to our knowledge, no studies have examined associations between repair and support‐seeking (arrow 9).
+
+Support‐Seeking: Partner Effects of Attachment, Emotion Regulation, Conflict Styles and Validation
+
+EFCT further proposes (Johnson 2020) that actor support‐seeking (layer 3) is discouraged by the support‐giving partner’s insecure attachment and the associated moderators (layer 4) (i.e., partner effects, arrows 10–14). More specifically, when the support‐giving partner is anxiously or avoidantly attached, this will negatively affect support‐seeking by the actor. This is presumed to result from the support‐giving partner up‐ or downregulating their emotions, showing less awareness and clarity about emotions and related needs, engaging in conflict or withdrawal, and tending not to validate feelings or repair relational ruptures. Together, these processes may lead the actor to refrain from expressing and discussing unfulfilled needs with their partner.
+
+Research on partner effects on actor support‐seeking is scarce. One study found that partner attachment was not associated with actor support‐seeking in pain patients (arrow 10; Bailey et al. 2015). Partner conflict styles (blaming and withdrawal) were found to be negatively associated, and partner validation positively associated with actor support‐seeking (arrows 13–14; Lafontaine et al. 2009). We were unable to track studies concerning partner effects of emotion regulation and emotional awareness and clarity on support‐seeking (arrows 11–12).
+
+Support‐Giving: Actor Effects of Attachment, Emotion Regulation, Conflict Styles and Validation
+
+EFCT further contends (Johnson 2020) that support‐giving, or being accessible and responsive to the support‐seeker's unmet needs, is hampered by the support‐giver's own insecure attachment and related fears and needs (i.e., actor effects, arrows 15–19). Anxiously attached support‐givers are supposed to engage in intrusive and conditional support‐giving to elicit the support‐seeker's gratefulness, thereby reducing their own fear of rejection and satisfy their relatedness and competence needs. Avoidantly attached support‐givers are believed to withdraw from support‐giving to reduce their own dependency fears and meet their autonomy needs. When these needs of the anxious or avoidant support‐giver are not met, emotional up‐ or downregulation may follow, further impeding support‐giving by reducing recognition of the support‐seeker's emotions and needs, strengthening tendencies toward conflict engagement or conflict withdrawal, and blocking validation.
+
+Scant research supports negative associations between actor anxiety and avoidance and actor support‐giving, operationalized as being accessible and responsive (arrow 15; Péloquin et al. 2014; Sandberg et al. 2012; Zeytinoğlu‐Saydam et al. 2021). Concerning conflict styles (arrow 18), constructive styles are positively and destructive styles are negatively associated with accessibility and responsiveness (Lafontaine et al. 2009; Sandberg et al. 2012). Sparse evidence shows positive associations between validation and support‐giving or accessibility and responsiveness (arrow 19; Lafontaine et al. 2009). To our knowledge, no studies have examined associations of accessibility and responsiveness with emotional up‐ and downregulation, emotional awareness and clarity, and the tendency to repair relational ruptures (arrows 16–17 and 19).
+
+Support‐Giving: Partner Effects of Attachment, Emotion Regulation, Conflict Styles and Validation
+
+EFCT further posits (Johnson 2020) that support‐giving is hampered by characteristics of the support‐seeker (i.e., partner effects, arrows 20–24). Presumably, support‐giving will be less functional when the support‐seeking partner is anxiously or avoidantly attached, meaning that they up‐ or downregulate their emotions, therefore show less awareness and clarity about emotions and related needs, engage in conflict or withdrawal, and tend not to validate feelings or repair relational ruptures.
+
+Research on partner effects on actor support‐giving (accessibility and responsiveness) is also limited. Support‐seeking partners' attachment anxiety and avoidance have been found to be negatively associated with the actor’s accessibility and responsiveness (arrow 20; Millings et al. 2013; Péloquin et al. 2014). Partner constructive conflict styles were positively, and destructive conflict styles were negatively associated with the actor's accessibility and responsiveness (arrow 23; Lafontaine et al. 2009; Sandberg et al. 2012; Schade et al. 2013). Further, partner validation and repair were positively associated with actor accessibility and responsiveness (arrow 24; Jang and Feng 2023; Lafontaine et al. 2009). Although previous studies have broadly indicated associations between couple support and emotion regulation, we did not find specific previous research addressing the partner effects of emotional up‐ and downregulation or emotional awareness and clarity on support‐givers' accessibility and responsiveness (arrows 21–22).
+
+Need Fulfillment: Effects of Support‐Seeking and Support‐Giving
+
+Core processes in the EFCT model include the assumption that support‐seeking and support‐giving are interdependent: adequate support‐seeking can improve support‐giving and vice versa, and both affect the fulfillment of the support‐seekers' needs.
+
+Research shows a positive association between support‐seeking and support‐giving (arrow 25; e.g., Collins and Feeney 2000). Unfortunately, research on support‐seeking and giving and their relation with need fulfillment is scarce. Positive effects of actor support‐seeking on need fulfillment in the work context have been reported (Schoofs et al. 2022; arrow 26), whereas to our knowledge, studies on associations between support‐giving (accessibility and responsiveness) and need fulfillment (arrow 27) are absent.
+
+Relationship Satisfaction: Actor and Partner Effects of Need Fulfillment
+
+Finally, EFCT advances the view that relationship satisfaction depends on need fulfillment (Johnson 2019).
+
+Scant research shows positive associations between both actor and partner need fulfillment and relationship satisfaction (arrows 28–29; Patrick et al. 2007; Vanhee et al. 2016), explaining up to 66% of its variance (Vanhee et al. 2016). The need for relatedness, and to lesser extent competence and autonomy, appears particularly important (Patrick et al. 2007; Vanhee et al. 2016).
+
+The Present Study
+
+In the present study, we constructed an Actor‐Partner‐Interdependence‐Model (APIM) to test multiple assumptions of the basic EFCT model (gray boxes in Figure 1). This basic model was tested in two independent samples (2023 and 2024) to examine the replicability of our findings, given the broader replication problem in psychology (Tackett et al. 2017). The other variables (non‐gray boxes) were measured in only one of the samples and tested in three extensions of the basic model: “extension‐1, 2023” (adding emotion regulation), “extension‐2, 2024” (adding validation and repair), and “extension‐3, 2024” (adding support‐seeking, validation and repair), allowing us to explore their effects but not to cross‐validate them.
+
+Because the models contain many predictors, we focused on: (a) testing the fit of each of the four complete models; (b) within each model, calculating the variance of each layer explained by the underlying layers; and (c) identifying, within each layer, the strongest predictors of the layer(s) above. Based on theory and empirical findings, we formulated three broad hypotheses about associations between layers in the model: H1 concerns associations between layers 1 and 2, H2 between layers 2 and 3, and H3 between layers 3 and 4. We anticipated:
+
+(H1) Relationship satisfaction is positively associated with need fulfillment.
+
+(H2) Need fulfillment is positively associated with support‐seeking (extension‐3, 2024) and support‐giving (accessibility and responsiveness).
+
+(H3) Support‐seeking and support‐giving (accessibility and responsiveness) are negatively associated with attachment anxiety 2 and avoidance, emotional up‐ and downregulation (extension‐1, 2023) and conflict engagement and withdrawal, and positively associated with emotional awareness and clarity, and validation and repair (both extension‐2, 2024).
+
+Using Structural Equation Modeling, we developed four models based on these sets of hypotheses and evaluated their adequacy on the basis of model fit indices and the replicability of significant findings across two samples. Moreover, the present study addresses knowledge gaps about under‐ or unstudied associations represented by the bold arrow numbers in the EFCT model (Figure 1). Finally, to our knowledge this is the first study to build encompassing, replicable models based on a large set of related factors that, according to the EFCT model, determine outcomes of relationship dynamics.
+
+Method
+
+Participants and Procedure
+
+In the autumns of 2023 and 2024, students at the University of Amsterdam (The Netherlands) recruited two independent samples of couples from their social environment (family, friends, neighbors, etc.). They aimed for diversity in participants' age and educational level. Inclusion criteria were being over 18 years of age and engaged in a heterosexual relationship of at least 6 months. By doing so, we aimed to exclude relationships that were still in an initial exploratory phase and to increase the likelihood that relationship issues had already surfaced. We excluded same‐sex relationships solely for statistical power reasons, as the expected proportion (5%–8%) would yield too few couples to test the models adequately. After obtaining informed consent, participants completed self‐report questionnaires online via Qualtrics. Partners were instructed to complete the questionnaires independently and were informed that answers were treated anonymously. The studies were approved by the Institutional Ethics Review Board of the University of Amsterdam (FMG‐5643_2023 and FMG‐10788_2024).
+
+Socio‐demographic characteristics are displayed in Table S1. Sample 2023 comprised 424 couples and sample 2024 comprised 469 couples; the two samples were quite similar. Respondents were on average about 39 years of age. About one‐third of the couples were dating, one‐third were cohabiting, and one‐third were married. On average, partners had been together for about 14 years and one‐third reported having one or more children with their partner. Educational attainment was, as anticipated, skewed toward higher education (about two‐thirds high, one‐third middle, and a negligible proportion low). Sample 2023 was slightly better educated. Work was the main occupation for about two‐thirds of participants, one‐quarter studied, and the remainder reported no paid work (unemployed, retired, incapacitated), household work, or ‘other’ as their main occupation. Some sample differences on study measures were notable (see Table S2 for test statistics). The 2024 sample scored significantly higher on relationship satisfaction, accessibility, and responsiveness, and lower on emotional clarity, attachment avoidance, conflict engagement, and withdrawal. In both the 2023 and 2024 samples, mean relationship satisfaction was (slightly) more favorable, 16.64 (SD = 3.37) and 17.66 (SD = 2.99), respectively, than general population norms of 16.0 (SD = 4.7), reported by Funk and Rogge (2007). A similar pattern emerged for attachment scores in 2023 and 2024 compared to general population norms (Conradi et al. 2018, 2021): for anxiety, 2.69 (SD = 0.99) and 2.61 (SD = 1.04) versus 3.27 (SD = 1.18), and for avoidance, 2.25 (SD = 0.87) and 2.14 (SD = 0.89) versus 2.67 (SD = 1.01).
+
+Measures
+
+Relationship Satisfaction
+
+Relationship satisfaction was assessed with the 4‐item Couple Satisfaction Index (CSI‐4; Funk and Rogge 2007). A sample item is: “I have a warm and comfortable relationship with my partner.” Items are scored on a 6‐ or 7‐point Likert scale. Cronbach's alphas range from 0.86 to 0.90 across sexes and current samples (Table S2).
+
+Need Fulfillment
+
+Need fulfillment was measured with the 9‐item Basic Psychological Need Satisfaction in Relationships scale (BPNS‐R; La Guardia et al. 2000). The scale is based on the self‐determination theory and assesses need fulfillment in three domains: Autonomy (volition, agency, and initiative), Competence (curiosity, challenge, and efficacy), and Relatedness (feeling connected and cared for). Example items all starting with: “When I am with my partner …” are: “I feel free to be who I am” (Autonomy), “I feel like a competent person” (Competence), and “I feel loved and cared about” (Relatedness). Items are scored on a 7‐point Likert scale. Cronbach's alphas for the total score range from 0.81 to 0.87 across sexes and samples.
+
+Support‐Giving
+
+Support‐giving, that is the partner's accessibility and responsiveness to one's needs, was assessed with the 6‐item Brief Accessibility, Responsiveness and Engagement scale (BARE; Sandberg et al. 2012). It assesses actor perceived partner Accessibility, example item: “It is hard for me to get my partner's attention,” partner Responsiveness to one's needs, example item: “My partner listens when I share my deepest feelings,” and partner Engagement, example item: “My partner struggles to feel close and engaged in our relationship.” Cronbach's alphas for the total score range from 0.74 to 0.81 across sexes and samples.
+
+Support‐Seeking
+
+Support‐seeking was assessed only in 2024 with the 5‐item Soothing subscale of the Interpersonal Emotion Regulation Questionnaire (IERQ; Hofmann et al. 2016). A sample item is: “I look to my partner when I feel depressed just to know that I am loved.” Cronbach's alphas range from 0.93 to 0.94 across sexes.
+
+Attachment
+
+Attachment to the partner was measured with the 12‐item Experiences in Close Relationships questionnaire (ECR; Lafontaine et al. 2016). Anxiety about rejection and abandonment assesses the need for others and feeling vulnerable to rejection, example item: “I worry about being alone.” Avoidance of intimacy measures the tendency not to share intimacy with partners but instead to distance from them, example item (reverse‐scored): “I usually discuss my problems and concerns with my partner.” Items are scored on a 7‐point Likert scale ranging from 1 (disagree strongly) through a middle position 4 (neutral/mixed) to 7 (agree strongly). Cronbach's alphas for Anxiety range from 0.72 to 0.75 and for Avoidance from 0.65 to 0.77 across sexes and samples.
+
+Emotion Regulation
+
+Emotion regulation (2023) was assessed by measuring up‐ and downregulation of emotions, reflecting emotional responding above or below the window of tolerance.
+
+Upregulation of Emotions
+
+Upregulation of emotions was measured with two instruments. The 11‐item Emotional Reactivity scale of the Differentiation of Self Inventory (DSI‐RS; Skowron and Friedlander 1998) assesses difficulties in remaining calm in response to others, example item: “People have remarked that I'm overly emotional.” The 6‐item Berkely Expressivity Questionnaire (BEQ; Gross and John 1995) was used to assess Impulse Strength, that is, strong emotional reactions that are difficult to hide or stop, example item: “I have strong emotions.” Cronbach's alphas for Emotional Reactivity range from 0.84 to 0.87 and for Impulse Strength from 0.78 to 0.84 across sexes.
+
+Downregulation of Emotions
+
+Downregulation of emotions was also measured with two instruments. The 12‐item Emotional Cut‐off scale of the DSI (DSI‐EC), assessing aloofness and exaggerated independence, example item: “I would never consider turning to any of my family members for emotional support.” In addition, we developed a 5‐item scale assessing Emotional Suppression (ES), example item: “Others say I am emotionally distant.” Cronbach's alphas for Emotional Cut‐off range from 0.81 to 0.82, and for Emotional Suppression from 0.79 to 0.80 across sexes.
+
+Emotional Awareness and Clarity
+
+Emotional Awareness and Clarity were measured with 11 items from the Difficulties in Emotion Regulation Scale (DERS; Gratz and Roemer 2004). It measures Awareness, that is, consciousness of one's emotions, and Clarity, that is, understanding of one's emotions. Response categories range from 1 (almost never) to 5 (almost always). Cronbach's alphas for Awareness range from 0.77 to 0.84 and for Clarity from 0.81 to 0.85 across sexes and samples.
+
+Conflict Styles
+
+Conflict styles were assessed with the Conflict Resolution Style Inventory (CRSI; Kurdek 1994). We used two 4‐item subscales: Conflict Engagement (personal attacks and losing control), example item: “Exploding and getting out of control” and Withdrawal (refusing to discuss and tuning one's partner out), example item: “Withdrawing, acting distant and not interested.” Likert scale ranges from 1 (disagree strongly) to 5 (agree strongly). Cronbach's alphas for Conflict Engagement range from 0.72 to 0.80 and for Withdrawal from 0.77 to 0.80 across sexes and samples.
+
+Validation
+
+Validation by the partner (2024) was measured with the 10‐item Validation subscale of the Interpersonal Regulation Interaction Scale (IRIS; Swerdlow and Johnson 2022). Example item: “My partner takes an interest in my feelings.” Cronbach's alpha was 0.89 for both sexes.
+
+Relational Repair
+
+Relational repair by the partner (2024) was measured with a self‐constructed scale. Relational repair is a broad construct, of which we examined apologizing, taking responsibility, and the use of humor, but not, for example, meta‐communication or self‐soothing. The scale comprises three items assessing apologizing from the Proclivity to Apologize Measure (PAM; Howell et al. 2011), example item: “My partner's continued anger often gets in the way of apologizing,” two items assessing humor from Gottman (1999), example item: “Teasing and humor usually work with my partner to get over negativity,” and three items we developed ourselves assessing responsibility, example item: “My partner would rather deny having done anything wrong than say sorry.” Cronbach's alphas range from 0.84 to 0.85 across sexes.
+
+Statistical Analyses
+
+To model the associations depicted in Figure 1, we used Structural Equation Modeling (SEM) as implemented in AMOS (SPSS version 29). To allow direct comparison of parameters between the two samples, all variables were transformed into z‐scores on the basis of their distribution in both samples. We applied the Actor‐Partner‐Interdependence‐Model (APIM; Cook and Kenny 2005), as partners within a dyad cannot be assumed to provide independent data. In an APIM‐SEM model male and female variables and parameters (i.e., associations, factor loadings, residuals) can be estimated independently or constrained to be equal to test for gender differences.
+
+Need fulfillment and accessibility and responsiveness were included in these models as latent variables with the three observed subscales of the BPNS and BARE, respectively, as indicators. Latent variable modeling was chosen to create a concise, replicable model of numerous self‐report measures. The study's hypotheses, informed by previous literature, focused on these latent variables rather than subscales. All other independent variables were included as observed variables due to insufficient theoretical basis for reducing them to latent variables.
+
+Based on data from the sample 2023, we used stepwise selection of parameters to derive a comprehensive, well‐fitting model including all variables that were measured in both samples (gray boxes in Figure 1). We then aimed to replicate this model in sample 2024. At each step of model building, we first estimated an A‐model including all expected relevant relations. Second, we tested for gender equivalence of parameters by assessing whether regression weights and factor loadings were equivalent for males and females. This resulted in a B‐model in which all parameters were constrained to be gender‐equivalent, except those showing significant differences. Third, we removed all parameters that were not significant for either men or women, arriving at a final model that was evaluated using fit indices.
+
+This step‐by‐step approach resulted in the basic EFCT model (Figure 1), in which relationship satisfaction (CSI) was associated with need fulfillment (BPNS; H1), need fulfillment with partner accessibility and responsiveness (BARE; H2), and accessibility and responsiveness with insecure attachment (ECR; H3), emotional awareness and clarity (DERS; H3), and destructive conflict styles (CRSI; H3). After developing this model with the 2023 sample, we tested its fit on the 2024 sample and assessed the extent of measurement and parameter invariance between the models for the two samples.
+
+Second, we explored whether the basic EFCT model could be improved by including, in layer 4, additional variables explaining accessibility and responsiveness. These were measured in only one sample, and thus could not be cross‐validated. In 2023, we added multiple emotion regulation scales (DSI, BEQ and ES; H3) and in 2024 validation and repair (IRIS and PAM; H3).
+
+Third, we explored whether the extended EFCT model for sample 2024 could be further improved by including support‐seeking in layer 3, a latent variable measured by the items of the IERQ. We expected support‐seeking to be associated with need fulfillment (H2), with accessibility and responsiveness, and with insecure attachment (H3), emotional awareness and clarity (H3), destructive conflict styles (H3), and validation and repair (H3).
+
+All models were evaluated and compared using common indices for SEM to assess model‐fit (CFI > 0.90, NFI > 0.90, TLI > 0.90, IFI > 0.90, RMSEA 0.40) and medium (0.15 0.03) rather than marginal improvement (∆R 2 < 0.03). Parameter‐estimates for each of the submodels can be obtained from the authors, whereas the parameters for the final models are reported in Table 1.
+
+Basic and extended EFCT models: Explained variances and standardized coefficients of significant parameters.
+
+The first number refers to men; the second number after the slash refers to women.
+
+Bold independent = parameter coefficient ≥ 0.15.
+
+x = not included in the model.
+
+n.s. = non‐significant.
+
+Abbreviations: Actor perc. validation by partner = actor perceived validation by partner; actor perc. acc. & res. of partner = actor perceived accessibility & responsiveness of partner; partner perc. acc. & res. of actor = partner perceived accessibility & responsiveness of actor; actor perc. repair by partner = actor perceived repair by partner.
+
+Results
+
+Zero Order Correlations
+
+In Table S3, zero‐order Pearson correlations are reported between the actor study variables in both samples. All independent variables correlated with the dependent variables in the anticipated directions (H1 to H3). The correlation between relationship satisfaction and need fulfillment was strong. The correlation between need fulfillment and partner accessibility and responsiveness was strong too. The associations between accessibility and responsiveness and moderators were mostly small; however, medium‐sized with attachment, emotional cut‐off, and repair, and strong with validation. Finally, except for emotional reactivity and impulse strength, correlations between the independent variables did not exceed 0.70, indicating that multicollinearity was not to be expected (Tabachnick and Fidell 2007).
+
+The Basic EFCT Model: Development and Cross‐Validation
+
+By stepwise inclusion of variables, removal of non‐significant pathways, and testing for gender‐equivalence (see Method section), a well‐fitting APIM‐SEM model was constructed (χ 2 (df = 199, N = 424) = 334,952, p < 0.001, CFI = 0.958; NFI = 0.911; TLI = 0.931; IFI = 0.959; RMSEA = 0.043) on the 2023 sample. Subsequently, we tested whether this model replicated in the 2024 sample. First, configural invariance was obtained by showing that the same model did show adequate fit in both samples (χ 2 (df = 413, N = 893) = 797,076, p < 0.001, CFI = 0.954; NFI = 0.912; TLI = 0.921; IFI = 0.955; RMSEA = 0.032). Subsequently, we tested for metric invariance 3 by constraining parameters (loadings and regression pathways) to be equal between samples. This resulted in a well‐fitting model (χ 2 (df = 582, N = 893) = 966,758, p < 0.001, CFI = 0.942; NFI = 0.902; TLI = 0.942; IFI = 0.943; RMSEA = 0.034), indicating that the same model with equivalent parameters fitted both the 2023 and 2024 sample data. Explained variances and coefficients of significant parameters of this model are reported in Table 1.
+
+In the basic model, explained variance of layer 1 relationship satisfaction was estimated at 62% for men and 60% for women (2023) and 71% for both men and women (2024). As expected, layer 2 actor need fulfillment (b = 0.74/0.74 and 0.79/0.80) 4 and partner need fulfillment (b = 0.14/0.14 and 0.15/0.15) showed large and small positive effects, respectively (H1, arrows 28 and 29, Figure 1). Additionally, layer 4 predictors actor anxiety (b = 0.10/0.11 and 0.11/0.11), male actor emotional awareness (b = −0.04/n.s. and −0.05/n.s.), actor conflict engagement (b = −0.07/−0.08 and −0.07/−0.07) and female partner conflict withdrawal (b = n.s./0.08 and n.s./0.08) all showed small effects.
+
+Explained variance of layer 2 need fulfillment was 89% for men and 88% for women in both samples. As expected, layer 3 actor perceived partner accessibility and responsiveness showed a large positive effect (b = 0.91/0.91 and 0.91/0.91; H2, arrow 27). Additionally, layer 4 predictor actor conflict withdrawal (b = −0.07/−0.07 and −0.06/−0.06) showed a small effect.
+
+Explained variance of layer 3 actor perceived partner accessibility and responsiveness was 52% for men and 51% for women (2023) and 53% for men and 52% for women (2024). As expected, layer 4 predictor actor avoidance showed a large negative effect (b = −0.54/−0.50 and −0.54/−0.51), actor anxiety a medium negative effect (b = −0.23/−0.26 and −0.24/−0.25), and partner avoidance a small negative effect (b = −0.14/−0.13 and −0.14/−0.13; H3, arrows 15 and 20), while actor conflict engagement (b = −0.10/−0.12 and −0.10/−0.10) and female partner conflict withdrawal (b = n.s./−0.08 and n.s./−0.08) had small negative effects (H3, arrows 18 and 23). Unexpectedly, emotional awareness and clarity were non‐significant (H3, arrows 17 and 22).
+
+Next, we tested three extensions of the basic model in either the 2023 or the 2024 sample; hence, these specific results could not be cross‐validated.
+
+Extension‐1 (2023) of the Basic Model: Emotional Reactivity and Suppression
+
+Inclusion of emotional reactivity and suppression (extension‐1, 2023) in layer 4 of the basic model resulted in adequate model‐fit (χ 2 (df = 317, N = 424) = 532,480, p < 0.001, CFI = 0.963; NFI = 0.918; TLI = 0.931; IFI = 0.965; RMSEA = 0.040). The explained variance of the adjacent layer 3 actor perceived partner accessibility and responsiveness changed only marginally (52%/51% basic model vs. 53%/54% extension‐1). As expected, layer 4 actor emotional cut‐off showed a medium negative effect (b = −0.19/−0.19; H3, arrows 16 and 21). Contrary to expectations, actor emotional suppression (b = 0.10/0.09) and partner emotional reactivity (b = 0.09/0.08) showed small positive effects (H3, arrows 16 and 21). Including these variables resulted in substantially smaller regression coefficients for actor anxiety (b = −023/−0.26 basic model vs. 0.18/−0.19 extension‐1) and avoidance (b = −0.54/−0.50 in the basic model vs. −0.40/−0.44 in extension‐1), whereas the effects of the other variables changed only marginally.
+
+Extension‐2 (2024) of the Basic Model: Validation and Repair
+
+Inclusion of validation and repair (extension‐2, 2024) in layer 4 of the basic model resulted in adequate model‐fit (χ 2 (df = 277, N = 893) = 578,468, p < 0.001, CFI = 0.948; NFI = 0.908; TLI = 0.913; IFI = 0.950; RMSEA = 0.048). The explained variance of the adjacent layer 3 actor perceived partner accessibility and responsiveness increased substantially (53%/52% in the basic model vs. 61%/61% in extension‐2). As expected, layer 4 actor perceived partner validation showed a large positive effect (b = 0.52/0.54; H3, arrow 24). Contrary to expectations, actor perceived partner repair showed a small negative effect (b = −0.06/−0.06; H3, arrow 24). Including these variables resulted in substantially smaller regression coefficients for actor anxiety (b = −0.24/−0.25 in the basic model vs. −0.17/−0.17 in extension‐2) and avoidance (b = −0.54/−0.51 in the basic model vs. −0.28/−0.30 in extension‐2), whereas the effects of the other variables changed only marginally.
+
+Extension‐3 (2024) of the Basic Model: Support‐Seeking, Validation and Repair
+
+Inclusion of support‐seeking, validation and repair (extension‐3, 2024) in layer 3 of the basic model resulted in adequate model‐fit (χ 2 (df = 592, N = 469) = 1,066,776, p < 0.001, CFI = 0.956; NFI = 0.909; TLI = 0.940; IFI = 0.957; RMSEA = 0.041). The explained variance of the adjacent layer 2 of need fulfillment changed only marginally. As expected, layer 3 actor support‐seeking showed a medium positive effect (b = 0.17/0.16; H2, arrow 26). Including support‐seeking resulted in a substantially smaller regression coefficient for actor perceived partner accessibility and responsiveness (b = 0.80/0.80 in the basic model vs. 0.72/0.73 in extension‐3; arrow 27) and a newly emerged small effect of actor anxiety (b = −0.07/−0.07), whereas the effects of the other variables changed only marginally.
+
+The inclusion of support‐seeking also led to only marginal changes in the explained variance of the upper layer 1 of relationship satisfaction. Small effects of actor (b = 0.10/0.09) and partner support‐seeking (b = −0.07/−0.07) on relationship satisfaction were detected, whereas the effects of the other variables changed only marginally.
+
+Explained variance of layer 3 support‐seeking itself by layer 4 predictors was 50% for men and 48% for women. As expected, actor avoidance showed a medium negative effect (b = −0.34/−0.33; H3, arrow 5), actor conflict withdrawal a small negative effect (b = −0.05/−0.05; H3, arrow 8), while actor emotional awareness (b = 0.18/0.16; H3, arrow 7) and actor perceived partner validation (b = 0.33/0.35; H3, arrow 9) showed medium positive effects. Additionally, actor anxiety showed a small to medium positive effect (b = 0.14/0.15; arrow 5).
+
+In sum, the bivariate correlations supported H1, H2, and H3 without exception. The complex multivariate models also unequivocally supported H1 and H2. H3 was supported by the multivariate models concerning support‐seeking, and concerning accessibility and responsiveness, by all the medium and large effects we detected. However, some of the small effects in the multivariate models concerning accessibility and responsiveness were non‐significant or in the opposite direction to what we had anticipated. 5
+
+Discussion
+
+We tested assumptions reflecting the core processes of the EFCT model in two independent samples. Explained variances of the four layers of the basic EFCT model (layer 1: relationship satisfaction, layer 2: need fulfillment, layer 3: accessibility and responsiveness, and layer 4: attachment, emotional awareness and clarity, and conflict styles) were quite high in both samples and replicated. At the heart of the model, support‐seeking and support‐giving (accessibility and responsiveness) were substantially associated with attachment and, to a lesser degree, with emotional awareness and conflict styles. Contrary to expectations, the addition of emotion regulation did not increase the explained variance of accessibility and responsiveness, whereas validation appeared to be strongly associated with both support‐seeking and accessibility and responsiveness and did substantially increase the explained variance of accessibility and responsiveness. In sum, this study found strong support for the assumed associations between key concepts of the basic EFCT model (Johnson 2020).
+
+Explaining Relationship Satisfaction: Need Fulfillment
+
+The core assumption of the EFCT model, namely that relationship satisfaction largely depends on relational need fulfillment, was strongly supported and replicated, with almost two thirds of its variance explained in line with previous studies (Patrick et al. 2007; Vanhee et al. 2016).
+
+Clinically this means that fulfilling unmet needs for relatedness (feeling close and cared for), autonomy (feeling free to be yourself and having a say), and competence (feeling valuable and effective) is key. This suggests that relationship satisfaction requires closeness and intimacy, sufficient room to pursue one's own interests, as well as experiencing self‐worth within the relationship. These three needs constitute major goals in EFCT.
+
+The centrality of need fulfillment is further underscored by our finding that accessibility and responsiveness, which is a central focus in the EFCT model, had no significant direct effect on relationship satisfaction; instead, in our models its impact was fully mediated by need fulfillment.
+
+Explaining Need Fulfillment: Accessibility and Responsiveness and Support‐Seeking
+
+The effects of support‐seeking and support‐giving on need fulfillment have not been tested in previous research. As expected, and replicated, need fulfillment strongly depends on support‐giving or partner accessibility and responsiveness, with almost 90% explained variance in both samples. In the 2024 sample, support‐seeking was added, showing, as expected, a medium positive effect on need fulfillment. Together this suggests strong support for the core tenet of the EFCT model: both sides of the ARE conversation, one partner openly expressing his/her needs and the other being accessible and responsive, are crucial for need fulfillment (Johnson 2020).
+
+Clinically, it is important to note that we assessed perceived partner accessibility and responsiveness. This suggests that it is crucial not only to enhance the support giver's actual accessibility and responsiveness but also the support‐seeker's perception of it. Scant evidence supports this (Collins and Feeney 2000). In therapy, when partners behave more accessibly and responsively, the other partner may initially not perceive these changes because of earlier experiences of feeling unsupported. Generally, it takes time before such changes are trusted as reliable and lasting.
+
+The centrality of accessibility and responsiveness is further underscored by our finding that attachment, on which the EFCT model is firmly based, had almost no direct effect on relationship satisfaction; instead, in our models its impact was almost fully mediated by perceived partner accessibility and responsiveness.
+
+Explaining Accessibility and Responsiveness: Attachment, Emotion Regulation and Validation
+
+Perceived partner accessibility and responsiveness was, in turn, most strongly associated with attachment, emotional cut‐off (2023 only), and partner validation (2024 only). As expected we found in both samples medium to strong negative effects of insecure attachment, particularly actor (and partner) avoidance, consistent with previous research (Péloquin et al. 2014*; Sandberg et al. 2012; Wiebe et al. 2017*; Zeytinoğlu‐Saydam et al. 2021). Emotional cut‐off, a destructive emotion regulation strategy characterized by keeping distance from others and not expressing emotions, showed a medium negative effect on partner accessibility and responsiveness without increasing its explained variance. Instead, it appeared to attenuate the effect of avoidance, suggesting conceptual overlap, which is not surprising. Partner validation, seen as an important mechanism in EFCT, had not previously been studied as a moderator of partner accessibility and responsiveness, but showed a strong positive effect and substantially increased its explained variance compared to models without validation. This suggests that the tendency to accept and validate partner emotions is crucial for accessibility and responsiveness, which is an important and novel finding. Interestingly, including partner validation reduced the impact of avoidance substantially, again suggesting conceptual overlap.
+
+Clinically, the roles of avoidance and emotional cut‐off can be understood in two related ways: partners may withdraw and suppress emotions when they perceive the other as inaccessible or unresponsive, and such withdrawal and suppression may, in turn, discourage and erode the partner's accessibility and responsiveness. In either case, reducing avoidance and expressing vulnerable emotions appears crucial. The conceptual overlap between avoidance and validation suggests a way to achieve this. Focusing on reciprocal validation in therapy may make interactions feel more secure, helping to temper the toxic effects of avoidance and encouraging partners to express emotions. Together, this can improve the ARE conversation.
+
+Explaining Support‐Seeking: Attachment, Emotional Awareness and Validation
+
+By including support‐seeking in 2024, we were able to test EFCT's assumptions that support‐seeking is constrained by insecure attachment, lack of emotional awareness and clarity, the previously understudied destructive conflict styles and the yet unstudied partner validation. We found only actor effects, with major contributions from attachment and partner validation. A substantial negative effect was found for insecure attachment, in particular avoidance, consistent with previous research (Brandão et al. 2023), and underscored by the small negative effect of conflict withdrawal. Further, we found a substantial positive association between partner validation and actor support‐seeking. Finally, a medium positive association between emotional awareness and support‐seeking was found.
+
+Clinically, the implications are straightforward. Emotional awareness may help partners identify unmet needs for which they seek support, as assumed in EFCT (Johnson and Greenberg 1987). Because avoidance restricts support‐seeking and ultimately need fulfillment, its toxic effects must be reduced. We again speculate that enhancing validation and acceptance by the partner will help build a more secure relationship in which avoidance becomes less necessary and support‐seeking is encouraged.
+
+Limitations and Future Research
+
+Several limitations warrant mentioning when interpreting study results. First, there are limitations regarding generalizability. Because we examined non‐clinical samples, the findings may not fully generalize to dissatisfied couples. For example, the fact that repair did not add much incremental explained variance in our models does not mean that repair is unimportant in EFCT (indeed, repair after transgressions is considered crucial in EFCT; Makinen and Johnson 2006). A possible explanation is the truncated range of couple satisfaction in our convenience samples. However, earlier work on associations between attachment and relationship satisfaction and instability showed comparable patterns in more and less securely attached subsamples (Conradi et al. 2021). Even so, we recommend that future research include dissatisfied samples. Relatedly, we recommend including couples in which one or both partners meet criteria for a clinical DSM diagnosis, as psychopathology presumably will affect associations between layers in the EFCT model. Further, our rather highly educated convenience samples may limit generalizability to the general population. Including both partners in actor‐partner modeling may also bias results toward happier relationships. Nonetheless, mean satisfaction was quite similar to population norms (Funk and Rogge 2007). Finally, we excluded non‐heterosexual couples because of power considerations. However, we suggest including these couples in future research, as this group remains severely understudied. Second, the cross‐sectional design precludes conclusions about EFCT mechanisms; we only mapped concurrent associations between its components. Speculations about underlying core mechanisms in EFCT, for example, that enhancing validation may lessen avoidance, need to be tested in experimental longitudinal designs to better understand the sustainability of their effects in the long term. Third, although we conducted APIM analyses, we tested only main effects and omitted interaction effects that could more precisely capture couple dynamics. For instance, actor anxiety*partner avoidance reflecting demand‐withdraw interactions. Strengths of the study include the relatively large samples, the examination of both actor and partner effects, and, importantly, the use of two independent samples that allowed replication of the basic EFCT model which is important for minimizing chance findings.
+
+Research and Clinical Conclusions
+
+Scientifically, this study is the first to include a broad set of self‐reported variables covering EFCT's core processes within a comprehensive SEM‐based APIM model, replicated in an independent sample. The replication of core findings suggests that these models are likely to be replicable in future research and provides a strong foundation for further studying EFCT's core processes.
+
+Clinically, we found convincing and strong support for EFCT's central targets of change. First, relationship satisfaction largely depends on the fulfillment of needs for relatedness, competence, and autonomy. These needs should therefore be central foci in EFCT. Second, we found that need fulfillment depends almost entirely on the complex process of support‐seeking (being aware of and expressing unmet relational needs) and, even more importantly, on perceived support‐giving (being accessible and responsive to the partner's needs). These associations had not been studied before and are now supported as appropriate focal points of EFCT. Third, we found that both support‐seeking and support‐giving depend primarily on reducing insecure attachment, particularly avoidance, and enhancing the tendency to validate each other's emotions and needs. Validation had not been studied before, and because it appears to attenuate avoidance and positively affect both support‐seeking and support‐giving (accessibility and responsiveness), it may prove a crucial leverage point in the EFCT process. Examining these core processes in experimental studies may further strengthen EFCT.
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+Supporting information
+
+Table S1: Socio‐demographic characteristics per sex and sample. Table S2: Means and Cronbach's alphas of study measures per sex and sample. Table S3: Zero‐order correlations between actor study variables in 2023 (N = 848) and 2024 (N = 938) samples.
+
+Table S1: Socio‐demographic characteristics per sex and sample.
+
+Table S2: Means and Cronbach's alphas of study measures per sex and sample.
+
+Table S3: Zero‐order correlations between actor study variables in 2023 (N = 848) and 2024 (N = 938) samples.
+
+Endnotes
+
+When studies were conducted with clinical samples, this is explicitly indicated by adding an asterisk (*) after the in‐text reference; all other studies used non‐clinical samples.
+
+Due to inconsistent previous results we did not formulate a hypothesis about the association between attachment anxiety and support‐seeking.
+
+In measurement invariance studies scalar and residual invariance can also be assessed. In our study these stronger forms of invariance showed slightly less adequate model fit. Full results can be obtained from the authors upon request.
+
+The four b coefficients refer to males and females in the 2023 and 2024 samples, respectively.
+
+This concerned small effects on actor perceived partner accessibility and responsiveness, namely the small positive effects of partner emotional reactivity and actor emotional suppression, and the small negative effect of actor perceived repair by the partner (see Table 1). We speculate that, in the multivariate models, these predictors' expected effects were partly absorbed by other correlated predictors, leaving only small residual effects in the opposite direction.
+
+Data Availability Statement
+
+The data that support the findings of this study are available from the corresponding author upon reasonable request.
+
+References
+
+Associated Data
+
+Supplementary Materials

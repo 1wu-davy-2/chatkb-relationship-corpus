@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10725155",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Scripts for consensual sex as risk factors for sexual aggression: A three-wave longitudinal study with university students in Germany.",
+  "authors": "Krahé B, Berger A.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/17455057231213269",
+  "pmcid": "PMC10725155",
+  "url": "https://europepmc.org/article/PMC/PMC10725155",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10725155/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "Background Sexual aggression is a major problem among young adults. Sexual scripts are cognitive schemata representing typical elements of sexual interactions and serve as guidelines for sexual behavior. They may be linked to the risk of sexual aggression if they contain elements known to be associated with the perpetration of sexual aggression, such as alcohol use, sex with casual partners, and ambiguous communication of sexual intentions. Objectives The study was designed to examine pathways from risky sexual scripts for consensual sex to risky sexual behavior and sexual aggression perpetration in men and women. Design The study employed a three-wave longitudinal design with 12-month intervals. Participants were 2425 university students in Germany (58% female). Methods At each wave (Time 1-Time 3), participants completed measures of risky sexual scripts and risky sexual behavior, defined by three aspects: Casual sex, alcohol consumption, and ambiguous communication of sexual intentions. Reports of sexual aggression perpetration were collected since the age of consent (14 years; Time 1) or in the past 12 months (Time 2 and Time 3) using the Sexual Aggression and Victimization Scale. Results Perpetration rates for men were 9.8% at Time 1, 12.2% at Time 2, and 9.5% at Time 3. For female participants, the corresponding rates were 6.0% at Time 1, 6.3% at Time 2, and 5.1% at Time 3. The gender difference was significant at Time 1 and Time 2, but not at Time 3. As hypothesized, more risky sexual scripts prospectively predicted more risky sexual behavior, which predicted a higher risk of sexual aggression perpetration. The findings held for men and women and for participants with exclusively opposite-sex and with both opposite- and same-sex contacts. Conclusion Scripts for consensual sex may be risk factors for sexual aggression among men and women if they contain elements identified as risk factors for sexual aggression. The findings suggest that changing risky sexual scripts for consensual sex may be a promising strategy for preventing sexual aggression perpetration.",
+  "raw_path": "01_raw/europepmc_xml/PMC10725155.xml",
+  "text_path": "02_text/europepmc/PMC10725155.txt",
+  "raw_bytes": 133223,
+  "text_chars": 44772,
+  "raw_sha256": "81d6dccd432ad5de4e7dd3ff6b462049093879de9b204fa473c029b4a8dae5eb",
+  "text_sha256": "079c3b1b21999d77879865bdd0a82228ff8e219ed6c05bdb08b306aea7b3edaf",
+  "retrieved_at": "2026-10-26T13:09:00.468937+00:00"
+}

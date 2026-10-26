@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12355995",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Safety behaviors during dates among individuals with social anxiety disorder.",
+  "authors": "Shechter Strulov T, Aderka IM.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1016/j.ijchp.2025.100614",
+  "pmcid": "PMC12355995",
+  "url": "https://europepmc.org/article/PMC/PMC12355995",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12355995/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "Individuals with social anxiety disorder (SAD) often struggle with forming and maintaining romantic relationships, which are vital for mental and physical health. A core feature of SAD is the use of safety behaviors - strategies to reduce anxiety that may unintentionally maintain negative emotions and impede the development of genuine connections. In the present study, we examined safety behavior use during dates/romantic interactions among individuals with ( n = 54) and without SAD ( n = 54). We used a daily diary design, in which participants reported on dates/romantic interactions, emotions, and safety behaviors in their daily lives for 21 consecutive days. Results indicated that both individuals with and without SAD used more safety behaviors during dates compared to other interactions, with this effect being significantly stronger for individuals with SAD. Furthermore, safety behaviors during dates were associated with negative emotions, with this effect also being significantly stronger for individuals with SAD. In contrast, no significant association was found between safety behaviors during dates and positive emotions. We discuss these findings within the context of cognitive-behavioral models of SAD, and delineate implications for therapeutic interventions and for the targeting of dating-specific safety behaviors in SAD.",
+  "raw_path": "01_raw/europepmc_xml/PMC12355995.xml",
+  "text_path": "02_text/europepmc/PMC12355995.txt",
+  "raw_bytes": 113128,
+  "text_chars": 42625,
+  "raw_sha256": "2410b8a37debbdcc5229be679994b2c8d41d571a5a892b37b940c1fb24dbc57f",
+  "text_sha256": "8785d3423e0dee163aacb801430544fb601546c048e0fff1a03eea3e4be34510",
+  "retrieved_at": "2026-10-25T13:55:50.179326+00:00"
+}

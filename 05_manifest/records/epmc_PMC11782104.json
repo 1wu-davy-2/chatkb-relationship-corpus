@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11782104",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A latent profile analysis of relationship satisfaction and self-regulation among low-income participants who attended relationship education with a partner.",
+  "authors": "Carlson RG, Wheeler NJ, Liu X, Carroll N.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/famp.13051",
+  "pmcid": "PMC11782104",
+  "url": "https://europepmc.org/article/PMC/PMC11782104",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11782104/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "Relationship education has shown promising effects for low-income couples on outcomes such as promoting positive communication, improving global relationship satisfaction, parenting, and individual psychological distress. Studies also indicate that couples' baseline distress (e.g., relational and individual) moderates outcomes. Yet, few studies implemented a person-centered approach to analyzing data for those who participate in relationship education. In a sample of 488 low-income opposite-gendered couples, we identified latent profile groups for men and women based on self-reported relationship satisfaction and behavioral self-regulation scores, thus incorporating both relational and individual factors. Results yielded a three-class solution for men and a four-class solution for women. We then examined group profile differences in individual psychological distress and relationship satisfaction change scores after completing the relationship education intervention (12 h of PREP's Within Our Reach). Results indicated significant differences, suggesting that group membership can predict overall improvements in both psychological and relationship distress. Thus, RE programmers and policymakers may consider flexible delivery (e.g., more or less content; more or less intense coaching) that considers overall baseline relational and/or individual functioning as opposed to a one-size-fits-all method.",
+  "raw_path": "01_raw/europepmc_xml/PMC11782104.xml",
+  "text_path": "02_text/europepmc/PMC11782104.txt",
+  "raw_bytes": 144632,
+  "text_chars": 52769,
+  "raw_sha256": "c90478768343f498e540e980eb88c7eb6f333ffb3e797a63e4397274dcd7803b",
+  "text_sha256": "46b707dcf36f05502b126dec06b9519a1157e59b71eb4703da1e027c4860158f",
+  "retrieved_at": "2026-10-25T13:55:48.499711+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_family_planning",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "计划生育",
+  "requested_title": "计划生育",
+  "url": "https://zh.wikipedia.org/wiki/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 计划生育",
+  "topics": [
+    "china",
+    "family"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/family_planning.json",
+  "text_path": "02_text/zh_wikipedia/family_planning.txt",
+  "raw_bytes": 21858,
+  "text_chars": 8118,
+  "text_sha256": "cd691e27e4e9455e4f2f3df66c103f96efa4208371d34316c947bded8c24965f",
+  "retrieved_at": "2026-10-25T16:28:10.480361+00:00"
+}

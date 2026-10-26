@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_51887",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Etiquette Made Easy",
+  "gutenberg_id": "51887",
+  "url": "https://www.gutenberg.org/ebooks/51887",
+  "download_url": "https://www.gutenberg.org/cache/epub/51887/pg51887.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/51887.txt",
+  "text_path": "02_text/gutenberg/gut_51887_etiquette_made_easy.txt",
+  "raw_bytes": 142613,
+  "text_chars": 115704,
+  "text_sha256": "4543aff7ac9a5baf112cf9133efdd7ae42963dffcdbfe9c0d47e1d00c16c6526",
+  "retrieved_at": "2026-10-25T15:55:17.323307+00:00"
+}

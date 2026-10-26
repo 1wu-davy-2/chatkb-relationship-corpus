@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10351034",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Agentic and communal narcissism in predicting different types of lies in romantic relationships.",
+  "authors": "Harhoff N, Reinhardt N, Reinhard MA, Mayer M.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2023.1146732",
+  "pmcid": "PMC10351034",
+  "url": "https://europepmc.org/article/PMC/PMC10351034",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10351034/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Several studies have investigated a potential positive association between agentic narcissism and general dishonesty, revealing both supportive and contradicting evidence. Few have focused on dishonesty within romantic relationships, a phenomenon that occurs in almost all partnerships. With the present research, we first aimed to extend existing literature on narcissism by including its two complementary facets (i.e., agentic and communal narcissism). Second, we aimed to improve the understanding of narcissists' lying behavior in the context of partnerships by distinguishing between two different types of lies (i.e., self-centered and other-oriented lies). We hypothesized that both, people higher in agentic and communal narcissism, will report increased dishonesty toward their romantic partners (Hypothesis 1). Given the self-benefit function of self-centered lies and given that agentic narcissists aim to fulfill their relationship-based motives by agentic means, we predict agentic narcissism (compared with communal narcissism) will be a stronger predictor for self-centered lies (Hypothesis 1a). Given the other-benefiting function of other-oriented lies and given that communal narcissists aim to fulfill their motive of self-enhancement by communal means, we predict that communal narcissism (compared with agentic narcissism) will be a stronger predictor for other-oriented lies (Hypothesis 1b). In two preregistered online studies ( N = 298: N = 256) we showed that people higher in agentic narcissism believed to be good liars, but this does not lead to higher self-reported frequencies of other-oriented and self-centered lies within romantic relationships historically; communal narcissism was also not related to self-reported deception. Limitations and directions for future research are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC10351034.xml",
+  "text_path": "02_text/europepmc/PMC10351034.txt",
+  "raw_bytes": 112814,
+  "text_chars": 39867,
+  "raw_sha256": "f4c255f2803e09d0d8c670136abd514d532b93a74dc6e49b45d5f75ca6361c8d",
+  "text_sha256": "382eb65d235a815c3e350c9d5090c078d3da128177b879b6e4dd96af2dd8e283",
+  "retrieved_at": "2026-10-25T13:59:18.932390+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_14325",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Taboo and genetics : A study of the biological, sociological and psychological foundation of the family",
+  "gutenberg_id": "14325",
+  "url": "https://www.gutenberg.org/ebooks/14325",
+  "download_url": "https://www.gutenberg.org/cache/epub/14325/pg14325.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "psychology of sex"
+  ],
+  "raw_path": "01_raw/gutenberg/14325.txt",
+  "text_path": "02_text/gutenberg/gut_14325_taboo_and_genetics_a_study_of_the_biolog.txt",
+  "raw_bytes": 363560,
+  "text_chars": 337098,
+  "text_sha256": "403fcd20d5921b9e9a0dbf4b29b329e262fa3ebfda0e5ff6b7bab0e6f00e60ea",
+  "retrieved_at": "2026-10-26T13:01:06.064691+00:00"
+}

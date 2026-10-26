@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11852125",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Intimate Partner Violence and Sexual Risk-Taking: Attachment Avoidance as a Linking Mechanism.",
+  "authors": "Woerner J, Kopetz C, Arriaga X.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15020239",
+  "pmcid": "PMC11852125",
+  "url": "https://europepmc.org/article/PMC/PMC11852125",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11852125/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "Why might women who experience intimate partner violence (IPV) become more likely to engage in risky sexual behavior? Women's interest in casual sex may satisfy relational expectations and connection needs, while avoiding the types of close attachments that previously were violent. Specifically, attachment avoidance was tested as a mechanism linking IPV victimization and risky sexual behavior. Women who experienced (vs. did not experience) partner violence reported higher rates of risky sexual behavior, and this association was mediated by attachment avoidance (Study 1, N = 312; age range 18-58 years, M = 28). Making IPV salient via an experimental manipulation caused more avoidant perceptions (Study 2, N = 140; age range 19-57 years, M = 31), and inducing an avoidant mindset via an experimental manipulation caused greater sexual interest (Study 3, N = 128; age range 19-66 years, M = 33). These findings suggest that IPV disrupts expectations of security and reinforces a manner of connecting with partners that leads to risky sexual encounters.",
+  "raw_path": "01_raw/europepmc_xml/PMC11852125.xml",
+  "text_path": "02_text/europepmc/PMC11852125.txt",
+  "raw_bytes": 147063,
+  "text_chars": 56928,
+  "raw_sha256": "e50a01d622463f7f5f699d965b6a237694a392c4c4ab13416dbc08b9d3cae4c2",
+  "text_sha256": "078df460faee1894fcf3fe395b0e278222771e2a35cd4643f76ceb3f24b66b4a",
+  "retrieved_at": "2026-10-26T13:07:54.887764+00:00"
+}

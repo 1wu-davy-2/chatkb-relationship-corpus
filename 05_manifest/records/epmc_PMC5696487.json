@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5696487",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Voluntary and Involuntary Singlehood and Young Adults' Mental Health: an Investigation of Mediating Role of Romantic Loneliness.",
+  "authors": "Adamczyk K.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.1007/s12144-016-9478-3",
+  "pmcid": "PMC5696487",
+  "url": "https://europepmc.org/article/PMC/PMC5696487",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5696487/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "The present study tested the hypothesis that single young adults who perceive their singlehood as voluntary would report a higher level of positive mental health (i.e., emotional, psychological and social well-being), lower levels of mental health illness (i.e., somatic symptoms, anxiety, social dysfunction, severe depression) and romantic loneliness in comparison to young adults who perceive their singlehood as involuntary. This paper also investigated whether romantic loneliness mediates the relationship between voluntary and involuntary singlehood, positive mental health, and mental health illness. The study sample included 151 participants (86 females and 65 males) aged 20-26 ( M = 22.48, SD = 2.01) from Poland. The main findings were that voluntarily single young adults reported a lower level of romantic loneliness compared to involuntarily single young adults. The two groups differed neither in regard to positive mental health nor in regard to mental health problems. In addition, gender differences were observed solely in the domain of romantic loneliness, with women reporting greater romantic loneliness than men. The mediation analysis revealed that romantic loneliness does not mediate the relationship between voluntary and involuntary singlehood, positive mental health, and mental health illness. Voluntary and involuntary singlehood was predictive of somatic symptoms, anxiety and insomnia, severe depression, and romantic loneliness.",
+  "raw_path": "01_raw/europepmc_xml/PMC5696487.xml",
+  "text_path": "02_text/europepmc/PMC5696487.txt",
+  "raw_bytes": 162166,
+  "text_chars": 68722,
+  "raw_sha256": "41143607a5ca8b3fe1b5c70b53c60ed4ae9be07af3f46f8e20d7b256af31d282",
+  "text_sha256": "1c96d06c017d9d1174e586a84fa1feea30f4b84c7f953d795a7e34335a3c20aa",
+  "retrieved_at": "2026-10-25T15:41:18.012019+00:00"
+}

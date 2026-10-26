@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11514646",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Predictors and memory consequences of dating decisions in a dating app-analogue study.",
+  "authors": "Zhang Y, Santtila P.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1017/ehs.2024.22",
+  "pmcid": "PMC11514646",
+  "url": "https://europepmc.org/article/PMC/PMC11514646",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11514646/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "With the rise of dating apps, people have access to a vast pool of potential partners at their fingertips. The present study examined how various factors would predict an individual's dating decisions in a dating app-analogue study. Participants ( N = 269) first completed some trait measures and then a mock-dating task in which they judged the attractiveness of a series of targets and then decided whether to match with the target or not. Their memories for the targets were tested on the second day. People who were more (vs. less) short-term oriented were more likely to match with short-term-oriented targets. Moral disgust and sexual disgust negatively predicted the matching with short-term-oriented targets. Contrary to our hypothesis, we did not find support that people with higher (vs. lower) pathogen disgust sensitivity would selectively match with more attractive targets. Exploratory analyses showed that people who were more (vs. less) short-term oriented, more (vs. less) sexually attractive, or had higher (v. lower) mate value, were more likely to match with targets they considered as attractive. Finally, people have better memories of the faces they chose to match than to not match. Implications for mating research and limitations are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC11514646.xml",
+  "text_path": "02_text/europepmc/PMC11514646.txt",
+  "raw_bytes": 171690,
+  "text_chars": 59633,
+  "raw_sha256": "1d42bfdc51cf471e5781ebf33390491d5305b21c6a5f8c6a8249d582b6d20561",
+  "text_sha256": "081318376bbb8881690f31ad3e7f7d871b68cffaa9ab1fdc2f11b17e2932882f",
+  "retrieved_at": "2026-10-25T15:48:49.683309+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9986041",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexting Behaviors Before and During COVID-19 in Italian and Colombian Young Adults.",
+  "authors": "Morelli M, Plata MG, Isolani S, Zabala MEZ, Hoyos KPC, Tirado LMU, Gracia MSR, Barbosa CP, Pistella J, Zuffianò A, Gerbino M, Laghi F, Pastorelli C, Baiocco R.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1007/s13178-023-00798-z",
+  "pmcid": "PMC9986041",
+  "url": "https://europepmc.org/article/PMC/PMC9986041",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9986041/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Introduction Recent research highlight increasing at-risk online sexual activities and behaviors during the COVID-19 pandemic among young adults. Specifically, sexting refers to exchanging sexually suggestive messages, photos, and videos through technological devices, and it can be placed on a continuum from safer to riskier behavior. This study aims to improve our knowledge about sexting behaviors in Italian and Colombian young adults before and during the COVID-19 pandemic. Methods A survey online was filled in by all recruited participants through a snowball sampling procedure (from December 2019 to June 2021) both in Italy and Colombia, resulting in a total of 2931 participants (2051 from Italy and 880 from Colombia) aged 18 to 35 years old ( M age = 23.85; SD age = 3.63; 67.6% girls). Results Italian youth were more engaged in risky sexting than Colombian participants, while Colombians indicated being more engaged in non-consensual sexting than Italians. Sexual minority people reported more sharing their own sexts, higher levels of sexting under pressure, and 3.2 times more risky sexting than exclusively heterosexual counterparts. During the pandemic period, participants sent their own sexts 1.5 times more and were less involved in non-consensual sexting than in the pre-pandemic era. Conclusions The present research could help understand better the cultural dynamics underlying the differences in sexting behaviors, suggesting the relevance of investigating how sexting behaviors and online at-risk activities have changed since the pandemic started. Policy implications Results provide implications for educational and prevention programs to improve young people's awareness of sexting behaviors.",
+  "raw_path": "01_raw/europepmc_xml/PMC9986041.xml",
+  "text_path": "02_text/europepmc/PMC9986041.txt",
+  "raw_bytes": 148960,
+  "text_chars": 47896,
+  "raw_sha256": "5d005651e262e148aa6bb35273e57a6bab6e42085ec7f4c9eb350b061bec6874",
+  "text_sha256": "7a7b6bbb86dfb75d7e217829697365745250868fc28cd95415eeef8019a583ed",
+  "retrieved_at": "2026-10-26T12:56:31.047410+00:00"
+}

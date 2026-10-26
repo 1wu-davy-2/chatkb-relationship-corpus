@@ -1,0 +1,364 @@
+TITLE: The mediating role of cognitive emotion regulation skills in the relationship between romantic relationship satisfaction and eating attitudes.
+AUTHORS: Yılmazer E, Türk F, Hamamci Z.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1186/s40359-025-02868-w
+PMCID: PMC12217204
+LICENSE: cc by-nc-nd
+LICENSE_URL: https://creativecommons.org/licenses/by-nc-nd/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC12217204
+TOPICS: romantic_relationship
+
+---
+
+ABSTRACT
+AbstractBackgroundRomantic relationship satisfaction has been linked to psychological outcomes, including emotional well-being and eating behaviors. However, the mechanisms underlying this relationship remain unclear. This study examines the mediating role of cognitive emotion regulation strategies—particularly catastrophizing—in the relationship between romantic relationship satisfaction and eating attitudes.MethodsA cross-sectional study was conducted with 355 university students. Participants completed the Relationship Satisfaction Scale, the Cognitive Emotion Regulation Questionnaire (CERQ), and the Eating Attitudes Test-26 (EAT-26). Structural equation modeling (SEM) was performed using AMOS and R with robust maximum likelihood estimation. Model fit was evaluated using χ2/df, CFI, GFI, RMSEA, and SRMR.ResultsCatastrophizing significantly mediated the relationship between romantic relationship satisfaction and eating attitudes. Romantic relationship satisfaction was negatively associated with catastrophizing (β = -0.18, p = .028), and catastrophizing was positively associated with problematic eating attitudes (β = 0.35, p < .001). The direct effect of romantic relationship satisfaction on eating attitudes was not statistically significant (β = -0.12, p = .104), indicating full mediation. Acceptance did not significantly mediate the relationship (p = .348). Gender differences were observed: women scored significantly higher on rumination, dieting, and bulimia/food preoccupation (p < .05).ConclusionsThese findings highlight the role of maladaptive cognitive emotion regulation—specifically catastrophizing—in linking romantic relationship dissatisfaction with disordered eating attitudes. Targeting catastrophizing in interventions may improve both relationship satisfaction and eating behaviors.Keywords: Cognitive emotion regulation, Romantic relationship Satisfaction, Eating attitudes, Maladaptive stratejies, Catastrophizing
+
+BODY
+Introduction
+
+Romantic relationships significantly impact individuals'overall well-being, psychological well-being, and ability to perform effectively. Romantic relationship satisfaction refers to the shared subjective fulfillment of the partners'needs and expectations in the relationship [1]. It encompasses the psychological satisfaction derived from expressing love and affection towards each other and the act of sharing experiences [2]. Hendrick [3] defined relationship satisfaction as the subjective evaluation of the feelings, thoughts and behaviors of the individual about the romantic relationship and the feelings towards the partner. A positive subjective evaluation of the quality of the relationship indicates that the individual is satisfied with the relationship, while a negative evaluation indicates that the individual is not satisfied with the relationship [4].
+
+Satisfaction and dissatisfaction with romantic relationships are closely related to many areas of life. Relationship satisfaction is negatively associated with many variables that are important for individuals'mental health, such as depression [5, 6] and stress [7–9]. Individuals'satisfaction with their relationships has a significant positive impact on their overall happiness and emotional well-being [10]. It has been shown that couples with healthy conflict resolution and communication skills provide more satisfaction in the relationship and that their relationships last longer and their life satisfaction is higher [11, 12]. Similarly, studies conducted in Türkiye have shown that effective communication, emotional closeness, and mutual support in romantic relationships are positively associated with relationship satisfaction and overall psychological well-being [13]. As a result, it has been observed that individuals who use appropriate and healthy cognitive emotion regulation skills and coping strategies in their relationships increase their relationship satisfaction and the benefits they derive from the relationship [14, 15]. Findings from Turkish samples also support that the use of adaptive cognitive emotion regulation strategies such as positive reappraisal and refocusing on planning is significantly related to greater satisfaction in romantic partnerships [16]. In contemporary society, the increasing prevalence of the internet and social media has caused a shift in individuals'body perceptions [17, 18], thereby influencing their eating patterns [19, 20]. Turkish research has similarly indicated that exposure to idealized body images on social media contributes to increased body dissatisfaction and unhealthy eating behaviors, especially among university students [21]. Eating disorders, which are more common in women [22–24] are a psychiatric disorder that negatively affects individuals'mental and physical health as well as functionality in many areas of life [25]. Several Turkish studies have reported high levels of disordered eating attitudes among female university students, often linked to sociocultural pressures and body image concerns [26, 27]. If an individual cannot stop eating even though he/she wants to maintain his/her body image and does not want to gain weight, this situation can be considered as impaired eating attitude. Eating attitudes are affected by many different dynamics such as genetic factors [28], environmental factors [29] and psychological factors [30]. Another one of these factors is the emotional states of the individual and their ability to control and cope with their emotions that arise in various contexts [31]. As a method of coping with emotions, individuals may show behaviors such as binge eating, consuming high-calorie foods, and eating late at night [32]. When the literature is examined, it is found that individuals consume high-calorie foods when their stress levels and anxiety levels increase, and prefer healthy foods when they are in positive and pleasant emotions [33]. Individuals may show binge eating behavior to escape the burden of negative emotions and to feel good [34] In summary, increased emotional intensity, duration and intensity of negative emotions affect eating attitudes, eating motivation and food preferences [35, 36]. Therefore, it can be said that emotion regulation strategies are an important factor in individuals'eating attitudes. Studies in Türkiye have also highlighted that maladaptive emotion regulation strategies, such as rumination and catastrophizing, are positively associated with emotional eating and binge eating tendencies [37, 38].Cognitive emotion regulation strategies are mechanisms for coping with challenging [39], intense stress and pressure situations [40]. Cognitive emotion regulation strategies are categorized into two main groups defined as “more functional” and “less functional” [41].While blaming oneself and others, repetitive and catastrophizing thoughts are maladaptive emotion regulation approaches; methods such as accepting without judgment, solution-oriented approaches, re-planning and focusing, and reevaluating the situation in a positive and constructive way are among the adaptive cognitive emotion regulation strategies [42].
+
+According to Gross and Munoz [43] there is a belief that deficiencies in individuals'problem-solving abilities are connected to different psychological diseases and can even contribute to the development of such disorders. Furthermore, the presence of emotional dysregulation is a shared characteristic among several psychological diseases [44]. Research highlights that insufficient emotion management abilities are a transdiagnostic issue, as emphasized by Fernendez and colleagues (2016) [45]. Overall, studies indicate that dysfunctional or maladaptive emotion regulation strategies, such as rumination and avoidance, have a more significant correlation with psychological issues compared to functional or adaptive strategies, such as problem solving, reappraisal, and acceptance [46, 47] (Nolen-Hoeksema S, Jacobs R. Adaptive and maladaptive forms of rumination and self-reflection: Tests of different theories. Unpublished manuscript. 2007). Previous studies have shown that dysfunctional emotion regulation strategies are associated with various psychological symptoms such as anxiety, depressive symptoms and aggression [48]. Emotion regulation difficulties are associated with personality disorder [49], internalizing and externalizing problems in children [50], depression [51–53] and anxiety disorders [54, 55].
+
+The current study
+
+When the relationship between cognitive emotion regulation and eating attitudes is examined, eating and emotion regulation can mutually affect each other [56]. One of the main components of eating pathologies is negative emotions and there is a dynamic relationship between negative affect and eating pathology [57]. It has been found that individuals who cannot successfully regulate their emotions have impaired eating attitudes and use eating to control their emotions [58]. Moreover, it has been reported that automatic, dysfunctional, faulty thoughts and emotion regulation deficiencies are among the sustaining risk factors of negative eating attitudes [59]. Both clinical [60] and non-clinical studies [61] have shown that problem-solving style is associated with the development of eating disorder susceptibility. Similarly, in a study comparing those diagnosed with Blumia nervosa with a healthy group, it was observed that the diagnosed group exhibited less effective problem solving skills in social situations [62]. In another study comparing those with eating disorder symptoms with a healthy group, it was found that those with eating disorder symptoms had difficulty in finding effective solutions to various problems (eating, weight gain and interpersonal relationships) they faced in daily life [63]. Similarly, emotion regulation difficulties were found to be present in patients admitted to bariatric surgery [64] and in individuals with eating disorders such as anorexia and bulimia [65]. Individuals with eating disorders were found to have high levels of anxiety and rumination [66]. In a meta-analysis study related to this finding, it was reported that there were consistent relationships between rumination and all forms of eating disorders [67]. It has been determined that eating attitude is negatively affected by impaired cognitive emotion regulation strategies [68, 69]. Therefore, it is possible to say that there is a strong relationship between eating disorders and emotion regulation strategies.
+
+Romantic relationship satisfaction has also been found to be related to cognitive emotion regulation skills in various studies. Since relationships involve intense emotions, conflicts and problems are inevitable. It is important to regulate these emotions in a healthy way in order for relationships to be satisfactory. Therefore, having developed cognitive emotion regulation skills is beneficial for strengthening relationships [70]. It has been observed that individuals who use appropriate and healthy cognitive emotion regulation skills and coping strategies in their relationships have increased relationship satisfaction [14]. Moreover, individuals with negative eating attitudes may turn to negative eating attitudes as a coping strategy because they do not get enough satisfaction, attention, and affection in their social or romantic relationships and try to cope with the emotions they feel deficient or want to get rid of through eating [71]. It has been suggested that the use of ineffective problem-solving skills in the context of interpersonal problems may lead to chronic conflict and increase eating problems [72]. In summary, the findings of many studies have revealed that individuals with negative cognitive emotion regulation skills are predisposed to develop symptoms of eating attitude disorder due to the dysfunctional strategies they use to regulate their emotions [46]. In addition, the mediating role of emotion regulation difficulty has been shown in various studies examining the risk factors of risky eating attitudes and depression [73–75]. As a result, it is seen that the cognitive emotion regulation skill variable is related to eating attitude and relationship satisfaction separately, but also eating attitude and relationship satisfaction are related to each other. On the other hand, we did not come across a study that revealed the role of emotion regulation strategies in the relationship between the satisfaction of individuals in romantic relationships and their eating attitudes. It is thought that individuals who are satisfied with their romantic relationships have healthier eating attitudes, while individuals who are not satisfied with their relationships have negative, dysfunctional eating attitudes. Satisfaction or lack of satisfaction from relationships is related to emotions. It is seen that revealing the role of negative cognitive emotion regulation skills in coping with negative emotions and emotional intensity in this relationship can shed light on the studies in this field. It is thought that the results of this study can be used both in couple therapy practices and in understanding eating attitudes. Moreover, by revealing the role of emotion regulation strategies, it will be possible to work with these strategies in both research and clinical applications. For all these reasons, the aim of this study is to examine the mediating role of emotion regulation strategies in the relationship between romantic relationship satisfaction and eating attitudes. Specifically, (1) romantic relationship satisfaction is expected to be negatively associated with problematic eating attitudes, meaning lower satisfaction in romantic relationships predicts more disordered eating behaviors. (2) Romantic relationship satisfaction is hypothesized to be significantly associated with emotion regulation strategies, with higher satisfaction linked to more adaptive strategies (e.g., acceptance, refocusing on planning) and lower satisfaction linked to maladaptive strategies (e.g., rumination, catastrophizing). (3) Emotion regulation strategies are expected to be significantly associated with eating attitudes, such that maladaptive strategies (e.g., rumination, catastrophizing) predict more problematic eating attitudes, while adaptive strategies predict healthier eating behaviors. (4) Emotion regulation strategies are hypothesized to mediate the relationship between romantic relationship satisfaction and eating attitudes, such that lower relationship satisfaction contributes to maladaptive emotion regulation strategies, which in turn lead to more problematic eating behaviors.
+
+The theoretical model in this study positions cognitive emotion regulation strategies as a mediator linking romantic relationship satisfaction and eating attitudes. This model is based on the assumption that dissatisfaction in romantic relationships generates emotional distress, prompting individuals to use maladaptive cognitive emotion regulation strategies such as catastrophizing and rumination to cope with negative emotions. These maladaptive strategies subsequently contribute to unhealthy eating behaviors, including emotional eating or disordered eating patterns. Although alternative sequences (e.g., eating attitudes mediating between cognitive emotion regulation and relationship satisfaction) are theoretically conceivable, existing evidence predominantly supports the directionality proposed here, emphasizing emotion regulation difficulties as central mediators connecting interpersonal distress to disordered eating [76].
+
+Method
+
+Research model
+
+This study employs a SEM approach to examine the mediating role of cognitive emotion regulation strategies in the relationship between romantic relationship satisfaction and eating attitudes. SEM allows for simultaneous estimation of direct and indirect effects while accounting for measurement error, making it a suitable technique for testing mediation models [77, 78].
+
+The hypothesized model consists of three latent variables: (1) Romantic Relationship Satisfaction, (2) Cognitive Emotion Regulation (CER), and (3) EAT-26. Romantic Relationship Satisfaction is represented as a latent construct with observed indicators derived from the Relationship Satisfaction Scale by Hendrick (1988). Cognitive Emotion Regulation is modeled using its subscales, including Catastrophizing, Acceptance, and Rumination, measured via CERQ by Garnefski and colleagues (2002). EAT-26 is conceptualized as a latent variable with three observed subscales: Dieting, Bulimia & Food Preoccupation, and Oral Control by Garner and colleagues (1982).
+
+Before testing the structural relationships, a Confirmatory Factor Analysis (CFA) was conducted to validate the measurement model, ensuring that observed variables reliably represented their corresponding latent constructs (Brown, 2015). Model fit was assessed using multiple indices, including the Comparative Fit Index (CFI ≥.90), Goodness-of-Fit Index (GFI ≥.90), Root Mean Square Error of Approximation (RMSEA ≤.08), and Standardized Root Mean Square Residual (SRMR ≤.08) (Hu & Bentler, 1999). After confirming adequate fit, the structural model was estimated to examine the direct and indirect effects, testing the mediation hypothesis.
+
+This modeling approach aligns with prior research exploring the role of cognitive emotion regulation in psychological outcomes and relationship dynamics [46, 79], providing a robust framework for investigating the interrelationships among relationship satisfaction, cognitive emotion regulation, and eating attitudes.
+
+Sample size determination
+
+The sample size was determined based on power analysis guidelines for SEM using G*Power [80]. To achieve a recommended statistical power of.80, with an alpha level of.05 and a moderate anticipated effect size (f2 =.15), a minimum sample size of 220 participants was required. Additionally, following recommendations for SEM [81, 82], our model consisting of approximately 30 parameters required between 150 and 300 participants (5–10 participants per parameter). Thus, our final sample (N = 355) exceeds both power analysis and SEM guidelines, indicating that the sample size is sufficiently robust to support the statistical validity of our analyses.
+
+Participants
+
+The sample of the study consisted of 355 university students between the ages of 17–60 who were in romantic relationships and who were studying at various faculties and departments of Beykoz University, İstanbul between 2023-2024.
+
+Inclusion and exclusion criteria
+
+Participants in this study were selected based on specific inclusion and exclusion criteria to ensure the relevance and validity of the findings. Inclusion criteria required participants to be (1) at least 18 years old, (2) currently in a romantic relationship, and (3) fluent in Turkish to ensure comprehension of the survey materials. These criteria were set to focus the study on individuals capable of self-reporting their relationship satisfaction, cognitive emotion regulation strategies, and eating attitudes.
+
+Exclusion criteria included individuals with (1) a diagnosed eating disorder, (2) severe psychiatric conditions such as schizophrenia or bipolar disorder, and (3) ongoing psychological treatment or psychopharmacological medication use that could influence their cognitive emotion regulation and eating behaviors. These exclusions were necessary to minimize potential confounding variables and ensure that the study results reflect general population trends rather than clinical conditions.
+
+Measurement tools
+
+Relationship satisfaction scale
+
+The Hendrick [83] scale is a self-report measure consisting of 7 items. Its purpose is to assess the level of happiness individuals experience in their love relationships. The evaluation of each item is done using a 7-point likert-type scale. The overall relationship satisfaction score is calculated by adding up the ratings of all the items. Scale scores that are high indicate a high level of contentment in the partnership. Curun [84] converted the scale into Turkish and found that it maintained a one-factor structure, similar to the original scale. The internal consistency coefficient was determined to be.86. The study determined that the Cronbach's alpha internal consistency coefficient for the entire scale was.75.
+
+Eating attitude test short form
+
+The 26-question short variant of the Eating Attitude Test-40 was first created by Garner and Garfinkel in 1979 [85]. It was later altered and simplified by Garner, Olmstad, Bohr, and Garfinkel in 1982 [86]. The participant is required to answer seven questions on demographic information in three distinct sections (A-B-C), as well as 26 questions concerning eating habits and five statements regarding eating behaviors.
+
+The scale for component B of the survey is as follows:"3 = Always, 2 = Very often, 1 = Frequently, 0 = other answers (Sometimes, rarely, never)". Part A of the scale collects demographic information as well as details about weight, height, and the lowest and greatest weight. This information is necessary for diagnosing eating disorders. Similarly, the five items in component C of the scale specifically measure the decline in eating behavior over the course of the last six months. The scale had a Cronbach Alpha internal consistency coefficient of.84 and a test-retest stability coefficient of.78. The study's results indicate that the scale can be utilized as a legitimate and reliable tool for evaluating eating attitudes. Erguney-Okumuş, Sertel-Berk [87] converted the scale and found that the Turkish version of Eating Attitudes Test-26 demonstrated good internal consistency (Cronbach’s Alpha =.84), and the test re-test reliability was.78. The study provides initial support for the reliability and validity of the Turkish version of EAT-26. Nevertheless, future research is needed for the cross- validation of Eating Attitudes Test-26 in clinical samples.
+
+Cognitive emotion regulation scale
+
+The scale, created by Garnefski, Kraaij, and Spinhoven in 2002 [88], was designed to uncover the specific techniques employed when confronted with unfavorable life events or situations. Onat and Otrar (2010) [89] translated the scale into Turkish. Evidence from validity and reliability studies has demonstrated that the test is suitable for use in Turkey. The application is open to those aged 12 and above. The scoring range for each subscale is from 4 to 20. A higher score in each subscale suggests a greater utilization of the method defined by that subscale. The scale comprises a total of 36 items rated on a five-point Likert scale. The total number of subscales is 9. The components comprising the scale are as follows: Self-blame, Acceptance, Rumination, Positive refocusing, Refocus on planning, Positive reappraisal, Putting into perspective, Catastrophizing, and blaming others. The statistical study revealed that the Cronbach's Alpha value of the scale was α= 0.784, indicating a high level of internal consistency. Additionally, the test-retest reliability coefficient was determined to be “r=1.00”, indicating perfect stability over time. The Cronbach alpha coefficient of the original scale varied from 0.67 to 0.81.
+
+Process
+
+After obtaining approval from the Ethics Committee of Beykoz University, data collection was carried out over a three-month period. Participants were recruited from various faculties and departments of Beykoz University and were required to be in a romantic relationship at the time of participation. All participants provided informed consent before completing the study measures.
+
+Participants were given a set of self-report scales along with an information form detailing the study's purpose and ethical considerations. To maintain confidentiality, no personal identifying information was collected. On average, participants took approximately 30 minutes to complete the survey.
+
+Structural equation model specification
+
+The SEM approach used in this study followed a two-step process to ensure validity before testing hypothesized relationships. This model consisted of three latent constructs: Romantic Relationship Satisfaction, CER, and EAT-26, each measured by their respective observed indicators.
+
+Measurement Model (Confirmatory Factor Analysis - CFA)Romantic Relationship Satisfaction was assessed using items from the Relationship Satisfaction Scale.CER was modeled through its subscales, including Catastrophizing, Acceptance, Rumination, and Refocus on Planning, serving as observed indicators.EAT-26 was represented as a latent construct with its three observed subscales: Dieting, Bulimia & Food Preoccupation, and Oral Control.A CFA was conducted first to establish construct validity by examining factor loadings and ensuring the adequacy of latent variable representations. Model fit was evaluated using standard fit indices, including the Comparative Fit Index (CFI), Goodness of Fit Index (GFI), Root Mean Square Error of Approximation (RMSEA), and Standardized Root Mean Square Residual (SRMR), with the following thresholds indicating an acceptable fit:CFI ≥.90,RMSEA ≤.08,SRMR ≤.08.
+
+Romantic Relationship Satisfaction was assessed using items from the Relationship Satisfaction Scale.
+
+CER was modeled through its subscales, including Catastrophizing, Acceptance, Rumination, and Refocus on Planning, serving as observed indicators.
+
+EAT-26 was represented as a latent construct with its three observed subscales: Dieting, Bulimia & Food Preoccupation, and Oral Control.A CFA was conducted first to establish construct validity by examining factor loadings and ensuring the adequacy of latent variable representations. Model fit was evaluated using standard fit indices, including the Comparative Fit Index (CFI), Goodness of Fit Index (GFI), Root Mean Square Error of Approximation (RMSEA), and Standardized Root Mean Square Residual (SRMR), with the following thresholds indicating an acceptable fit:
+
+EAT-26 was represented as a latent construct with its three observed subscales: Dieting, Bulimia & Food Preoccupation, and Oral Control.
+
+A CFA was conducted first to establish construct validity by examining factor loadings and ensuring the adequacy of latent variable representations. Model fit was evaluated using standard fit indices, including the Comparative Fit Index (CFI), Goodness of Fit Index (GFI), Root Mean Square Error of Approximation (RMSEA), and Standardized Root Mean Square Residual (SRMR), with the following thresholds indicating an acceptable fit:
+
+CFI ≥.90,
+
+RMSEA ≤.08,
+
+SRMR ≤.08.
+
+2.Structural Model (Hypothesis Testing)Once the measurement model demonstrated an acceptable fit, the structural model was estimated to examine the hypothesized mediation effects. The structural model tested the direct and indirect relationships between Romantic Relationship Satisfaction, Cognitive Emotion Regulation, and Eating Attitudes. Path coefficients were analyzed to determine the mediating role of cognitive emotion regulation strategies (e.g., Catastrophizing) in the association between Romantic Relationship Satisfaction and Eating Attitudes.
+
+Structural Model (Hypothesis Testing)
+
+Once the measurement model demonstrated an acceptable fit, the structural model was estimated to examine the hypothesized mediation effects. The structural model tested the direct and indirect relationships between Romantic Relationship Satisfaction, Cognitive Emotion Regulation, and Eating Attitudes. Path coefficients were analyzed to determine the mediating role of cognitive emotion regulation strategies (e.g., Catastrophizing) in the association between Romantic Relationship Satisfaction and Eating Attitudes.
+
+The two-step SEM approach ensures that latent constructs are properly validated before testing their causal relationships, reducing measurement error and enhancing result interpretability. The SEM analyses were conducted using AMOS with Robust Maximum Likelihood Estimation (MLR), which accounts for potential violations of normality and provides more accurate standard errors.
+
+Procedure and data analysis
+
+After obtaining approval from the Ethics Committee of Beykoz University, participants were informed about the study's aims and invited to participate voluntarily. The data collection process, conducted in-person, took approximately 30 minutes per participant. All completed forms were digitally transferred into SPSS (version 29) and exel for data management.
+
+In preliminary analyses, descriptive statistics, skewness, kurtosis, and reliability analyses (Cronbach’s alpha) for all scales and their subscales were computed using SPSS. Cronbach’s alpha coefficients indicated acceptable to good internal consistency for the scales used: Relationship Satisfaction Scale (α =.75), EAT-26 Total (α =.84), EAT-26 Dieting (α =.80), Bulimia and Food Preoccupation (α =.76), Oral Control (α =.70), and Cognitive Emotion Regulation Questionnaire (α =.83; subscales α range.70 to.81).
+
+Pearson correlation analyses were performed to examine initial relationships among study variables. CFA and SEM with robust maximum likelihood estimation (MLR) were conducted using R (4.4.3.) to test the hypothesized mediational model [90].
+
+Prior to SEM analyses, skewness and kurtosis were evaluated, with observed values ranging from -.016 to 1.880 (skewness) and from -.015 to 3.973 (kurtosis), indicating acceptable normality.
+
+Model fit was assessed using multiple goodness-of-fit indices, following widely accepted thresholds:
+
+Chi-square test (χ2/df) – values ≤ 3.0 indicate an acceptable fit.
+
+CFI – values ≥.90 indicate acceptable fit, while ≥.95 suggest good fit.
+
+GFI – values ≥.90 indicate acceptable fit.
+
+Root Mean Square Error of Approximation – values ≤.08 indicate an acceptable fit, while ≤.06 suggest a good fit.
+
+Standardized Root Mean Square Residual (SRMR) – values ≤.08 indicate a good fit.
+
+These indices were used to assess both the measurement model and the structural model, ensuring model adequacy before testing mediation effects.
+
+Assumptions of the statistical model
+
+The study employed Robust Maximum Likelihood Estimation (MLR) within a SEM framework. MLR is a widely used estimation method that accounts for non-normality and heteroscedasticity in the data. However, for MLR to produce reliable estimates, several assumptions must be met:
+
+Adequate Sample SizeMLR assumes a sufficiently large sample to ensure robust standard errors and asymptotic properties. In this study, the sample size (N = 355) exceeds the recommended threshold for SEM, ensuring adequate power for model estimation.
+
+Adequate Sample Size
+
+MLR assumes a sufficiently large sample to ensure robust standard errors and asymptotic properties. In this study, the sample size (N = 355) exceeds the recommended threshold for SEM, ensuring adequate power for model estimation.
+
+Independence of ObservationsSEM and MLR assume that observations are independent of one another. Since the data were collected from individual participants, without nested or hierarchical structures (e.g., couples or groups), this assumption is met.
+
+Independence of Observations
+
+SEM and MLR assume that observations are independent of one another. Since the data were collected from individual participants, without nested or hierarchical structures (e.g., couples or groups), this assumption is met.
+
+Multivariate Normality (Relaxed in MLR)Although MLR does not require strict multivariate normality, it assumes that data distributions are not excessively skewed or kurtotic.Assessment: Skewness and kurtosis values were examined, ranging from −1.96 to +1.96, confirming that the data are within acceptable limits.
+
+Multivariate Normality (Relaxed in MLR)
+
+Although MLR does not require strict multivariate normality, it assumes that data distributions are not excessively skewed or kurtotic.
+
+Assessment: Skewness and kurtosis values were examined, ranging from −1.96 to +1.96, confirming that the data are within acceptable limits.
+
+No Perfect MulticollinearityThe model assumes that predictor variables are not excessively correlated. Pearson correlation matrices were inspected, and no multicollinearity issues (r >.85) were detected.
+
+No Perfect Multicollinearity
+
+The model assumes that predictor variables are not excessively correlated. Pearson correlation matrices were inspected, and no multicollinearity issues (r >.85) were detected.
+
+Correct Model SpecificationSEM requires an accurately specified model to provide valid results.The measurement model was validated via CFA before estimating structural relationships.Fit indices (CFI, RMSEA, SRMR) confirmed that both the measurement and structural models were well-defined.
+
+Correct Model Specification
+
+SEM requires an accurately specified model to provide valid results.
+
+The measurement model was validated via CFA before estimating structural relationships.Fit indices (CFI, RMSEA, SRMR) confirmed that both the measurement and structural models were well-defined.
+
+The measurement model was validated via CFA before estimating structural relationships.
+
+Fit indices (CFI, RMSEA, SRMR) confirmed that both the measurement and structural models were well-defined.
+
+Handling of Missing DataMLR is robust to missing data, assuming that data are Missing at Random (MAR).Assessment: Little’s MCAR test confirmed that missing values, if any, followed an ignorable pattern, and full information MLR was applied.
+
+Handling of Missing Data
+
+MLR is robust to missing data, assuming that data are Missing at Random (MAR).
+
+Assessment: Little’s MCAR test confirmed that missing values, if any, followed an ignorable pattern, and full information MLR was applied.
+
+Ethical approval and consent to participates
+
+Approval for this study was obtained from the Ethics Committee of Beykoz University (Approval No: 2300002074). The data collection process involved students in romantic relationships enrolled in various faculties and departments of Beykoz University, who voluntarily consented to participate. Participants were provided with the study’s measurement instruments along with an information form explaining the purpose of the research. To ensure confidentiality, no personal identifying information was collected.
+
+Written informed consent was obtained from all participants, and the relevant documentation can be provided upon request by the journal. Additionally, permissions for the use of all cited scales were obtained where required, ensuring compliance with research ethics. This study was conducted in accordance with the Declaration of Helsinki and was approved by the Beykoz University Ethics Committee, Istanbul, Türkiye.
+
+Results
+
+The study employed a range of statistical analyses to examine the relationships between romantic relationship satisfaction, cognitive emotion regulation strategies, and eating attitudes. Internal consistency analyses confirmed the reliability of all scales used. Correlation analyses identified significant associations among key variables, highlighting the role of Catastrophizing, Acceptance, and Refocusing on Planning in relation to relationship satisfaction and eating behaviors. SEM demonstrated an acceptable model fit, supporting the hypothesized mediation effects. These findings underscore the complex interplay between relationship dynamics, cognitive emotion regulation, and eating attitudes.
+
+In Table 1, internal consistency was evaluated using Cronbach's alpha coefficients to assess the reliability of scales utilized in the present study. The Relationship Satisfaction Scale demonstrated good internal consistency (α =.81). EAT-26 showed acceptable to good reliability both as a total scale (α =.84) and within its subscales: Dieting (α =.75), Bulimia and Food Preoccupation (α =.76), and Oral Control (α =.70). Additionally, the CER indicated good overall reliability (α =.83), with acceptable internal consistency across its subscales, ranging from.75 (Acceptance) to.80 (Rumination). These results confirm the internal reliability of the measures used in our study sample (Table 2).
+
+Reliability analysis (Cronbach’s alpha coefficients)
+
+Reliability Results (Cronbach Alpha's) for all scales and subscales
+
+Independent samples t-tests were conducted to examine gender differences in the study variables. No significant differences were observed in relationship satisfaction (p =.15) or acceptance (p =.39). However, women reported significantly higher levels of rumination (p =.02), dieting behaviors (p =.01), and bulimia/food preoccupation (p =.04) compared to men. Additionally, catastrophizing and oral control showed marginal significance (p =.07 and p =.08, respectively), suggesting potential trends that warrant further exploration.
+
+Measurement model
+
+Before testing the hypothesized relationships, CFA was conducted to validate the measurement model and assess the reliability and validity of the latent constructs. The measurement model included 11 latent variables, representing romantic relationship satisfaction, CER, and eating attitudes (EAT-26 subscales). The CFA results indicated an acceptable model fit:
+
+χ2/df = 2.37, p <.001
+
+Comparative Fit Index =.81
+
+Goodness of Fit Index =.78
+
+Root Mean Square Error of Approximation =.06 [.06,.07]
+
+Standardized Root Mean Square Residual =.08
+
+Factor loadings for all observed indicators were statistically significant (p <.001), confirming that the measured variables appropriately represented their respective latent constructs.
+
+Table 3 presents the pairwise correlations among latent variables, providing empirical support for the construct validity of the measurement model. These correlations confirm the theoretical relationships between Romantic Relationship Satisfaction, CER strategies, and EAT-26, ensuring that the hypothesized mediation model is conceptually and statistically justified.
+
+Romantic Relationship Satisfaction was significantly negatively correlated with maladaptive CER strategies, including CER–Acceptance (r = –.19, p =.012), CER–Rumination (r = –.12, p =.049), and CER–Catastrophizing (r = –.25, p <.001). In contrast, a significant positive correlation was observed with the adaptive strategy CER–Refocus on Planning (r =.15, p =.021), suggesting that individuals with greater relationship satisfaction are more likely to engage in constructive problem-solving rather than maladaptive emotional coping.
+
+Additionally, Romantic Relationship Satisfaction was negatively correlated with Eating Attitudes (r = –.18, p =.006), indicating that individuals with lower relationship satisfaction exhibit more disordered eating behaviors.
+
+Regarding EAT-26 total scores, significant positive correlations were found with maladaptive CER strategies, including Self-Blame (r =.23, p =.002), Acceptance (r =.17, p =.041), Rumination (r =.21, p =.003), Catastrophizing (r =.35, p <.001), and Blaming Others (r =.16, p =.019). These findings suggest that individuals who frequently use maladaptive cognitive emotion regulation strategies are more prone to disordered eating behaviors.
+
+Measurement model results, pairwise correlations among latent variables
+
+CER Cognitive Emotion Regulation, EAT-26 Eating Attitudes Test
+
+The significant correlations observed in Table 3 justify the transition from the measurement model (CFA) to SEM, as they confirm that the latent constructs are interrelated in a manner consistent with the study’s hypotheses. By demonstrating these foundational relationships, Table 3 provides essential empirical support for testing the mediation effects in the subsequent structural model.
+
+Figure 1 depicts the revised measurement model, illustrating the latent constructs (Romantic Relationship Satisfaction, Cognitive Emotion Regulation [CER], and Eating Attitudes [EAT-26]) along with their observed indicators. The EAT-26 construct explicitly includes its subscales: Dieting, Bulimia & Food Preoccupation, and Oral Control. All reported values represent standardized path coefficients, clearly illustrating significant associations among variables.
+
+Measurement Model Results, Standardized Path Coefficients, Note. * p <.05, ** p <.01
+
+Measurement model - revised
+
+Based on the measurement model results, we selected Rumination, Acceptance, and Catastrophizing as mediators, as these subscales demonstrated significant correlations with both the independent (relationship satisfaction) and dependent (eating attitudes) variables. Updated measurement model with mediators (Rumination, Acceptance, and Catastrophizing), dependent and independent variables was tested.
+
+The revised measurement model demonstrated an acceptable fit, with the following indices:
+
+χ2/df (277.17/125) = 2.22, p <.001
+
+Comparative Fit Index (CFI) =.94
+
+Non-Normed Fit Index (NNFI/TLI) =.92
+
+Goodness of Fit Index (GFI) =.92
+
+Adjusted Goodness of Fit Index (AGFI) =.89
+
+Root Mean Square Error of Approximation (RMSEA) =.059 [.049,.068]
+
+Standardized Root Mean Square Residual (SRMR) =.063
+
+These results indicate that the revised measurement model provides a good and improved fit to the data compared to the previous specification. All indices fall within or close to recommended thresholds, supporting the validity of the extended factor structure.
+
+In the measurement model, romantic relationship satisfaction was negatively associated with acceptance (r = –.17, p =.024), rumination (r = –.12, p =.045), and catastrophizing (r = –.24, p <.001). A significant negative association was also observed between romantic relationship satisfaction and eating attitudes (r = –.19, p =.005). Additionally, eating attitudes were positively associated with rumination (r =.23, p =.002) and catastrophizing (r =.34, p <.001), and showed a marginally significant association with acceptance (r =.16, p =.053).
+
+Figure 2 presents the measurement model results, illustrating the standardized path coefficients among the latent variables: Romantic Relationship Satisfaction, CER, and EAT-26. The model fit was acceptable (χ2/df = 2.22, p <.001; CFI =.94; GFI =.92; RMSEA =.059; SRMR =.063), and all observed variables loaded significantly onto their respective latent constructs (p <.001). These results confirm that the latent variables were adequately represented by their indicators and justified proceeding to the structural model analysis.
+
+Measurement Model Results, Standardized Path Coefficients. Note. * p <.05, ** p <.01
+
+Figure 3 depicts the structural equation model testing the mediating role of cognitive emotion regulation strategies in the relationship between romantic relationship satisfaction and eating attitudes. The model demonstrated a good fit to the data (χ2/df = 2.84, p <.001; CFI =.90; NNFI =.88; GFI =.90; AGFI =.87; RMSEA =.072 [90% CI:.063,.081]; SRMR =.090).
+
+Structural Model Results, Standardized Path Coefficients. Note. * p <.05, ** p <.01
+
+Structural model
+
+SEM was conducted to examine the mediating role of cognitive emotion regulation strategies (Rumination, Acceptance, and Catastrophizing) in the relationship between romantic relationship satisfaction and eating attitudes.
+
+The revised structural model demonstrated acceptable fit (χ2/df = 2.84, p <.001; CFI =.90; NNFI =.88; GFI =.90; AGFI =.87; RMSEA =.072, 90% CI [0.063, 0.081]). Eating attitudes significantly predicted acceptance (β = 0.23, p =.004), rumination (β = 0.32, p <.001), and catastrophizing (β = 0.41, p <.001). Among these, only catastrophizing had a significant negative association with romantic relationship satisfaction (β = –0.18, p =.011). Neither acceptance (β = –0.06, p =.400) nor rumination (β = –0.00, p =.972) were significant predictors. The direct effect of eating attitudes on romantic relationship satisfaction was not statistically significant (β = –0.11, p =.153), indicating full mediation through catastrophizing.
+
+The final model supports the hypothesis that cognitive emotion regulation, particularly catastrophizing, fully mediates the relationship between romantic relationship satisfaction and eating attitudes, highlighting the critical role of maladaptive cognitive processing in disordered eating behaviors.
+
+Discussion
+
+This study aimed to examine the mediating role of cognitive emotion regulation in the relationship between eating attitudes and romantic relationship satisfaction. Our findings align with the proposed model, indicating that the use of catastrophizing as a cognitive emotion regulation strategy may play a mediating role between lower romantic relationship satisfaction and negative eating attitudes. Although alternative mediation sequences are possible, our selected model aligns closely with prior literature emphasizing emotion dysregulation as a mechanism underlying the relationship between interpersonal stress and eating-related psychopathology.
+
+According to the findings of the study, romantic relationship satisfaction was significantly negatively associated with dieting behaviors and bulimia/food preoccupation, but no significant relationship was found with oral control behaviors (p =.456). It was found that romantic relationship satisfaction of individuals with negative eating attitudes decreased. The results of this study showed that individuals who were not satisfied in their romantic relationships and had negative eating attitudes tended to use maladaptive regulation strategies such as catastrophizing more. This can be considered that individuals who are not satisfied with their romantic relationships and have negative eating attitudes exaggerate the consequences of negative events. Some individuals may use eating as a means of emotion regulation and exhibit negative eating attitudes in order to get rid of the negative emotions caused by problems in romantic relationships. Individuals experiencing negative emotional states may be more likely to report behaviors such as reduced control over eating [91]. In Turkish samples, lower relationship satisfaction has also been associated with increased emotional eating and impulsive food-related behaviors, particularly in young adult women [92]. Emotional eating, one of the negative eating attitudes, involves conscious or unconscious consumption of excess food for reasons other than physiological needs such as hunger [93]. A study conducted by Kırtı [94] reported a significant positive relationship between rumination and catastrophizing strategies and emotional eating, and a significant negative relationship between “positive reappraisal” and emotional eating. The findings of these studies support the findings of the current study. Being aware of one's own emotions, emotional regulation skills and optimism characteristics caused individuals to have low eating disorder measurement results [95]. Many studies show that disordered and negative eating attitudes may occur due to the inability of individuals to regulate their emotions in the face of stress factors or triggering events [96]. National studies in Türkiye have similarly confirmed that emotion regulation difficulties are significant predictors of unhealthy eating behaviors, and that individuals using maladaptive strategies such as self-blame and rumination are more prone to disordered eating [38, 97]. Any negative development, argument or stress factor in a romantic relationship may lead to an increase in negative eating attitudes. The results of this study are in line with previous studies indicating that eating disorders are a result of emotion regulation difficulties.
+
+Among cognitive emotion regulation strategies, Acceptance, Refocusing on Planning, and Catastrophizing were significantly associated with romantic relationship satisfaction. However, Self-Blame, Rumination, Positive Refocusing, Positive Reappraisal, and Blaming Others did not show statistically significant effects. In cases where acceptance, which is one of the cognitive emotion regulation strategies, is overused, relationship satisfaction decreases. It was concluded that individuals'satisfaction in their romantic relationships decreased as a result of accepting the situation that caused dissatisfaction and not using strategies to change situations and events involving dissatisfaction, which were predicted by the items in the acceptance dimension of the cognitive emotion regulation scale, such as “I think I need to learn to live with this situation, I think I need to accept the situation”. This result is consistent with the results of previous studies in the literature. Individuals with emotion regulation skills do not exhibit negative affect in the face of stressful events and do not tend to exhibit maladaptive behavior in context [98]. Turkish findings have also revealed that excessive reliance on passive coping strategies like acceptance, without active problem-solving, is linked to decreased satisfaction in romantic relationships [99]. It has also been revealed in different studies that emotion regulation skills are effective in romantic relationship satisfaction [100]. Individuals who can regulate their emotions in a functional way have high satisfaction with romantic relationships. This study concluded that individuals who reported higher use of Catastrophizing also reported lower relationship satisfaction, while those who engaged more in Refocusing on Planning reported higher satisfaction. However, due to the cross-sectional design, causality cannot be determined.. Refocusing on planning means thinking about the steps to be taken in the future and ways to cope with negative events and thinking about the ways to solve the problem. Therefore, it was thought that refocusing on the plan could increase relationship satisfaction by providing effective solution of the problem in the relationship [89]. This finding aligns with evidence from Turkish research indicating that constructive strategies such as refocusing on planning promote emotional resilience and problem-solving in relational contexts [101]. Previous studies have shown that “refocusing on planning”, one of the cognitive emotion regulation strategies, has a positive effect on mental health [102]. A negative significant relationship was found between catastrophizing, one of the dysfunctional emotion regulation strategies, and romantic relationship satisfaction. Individuals with predominant catastrophizing thoughts in the relationship have lower levels of satisfaction with romantic relationships. This pattern has also been observed in Turkish university populations, where catastrophizing was shown to intensify relational distress and reduce satisfaction in emotionally vulnerable individuals [103]. Therefore, this finding of the study is consistent with the findings of previous studies. Catastrophizing, which is considered to be compatible and dysfunctional among cognitive emotion regulation strategies, means exaggerating the seriousness of the event. The items of the cognitive emotion regulation scale such as “I often think that the situation I am going through is the worst situation that can happen to a person” are related to the catastrophizing dimension. Individuals who interpret the events experienced in a relationship using the dysfunctional emotion regulation strategy catastrophizing have difficulty in achieving satisfaction from their relationships. Both cross-sectional and longitudinal studies have revealed that emotion regulation approaches are related to marital satisfaction [104, 105] and conflict resolution [106]. The findings of our study overlap with the findings of previous studies in the literature and support our study.
+
+In relation to the third hypothesis of our study, the relationship between cognitive emotion regulation and eating attitude variables revealed that eating attitudes were positively predicted by catastrophizing, indicating that there is a strong relationship between catastrophizing tendency and unhealthy eating attitudes. Another finding of the study was that there was a positive significant relationship between eating attitudes and cognitive emotion regulation strategies such as rumination, catastrophizing and blaming self and others. Dysfunctional/maladaptive emotion regulation strategies were thought to have a negative effect on individuals'eating attitudes. The findings of our study overlap with the findings of previous studies in the literature. Studies in the literature show that people with poor eating attitudes have poor emotion regulation skills. These individuals have difficulty in comprehending and defining their internal stimulation, recognizing the emotion they experience, and most importantly, discovering appropriate and functional solutions [107]. In a study conducted with female adolescents, it was concluded that the ruminative response style found in the 11–15 age range may be a risk factor for the development of bulimic symptoms (Nolen-Hoeksema S, Jacobs R. Adaptive and maladaptive forms of rumination and self-reflection: tests of different theories, unpublished 2007). The research conducted by Aldao, Nolen-Hoeksema, and Schweizer [46] demonstrates that employing maladaptive cognitive emotion regulation techniques has a significant influence on the manifestation of eating disorder symptoms, but utilizing adaptive strategies does not have a direct impact. Meule and colleagues [108] show that women with anorexia nervosa and bulimia nervosa use maladaptive cognitive emotion regulation strategies, while women without eating disorders use adaptive cognitive strategies. In addition to this research, it is emphasized that individuals with binge eating disorder lack healthy and effective emotion regulation strategies and therefore tend to engage in rumination and use adaptive strategies such as reappraisal [109]. These findings are consistent with past researches on cognitive emotional regulation strategies that are associated negatively with impaired eating attitudes [110].
+
+The results suggest that Catastrophizing fully mediated the relationship between romantic relationship satisfaction and eating attitudes, as the direct path was not statistically significant. However, some direct effects remained significant, indicating that other unmeasured factors may also contribute to this relationship. Furthermore, a significant negative correlation was found between Romantic Relationship Satisfaction and catastrophizing, suggesting that higher levels of catastrophizing are associated with lower satisfaction in romantic relationships. People who regulate their emotions through extensive use of catastrophizing have lower satisfaction in terms of relationship satisfaction. This suggests that increased catastrophizing is associated with lower satisfaction in romantic relationships. Eating Attitudes were positively predicted by catastrophizing, indicating a strong relationship between catastrophizing tendency and unhealthy eating attitudes. SEM results indicated that the relationship between romantic relationship satisfaction and eating attitudes was mediated through catastrophizing, with no significant direct effect observed between the two variables. In other words, individuals who extensively use the catastrophizing strategy to regulate their emotions tend to report lower romantic relationship satisfaction and more negative eating attitudes. It is stated that catastrophizing strategy is associated with emotional distress and rumination may contribute to the maintenance of negative mood [111]. Catastrophizing strategy also increases the risk of experiencing depression and negative affect in individuals'lives [112]. Therefore, it can be said that catastrophizing strategy negatively affects both life satisfaction and relationship satisfaction. While managing stressful events and conflicts in a romantic relationship, the individual may turn to negative eating attitudes as a coping strategy by making the situation more terrible than it is. Because, negative cognitive emotion regulation strategies reduce marital quality and satisfaction [113, 114]. When a person's coping repertoire is narrow and they do not receive enough satisfaction, attention, compassion and affection in their social or romantic relationships, they may turn to negative eating attitudes as a coping strategy [71]. Similarly, one of the sustaining and risk factors of negative eating attitudes is the individual's automatic, dysfunctional and erroneous thoughts [23]. Therefore, cognitions seem to have a vital role in this relationship. Increasing one's cognitive flexibility, developing coping skills, increasing functional and adaptive cognitive emotion regulation strategies are important for increasing romantic relationship satisfaction and decreasing negative eating attitudes. Interventions aiming to strengthen coping skills and adaptive cognitive emotion regulation strategies may be beneficial, particularly in populations at risk of developing disordered eating patterns. In addition, it seems important for experts working in the field of couple therapy to address cognitive emotion regulation strategies in couples. Given that relationship distress and emotion dysregulation are commonly reported themes in Turkish therapeutic settings, integrating cognitive emotion regulation strategies into couple therapy protocols may enhance clinical outcomes [115]. In addition, these findings may offer useful insights into the relationship between cognitive emotion regulation and eating attitudes in non-clinical populations. If the individual has a romantic relationship, it is also necessary to evaluate his/her relationship satisfaction, the way he/she manages conflicts and problems in the relationship, and the presence of maladaptive cognitive emotion strategies. This study identified catastrophizing as a potential mediator in the association between romantic relationship satisfaction and eating attitudes. The role of cognitions in this relationship suggests that other cognitive structures may also play a role. Therefore, it is thought that examining cognitive flexibility, irrational beliefs, schemas, cognitive errors and meta cognitive beliefs will contribute to both eating attitudes and romantic relationship literature.
+
+Limitations and suggestions for future research
+
+This study has several limitations that should be carefully considered when interpreting its findings.
+
+First, the cross-sectional design significantly limits the ability to infer causal relationships among romantic relationship satisfaction, cognitive emotion regulation, and eating attitudes. Although statistical mediation was tested, the temporal ordering of these variables cannot be confirmed. Longitudinal studies are needed to examine whether changes in relationship satisfaction precede shifts in eating attitudes over time. Similarly, experimental designs could help assess the effectiveness of targeted interventions designed to improve emotion regulation and reduce disordered eating behaviors.
+
+Second, the reliance on self-report instruments introduces the potential for various biases, including social desirability, self-presentation effects, and memory inaccuracies. These factors may distort participants’ responses, especially in areas involving sensitive topics such as eating habits and emotional coping. Future research should adopt a multi-method approach that includes clinician-administered assessments, behavioral observations, or ecological momentary assessment (EMA). Incorporating psychophysiological indicators—such as cortisol levels or heart rate variability—may further enhance the ecological validity of findings related to emotion regulation.
+
+Third, the sample was predominantly female (76%), limiting the generalizability of the results to males or gender-diverse populations. Given that eating attitudes and emotion regulation strategies may differ across genders, future research should aim for more gender-balanced samples. Moreover, studies that specifically explore male-specific risk factors—such as muscularity-oriented eating concerns or avoidance of emotional expression—could offer valuable insights into gendered patterns of disordered eating and regulation.
+
+Fourth, the present study focused solely on cognitive emotion regulation strategies as mediators. However, other psychological constructs such as attachment styles, personality traits, perfectionism, or maladaptive schemas may also influence the relationship between relationship satisfaction and eating behaviors. Future research could explore alternative mediation and moderation models, examining how different forms of emotion regulation (e.g., suppression, expressive flexibility, reappraisal) or cognitive vulnerability factors interact with relational variables.
+
+Fifth, the study sample was drawn from a non-clinical university population, which may limit the applicability of findings to individuals with clinically diagnosed eating disorders. Replication in clinical settings—with individuals diagnosed with conditions such as anorexia nervosa, bulimia nervosa, or binge-eating disorder—would help determine whether similar mediation patterns hold. Furthermore, it would be valuable to explore whether enhancing relationship satisfaction or targeting maladaptive emotion regulation strategies (such as catastrophizing) could serve as protective or preventive mechanisms in clinical populations.
+
+Finally, the cultural context of the sample, consisting of Turkish university students, may influence relationship norms, emotional expression, and eating attitudes. Cultural values regarding body image, romantic expectations, and coping styles could shape the observed relationships. Cross-cultural replication studies are warranted to determine whether these findings generalize beyond the current sample.
+
+Acknowledgements
+
+We would like to express our gratitude to the participants who took part in this study.
+
+Abbreviations
+
+Cognitive Emotion Regulation
+
+Eating Attitudes Test-26
+
+Comparative Fit Index
+
+Goodness of Fit Index
+
+Root Mean Square Error of Approximation
+
+Standardized Root Mean Square Residual
+
+Structural Equation Modeling
+
+Confirmatory Factor Analysis
+
+Authors’ contributions
+
+EY: Data curation, Methodology, Writing – original draft, Writing, review, revised and editing. ZH: Supervision, Writing – review & editing. FT: Supervision, Validation, Writing – review & editing.
+
+Funding
+
+This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
+
+Data availability
+
+The data that support the findings of this study are openly available in : https://figshare.com/s/fbaadd9c538d8ff3a8c7https://figshare.com/account/items/25802584/edit DOI: 10.6084/m9.figshare.25802584
+
+Declarations
+
+Ethics approval and consent to participate
+
+This study was approved by the Ethics Committee of Beykoz University (Approval No: 2300002074). Written informed consent was obtained from all participants. The study was conducted in accordance with the Declaration of Helsinki.
+
+Consent for publication
+
+All participants provided written informed consent prior to their inclusion in the study.
+
+Competing ınterests
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Footnotes
+
+Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+References
+
+Associated Data
+
+Data Availability Statement

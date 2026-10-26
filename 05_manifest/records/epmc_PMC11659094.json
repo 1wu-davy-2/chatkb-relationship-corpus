@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11659094",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Couple relationship education content: What we have and what we are missing.",
+  "authors": "Griffes SE, Hardy NR, Gregson TJ, Brosi MW, Gardner B.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1111/famp.13043",
+  "pmcid": "PMC11659094",
+  "url": "https://europepmc.org/article/PMC/PMC11659094",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11659094/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "Couple relationship education (CRE) has decades of research showing mixed results for participants. Various competing frameworks for CRE content have emerged in the development of the field, yet content has not been systematically investigated. Through an inductive content analysis of 15 different CRE programs, this study explored content themes and categories that are common across programs. Analysis found four themes throughout the programs: interactional skills, the self in the relationship, partner bonding, and relationship motivations. Categories for each theme were identified and are presented and discussed. Findings validate the primacy of teaching interactional skills within CRE including consistency in topics (e.g., communication training, conflict management). Other themes were also common (e.g., self in the relationship), though their categories were more diverse (e.g., self-care, expectations, personality). Several factors that have emerged as more significant in relationship theory and research were not well-represented in the content analysis (e.g., socioecological contexts, systemic patterns).",
+  "raw_path": "01_raw/europepmc_xml/PMC11659094.xml",
+  "text_path": "02_text/europepmc/PMC11659094.txt",
+  "raw_bytes": 134414,
+  "text_chars": 45138,
+  "raw_sha256": "22967ab2ff3886c1b364d4258a960321fff71c3020450e1ac15d479f529bee68",
+  "text_sha256": "679e83bafdc894cf66bbf90c7d05562becaf4ee4b2a4294eb9f2ac98480af8ec",
+  "retrieved_at": "2026-10-25T15:37:16.849724+00:00"
+}

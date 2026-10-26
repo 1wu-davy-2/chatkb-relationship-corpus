@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13352919",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Antenatal stress, marital satisfaction and antenatal depression of Chinese couples: an actor-partner interdependence model extended to mediation.",
+  "authors": "Dong Y, Liu X, Xu X, Luo J, Liu S, Zeng H, Zhou X, Song Y, Li H, Wu S, Lin S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-04768-z",
+  "pmcid": "PMC13352919",
+  "url": "https://europepmc.org/article/PMC/PMC13352919",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13352919/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Background Pregnancy is a critical period for emotional adjustment in expectant couples. Antenatal depression in pregnant women is associated with significant risks to maternal and infant health and warrants research attention. The mental health of expectant fathers during this period, which is equally important, remains relatively overlooked. Antenatal stress and marital satisfaction may be associated with antenatal depression through interpersonal dynamics within couples. This study examined the relationships among antenatal stress, marital satisfaction, and antenatal depression within the couple dyad, and tested whether marital satisfaction mediates this association. Methods This cross-sectional study enrolled 244 couples at a maternal and child health hospital in China. Participants completed the Perceived Stress Scale, Edinburgh Postnatal Depression Scale, and Quality of Marriage Index. The Actor-Partner Interdependence Model extended to Mediation was employed to analyze dyadic data, assessing both actor and partner effects. Structural equation modeling with bootstrap resampling was used to estimate direct and indirect effects. Results Significant gender differences were found in antenatal stress, marital satisfaction, and antenatal depression (P Conclusions Individual antenatal stress was directly associated with both one's own and one's spouse's antenatal depression (actor and partner effects). Marital satisfaction was associated with the actor effect of antenatal stress on depression for wives, as well as the partner effect of husbands' stress on wives' depression. These findings suggest that early identification of stressors, promotion of positive marital interactions, and attention to emotional exchanges between partners are relevant to better antenatal mental health outcomes.",
+  "raw_path": "01_raw/europepmc_xml/PMC13352919.xml",
+  "text_path": "02_text/europepmc/PMC13352919.txt",
+  "raw_bytes": 111530,
+  "text_chars": 36000,
+  "raw_sha256": "f0a2dcbbfe1366c09b3d05805535e526938289310ecaa1bef744650dabb97763",
+  "text_sha256": "7e7330881663f4f36c80f19c5e551b903908211b81bf813619e4797114ac7aeb",
+  "retrieved_at": "2026-10-25T15:33:40.308537+00:00"
+}

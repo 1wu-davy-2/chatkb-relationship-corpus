@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13388567",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Infertility perceptions and associated factors among Korean undergraduate students: a cross-sectional study.",
+  "authors": "Kim M, Chu HS, Yi SJ.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpubh.2026.1741644",
+  "pmcid": "PMC13388567",
+  "url": "https://europepmc.org/article/PMC/PMC13388567",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13388567/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gender_roles"
+  ],
+  "abstract": "Introduction South Korea faces a declining total fertility rate (0.72 in 2023) alongside rising infertility rates. Infertility is often interpreted within a pronatalist sociocultural context emphasizing marriage, parenthood, and traditional gender role expectations. Despite increasing infertility rates, little research has focused on how young adults-particularly university students-perceive infertility. Methods A descriptive correlational study was conducted with 159 unmarried university students (mean age = 21.6 years; 79.2% women). Participants completed an online survey measuring infertility perception (using the Infertility Perception Scale for Women, IPS-W), traditional gender stereotypes, and family values. Data were analyzed using independent t-tests, one-way ANOVA, Pearson correlation, and multiple regression. Results The mean infertility perception score was 37.97 (SD = 8.23), indicating a moderately positive perception. Male students, those with religious affiliation, and those without exposure to media on assisted reproductive technology held significantly more negative perceptions ( p r = 0.541) and family-oriented values emphasizing marriage and childbearing ( r = 0.584). Multiple regression revealed that gender stereotypes ( β = 0.370, ( p β = 0.457, p 2 = 0.49). Discussion Stronger endorsement of traditional gender roles and family-oriented values that prioritize childbearing was associated with more negative perceptions of infertility. Integrating gender-sensitive and media-supported infertility education into university curricula and public health strategies may improve perception, reduce stigma, and foster healthier reproductive decision-making.",
+  "raw_path": "01_raw/europepmc_xml/PMC13388567.xml",
+  "text_path": "02_text/europepmc/PMC13388567.txt",
+  "raw_bytes": 105673,
+  "text_chars": 38871,
+  "raw_sha256": "1c1408aaa37f657e486b47f92b561d05e647647a5473e234a67676a7fad267c3",
+  "text_sha256": "30727d8e054098df9ab9e8d86de209c7fe8bbd499a026eaef3d2f740cc347fdd",
+  "retrieved_at": "2026-10-25T13:53:53.779951+00:00"
+}

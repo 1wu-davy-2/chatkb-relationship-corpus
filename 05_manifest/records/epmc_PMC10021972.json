@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10021972",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marital rape and its impact on the mental health of women in India: A systematic review.",
+  "authors": "Agarwal N, Abdalla SM, Cohen GH.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1371/journal.pgph.0000601",
+  "pmcid": "PMC10021972",
+  "url": "https://europepmc.org/article/PMC/PMC10021972",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10021972/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "This systematic review aims to describe the prevalence of marital rape in India, the analytic methods employed in its study, and its implications on mental health of victims. Online databases, PubMed, Embase, Web of Science and APA Psych, were systematically searched for articles published up until November 2020. Selected articles included those published from or studies conducted in India where the primary exposure was marital rape. The primary outcomes of interest are Post Traumatic Stress Disorder (PTSD) and Depression. Secondary outcomes related to PTSD and depression (e.g., suicidality) included in identified studies were also described. 11 studies were included after excluding studies based on our selection criteria: 9 quantitative studies and 2 qualitative studies. Sexual coercion by intimate partner was highly prevalent, ranging from 9%-80% and marital rape ranged from 2%-56%. Many of the studies reported statistically significant associations between marital rape and mental health outcomes, including clinical depression (7 of 8); PTSD (1 of 3). Quantitative studies were assessed for quality and risk of bias using the NIH Quality Assessment Scale and the modified Newcastle Ottawa Scale for cross-sectional and observational cohort studies, and most exhibited a low risk of bias. Qualitative studies identified a broad range of exposures and psychological sequlae of marital rape not captured by quantitative studies. Included publications exhibit a low to moderate association between marital rape and adverse mental health outcomes. Qualitative data also supplements these findings and provide relevant context. Further research on marital rape, its prevalence and consequences, is needed to advance policy, and health infrastructure on the subject.",
+  "raw_path": "01_raw/europepmc_xml/PMC10021972.xml",
+  "text_path": "02_text/europepmc/PMC10021972.txt",
+  "raw_bytes": 151674,
+  "text_chars": 27726,
+  "raw_sha256": "a6a35180191d72c0ca4d177aafb41bfb56233f0c04494218ea6a86e410557801",
+  "text_sha256": "e7e1722515505a7daab9b4919440e5a08f1c9a5b6a54278868f03d7b29e0dee0",
+  "retrieved_at": "2026-10-26T13:13:53.847420+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5129585",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Addition of sulphonylurea to metformin does not relevantly change body weight: a prospective observational cohort study (ZODIAC-39).",
+  "authors": "Schrijnders D, Wever R, Kleefstra N, Houweling ST, van Hateren KJ, de Bock GH, Bilo HJ, Groenier KH, Landman GW.",
+  "year": "2016",
+  "journal": "",
+  "doi": "10.1111/dom.12700",
+  "pmcid": "PMC5129585",
+  "url": "https://europepmc.org/article/PMC/PMC5129585",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5129585/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "astrology_belief"
+  ],
+  "abstract": "Aim To investigate changes in body weight trajectories after the addition of individual sulphonylureas (SUs) to metformin in patients with type 2 diabetes. Materials and methods We conducted a retrospective observational cohort study, in a primary care setting in the Netherlands. Patients aged ≥18 years with type 2 diabetes who were included in the ZODIAC cohort between 1998 and 2012 and who received metformin monotherapy at inclusion (n = 29 195), and had used metformin as monotherapy for at least 1 year before receiving dual therapy through the addition of an SU for at least 1 year were eligible for inclusion. The primary outcome was within-drug yearly change in body weight after receiving add-on therapy with individual SUs during 5 years of follow-up. The secondary outcome was within-drug yearly change in glycated haemoglobin (HbA1c). Annual changes in weight and HbA1c were estimated with linear mixed models, adjusted for age, gender and diabetes duration. Results A total of 2958 patients were included. No significant weight changes were observed within and between any of the individual SUs after treatment intensification (p = 0.24). In addition, no significant difference in weight between the add-on therapy combinations was observed (p = 0.26). The average HbA1c the year before intensification was 7.2% (55 mmol/mol) and dropped below 7.0% (53 mmol/mol) the year after. Conclusions In patients with type 2 diabetes treated in primary care, strict glycaemic control can be maintained with SUs used as add-on therapy to metformin, without the offset of relevant weight changes.",
+  "raw_path": "01_raw/europepmc_xml/PMC5129585.xml",
+  "text_path": "02_text/europepmc/PMC5129585.txt",
+  "raw_bytes": 103001,
+  "text_chars": 24186,
+  "raw_sha256": "caadcf7540112b5190f660bb5f3ad8b7eefdad18b3410cfde229bfc79279a4fd",
+  "text_sha256": "0f5a45bba5896512149972b1f471e1ef5645568d9f654b44428c65f2d465bdd7",
+  "retrieved_at": "2026-10-26T13:06:34.735210+00:00"
+}

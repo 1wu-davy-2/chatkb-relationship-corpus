@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_addiction",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "成瘾",
+  "requested_title": "成瘾",
+  "url": "https://zh.wikipedia.org/wiki/%E6%88%90%E7%98%BE",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 成瘾",
+  "topics": [
+    "psychology",
+    "risk"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/addiction.json",
+  "text_path": "02_text/zh_wikipedia/addiction.txt",
+  "raw_bytes": 5758,
+  "text_chars": 2364,
+  "text_sha256": "5b26448fef253b02b9961fb4a110955a8b8afb856967184956af5b151d92cd22",
+  "retrieved_at": "2026-10-25T16:24:31.419375+00:00"
+}

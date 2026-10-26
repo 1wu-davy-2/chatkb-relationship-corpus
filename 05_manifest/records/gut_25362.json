@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_25362",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "搜神記",
+  "gutenberg_id": "25362",
+  "url": "https://www.gutenberg.org/ebooks/25362",
+  "download_url": "https://www.gutenberg.org/cache/epub/25362/pg25362.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/25362.txt",
+  "text_path": "02_text/gutenberg/gut_25362_搜神記.txt",
+  "raw_bytes": 244642,
+  "text_chars": 75625,
+  "text_sha256": "aedd5e9334c454b2a5b4bc29d868cf6c8a9a88d4017bb9ce14c5a1d4c0a0b4df",
+  "retrieved_at": "2026-10-25T16:04:18.292249+00:00"
+}

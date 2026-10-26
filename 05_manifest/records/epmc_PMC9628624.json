@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9628624",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Do Personality Traits Moderate the Effects of Cohabitation, Separation, and Widowhood on Life Satisfaction? A Longitudinal Test for Germany.",
+  "authors": "Uunk W, Hoffmann P.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1007/s10902-022-00573-8",
+  "pmcid": "PMC9628624",
+  "url": "https://europepmc.org/article/PMC/PMC9628624",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9628624/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "The start and end of a romantic relationship are associated with substantial changes in life satisfaction. Yet, whether Big Five personality traits moderate these relationship transition effects is hardly known. Such knowledge helps to understand individual variation in relationship transition effects and provides the possibility to further test the stress and social support explanations of these effects. Our fixed effects regressions on 28 waves of the German Socio-Economic Panel 1991-2018 show that Big Five traits moderate the effects of relationship transitions on life satisfaction to a limited extent. More neurotic men display a more negative effect of separation, and more neurotic and more agreeable women reveal a more negative effect of widowhood on life satisfaction. Big Five traits do not moderate the effect of the start of cohabitation on life satisfaction. Our findings support the stress perspective of relationship transition effects most and identify emotionally unstable individuals as a particularly vulnerable group. Supplementary information The online version contains supplementary material available at 10.1007/s10902-022-00573-8.",
+  "raw_path": "01_raw/europepmc_xml/PMC9628624.xml",
+  "text_path": "02_text/europepmc/PMC9628624.txt",
+  "raw_bytes": 127638,
+  "text_chars": 43357,
+  "raw_sha256": "3f13a0c884b7210a72f8a236e1b6b4a5056ef54c8b0959808f0ab7a30886881a",
+  "text_sha256": "758276daeb360b8bb86b872f06d7f1d50c14bdc987e081d9c87e208e49988bda",
+  "retrieved_at": "2026-10-25T15:41:51.116916+00:00"
+}

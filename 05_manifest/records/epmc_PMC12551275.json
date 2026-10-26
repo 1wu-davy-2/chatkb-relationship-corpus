@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12551275",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Understanding nature, barriers, and facilitators in addressing sexual and gender-based violence (SGBV) in conflict zones of Africa: A scoping review.",
+  "authors": "Woldearegay HG, Gebretnsae H, Mackey A, Bigalky J, Petrucka P.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s12889-025-24645-5",
+  "pmcid": "PMC12551275",
+  "url": "https://europepmc.org/article/PMC/PMC12551275",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12551275/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Background Sexual and Gender Based Violence is a pervasive human rights violation that disproportionately affects vulnerable populations in conflict-affected settings. In Africa, regions such as the Demographic Republic of Congo, South Sudan, and Ethiopia's Tigray have seen the systematic use of SGBV as a weapon of war, with devastating physical, psychological, and socio-economic consequences. Despite increased attention to this issue, significant barriers persist in addressing SGBV effectively. Objective This scoping review aims to map the nature, barriers, and facilitators in preventing and responding to sexual and gender based violence in African conflict zones. The review focuses particularly on contexts with ongoing or recent conflict, including Tigray, to inform interventions and identify knowledge gaps. Methods Following the PRISMA-ScR guidelines, guided by the methodological framework of Arksey and O'malley (2005), a comprehensive literature search was conducted across multiple datasets including PubMed, CINAHL, Africa Journal Online, and Google Scholar. Both peer-reviewed and gray literatures from 2000 to 2024 were included focusing on African conflict-affected regions. Eligible studies were selected through a three - stage screening process and data were extracted and synthesized thematically. Results A total of 39 studies were included. The review identified diverse forms of Sexual and Gender Based Violence ranging from sexual slavery, rape, and torture to intimate partner violence and child marriage. Key barriers to effective response included deep-rooted socio-cultural stigma, weak legal systems, health system collapse, insecurity, limited awareness, and understanding. Facilitators included community engagement, survivor-centered and trauma informed care models, multi-sectorial coordination, legal reforms, and technological innovations such as mobile health services and digital reporting platforms. Conclusion Addressing Sexual and Gender Based Violence in conflict-affected African setting requires a holistic, survivor-centered, and multi-sectorial approach. Political commitment, investment in justice and health systems, and the integration of gender-sensitive strategies into peace building efforts are essential. The review underscores the urgency for coordinated, evidence-based interventions to support survivors, prevent future violence, and contribute to sustainable peace and gender equality. Future research should rigorously evaluate these interventions' impact and scalability to inform policy and programs in African conflict settings.",
+  "raw_path": "01_raw/europepmc_xml/PMC12551275.xml",
+  "text_path": "02_text/europepmc/PMC12551275.txt",
+  "raw_bytes": 145430,
+  "text_chars": 55451,
+  "raw_sha256": "a4d61b88cc46390b0de338473f10feb5c2194a39af413654052eecb1c0d60fd7",
+  "text_sha256": "ff9c31c8c15ebdae0c0de5c3d51261ee22c8bb71b1aa886328b88ae6b4e6e949",
+  "retrieved_at": "2026-10-25T15:39:19.501790+00:00"
+}

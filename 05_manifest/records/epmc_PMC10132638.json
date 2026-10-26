@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10132638",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "User review analysis of dating apps based on text mining.",
+  "authors": "Shen Q, Han S, Han Y, Chen X.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0283896",
+  "pmcid": "PMC10132638",
+  "url": "https://europepmc.org/article/PMC/PMC10132638",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10132638/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "With the continuous development of information technology, more and more people have become to use online dating apps, and the trend has been exacerbated by the COVID-19 pandemic in these years. However, there is a phenomenon that most of user reviews of mainstream dating apps are negative. To study this phenomenon, we have used topic model to mine negative reviews of mainstream dating apps, and constructed a two-stage machine learning model using data dimensionality reduction and text classification to classify user reviews of dating apps. The research results show that: firstly, the reasons for the current negative reviews of dating apps are mainly concentrated in the charging mechanism, fake accounts, subscription and advertising push mechanism and matching mechanism in the apps, proposed corresponding improvement suggestions are proposed by us; secondly, using principal component analysis to reduce the dimensionality of the text vector, and then using XGBoost model to learn the low-dimensional data after oversampling, a better classification accuracy of user reviews can be obtained. We hope These findings can help dating apps operators to improve services and achieve sustainable business operations of their apps.",
+  "raw_path": "01_raw/europepmc_xml/PMC10132638.xml",
+  "text_path": "02_text/europepmc/PMC10132638.txt",
+  "raw_bytes": 155318,
+  "text_chars": 36961,
+  "raw_sha256": "eec7762b1fd7e2848af203dc23a36d6e21ffb3791ba2466ec6f15b485811d589",
+  "text_sha256": "4791b664b705416a0a2a57e3249f8e0c03f5afc39b5ae9997b01443ae321f276",
+  "retrieved_at": "2026-10-25T15:47:56.869912+00:00"
+}

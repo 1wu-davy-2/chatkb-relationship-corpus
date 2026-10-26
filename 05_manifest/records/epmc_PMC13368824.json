@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13368824",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relevance of prematurity and foetal growth restriction for romantic relationships, health-risk behaviours, and socio-economic outcomes in adulthood.",
+  "authors": "Fieß A, Gißler S, Schuster AK, Tesarz J, Mildenberger E, Brähler E, Urschitz MS, Pfeiffer N, Beutel ME, Hartmann A, Ernst M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1093/eurpub/ckag105",
+  "pmcid": "PMC13368824",
+  "url": "https://europepmc.org/article/PMC/PMC13368824",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13368824/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Advances in neonatal care have improved survival rates of preterm and growth-restricted infants. However, concerns remain regarding their long-term psychosocial development. This study investigated psychosocial outcomes in adults born preterm or growth-restricted. The Gutenberg Prematurity Study is a retrospective cohort study including 606 participants (326 women, 53.8%) aged 18-52 years. Participants were categorized by gestational age (GA) as extremely preterm (≤28 weeks), very preterm (29-32 weeks), moderately preterm (33-36 weeks), and term (≥37 weeks), and by birth weight percentile as small for GA (SGA), appropriate for GA, and large for GA. Logistic regression assessed associations of GA and birth weight with romantic relationships and health-risk behaviours. Socio-economic status (SES) parameters were analysed using linear regression. Extremely and very preterm participants reported fewer health-risk behaviours, particularly lower alcohol consumption [extremely preterm: odds ratio (OR) = 0.26; 95% confidence interval (CI): 0.13-0.49; P < 0.001]. Similarly, participants born SGA were less likely to report current alcohol consumption (OR = 0.63; 95% CI: 0.41-0.98; P = 0.04). A trend towards lower odds of ever having been in a romantic relationship was observed (OR = 0.35; 95% CI: 0.11-1.09; P = 0.07). Being born extremely or moderately preterm was associated with lower overall SES (extremely preterm: β = -2.25; 95% CI: -3.22 to -1.27; P < 0.001; moderately preterm: β = -1.04; 95% CI: -1.73 to -0.35; P = 0.003). No significant associations were found for present relationship status, relationship satisfaction, or smoking behaviour. Preterm birth and foetal growth restriction are associated with adult psychosocial outcomes, with preterm birth more strongly affecting socio-economic outcomes, underscoring the need for targeted support.",
+  "raw_path": "01_raw/europepmc_xml/PMC13368824.xml",
+  "text_path": "02_text/europepmc/PMC13368824.txt",
+  "raw_bytes": 119901,
+  "text_chars": 39682,
+  "raw_sha256": "841e896e73e8498ad970a63f3f10529311ced91dace3d7de186a84009a9c6e1f",
+  "text_sha256": "6c3a5450931a491b613e5667fba1bf9322ebedfbd7e305b8a5c3478ee9a849eb",
+  "retrieved_at": "2026-10-25T15:35:50.187367+00:00"
+}

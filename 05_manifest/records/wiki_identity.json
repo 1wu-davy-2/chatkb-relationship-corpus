@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_identity",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "身份认同",
+  "requested_title": "身份认同",
+  "url": "https://zh.wikipedia.org/wiki/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 身份认同",
+  "topics": [
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/identity.json",
+  "text_path": "02_text/zh_wikipedia/identity.txt",
+  "raw_bytes": 4519,
+  "text_chars": 1814,
+  "text_sha256": "72ed74e74971af229fab511b533e6908c96a8ee40359aad1652113cfee879d72",
+  "retrieved_at": "2026-10-25T16:23:12.850809+00:00"
+}

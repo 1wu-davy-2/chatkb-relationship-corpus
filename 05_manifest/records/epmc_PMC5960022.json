@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC5960022",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual Self-Schema Scale for Women-Validation and Psychometric Properties of the Polish Version.",
+  "authors": "Nowosielski K, Jankowski KS, Kowalczyk R, Kurpisz J, Normantowicz-Zakrzewska M, Krasowska A.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.1016/j.esxm.2017.12.002",
+  "pmcid": "PMC5960022",
+  "url": "https://europepmc.org/article/PMC/PMC5960022",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5960022/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality",
+    "sexual_self_disclosure"
+  ],
+  "abstract": "Introduction The sexual self-schema is a part of a broader concept of the self that is believed to be crucial for intrapersonal and interpersonal sexual relationships. Aim To develop and perform psychometric validation of the Polish version of the Sexual Self-Schema Scale for Women (SSSS-W-PL). Methods 561 women 18 to 55 years old were included in the final analysis. Linguistic validation was performed in 4 steps in line with the MAPI Institute guidelines. Convergent validity was calculated using the Pearson r product-moment coefficient between different measures of sexuality (attitudes and experience, behavior, arousal, romantic relationship) and SSSS-W-PL total and factor scores. To test discriminant validity, we applied hierarchical regression analyses predicting the number of lifetime sexual partners, self-rating as a sexual person (1 item, \"I feel sexually attractive\"; on a 5-point Likert scale), and arousability, with independent variables being extraversion (Ten-Item Personality Inventory), self-esteem (Rosenberg Self-Esteem Scale), and the SSSS-W-PL (total and factor scores). Main outcomes measures Sexual self-schema was measured by the SSSS-W-PL, whereas arousability was measured by the arousal/excitement scale of the Changes in Sexual Functioning Questionnaire. Results The mean age of the study population was 29.0 ± 7.6 years. The final scale consisted of 24 adjectives grouped within 4 factors: romantic, passionate, direct, and embarrassed. The 4-factor model accounted for 39% of the variance. The Cronbach α was 0.74 for the SSSS-W-PL total score and 0.61 to 0.84 for individual factors. Test-retest reliability of the scale after 2- to 8-week intervals was 0.87 (95% CI = 0.82-0.86, P Conclusion The analysis showed good psychometric properties and internal validity of the SSSS-W-PL. The SSSS-W-PL might be helpful in consulting and/or providing sexual therapy to gynecologic cancer survivors or women with a history of childhood sexual abuse. Nowosielski K, Jankowski KS, Kowalczyk R, et al. Sexual Self-Schema Scale for Women-Validation and Psychometric Properties of the Polish Version. Sex Med 2018;6:131-142.",
+  "raw_path": "01_raw/europepmc_xml/PMC5960022.xml",
+  "text_path": "02_text/europepmc/PMC5960022.txt",
+  "raw_bytes": 157291,
+  "text_chars": 38452,
+  "raw_sha256": "7dfd2cb34fbcf64e3805a2355d29c9ec4c63c0594a8d71638da70f91b82198d5",
+  "text_sha256": "35c49c34773d287606686946764ddfdcdde86161303e8a0c84b92063c4663cb5",
+  "retrieved_at": "2026-10-25T15:49:19.529105+00:00"
+}

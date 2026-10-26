@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11429300",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Gender Role Mindset and Beliefs about Own Personal Goals as a Guide for Young People's Behaviors towards the Romantic Partner.",
+  "authors": "Cuccì G, Colombo CC, Confalonieri E.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/bs14090818",
+  "pmcid": "PMC11429300",
+  "url": "https://europepmc.org/article/PMC/PMC11429300",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11429300/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gender_roles"
+  ],
+  "abstract": "Dating violence (DV) is a form of intentional abuse carried out in young couples, which over the years has increasingly gained attention for its pervasiveness and high frequency. The present study represents an effort to expand and deepen the literature on factors associated with DV perpetration. The sample consisted of 225 Italian young people who completed an online survey. A model was tested, in which DV perpetration is affected by the presence of gender stereotypes and personal values oriented to power and dominance (i.e., self-enhancement) and to universalism and interest in others (i.e., self-transcendence) through the mediation of the perception of the romantic relationship quality, controlling for age. Sex was also considered in the model. The findings showed that self-enhancement and self-transcendence were, respectively, linked positively and negatively to a negative perception of the relationship quality, which in turn explained DV perpetration. The results also suggested that hostile sexism, self-enhancement and being male were directly linked to DV perpetration, thus representing potential risk factors for it. The study suggests the importance of working on gender role beliefs and personal orientation to power, which guide the way people perceive their romantic relationships and behave toward their partners, providing interesting insights for the implementation of DV prevention programs. Moreover, the findings highlight the importance of working with families and other educational agencies to foster a change in cultural terms.",
+  "raw_path": "01_raw/europepmc_xml/PMC11429300.xml",
+  "text_path": "02_text/europepmc/PMC11429300.txt",
+  "raw_bytes": 103327,
+  "text_chars": 35405,
+  "raw_sha256": "83e9101d60dae166d640f7fae1f5e6f7afa4bda7319ddc3888d174c05228f472",
+  "text_sha256": "f376a7ca39af8238f6c69e9aeeee1b8aa001f3db98b484ab3f375329f9cbcc38",
+  "retrieved_at": "2026-10-25T13:49:57.869004+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13242517",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Higher mindfulness and lower self-absorption predict greater compassion within romantic relationships.",
+  "authors": "Waclawek T, Monette G, Schuetz A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1038/s44271-026-00483-y",
+  "pmcid": "PMC13242517",
+  "url": "https://europepmc.org/article/PMC/PMC13242517",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13242517/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "mindfulness"
+  ],
+  "abstract": "Investigations into mindfulness and well-being have increasingly turned toward social outcomes such as compassion. However, research is needed to understand how mindfulness relates to compassion in real-world contexts. Moreover, the mechanisms underlying this relationship remain insufficiently understood, with self-related processes-particularly self-absorption and interdependent self-construal-representing important candidates. To address these gaps, we conducted a preregistered, ten-day diary study with n = 230 adults (M age = 40, SD = 12; 50% female, 49% male, and 1% N/A) in heterosexual romantic relationships (M length of relationship = 15 years, SD = 11 years; n = 114 dyads with both members contributing). Partner ratings of compassion were collected to capture how mindfulness relates to a person's compassion as perceived by close others in everyday life. We found that distinct facets of mindfulness showed different associations with compassion across levels of analysis: within persons, daily state increases in mindful acceptance corresponded with higher compassion (B = 0.19, SE = 0.06, p = 0.002, 95% CI[0.07, 0.31]), whereas between persons, greater trait mindful attention predicted greater compassion (B = 0.52, SE = 0.17, p = 0.002, 95% CI[0.19, 0.85]). We also found support for self-absorption as a mediating mechanism, as greater mindfulness (state and trait) was associated with more compassion through lower self-absorption. Although we expected this indirect effect to be stronger among individuals higher in interdependent self-construal, this moderation was not supported. Together, these findings highlight the importance of distinguishing state and trait processes in understanding the link between mindfulness and compassion in real-world contexts, and identify self-absorption as a key mechanism. Future work can address limitations of this work by investigating its generalizability to other populations.",
+  "raw_path": "01_raw/europepmc_xml/PMC13242517.xml",
+  "text_path": "02_text/europepmc/PMC13242517.txt",
+  "raw_bytes": 153944,
+  "text_chars": 61720,
+  "raw_sha256": "1061041a3d5dfc09bc84b34335a12af37bb688eb24ed1d90e8d585d6a3dd03ca",
+  "text_sha256": "4f7efd21a2a28ac6137e2b41fa5327dcde53288c84338c02792e157374ab6d9f",
+  "retrieved_at": "2026-10-25T15:29:02.891155+00:00"
+}

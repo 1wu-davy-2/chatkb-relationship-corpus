@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12916591",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sense of coherence as moderator of the predictive power of personality variables on sexual satisfaction-a structural equation modeling approach.",
+  "authors": "von Hinrichs A, Wirtz MA.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1673425",
+  "pmcid": "PMC12916591",
+  "url": "https://europepmc.org/article/PMC/PMC12916591",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12916591/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "Introduction The prediction of general health outcomes, such as life satisfaction and psychological wellbeing, by the Big Five personality traits is improved by additionally considering Sense of coherence ( SOC ). This study aims to examine whether SOC mediates the association of Big Five personality traits and Sexual satisfaction as psychological facet of sexual health. Methods N = 206 German adults (aged 18-60) answered items on socio-demography and sexual orientation/behavior, the short Big Five Inventory (BFI-K), the SOC-L9 and the self-centered subscale of the New Sexual Satisfaction Scale (NSSS-E) in an online survey. Confirmatory factor analysis (CFA) and structural equation modeling were used (maximum likelihood estimation). Results Model modifications ensured satisfactory to good CFA model fits for the BFI-K, SOC-L9 and NSSS-E (CFI = 0.972-0.992; RMSEA = 0.024-0.072). In particular, the SOC-L9 items had to be assigned to the two newly defined sub-factors Sense of meaningfulness and manageability (SOC-MM) and Sense of comprehensibility (SOC-CP). Sexual satisfaction proved to be a second-order factor underlying the first-order components Intensity , Emotionality and Orgasm . 20% of the variance in Sexual satisfaction can be predicted by SOC-MM (β = 0.57, p Neuroticism and Openness is fully mediated by SOC-MM (Δχ 2 df = 5 = 9.035, p = 0.108). Living in a partnership corresponds to higher SOC-MM and Sexual satisfaction . Being heterosexual also corresponds to enhanced SOC. Discussion The association of the Big Five personality traits and Sexual satisfaction can be considered as fully mediated by SOC-MM . The link between SOC-MM for satisfaction with sexual experience and behavior thus appears to be essential in order to improve the understanding and promotion of Sexual satisfaction and health.",
+  "raw_path": "01_raw/europepmc_xml/PMC12916591.xml",
+  "text_path": "02_text/europepmc/PMC12916591.txt",
+  "raw_bytes": 175073,
+  "text_chars": 40446,
+  "raw_sha256": "6467b23eb1f6389accbbd158ab23c23dfe7b56aa524fc81da0a1a08744c073d5",
+  "text_sha256": "fb54897ad30c25f99338d5757c3d7c3ae529d65eaf9c28b912a72759b8482889",
+  "retrieved_at": "2026-10-26T13:07:34.531276+00:00"
+}

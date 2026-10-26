@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6131646",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Forgiveness, Marital Quality, and Marital Stability in the Early Years of Chinese Marriage: An Actor-Partner Interdependence Mediation Model.",
+  "authors": "He Q, Zhong M, Tong W, Lan J, Li X, Ju X, Fang X.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2018.01520",
+  "pmcid": "PMC6131646",
+  "url": "https://europepmc.org/article/PMC/PMC6131646",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6131646/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "forgiveness"
+  ],
+  "abstract": "Based on the Vulnerability Stress Adaptation model, this study examined the relationship between forgiveness and marital stability, and provides a first look at the mediating role of marital quality in this association during the first 3 years of marriage based on three annual waves of data collected from 268 Chinese couples. Tests of actor-partner interdependence mediation models revealed direct effects of decisional forgiveness and emotional forgiveness on the concurrent levels of marital stability for husbands, and indirect effects of emotional forgiveness on the concurrent and longitudinal levels of marital stability through marital quality for both husbands and wives. There was also an indirect effect of wives' emotional forgiveness on concurrent and longitudinal levels of husbands' marital stability through their wives' marital quality. Thus, emotional forgiveness, rather than decisional forgiveness, contributes to longitudinal levels of marital stability through marital quality. Theoretical implications and future directions for research are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC6131646.xml",
+  "text_path": "02_text/europepmc/PMC6131646.txt",
+  "raw_bytes": 142700,
+  "text_chars": 40765,
+  "raw_sha256": "584c7cc58aa24e9c87a50bf248fdb0f4116a558150c923eb7af69b989de78c6c",
+  "text_sha256": "3078f3ec048dbf2d39c96c4f29f0fb45bb899555eebdc2580cf85171422dd1da",
+  "retrieved_at": "2026-10-25T13:55:27.503760+00:00"
+}

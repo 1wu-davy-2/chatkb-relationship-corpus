@@ -1,0 +1,134 @@
+TITLE: Resilience and loneliness among older adults: an analysis using decision tree techniques.
+AUTHORS: Khatib A, Gazerani A, Fereidouni Sarijeh P, Pazhavand M, Ebrahimi MA, Ranjbari B.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1007/s40520-025-03266-3
+PMCID: PMC12775117
+LICENSE: cc by-nc-nd
+LICENSE_URL: https://creativecommons.org/licenses/by-nc-nd/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC12775117
+TOPICS: loneliness
+
+---
+
+ABSTRACT
+Background and aimAging is accompanied by profound biological, psychological, and social changes, and loneliness is considered one of the essential factors threatening the mental health of the elderly. Resilience, as a vital psychological mechanism, is the ability of an individual to effectively cope with stress and return to psychological balance after difficult situations. present study aimed to investigate the relationship between resilience and loneliness in the elderly and identify the factors affecting this relationship using a decision tree.MethodA descriptive-analytical and cross-sectional study was conducted with 1400 elderly people aged 60 and older in Tehran. Data were collected using the Resilience Questionnaire (CD-RISC-25) and the Social and Emotional Loneliness Scale (SELSA-S) and analyzed using the CART decision tree. SPSS v. 22 software was used for analysis.ResultBased on decision tree analysis using the CART method, elderly with a resilience score of ≤ 74.5 show a higher mean loneliness (53.42 ± 12.02). elderly with a social score higher than 12.5, the mean loneliness was 62.21 ± 4.82, while in the elderly with a lower score, the mean loneliness was lower 41.62.8.01. Individuals with a romantic dimension score of ≤ 12.5 had a very low mean loneliness of 27.53 ± 6.91, while individuals with a higher score experienced a mean of 54.93 ± 9.28. overall accuracy of the model for the high and low loneliness groups was 86.90% and 85.12%, respectively.ConclusionThe present findings emphasize that strengthening individual resilience, along with promoting social and family support and paying attention to emotional relationships, is effective in reducing loneliness in older people.
+
+BODY
+Introduction
+
+Aging is accompanied by profound changes in biological, psychological, and social aspects and is considered the most critical and challenging stage of human life [1]. According to statistics reported by the World Health Organization, the aging process of the population is increasing rapidly worldwide, such that the population of people over 60 years of age will reach more than two billion by 2050 [2]; In addition to the fact that this trend places a significant burden on the health and social systems of every country [3], exceptional attention to issues related to the physical and mental health of the elderly is also of great importance [4].
+
+Resilience, as a vital psychological mechanism, is an individual’s ability to effectively cope with psychological stress and return to psychological balance after experiencing difficult situations [5]. Studies have shown that resilience helps maintain mental health and can improve quality of life by increasing adaptability and reducing anxiety and depression [6, 7]. Research suggests that resilience is critical in the elderly, as this group faces physical limitations, loss of social roles, and environmental changes [8–10].
+
+With the decline in social relationships during old age, loneliness is recognized as one of the main factors threatening the mental health of the elderly [11]. According to study results, loneliness has serious consequences such as an increased risk of mental illness [12], reduced quality of life [13, 14], and even increased mortality [15–17]. Increased psychological isolation in the elderly has also been reported due to loneliness and decreased social participation [18, 19].
+
+Wister et al., 2025 found that resilience mediates the relationship between social isolation and loneliness [20]. Henriksen, 2025 examined the relationship between loneliness, resilience, and general mental health problems, reporting a significant positive relationship between loneliness and general mental health problems, but the moderation of resilience was not significant [21]. Other study reported Increasing resilience reduces feelings of social and emotional loneliness in the elderly [22]. Moreover, Momeni et al., 2025 reported resilience plays a key role in mediating the relationship between attitudes toward aging and loneliness [23].
+
+Despite the findings reported in previous studies and their focus on correlations or simple regression analyses, complex interrelationships have been less investigated; Therefore, there is a knowledge gap in providing accurate patterns and predictors of loneliness in the elderly for implementing educational interventions, especially using advanced statistical methods such as decision tree modeling; decision tree modeling allow the identification of complex patterns and relationships between variables, and contribute significantly to a better understanding of the relationship between variables [24]. Understanding these patterns is crucial for designing effective preventive and treatment programs tailored to the elderly.
+
+Therefore, the present study was conducted to determine the relationship between resilience and loneliness among the elderly. By examining a large sample size of the elderly and following a comprehensive and detailed study of the relationship between resilience and loneliness, it provides a scientific basis for developing preventive and therapeutic programs in this area.
+
+Method
+
+Study design and participants
+
+The present study was a descriptive-analytical and cross-sectional study; 1400 older people aged 60 and above were selected using a multistage cluster sampling method from Tehran, Iran. The sample size was calculated based on the expected prevalence of loneliness in older people (p = 0.65), with a margin of error of 7%, a confidence level of 95%, and considering a 10% sample attrition.\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\:N=\frac{{Z}_{1-\frac{a}{2}}^{2}}{{d}^{2}}\times\:p\times\:q=\frac{(1/96{)}^{2}}{(0/07{)}^{2}}\times\:0/65\times\:0/35=1400$$\end{document}
+
+In the present study, multi-stage sampling was used to ensure adequate representation of the elderly in Tehran. First, three districts were randomly selected from among the 22 districts of Tehran Municipality; then, one neighborhood was randomly selected from each district. In the next stage, public centers including parks, mosques, retirement associations, and health centers were determined as sampling bases in each neighborhood. Finally, 1400 elderly people were selected according to the inclusion and exclusion criteria for the study. Of the 1,400 selected elderly, the response rate was 98%. During the study, 28 people withdrew or were excluded, giving a dropout rate of 2%. Then, resampling was conducted to obtain another 28 samples, and finally, 1,400 elderly were surveyed.
+
+All participant information was recorded confidentially, and all participants were assured that the data would be used only for research purposes; written informed consent was obtained from all study participants. the present study was approved by the relevant university ethics committee’s code of ethics (IR.NUM.REC.1403.038).
+
+Selection criteria
+
+Inclusion criteria: Participants were over 60 years of age, had the ability to understand and communicate verbally, had informed consent and willingness to participate in the study, and had no history of severe mental or cognitive disorders.
+
+Exclusion criteria: Hospitalization in medical or care centers at the time of sampling, providing incomplete or unreliable information, unwillingness to continue cooperating during the study, and sudden and unexpected death.
+
+Data collection tool
+
+Demographic characteristics: age, gender, marital status, education level, and occupation.
+
+Connor and Davidson Resilience Scale (CD-RISC-25): This tool consists of 25 questions with a 5-point Likert scale (0 to 4), and its score range is 0 to 100, with higher scores indicating higher resilience. This tool has good reliability (Cronbach’s alpha 0.89) [25]. The reliability and validity of this questionnaire in the Iranian elderly population was calculated by Rezaeipandari et al., 2022; the calculated values ​​of Cronbach’s alpha coefficients (0.89) and ICC (0.90) were within acceptable limits [26].
+
+Social and Emotional Loneliness Scale (SELSA-S): This instrument has 14 questions in three dimensions: “social (five items)”, “family (five items)”, and " romantic (four items)”, which are assessed on a 5-point Likert scale (1 = strongly disagree to 5 = strongly agree). A higher score on each subscale and the total score on the scale means greater feelings of loneliness. The reliability of this instrument was also confirmed in the present study (α = 0.87) [27]. Sahraee et al., 2024 examined the reliability of this questionnaire in the Iranian elderly population; the reliability of the romantic, social, and family loneliness subscales in this study was 0.90, 0.86, and 0.82, respectively, and the overall reliability was 0.76 [28].
+
+For the elderly who were illiterate, trained interviewers read the questionnaire face-to-face and recorded the information based on verbal responses. In incomplete cases, the information was completed again in coordination.
+
+Data analysis
+
+Data analysis was performed using SPSS version 22 software. Descriptive statistics including mean, standard deviation, and frequency percentage were used to describe demographic characteristics and study variables. For predictive analysis, the Decision Tree method using the CRT algorithm was used to examine complex patterns between the Resilience and Loneliness variables. In the decision tree model, the independent variables included resilience, social support, family relationships, and romantic relationships, and the dependent variable was overall loneliness. This method, due to its ability to separate samples and accurate prediction, allows for the identification of the most significant influential variables. The recall rate, precision rate, and overall accuracy of the model were estimated.
+
+Result
+
+In the present study, 1400 elderly people aged 60 and above participated, with a mean age of 71.43 ± 6.53 years (age range: 60 to 90 years). The highest gender share was women (65.3%), and men made up 34.7% of the sample. Table 1 shows the demographic characteristics of the participants; these findings represent a diverse mix of older adults, which could inform further analyses examining the relationship between resilience and loneliness.
+
+Table 1Demographic characteristics of participants (n = 1400)VariableCategoryFrequency (n)Percentage (%)AgeMean ± SD71.43 ± 6.53GenderFemale (%)91465.3Male (%)48634.7Marital StatusSingle846Married78255.9Deceased Husband/Wife42430.3Divorced1107.9OccupationRetired41629.7Housekeeper86661.9Free occupation1888.4Education levelIlliterate50836.3Elementary32623.3High school33824.1Diploma969.4University degree1326.9
+
+Demographic characteristics of participants (n = 1400)
+
+The mean resilience score was 74.6 ± 8.70, and the mean total loneliness score was 50.03 ± 14.21 (Table 2).
+
+Table 2The mean and standard deviation of resilience and loneliness (Total and Subscales)VariableN (Valid)MeanStd. DeviationResilience140074.598.70LonelinessTotal140050.0314.21Romantic140018.525.99Family140016.715.92Social140014.815.77
+
+The mean and standard deviation of resilience and loneliness (Total and Subscales)
+
+Predictive analysis
+
+Based on decision tree analysis using the CART method, The first main division is based on the resilience, such that elderly with a resilience score of ≤ 74.5 show a higher mean loneliness (53.42 ± 12.02), while elderly with resilience > 74.5 report a lower mean loneliness (45.43 ± 15.59). Based on this part of the decision tree, the protective role of resilience against loneliness in the elderly was estimated; elderly people with higher resilience feel less loneliness (Table 3; Fig. 1).
+
+At the next node of the decision tree, the social variable played an important role in differentiating individuals among the elderly with low resilience; in such a way that in the elderly with a social score higher than 12.5, the mean loneliness was 62.21 ± 4.82, while in the elderly with a lower score, the mean loneliness was lower 41.62.8.01 This trend shows that social, even in elderly with low resilience, can help reduce feelings of loneliness (Table 3; Fig. 1).
+
+For elderly with high resilience, romantic relationships created an important divide; individuals with a score of ≤ 12.5 had a very low mean loneliness 27.53 ± 6.91, while individuals with a higher score experienced a mean of 54.93 ± 9.28, indicating that the quality and satisfaction of romantic relationships have an important impact on the feelings of loneliness of the elderly (Table 3; Fig. 1).
+
+By examining the lower nodes, observed that social, family, and romantic relationship variables interact with each other; Therefore, the combination of resilience factors, social skills, quality of romantic relationships, and family relationships are the main determinants of people’s level of loneliness (Table 3; Fig. 1).
+
+The analysis shows that the resilience variable is the most important predictor of loneliness in the elderly, because the CRT algorithm initially performed the greatest separation and reduction of loneliness prediction error based on resilience, and the difference in the mean loneliness between the initial branches is greater than any other variable. The social support variable played an important moderating role. Romantic and family dimensions provided more accurate predictions (Fig. 1).
+
+Fig. 1CART decision tree diagram for predicting loneliness based on resilience
+
+CART decision tree diagram for predicting loneliness based on resilience
+
+Table 3Node statistics for loneliness predicted by Resilience, Social, Romantic, and family factorsNode N % of SampleMean LonelinessSDParent NodePrimary PredictorSplit Value01400100%50.0314.21–––180657.6%53.4312.020Resilience≤ 74.5259442.4%45.4315.590Resilience> 74.5334424.6%41.628.011Social≤ 12.5446233.0%62.224.821Social> 12.5520614.7%27.536.922Romantic≤ 12.5638827.7%54.939.292Romantic> 12.571027.3%31.183.593Romantic≤ 12.5824217.3%46.024.503Romantic> 12.59866.1%56.513.514Romantic≤ 17.51037626.9%63.524.084Romantic> 17.511624.4%18.842.165Romantic≤ 8.01214410.3%31.284.445Romantic> 8.01318613.3%46.695.206Social≤ 12.51420214.4%62.524.526Social> 12.51524617.6%61.633.6510Social≤ 20.5161309.3%67.111.8210Social> 20.5171289.1%60.673.7514Social≤ 20.518745.3%65.733.9014Social> 20.51915811.3%59.492.0715Family≤ 23.020886.3%65.452.5815Family> 23.0
+
+Node statistics for loneliness predicted by Resilience, Social, Romantic, and family factors
+
+Table 4 shows that the average model prediction error over the entire sample (N = 1400) is about 14.22. The value of Std. Error = 0.801 indicates the accuracy of the model prediction error estimate; a low standard error indicates that the risk estimate is relatively stable and reliable and that there is not much fluctuation in this estimate.
+
+Table 4Risk estimate for predicting loneliness using CRTMeasureEstimateStd. ErrorMethodDependent VariableRisk14.2230.801CRTLoneliness
+
+Risk estimate for predicting loneliness using CRT
+
+Model evaluation
+
+The results in Table 5 show that the decision tree model (CRT) had an acceptable performance in predicting different levels of loneliness in the elderly. The recall rate for the high loneliness group was 84.46% and for the low loneliness group was 81.32%. These values ​​indicate that the model was able to correctly identify the majority of the elderly with high or low loneliness. On the other hand, the precision rate in the high loneliness group was 97.41% and in the low loneliness group was 95.87%, indicating the high power of the model in correctly detecting predicted cases. The overall accuracy of the model for the high and low loneliness groups was 86.90% and 85.12%, respectively, indicating the appropriate overall power of the model in correctly predicting the dependent variable (Loneliness).
+
+Table 5Classification accuracy of the loneliness prediction modelCategoryRecall Rate aPrecision Rate bAccuracy Rate cHigh Loneliness84.46%97.41%86.90%Low Loneliness81.32%95.87%85.12%a. Recall = TP / (TP + FN), representing the percentage of actual cases correctly identifiedb. Precision = TP / (TP + FP), representing the proportion of predicted positives that are correctc. Accuracy = (TP + TN) / (TP + TN + FP + FN), representing the overall correctness of classificationTP: true positive; FN: false negative
+
+Classification accuracy of the loneliness prediction model
+
+a. Recall = TP / (TP + FN), representing the percentage of actual cases correctly identified
+
+b. Precision = TP / (TP + FP), representing the proportion of predicted positives that are correct
+
+c. Accuracy = (TP + TN) / (TP + TN + FP + FN), representing the overall correctness of classification
+
+TP: true positive; FN: false negative
+
+Discussion
+
+The findings of the present study showed that resilience is the most important predictor of loneliness in the elderly; elderly who reported higher levels of resilience experienced less loneliness and vice versa. The present result are consistent with the results of previous studies regarding the protective role of resilience in reducing loneliness in the elderly [20, 22, 23]. These results are consistent with previous studies that have identified resilience as an essential factor in coping with psychological and social stress [29–31].
+
+The results of decision tree analysis showed that social support among elderly people with low resilience plays an important role in reducing feelings of loneliness. This finding is similar to reports by Henriksen et al., 2025, who showed that social interactions and support networks can reduce feelings of psychological isolation, even in individuals with low resilience [21]. Various studies have shown that the presence of strong social networks can reduce loneliness and isolation in the elderly [32–34]. The lack of this social support, especially in people with low resilience, greatly increases loneliness.
+
+The present findings showed that older adults who had low-quality romantic relationships experienced higher levels of loneliness. This finding is consistent with previous studies on the role of close relationships and interpersonal relationship satisfaction in reducing loneliness [35, 36]. This finding is also consistent with some recent research that has emphasized the importance of emotional relationships in old age [37–40].
+
+Decision tree analysis shows the interaction between the variables of resilience, social support, family and romantic relationships in explaining loneliness in the elderly. This type of analysis leads to the identification of complex and nonlinear patterns between variables and the design of more targeted interventions. The model’s performance, high prediction accuracy, and recall and precision rates indicate that the presented model can be used in designing preventive and treatment programs for the elderly. Psychological interventions to increase resilience and programs to promote social support for the elderly, improve family and romantic relationships can be designed to reduce loneliness in the elderly.
+
+One of the limitations of this study was the large number of questions in the questionnaires, which could have led to fatigue or decreased attention in the elderly while responding. To manage this issue, measures were taken, including providing clear instructions, allocating sufficient time to complete the questionnaire, and allowing for breaks between responses. Despite these measures, the possibility of participant fatigue should be considered when interpreting the results. Another limitation was the limited geographic focus, which could limit the generalizability of the results. Factors such as economic status, physical health, and personality traits can also influence feelings of loneliness, which were not examined in this study.
+
+Conclusion
+
+The present study, by developing a four-factor predictive model for loneliness in the elderly using decision trees, showed that resilience is the most important predictor of loneliness in the elderly. Based on decision tree analysis, social support, family relationships and romantic relationships play a significant role in differentiating elderly people with different levels of loneliness, and these variables can help reduce feelings of loneliness even in elderly people with low resilience. These findings emphasize that multidimensional interventions that focus on strengthening individual resilience while simultaneously improving social and family support may be more effective in reducing loneliness.
+
+It is suggested that future studies design and implement resilience-building programs in the elderly group to increase their ability to cope with loneliness and psychological stress. Studies are also needed to improve family support through family education and the creation of support networks in the community. Developing social activities and support groups to increase social support for the elderly can also be a useful method. Special attention to the emotional dimension and romantic relationships of the elderly in psychosocial interventions is recommended in future articles. Future research with larger samples and longitudinal studies is recommended to examine the causal effect of these variables.

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13139126",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "High-frequency cyber-pornography exposure and gender as influencing factors in adult problematic pornography use following minor-onset viewing.",
+  "authors": "Morlat PV, Limniou M, Dobbie M, Chatzisymeonidis S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2026.1815849",
+  "pmcid": "PMC13139126",
+  "url": "https://europepmc.org/article/PMC/PMC13139126",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13139126/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Introduction Due to the increased ease of access to cyber-pornography (C-P) and the decreasing age of consumers, investigations into this topic are fundamental to improve timely understanding of C-P and what its use entails. Research has yet to investigate the relationship between problematic pornography use (PPU), frequency of cyber-pornography exposure (FC-PE) and sexual permissiveness (SP) in adults with first exposure to C-P before the age of 18. This study investigated (i) the association between PPU and FC-PE and (ii) the association between PPU and SP while testing gender and sexual orientation as potential moderators. Materials and methods The sample of this study consisted of 200 individuals (51.5% women, 48.5% men) aged 18-58 years old ( M age = 21.67 years, SD = 5.22) who reported sustained C-P use with first exposure before the age of 18. Participants identified as heterosexual (61.0%), bisexual (26.5%), homosexual (6.0%) and 'other sexual orientation' (6.5%). Measures included the Problematic Pornography Consumption Scale, the Brief Sexual Attitudes Scale and demographic items. Results Linear regression analyses indicated a very strong positive association between PPU and FC-PE ( p p = 0.067). Although neither moderation effect reached significance, gender emerged as a significant predictor of PPU ( p p = 0.064). Conclusion The findings highlight the need for greater awareness and monitoring of C-P use, as high-frequent exposure may signal elevated risk for PPU, particularly among men. Future research is warranted to clarify the roles of SP and sexual orientation in PPU. Early identification and targeted interventions in clinical settings and educational programs may help mitigate negative outcomes, reduce stigma and promote healthier sexual attitudes and self-regulation, an increasingly important priority given the rising prevalence of C-P exposure among minors.",
+  "raw_path": "01_raw/europepmc_xml/PMC13139126.xml",
+  "text_path": "02_text/europepmc/PMC13139126.txt",
+  "raw_bytes": 131673,
+  "text_chars": 37377,
+  "raw_sha256": "8624a483a1a7eb86edc667a534e3b1cb5ac103e65afece026606eceb988bfbc5",
+  "text_sha256": "4e6c6452557ab43e3eb45ae354d99f8419f4f651c309129f3193d716e4808ee1",
+  "retrieved_at": "2026-10-26T13:09:14.679341+00:00"
+}

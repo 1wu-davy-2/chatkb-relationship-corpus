@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11007024",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Variation in emotion dynamics over time is associated with future relationship outcomes.",
+  "authors": "Johal SK, Ferrer E.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fnhum.2024.1331859",
+  "pmcid": "PMC11007024",
+  "url": "https://europepmc.org/article/PMC/PMC11007024",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11007024/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Romantic relationships are defined by emotion dynamics, or how the emotions of one partner at a single timepoint can affect their own emotions and the emotions of their partner at the next timepoint. Previous research has shown that the level of these emotion dynamics plays a role in determining the state and quality of the relationship. However, this research has not examined whether the estimated emotion dynamics change over time, and how the change in these dynamics might relate to relationship outcomes, despite changes in dynamics being likely to occur. We examined whether the magnitude of variation in emotion dynamics over time was associated with relationship outcomes in a sample of 148 couples. Time-varying vector autoregressive models were used to estimate the emotion dynamics for each couple, and the average and standard deviation of the dynamics over time was related to relationship quality and relationship dissolution 1-2 years later. Our results demonstrate that certain autoregressive and cross-lagged parameters do show significant variation over time, and that this variation is associated with relationship outcomes. Overall, this study demonstrates the importance of accounting for change in emotion dynamics over time, and the relevance of this change to the prediction of future outcomes.",
+  "raw_path": "01_raw/europepmc_xml/PMC11007024.xml",
+  "text_path": "02_text/europepmc/PMC11007024.txt",
+  "raw_bytes": 147200,
+  "text_chars": 51893,
+  "raw_sha256": "f219f32192a6a9b5265e07407a25cabfc698d8cf79ee32269f5b78d156b72538",
+  "text_sha256": "7112d529d4dc701365e3ce2b136f8451a6d445144f68cf42071587be99d8ba79",
+  "retrieved_at": "2026-10-25T15:34:20.713632+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13276209",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Buttocks or Breasts? Identifying Latent Subgroups in Male Preferences for Female Bodily Features.",
+  "authors": "Mehmetoglu M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/14747049261452897",
+  "pmcid": "PMC13276209",
+  "url": "https://europepmc.org/article/PMC/PMC13276209",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13276209/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Among the various physical traits that serve as secondary sexual characteristics, breasts and buttocks are visually conspicuous cues used in male mate evaluation because they signal youth, fertility, developmental stability, and nutritional status. Although these features have been extensively studied, less is known about the extent to which men differ in the relative importance they place on each trait. Latent Profile Analysis (LPA) identified distinct subgroups of Norwegian men ( N = 395) based on how much importance they placed on breasts and buttocks in their evaluations of romantic partners. A four-class solution emerged, comprising Highly Body-Oriented (53%), Moderately Body-Oriented (20%), Buttocks-Oriented (18%), and Body-Unoriented (9%) subgroups. Predictors such as egalitarianism, materialism, and preferences for sexiness were, as expected, significantly associated with class membership, providing support for the validity of the typology. Notably, a consistent buttocks-oriented class emerged across all LPA solutions, whereas no distinct breasts-oriented group was found, as ratings of breasts persistently co-occurred with high ratings of buttocks, suggesting that breasts do not function as a primary preference in isolation. These findings reveal that buttocks may occupy a more central and stable role than breasts in male mate preferences, offering novel insights into the structure of physical attraction and heterogeneity in the male mating mind.",
+  "raw_path": "01_raw/europepmc_xml/PMC13276209.xml",
+  "text_path": "02_text/europepmc/PMC13276209.txt",
+  "raw_bytes": 106084,
+  "text_chars": 36102,
+  "raw_sha256": "abcbf27d12c95bb1c358cb8d7c4c756172b65532ba5e778576fbeb112579a397",
+  "text_sha256": "29e9975254efb18f1eab5f9845effa92d644e171d27a0cfd07df5fae707fa306",
+  "retrieved_at": "2026-10-25T14:01:32.506687+00:00"
+}

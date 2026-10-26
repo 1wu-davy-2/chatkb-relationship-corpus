@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8915219",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Intimate Partner Stalking/Pursuit: A Pathophysiology of Attachment Style.",
+  "authors": "Creamer CJ, Hand CJ.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/0306624x211010289",
+  "pmcid": "PMC8915219",
+  "url": "https://europepmc.org/article/PMC/PMC8915219",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8915219/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "Approximately half of stalking victims were previously in an intimate relationship with the perpetrator, and attachment style is strongly correlated with intimate partner stalking (IPS). In the first study to investigate polyvagal theory in IPS, we examined 58 adult participants' attachment style, sex, history of IPS, vagal tone activity (i.e., heart rate variability; HRV), and cognitive processing disruptions (i.e., Stroop performance) in either participants who wished a relationship or in those who wished to maintain a relationship post-break-up. Results showed that males were more likely to perpetrate IPS than females. Anxious-style participants were more likely to have perpetrated IPS, showed greater cognitive disruption and HRV than avoidant-style participants. Our results support theories that attachment is a biological imperative with neurobiological implications that can be indexed physiologically and cognitively. This study is the first to demonstrate a pathophysiology of attachment style to IPS, in a replicable way. IPS is discussed as reflective of disordered arousal and related to anxiety. Recommendations for further research and clinically-relevant interventions are presented.",
+  "raw_path": "01_raw/europepmc_xml/PMC8915219.xml",
+  "text_path": "02_text/europepmc/PMC8915219.txt",
+  "raw_bytes": 128083,
+  "text_chars": 49965,
+  "raw_sha256": "a1db7713c9b78835b9f6d093b817b8a02255746345d87521f37143e243de6d68",
+  "text_sha256": "f294bbe17237a141c646b56fa874e3f09fc56ef776a3554bcb3c7b00caf40f7b",
+  "retrieved_at": "2026-10-25T15:36:13.231061+00:00"
+}

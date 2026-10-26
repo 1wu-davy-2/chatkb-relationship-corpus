@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12973563",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring the role of psychological needs in dating victimization and relationship satisfaction: a mediation analysis among Turkish young couples grounded in self-determination theory.",
+  "authors": "Donat Bacıoğlu S, Kantar A, Gurbuz-Akcay F.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-03988-7",
+  "pmcid": "PMC12973563",
+  "url": "https://europepmc.org/article/PMC/PMC12973563",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12973563/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "BACKGROUND: Dating violence is a significant public health problem that adversely affects individuals’ psychological well-being and relationship functioning. Although previous studies have documented the association between psychological dating violence victimization and relationship satisfaction, the psychological mechanisms underlying this association remain insufficiently understood, particularly in non-Western cultural contexts. METHODS: This cross-sectional study was conducted with 401 young adults who had been involved in a romantic relationship within the past six months. Participants completed measures assessing psychological dating violence victimization, basic psychological needs (autonomy, competence, and relatedness) as defined by Self-Determination Theory, and relationship satisfaction. A multiple mediation analysis was performed using bootstrapping procedures. RESULTS: Psychological dating violence victimization was negatively associated with relationship satisfaction. Among the basic psychological needs, only relatedness significantly mediated this association. Autonomy and competence were not found to be significant mediators. The indirect effect through relatedness was negative, indicating that lower relatedness was associated with lower relationship satisfaction. CONCLUSIONS: The findings suggest that relatedness plays a key associative role in the link between psychological dating violence victimization and relationship satisfaction. Supporting the need for relatedness may help weaken the negative association between victimisation experiences and relationship satisfaction among young couples.",
+  "raw_path": "01_raw/europepmc_xml/PMC12973563.xml",
+  "text_path": "02_text/europepmc/PMC12973563.txt",
+  "raw_bytes": 124430,
+  "text_chars": 43575,
+  "raw_sha256": "305fa48441dddc63a26d095e71b03791591d870acb9e1ce1573ca8f77e76e343",
+  "text_sha256": "b3f81d404f84f7893e7261ef947c625dc73f72d7f18422d256cd1d0b4484e4c7",
+  "retrieved_at": "2026-10-25T13:56:03.810006+00:00"
+}

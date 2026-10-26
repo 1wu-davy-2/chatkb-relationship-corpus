@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5626872",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Actor, Partner, Similarity Effects of Personality, and Interactions with Gender and Relationship Duration among Chinese Emerging Adults.",
+  "authors": "Zhou Y, Wang K, Chen S, Zhang J, Zhou M.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2017.01698",
+  "pmcid": "PMC5626872",
+  "url": "https://europepmc.org/article/PMC/PMC5626872",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5626872/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Understanding personality effects and their role in influencing relationship quality, varied according to gender and relationship duration, could help us better understand close relationships. Participants were Chinese dating dyads and were asked to complete both the Big Five Inventory and Perceived Relationship Quality Component scales. Males and those who had a long-term relationship perceived better relationship quality; individuals who scored higher on agreeableness, conscientiousness, openness, and emotional stability enjoyed better relationship quality; gender and/or relationship duration moderated the actor effect of extraversion and the partner effects of conscientiousness, emotional stability, and openness on relationship quality. Regarding the profile similarity, those couples who were more dissimilar in their profile personality had better relationship quality, especially when they were in a relatively long-term relationship. Meanwhile, with an increase in profile similarity, the males' perceived relationship quality decreased.",
+  "raw_path": "01_raw/europepmc_xml/PMC5626872.xml",
+  "text_path": "02_text/europepmc/PMC5626872.txt",
+  "raw_bytes": 174290,
+  "text_chars": 40569,
+  "raw_sha256": "aa6972c7a12399f0674e6f844136b82f105711dc3027de27b1586cc6d8b81bbc",
+  "text_sha256": "d2177ae6b0100bb681606a5075636f4ddd9d098b36059cf7b3687b65374ad363",
+  "retrieved_at": "2026-10-25T15:46:57.568675+00:00"
+}

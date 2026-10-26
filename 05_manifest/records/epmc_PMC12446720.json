@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12446720",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Thank You for Changing: Gratitude Promotes Autonomous Motivation and Successful Partner Regulation.",
+  "authors": "Sisson NM, Park Y, Overall NC, Park HG, Johnson MD, Stellar JE, Le BM, Impett EA.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/01461672241246211",
+  "pmcid": "PMC12446720",
+  "url": "https://europepmc.org/article/PMC/PMC12446720",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12446720/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "gratitude"
+  ],
+  "abstract": "Romantic partners often attempt to improve their relationship by changing each other's traits and behaviors, but such partner regulation is often unsuccessful. We examined whether gratitude expressed by agents (i.e., partners requesting change) facilitates greater regulation success from targets (i.e., partners making change) by encouraging targets' autonomous motivation. Across studies, including observational (Study 1, N = 111 couples), preregistered longitudinal (Study 2, N = 150 couples), and experimental (Study 3a, N = 431; Study 3b, N = 725) designs, agents' gratitude for targets' efforts was linked to greater targets'-and less consistently agents'-reported regulation success. These effects were consistently mediated by greater target autonomous motivation, and generally persisted when accounting for how agents communicated their change request and other positive responses to targets' efforts (e.g., positivity and support). Gratitude for targets' efforts appears to be an important tool for promoting change success.",
+  "raw_path": "01_raw/europepmc_xml/PMC12446720.xml",
+  "text_path": "02_text/europepmc/PMC12446720.txt",
+  "raw_bytes": 211785,
+  "text_chars": 69686,
+  "raw_sha256": "3792755ef969d401fe709f488bcec333d41fdd774f0ec20ef2678003246c92e3",
+  "text_sha256": "d342ec447c442f439032a15997f806b033f742d090a5bc75e1560cb14f716488",
+  "retrieved_at": "2026-10-25T15:28:21.965095+00:00"
+}

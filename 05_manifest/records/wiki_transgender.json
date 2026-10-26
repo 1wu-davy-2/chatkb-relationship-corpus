@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_transgender",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "跨性別",
+  "requested_title": "跨性别",
+  "url": "https://zh.wikipedia.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 跨性別",
+  "topics": [
+    "gender",
+    "sexual_minorities"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/transgender.json",
+  "text_path": "02_text/zh_wikipedia/transgender.txt",
+  "raw_bytes": 44744,
+  "text_chars": 16783,
+  "text_sha256": "d6b923d06c510ebcc501b75250f89cf86a31547a99fd564eb588454272a4ad87",
+  "retrieved_at": "2026-10-26T13:59:05.353099+00:00"
+}

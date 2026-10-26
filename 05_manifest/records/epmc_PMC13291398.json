@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13291398",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Between Struggle and Strength: A Rapid Review of Dual-Trauma Couples.",
+  "authors": "Charbonneau-Lefebvre V, Vaillancourt-Morel MP, Bigras N, Opuda E, Gewirtz-Meydan A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/15248380251335036",
+  "pmcid": "PMC13291398",
+  "url": "https://europepmc.org/article/PMC/PMC13291398",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13291398/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Although several studies have shown that one person's trauma is associated with romantic relationship difficulties for both partners in adulthood, most have overlooked the particularity of dual-trauma couples, in which both partners have experienced traumatic experiences. This rapid review investigated the dynamics and challenges within dual-trauma couples. A rapid review methodology was employed to consolidate and evaluate existing knowledge in this field. Fifteen empirical research studies meeting the inclusion criteria were identified through a comprehensive search across multiple databases, including CINAHL, Family Studies Abstracts, PsycInfo, PubMed, Google Scholar, Web of Science, and Dissertations and Theses Global. Studies included encompassed different methodological approaches. The review focused on studies explicitly addressing dual-trauma couples, excluding those examining secondary trauma or broader impacts of trauma on couples without a specific analysis of dual-trauma dynamics. Key findings revealed a comprehensive understanding of the complexities faced by these couples, including relationship dynamics, communication patterns, psychological impacts of trauma, and factors influencing relationship satisfaction. The review showed that despite facing significant challenges, dual-trauma couples demonstrate remarkable strengths and resilience, emphasizing the importance of open communication and mutual support in coping with past traumas. The review underscored the need for tailored interventions and trauma-informed care to address the unique needs of dual-trauma couples. Through a focused exploration of existing literature, this review provides valuable insights for clinicians, researchers, and professionals working in the field of trauma and relationships, aiming to enhance understanding and support for these vulnerable couples.",
+  "raw_path": "01_raw/europepmc_xml/PMC13291398.xml",
+  "text_path": "02_text/europepmc/PMC13291398.txt",
+  "raw_bytes": 152606,
+  "text_chars": 48711,
+  "raw_sha256": "80f7395c15c38a3f187b226bc559b653deef51a33b3b6c88f50aa030e87da9cc",
+  "text_sha256": "1b86060be10263efb7193b0391eb120d644cf1bbca4f0274bc347c0bd1a03959",
+  "retrieved_at": "2026-10-25T15:34:16.686885+00:00"
+}

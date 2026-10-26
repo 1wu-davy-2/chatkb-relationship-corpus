@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6695182",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Worth a thousand interpersonal words: Emoji as affective signals for relationship-oriented digital communication.",
+  "authors": "Gesselman AN, Ta VP, Garcia JR.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0221297",
+  "pmcid": "PMC6695182",
+  "url": "https://europepmc.org/article/PMC/PMC6695182",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6695182/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_disclosure"
+  ],
+  "abstract": "Computer-mediated communication (CMC) is pervasive in our lives, influencing social interaction including human courtship. To connect with potential partners via CMC, modern relationship-seekers must master faster and shorter methods of communicating self-disclosure and affect. Although CMC can lack crucial sensory information in this context, emojis may provide useful aid. Across two studies, we assessed attitudes toward and frequency of emoji use, and whether signaling affect via emoji use relates to more romantic and sexual opportunities. Our findings suggest that emoji use with potential partners is associated with maintaining connection beyond the first date, and more romantic and sexual interactions over the previous year. This research provides evidence that emojis convey important affective information to potential partners, and are potentially associated with more successful intimate connection. Implications for multiple theoretical models and methodologies are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC6695182.xml",
+  "text_path": "02_text/europepmc/PMC6695182.txt",
+  "raw_bytes": 119826,
+  "text_chars": 35568,
+  "raw_sha256": "6b6e0084b98b5f2bec0634cb8712d999a38338704358fde828157a186c5a11d7",
+  "text_sha256": "00be3a4658084c9b73fe46d79df872a61de82750be6afd3d2b697fc14040bc62",
+  "retrieved_at": "2026-10-25T15:40:37.511755+00:00"
+}

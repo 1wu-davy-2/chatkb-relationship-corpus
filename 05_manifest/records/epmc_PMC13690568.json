@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13690568",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Neural responses to conflicting self- and partner-directed feedback correlate with trait emotion regulation and daily support.",
+  "authors": "Ma S, Maresh EL, Coppola AM, Richard KE, Koban L, Guevara Beltran D, Sbarra DA, Andrews-Hanna JR.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1038/s44271-026-00493-w",
+  "pmcid": "PMC13690568",
+  "url": "https://europepmc.org/article/PMC/PMC13690568",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13690568/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "emotion_regulation"
+  ],
+  "abstract": "Empathy lies at the core of social interactions, particularly in intimate relationships, yet few laboratory tasks are designed to capture empathy in interpersonal contexts-especially those requiring individuals to simultaneously process social information directed toward both the self and a romantic partner. In this exploratory study, 131 adults (from 71 romantic couples) completed a neuroimaging paradigm that manipulated whether positive or negative partner-directed feedback was presented alone or alongside self-directed feedback. The partner-alone feedback contrasts (partner-directed feedback alone versus a neutral control condition) robustly engaged brain regions associated with empathic responding, including the dorsal anterior cingulate cortex, anterior insula, dorsomedial prefrontal cortex and temporoparietal junction. Notably, during the incongruent feedback contrasts-simultaneous conflicting self- and partner-directed feedback versus self-directed feedback alone-participants exhibited diminished affective and brain responses but evidenced unique brain activity in frontoparietal areas frequently associated with cognitive control (e.g., dorsolateral prefrontal cortex and supramarginal gyrus). Furthermore, when responding to positive partner-directed feedback in the presence of negative self-directed feedback, enhanced activity in the dorsomedial prefrontal cortex was associated with lower self-reported difficulties in emotion regulation and more partner-rated support provided in everyday life. Taken together, these findings suggest that salient self-focused information may dampen individuals' emotional and neural responses to their partners' uplifting and critical feedback, that emotion regulation tendencies may be an important between-subjects moderator of this effect, and that individual differences in spontaneous neural responses during this task were associated with meaningful real-world outcomes, although further validation and replication are warranted.",
+  "raw_path": "01_raw/europepmc_xml/PMC13690568.xml",
+  "text_path": "02_text/europepmc/PMC13690568.txt",
+  "raw_bytes": 268314,
+  "text_chars": 90300,
+  "raw_sha256": "351535e3890870b130200103960e04095b2e92f5c9292ea786ad446d3ab3b181",
+  "text_sha256": "e33872c2b19a98f29f3689294bee2caa35853054dd98e328b8a2bbf62482a9b1",
+  "retrieved_at": "2026-10-25T15:30:50.003113+00:00"
+}

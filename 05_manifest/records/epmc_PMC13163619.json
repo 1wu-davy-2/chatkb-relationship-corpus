@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13163619",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Attachment, Perceived Partner Phubbing, and Retaliation: A Daily Diary Study.",
+  "authors": "Carnelley KB, Hart CM, Vowels LM, Thomas TT.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jopy.70012",
+  "pmcid": "PMC13163619",
+  "url": "https://europepmc.org/article/PMC/PMC13163619",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13163619/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Objective We conducted a diary study to investigate the role of adult attachment on responses to daily perceived partner phubbing in a sample of couple members (N = 196). Method We focused on personal and relational well-being as well as reactions to phubbing, retaliation reports, and motives as outcomes. Results Results showed that on days when participants perceived their partner as phubbing them more, participants higher in attachment anxiety reported higher depressed mood and lower self-esteem; however, their relationship satisfaction was not impacted. In response to partner phubbing, participants higher in attachment anxiety reported more resentment, curiosity, and retaliation in response to phubbing. When retaliating to phubbing, those higher in attachment anxiety did so to seek support and approval from others, whereas those higher in attachment avoidance did so to gain approval from others. Conclusions Our findings contribute to the understanding of how adult attachment patterns influence people's responses to partners' phubbing and well-being.",
+  "raw_path": "01_raw/europepmc_xml/PMC13163619.xml",
+  "text_path": "02_text/europepmc/PMC13163619.txt",
+  "raw_bytes": 155221,
+  "text_chars": 44905,
+  "raw_sha256": "69ff256dbbe29ca0c383068c6abe8b5e8ae84e5737a9d3b23b85609a676235ad",
+  "text_sha256": "71f3a4b375e3acef1e9d2214cd647e644f8207a58b21a306c9d7a44eae11b46a",
+  "retrieved_at": "2026-10-25T15:44:27.222838+00:00"
+}

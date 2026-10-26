@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_romance_scam",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "杀猪盘",
+  "requested_title": "杀猪盘",
+  "url": "https://zh.wikipedia.org/wiki/%E6%9D%80%E7%8C%AA%E7%9B%98",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "scam",
+    "money",
+    "online_dating"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/romance_scam.json",
+  "text_path": "02_text/zh_wikipedia/romance_scam.txt",
+  "raw_bytes": 2932,
+  "text_chars": 1119,
+  "text_sha256": "0f1f91e8c3b9973dae6e82d4d8967e5bf6adcad488ea9f13691b4455a4465332",
+  "retrieved_at": "2026-10-25T15:38:14.987278+00:00"
+}

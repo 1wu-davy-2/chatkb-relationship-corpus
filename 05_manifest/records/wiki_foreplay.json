@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_foreplay",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "前戲",
+  "requested_title": "前戲",
+  "url": "https://zh.wikipedia.org/wiki/%E5%89%8D%E6%88%B2",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 前戲",
+  "topics": [
+    "sexuality",
+    "intimacy"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/foreplay.json",
+  "text_path": "02_text/zh_wikipedia/foreplay.txt",
+  "raw_bytes": 8196,
+  "text_chars": 3043,
+  "text_sha256": "950b02a406ad052695012125cd1cf5c5c2529f3d26419c20e8cba910e36fe335",
+  "retrieved_at": "2026-10-26T13:02:01.297530+00:00"
+}

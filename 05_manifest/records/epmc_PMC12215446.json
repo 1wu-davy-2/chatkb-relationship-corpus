@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12215446",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Testing for individual differences in the effects of men's physical attractiveness and perceived abusiveness on women's hypothetical dating decisions.",
+  "authors": "Leger K, Jones BC, Shiramizu VKM.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1038/s41598-025-07575-5",
+  "pmcid": "PMC12215446",
+  "url": "https://europepmc.org/article/PMC/PMC12215446",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12215446/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction_physical",
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Romantic-partner choice is a fundamental human behaviour. However, the factors that influence partner choice remain poorly understood. Here we investigated (1) how women's first impressions of potential partners' physical attractiveness and potential for abusive behaviour based on face images influence hypothetical dating decisions and (2) possible moderating effects of individual differences in women's sensation seeking, sociosexual orientation (i.e., openness to uncommitted sexual relationships), current partnership status, and self-perceived mate value (i.e., self-rated attractiveness). Physical attractiveness of potential dates, but not perceptions of potential for abusive behaviour, was a strong predictor of reported dating intentions, but this effect of physical attractiveness was weaker among women who scored higher on sensation seeking. None of the other individual-difference variables had significant effects. Collectively, these findings present further evidence for the importance of physical attractiveness in dating and partner choices and highlight the role sensation seeking appears to play in individual differences in the effect of men's physical attractiveness on women's dating intentions.",
+  "raw_path": "01_raw/europepmc_xml/PMC12215446.xml",
+  "text_path": "02_text/europepmc/PMC12215446.txt",
+  "raw_bytes": 76940,
+  "text_chars": 25304,
+  "raw_sha256": "12d109cd6d88089597264e79a47c7818b8f4e6824289126224a2cc0c98aab520",
+  "text_sha256": "e16a0b300983a6a374ec44e1a90562b7a8438aeb06073f403e7a84faa88887ab",
+  "retrieved_at": "2026-10-25T15:26:34.212250+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9518042",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Moderator Role of Interpersonal Emotion Regulation on the Associations between Commitment, Intimacy, and Couple Satisfaction.",
+  "authors": "Jitaru M, Turliuc MN.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3390/ijerph191710506",
+  "pmcid": "PMC9518042",
+  "url": "https://europepmc.org/article/PMC/PMC9518042",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9518042/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Couple satisfaction is seen as very important by all those in a romantic relationship; however, there are no recipes for it. Using a dyadic approach, we investigate how commitment and intimacy influence couple satisfaction and the moderator role of interpersonal emotion regulation (affect-improving and -worsening strategies). To achieve the scope of the study, we collected data from 131 couples, which were later analyzed using the actor-partner interdependence model with moderation (APIMoM). The results showed that the actor-effect of both commitment and intimacy on couple satisfaction is significant. We found mixed results for the partner-effect of the two variables. Both partners' strategies moderated the association between commitment and couple satisfaction. Women's use of affect-worsening strategies moderated the link between men's intimacy and women's couple satisfaction. The impact of the interactions of commitment or intimacy with interpersonal affect-improving and -worsening strategies on couple satisfaction is discussed further, as well as the implications and importance of the results.",
+  "raw_path": "01_raw/europepmc_xml/PMC9518042.xml",
+  "text_path": "02_text/europepmc/PMC9518042.txt",
+  "raw_bytes": 189766,
+  "text_chars": 47160,
+  "raw_sha256": "253cfaf72e08659ee0873b1d3919d59412c52df66f2a6ef566b2ed5ca0378da2",
+  "text_sha256": "05cf0c50892cb8bdc76a8f5dd8a622c812ed991e17420a24717df8aac9130307",
+  "retrieved_at": "2026-10-25T15:37:25.744007+00:00"
+}

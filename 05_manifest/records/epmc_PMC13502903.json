@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC13502903",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sex differences in digital dating app use and app-mediated sexual and health outcomes: a systematic review and meta-analysis.",
+  "authors": "Yıldız Karaahmet A, Bilgiç FŞ, Dişli Çetinçay D.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1093/sexmed/qfag079",
+  "pmcid": "PMC13502903",
+  "url": "https://europepmc.org/article/PMC/PMC13502903",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13502903/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating",
+    "safer_sex_communication"
+  ],
+  "abstract": "Objective This systematic review and meta-analysis aimed to synthesize sex-based differences in dating app use, app-mediated sexual behaviors, and sexual health outcomes using sex-stratified quantitative data from observational studies. Methods Conducted in accordance with PRISMA 2020 guidelines and prospectively registered in PROSPERO, this review synthesized sex-disaggregated data from observational studies published between 2008 and 2025.Systematic searches were performed in PubMed/MEDLINE, Web of Science, PsycINFO, Scopus, and the Cochrane Library. Outcomes included prevalence of dating app use, app-mediated casual sexual encounters, sexual function outcomes, sexual orientation distribution, experience of sexual intercourse, online versus offline partner-seeking behaviors, and history of sexually transmitted infections (STIs). Random-effects meta-analyses were conducted, and heterogeneity was assessed using the I 2 statistic. Results Twenty-two observational studies were included. Women were significantly less likely than men to report dating app use (odds ratio [OR] = 0.46, 95% confidence interval [CI], 0.28-0.77; I 2 = 97%). Among dating app users, women had lower odds of sexual function impairment (OR = 0.37, 95% CI, 0.20-0.66; I 2 = 88%) and were less likely to report a sexual minority orientation (OR = 0.34, 95% CI, 0.16-0.69; I 2 = 92%). No statistically significant sex-based differences were observed for app-mediated casual sexual encounters, experience of sexual intercourse, history of STIs, or online versus offline partner-seeking behaviors. Substantial heterogeneity was present across all outcomes. Conclusion Dating app-related behaviors and outcomes differ by sex and are not sex-neutral. Men report higher engagement in dating app use and sexual risk-related behaviors, whereas women show distinct patterns in sexual function and psychosocial outcomes. These findings support the use of sex-stratified analytical frameworks and sex-sensitive interventions in digital dating contexts.",
+  "raw_path": "01_raw/europepmc_xml/PMC13502903.xml",
+  "text_path": "02_text/europepmc/PMC13502903.txt",
+  "raw_bytes": 157562,
+  "text_chars": 65168,
+  "raw_sha256": "9a4d2831083e3641fc67ccc142271a418c896da3239b147da11d63bf36fad93e",
+  "text_sha256": "315ed1bd39c4b711ea713581e30d20428074d59aa6663a053c623876a7799048",
+  "retrieved_at": "2026-10-25T15:39:45.060357+00:00"
+}

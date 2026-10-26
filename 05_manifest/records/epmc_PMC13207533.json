@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13207533",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Body Image in Women During the Menopausal Transition: Associations with Self-Perceived Attractiveness in Partner Relationships.",
+  "authors": "Bień A, Pięta B, Górska B, Bączek G, Głowacka M, Grzesik-Gąsior J.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/jcm15103562",
+  "pmcid": "PMC13207533",
+  "url": "https://europepmc.org/article/PMC/PMC13207533",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13207533/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "body_image"
+  ],
+  "abstract": "Background/Objectives : The menopausal transition involves bodily, emotional, and sexual changes that may be relevant to body image. This study examined whether intrapersonal and relational dimensions of perceived self-attractiveness were associated with multidimensional body image among partnered women during the menopausal transition, after adjustment for BMI and sociodemographic factors. Methods: This cross-sectional study was conducted in 2024-2025 in primary health care clinics in Lublin Province, Poland, and included 474 partnered women in perimenopause or early postmenopause. Body image was assessed with the Body Esteem Scale subscales, namely Sexual Attractiveness, Weight Concern, and Physical Condition, and perceived self-attractiveness with the Scale of Assessment of Self-Attractiveness in a Relationship. Hierarchical linear regression models were adjusted for BMI, age, education, and socioeconomic conditions. Results: Body Acceptance was positively associated with Sexual Attractiveness ( β = 0.193, p = 0.002), Weight Concern ( β = 0.225, p β = 0.206, p = 0.001). Sexual Satisfaction was positively associated with Sexual Attractiveness ( β = 0.299, p β = 0.143, p = 0.023). Appearance Evaluation was positively associated with Weight Concern ( β = 0.126, p = 0.023). Higher BMI was negatively associated with Weight Concern ( β = -0.356, p β = -0.209, p β = -0.127, p = 0.002) and Physical Condition ( β = -0.137, p = 0.001). Conclusions: In partnered women during the menopausal transition, body image was associated not only with BMI and age, but also with body acceptance and selected intimacy-related dimensions of perceived self-attractiveness.",
+  "raw_path": "01_raw/europepmc_xml/PMC13207533.xml",
+  "text_path": "02_text/europepmc/PMC13207533.txt",
+  "raw_bytes": 163690,
+  "text_chars": 35894,
+  "raw_sha256": "2f28b8e5030399bcabbd593b48a5c6cce27f0e19b46b82f4916e18e7ab149904",
+  "text_sha256": "ec32151423d78070973c7bad06d96188c99950bb3126693fe553dd50a7cfec24",
+  "retrieved_at": "2026-10-25T15:30:19.012723+00:00"
+}

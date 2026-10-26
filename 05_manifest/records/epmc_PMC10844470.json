@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10844470",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring Attitudes Toward \"Sugar Relationships\" Across 87 Countries: A Global Perspective on Exchanges of Resources for Sex and Companionship.",
+  "authors": "Meskó N, Kowal M, Láng A, Kocsor F, Bandi SA, Putz A, Sorokowski P, Frederick DA, García FE, Aguilar LA, Studzinska A, Tan CS, Gjoneska B, Milfont TL, Topcu Bulut M, Grigoryev D, Aavik T, Boussena M, Mattiassi ADA, Afhami R, Amin R, Baiocco R, Brahim H, Can AR, Carneiro J, Çetinkaya H, Chubinidze D, Deschrijver E, Don Y, Dubrov D, Duyar I, Jovic M, Kamburidis JA, Khan F, Khun-Inkeeree H, Koso-Drljevic M, Lacko D, Massar K, Morelli M, Natividade JC, Nyhus EK, Park JH, Pazhoohi F, Pirtskhalava E, Ponnet K, Prokop P, Šakan D, Tulyakul S, Wang AH, Aquino SD, Atamtürk DD, Burduli N, Chirumbolo A, Dural S, Etchezahar E, Ghahraman Moharrampour N, Aczel B, Kozma L, Lins S, Manunta E, Marot T, Mebarak M, Miroshnik KG, Misetic K, Papadatou-Pastou M, Bakos B, Sahli FZ, Singh S, Solak Ç, Volkodav T, Wlodarczyk A, Akello G, Argyrides M, Çoker O, Galasinska K, Gómez Yepes T, Kobylarek A, Landa-Blanco M, Mayorga M, Özener B, Pacquing MCT, Reyes MES, Şahin A, Tamayo-Agudelo W, Topanova G, Toplu-Demirtaş E, Türkan BN, Zumárraga-Espinosa M, Grassini S, Antfolk J, Cornec C, Pisanski K, Stöckli S, Eder SJ, Han H.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1007/s10508-023-02724-1",
+  "pmcid": "PMC10844470",
+  "url": "https://europepmc.org/article/PMC/PMC10844470",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10844470/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "The current study investigates attitudes toward one form of sex for resources: the so-called sugar relationships, which often involve exchanges of resources for sex and/or companionship. The present study examined associations among attitudes toward sugar relationships and relevant variables (e.g., sex, sociosexuality, gender inequality, parasitic exposure) in 69,924 participants across 87 countries. Two self-report measures of Acceptance of Sugar Relationships (ASR) developed for younger companion providers (ASR-YWMS) and older resource providers (ASR-OMWS) were translated into 37 languages. We tested cross-sex and cross-linguistic construct equivalence, cross-cultural invariance in sex differences, and the importance of the hypothetical predictors of ASR. Both measures showed adequate psychometric properties in all languages (except the Persian version of ASR-YWMS). Results partially supported our hypotheses and were consistent with previous theoretical considerations and empirical evidence on human mating. For example, at the individual level, sociosexual orientation, traditional gender roles, and pathogen prevalence were significant predictors of both ASR-YWMS and ASR-OMWS. At the country level, gender inequality and parasite stress positively predicted the ASR-YWMS. However, being a woman negatively predicted the ASR-OMWS, but positively predicted the ASR-YWMS. At country-level, ingroup favoritism and parasite stress positively predicted the ASR-OMWS. Furthermore, significant cross-subregional differences were found in the openness to sugar relationships (both ASR-YWMS and ASR-OMWS scores) across subregions. Finally, significant differences were found between ASR-YWMS and ASR-OMWS when compared in each subregion. The ASR-YWMS was significantly higher than the ASR-OMWS in all subregions, except for Northern Africa and Western Asia.",
+  "raw_path": "01_raw/europepmc_xml/PMC10844470.xml",
+  "text_path": "02_text/europepmc/PMC10844470.txt",
+  "raw_bytes": 335441,
+  "text_chars": 86318,
+  "raw_sha256": "129e07d7b10835a40d997351bf0ed316dabb79526308b63ce30d795c86596330",
+  "text_sha256": "122daa41540882c14af6f20210999edbab23b8a4f55d5a52db43bfb1cc246964",
+  "retrieved_at": "2026-10-26T13:10:48.557105+00:00"
+}

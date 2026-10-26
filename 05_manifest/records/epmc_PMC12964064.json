@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12964064",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Identifying Predictors of Satisfaction with the Intervention among Intimate Partner Violence Perpetrators.",
+  "authors": "Roldán-Pardo M, Expósito-Álvarez C, Pérez-Sabater R, Lila M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.5093/pi2026a5",
+  "pmcid": "PMC12964064",
+  "url": "https://europepmc.org/article/PMC/PMC12964064",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12964064/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Objective: Satisfaction is a critical predictor of adherence, engagement, and outcomes across health and social interventions. While widely studied in clinical contexts, it remains underexplored in intimate partner violence (IPV) perpetrator programs. Evidence suggests that enhancing satisfaction through individualized and responsive approaches may reduce dropout, increase motivation, and prevent recidivism. This study seeks to identify the factors that predict greater participant satisfaction in an intervention program for IPV perpetrators. Method: A sample of 761 male IPV perpetrators participating in a court-mandated intervention program was used. Participants were classified according to their satisfaction level, and group differences were examined. A multivariate logistic regression was then performed to identify the strongest predictors. Results: Our findings showed that immigrant status, cocaine use, sexism, community participation, and working alliance significantly predicted satisfaction. Notably, higher-risk participants, including those with substance use problems, reported greater satisfaction. Conclusions: These findings underscore the importance of addressing participant diversity and risk factors to strengthen satisfaction and, ultimately, improve the overall effectiveness of IPV perpetrator programs.",
+  "raw_path": "01_raw/europepmc_xml/PMC12964064.xml",
+  "text_path": "02_text/europepmc/PMC12964064.txt",
+  "raw_bytes": 227179,
+  "text_chars": 45217,
+  "raw_sha256": "59224ae166c7150c4bdcb5ae9940ad2123ad4a2855ef7e0de6289339b998e865",
+  "text_sha256": "38af0f5bbd24a2c5c4f1163240526fdb6e752f2a1658a5bb531ad6a06e60b720",
+  "retrieved_at": "2026-10-25T15:48:54.822336+00:00"
+}

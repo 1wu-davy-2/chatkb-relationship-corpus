@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12651603",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Relational Turbulence Theory Perspective on Interpersonal Conflict During the Transition to Parenthood.",
+  "authors": "Estlein R, Theiss JA, Weber KM, Jones HE.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/ejihpe15110237",
+  "pmcid": "PMC12651603",
+  "url": "https://europepmc.org/article/PMC/PMC12651603",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12651603/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "This study applied relational turbulence theory to examine how relationship characteristics in the form of relational uncertainty and partner interdependence during the transition to parenthood are associated with more severe appraisals of irritations, features of communication during couple conflict, and perceptions of increased turbulence in the relationship. We conducted a longitudinal study of 78 couples who were surveyed three times during the transition to parenthood from pregnancy to six months after birth. Data were analyzed using multilevel modeling and examined both actor and partner effects. Results point to between-person and within-person actor effects, with actors' relational uncertainty and facets of interdependence predicting perceived severity of irritations and features of conflict episodes. In addition, actors' severity of irritations predicted conflict features and perceived relational turbulence. Partner effects emerged for relational uncertainty predicting communicative openness, conflict management, and relational turbulence, and facets of interdependence predicting most outcomes. The results are discussed in terms of their theoretical contributions and practical implications for first-time parents.",
+  "raw_path": "01_raw/europepmc_xml/PMC12651603.xml",
+  "text_path": "02_text/europepmc/PMC12651603.txt",
+  "raw_bytes": 143618,
+  "text_chars": 58032,
+  "raw_sha256": "4c907b5b17504cb889b085125b7b211a61c27b6d7666e4da4de1daa46688bf9d",
+  "text_sha256": "16d63826afa93b043238ef159a970a4f7cf49b86770f99bcf464b207f1c3b9fd",
+  "retrieved_at": "2026-10-25T15:48:24.506828+00:00"
+}

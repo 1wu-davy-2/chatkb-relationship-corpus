@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11986424",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Cross-sectional and prospective associations between self-compassion and sexual distress in couples coping with sexual interest/arousal disorder.",
+  "authors": "Massé-Pfister M, Rosen NO, Bigras N, Girouard A, Perrier-Léonard D, Bergeron S.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1093/jsxmed/qdaf007",
+  "pmcid": "PMC11986424",
+  "url": "https://europepmc.org/article/PMC/PMC11986424",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11986424/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_desire_gap"
+  ],
+  "abstract": "Background When an individual in a relationship is coping with low desire/arousal, both partners experience difficulties, including higher levels of sexual distress. Effective emotional regulation strategies, such as self-compassion, could have individual and interpersonal benefits for couples with sexual interest/arousal disorder (SIAD). Aim Using a dyadic design, we examined the role of self-compassion in the sexual distress of couples coping with SIAD, accounting for overall relationship satisfaction. The associations were analyzed cross-sectionally and prospectively. We also explored the moderating roles of having at least one member identify as sexually or gender diverse within the couple in the potential associations between self-compassion and sexual distress. Methods Individuals with SIAD and their partners (N = 263 couples) completed online measures at baseline and 6 months later. Outcomes Individuals with SIAD and their partners completed the Sexual Distress Scale-Short Form and the Couples Satisfaction Index. Results Controlling for relationship satisfaction, when individuals coping with SIAD and their partners reported greater self-compassion at baseline, they also reported lower sexual distress. For partners only, greater self-compassion was associated with the person with SIAD's lower levels of sexual distress at baseline. No statistically significant prospective associations were found between levels of self-compassion and sexual distress 6 months later. Belonging to a sexually diverse couple was a significant moderator of the cross-sectional associations between partners' level of self-compassion and their own level of sexual distress at baseline, such that the link between greater self-compassion and lower sexual distress was observed only in partners belonging to a sexually diverse couple. Belonging to a gender diverse couple did not moderate any of the associations. Clinical implications Findings indicate that self-compassion could be a promising tool to reduce sexual distress in couples coping with SIAD. Strengths & limitations Strengths of this study include the large, diverse sample of couples coping with SIAD, the use of a cross-sectional and prospective design, and the examination of the moderating role of belonging to a gender or sexually diverse couple. However, the possible lack of statistical power to measure moderation based on belonging to a gender diverse couple and the recall bias due to the use of self-report questionnaires should be considered when interpreting the results. Conclusion Greater self-compassion is associated with lower sexual distress in both partners of couples coping with SIAD. Self-compassion may be particularly beneficial for partners of individuals with SIAD belonging to a sexually diverse couple.",
+  "raw_path": "01_raw/europepmc_xml/PMC11986424.xml",
+  "text_path": "02_text/europepmc/PMC11986424.txt",
+  "raw_bytes": 167618,
+  "text_chars": 45464,
+  "raw_sha256": "34b68d2333e9f93170010b22e72015e9c36c76c508ce69da8f23a50424e4553d",
+  "text_sha256": "72e75c1189493204cdd93a3f8c6d9db2de95587ac301b4d545cdac377a4c883f",
+  "retrieved_at": "2026-10-26T12:56:20.020011+00:00"
+}

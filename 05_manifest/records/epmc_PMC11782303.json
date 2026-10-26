@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11782303",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Power to Flirt: Power within Romantic Relationships and Its Contribution to Expressions of Extradyadic Desire.",
+  "authors": "Birnbaum GE, Kanat-Maymon Y, Zholtack K, Avidan R, Reis HT.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10508-024-02997-0",
+  "pmcid": "PMC11782303",
+  "url": "https://europepmc.org/article/PMC/PMC11782303",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11782303/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "Power in non-romantic contexts makes people confident in their ability to attract potential partners, increasing their mating motivation and the likelihood of acting on this motivation. Four studies investigated whether perceptions of power within romantic relationships would also activate mating goals, intensifying desires for alternative partners. In Studies 1 and 2, participants underwent power manipulation and then described a sexual fantasy or evaluated photos of attractive strangers. Studies 3 and 4 used face-to-face interaction and daily experiences methods to examine the mechanisms underlying the link between power and extradyadic desires. Overall, high perceived relationship power was associated with increased interest in alternatives. Perceived relative mate value explained this association, suggesting that what determines whether power elicits extradyadic interest is not power perceptions alone but rather the feeling of having a higher mate value than one's partner that accompanies elevated power and affects whether high-power individuals will prioritize their own needs in ways that may hurt their partners.",
+  "raw_path": "01_raw/europepmc_xml/PMC11782303.xml",
+  "text_path": "02_text/europepmc/PMC11782303.txt",
+  "raw_bytes": 221609,
+  "text_chars": 72630,
+  "raw_sha256": "32ceeb6ec3626397c8d8d603e43a53df6fafddae074d543f3186e69deaf1c7e9",
+  "text_sha256": "7da96f1f29ce6dfb6ee4ed8cdfcee4e7a355361b40fdd19b50821579bf6f4c6f",
+  "retrieved_at": "2026-10-26T12:56:40.021631+00:00"
+}

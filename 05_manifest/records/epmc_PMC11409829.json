@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11409829",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Racial and Ethnic Differences in Mobile App Use for Meeting Sexual Partners Among Young Men Who Have Sex With Men and Young Transgender Women: Cross-Sectional Study.",
+  "authors": "Risher K, Janulis P, McConnell E, Motley D, Serrano PA, Jackson JD, Brown A, Williams M, Mendez D, Phillips Ii G, Melville J, Birkett M.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.2196/54215",
+  "pmcid": "PMC11409829",
+  "url": "https://europepmc.org/article/PMC/PMC11409829",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11409829/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "hookups"
+  ],
+  "abstract": "Background Young men who have sex with men and young transgender women (YMSM-YTW) use online spaces to meet sexual partners with increasing regularity, and research shows that experiences of racism online mimics the real world. Objective We analyzed differences by race and ethnicity in web-based and mobile apps used to meet sexual partners as reported by Chicago-based YMSM-YTW in 2016-2017. Methods A racially and ethnically diverse sample of 643 YMSM-YTW aged 16-29 years were asked to name websites or mobile apps used to seek a sexual partner in the prior 6 months, as well as provide information about sexual partnerships from the same period. We used logistic regression to assess the adjusted association of race and ethnicity with (1) use of any website or mobile apps to find a sexual partner, (2) use of a \"social network\" to find a sexual partner compared to websites or mobile apps predominantly used for dating or hookups, (3) use of specific websites or mobile apps, and (4) reporting successfully meeting a sexual partner online among website or mobile app users. Results While most YMSM-YTW (454/643, 70.6%) used websites or mobile apps to find sexual partners, we found that Black non-Hispanic YMSM-YTW were significantly less likely to report doing so (comparing White non-Hispanic to Black non-Hispanic: adjusted odds ratio [aOR] 1.74, 95% CI 1.10-2.76). Black non-Hispanic YMSM-YTW were more likely to have used a social network site to find a sexual partner (comparing White non-Hispanic to Black non-Hispanic: aOR 0.20, 95% CI 0.11-0.37), though this was only reported by one-third (149/454, 32.8%) of all app-using participants. Individual apps used varied by race and ethnicity, with Grindr, Tinder, and Scruff being more common among White non-Hispanic YMSM-YTW (93/123, 75.6%; 72/123, 58.5%; and 30/123, 24.4%, respectively) than among Black non-Hispanic YMSM-YTW (65/178, 36.5%; 25/178, 14%; and 4/178, 2.2%, respectively) and Jack'd and Facebook being more common among Black non-Hispanic YMSM-YTW (105/178, 59% and 64/178, 36%, respectively) than among White non-Hispanic YMSM-YTW (6/123, 4.9% and 8/123, 6.5%, respectively). Finally, we found that while half (230/454, 50.7%) of YMSM-YTW app users reported successfully meeting a new sexual partner on an app, Black non-Hispanic YMSM-YTW app users were less likely to have done so than White non-Hispanic app users (comparing White non-Hispanic to Black non-Hispanic: aOR 2.46, 95% CI 1.50-4.05). Conclusions We found that Black non-Hispanic YMSM-YTW engaged with websites or mobile apps and found sexual partners systematically differently than White non-Hispanic YMSM-YTW. Our findings give a deeper understanding of how racial and ethnic sexual mixing patterns arise and have implications for the spread of sexually transmitted infections among Chicago's YMSM-YTW.",
+  "raw_path": "01_raw/europepmc_xml/PMC11409829.xml",
+  "text_path": "02_text/europepmc/PMC11409829.txt",
+  "raw_bytes": 125319,
+  "text_chars": 35948,
+  "raw_sha256": "c71742b82d05b86a1ea178c1eacc9d5f3a1925a21a95dcfdbc5fb351a758a70e",
+  "text_sha256": "05b840a7210df317e3dc85ed5758405300d530d4ff33e919b47814ca0c155cb2",
+  "retrieved_at": "2026-10-25T15:28:29.591795+00:00"
+}

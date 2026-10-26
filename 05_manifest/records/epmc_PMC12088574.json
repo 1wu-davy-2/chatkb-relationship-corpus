@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12088574",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The impact of social media addiction on self-esteem and life satisfaction among married couples.",
+  "authors": "Chadha L, Sharma P, Kaur R, Arya I, Sharma P.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.4103/jfmpc.jfmpc_1808_24",
+  "pmcid": "PMC12088574",
+  "url": "https://europepmc.org/article/PMC/PMC12088574",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12088574/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Introduction The pervasive use of social media has become an integral part of daily life, influencing various aspects of individual and relational well-being. Among married couples, the impact of social media is particularly significant, as excessive engagement with social media platforms may lead to diminished self-esteem and lower life satisfaction, both of which are essential components of a healthy and fulfilling marriage. Objective To assess the impact of social media addiction on self-esteem and life satisfaction among married couples. Material and methods A cross-sectional survey was conducted among 385 married individuals, predominantly residing in Gurugram, Haryana. The impact of social media addiction on self-esteem and life satisfaction among married couples was measured using the Social Media Addiction Scale (SMAS), Rosenberg Self-Esteem Scale (RSES), and Satisfaction with Life Scale (SWLS). Data were analyzed using descriptive and inferential statistics. Results The results indicated that the majority (44.9%) of married couples were \"little addicted\" to social media, while only (14.3%) showed moderate to high levels of addiction. A significant negative correlation was found between social media addiction and life satisfaction (r = -0.519, P P P P Conclusion Social media addiction is significantly influenced by self-esteem and life satisfaction. Specifically, higher levels of self-esteem and lower levels of life satisfaction are associated with increased social media addiction. Well-balanced social media usage among married couples is essential to enhancing marital satisfaction and overall well-being.",
+  "raw_path": "01_raw/europepmc_xml/PMC12088574.xml",
+  "text_path": "02_text/europepmc/PMC12088574.txt",
+  "raw_bytes": 97865,
+  "text_chars": 25988,
+  "raw_sha256": "3d80707d46e865af48c39fafc3a6f50ab2454c870e3091179379d90475442dfa",
+  "text_sha256": "780d670031eb1ff78f7195dd34f055bb359c00a5f437f89725239fd942f44a36",
+  "retrieved_at": "2026-10-25T15:42:01.342980+00:00"
+}

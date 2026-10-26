@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12543237",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Empathy and validation in chronic pain couples: a systematic review.",
+  "authors": "Teichmüller K, Galstyan H, Bas LM, Kindl G, Kanske P, Rittner HL, Reiter AMF.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1097/pr9.0000000000001343",
+  "pmcid": "PMC12543237",
+  "url": "https://europepmc.org/article/PMC/PMC12543237",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12543237/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "validation"
+  ],
+  "abstract": "Chronic pain is significantly influenced by social interactions, especially within close relationships. However, it is unclear how exactly partner responses such as solicitousness or empathy, affect pain-related and relationship outcomes. In October 2024 and July 2025, we systematically searched APA PsycInfo, Web of Science, and PubMed for studies assessing the impact of empathic or validating behavior on pain-related and relationship outcomes in adult romantic couples with at least 1 chronic pain patient. Eleven studies (4 on the same sample) were included, with sample sizes between 8 and 145 couples. In most studies, participants' mean age was older than 50 years. The most common pain condition was painful knee osteoarthritis, followed by other musculoskeletal issues. The Risk of Bias Utilized for Surveys Tool revealed a moderate risk of bias in the included studies. Four studies found a positive impact of empathy on pain-related outcomes, particularly physical functionality. No study reported adverse effects of solicitousness on pain or functioning. Four studies revealed positive effects of empathy on relationship outcomes, eg, a buffering effect of empathy on the association between depressive symptoms and marital quality. A largely consistent result was the detrimental impact of invalidation. However, some studies reported nonsignificant or partially contradictory findings, especially in male patient couples. These results largely align with Intimacy and Coping Theories and highlight the beneficial function of empathy and validation in chronic pain. However, variability in the definition and measurement of empathy complicates comparisons. In clinical practice, promoting spousal empathy and reducing invalidation could enhance pain management.",
+  "raw_path": "01_raw/europepmc_xml/PMC12543237.xml",
+  "text_path": "02_text/europepmc/PMC12543237.txt",
+  "raw_bytes": 156806,
+  "text_chars": 39483,
+  "raw_sha256": "3ef785b995f29077706712a081c04c434329c69ecc95ee325def38068b10e49b",
+  "text_sha256": "a7bb54581741458e2ad915b337cb673bb982c82abff6af789113551e8596a0c1",
+  "retrieved_at": "2026-10-25T13:48:49.493484+00:00"
+}

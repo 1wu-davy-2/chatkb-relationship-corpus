@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_24228",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "列女傳",
+  "gutenberg_id": "24228",
+  "url": "https://www.gutenberg.org/ebooks/24228",
+  "download_url": "https://www.gutenberg.org/cache/epub/24228/pg24228.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/24228.txt",
+  "text_path": "02_text/gutenberg/gut_24228_列女傳.txt",
+  "raw_bytes": 168663,
+  "text_chars": 50545,
+  "text_sha256": "777d628b03d463697a50c93c2d9c831614f6907a0cea601aaa59280d7f379da9",
+  "retrieved_at": "2026-10-25T16:05:12.141716+00:00"
+}

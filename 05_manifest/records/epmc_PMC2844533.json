@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC2844533",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Fairy Tales: Attraction and Stereotypes in Same-Gender Relationships.",
+  "authors": "Felmlee D, Orzechowicz D, Fortes C.",
+  "year": "2010",
+  "journal": "",
+  "doi": "10.1007/s11199-009-9701-x",
+  "pmcid": "PMC2844533",
+  "url": "https://europepmc.org/article/PMC/PMC2844533",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2844533/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "We examine the process of romantic attraction in same-gender relationships using open and closed-ended questionnaire data from a sample of 120 men and women in Northern California. Agreeableness (e.g., kind, supportive) and Extraversion (e.g., fun, sense of humor) are the two most prominent bases of attraction, followed by Physical Attractiveness (e.g., appearance, sexy). The least important attractors represent traits associated with material success (e.g., financially secure, nice house). We also find evidence of seemingly contradictory attraction processes documented previously in heterosexual romantic relationships, in which individuals become disillusioned with the qualities in a partner that were initially appealing. Our findings challenge common stereotypes of same-gender relationships. The results document broad similarities between same-gender and cross-gender couples in attraction.",
+  "raw_path": "01_raw/europepmc_xml/PMC2844533.xml",
+  "text_path": "02_text/europepmc/PMC2844533.txt",
+  "raw_bytes": 153660,
+  "text_chars": 56047,
+  "raw_sha256": "890aef62a6f2b351f9bd38acc4bc2e7e6bcc7201d41caba11c6c153c2cfab64b",
+  "text_sha256": "6cb3fec870d03483bee2a6a9a50d57cf7aacee7be87c0898cc0cb0f7cfba4dbb",
+  "retrieved_at": "2026-10-25T15:48:56.566857+00:00"
+}

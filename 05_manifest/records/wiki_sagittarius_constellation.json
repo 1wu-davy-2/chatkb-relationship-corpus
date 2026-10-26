@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_sagittarius_constellation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "人马座",
+  "requested_title": "射手座",
+  "url": "https://zh.wikipedia.org/wiki/%E4%BA%BA%E9%A9%AC%E5%BA%A7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 人马座",
+  "topics": [
+    "zodiac",
+    "astronomy"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/sagittarius_constellation.json",
+  "text_path": "02_text/zh_wikipedia/sagittarius_constellation.txt",
+  "raw_bytes": 12346,
+  "text_chars": 5094,
+  "text_sha256": "219f41c5800cdc6a656294b44de06e941efd150333823271d9e9ea4ecddb8c00",
+  "retrieved_at": "2026-10-26T13:05:18.336973+00:00"
+}

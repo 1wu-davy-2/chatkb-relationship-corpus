@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12137294",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Prevalence and risk factors of sexual harassment in the workplace by female readymade garment workers in Bangladesh.",
+  "authors": "Kabir H, Maple M, Usher K.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpubh.2025.1580709",
+  "pmcid": "PMC12137294",
+  "url": "https://europepmc.org/article/PMC/PMC12137294",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12137294/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_harassment"
+  ],
+  "abstract": "Objectives Bangladeshi female readymade garment (RMG) workers' experience of sexual harassment in the workplace raises concerns about the overall working conditions of the garment sector. Female workers' feelings of being unsafe and threatened in the workplace have been considered an alarming issue for international buyers/brands who aim to ensure sexual harassment-free workplaces as a condition of sourcing clothing items. We hypothesise that the frequent experience of sexual harassment among Bangladeshi female RMG workers tends to be associated with (i) age, (ii) marital status, (iii) night shift (working during night time), (iv) non-existence of anti-sexual harassment cells (a formal body/committee works against sexual harassment incidence in the workplace), (v) trade union activity, and (vi) factory location and types. To our knowledge, there has been no previous research on the experience of sexual harassment by female garment workers and its connections to such a variety of occupational and geographical factors. By addressing this gap, the present study aimed to investigate the prevalence and risk factors associated with female garment workers' experience of sexual harassment. Methods Cross-sectional data were collected from 332 (mean age = 26.10 years; SD = 6.54 years) currently employed female garment workers in Bangladesh, between February and July 2018. Data were analysed using bivariate and multivariate logistic regression modelling. Results In the past 6 months, nearly one-quarter (22.0%) of workers reported experiencing frequent sexual harassment inside the factory, mainly by male co-workers (37.0%), supervisors (32.9%), security guards (27.4%), and factory owners (2.7%). Workers from the factories located in Chattogram (a peripheral region compared to Dhaka) reported a higher frequency of sexual harassment than those working in factories located in Dhaka (the capital city of Bangladesh). Overall, the percentages of unmarried and young female workers who experienced sexual harassment were almost double compared to married and aged female workers. Workers' frequent experience of sexual harassment at the workplace was associated with factory location ( β 0.67, 95%CI 1.02, 3.76), night shift ( β 2.58, 95%CI 6.92, 25.18), and non-existence of an anti-sexual harassment cell inside the factory ( β 0.62, 95%CI 0.97, 3.55). Conclusion Urgent improvements in overall workplace conditions and anti-sexual harassment programmes are needed to safeguard female workers in the Bangladeshi RMG sector.",
+  "raw_path": "01_raw/europepmc_xml/PMC12137294.xml",
+  "text_path": "02_text/europepmc/PMC12137294.txt",
+  "raw_bytes": 122585,
+  "text_chars": 44451,
+  "raw_sha256": "918cc0317584bee1310d89a2643e4f5c9b949def8f568ab7b6af4b62c8a4cb36",
+  "text_sha256": "29d7cfe263d5bdb313e83f58b6dd2d3c28150f6a588aa6bc29f45ba8a0b1155e",
+  "retrieved_at": "2026-10-25T15:27:22.771941+00:00"
+}

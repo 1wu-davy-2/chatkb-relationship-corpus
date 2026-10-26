@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13540329",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Promotion- or Prevention-Focused Self-Evaluation and the Preferential Pursuit of More Desirable Romantic Partners.",
+  "authors": "Wu EZ, Molden DC, Eastwick PW.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jopy.70043",
+  "pmcid": "PMC13540329",
+  "url": "https://europepmc.org/article/PMC/PMC13540329",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13540329/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "emerging_adults"
+  ],
+  "abstract": "Objective This research examined how self-regulatory orientations-promotion focus (growth) and prevention focus (security)-influence individuals' evaluation of their own desirable traits and their pursuit of highly desirable romantic partners. Method Two studies analyzed participants' evaluations of themselves and romantic partners: Study 1 followed 208 college students longitudinally across 7 months of early romantic interest development; Study 2 observed 187 participants in live speed-dating events. Participants' regulatory focus, self-perceptions, partner ideals, and the desirability of pursued partners were assessed, controlling for self-esteem and consensus ratings of participants' own desirability. Results Stronger promotion concerns predicted overly positive self-evaluations and pursuit of more desirable partners, whereas stronger prevention concerns predicted overly negative self-evaluations and pursuit of less desirable partners. These effects persisted after accounting for self-esteem and consensus ratings of participants' desirability and were partially mediated by participants' own self-perceptions and partner ideals. Conclusions Findings suggest that regulatory focus influences aspirations for highly desirable partners through exaggerations of positive or negative self-perceptions that then influence aspirations for and willingness to pursue more or less subjectively and objectively desirable partners. Promotion and prevention mindsets thus appear to play a unique self-regulatory role in romantic partner selection beyond general self-esteem or objective desirability.",
+  "raw_path": "01_raw/europepmc_xml/PMC13540329.xml",
+  "text_path": "02_text/europepmc/PMC13540329.txt",
+  "raw_bytes": 155535,
+  "text_chars": 63214,
+  "raw_sha256": "5d58cd38472eba6043fd8f61754a4de06fc62e388bb375056ae1b0bf09589f5b",
+  "text_sha256": "15591339e628b77f829ebb9e4d8f5569f6bd91ff34260309411e9f94ae6a2029",
+  "retrieved_at": "2026-10-25T13:49:41.579615+00:00"
+}

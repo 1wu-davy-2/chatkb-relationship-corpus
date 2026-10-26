@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12799826",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Cultural Foundations of the Second Demographic Transition: The Role of Inherited Values.",
+  "authors": "Tugrul H, Aassve A.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10680-025-09759-1",
+  "pmcid": "PMC12799826",
+  "url": "https://europepmc.org/article/PMC/PMC12799826",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12799826/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Considerable variation exists across societies in the prevalence of demographic trends associated with the second demographic transition (SDT). We propose that these persistent disparities are, in part, determined by long-standing cultural traits. Employing an epidemiological approach, we proxy the inherited component of five key values-gender egalitarianism, religiosity, institutional distrust, generalized trust, and family ties-from the descendants of immigrants in the United States, and link them to SDT outcomes across 23 countries. Our analysis investigates whether societies pre-exposed to these specific values through intergenerational transmission are more or less likely to exhibit SDT, operationalized here as the share of births outside marriage. Our findings reveal that several of these traits exert a notable influence when interacting with educational expansion. Gender egalitarianism, institutional distrust, and generalized trust exhibit positive associations with non-marital birth rates when coupled with increased education. Meaning that, with the broad educational expansion that has taken place across all Western countries after the IIWW, the SDT spreads much faster in societies where these three inherited values are deeply ingrained. Conversely, family ties demonstrate a negative association, while no strong evidence is found regarding the influence of religiosity. In conclusion, our study underscores the necessity of a nuanced cultural approach to the SDT framework, acknowledging the importance of local values alongside the global ideational shift.",
+  "raw_path": "01_raw/europepmc_xml/PMC12799826.xml",
+  "text_path": "02_text/europepmc/PMC12799826.txt",
+  "raw_bytes": 170650,
+  "text_chars": 63914,
+  "raw_sha256": "c09ee94b6c5c8f6ede511b4845b384585527b680ef97aaebaa52c9694f9600f1",
+  "text_sha256": "4b28eeb55520945c42c596a4200e3d95c4bc6266190e6e9bb9a48fe7291a3956",
+  "retrieved_at": "2026-10-25T13:52:36.360779+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8905127",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "An Evidence Synthesis of Covert Online Strategies Regarding Intimate Partner Violence.",
+  "authors": "Grimani A, Gavine A, Moncur W.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/1524838020957985",
+  "pmcid": "PMC8905127",
+  "url": "https://europepmc.org/article/PMC/PMC8905127",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8905127/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "This systematic review synthesizes evidence of how people use the internet to deploy covert strategies around escaping from, or perpetrating, intimate partner violence (IPV). Online tools and services can facilitate individuals leaving abusive relationships, yet they can also act as a barrier to departure. They may also enable abusive behaviors. A comprehensive literature search of published and unpublished studies in electronic databases was conducted. Two researchers independently screened abstracts and full texts for study eligibility and evaluated the quality of included studies. The systematic review includes 22 studies (9 qualitative and 11 cross-sectional studies, a randomized control trial [RCT] and a nonrandomized study [NRS]) published between 2004 and 2017. Four covert behaviors linked to covert online strategies around IPV were identified: presence online, granular control, use of digital support tools and services, and stalking and surveillance. The same technology that provides individuals with easy access to information and supportive services related to IPV, such as digital devices, tools, and services, also enables perpetrators to monitor or harass their partners. This review takes a rigorous interdisciplinary approach to synthesizing knowledge on the covert strategies adopted by people in relation to IPV. It has particular relevance to practitioners who support survivors in increasing awareness of the role of digital technologies in IPV, to law enforcement agencies in identifying new forms of evidence of abuse, and in enabling designers of online/social media applications to take the needs and vulnerabilities of IPV survivors into account.",
+  "raw_path": "01_raw/europepmc_xml/PMC8905127.xml",
+  "text_path": "02_text/europepmc/PMC8905127.txt",
+  "raw_bytes": 150109,
+  "text_chars": 52654,
+  "raw_sha256": "55a82542f497f28f854bde73d33fb579a9970106516e19f1da046cc7f5731d1d",
+  "text_sha256": "7f71dcda7ccd5c0d36738f4d7e75e47d8c421eb988a667e3ec051c7e54fb543d",
+  "retrieved_at": "2026-10-25T15:45:42.376817+00:00"
+}

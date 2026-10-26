@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_self_care",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "自我照顧",
+  "requested_title": "自我照顾",
+  "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E6%88%91%E7%85%A7%E9%A1%A7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 自我照顧",
+  "topics": [
+    "wellbeing",
+    "mental_health"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/self_care.json",
+  "text_path": "02_text/zh_wikipedia/self_care.txt",
+  "raw_bytes": 2644,
+  "text_chars": 1149,
+  "text_sha256": "65ea4cd6b3a1947fac74342cb55b26f144e04363d2274f17a0f89dae72a7ef8e",
+  "retrieved_at": "2026-10-25T16:24:20.213111+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13628963",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Determinants of intimate partner violence among women of reproductive age: a cross-sectional study in Türkiye.",
+  "authors": "Çelik N, Aslan R.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12905-026-04946-6",
+  "pmcid": "PMC13628963",
+  "url": "https://europepmc.org/article/PMC/PMC13628963",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13628963/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Background Intimate partner violence (IPV) is a major global public health issue that adversely affects women's physical, psychosocial, and reproductive health. Although individual characteristics have been widely studied, relational dynamics and intergenerational experiences of violence remain less explored, particularly in the Turkish context. Examining these factors together may contribute to a more comprehensive understanding of IPV and inform prevention strategies. Aim This study aimed to examine IPV exposure among women of reproductive age in Türkiye and to identify sociodemographic, partner-related, and relational factors associated with such exposure. Methods A descriptive, cross-sectional study was conducted between 15 November 2024 and 15 January 2025 with 453 women aged 18-49 years who had a current partner. Participants were recruited through snowball sampling via five social media platforms. Data were collected using a researcher-developed online questionnaire comprising sociodemographic and partner-related characteristics and a single-item measure of exposure to IPV. Statistical analyses included the chi-square test, the Mann-Whitney U test, and Firth penalized logistic regression to address sparse-data bias and quasi-complete separation. Multicollinearity was assessed using variance inflation factors. Internal validation was performed using bootstrap optimism correction (B = 500) and 10-fold cross-validation repeated 10 times. Statistical significance was set at p Results Overall, 11.3% of participants reported IPV exposure. Firth penalized logistic regression showed that witnessing the partner's violent behavior toward others (OR = 94.42; 95% CI: 6.06-1471.46), low relationship satisfaction (OR = 24.71; 95% CI: 4.43-137.92), a history of family violence (OR = 15.48; 95% CI: 5.21-46.02), lower income relative to expenses (OR = 19.12; 95% CI: 4.93-74.14), and increasing age (OR = 1.27 per year; 95% CI: 1.17-1.38) were independently associated with IPV exposure. The model yielded a Nagelkerke R² of 0.746 and an optimism-corrected AUC of 0.966. Given the limited number of IPV events and the wide confidence intervals for several estimates, the magnitude of the observed associations should be interpreted cautiously. Conclusions IPV exposure in this study was associated with individual, relational, socioeconomic, and prior violence-related characteristics. The observed associations are consistent with a multilevel understanding of IPV and highlight the relevance of considering relational and family experiences alongside individual and socioeconomic characteristics in IPV prevention and assessment.",
+  "raw_path": "01_raw/europepmc_xml/PMC13628963.xml",
+  "text_path": "02_text/europepmc/PMC13628963.txt",
+  "raw_bytes": 126001,
+  "text_chars": 49127,
+  "raw_sha256": "cc84de42061e2e71320c76837d52e519b2a379e8e0ea749475ab2e5c525079f1",
+  "text_sha256": "0a26bf5c13739d2d742b65d0dcfe9c235dfe33133fdec86fe2a2a3b3ce052719",
+  "retrieved_at": "2026-10-25T15:41:02.423304+00:00"
+}

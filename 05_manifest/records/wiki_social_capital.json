@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_social_capital",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "社会资本",
+  "requested_title": "社会资本",
+  "url": "https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E8%B5%84%E6%9C%AC",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "society",
+    "social"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/social_capital.json",
+  "text_path": "02_text/zh_wikipedia/social_capital.txt",
+  "raw_bytes": 23974,
+  "text_chars": 12242,
+  "text_sha256": "683260612f84e3fe37bc4a610f959154bc7d8e8825ddae1fb09ed93da9ef0c7a",
+  "retrieved_at": "2026-10-25T15:42:06.896455+00:00"
+}

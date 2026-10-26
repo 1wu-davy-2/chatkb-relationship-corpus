@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13576093",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychosocial determinants of sexual satisfaction in older adults with multimorbidity: a cross-sectional study.",
+  "authors": "Mantilla-Morrón M, Parejo AMF, Palacio DS, Noguera LM, Quintero-Cruz MV, Gómez YM.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12877-026-07720-3",
+  "pmcid": "PMC13576093",
+  "url": "https://europepmc.org/article/PMC/PMC13576093",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13576093/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "Background Multimorbidity in later life transcends physical impairment, profoundly impacting subjective dimensions of well-being; however, the specific role of psychosocial factors in sexual health remains poorly understood. This study aimed to determine the independent associations between psychosocial quality of life domains, functional capacity, and sexual satisfaction in older adults with multimorbidity, adopting an integrated biopsychosocial perspective. Methods A cross-sectional analytical study was conducted with 100 community-dwelling older adults (≥ 60 years) in Barranquilla, Colombia. Psychosocial QoL was assessed via the CASP-12 scale, functional capacity through the Duke Activity Status Index (DASI), and sexual satisfaction using the Index of Sexual Satisfaction (ISS). Diagnostic accuracy for multimorbidity was ensured through direct verification of medical records and prescriptions. Multivariate linear regression models with robust standard errors (HC3) and bootstrapping were employed to ensure statistical rigor. Results The final analytical sample (N = 100) had a mean age of 72.6 pm 8.9 years, with a predominantly male composition (57.0%). The inclusion of psychosocial domains significantly enhanced the model's explanatory power for sexual satisfaction (Final Adjusted R2 = 0.49; ∆ R2 = 0.21, p Conclusion Psychosocial factors, particularly autonomy and control, significantly associated with sexual satisfaction in older adults with multimorbidity. These findings highlight the necessity of integrating mental health and subjective well-being into geriatric clinical care to support a holistic and humanized approach to healthy aging.",
+  "raw_path": "01_raw/europepmc_xml/PMC13576093.xml",
+  "text_path": "02_text/europepmc/PMC13576093.txt",
+  "raw_bytes": 79526,
+  "text_chars": 28576,
+  "raw_sha256": "b8894375ebe3c4291bc153ee49512bf912dab6efef5af750805b0d4ac8d40da5",
+  "text_sha256": "93289cc9e8f2b7074a318e1829e9d4cf7d65bea48283134afd9bdfc3fb5610a2",
+  "retrieved_at": "2026-10-26T13:06:13.208706+00:00"
+}

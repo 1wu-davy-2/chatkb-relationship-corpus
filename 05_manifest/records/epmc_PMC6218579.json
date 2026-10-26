@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC6218579",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship Between Attachment Style in Adulthood, Alexithymia, and Dissociation in Alcohol Use Disorder Inpatients. Mediational Model.",
+  "authors": "Zdankiewicz-Ścigała E, Ścigała DK.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2018.02039",
+  "pmcid": "PMC6218579",
+  "url": "https://europepmc.org/article/PMC/PMC6218579",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6218579/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_anxiety",
+    "rejection"
+  ],
+  "abstract": "Background: Attachment theory is a widely used framework for understanding emotion regulation as well as alexithymia, and dissociation and this perspective has also been applied to understand alcohol use disorders. Apart from these theoretical suggestions, there has been scarce empirical research on this subject-matter. Therefore, the objective of the present study was to investigate potential associations between attachment style in adulthood, alexithymia, and dissociation in alcohol use disorder inpatients. Methods: The Revised Adult Attachment Scale (RAAS), the Toronto Alexithymia Scale-20 (TAS-20), the Michigan Alcoholism Screening Test (MAST), and the Curious Experiences Survey (CES) were administered to a sample of 97 alcohol use disorder inpatients recruited from drug and alcohol treatment centers in Warsaw, and 104 persons in control groups, Poland. Results: A comparative analysis between the group of alcohol addicts and non-addicts showed statistically significant differences related to: alexithymia, dissociation, and attachment styles. The analysis of models related to the impact of attachment styles on the level of alcohol addiction with regard to a mediatory role of alexithymia and dissociation showed that all models are well fitted to data and statistically significant: intimacy F (3.197) = 34.41; p R 2 = 0.3438); depend F (3.197) = 36.55; p R 2 = 0.3576); anxiety F (3.197) = 34.71; p R 2 = 0.3458) of the variability of alcohol addiction scores. Mediation analysis found that alexithymia and dissociation enhance the fear of intimacy and rejection in a romantic relationship. Conclusion: These findings support the broad attachment theory suggesting that attachment is associated with and predicts alexithymia and dissociation in the sample of substance use disorder inpatients. Alexithymia and dissociation, by inhibiting the processes of emotions' identification and verbalization, cause that language does not serve for the purpose of changing self or others, as the communication is distorted. Absent are common meanings and accurate mutual understanding in a relationship.",
+  "raw_path": "01_raw/europepmc_xml/PMC6218579.xml",
+  "text_path": "02_text/europepmc/PMC6218579.txt",
+  "raw_bytes": 120984,
+  "text_chars": 41802,
+  "raw_sha256": "dd0c4192e4835197ec842a4f93c3c8c6471498818797468f8b3bb0a06a198019",
+  "text_sha256": "f16ca604265ab1b557d9f23b1adccfccde858520454581260b03fe10dabe5a9f",
+  "retrieved_at": "2026-10-25T14:01:41.928545+00:00"
+}

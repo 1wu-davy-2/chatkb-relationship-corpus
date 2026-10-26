@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12283438",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual, Romantic, and Community Experiences of Individuals at the Intersection of Autism and Asexuality.",
+  "authors": "Chan RCH, Hung FN.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10508-025-03170-x",
+  "pmcid": "PMC12283438",
+  "url": "https://europepmc.org/article/PMC/PMC12283438",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12283438/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "asexuality_celibacy"
+  ],
+  "abstract": "The present study investigated the prevalence of autism among individuals identifying on the asexual spectrum and explored the potential differences in sexual, romantic, and community experiences between autistic and non-autistic individuals on the asexual spectrum. The study included a global sample of 10,419 individuals identifying on the asexual spectrum from the 2020 Ace Community Survey. They completed a questionnaire on asexual identification, romantic relationships, sexual behaviors, and community engagement. The results revealed an autism prevalence rate of 6.9% among individuals on the asexual spectrum, which is higher than the prevalence rate in general populations. Autistic individuals had a stronger identification with their sexual orientation than non-autistic counterparts. They were also more likely to disclose their asexual identity, be in a partnered relationship with others on the asexual or aromantic spectrum, and participate in online LGBTQ communities. The results emphasize the necessity for heightened awareness and understanding of the intersection between autism and asexuality among healthcare professionals, social service providers, and educators. The findings have significant implications for inclusive and affirming sexuality education for individuals on the autism spectrum. Such education is crucial in promoting self-acceptance and empowering them to have greater control over their (a)sexual journeys.",
+  "raw_path": "01_raw/europepmc_xml/PMC12283438.xml",
+  "text_path": "02_text/europepmc/PMC12283438.txt",
+  "raw_bytes": 119945,
+  "text_chars": 49913,
+  "raw_sha256": "23fb3a6b5cc4bb84dc3275c16be10d94ea1e292429e88bf084827ba60f708cda",
+  "text_sha256": "e285e66b6c843fdd30daf3dca70360c940cb411690a246a2152fddb88e4d7445",
+  "retrieved_at": "2026-10-26T12:55:43.996338+00:00"
+}

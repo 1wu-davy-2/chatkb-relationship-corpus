@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7218110",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Singles' Reasons for Being Single: Empirical Evidence From an Evolutionary Perspective.",
+  "authors": "Apostolou M, O J, Esposito G.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2020.00746",
+  "pmcid": "PMC7218110",
+  "url": "https://europepmc.org/article/PMC/PMC7218110",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7218110/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "A relatively large number of people in Western societies are single; that is, they are not involved in any romantic relationship. In this study, we have attempted to investigate the reasons for singlehood by asking singles themselves. A final sample of 648 American singles (307 of them women) rated 92 possible reasons for singlehood. These reasons were classified into 18 broad factors and four general domains. Among the most important reasons were poor flirting skills, freedom, fear of getting hurt, having different priorities, and being too picky. Significant sex and age effects were found across different factors and domains. More specifically, men were more likely than women to indicate that they were single in order to be free to flirt around, and because they were not into family making; while women were more likely to indicate that they were single in order to avoid getting hurt, and because they have considered themselves not to be desirable as mates. Younger people were more likely to indicate that they were single because they had poor flirting skills, because they did not see themselves as desirable mates, and because they did not like commitment; whereas older people were more likely to indicate that they were single in order to be free to do what they have wanted. Findings were examined and discussed using evolutionary theories relating to mate selection and evolutionary mismatch.",
+  "raw_path": "01_raw/europepmc_xml/PMC7218110.xml",
+  "text_path": "02_text/europepmc/PMC7218110.txt",
+  "raw_bytes": 155879,
+  "text_chars": 57367,
+  "raw_sha256": "d52e4c9272944d424f65b37645f26bb6b7dcd61fe32d7b0339f3b538cbc19b4c",
+  "text_sha256": "a06b1855f4971272c6368d5f717e0294f6403e04fc8ac6b05a633835b51258c0",
+  "retrieved_at": "2026-10-25T15:44:38.136408+00:00"
+}

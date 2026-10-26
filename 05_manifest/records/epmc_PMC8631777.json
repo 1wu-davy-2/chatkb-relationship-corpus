@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8631777",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Couple Therapy With MDMA-Proposed Pathways of Action.",
+  "authors": "Wagner AC.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2021.733456",
+  "pmcid": "PMC8631777",
+  "url": "https://europepmc.org/article/PMC/PMC8631777",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8631777/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "MDMA's first identified potential as a therapeutic catalyst was for couple therapy. Early work in the 1970s and 1980s explored its potential amongst seasoned psychotherapists and their clients. With the completion of the first pilot trial of MDMA-assisted psychotherapy with couples for PTSD, and as the possibility of conducting MDMA-assisted psychotherapy trials expands due to new regulatory frameworks, we have an opportunity to explore and investigate how and why MDMA-assisted couples therapy works. This theoretical paper will explore the neurobiological and neurochemical effects of MDMA in a relational context, the emotional, behavioral, cognitive and somatic effects within a dyadic frame, and how empathy, communication, perception of social connection/support, non-avoidance, openness, attachment/safety, bonding/social intimacy and relationship satisfaction, are all impacted by MDMA, and can be harnessed to facilitate systems-level and interpersonal healing and growth. A model to support MDMA-assisted couple therapy is introduced, and future directions, including implications for intervention development and delivery, will be elucidated.",
+  "raw_path": "01_raw/europepmc_xml/PMC8631777.xml",
+  "text_path": "02_text/europepmc/PMC8631777.txt",
+  "raw_bytes": 107178,
+  "text_chars": 23201,
+  "raw_sha256": "777112ec286bfaa42bd41bd5cffa828b7e3b469c24acf9a9b3b39eeb405cc2eb",
+  "text_sha256": "b6d853f9999aa6f7340fd01607cad0687c9bb752b88315ac150c3e689e335f33",
+  "retrieved_at": "2026-10-25T15:42:16.272024+00:00"
+}

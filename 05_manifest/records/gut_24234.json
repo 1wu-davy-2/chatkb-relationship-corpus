@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_24234",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "桃花扇",
+  "gutenberg_id": "24234",
+  "url": "https://www.gutenberg.org/ebooks/24234",
+  "download_url": "https://www.gutenberg.org/cache/epub/24234/pg24234.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/24234.txt",
+  "text_path": "02_text/gutenberg/gut_24234_桃花扇.txt",
+  "raw_bytes": 128917,
+  "text_chars": 36522,
+  "text_sha256": "28c55cd81c15cba5e66e15129beabdb0b7d6f38f6d0fe2923404d2261fd36130",
+  "retrieved_at": "2026-10-25T15:46:09.870211+00:00"
+}

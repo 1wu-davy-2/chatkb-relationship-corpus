@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10426852",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Rejection hurts: the effect of being dumped on subsequent mating efforts.",
+  "authors": "Stanik C, Kurzban R, Ellsworth P.",
+  "year": "2010",
+  "journal": "",
+  "doi": "",
+  "pmcid": "PMC10426852",
+  "url": "https://europepmc.org/article/PMC/PMC10426852",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10426852/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Many of the qualities that people seek in a long-term partner are not directly observable. As a consequence, information gathered through social learning may be important in partner assessment. Here, we tested the hypothesis that finding out potential partners were rejected by their last partner would negatively affect participants' desire to pursue a romantic relationship with them. Results support this hypothesis, and this effect was, as predicted, greater when the target was being evaluated for a potential long-term relationship compared to a sexual relationship. In a more exploratory vein, we tested the effect of the target having rejected their last partner and failing to disclose how their last relationship ended. These scenarios produced intriguing sex differences, such that men's ratings of women fell after learning she had rejected her last partner, but women's ratings of men increased after the same information was introduced. Failing to disclose information about a past relationship was unappealing to both men and women, though particularly so for women.",
+  "raw_path": "01_raw/europepmc_xml/PMC10426852.xml",
+  "text_path": "02_text/europepmc/PMC10426852.txt",
+  "raw_bytes": 74131,
+  "text_chars": 30740,
+  "raw_sha256": "864e17a733541f1fabcaa2a5500faf669697b7755d557f37ecc645cb453339b8",
+  "text_sha256": "4cdc2b7262d4ffd73c182d3dcf252df35571b19accb881af8ae53c4f9001e052",
+  "retrieved_at": "2026-10-25T15:44:35.860143+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10480930",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Covert sexual signaling: human flirtation and implications for other social species.",
+  "authors": "Gersick A, Kurzban R.",
+  "year": "2014",
+  "journal": "",
+  "doi": "",
+  "pmcid": "PMC10480930",
+  "url": "https://europepmc.org/article/PMC/PMC10480930",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10480930/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "According to signaling theory and a large body of supporting evidence, males across many taxa produce courtship signals that honestly advertise their quality. The cost of producing or performing these signals maintains signal honesty, such that females are typically able to choose the best males by selecting those that produce the loudest, brightest, longest, or otherwise highest-intensity signals, using signal strength as a measure of quality. Set against this background, human flirting behavior, characterized by its frequent subtlety or covertness, is mysterious. Here we propose that the explanation for subtle and ambiguous signals in human courtship lies in socially imposed costs that (a) vary with social context and (b) are amplified by the unusual ways in which language makes all interactions potentially public. Flirting is a class of courtship signaling that conveys the signaler's intentions and desirability to the intended receiver while minimizing the costs that would accompany an overt courtship attempt. This proposal explains humans' taxonomically unusual courtship displays and generates a number of novel predictions for both humans and non-human social animals. Individuals who are courting should vary the intensity of their signals to suit the level of risk attached to the particular social configuration, and receivers may assess this flexible matching of signal to context as an indicator of the signaler's broader behavioral flexibility and social intelligence.",
+  "raw_path": "01_raw/europepmc_xml/PMC10480930.xml",
+  "text_path": "02_text/europepmc/PMC10480930.txt",
+  "raw_bytes": 122155,
+  "text_chars": 50066,
+  "raw_sha256": "e27b04414503742cf10f401ebdcd4e96f305f7348ef6a94e8cc2dbfa567272db",
+  "text_sha256": "c477ed5f8251f4eff7e91c2fe606b0c8d2a88166b6f5a300e785e424a9d8b81d",
+  "retrieved_at": "2026-10-25T15:46:25.427085+00:00"
+}

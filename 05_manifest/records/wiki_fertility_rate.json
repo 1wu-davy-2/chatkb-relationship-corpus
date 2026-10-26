@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_fertility_rate",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "总和生育率",
+  "requested_title": "生育率",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%BB%E5%92%8C%E7%94%9F%E8%82%B2%E7%8E%87",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "demography",
+    "marriage"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/fertility_rate.json",
+  "text_path": "02_text/zh_wikipedia/fertility_rate.txt",
+  "raw_bytes": 5766,
+  "text_chars": 2138,
+  "text_sha256": "220ab1979277fc05b37c568878e7f78226494eaaa222c4fc7d57e3a4c98b04df",
+  "retrieved_at": "2026-10-25T15:43:14.349676+00:00"
+}

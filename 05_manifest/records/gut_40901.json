@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_40901",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "The Gentleman and Lady's Book of Politeness and Propriety of Deportment, Dedicated to the Youth of Both Sexes",
+  "gutenberg_id": "40901",
+  "url": "https://www.gutenberg.org/ebooks/40901",
+  "download_url": "https://www.gutenberg.org/cache/epub/40901/pg40901.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/40901.txt",
+  "text_path": "02_text/gutenberg/gut_40901_the_gentleman_and_lady_s_book_of_politen.txt",
+  "raw_bytes": 291211,
+  "text_chars": 262828,
+  "text_sha256": "a511fe257335c83f3fea563f8a0a2f08b938add6d86c9492b44d06b0cde4963e",
+  "retrieved_at": "2026-10-25T15:54:33.173127+00:00"
+}

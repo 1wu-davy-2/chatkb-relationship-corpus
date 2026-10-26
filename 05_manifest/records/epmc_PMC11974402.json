@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11974402",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Identification and comprehensive characterization of moral disapproval and behavioral dysregulation-based pornography-use profiles across 42 countries.",
+  "authors": "Bőthe B, Tóth-Király I, Popova N, Nagy L, Koós M, Demetrovics Z, Potenza MN, Kraus SW, Ballester-Arnal R, Batthyány D, Bergeron S, Billieux J, Briken P, Burkauskas J, Cárdenas-López G, Carvalho J, Castro-Calvo J, Chen L, Ciocca G, Corazza O, Csako RI, Czakó A, Fernandez DP, Fernandez EF, Fujiwara H, Fuss J, Gabrhelík R, Gewirtz-Meydan A, Gjoneska B, Gola M, Hashim HT, Islam MS, Ismail M, Jiménez-Martínez MC, Jurin T, Kalina O, Klein V, Költő A, Lee CT, Lee SK, Lewczuk K, Lin CY, Lochner C, López-Alvarado S, Lukavská K, Mayta-Tristán P, Miller DJ, Orosová O, Orosz G, Sungkyunkwan University's Research Team, Ponce FP, Quintana GR, Quintero Garzola GC, Ramos-Diaz J, Rigaud K, Rousseau A, Scanavino MT, Schulmeyer MK, Sharan P, Shibata M, Shoib S, Sigre-Leirós V, Sniewski L, Spasovski O, Steibliene V, Stein DJ, Štulhofer A, Ünsal BC, Vaillancourt-Morel MP, Van Hout MC, Grubbs JB.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1556/2006.2024.00054",
+  "pmcid": "PMC11974402",
+  "url": "https://europepmc.org/article/PMC/PMC11974402",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11974402/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_therapy_interventions"
+  ],
+  "abstract": "Background and aims The Moral Incongruence Model of Pornography Use proposes that pornography-use-related problems may be present due to problematic pornography use (PPU) and/or moral disapproval (MD) of pornography use. Despite some supporting empirical evidence, no study has tested the presence of different pornography-use profiles based on individuals' behavioral dysregulation (i.e., PPU) and moral values concerning pornography use. The generalizability of previous findings to diverse populations has also been limited given the scarcity of studies conducted outside of Western countries. Methods Using data from the International Sex Survey (42 countries, N = 66,994; Mage = 32.16 years, SD = 12.27), we conducted latent profile analysis to identify pornography-use profiles based on individuals' frequency of use, MD, and PPU. The profiles were compared along a wide range of pornography-use-related, sexuality-related, and psychological correlates. Results Six pornography-use profiles were identified, including two increased risk groups (i.e., Increased risk of PPU without MD and Increased risk of PPU with some MD). Several factors differentiated between the increased risk vs. no/low risk profiles (e.g., relatedness satisfaction) as well as between the two increased risk profiles (e.g., religiosity). Apart from behavioral dysregulation, moral values concerning pornography use played an important role in distinguishing pornography-use profiles and demonstrated the importance of inquiring about MD when working with individuals with pornography-use-related problems. Conclusion Findings also support recent calls for better-integrated sex therapy and sexual medicine perspectives into pornography-use-related problems research and care.",
+  "raw_path": "01_raw/europepmc_xml/PMC11974402.xml",
+  "text_path": "02_text/europepmc/PMC11974402.txt",
+  "raw_bytes": 277973,
+  "text_chars": 58590,
+  "raw_sha256": "46ad390ade6d4cfb03f168b0f4e34af558e24b4a803ed8e21783df62a04fa6b5",
+  "text_sha256": "191822600d7ce7a6e8b9f375866c49e6a7cd985e565edc729c9713abb7c9ed8b",
+  "retrieved_at": "2026-10-26T13:07:47.711713+00:00"
+}

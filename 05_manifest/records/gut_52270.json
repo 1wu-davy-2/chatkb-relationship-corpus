@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_52270",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "長生殿",
+  "gutenberg_id": "52270",
+  "url": "https://www.gutenberg.org/ebooks/52270",
+  "download_url": "https://www.gutenberg.org/cache/epub/52270/pg52270.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/52270.txt",
+  "text_path": "02_text/gutenberg/gut_52270_長生殿.txt",
+  "raw_bytes": 308949,
+  "text_chars": 97303,
+  "text_sha256": "bf80ea474bf016c8cf7c3301e897bfdfa49c3d3591e2125a05fce867b5e4be96",
+  "retrieved_at": "2026-10-25T15:45:56.067718+00:00"
+}

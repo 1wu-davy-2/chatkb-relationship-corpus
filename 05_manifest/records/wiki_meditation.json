@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_meditation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "冥想",
+  "requested_title": "冥想",
+  "url": "https://zh.wikipedia.org/wiki/%E5%86%A5%E6%83%B3",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 冥想",
+  "topics": [
+    "wellbeing",
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/meditation.json",
+  "text_path": "02_text/zh_wikipedia/meditation.txt",
+  "raw_bytes": 7832,
+  "text_chars": 3082,
+  "text_sha256": "515a81c58b570018eda712d3a47508d14707c08ff9e04dccfad1e9cb00dadd9d",
+  "retrieved_at": "2026-10-25T16:10:09.724882+00:00"
+}

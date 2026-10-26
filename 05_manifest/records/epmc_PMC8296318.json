@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8296318",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Victimization as a Result of Non-Consensual Dissemination of Sexting and Psychopathology Correlates: An Exploratory Analysis.",
+  "authors": "Gassó AM, Mueller-Johnson K, Gómez-Durán EL.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3390/ijerph18126564",
+  "pmcid": "PMC8296318",
+  "url": "https://europepmc.org/article/PMC/PMC8296318",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8296318/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Sexting is generally known as creating, sending and/or forwarding of sexual content using electronic devices. When such content is non-consensually disseminated, it becomes a criminally relevant behavior. To date, very few empirical studies have examined the prevalence of non-consensual dissemination of sexting, and none of them have analyzed the relationship with psychopathology and further victimization outcomes. Therefore, the aims of this study were (1) to examine the prevalence of non-consensual dissemination of sexual content, (2) to analyze the prevalence of further victimization as a result of non-consensual dissemination of sexting and (3) to investigate the association between secondary victimization as a result of non-consensual dissemination of sexting and psychopathology. The sample comprised 1370 Spanish college students (73.6% female; mean age = 21.4 years; SD = 4.85) who answered an online survey about their engagement in sexting behaviors, online sexual victimization and psychopathology, measured by a sexting scale and the Listado de Síntomas Breve (LSB-50), respectively. Overall, 43 participants (3.14) were victims of non-consensual dissemination of sexting, and results showed those participants who had suffered further victimization reported higher psychopathology scores than those who were not victimized and that being victimized by an ex-partner was associated with poorer mental health outcomes in the victim. Further implications are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC8296318.xml",
+  "text_path": "02_text/europepmc/PMC8296318.txt",
+  "raw_bytes": 110948,
+  "text_chars": 34702,
+  "raw_sha256": "fdceeda84474403d8d48d891ebd3658989a059fb6f156293c40e442144300fa5",
+  "text_sha256": "bcdb4d379a75b86c31a177756e080edd7cf8020fbf91d95f68675b5a3d05be6f",
+  "retrieved_at": "2026-10-26T13:08:14.241937+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8362880",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "But What's Your Partner Up to? Associations Between Relationship Quality and Pornography Use Depend on Contextual Patterns of Use Within the Couple.",
+  "authors": "Kohut T, Dobson KA, Balzarini RN, Rogge RD, Shaw AM, McNulty JK, Russell VM, Fisher WA, Campbell L.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2021.661347",
+  "pmcid": "PMC8362880",
+  "url": "https://europepmc.org/article/PMC/PMC8362880",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8362880/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "porn_and_relationship"
+  ],
+  "abstract": "It is commonly assumed that exposure to pornography harms relationships because pornography changes the way that individuals think, feel, and behave in problematic ways. In the current research, we contribute to a small but growing body of work that challenges this assumption by carefully scrutinizing the relational context of pornography use. In contrast to dominant theoretical explanations in this field, we argue that at least some of the apparent negative \"impacts\" of pornography use on relationship quality may reflect partner dissimilarity in pornography use behavior rather than the consequences of exposure to such materials. Moreover, we further examine a particular type of pornography use - shared use with a partner - which previous evidence suggests may be positively associated with relationship quality. To this end, we sought to test whether dyadic patterns of pornography use, and related attributes, were associated with sexual and relationship satisfaction in two cross-sectional ( N 1 = 200; N 3 = 207) and two longitudinal ( N 2 = 77; N 4 = 277) samples of heterosexual couples. Across these samples, we found consistent evidence that partners who watch pornography together report higher relationship and sexual satisfaction than partners who do not, and notably, this association was not moderated by gender. Independent of this association, we also found evidence of a similarity-dissimilarity effect, such that the solitary pornography use of one partner was negatively associated with their own relationship and sexual satisfaction, but only in cases where their romantic partners used little or no pornography alone. Further consideration of several correlates of pornography use established comparable patterns of results for dissimilarity in attitudes toward pornography, erotophobia-erotophilia, sexual preferences, and sex drive. Importantly, only dissimilarity in sex drive statistically accounted for dissimilarity in solitary pornography use, suggesting that differences in sex drive may be implicated in the associations between pornography use and relationship quality. These findings demonstrate that links between pornography use and relationship health are partially a function of different dyadic patterns of pornography use within couples and do not always suggest relational harm.",
+  "raw_path": "01_raw/europepmc_xml/PMC8362880.xml",
+  "text_path": "02_text/europepmc/PMC8362880.txt",
+  "raw_bytes": 329252,
+  "text_chars": 135265,
+  "raw_sha256": "4656a3f4b49d8eb27ff82cd9df9c43f35d3986c9cd87371aa6e3c1023301dce1",
+  "text_sha256": "d4eda81fd358f2c65646bf6c8ddf30ee1750aff06273883b9603480af56b47eb",
+  "retrieved_at": "2026-10-26T12:55:36.913898+00:00"
+}

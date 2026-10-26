@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC3899263",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Preferred and actual relative height among homosexual male partners vary with preferred dominance and sex role.",
+  "authors": "Valentova JV, Stulp G, Třebický V, Havlíček J.",
+  "year": "2014",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0086534",
+  "pmcid": "PMC3899263",
+  "url": "https://europepmc.org/article/PMC/PMC3899263",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3899263/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "kink_consensual"
+  ],
+  "abstract": "Previous research has shown repeatedly that human stature influences mate preferences and mate choice in heterosexuals. In general, it has been shown that tall men and average height women are most preferred by the opposite sex, and that both sexes prefer to be in a relationship where the man is taller than the woman. However, little is known about such partner preferences in homosexual individuals. Based on an online survey of a large sample of non-heterosexual men (N = 541), we found that the majority of men prefer a partner slightly taller than themselves. However, these preferences were dependent on the participant's own height, such that taller men preferred shorter partners, whereas shorter men preferred taller partners. We also examined whether height preferences predicted the preference for dominance and the adoption of particular sexual roles within a couple. Although a large proportion of men preferred to be in an egalitarian relationship with respect to preferred dominance (although not with respect to preferred sexual role), men that preferred a more dominant and more \"active\" sexual role preferred shorter partners, whereas those that preferred a more submissive and more \"passive\" sexual role preferred taller partners. Our results indicate that preferences for relative height in homosexual men are modulated by own height, preferred dominance and sex role, and do not simply resemble those of heterosexual women or men.",
+  "raw_path": "01_raw/europepmc_xml/PMC3899263.xml",
+  "text_path": "02_text/europepmc/PMC3899263.txt",
+  "raw_bytes": 108556,
+  "text_chars": 34845,
+  "raw_sha256": "d37dcae429a7a052660e98703decface607515ea192cb8ac9774a558b1d2d934",
+  "text_sha256": "c15928dbfa5c4f57b96adaaf8486dd616e62fbd1f4e66f0cfec57e4a8b3fc420",
+  "retrieved_at": "2026-10-26T12:55:52.023807+00:00"
+}

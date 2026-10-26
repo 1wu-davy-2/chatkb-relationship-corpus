@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11537395",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The prospective impact of extradyadic stress on depressive symptoms and the mediating role of intradyadic stress in parents-an actor-partner interdependence mediation model.",
+  "authors": "Böhlmann P, Mack JT, Weise V, Seefeld L, Bodenmann G, Zietlow AL, Garthus-Niegel S.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0311989",
+  "pmcid": "PMC11537395",
+  "url": "https://europepmc.org/article/PMC/PMC11537395",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11537395/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "Background Stress outside of the couple relationship (extradyadic stress) can spill over into the couple relationship, increasing stress between the partners (intradyadic stress). Extra- and intradyadic stress are furthermore associated with depressive symptoms. Due to the interdependence of romantic partners, this study aimed to investigate the influence of the person's own and their partner's extra- and intradyadic stress on the person's depressive symptoms in parents of toddlers. The second aim was to evaluate whether intradyadic stress mediates the within-person and between-partner association between extradyadic stress and depressive symptoms. Methods Longitudinal data of a community sample of 878 opposite-sex couples, participating in the prospective cohort study DREAM, were collected two and three years after birth. Extra- and intradyadic stress were assessed by the Multidimensional Stress Questionnaire for Couples and depressive symptoms were assessed using the Edinburgh Postnatal Depression Scale. An actor-partner interdependence mediation model was applied to the data, while controlling for the confounder academic degree. Results The person's own extradyadic stress predicted their depressive symptoms one year later, partially mediated by their intradyadic stress. The partner's extradyadic stress and the person's own depressive symptoms one year later were only indirectly associated through the person's own intradyadic stress. In a sensitivity analysis, between-partner effects were no longer significant after including autoregressive pathways. Conclusion Our findings highlight the importance of the extradyadic-intradyadic stress spillover for the mental health of women and men with young children. Early targeted interventions could help to prevent later depressive symptoms by reducing stress inside the couple relationship that results from both partners' stress from outside the couple relationship.",
+  "raw_path": "01_raw/europepmc_xml/PMC11537395.xml",
+  "text_path": "02_text/europepmc/PMC11537395.txt",
+  "raw_bytes": 241746,
+  "text_chars": 69906,
+  "raw_sha256": "f4c3a802b2ef5961387e67bcb2f6e4bd06f7e9c4e9b9e2e7d487fb0fafe9a33f",
+  "text_sha256": "9d7686d86bf0753e11ea62a3e8440d23064da1a29ae9a9d14a35ac200f5e2fa8",
+  "retrieved_at": "2026-10-26T12:55:51.022937+00:00"
+}

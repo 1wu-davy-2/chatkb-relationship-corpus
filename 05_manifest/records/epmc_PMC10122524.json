@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10122524",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Domestic Violence During Women's Life in Developing Countries.",
+  "authors": "Christaki C, Orovou O, Dagla D, Sarantaki S, Moriati M, Kirkou K, Antoniou A.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.5455/msm.2023.35.58-64",
+  "pmcid": "PMC10122524",
+  "url": "https://europepmc.org/article/PMC/PMC10122524",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10122524/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "bride_price"
+  ],
+  "abstract": "Background The lack of information relating to the definitive factors causing domestic violence has resulted in the lack of sound and effective programs; this makes the need for further research in domestic violence more imperative. Objective The aim of this systematic review is to investigate the factors and impacts of domestic violence in developing countries. Methods This study is a significant contribution to the existing literature, based on the use of data from the international literature of the last ten years and the evaluation of the degree that the domestic violence affects the lives of women both at an individual as well as a community level. Studies related to the scope of this review from international databases (Google Scholar, PubMed and Scopus) were used. The inclusion criteria comprised studies in English, published between 2012 and 2022 and studies which, apart from the prevalence or types of domestic violence investigated social factors related to violence in women of different ages in developing countries. Results The results of the study showed that partners-husbands are the main perpetrators of domestic violence. The prevalence of domestic violence ranged between 29.4% and 73.78%, with the highest prevalence observed in Bangladesh. Conclusion The factors affecting domestic violence were the young age of marriage, the low education level, non-proper execution of household chores, financial issues, patriarchic families, non-proper cooking according to the husband's desire, dowry issues, giving birth to a girl, poverty, women's work but also women's unemployment, other children in the family and their neglect according to the husband, husband's unemployment and the personal experiences of domestic violence for both partners. In addition, significant risk factors were the husband's addiction to substances and the wife's refusal for sex.",
+  "raw_path": "01_raw/europepmc_xml/PMC10122524.xml",
+  "text_path": "02_text/europepmc/PMC10122524.txt",
+  "raw_bytes": 78337,
+  "text_chars": 24105,
+  "raw_sha256": "a5058f88123a5736bed8e08c736f6090c72fc4388333e98a0de161a20ea2c70f",
+  "text_sha256": "3ad07bd3d7bc7d5ebf345615ec3077909e467c16fc9685788e8f9c89063a477b",
+  "retrieved_at": "2026-10-25T15:33:54.874855+00:00"
+}

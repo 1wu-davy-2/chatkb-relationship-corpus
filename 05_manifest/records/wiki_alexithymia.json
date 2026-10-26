@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_alexithymia",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "述情障礙",
+  "requested_title": "述情障碍",
+  "url": "https://zh.wikipedia.org/wiki/%E8%BF%B0%E6%83%85%E9%9A%9C%E7%A4%99",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 述情障礙",
+  "topics": [
+    "psychology",
+    "emotion"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/alexithymia.json",
+  "text_path": "02_text/zh_wikipedia/alexithymia.txt",
+  "raw_bytes": 2965,
+  "text_chars": 1375,
+  "text_sha256": "b2961b344297ed280a41ae331e5030814b8a15004328c92a196f4b1feee76d7b",
+  "retrieved_at": "2026-10-25T16:23:05.669559+00:00"
+}

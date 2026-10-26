@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10052415",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Continuous Traumatic Stress: Examining the Experiences and Support Needs of Women After Separation From an Abusive Partner.",
+  "authors": "Hulley J, Wager K, Gomersall T, Bailey L, Kirkman G, Gibbs G, Jones AD.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/08862605221132776",
+  "pmcid": "PMC10052415",
+  "url": "https://europepmc.org/article/PMC/PMC10052415",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10052415/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "Intimate partner violence causes significant, long-lasting harm to almost one-third (27%) of the world's population of women. Even when women leave abusive relationships, some men continue to exercise control over their ex-partners through psychological control, threats, violence, stalking, and other forms of harassment. In this qualitative study, 52 purposively sampled women who self-identified as victims or survivors of intimate partner violence (IPV) from male partners were interviewed. Data were analyzed with a theoretically informed thematic analysis, supported by Nvivo® software. We found that leaving a violent relationship was a long-term process fraught with difficulty and ongoing risks of psychological harm. The concept of Continuous Traumatic Stress (CTS), first developed to understand the impact of state-sponsored violence and war, was found to be a particularly useful tool for the analysis of the impact of post-separation abuse. Additionally, CTS encourages researchers and practitioners to think anew about resilience-centered approaches to improving protection and access to justice for female victims.",
+  "raw_path": "01_raw/europepmc_xml/PMC10052415.xml",
+  "text_path": "02_text/europepmc/PMC10052415.txt",
+  "raw_bytes": 93617,
+  "text_chars": 51962,
+  "raw_sha256": "78d36ee15de0db4507a1685d71b5e11f271f588e37adb6abd340e677e96cfe7b",
+  "text_sha256": "369cd1b2af18c11ea80423364e7dff91f42da95c9f688711c54b6ef45d9c3c61",
+  "retrieved_at": "2026-10-25T15:37:01.088953+00:00"
+}

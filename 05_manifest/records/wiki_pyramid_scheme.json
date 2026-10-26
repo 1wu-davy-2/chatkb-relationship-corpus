@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_pyramid_scheme",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "層壓式推銷",
+  "requested_title": "層壓式推銷",
+  "url": "https://zh.wikipedia.org/wiki/%E5%B1%A4%E5%A3%93%E5%BC%8F%E6%8E%A8%E9%8A%B7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "scam",
+    "money"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/pyramid_scheme.json",
+  "text_path": "02_text/zh_wikipedia/pyramid_scheme.txt",
+  "raw_bytes": 10870,
+  "text_chars": 3880,
+  "text_sha256": "570128b224a02b0ef3c46f8abbf497f3fff68feed2f211159c84a61a4fd7ae73",
+  "retrieved_at": "2026-10-25T15:59:06.175470+00:00"
+}

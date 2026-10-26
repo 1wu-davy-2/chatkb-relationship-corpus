@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10733483",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Can a kiss conquer all? The predictive utility of idealized first kiss beliefs on reports of romantic love among U.S. adults.",
+  "authors": "Thompson AE, Hill MR, Record JM.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2023.1256423",
+  "pmcid": "PMC10733483",
+  "url": "https://europepmc.org/article/PMC/PMC10733483",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10733483/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Research indicates that idealized romantic expectations and the extent to which they are met, are important predictors of relationship outcomes (e.g., love). However, no studies have investigated the impact of idealized beliefs associated with specific behaviors (e.g., kissing) on reports of romantic love. Thus, the two studies comprising this research assessed the association between idealized beliefs related to one's first romantic kiss with their current partner, unmet first kiss expectations, and reports of romantic love. Romantic attachment was also examined as a moderator. In Study One, the First Kiss Beliefs Scale was created and the results from 208 adults revealed that increased endorsement of idealized first kiss beliefs was associated with greater romantic love ( r = 0.25). Romantic attachment also moderated this relationship, such that idealized first kiss beliefs significantly predicted love for those high in attachment anxiety and low in avoidance ( β = 0.68 and β = 0.18, respectively). In Study Two, the First Kiss Beliefs Scale was modified to assess outcomes and expectations to capture unmet expectations. The results from 234 adults indicated that idealized first kiss beliefs predicted a greater proportion of the variance in romantic love ( sr 2 = 0.10) than did unmet expectations ( sr 2 = 0.07). A three-way interaction was also detected such that, among those low in attachment anxiety, the relationship between kissing beliefs and love was positive for those high in attachment avoidance and negative for those low. These results indicate that idealized first kiss expectations with one's current romantic partner are important predictors of love (beyond whether these expectations were met), particularly for those high in attachment insecurity. Implications are discussed for practitioners and those in the primary stages of romantic relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC10733483.xml",
+  "text_path": "02_text/europepmc/PMC10733483.txt",
+  "raw_bytes": 153480,
+  "text_chars": 60231,
+  "raw_sha256": "05fcce6618381d135f13174972f26f54011ebb45f8e0e0552dd32202242fb326",
+  "text_sha256": "5a6f5a56752099dc84181a18ac616d28d612f8aaeb1f02a068916df50b87b5e1",
+  "retrieved_at": "2026-10-25T15:48:48.182432+00:00"
+}

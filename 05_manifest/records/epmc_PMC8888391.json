@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8888391",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Associations Between Pornography Consumption, Sexual Flexibility, and Sexual Functioning Among Austrian Adults.",
+  "authors": "Komlenac N, Hochleitner M.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1007/s10508-021-02201-7",
+  "pmcid": "PMC8888391",
+  "url": "https://europepmc.org/article/PMC/PMC8888391",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8888391/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "To date, only a few studies have examined the associations between pornography consumption and sexual functioning. The Acquisition, Activation, Application Model ( 3 AM) indicates that the frequency of pornography consumption and the perceived realism of pornography may influence whether sexual scripts are acquired from viewed pornography. Having sexual scripts that are alternative to their preferred sexual behaviors may help people switch to alternative sexual behavior when sexual problems arise. The current study analyzed whether frequent pornography consumption was associated with greater sexual flexibility and greater sexual functioning. Additionally, the perceived realism of pornography consumption was tested as a moderator of those associations. At an Austrian medical university, an online cross-sectional questionnaire study was conducted among 644 medical students (54% women and 46% men; M age = 24.1 years, SD = 3.8). The participants were asked about their pornography consumption, partnered sexual activity, sexual flexibility, perceived realism of pornography, and sexual functioning. Manifest path analyses revealed direct and indirect associations between frequent pornography consumption and greater sexual functioning through greater sexual flexibility in women but not in men. Perceived realism did not moderate those associations. In conclusion, our study was in line with previous studies that found no significant associations between men's pornography consumption and sexual functioning in men. However, some women may expand their sexual scripts and learn new sexual behaviors from pornography consumption, which may help with their sexual functioning.",
+  "raw_path": "01_raw/europepmc_xml/PMC8888391.xml",
+  "text_path": "02_text/europepmc/PMC8888391.txt",
+  "raw_bytes": 164575,
+  "text_chars": 53753,
+  "raw_sha256": "ccc47aeba8317679a7c1d1d364d9cae20b106f7e1f48f99fa2024c762d68f8a6",
+  "text_sha256": "d38ecf5b321008332692098afe8c542e19fa8e0882d61038aec66b7a2cef9ed0",
+  "retrieved_at": "2026-10-26T13:11:37.074029+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13603925",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "An Updated and Revised Dyadic Model of Partner Violence.",
+  "authors": "Mazinani B, O'Connor BP.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/bs16091468",
+  "pmcid": "PMC13603925",
+  "url": "https://europepmc.org/article/PMC/PMC13603925",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13603925/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Research on intimate partner violence (IPV) has traditionally examined perpetration and victimization separately, limiting understanding of the relational processes that sustain violence. The present selective review builds on the dyadic model of partner violence by synthesizing meta-analytic evidence concerning risk markers for physical IPV. Eight peer-reviewed meta-analyses published between 2000 and 2024 formed the core synthesis. Studies were included if they reported quantitative effect sizes for variables associated with physical IPV perpetration or victimization. Extracted results were organized into three hierarchical levels: (a) background and dispositional risk markers, (b) relationship context, and (c) situational context. Across the reviewed meta-analyses, the most consistent risk markers of IPV clustered within the relationship-context level, particularly prior partner aggression, emotional abuse, and relationship dissatisfaction. Communication skills and empathy were inversely associated with IPV risk. Few studies examined same-sex couples, IPV victimization among men, or culturally diverse samples, highlighting major gaps in current evidence. This selective review provides an updated synthesis and conceptual organization of IPV risk markers and emphasizes the importance of dyadic frameworks for guiding future theory, prevention, and policy.",
+  "raw_path": "01_raw/europepmc_xml/PMC13603925.xml",
+  "text_path": "02_text/europepmc/PMC13603925.txt",
+  "raw_bytes": 339244,
+  "text_chars": 86065,
+  "raw_sha256": "ec903dda9453f93bf11f9b35689d74ce315b86972ed02712c7d45bfb4d9b60e7",
+  "text_sha256": "875d69c6fc9a05d6b6b2a189193fa4945e00e3c6eec543dbe1ee142a260e335d",
+  "retrieved_at": "2026-10-25T14:00:17.089005+00:00"
+}

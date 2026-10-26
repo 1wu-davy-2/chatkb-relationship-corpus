@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11520685",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Translating and validating the Ghosting Questionnaire into Arabic: results from classical test theory and item response theory analyses : Short title: the arabic version of the Ghosting Questionnaire.",
+  "authors": "Husain W, Salem AAMS, Ammar A, Trabelsi K, Ghazzawi H, Saif Z, Helmy M, Pandi-Perumal SR, Seeman MV, Pakpour AH, Jahrami H.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s40359-024-02107-8",
+  "pmcid": "PMC11520685",
+  "url": "https://europepmc.org/article/PMC/PMC11520685",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11520685/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "ghosting"
+  ],
+  "abstract": "Background Ghosting refers to the sudden cessation of communication in interpersonal relationships. Ghosting has gained attention as a phenomenon commonly encountered in the context of digital communication. Earlier studies on ghosting mostly focused on Western societies while, in Arab societies, research into this practice has yet to be initiated. The current study aimed to address this gap by translating and validating the commonly used Ghosting Questionnaire (GHOST) into Arabic. Methods The translation process involved forward and back translation, expert review, and pilot testing to ensure linguistic and cultural equivalence. A convenience sample of 607 participants from Bahrain, Egypt, Jordan, Oman, and Tunisia completed the Arabic version of the GHOST. Statistical analyses, including reliability testing and confirmatory factor analysis, were conducted to assess the psychometric properties of the instrument. Results The Arabic version of the GHOST demonstrated high reliability. The Cronbach's alpha (α = 0.87) and McDonald's omega (ω = 0.87) coefficients indicated strong internal consistency. Test-retest reliability coefficients confirmed the stability of the responses over time (ICC 0.89, p Conclusions The successful translation and validation of the GHOST into Arabic provide researchers with a reliable tool for investigating ghosting behavior within Arab societies. Future research endeavors can build upon these findings to explore the psychological implications of ghosting. Researchers can now also develop culturally sensitive understanding of online dating and related practices in Arab communities.",
+  "raw_path": "01_raw/europepmc_xml/PMC11520685.xml",
+  "text_path": "02_text/europepmc/PMC11520685.txt",
+  "raw_bytes": 71222,
+  "text_chars": 29621,
+  "raw_sha256": "10d1ccf4a5ebe3f6ea48df600eb3541d03d26217891b2a2e891dd8d4a1385f9e",
+  "text_sha256": "2e8952d3adc5938a78b29d89a550c760728817e72f9d9a8695f22de42a24cf23",
+  "retrieved_at": "2026-10-25T13:50:34.067418+00:00"
+}

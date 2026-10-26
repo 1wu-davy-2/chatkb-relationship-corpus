@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13621252",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Gun and Other Weapon-Involved Intimate Partner Violence and Psychiatric Symptoms.",
+  "authors": "Whitten T, Dean K, Tay AK, Moussa B, Hassoun F, Fisher J, Green MJ, Rees SJ.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1001/jamanetworkopen.2026.36313",
+  "pmcid": "PMC13621252",
+  "url": "https://europepmc.org/article/PMC/PMC13621252",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13621252/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Importance Gun, knife, or other weapon involvement in intimate partner violence (IPV) may indicate heightened actual and perceived lethality and coercive control, but its mental health impacts on survivors are poorly understood after accounting for other IPV and prior mental health symptoms. Objective To estimate the adjusted association between gun and other weapon-involved IPV and symptoms of major depressive disorder (MDD), panic disorder (PD), posttraumatic stress disorder (PTSD), and adult separation anxiety disorder (ASAD), accounting for concurrent and past nonweapon physical IPV, psychological abuse, and prior symptom levels. Design, setting, and participants This prospective, longitudinal cohort study with 6 waves at 12- to 18-month intervals recruited participants from January 1, 2015, to March 31, 2016, from public antenatal clinics in Sydney and Melbourne, Australia. Women with exposure and outcome data from at least 2 waves were eligible for the study. Data analysis was conducted in February 2025. Exposures Past-year gun and other weapon-involved IPV, nonweapon physical IPV, and psychological abuse. Main outcomes and measures Mini International Neuropsychiatric Interview (Diagnostic and Statistical Manual of Mental Disorders [Fourth Edition]) symptom counts for MDD, PD, PTSD, and ASAD at each wave. β-Binomial (β̂) mixed-effects models with random intercepts modeled bounded symptom counts, adjusting for survey wave, lagged symptoms, and covariates. Pooled marginal and within-person transition contrasts were estimated using parametric simulation. Results Among 1114 women (mean [SD] age at wave 1, 29.48 [5.42] years), 585 (52.5%) were migrants; median birth year was 1987 (range, 1969-1999). Across follow-up, 43 women (3.9%) reported gun or other weapon-involved IPV, 171 (15.4%) nonweapon physical IPV, and 726 (65.2%) psychological abuse. In fully adjusted models, weapon-involved IPV remained associated with PD (β̂ = 0.79; 95% CI, 0.08-1.50) and PTSD (β̂ = 1.07; 95% CI, 0.38-1.76) but not MDD (β̂ = 0.12; 95% CI, -0.55 to 0.79) or ASAD (β̂ = -0.12; 95% CI, -0.81 to 0.57). Adjusted pooled marginal differences were 0.57 (95% CI, 0.04-1.44) for PD and 0.69 (95% CI, 0.17-1.59) for PTSD; within-person transition effects were 1.12 (95% CI, 0.08-2.24) for PD and 1.14 (95% CI, 0.26-2.02) for PTSD. Conclusions and relevance In this cohort study, gun and other weapon-involved IPV was independently associated with higher PD and PTSD symptom counts after controlling for other IPV types and prior mental health. Identifying weapon-involved IPV should alert clinicians to fear-related presentations and prompt safety-focused interventions.",
+  "raw_path": "01_raw/europepmc_xml/PMC13621252.xml",
+  "text_path": "02_text/europepmc/PMC13621252.txt",
+  "raw_bytes": 104262,
+  "text_chars": 30774,
+  "raw_sha256": "f80b02e5bbc8b1a993693c30b9c80f22e749096da3088b08a8a938564f84a95d",
+  "text_sha256": "0313ba15ceee91a2c223c2c4b78e7345c37d622e8f39499f63cf7ad0c0eb4700",
+  "retrieved_at": "2026-10-25T15:48:51.627822+00:00"
+}

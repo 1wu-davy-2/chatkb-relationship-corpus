@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10480892",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Reproductive Success, Relationship Orientation, and Sexual Behavior in Heterosexuals: Relationship With Chronotype, Sleep, and Sex.",
+  "authors": "Kasaeian A, Weidenauer C, Hautzinger M, Randler C.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1177/1474704919859760",
+  "pmcid": "PMC10480892",
+  "url": "https://europepmc.org/article/PMC/PMC10480892",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10480892/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Following previous studies, chronotype was related to sexual attitudes and behavior. Evening people tend to be more promiscuous and follow short-term mating strategies and extra-pair matings (EPM), which might lead to a higher reproductive success. In this study, one aim was to assess reproductive success directly by asking for children, and, second, to obtain a higher sample size for the analysis of sexual behavior and chronotype than in previous studies. N = 1,843 heterosexual persons (551 men, 1,288 women, 4 without data) responded to our online survey. Five hundred fifty-nine persons were single and 1,281 in a relationship; 203 reported having children (1.9 ± 0.81). Age was positively related and age at first intercourse was negatively related to the number of children. People being later chronotypes had fewer children, and shorter sleep duration was linked with more children. Extroversion was correlated with number of children, as was the long-term relationship orientation. Sociosexual orientation and EPM were unrelated to number of children. Age at first intercourse was earlier in evening people, and unrestricted sociosexuality was higher in late chronotypes. Morning orientation correlated with long-term relationship orientation and eveningness with short-term relationship orientation. Number of sexual partners was lower in morning people. Men were more evening oriented, later chronotypes, and slept shorter. There were no differences in sociosexual behavior, but men were less restricted in attitude and desire. Men scored higher on short-term relationship orientation and women higher on long-term relationship orientation. This study confirmed previous results about chronotype and sexual behavior but provided the first evidence that morningness was related to higher reproductive success.",
+  "raw_path": "01_raw/europepmc_xml/PMC10480892.xml",
+  "text_path": "02_text/europepmc/PMC10480892.txt",
+  "raw_bytes": 127906,
+  "text_chars": 34734,
+  "raw_sha256": "fdeff6f45df300505f7b1e793ba81afbea64ccb61eb143a65ce2bed38d429f78",
+  "text_sha256": "7496b2deda16c64c2bc2852ff39a9080298ba6f559389be3996cf5ba58a35af1",
+  "retrieved_at": "2026-10-26T13:14:42.457655+00:00"
+}

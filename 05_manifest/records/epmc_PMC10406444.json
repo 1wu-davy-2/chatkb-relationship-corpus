@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10406444",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "How fear of intimacy affects infertile men's neuropsychological functioning through mental toughness.",
+  "authors": "Hassan S, Bhatti MI, Habib S, Fatima S, Bhader S, Khan NH, Jiang E.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2023.1049008",
+  "pmcid": "PMC10406444",
+  "url": "https://europepmc.org/article/PMC/PMC10406444",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10406444/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_anxiety"
+  ],
+  "abstract": "Objective There is a significant need in Pakistan to investigate the psychological effects of infertility on the mental health of infertile men. The current study examined how fear of intimacy affects neuropsychological impairment and evaluated its relationship to other variables including quality of life and mental toughness. Method An analytical cross-sectional study was carried out on infertile male patients in various healthcare settings in Punjab, Pakistan. The participants were recruited using a non-probability (purposive) sampling strategy. The sample size was 120 infertile. SPSS 26 was used to analyze the data. Results Fear of intimacy was found significant impact on neuropsychological impairment ( r = 0.40; *** p r = 0.48; ** p r = 0.33; ** p r = 0.55; ** p r = 0.21; ** p r = 0.37; ** p r = 0.22; ** p r = -0.25; * p > 0.05). Similarly, neuropsychological impairment was found to be negatively associated with QoL ( r = -0.52; ** p > 0.01). The relationship between fear of intimacy and neuropsychological impairment was found to be significantly mediated by QoL. Furthermore, the findings revealed that mental toughness significantly moderated the relationship between fear of intimacy and neuropsychological impairment. Conclusion Overall, infertile men in Pakistan had relatively high levels of fear of intimacy, which largely caused neuropsychological impairment. This study can help neuropsychological researchers, mental health professionals, as well as policymakers in improving clinical mental health practices for infertile patients.",
+  "raw_path": "01_raw/europepmc_xml/PMC10406444.xml",
+  "text_path": "02_text/europepmc/PMC10406444.txt",
+  "raw_bytes": 177268,
+  "text_chars": 36317,
+  "raw_sha256": "f0c6433fadeef90f07ef883adb9f4b7fdb23d68bac78c17e71db536a948949c6",
+  "text_sha256": "939fc0c4b550f9a3478d03bdf6c8b958b6cf190bcb674f938dc9e9b18bc17a39",
+  "retrieved_at": "2026-10-25T13:52:46.276427+00:00"
+}

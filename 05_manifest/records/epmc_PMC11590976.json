@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11590976",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Implications of Self-Other Overlap for Cyber Dating Abuse in Young Adult Romantic Partners.",
+  "authors": "Parise M, Donato S, Pagani AF.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/bs14111037",
+  "pmcid": "PMC11590976",
+  "url": "https://europepmc.org/article/PMC/PMC11590976",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11590976/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Social network sites (SNSs) have brought about profound changes in the way people relate to others, including their romantic partners. Despite the advantages SNSs may have for building and managing romantic relationships, their use can be linked to risky behaviors within romantic relationships, such as the emergence of jealousy, control, and intrusiveness, i.e., cyber dating abuse (CDA) behaviors. The present study, in a sample of 315 Italian young adults involved in a romantic relationship (74.6 percent women and 25.4 percent men) aged 20 to 33 years ( M = 24.17; SD = 2.60), explored CDA behaviors and their association with self-other overlap. Findings showed a positive association between self-other overlap and the frequency of CDA behaviors. That is, those who struggled to recognize their partners as different from themselves tended to control and enact intrusive behaviors toward them. This association, however, was moderated by the partners' relationship duration, so that it was only significant for partners in a long-term relationship. The study expands our understanding of CDA behaviors in romantic relationships, contributing to identifying the conditions under which they are more likely to be perpetrated. In addition, it helps inform interventions for preventing risky behaviors within young adults' romantic relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC11590976.xml",
+  "text_path": "02_text/europepmc/PMC11590976.txt",
+  "raw_bytes": 89662,
+  "text_chars": 31083,
+  "raw_sha256": "0127ce730a680bfa2b7aced27c24af087a18631caf13e3c9facc204f2984650a",
+  "text_sha256": "78ea395908747c0ef6d93ec0061d7e6f88a12d686d99749a22761282aed83828",
+  "retrieved_at": "2026-10-25T15:31:57.784451+00:00"
+}

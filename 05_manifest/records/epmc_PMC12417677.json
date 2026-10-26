@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12417677",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Difficulties in Keeping an Intimate Relationship and Singlehood.",
+  "authors": "Apostolou M, Lajunen TJ.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/14747049251377388",
+  "pmcid": "PMC12417677",
+  "url": "https://europepmc.org/article/PMC/PMC12417677",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12417677/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "An increasing number of people are single, meaning that they do not have an intimate partner. Existing research has focused on identifying the difficulties that people face in attracting mates. In the present paper, we propose that another factor contributing to singlehood is experiencing difficulties in maintaining intimate relationships. By analyzing data collected from 1099 Greek-speaking participants, we found that individuals who experienced greater difficulties maintaining intimate relationships were more likely to be either between-relationships single or voluntarily single rather than in an intimate relationship. For women specifically, higher scores in this dimension were also associated with a greater probability of being in an intimate relationship than being involuntarily single. Additionally, we found that the association between difficulties in maintaining an intimate relationship and relationship status was linear for men-the relationship between the two variables can be pictured as straight line-but curvilinear-the relationship can be pictured as an inverted U-shaped curve-for women.",
+  "raw_path": "01_raw/europepmc_xml/PMC12417677.xml",
+  "text_path": "02_text/europepmc/PMC12417677.txt",
+  "raw_bytes": 45487,
+  "text_chars": 21314,
+  "raw_sha256": "3d32ff1c9106aca39b55d0817fbe203fe34de2839d6d05227e7a09c8603aada5",
+  "text_sha256": "d9fad0e190272b9e1755a18215137e79d58f93c998e10ee7d79cd3219a26bef6",
+  "retrieved_at": "2026-10-25T13:54:10.694211+00:00"
+}

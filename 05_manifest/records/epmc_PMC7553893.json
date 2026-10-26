@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7553893",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Are Sexual Desire and Sociosexual Orientation Related to Men's Salivary Steroid Hormones?",
+  "authors": "Stern J, Karastoyanova K, Kandrik M, Torrance J, Hahn AC, Holzleitner I, DeBruine LM, Jones BC.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1007/s40750-020-00148-y",
+  "pmcid": "PMC7553893",
+  "url": "https://europepmc.org/article/PMC/PMC7553893",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7553893/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Objective Although it is widely assumed that men's sexual desire and interest in casual sex (i.e., sociosexual orientation) are linked to steroid hormone levels, evidence for such associations is mixed. Methods We tested for both longitudinal and cross-sectional relationships between salivary testosterone, cortisol, reported sexual desire and sociosexuality in a sample of 61 young adult men, each of whom was tested weekly on up to five occasions. Results Longitudinal analyses showed no clear relationships between steroid hormones and self-reported sexual desire or sociosexual orientation. Cross-sectional analyses showed no significant associations between average hormone levels and self-reported sexual desire. However, some aspects of sociosexuality, most notably desire for casual sex, were related to men's average hormone levels. Men with higher average testosterone reported greater desire for casual sex, but only if they also had relatively low average cortisol levels. Conclusions Our results support a Dual Hormone account of men's sociosexuality, in which the combined effects of testosterone and cortisol predict the extent of men's interest in casual sex. However, we did not detect compelling evidence for an association of within-subject hormone shifts and sexual desire or sociosexual orientation.",
+  "raw_path": "01_raw/europepmc_xml/PMC7553893.xml",
+  "text_path": "02_text/europepmc/PMC7553893.txt",
+  "raw_bytes": 144374,
+  "text_chars": 57228,
+  "raw_sha256": "567e22f82365ebbb15a95816b1ec191884e382e683808487ca390a1d38e70cb4",
+  "text_sha256": "f9eefa0eb209d888e532391becfa53f3669b42070c3da738edc6c1fd6125361e",
+  "retrieved_at": "2026-10-26T13:07:50.730399+00:00"
+}

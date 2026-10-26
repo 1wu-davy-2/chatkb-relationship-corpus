@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11134666",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relational aggression in romantic relationship: empirical evidence among young female adults in Malaysia.",
+  "authors": "Kamaluddin MR, Munusamy S, Sheau Tsuey C, Abdullah Mohd Nor H.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s40359-024-01670-4",
+  "pmcid": "PMC11134666",
+  "url": "https://europepmc.org/article/PMC/PMC11134666",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11134666/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Background Aggressive behaviour in romantic relationship is a social problem of great concern. Studies related to the influence of psychosocial factors on relational aggression are still limited. Furthermore, these factors have not been widely studied in the local context, resulting in the issue of relational aggression among young female adults still not being addressed. This study aims to explore whether psychosocial factors such as big five personality traits, adult attachment style and loneliness could predict relational aggression in romantic relationships among young female adults in Malaysia. In addition, this study aims to identify the moderating effect of social support in the relationship between psychosocial factors and relational aggression in romantic relationship. Methods A quantitative research approach was used with 424 young female adults in Malaysia aged between 18 and 30 years old (mean age = 24.18) were recruited through multistage sampling design by completing a questionnaire consisting of the Big Five Inventory (BFI), Experiences in Close Relationships Scale II (ECRS-II), Revised UCLA Loneliness Scale, Measure of Relational Aggression and Victimization (MRAV) and Multidimensional Scale of Perceived Social Support (MSPSS). Results Multiple regression analysis predicted significant relationship between agreeableness personality, loneliness, avoidant attachment style and anxious attachment style with relational aggression in romantic relationships. Hierarchical regression analysis found a significant effect of social support as a moderator between loneliness with relational aggression in romantic relationships. Conclusions Thus, the results show that young female adults with low level of agreeableness, high level of loneliness, avoidant attachment style and anxious attachment style are at a higher risk of engaging in relational aggression in romantic relationships. The implication of this study can help in understanding the psychosocial factors that form the basis of relational aggression in romantic relationships. Hence, the gap in knowledge warrants further research.",
+  "raw_path": "01_raw/europepmc_xml/PMC11134666.xml",
+  "text_path": "02_text/europepmc/PMC11134666.txt",
+  "raw_bytes": 170432,
+  "text_chars": 53895,
+  "raw_sha256": "f8345ac588ea424e5c6bbdc0519096ec3962906b1ba7a32bfb1facff8f0a7770",
+  "text_sha256": "cbb8f6b980e2d01e156a34c78430b809f63adefe15c2453b1385d31442db88e4",
+  "retrieved_at": "2026-10-25T13:57:50.001459+00:00"
+}

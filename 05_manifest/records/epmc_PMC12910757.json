@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12910757",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Core self-evaluation, work-family conflict, and relationship satisfaction: evidence from Croatian dual-earner couples.",
+  "authors": "Banov Trošelj K, Krapic N, Kardum I.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-04014-6",
+  "pmcid": "PMC12910757",
+  "url": "https://europepmc.org/article/PMC/PMC12910757",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12910757/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair",
+    "maintenance"
+  ],
+  "abstract": "Background Balancing work and family demands is a significant challenge for dual-earner couples, often undermining relationship satisfaction. While core self-evaluation is a well-established predictor of work-related well-being, its interpersonal effects on romantic relationships remain underexplored. Guided by conservation of resources and spillover-crossover theories, this study investigates the dyadic association between core self-evaluation and relationship satisfaction and examines the parallel mediating roles of work-to-family and family-to-work conflict. Methods Survey data from 271 Croatian dual-earner couples were analysed using an actor-partner interdependence mediation model. Both partners self-reported on the Core Self-Evaluations Scale, the Work-Family Conflict Scale, and the Perceived Relationship Quality Components Questionnaire. Results The analysis indicated significant positive actor effects: individuals' core self-evaluation was associated with their own higher relationship satisfaction. For women, this association was fully mediated by their own lower work-to-family conflict. A significant indirect partner effect also emerged: men's core self-evaluation was associated with higher relationship satisfaction in their partners via the men's lower work-to-family conflict. Family-to-work conflict was not a significant mediator, and no significant gender differences were found in the overall strength of the actor or partner effects. Conclusions The study underscores core self-evaluation may function as a psychological resource for relationship satisfaction in dual-earner couples, operating through the mitigation of work-family conflict. The findings highlight distinct gendered pathways, suggesting processes of spillover for women and crossover from men to women. Interventions aimed at strengthening personal resources and managing work-domain stressors may enhance both individual and relational well-being.",
+  "raw_path": "01_raw/europepmc_xml/PMC12910757.xml",
+  "text_path": "02_text/europepmc/PMC12910757.txt",
+  "raw_bytes": 136624,
+  "text_chars": 39133,
+  "raw_sha256": "2226eadfbe31e27b01197d9f2b1ee8b79adafa824e05a899cbd8e8e38b84f971",
+  "text_sha256": "34379b894d7a56ce570554d80961d009736c0baf896b35b16a2def8198438400",
+  "retrieved_at": "2026-10-25T14:00:23.396674+00:00"
+}

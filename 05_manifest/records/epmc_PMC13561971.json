@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13561971",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Bringing mindfulness to romantic relationships: linking attachment insecurity to young adults' relationship satisfaction.",
+  "authors": "Taşkesen N, Barutçu Yıldırım F.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1732002",
+  "pmcid": "PMC13561971",
+  "url": "https://europepmc.org/article/PMC/PMC13561971",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13561971/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Introduction Romantic relationships play a pivotal role in young adulthood, and attachment insecurity has consistently been linked to lower romantic relationship satisfaction. Mindfulness- and compassion-based resources may be associated with this link, helping to clarify how satisfaction varies among insecurely attached individuals. Building on this idea, the present study examined whether dispositional mindfulness, relationship mindfulness, and self-compassion are indirectly associated with the link between insecure attachment (anxiety and avoidance) and relationship satisfaction. Methods We recruited 521 young adults in nonmarital romantic relationships in Türkiye (70% women; M age = 22.52, SD age = 2.45, range = 19-29). Participants completed the Relationship Assessment Scale, Experiences in Close Relationships-Revised, Mindful Attention Awareness Scale, Relationship Mindfulness Measure, and Self-Compassion Scale-Short Form. Results Using structural equation modeling, we found that both attachment anxiety and avoidance were negatively associated with dispositional mindfulness (β anxiety = -0.28, β avoidance = -0.15), relationship mindfulness (β anxiety = -0.38, β avoidance = -0.13), and self-compassion (β anxiety = -0.49, β avoidance = -0.11). Higher relationship mindfulness, in turn, was linked to higher relationship satisfaction (β = 0.21). Notably, relationship mindfulness demonstrated a significant indirect association linking attachment anxiety to relationship satisfaction (β = -0.08). Dispositional mindfulness and self-compassion did not exhibit significant indirect associations. Discussion These results point to relationship mindfulness as a relevant correlate of relationship satisfaction, with a small but significant indirect association observed specifically for individuals with higher attachment anxiety, underscoring the value of context-specific mindfulness in future research.",
+  "raw_path": "01_raw/europepmc_xml/PMC13561971.xml",
+  "text_path": "02_text/europepmc/PMC13561971.txt",
+  "raw_bytes": 174184,
+  "text_chars": 55164,
+  "raw_sha256": "1ee86ee3ff9bf8f0732986f7022fc99441a2181a3635c6b19860f451b8412f8d",
+  "text_sha256": "a2129d419bad8ca57003dc76c353e258f1bfb371d57d4991c12c6d7910cbb02c",
+  "retrieved_at": "2026-10-25T13:51:58.143212+00:00"
+}

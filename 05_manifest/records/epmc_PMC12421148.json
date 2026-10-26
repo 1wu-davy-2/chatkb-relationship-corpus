@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12421148",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relations of problematic online dating app use with mental and sexual health: a cross-sectional study in Swiss university students.",
+  "authors": "Winter BL, Janousch C, Wehrli FSV, Fehr JS, Hampel B, Quednow BB.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1136/bmjph-2025-002569",
+  "pmcid": "PMC12421148",
+  "url": "https://europepmc.org/article/PMC/PMC12421148",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12421148/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "Background The rise of online dating apps (ODAs) has raised concerns about potential mental and sexual health risks, particularly among emerging adults. However, limited research exists on how problematic ODA use and health outcomes are associated during this sensitive transition phase of early adulthood. Methods Data were collected in an anonymous online survey from 923 Swiss university students (64% female) who had actively used ODA in the past 12 months. The Problematic Online Dating Apps Use Scale (PODAUS) and a variety of mental health, substance use and sexual health outcomes were assessed. Regression models were applied to examine associations between problematic ODA use and health outcomes. Measurement invariance (MI) of the PODAUS was tested across females and males. In a subsample ( N =275), the PODAUS was retested at a 14-day follow-up. Results Higher intensity of problematic ODA use was significantly associated with more symptoms of depression, impulsivity and a higher number of sexual partners. Furthermore, a higher PODAUS score was associated with higher lifetime and 12-month prevalence rates of sexually transmitted infections. PODAUS demonstrated good internal consistency (α=0.73) and acceptable retest reliability (r s =0.54**), while MI was confirmed across genders. Conclusions We identified significant associations between problematic ODA use and adverse health outcomes in a student population. Our findings highlight the necessity for targeted mental health interventions and sexual health education for university students, especially for those students exhibiting problematic ODA use patterns.",
+  "raw_path": "01_raw/europepmc_xml/PMC12421148.xml",
+  "text_path": "02_text/europepmc/PMC12421148.txt",
+  "raw_bytes": 143348,
+  "text_chars": 35016,
+  "raw_sha256": "a853bd62a6df28ad08734eff65ff489b74da9f017fa39b38981ce35235a5d3de",
+  "text_sha256": "767d0c18d92ae1941884cd57c666c8afe69f0b110393d6fda1154ce971f66235",
+  "retrieved_at": "2026-10-25T13:54:27.445696+00:00"
+}

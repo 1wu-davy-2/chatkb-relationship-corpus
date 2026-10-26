@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8273271",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relational and Growth Outcomes Following Couples Therapy With MDMA for PTSD.",
+  "authors": "Wagner AC, Liebman RE, Mithoefer AT, Mithoefer MC, Monson CM.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2021.702838",
+  "pmcid": "PMC8273271",
+  "url": "https://europepmc.org/article/PMC/PMC8273271",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8273271/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_styles"
+  ],
+  "abstract": "Healing from trauma occurs in a relational context, and the impacts of traumatic experiences that result in post-traumatic stress disorder (PTSD) go beyond the diagnosis itself. To fully understand a treatment for PTSD, understanding its impact on interpersonal, relational, and growth outcomes yields a more fulsome picture of the effects of the treatment. The current paper examines these secondary outcomes of a pilot trial of Cognitive Behavioral Conjoint Therapy (CBCT) for PTSD with MDMA. Six romantic dyads, where one partner had PTSD, undertook a course of treatment combining CBCT for PTSD with two MDMA psychotherapy sessions. Outcomes were assessed at mid-treatment, post-treatment, and 3- and 6-month follow-up. Both partners reported improvements in post-traumatic growth, relational support, and social intimacy. Partners reported reduced behavioral accommodation and conflict in the relationship, and patients with PTSD reported improved psychosocial functioning and empathic concern. These improvements were maintained throughout the follow-up period. These findings suggest that CBCT for PTSD with MDMA has significant effect on relational and growth outcomes in this pilot sample. Improvements in these domains is central to a holistic recovery from traumatic experiences, and lends support to the utility of treating PTSD dyadically.",
+  "raw_path": "01_raw/europepmc_xml/PMC8273271.xml",
+  "text_path": "02_text/europepmc/PMC8273271.txt",
+  "raw_bytes": 93985,
+  "text_chars": 28059,
+  "raw_sha256": "1510923cd9d8cc97a107e6ff7fa8d28fb8fb2bc88ca6883dd8374d09165a3a4e",
+  "text_sha256": "934c7c751cb70d28efb8b153f32cc06a60c8164982a4526393d86cac7d82e5b1",
+  "retrieved_at": "2026-10-25T15:31:17.651024+00:00"
+}

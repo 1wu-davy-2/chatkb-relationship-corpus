@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10481046",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Romance 2.0 on Instagram! \"What Type of Girlfriend Would You Date?\"",
+  "authors": "Jin SV, Ryu E, Muqaddam A.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1177/1474704919826845",
+  "pmcid": "PMC10481046",
+  "url": "https://europepmc.org/article/PMC/PMC10481046",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10481046/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Instagram selfies and groupies symbolize social media users' public display of narcissism. From an evolutionary psychological perspective on the renovated hierarchy of fundamental human motives and needs, this study examined the interaction effects of Instagram photo types (selfies, group selfies, long-shot photos taken by others, and neutral photos) and Instagram peer viewers' individual difference factors (intrasexual competition [ISC] for mates, need for popularity [NfP], loneliness, and need to belong [NtB]) on intersexual attraction. A randomized between-subjects experiment ( N = 110) was executed to see how the interaction affects the intention to date the target opposite-sex person. Multiple regression analyses confirm the moderating effects of ISC for mates, NfP, loneliness, and NtB on dating desire, among heterosexual/bisexual males exposed to female Instagram photos. Viewer characteristics moderate the influence of the potential mate's photo types on perception and dating desirability. This study makes theoretical contributions to the literature on evolutionary psychology of narcissism and the renovated pyramid of primary needs. With regard to practical implications for online dating apps/social networking sites, neutral photos are more effective to appeal to men who feel lonely and have higher need for belonging and popularity, whereas group selfies are more appealing to men who have lower ISC for mate, NtB, and NfP.",
+  "raw_path": "01_raw/europepmc_xml/PMC10481046.xml",
+  "text_path": "02_text/europepmc/PMC10481046.txt",
+  "raw_bytes": 189990,
+  "text_chars": 71252,
+  "raw_sha256": "facfdcea4f01676b6730bf6920a76d2d3809c414927c10ec0c55d020dc30c5ac",
+  "text_sha256": "0ed7da33e296c79fe363908dbf12bfa5cc67bbf5414cf3019f647d70d02f3744",
+  "retrieved_at": "2026-10-25T15:45:26.400163+00:00"
+}

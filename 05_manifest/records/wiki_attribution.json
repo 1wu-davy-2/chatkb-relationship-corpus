@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_attribution",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "归因",
+  "requested_title": "归因",
+  "url": "https://zh.wikipedia.org/wiki/%E5%BD%92%E5%9B%A0",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 归因",
+  "topics": [
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/attribution.json",
+  "text_path": "02_text/zh_wikipedia/attribution.txt",
+  "raw_bytes": 1278,
+  "text_chars": 682,
+  "text_sha256": "464a5dba76c3f62301900d49ccd81716c144710104570009a7113697f675dbeb",
+  "retrieved_at": "2026-10-25T16:22:05.213874+00:00"
+}

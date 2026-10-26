@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12173399",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Body image, obesity, and sexual coercion: Impacts on depression among students at a Nigerian university.",
+  "authors": "Akinyemi O, Ekundayo OK, Fasokun M, Ogunyankin F, Ifoto OS, Alatise OD, Eze O, Okusami MS, Hughes K, Michael M, Akinmade A.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0319308",
+  "pmcid": "PMC12173399",
+  "url": "https://europepmc.org/article/PMC/PMC12173399",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12173399/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control",
+    "sexual_coercion"
+  ],
+  "abstract": "Introduction University students face a variety of challenges, including mental health issues, which are often compounded by societal and individual factors such as body image concerns, obesity, and experiences of intimate partner violence. These factors may adversely affect their mental health and academic performance. Yet, limited research exists on studies evaluating the impact of these factors on depression in Nigerian institutions of higher learning. This study aims to address this gap by examining the impact of these factors on self-reported depression with a focus on the moderating role of sex. Objective To assess the associations between body image concerns, obesity, intimate partner violence, and sexual coercion with depression among university students in Nigeria and to explore how these relationships vary by sex. Methodology This cross-sectional study was conducted over a one-month period among university students in Nigeria. Data was collected through structured, self-administered questionnaires. The primary outcome variables were self-reported depression. Explanatory variables included body image concerns, BMI categories (obese vs. normal BMI), intimate partner violence, and sexual coercion. Sex was examined as a moderator. Inverse probability weighting was used to account for confounding variables, including age, sex, year in school, parental education, household income, smoking and alcohol consumption, and other comorbidities. Multivariable regression analyses were performed to evaluate the relationships between explanatory variables and outcomes, adjusting for potential confounders. Results The study included 501 participants, with 64.5% females and 35.6% males. Most respondents (83.4%) were aged 18-20 years. Obesity was observed in 18.6% of participants, higher in females (20.7%) than males (14.6%). Sexual coercion was reported by 10.8% (males: 5.6%; females: 13.6%), while 3.4% experienced intimate partner violence (IPV), with similar rates in both genders. Depression was reported by 33.5% of participants, more common in females (35.3%) than males (30.3%). Body image concerns increased the risk of depression by 35.3% (95% CI: 13.0%-57.7%, p = 0.002), particularly in males (26.3%, 95% CI: 16.4%-69.1%, p = 0.227). Obesity was linked to significantly higher depression rates in males (25.9%, 95% CI: 1.9%-50.0%, p = 0.035) but not in females. Sexual coercion strongly correlated with higher depression rates in both genders (males: 43.0%, 95% CI: 23.5%-62.6%, p Conclusion This study highlights the complex interplay between psychosocial factors and their impact on mental health outcomes among university students in Nigeria. Addressing these factors, particularly through gender-sensitive interventions, is crucial for improving student mental health. Policy implications The findings call for the integration of mental health and psychosocial support services in university settings, including counseling and educational programs on body image and intimate partner violence. Policymakers and university administrators should prioritize gender-sensitive approaches to address the unique challenges faced by male and female students. Additionally, strategies to promote healthy lifestyle behaviors and prevent obesity among students should be implemented to enhance their mental health and academic performance.",
+  "raw_path": "01_raw/europepmc_xml/PMC12173399.xml",
+  "text_path": "02_text/europepmc/PMC12173399.txt",
+  "raw_bytes": 177754,
+  "text_chars": 36822,
+  "raw_sha256": "e92759105bd3da4259d1b4e450409ffe01aeefe27a92478714e94f4b16842d42",
+  "text_sha256": "4fa049978a3544fc6e9d4bc37e91152652aa2dd9eb54516a651e792baf134baf",
+  "retrieved_at": "2026-10-25T15:39:59.501871+00:00"
+}

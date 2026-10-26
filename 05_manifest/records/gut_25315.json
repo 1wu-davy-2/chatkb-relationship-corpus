@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_25315",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "續子不語",
+  "gutenberg_id": "25315",
+  "url": "https://www.gutenberg.org/ebooks/25315",
+  "download_url": "https://www.gutenberg.org/cache/epub/25315/pg25315.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/25315.txt",
+  "text_path": "02_text/gutenberg/gut_25315_續子不語.txt",
+  "raw_bytes": 325633,
+  "text_chars": 100296,
+  "text_sha256": "5107ddf6f31cc17284074c6a4d8f2520b8246c86b859a039679d94a18fd24e60",
+  "retrieved_at": "2026-10-25T16:06:00.144360+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6858324",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Contrasting Computational Models of Mate Preference Integration Across 45 Countries.",
+  "authors": "Conroy-Beam D, Buss DM, Asao K, Sorokowska A, Sorokowski P, Aavik T, Akello G, Alhabahba MM, Alm C, Amjad N, Anjum A, Atama CS, Duyar DA, Ayebare R, Batres C, Bendixen M, Bensafia A, Bizumic B, Boussena M, Butovskaya M, Can S, Cantarero K, Carrier A, Cetinkaya H, Croy I, Cueto RM, Czub M, Dronova D, Dural S, Duyar I, Ertugrul B, Espinosa A, Estevan I, Esteves CS, Fang L, Frackowiak T, Garduño JC, González KU, Guemaz F, Gyuris P, Halamová M, Herak I, Horvat M, Hromatko I, Hui CM, Jaafar JL, Jiang F, Kafetsios K, Kavčič T, Kennair LEO, Kervyn N, Thi Khanh Ha T, Khilji IA, Köbis NC, Lan HM, Láng A, Lennard GR, León E, Lindholm T, Thi Linh T, Lopez G, Van Luot N, Mailhos A, Manesi Z, Martinez R, McKerchar SL, Meskó N, Misra G, Monaghan C, Mora EC, Moya-Garófano A, Musil B, Natividade JC, Niemczyk A, Nizharadze G, Oberzaucher E, Oleszkiewicz A, Omar-Fauzee MS, Onyishi IE, Özener B, Pagani AF, Pakalniskiene V, Parise M, Pazhoohi F, Pisanski A, Pisanski K, Ponciano E, Popa C, Prokop P, Rizwan M, Sainz M, Salkičević S, Sargautyte R, Sarmány-Schuller I, Schmehl S, Sharad S, Siddiqui RS, Simonetti F, Stoyanova SY, Tadinac M, Varella MAC, Vauclair CM, Vega LD, Widarini DA, Yoo G, Zaťková M, Zupančič M.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1038/s41598-019-52748-8",
+  "pmcid": "PMC6858324",
+  "url": "https://europepmc.org/article/PMC/PMC6858324",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6858324/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction_physical"
+  ],
+  "abstract": "Humans express a wide array of ideal mate preferences. Around the world, people desire romantic partners who are intelligent, healthy, kind, physically attractive, wealthy, and more. In order for these ideal preferences to guide the choice of actual romantic partners, human mating psychology must possess a means to integrate information across these many preference dimensions into summaries of the overall mate value of their potential mates. Here we explore the computational design of this mate preference integration process using a large sample of n = 14,487 people from 45 countries around the world. We combine this large cross-cultural sample with agent-based models to compare eight hypothesized models of human mating markets. Across cultures, people higher in mate value appear to experience greater power of choice on the mating market in that they set higher ideal standards, better fulfill their preferences in choice, and pair with higher mate value partners. Furthermore, we find that this cross-culturally universal pattern of mate choice is most consistent with a Euclidean model of mate preference integration.",
+  "raw_path": "01_raw/europepmc_xml/PMC6858324.xml",
+  "text_path": "02_text/europepmc/PMC6858324.txt",
+  "raw_bytes": 127980,
+  "text_chars": 56650,
+  "raw_sha256": "eec2f60eaf9b40b7f78ed4433f4659aaf73cf775ac0341bf08f0cadcd7e48d2d",
+  "text_sha256": "64452e9c258cad125325b22b9733332161e149a794a9efc2c0bdb096ec242cba",
+  "retrieved_at": "2026-10-25T15:39:22.944736+00:00"
+}

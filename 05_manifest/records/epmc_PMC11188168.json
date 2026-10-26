@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11188168",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Community led health promotion to counter stigma and increase trust amongst priority populations: lessons from the 2022-2023 UK mpox outbreak.",
+  "authors": "Biesty CP, Hemingway C, Woolgar J, Taylor K, Lawton MD, Waheed MW, Holford D, Taegtmeyer M.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s12889-024-19176-4",
+  "pmcid": "PMC11188168",
+  "url": "https://europepmc.org/article/PMC/PMC11188168",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11188168/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Background Stigma, lack of trust in authorities, and poor knowledge can prevent health-seeking behaviour, worsen physical and mental health, and undermine efforts to control transmission during disease outbreaks. These factors are particularly salient with diseases such as mpox, for which 96% of cases in the 2022-2023 UK outbreak were identified among gay, bisexual, queer and men who have sex with men (MSM). This study explored stigma and health-seeking behaviour in Liverpool through the lens of the recent mpox outbreak. Methods Primary sources of data were interviews with national and regional key informants involved in the mpox response, and participatory workshops with priority populations. Workshop recruitment targeted Grindr users (geosocial dating/hookup app) and at risk MSM; immigrant, black and ethnic minority MSM; and male sex workers in Liverpool. Data were analysed using a deductive framework approach, building on the Health Stigma and Discrimination Framework. Results Key informant interviews (n = 11) and five workshops (n = 15) were conducted. There were prevalent reports of anticipated and experienced stigma due to mpox public health messaging alongside high demand and uptake of the mpox vaccine and regular attendance at sexual health clinics. Respondents believed the limited impact of stigma on health-seeking behaviour was due to actions by the LGBTQ + community, the third sector, and local sexual health clinics. Key informants from the LGBTQ + community and primary healthcare felt their collective action to tackle mpox was undermined by central public health authorities citing under-resourcing; a reliance on goodwill; poor communication; and tokenistic engagement. Mpox communication was further challenged by a lack of evidence on disease transmission and risk. This challenge was exacerbated by the impact of the COVID-19 pandemic on the scientific community, public perceptions of infectious disease, and trust in public health authorities. Conclusions The LGBTQ + community and local sexual health clinics took crucial actions to counter stigma and support health seeking behaviour during the 2022-2023 UK mpox outbreak. Lessons from rights based and inclusive community-led approaches during outbreaks should be heeded in the UK, working towards more meaningful and timely collaboration between affected communities, primary healthcare, and regional and national public health authorities.",
+  "raw_path": "01_raw/europepmc_xml/PMC11188168.xml",
+  "text_path": "02_text/europepmc/PMC11188168.txt",
+  "raw_bytes": 122746,
+  "text_chars": 51431,
+  "raw_sha256": "0266c0e291222c57311caf95176c526fb0e54ba95581e1c2ef19014620fe5c95",
+  "text_sha256": "3052b4c56bc215d43567a14cf0d724160ad089140cdfd38ff69a2163b38e3408",
+  "retrieved_at": "2026-10-25T15:30:40.319967+00:00"
+}

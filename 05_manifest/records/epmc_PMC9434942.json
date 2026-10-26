@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9434942",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Investigating the effect of couple-centered counseling by Gottman method on the intimacy of infertile couples referring to the infertility Ward of Fatemieh hospital, Hamadan, Iran in 2020: a quasi-experimental study.",
+  "authors": "Hosseinpoor M, Masoumi SZ, Kazemi F, Soltani F, Ahmadpanah M.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1186/s12888-022-04228-z",
+  "pmcid": "PMC9434942",
+  "url": "https://europepmc.org/article/PMC/PMC9434942",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9434942/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gottman"
+  ],
+  "abstract": "Background Infertility is among the most unpleasant experiences for couples struggling with it. Therefore, coping with its associated psychological burden has become a concern in many societies due to its negative impacts on couples' lives and intimacy levels. Lack of marital intimacy leads to unfortunate consequences such as dissatisfaction with marital relationships between spouses. Therefore, these people should be encouraged to find an effective solution to cope with infertility. Regarding the importance of the emotional relationship between infertile couples and the success rate of infertility treatment, this study aims to determine the effect of couple-centered counseling by the Gottman method on marital intimacy of infertile couples referred to the infertility ward of Fatemieh Hospital in Hamadan. Method The sample of this quasi-experimental study included 60 infertile couples in the evaluation phase of treatment with primary infertility. We collected data in a referral infertility center in Hamadan (Iran) between December 2020 and May 2021. Marital intimacy was measured using Thompson & Walker's Marital Intimacy Questionnaire. At the beginning of the study, the intervention and control groups completed this questionnaire. The intervention group received Gottman couple-centered counseling based on GATHER principles in 8 sessions. The groups completed the questionnaires 4 weeks after the last intervention session again. If the distribution was normal, the ANCOVA test was used to evaluate the differences between the two groups. Intra-group comparisons were performed using paired t-test, and intergroup comparisons were performed using an independent t-test. Results The mean score of female intimacy increased significantly after the intervention (P = 0.009). There was no significant difference in socio-demographic characteristics between groups (P Conclusion The findings support the effective role of Gottman's couple-centered counseling in increasing marital intimacy by raising couples' awareness about the principles of proper relationships between them. This outcome suggests that counseling with couples, especially in critical life situations, can improve their relationship in the infertility treatment process and prevent emotional divorce and other negative impacts on their lives. Trial registration IRCT Registration Number IR.UMSHA.REC.1399.535, registered on 21/09/2020.",
+  "raw_path": "01_raw/europepmc_xml/PMC9434942.xml",
+  "text_path": "02_text/europepmc/PMC9434942.txt",
+  "raw_bytes": 84027,
+  "text_chars": 32349,
+  "raw_sha256": "4b400f343eb3a2601662bd300c944f8cc1215b51ddab3eadb52a7d06d374db8d",
+  "text_sha256": "dddaf9b84227e4c25e76d27e4ba44ea7cee0234b692ee2b288179ffc88c5dc0d",
+  "retrieved_at": "2026-10-25T13:50:40.110036+00:00"
+}

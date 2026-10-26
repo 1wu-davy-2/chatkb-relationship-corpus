@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12886565",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A longitudinal mediation analysis of relationship catastrophizing, perceived partner support, and sexual well-being in couples seeking medically assisted reproduction.",
+  "authors": "Wang GA, Péloquin K, Rossi MA, MacDonald QM, Brassard A, Bergeron S, Bouzayen R, Rosen NO.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/13591053251351686",
+  "pmcid": "PMC12886565",
+  "url": "https://europepmc.org/article/PMC/PMC12886565",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12886565/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction"
+  ],
+  "abstract": "Couples navigating medically assisted reproduction (MAR) may respond to relationship stressors by catastrophizing. Catastrophizers may be more likely to seek support indirectly; partners may miss these cues such that their responses are seen as unsupportive, which may impact sexual desire and distress. We investigated whether relationship catastrophizing predicted lower sexual desire and greater sexual distress, via lower perceived partner support, across 1 year. Couples ( N = 314) seeking/undergoing MAR completed surveys at baseline, 6, and 12 months. Catastrophizing predicted decreases in both partners' perceived support, and lower perceived support predicted decreases in one's own downstream sexual distress, but there were no effects for sexual desire. Although we found no evidence of longitudinal mediation, at baseline, greater catastrophizing was associated with lower perceived support, which was in turn linked to lower desire and greater distress. Interventions targeting relationship catastrophizing and improving partner support may help couples navigate the challenges of MAR.",
+  "raw_path": "01_raw/europepmc_xml/PMC12886565.xml",
+  "text_path": "02_text/europepmc/PMC12886565.txt",
+  "raw_bytes": 135997,
+  "text_chars": 46315,
+  "raw_sha256": "1675f02e3c4ddaf76423a3ab8d5529a9e6795b544eaf24d56e7d1f941518d8af",
+  "text_sha256": "df3c0546235887db6282d1bbfb7262bdcb3cf26bd9b74b45e9482358157defc0",
+  "retrieved_at": "2026-10-25T15:31:12.821787+00:00"
+}

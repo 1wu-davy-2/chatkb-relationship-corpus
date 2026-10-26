@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13601687",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Do Social Judgements Made From Facial Photographs Predict Those Made In-Person?",
+  "authors": "Lee AJ, Zhao AAZ, Sidari MJ, Zietsch BP.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/17470218261434907",
+  "pmcid": "PMC13601687",
+  "url": "https://europepmc.org/article/PMC/PMC13601687",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13601687/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "People form rapid social judgements of others based on facial appearance. However, research to date relies on highly standardised photographs. We examined whether social judgements made from photographs predict judgements by different raters after an in-person interaction with the photographed persons. In a 'speed-dating' study, 689 participants (344 males, 345 females) rated each other on several traits after a 3-min interaction. Participants also provided facial photographs, which were rated on the same traits by a separate sample of 356 raters. Physical traits, such as attractiveness and athleticism, showed strong correspondence between face-only and in-person ratings. However, we also found correspondence between some non-physical traits, including creativity and intelligence for males, and confidence and extraversion for females. Correspondence between face-only and in-person judgements are required if personality traits can be accurately inferred from faces or if faces have lasting effects on interpersonal perceptions. Our findings have important implications regarding the ecological validity of research based solely on facial photographs.",
+  "raw_path": "01_raw/europepmc_xml/PMC13601687.xml",
+  "text_path": "02_text/europepmc/PMC13601687.txt",
+  "raw_bytes": 71184,
+  "text_chars": 20114,
+  "raw_sha256": "194b04a91169d3663c71576d0cf881884f527a744c0c0900a2f4e79a556bf2cb",
+  "text_sha256": "644313a1b0d73f36b3c2d96b5e775aa3b6234640ab0de60ceed0799567fbe864",
+  "retrieved_at": "2026-10-25T13:57:17.390489+00:00"
+}

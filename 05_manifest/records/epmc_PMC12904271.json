@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12904271",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mobile dating app use and sexual risk behavior among Brazilian undergraduate students.",
+  "authors": "Martinez EZ, Frazatto VSP, Prudencio JLG, Galdino G, Zucoloto ML.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.47626/2237-6089-2023-0746",
+  "pmcid": "PMC12904271",
+  "url": "https://europepmc.org/article/PMC/PMC12904271",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12904271/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "Objective One of the most popular ways to meet new people in the modern world is through dating apps. However, their use may facilitate casual sexual encounters and quick partner changes, both of which are associated with endangering sexual health in different populations. The objective of this study is to describe the use of mobile dating apps among undergraduate students at a major Brazilian public university and investigate its associations with sexual risk behaviors and sociodemographic factors. Methods This is a cross-sectional study based on a web survey. The link for participation was made available to students enrolled in undergraduate courses at the eight units of Universidade de São Paulo, Campus Ribeirão Preto. Use of dating apps, sociodemographic/behavioral profile, and sexual risk behaviors were among the variables studied. The distribution of app users was calculated for each variable of interest, and prevalence ratios (PRs) were used for comparisons. PRs were reported with 95% confidence intervals (95%CI). Results A total of 487 students participated, with 32.9% reporting using dating apps. Male participants were more likely to use apps. Use of dating apps was associated with having multiple sexual partners and risky behaviors such as smoking, alcohol consumption, and substance abuse. Conclusion It is critical to describe the pattern of app use by undergraduate students and understand its influence on sexual health in order to avoid stigmatizing users. Additionally, this information can be helpful to guide the creation of strategies for using these apps as resources to promote health, such as through sharing information regarding sexual health.",
+  "raw_path": "01_raw/europepmc_xml/PMC12904271.xml",
+  "text_path": "02_text/europepmc/PMC12904271.txt",
+  "raw_bytes": 79298,
+  "text_chars": 15665,
+  "raw_sha256": "bb69a51981d75d8eb480472956da2b44ee8a40cc99a330240a73d10bef37ba2b",
+  "text_sha256": "625692f186c5839ffe225a16cc081ba35d2baef5c90237fbcdb643c2e1552aa1",
+  "retrieved_at": "2026-10-25T15:40:42.252682+00:00"
+}

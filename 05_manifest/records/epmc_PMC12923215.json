@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12923215",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual functioning among spouses of individuals with schizophrenia: A clinical perspective.",
+  "authors": "Prajapati JM, Rure D, Mishra DK, Ahuja SK, Mishra N, Singh A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.4103/ipj.ipj_106_25",
+  "pmcid": "PMC12923215",
+  "url": "https://europepmc.org/article/PMC/PMC12923215",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12923215/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_desire_gap"
+  ],
+  "abstract": "Background Schizophrenia impacts not only patients but also their intimate partners. Sexual dysfunction (SD) among spouses is a critical yet underexplored consequence of this caregiving burden. Aim To compare sexual functioning in spouses of individuals with schizophrenia versus control spouses. Materials and methods A case-control study was conducted involving 120 heterosexual couples-60 with one partner diagnosed with schizophrenia and 60 control couples. Sexual functioning was assessed using the Changes in Sexual Functioning Questionnaire (CSFQ), while symptom severity in patients was measured using the Positive and Negative Syndrome Scale (PANSS). Statistical analyses included t-tests, Chi-square tests, and correlation analysis. Results SD was significantly more prevalent among spouses of schizophrenia patients (50% males, 70% females) versus controls (33% and 32%, respectively). Spouses of patients had lower CSFQ scores across all domains. Negative symptoms in patients showed a moderate negative correlation with sexual desire in female spouses. Gender differences were significant, with female spouses reporting greater impairment. Conclusions Spouses of individuals with schizophrenia experience higher rates of sexual dysfunction, which are influenced by the clinical profile of the patient and caregiving burden.",
+  "raw_path": "01_raw/europepmc_xml/PMC12923215.xml",
+  "text_path": "02_text/europepmc/PMC12923215.txt",
+  "raw_bytes": 102269,
+  "text_chars": 19485,
+  "raw_sha256": "73710ce8b448d6dd04f2259ea031b4787c76446d92aee3dd7c80163225f1e150",
+  "text_sha256": "dfd40adc372ac82034b691cf950345fb7b919ede8baf5cd5a8a7faf997a2ceef",
+  "retrieved_at": "2026-10-26T12:54:16.752582+00:00"
+}

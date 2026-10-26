@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_24264",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "紅樓夢",
+  "gutenberg_id": "24264",
+  "url": "https://www.gutenberg.org/ebooks/24264",
+  "download_url": "https://www.gutenberg.org/cache/epub/24264/pg24264.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/24264.txt",
+  "text_path": "02_text/gutenberg/gut_24264_紅樓夢.txt",
+  "raw_bytes": 2663455,
+  "text_chars": 900796,
+  "text_sha256": "d55268979106a219302884f8190208fd19479830f6d5a7f4e846507cba5f6e7f",
+  "retrieved_at": "2026-10-25T15:45:02.947286+00:00"
+}

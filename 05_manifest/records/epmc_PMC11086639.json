@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11086639",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Emophilia: psychometric properties of the emotional promiscuity scale and its association with personality traits, unfaithfulness, and romantic relationships in a Scandinavian sample.",
+  "authors": "Røed SE, Nærland RK, Strat M, Pallesen S, Erevik EK.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2024.1265247",
+  "pmcid": "PMC11086639",
+  "url": "https://europepmc.org/article/PMC/PMC11086639",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11086639/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex",
+    "personality"
+  ],
+  "abstract": "Emophilia is a suggested stable phenomenon referring to how often and easily an individual falls in love (Jones, 2011). The current study investigated the psychometric properties of the Emotional Promiscuity Scale (EPS, i.e., a measure of emophilia) and its association with personality traits, romantic relationships, and unfaithfulness in a Scandinavian sample. The sample consisted of 2,607 participants, who were recruited through Norwegian and Swedish newspapers. Descriptive analyses of the EPS and a confirmatory factor analysis (CFA) to verify the previously obtained two-factor structure were conducted. Correlations between emophilia and the Big Five and Dark Triad traits were calculated to investigate the discriminative validity of the EPS. Lastly, negative binomial regression analyses were run in which emophilia comprised the independent variable and the number of romantic relationships and number of times being unfaithful constituted the dependent variables. The EPS had satisfactory internal reliability and the responses to the items were normally distributed. The CFA indicated a two-factor structure, although the two factors correlated highly, justifying collapsing them into one dimension. Emophilia showed satisfactory discriminant validity ( r < 00.40) against the personality traits included. Lastly, emophilia was positively associated with the number of romantic relationships and times being unfaithful. Future research should aim to improve our understanding of the psychological and behavioral aspects of emophilia.",
+  "raw_path": "01_raw/europepmc_xml/PMC11086639.xml",
+  "text_path": "02_text/europepmc/PMC11086639.txt",
+  "raw_bytes": 119872,
+  "text_chars": 38956,
+  "raw_sha256": "033f7d242303374c2406e333ba6cd5d9d5fd004f25cb7e794e56ffbab734a665",
+  "text_sha256": "4393255874135759b44c05589f78ccec2cbd9602338f7c645f61f691c79709c8",
+  "retrieved_at": "2026-10-25T15:36:32.591415+00:00"
+}

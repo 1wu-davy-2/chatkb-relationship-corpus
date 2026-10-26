@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12888536",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Effects of generic medical communication training on physiotherapy students' ability to communicate in movement-based clinical scenarios: a cross-sectional study.",
+  "authors": "Yanase Y, Hiragi S, Kawahara Y.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12909-025-08560-2",
+  "pmcid": "PMC12888536",
+  "url": "https://europepmc.org/article/PMC/PMC12888536",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12888536/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "communication_training"
+  ],
+  "abstract": "BACKGROUND: Healthcare professionals have recognized medical communication (MC) skills as essential. Some common and important factors support effective MC. Physiotherapists (PTs) communicate with patients about a wide range of topics—including functioning, contextual factors, and healthy lifestyle behaviors. In movement-based settings, PTs and students may face challenges in communicating effectively with patients. However, it remains unclear how best to teach such communication techniques in physiotherapy training curricula. This study aimed to determine the effect of learning MC skills—based on an Objective Structured Clinical Examination (OSCE)—on the acquisition of communication with movement (CWM) skills in physiotherapy. METHOD: Students who had learned MC techniques based on the OSCE (n = 15), students who had not learned them (n = 15), and PTs (n = 15) were recruited. MC skills and CWM skills, as defined in this study, were assessed and compared between the groups. Correspondence analysis was performed on the conversational content in movement situations, and the frequently used distinguishing phrases used by each group were compared. RESULT: The learned group scored significantly higher than both the unlearned student group and the Physiotherapist (PT) group on the total score for MC skills. There was no significant difference between the learned and unlearned student groups in the total score for CWM skills. The learned group scored significantly lower than the PT group on physical contact, moving around the patient and explanation of test results. Characteristic words identified in the correspondence analysis scatterplots were “date of birth,” “name,” and “answer please” for the learned group, and “dull” for the PT group. CONCLUSION: The effect of learning MC techniques based on the OSCE on the acquisition of CWM skills appears limited. Through learning MC techniques, participants acquired skills for patient confirmation and polite conversation in movement-based interactions. However, essential skills related to physical contact, moving around the patient, and explaining test results—key components of physiotherapy—were difficult to acquire. This study suggests that students who have learned general MC techniques may not yet acquire CWM skills prior to clinical practice. Future studies should explore effective ways to teach CWM skills to students.",
+  "raw_path": "01_raw/europepmc_xml/PMC12888536.xml",
+  "text_path": "02_text/europepmc/PMC12888536.txt",
+  "raw_bytes": 105093,
+  "text_chars": 43406,
+  "raw_sha256": "b528522c64a116f2f823d28ac07f777f087fa85f1a572a5c083ddb9fd8e3e206",
+  "text_sha256": "678681e7fb298c3c13395d6fc7dbaaaa4a3646d5f0b4ce766c0f80d7223f1495",
+  "retrieved_at": "2026-10-25T15:29:01.333697+00:00"
+}

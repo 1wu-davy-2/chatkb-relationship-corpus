@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12382637",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Theory of Relationship Sabotage: A Preliminary Evaluation of Conceptual Models Expanding on Attachment and Goal-Orientation Frameworks.",
+  "authors": "Peel R.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15081091",
+  "pmcid": "PMC12382637",
+  "url": "https://europepmc.org/article/PMC/PMC12382637",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12382637/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "Introduction The current study proposed the best model to explain relationship sabotage by comparing three competing conceptual models, using attachment and goal-orientation frameworks. Up until now, the literature had not comprehensively defined and modelled which defensive strategies commonly lead to relationship sabotage. Methods A sample of 436 participants was recruited for the current study. Analyses were conducted using structural equation modelling over two analytical steps. First, a series of confirmatory analyses were conducted to test how the predicted latent variables fit in one-congeneric models. Secondly, three full models were tested. Results Results showed the best model for relationship sabotage is non-recursive, and it does involve reciprocal effects between insecure attachment styles, relationship factors (i.e., perceived relationship quality and perceived relationship stress), and defensive strategies commonly observed in relationship sabotage (i.e., defensiveness, trust difficulty, and lack of relationship skills). Conclusions The best model for relationship sabotage is not linear. While insecure attachment can lead to relationship sabotage, sabotaging relationships can reinforce existing insecure attachment styles and/or establish new vulnerable styles. Further, defensive strategies can influence how people perceive quality and stress in their relationship, which means that individuals' own attitudes and behaviours might be preventing them from starting and maintaining fulfilling intimate relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC12382637.xml",
+  "text_path": "02_text/europepmc/PMC12382637.txt",
+  "raw_bytes": 178423,
+  "text_chars": 48985,
+  "raw_sha256": "67403cb27390e4a6852afd727ec2f21c89b85bc8eaf5aac8a929610a2a417ae1",
+  "text_sha256": "d8a8f633a2e6d24ba7f24d1631cb018da4f576e039696a50cd8be5a99f58eee7",
+  "retrieved_at": "2026-10-25T15:38:09.960032+00:00"
+}

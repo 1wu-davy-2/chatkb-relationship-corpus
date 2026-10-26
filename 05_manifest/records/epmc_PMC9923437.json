@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9923437",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The role of gender and romantic jealousy in intimate partner violence against women, a mixed-methods study in Northern Ecuador.",
+  "authors": "Buller AM, Pichon M, Chevalier C, Treves-Kagan S.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1080/13691058.2022.2031299",
+  "pmcid": "PMC9923437",
+  "url": "https://europepmc.org/article/PMC/PMC9923437",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9923437/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Male romantic jealousy is a commonly cited driver of intimate partner violence against women. An in-depth, contextualised understanding of the pathways and mechanisms from jealousy to intimate partner violence is, however, needed to inform programmes and interventions. We triangulated data from 48 interviews, eight focus groups and 1216 survey findings from low-income married women and men in northern Ecuador. Male jealousy was associated with controlling behaviours (aOR: 14.47, 95% CI: 9.47, 22.12) and sexual intimate partner violence (aOR: 2.4, 95% CI: 1.12, 5.12). Controlling behaviours were associated with physical and sexual intimate partner violence (aOR: 2.16, 95% CI: 1.21, 3.84). Qualitatively we found that most respondents framed jealousy within a discourse of love, and three triggers of male jealousy leading to intimate partner violence were identified: (1) community gossip, which acted as a mechanism of community control over women's movements and sexuality; (2) women joining the labour force, which was quantitatively associated with intimate partner violence and partially mediated by jealousy; and (3) women's refusal to have sex, which could lead husbands to coerce sex through accusations of infidelity. Gender-transformative interventions at the individual, couple and community level providing models of alternative masculinities and femininities may offer promise in reducing intimate partner violence in Ecuador. Importantly, future economic empowerment interventions should address jealousy to mitigate potential intimate partner violence backlash.",
+  "raw_path": "01_raw/europepmc_xml/PMC9923437.xml",
+  "text_path": "02_text/europepmc/PMC9923437.txt",
+  "raw_bytes": 107600,
+  "text_chars": 37659,
+  "raw_sha256": "7a53ab61251ea8e01af2e7e734a3aaac3d605a1e8e79e26939cc4cc067f6eb57",
+  "text_sha256": "e7b8dd10923b225e9cbc3127ab74a179471e8aa874d786994cf852c94150dcdf",
+  "retrieved_at": "2026-10-25T15:39:24.253340+00:00"
+}

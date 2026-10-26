@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8062713",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "It Takes Two to Tango: Development, Validation, and Personality Correlates of the Acceptance of Sugar Relationships in Older Men and Women Scale (ASR-OMWS).",
+  "authors": "Láng A, Birkás B, Zsidó AN, Ipolyi D, Meskó N.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2021.592138",
+  "pmcid": "PMC8062713",
+  "url": "https://europepmc.org/article/PMC/PMC8062713",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8062713/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Sugar relationships can be considered contemporary forms of transactional sex, that is, offering sexual services for material resources or other benefits. Considering the common age differences in these relationships, sugar relationships might be of relevance for older adults as well on the mating market. As a sequel to Birkás et al. (2020), in the present study, an attitude scale was developed to assess older women's and men's acceptance of sugar relationships. We also explored whether the acceptance of sugar relationships was associated with love styles, sociosexual orientation, sexual motivation, and certain socially aversive personality traits. In two online studies with a total number of 836 participants ( N = 277 women and 559 men), the results showed that the Acceptance of Sugar Relationships in Older Men and Women Scale (ASR-OMWS) proved to be a reliable and conceptually valid measure of older individuals' attitude toward sugar relationships. A more accepting attitude toward sugar relationships was found to be associated with more unrestricted sociosexuality, preference to engage in playful love relationships and more self-focused sexual motivation (study 1; N = 481, 167 women and 314 men), and with more pronounced Dark Triad and borderline traits (study 2; N = 355, 110 women and 245 men). Our findings are discussed in an evolutionary framework.",
+  "raw_path": "01_raw/europepmc_xml/PMC8062713.xml",
+  "text_path": "02_text/europepmc/PMC8062713.txt",
+  "raw_bytes": 83718,
+  "text_chars": 25401,
+  "raw_sha256": "0855e3cc3b187689d86dd97afde6b8ce74e9e422752b3c080c678887ccb3b8ad",
+  "text_sha256": "8d5d99eb65d415cf276b4df02de8b68f058dfc161f015cc02e869ae6b2bb696d",
+  "retrieved_at": "2026-10-26T13:14:16.048759+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_52323",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "唐诗三百首",
+  "gutenberg_id": "52323",
+  "url": "https://www.gutenberg.org/ebooks/52323",
+  "download_url": "https://www.gutenberg.org/cache/epub/52323/pg52323.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/52323.txt",
+  "text_path": "02_text/gutenberg/gut_52323_唐诗三百首.txt",
+  "raw_bytes": 107712,
+  "text_chars": 31808,
+  "text_sha256": "161e3aa04ca82f631f42adac045db6239abfba3f1a8d3a15d1cacfbdd4855e2f",
+  "retrieved_at": "2026-10-25T15:45:50.657104+00:00"
+}

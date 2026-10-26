@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13597548",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Critical Role of Empathy Over Dominance/Nurturance in Predicting Sexual Aggression in the Confluence Model.",
+  "authors": "Herzberg PY, Brunner H, Wildfang S, Troche SJ.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s10508-026-03510-5",
+  "pmcid": "PMC13597548",
+  "url": "https://europepmc.org/article/PMC/PMC13597548",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13597548/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "The confluence model of sexual aggression identifies hostile masculinity and impersonal sexuality as core risk factors, with their interaction amplified in men high in dominance and low in nurturance; empathy has been proposed as the mechanism underlying this moderation. The present study tested whether empathy accounts for the effects of dominance/nurturance or whether dominance/nurturance contributes unique variance beyond empathy. In an online sample of 300 heterosexual men (age 18-65 years), sexual aggression was assessed with the Sexual Experience Survey, hostile masculinity with the Hostile Sexism Scale of the Ambivalent Sexism Inventory, impersonal sexuality with the Sociosexual Orientation Inventory Revised, dominance/nurturance via the difference score of the Bem Sex-Role Inventory Revised, and empathy with the Interpersonal Reactivity Index. Three latent negative binomial regression models were compared using structural equation modeling. Hostile masculinity and impersonal sexuality consistently predicted higher sexual aggression counts; empathy was a significant negative predictor, whereas the dominance/nurturance difference score was not. No latent interactions reached significance, but complementary response surface analysis confirmed a synergistic hostile masculinity × impersonal sexuality effect. Results indicate that empathy, not dominance/nurturance, attenuates sexual aggression risk within the confluence model. Findings recommend replacing dominance/nurturance with empathy in future confluence model research and prioritizing empathy-enhancing components in prevention programs targeting high-risk men.",
+  "raw_path": "01_raw/europepmc_xml/PMC13597548.xml",
+  "text_path": "02_text/europepmc/PMC13597548.txt",
+  "raw_bytes": 147203,
+  "text_chars": 54253,
+  "raw_sha256": "27000d12fd5e3517da7c3041afe05faba27d4f9df69326ff80c1fe47e5380951",
+  "text_sha256": "86c67dd2fd3da39dbc347cb022b3538c253f3852286314a63847999ad6b1992a",
+  "retrieved_at": "2026-10-26T13:08:19.269810+00:00"
+}

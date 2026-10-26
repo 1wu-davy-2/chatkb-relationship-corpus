@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12654950",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Identification of an innexin required for termination of the asexual state in planarian reproductive switching.",
+  "authors": "Kumagai N, Kuroda M, Hanai T, Fujita M, Hino T, Yorimoto S, Manta S, Nakagawa S, Yokoyama M, Tajima L, Ito R, Yamada H, Miura K, Kashima M, Yamaguchi K, Shigenobu S, Furukawa R, Sekii K, Kobayashi K.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1371/journal.pgen.1011944",
+  "pmcid": "PMC12654950",
+  "url": "https://europepmc.org/article/PMC/PMC12654950",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12654950/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "asexuality_celibacy"
+  ],
+  "abstract": "Many metazoans switch between asexual and sexual reproduction based on environmental changes, life cycle phases, or both. This reproductive strategy enables them to benefit from the features of both reproductive modes. In general, asexual reproduction is broadly divided into parthenogenesis and vegetative reproduction. As in parthenogenesis, individuals develop ovaries and lay eggs, the most significant event in switching from parthenogenesis to sexual reproduction is the production of testes. Meanwhile, in vegetative reproduction, individuals do not need germ cells themselves. Thus, they must post-embryonically develop and maintain germ cells derived from pluripotent cells as they switch from vegetative to sexual reproduction. The complicated mechanisms for controlling the postembryonic reproductive development remain unknown. The planarian Dugesia ryukyuensis can switch from vegetative to sexual reproduction by stimulating bioactive compounds called sex-inducing substances, which are widely conserved in Platyhelminthes, including parasitic flatworms. The two reproductive modes are facilitated by the presence of adult pluripotent stem cells, which generate any type of somatic tissue in the asexual state and produce and maintain hermaphroditic reproductive organs in the sexual state. In this study, using RNA sequencing analysis in experimental sexualization by sex-inducing substances, we identified four essential genes for sexualization. A common feature following the knockdown of the four essential genes was a blockage of testicular differentiation. One of the four essential genes was a gap junction gene, Dr-siri (Dugesia ryukyuensis-sexual induction-related innexin). We suggest that the establishment of a testicular stem cell niche supported by Dr-siri protein is responsible for the breakthrough of dormancy in postembryonic reproductive development in planarian reproductive switching. Our findings suggest that the production of testes might be crucial for even switching from vegetative to sexual reproduction.",
+  "raw_path": "01_raw/europepmc_xml/PMC12654950.xml",
+  "text_path": "02_text/europepmc/PMC12654950.txt",
+  "raw_bytes": 381175,
+  "text_chars": 166797,
+  "raw_sha256": "6f6f51b730100f87f60bfa768f9c1b91a0fa4d6e7015cd044ec155fa073c18bc",
+  "text_sha256": "9ff08dbe991f2604f4ff7d37ef8d84249421449b9b2aa22d351be33a833fa94f",
+  "retrieved_at": "2026-10-26T13:14:40.112828+00:00"
+}

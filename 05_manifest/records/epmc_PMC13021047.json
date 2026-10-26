@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13021047",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "My willpower belief and yours: Investigating dyadic associations between willpower beliefs, social support, and relationship satisfaction in couples.",
+  "authors": "Francis Z, Weidmann R, Bühler JL, Burriss RP, Wünsche J, Grob A, Job V.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/08902070231220416",
+  "pmcid": "PMC13021047",
+  "url": "https://europepmc.org/article/PMC/PMC13021047",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13021047/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "A limited willpower belief describes the belief that one's willpower is depletable and that mental exertion results in a diminished self-control capacity. Limited willpower beliefs have been associated with detrimental personal outcomes (such as poorer goal progress) and may even be related to a lower quality of one's romantic relationship. With dyadic survey data from 745 couples across 14 days, we investigated how willpower beliefs of both partners were associated with their provision and receipt of social support, as well as their relationship satisfaction. We also examined whether partners with more similar willpower beliefs tended to have higher relationship satisfaction. A limited willpower belief was indeed associated with less provision of both instrumental and emotional support, according to both partners' perspectives, and was also associated with a lower likelihood of receiving instrumental support. A limited willpower belief negatively correlated with one's own relationship satisfaction, but partner effects were not significant. While couples' willpower beliefs were more similar to each other than would be expected by chance, degree of similarity in willpower beliefs was not related to relationship satisfaction. Future research should examine the mechanisms via which willpower beliefs are involved in romantic relationships, potentially through impacting the exchange of support.",
+  "raw_path": "01_raw/europepmc_xml/PMC13021047.xml",
+  "text_path": "02_text/europepmc/PMC13021047.txt",
+  "raw_bytes": 189012,
+  "text_chars": 57708,
+  "raw_sha256": "16a4af098a3792ea59addea52d84bb6ed48082c03f27c008d5ccbc179074d5da",
+  "text_sha256": "9348c51f08b3891ad84d1196d02c05ea1f3404ad4a49a7c74e3d014e15fea16e",
+  "retrieved_at": "2026-10-25T15:48:58.034468+00:00"
+}

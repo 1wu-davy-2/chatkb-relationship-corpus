@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_asexuality",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "無性戀",
+  "requested_title": "无性恋",
+  "url": "https://zh.wikipedia.org/wiki/%E7%84%A1%E6%80%A7%E6%88%80",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 無性戀",
+  "topics": [
+    "sexuality",
+    "identity"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/asexuality.json",
+  "text_path": "02_text/zh_wikipedia/asexuality.txt",
+  "raw_bytes": 11452,
+  "text_chars": 4584,
+  "text_sha256": "e78f177e9dca07545c241879752c9537ce57f9249fc5556c588cdcc3fee33e1f",
+  "retrieved_at": "2026-10-26T13:00:59.886124+00:00"
+}

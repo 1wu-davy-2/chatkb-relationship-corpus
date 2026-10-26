@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_online_dating",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "網路友誼",
+  "requested_title": "網路交友",
+  "url": "https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E5%8F%8B%E8%AA%BC",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "online_dating",
+    "technology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/online_dating.json",
+  "text_path": "02_text/zh_wikipedia/online_dating.txt",
+  "raw_bytes": 3215,
+  "text_chars": 1266,
+  "text_sha256": "71aa9aac8124218f15cb8afe7b1344943c4198d01738436efaeb854bb936a91e",
+  "retrieved_at": "2026-10-25T15:35:08.350617+00:00"
+}

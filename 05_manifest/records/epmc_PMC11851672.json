@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11851672",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Impact of Perpetrator and Victim Gender on Perceptions of Stalking Severity.",
+  "authors": "Brenik M, Tuluceanu AC, Smillie E, Carpes Barros Cassal L, Mead C, Mojtahedi D.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15020120",
+  "pmcid": "PMC11851672",
+  "url": "https://europepmc.org/article/PMC/PMC11851672",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11851672/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "Many individuals will dismiss the seriousness of ex-partner stalking offences, often as a result of inaccurate and problematic beliefs about the offence (stalking myths). However, to date, stalking myth acceptance measurements have only considered attitudes about stereotypical stalking (male stalking a female). The current research considered whether inaccurate and problematic perceptions of stalking were dependent on the gender and sexuality of the perpetrator, victim, and participant. Additionally, it examined whether existing stalking myth acceptance scales measuring stereotypical stalking attitudes would predict perceptions of stalking incidents that involved female stalkers and/or male victims. Participants ( N = 336) completed the stalking myth acceptance scale and then responded to a series of questions measuring their perceptions towards a stalking vignette. An independent groups design was used to manipulate the gender of the stalker and victim. The need for police intervention was greatest for incidents involving a male stalker and a female victim. Female victims of male stalking were predicted as being the most fearful, whilst male victims of female stalking were rated as least likely to be fearful. Heterosexual males and participants with minority sexual orientations were also more likely to identify the perpetrator's actions as stalking. Finally, the SMA scales predicted participants' attitudes for stereotypical stalking cases but not for the other scenarios. The findings demonstrate that gender plays a significant role in stalking perceptions and highlights the need for more inclusive SMA measurements to consider problematic attitudes towards non-stereotypical stalking.",
+  "raw_path": "01_raw/europepmc_xml/PMC11851672.xml",
+  "text_path": "02_text/europepmc/PMC11851672.txt",
+  "raw_bytes": 131688,
+  "text_chars": 48705,
+  "raw_sha256": "fb27ab3d1a3310bb621b735a257cb4b57d136b95301c2b12a753c345e6e93642",
+  "text_sha256": "01c81f171257c5d8d711f3d11a41561699c56a25aad468d737a2dcd1de2d43ab",
+  "retrieved_at": "2026-10-25T15:30:15.103435+00:00"
+}

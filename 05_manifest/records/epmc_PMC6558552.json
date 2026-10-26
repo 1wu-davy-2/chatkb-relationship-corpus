@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6558552",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marriage Aspiration, Perceived Marriage Squeeze, and Anomie Among Unmarried Rural Male Migrant Workers in China.",
+  "authors": "Li W, Li S, Feldman MW.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1177/1557988319856170",
+  "pmcid": "PMC6558552",
+  "url": "https://europepmc.org/article/PMC/PMC6558552",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6558552/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "china_marriage"
+  ],
+  "abstract": "Using data from a survey of rural-urban migrants conducted in Xiamen City, China, during 2009, this study explores determinants of anomie among unmarried rural male migrant workers in the context of China's gender imbalance. Results indicate that the perceived marriage squeeze has exerted direct effects on anomie, and marriage aspiration has indirect effects on anomie among rural male migrant workers. The perceived marriage squeeze also has a mediating effect between marriage aspiration and anomie among unmarried rural male migrant workers. Social integration in the destination city is also a determinant of anomie among these unmarried migrant workers.",
+  "raw_path": "01_raw/europepmc_xml/PMC6558552.xml",
+  "text_path": "02_text/europepmc/PMC6558552.txt",
+  "raw_bytes": 162330,
+  "text_chars": 53075,
+  "raw_sha256": "8f17d776911dfbbeffd3d66e824a8b16ce34525f23b67604cb65ef0d9da86173",
+  "text_sha256": "583342729a2f056e7f0f05139d77746acdcf956bda6daeb1fbbaf273230455cb",
+  "retrieved_at": "2026-10-25T13:56:56.040211+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7854030",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Moderated Mediation Analysis of Condom Negotiation and Sexual Orientation on the Relationship Between Sexual Coercion and Condom Use in Chinese Young Women: Cross-Sectional Study.",
+  "authors": "Zhang W, Choi EPH, Fong DY, Wong JY.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.2196/24269",
+  "pmcid": "PMC7854030",
+  "url": "https://europepmc.org/article/PMC/PMC7854030",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7854030/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "Background The high prevalence of sexual coercion against young women has become a significant public health issue in China and other regions around the world. Young women are also especially vulnerable to engage in inconsistent condom use because of low sexual control. Although the relationship between sexual coercion and condom use has been widely demonstrated, the mechanism of this relationship is still unclear. Objective The objective of this study was to test condom negotiation as a mediator of the relationship between sexual coercion and condom use in young Chinese women and to investigate whether sexual orientation is a moderator. Methods Data were collected using web-based questionnaires and a total of 402 young Chinese women were included in the analysis. Sexual coercion was measured using a subscale of the Revised Conflict Tactics Scales and condom negotiation was measured using a subscale of the UCLA Multidimensional Condom Attitudes Scale. Sexual orientation was assessed using an item adopted from a previous study and condom use was calculated by the total number of times condoms were used divided by the total number of times sexual intercourse was engaged in during the past 3 months. Moderated mediation analyses were conducted with sexual coercion as the independent variable, condom use consistency as the dependent variable, condom negotiation as the mediator variable, and sexual orientation as a moderator. Results The moderated mediation analysis indicated that the relationship between sexual coercion and condom use was significantly mediated by condom negotiation and moderated by sexual orientation. The indirect effect of condom negotiation was significant in heterosexual women (indirect effect: -0.80, 95% boot CI -1.67 to -0.36) but not in sexual minority women (indirect effect: -0.33, 95% boot CI -0.86 to 0.31). Conclusions The results showed that sexual orientation meaningfully affects the relationship between sexual coercion and condom negotiation. The difference in the mechanism of the relation between sexual coercion and sexual behaviors in heterosexual and sexual minority women should be considered for future research and interventions aimed at mitigating the adverse effects of sexual coercion.",
+  "raw_path": "01_raw/europepmc_xml/PMC7854030.xml",
+  "text_path": "02_text/europepmc/PMC7854030.txt",
+  "raw_bytes": 88755,
+  "text_chars": 24334,
+  "raw_sha256": "40156ac4251b799b194512d64b9592f6cb41a80dbeb191cb5f43921cd0a022a4",
+  "text_sha256": "bf3c80fc022ef8181d8de8069ef3729cf5591fe67b5c9a14490ee21ee879bf21",
+  "retrieved_at": "2026-10-26T12:57:14.079842+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11299398",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Cyber dating abuse perpetration and victimization among Chinese college students with a history of peer phubbing: psychological resilience moderates the indirect effect of rejection sensitivity.",
+  "authors": "Dai W, Lv J, Wang H, Wei X.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s40359-024-01924-1",
+  "pmcid": "PMC11299398",
+  "url": "https://europepmc.org/article/PMC/PMC11299398",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11299398/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Background As emerging adults are increasingly reliant on instant messaging applications for communication with romantic partners, cyber dating abuse perpetration (CDAP) and victimization (CDAV) have proliferated. This has aroused the high attention of researchers. This study aimed to explore the mechanism of the influence of peer phubbing on CDAP and CDAV in Chinese context. Methods 566 Chinese college students (average age of 19.31 years, 47.7% females) were investigated with the generic scale of being phubbed, rejection sensitivity questionnaire, Chinese version of resilience scale and cyber dating abuse questionnaire. The data were analyzed by using a moderated mediation model with SPSS and the PROCESS. Results The results revealed that: (1) peer phubbing had a significant positive predictive effect on CDAP (β = .32, p Conclusion These findings highlight the importance of discerning the mechanisms moderating the mediated paths linking peer phubbing to CDAP and CDAV. The results also underline the importance of implementing measures and interventions to use the protective role of psychological resilience on college students' CDAP and CDAV.",
+  "raw_path": "01_raw/europepmc_xml/PMC11299398.xml",
+  "text_path": "02_text/europepmc/PMC11299398.txt",
+  "raw_bytes": 120633,
+  "text_chars": 36194,
+  "raw_sha256": "16c1828425c28b4db0b39d11f92f79d903d40f7cd038fa1ac7e98e35464a07aa",
+  "text_sha256": "a4cea0dcce23b73419ed0a2b5e3d55ace710038c1b603da486ba688912a79a25",
+  "retrieved_at": "2026-10-25T13:53:13.241453+00:00"
+}

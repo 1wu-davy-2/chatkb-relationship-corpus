@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13236538",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Intimate partner violence and eating disorders among married women: the mediating role of emotion dysregulation.",
+  "authors": "Odeh Alsawalqa R, Mahmod Alkaraki N, Aladaileh L, Mousa Alnajdawi A, Alreesi R.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fsoc.2026.1747374",
+  "pmcid": "PMC13236538",
+  "url": "https://europepmc.org/article/PMC/PMC13236538",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13236538/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "This longitudinal study investigated the relationships between exposure to intimate partner violence (IPV), difficulties in emotion regulation (DERS), and eating disorder symptoms (ED) among married women in Jordan. Results showed strong positive correlations between all forms of IPV-including economic control, economic exploitation, psychological abuse, physical violence, emotional abuse, and harassment-and all dimensions of DERS, including nonacceptance of emotions, impulse control difficulties, and limited access to emotion regulation strategies. DERS were also significantly associated with ED symptoms, such as dieting behaviors, binge eating and food preoccupation, and oral control. Longitudinal analyses revealed that ongoing exposure to IPV led to significant increases in DERS and ED symptoms over 6 months, particularly in impulse control difficulties and limited access to regulation strategies. Changes in DERS significantly predicted corresponding changes in ED symptoms, even after controlling for baseline levels and demographic variables. Mediation analyses confirmed that DERS partially mediated the relationship between IPV and ED symptoms, highlighting the critical role of emotion regulation in this pathway. Furthermore, women exposed to multiple types of IPV exhibited significantly higher DERS and ED symptom scores compared to those exposed to a single type of violence. Structural equation modeling supported these findings, showing that exposure to IPV increases DERS, which in turn exacerbates ED symptom severity, while a partial direct effect of IPV on ED symptoms remains. These results underscore the compounded negative impact of IPV on emotional regulation and eating pathology among married women, emphasizing the importance of interventions targeting emotion regulation to mitigate the effects of IPV on disordered eating.",
+  "raw_path": "01_raw/europepmc_xml/PMC13236538.xml",
+  "text_path": "02_text/europepmc/PMC13236538.txt",
+  "raw_bytes": 128357,
+  "text_chars": 54371,
+  "raw_sha256": "6ef539d97f2c7858b8cb3693eb8e75994c1543857e0177c0c58a8646297fd77e",
+  "text_sha256": "565c0b529c9b99f08b59e602cc26b74fea232c1bf3b41f2ba9c1017b88bc8bea",
+  "retrieved_at": "2026-10-25T15:48:27.559112+00:00"
+}

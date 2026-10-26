@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11891472",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Impact of a digital relationship intervention for jailed individuals.",
+  "authors": "Guttman S, Doss BD.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/famp.13081",
+  "pmcid": "PMC11891472",
+  "url": "https://europepmc.org/article/PMC/PMC11891472",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11891472/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Not surprisingly, incarceration's extreme separation and stress have significant negative effects on romantic relationships. Unfortunately, few programs have been developed to improve jailed individuals' romantic relationship with their non-incarcerated partner. The present study investigated the effectiveness of the individual version of the digital OurRelationship program for incarcerated individuals. The current study is a program evaluation of services provided by PayTel Inc. (a provider of eLearning and communication devices in US jails) between June 2020 and November 2021. Of the 5411 individuals in a romantic relationship who started the program, 3034 completed it. Following completion of the program, 78% reported feeling \"Mostly\" or \"Very Satisfied\" with the program, and 77% reported \"Slight\" to \"Strong\" agreement that their relationship benefited from the program. Individuals' relationship confidence (d = 0.36) and relationship knowledge (d = 0.33) significantly improved during the program. Women and Latino/Hispanic and Asian/PI individuals experienced the largest pre-post gains in relationship functioning. Furthermore, racial/ethnic minority groups tended to report higher satisfaction with the program. Overall, the high rates of program satisfaction and significant pre-post changes-combined with their reduced barriers to dissemination-support the delivery of digital relationship programs for jailed individuals interested in strengthening their relationship.",
+  "raw_path": "01_raw/europepmc_xml/PMC11891472.xml",
+  "text_path": "02_text/europepmc/PMC11891472.txt",
+  "raw_bytes": 120800,
+  "text_chars": 38404,
+  "raw_sha256": "4af9f710195cb4bb1e8daa25b20cd1942c9de07a5f391cdb1c3aa7c1506e31ef",
+  "text_sha256": "bdc39035b243f941031a6bddcc4080593088ec961e603035662baa65f4798a0a",
+  "retrieved_at": "2026-10-25T13:57:25.556669+00:00"
+}

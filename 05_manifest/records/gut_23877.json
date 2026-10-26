@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_23877",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "玉嬌梨",
+  "gutenberg_id": "23877",
+  "url": "https://www.gutenberg.org/ebooks/23877",
+  "download_url": "https://www.gutenberg.org/cache/epub/23877/pg23877.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/23877.txt",
+  "text_path": "02_text/gutenberg/gut_23877_玉嬌梨.txt",
+  "raw_bytes": 418152,
+  "text_chars": 131755,
+  "text_sha256": "2db6d957d14c5c5164a24c386288fbc3a72b90b3153b9ef8bd9d774251f5395c",
+  "retrieved_at": "2026-10-25T16:05:36.332292+00:00"
+}

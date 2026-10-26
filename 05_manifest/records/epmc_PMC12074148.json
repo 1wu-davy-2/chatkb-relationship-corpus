@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12074148",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Non-pharmacological interventions for female sexual dysfunction in low- and middle-income countries: A scoping review.",
+  "authors": "Koochakzai M, Moghadam ZB, Siahkal SF, Arbabi H, Ebrahimi E.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1097/md.0000000000042421",
+  "pmcid": "PMC12074148",
+  "url": "https://europepmc.org/article/PMC/PMC12074148",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12074148/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_therapy_interventions"
+  ],
+  "abstract": "Background Sexual function is a multidimensional phenomenon affected by many different physical, physiological, and mental factors. Sexual dysfunction (SD) can affect the different aspects of personal and familial health. Non-pharmacological interventions for SD management have received great attention in recent years, though SD is still mostly managed using pharmacological interventions. Methods In this scoping review, we searched the PubMed/Medline, Web of Science, Scopus, and Google Scholar databases to find relevant studies published between January 2014 and February 2024. Results Twenty articles were included in the review. Non-pharmacological interventions such as cognitive-behavioral therapy, sexual education and counseling based on theories and models, mindfulness-based cognitive-behavioral sex therapy, phytotherapy and vaginal electrical stimulation, multimedia applications, and sexual health education programs can improve women's sexual function. Conclusion Given the effectiveness of non-pharmacological interventions and the heavy costs of pharmacological interventions, non-pharmacological interventions can be used for SD management in low- and middle-income countries.",
+  "raw_path": "01_raw/europepmc_xml/PMC12074148.xml",
+  "text_path": "02_text/europepmc/PMC12074148.txt",
+  "raw_bytes": 119203,
+  "text_chars": 24845,
+  "raw_sha256": "833e30c0b75b66b48dcd78f2c2707d019c6e51219e65629b79c270d17aeb0912",
+  "text_sha256": "63591c2d1d85e31c3d22eb729418a72f6fa309be6ad980f672abae5c2a5653ff",
+  "retrieved_at": "2026-10-26T13:06:23.769437+00:00"
+}

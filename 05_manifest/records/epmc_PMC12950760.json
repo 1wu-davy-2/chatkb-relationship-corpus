@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12950760",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Attitudes toward partner notification of &lt;i&gt;Chlamydia trachomatis&lt;/i&gt; infection in Shenzhen, China: independent and interactive effects of sociosexual orientation and social support.",
+  "authors": "Xiong Y, Zhao W, Wen Y, Wu Z, Ye J, Xing J, Liang S, Chang S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpubh.2026.1754680",
+  "pmcid": "PMC12950760",
+  "url": "https://europepmc.org/article/PMC/PMC12950760",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12950760/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Background Genital Chlamydia trachomatis (GCT) infection continues to be a widespread sexually transmitted infection (STI) globally, with China facing challenges in implementing the policy of partner notification (PN). To effectively manage GCT infection, it is crucial to understand the public's perspectives on PN and identify the psychosocial factors influencing these attitudes. This study aimed to investigate the determinants of willingness toward PN of GCT infection, specifically focusing on the independent and interactive effects of sociosexual orientation and perceived social support among community residents in Longgang District, Shenzhen, China. Methods A multistage random sampling approach was employed to collect survey data from 3,453 residents aged 18-60 years in Longgang District, Shenzhen, between November 2024 and February 2025. The revised Sociosexual Orientation Scale (SOI-R) was used to assess sociosexual orientation, while the Perceived Social Support Scale (PSSS) was employed to evaluate social support. Bidirectional stepwise logistic regression was performed to identify key independent factors associated with PN willingness. Subgroup analyses were performed to explore the influences of key demographic variables in different population subgroups on the sociosexual orientation and social support. Additionally, additive interaction analyses were conducted to comprehensively examine the independent and interactive effects of sociosexual orientation and social support on PN willingness. Results Overall, 95.83% of participants expressed willingness to notify their partners in the hypothetical scenario of contracting a GCT infection. Factors significantly linked to greater PN willingness included higher education level, non-local household registration, self-rated ordinary or poor economic status, a history of STIs, higher perceived social support, and a more restricted sociosexual orientation. Notably, a positive additive interaction trend was observed between a restricted sociosexual orientation and moderate to high perceived social support, suggesting that their joint effect on PN willingness may exceed the sum of their individual effects. Conclusion In Longgang District, Shenzhen, China, people have a relatively high acceptance of PN for GCT infection. Sociosexual orientation and perceived social support were independently associated with attitudes toward PN, and their joint effect may further enhance PN willingness. These findings provide exploratory evidence to inform tailored interventions integrating psychological and social factors to strengthen STI prevention strategies.",
+  "raw_path": "01_raw/europepmc_xml/PMC12950760.xml",
+  "text_path": "02_text/europepmc/PMC12950760.txt",
+  "raw_bytes": 137816,
+  "text_chars": 40527,
+  "raw_sha256": "488bf6a9e3c936aa2892f38c09e8a52d007eb0080b1834a504159dbbcd65d5f4",
+  "text_sha256": "b3554ebee35360404469c670a48502d564fa8c18342e9a0a127fa3fde569e261",
+  "retrieved_at": "2026-10-26T12:54:37.515023+00:00"
+}

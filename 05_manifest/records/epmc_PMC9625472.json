@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9625472",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "PMON214 Kisspeptin Restores Sexual and Attraction Brain Processing in Women with Hypoactive Sexual Desire Disorder",
+  "authors": "",
+  "year": "2022",
+  "journal": "",
+  "doi": "",
+  "pmcid": "PMC9625472",
+  "url": "https://europepmc.org/article/PMC/PMC9625472",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9625472/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Abstract Introduction Sexual desire is a key component of the sexual response model. Absence or deficiency of sexual desire can lead to marked distress or interpersonal difficulty, termed 'hypoactive sexual desire disorder' (HSDD). HSDD is the most common female sexual health complaint worldwide, affecting 10% of women. Despite its detrimental impact on psychological well-being and quality of life, treatment options are currently limited. The hormone kisspeptin is a key endogenous activator of the reproductive endocrine axis, with emerging roles in sexual and emotional behaviour, and thus could serve as a novel treatment option in women with HSDD. Hypothesis Kisspeptin restores sexual brain processing in women with HSDD. Methods To test our hypothesis, we performed a randomized, double-blind, two-way crossover, placebo-controlled study in 32 (mean age ± SEM 29.2±1.2 years; BMI 23.1±0.5 kg/m2) premenopausal women with HSDD using psychometric assessments, functional neuroimaging, and hormonal assessments to investigate the effects of kisspeptin administration on brain activity, in response to erotic stimuli (erotic videos) and facial attraction (face images of varying attractiveness). Study visits were undertaken in the early follicular phase of the menstrual cycle. Results Kisspeptin administration resulted in an increase in self-reported ratings of feeling 'sexy', compared to placebo, measured using the Sexual Arousal and Desire Inventory (t [32] =2.27, P=0.03). On functional MRI, kisspeptin administration deactivated the left inferior frontal gyrus and activated the postcentral and supramarginal gyrus in response to erotic videos (Z=2.3, P< 0.05). Kisspeptin administration deactivated the secondary somatosensory cortex (Z=2.3, P<0.05) and enhanced activation in the posterior cingulate cortex on viewing male faces, which correlated with a reduction in self-reported sexual aversion (r=0.476, P=0.005). Kisspeptin resulted in a mean increase in LH of 2.75 iU/L (F(1, 62) = 6.084, P=0.02) and FSH of 0.37 iU/L (F(1, 62) = 4.030, P=0.05) across the 75-minute duration of the study, with no effect observed on downstream circulating estradiol, progesterone or testosterone levels. Interpretation of results and conclusionsDeactivation of the left inferior frontal gyrus by kisspeptin administration likely serves to reduce the internal monologue and response inhibition. Furthermore, kisspeptin's deactivation of the secondary somatosensory cortex can reduce a woman's focus on herself, her body image, and related negative thoughts, thus augmenting her judgement of male facial attractiveness. Finally, kisspeptin's actions in the posterior cingulate cortex can serve to increase feelings of romantic love and reward processing, thereby reducing sexual aversion and increasing sexual desire. Collectively these brain changes provide mechanistic insights for the observed increase in sexual desire and attraction during kisspeptin administration in women with HSDD. These behavioural and mechanistic findings in women with HSDD lay the foundations for clinical applications for kisspeptin in psychosexual disorders. Presentation: Monday, June 13, 2022 12:30 p.m. - 2:30 p.m.",
+  "raw_path": "01_raw/europepmc_xml/PMC9625472.xml",
+  "text_path": "02_text/europepmc/PMC9625472.txt",
+  "raw_bytes": 8898,
+  "text_chars": 3541,
+  "raw_sha256": "200e8fbef0c4b244cb498e8fe18bb1e38badd45041fe8cadcbff26d5d4071eb8",
+  "text_sha256": "fc7d1a8392447e1107fc295fe68640baa5b38251ddbb7409dd3faf1575dc547d",
+  "retrieved_at": "2026-10-25T15:41:56.751361+00:00"
+}

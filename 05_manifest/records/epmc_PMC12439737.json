@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12439737",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marital separation, reconciliation, and repartnering in later life.",
+  "authors": "Brown SL, Lin IF, Marino FA, Mellencamp KA.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/jomf.13024",
+  "pmcid": "PMC12439737",
+  "url": "https://europepmc.org/article/PMC/PMC12439737",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12439737/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce",
+    "midlife_older"
+  ],
+  "abstract": "Objective The growth in gray divorce raises new questions about the marital dissolution process experienced by older adults. Our goal was to assess patterns of reconciliation among couples following marital separation, treating forming a union with a new partner as a competing risk. Background Repartnering after a gray divorce is common, particularly among men. However, the extent to which older adults reconcile with their spouses is unknown. In line with the few prior studies on marital reconciliation among younger people, we anticipated that spouses with fewer resources and more marital-specific capital would be more likely to reconcile. Method Using the 1998-2018 Health and Retirement Study, we tracked women and men who experienced a marital separation after age 50 to evaluate their propensities to reconcile with their spouse versus form a coresidential union (i.e., cohabitation or remarriage) with a new partner relative to remaining separated. Results Roughly 7% of women and 11% of men reconciled with their spouses, whereas 12% of women and 26% of men instead formed unions with a new partner within 10 years of marital separation. We expected that having fewer resources and greater relationship-specific investments would encourage reconciliation, but results were mixed for women and men alike. Resources did tend to be positively associated with repartnering, particularly for men. Conclusion Our study contributes to the emerging research on repartnering after late-life divorce as well as the limited literature on marital reconciliation by underscoring the utility of examining both reconciliation and repartnering as potential outcomes following marital separation.",
+  "raw_path": "01_raw/europepmc_xml/PMC12439737.xml",
+  "text_path": "02_text/europepmc/PMC12439737.txt",
+  "raw_bytes": 140861,
+  "text_chars": 54713,
+  "raw_sha256": "3b7a98df5088b903e15489db26cdd22f9717a7379033acbe4ffc033366a7acd5",
+  "text_sha256": "74382ec90288a19b96351e75bc57720568abe2a2f2a454a21948abd42fc94872",
+  "retrieved_at": "2026-10-25T13:56:16.673471+00:00"
+}

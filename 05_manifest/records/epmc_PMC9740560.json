@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9740560",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual Orientation and Infidelity-Related Behaviors on Social Media Sites.",
+  "authors": "Șerban I, Salvati M, Enea V.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3390/ijerph192315659",
+  "pmcid": "PMC9740560",
+  "url": "https://europepmc.org/article/PMC/PMC9740560",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9740560/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "Little research has been focused on offline or online infidelity in GL dating relationships, especially in a post-communist socio-cultural context. Infidelity-related (IR) behaviors on social media sites might be as hurtful to relationships as offline infidelity, both in gay, lesbian (GL) and heterosexual romantic monogamous relationships. In this cross-sectional study, we aimed to examine the associations between dyadic satisfaction, attitudes toward infidelity, and problematic internet usage, with IR behaviors on social media sites among GL and heterosexual unmarried individuals in Romanian sexual minority communities. Results showed that GL respondents did not significantly differ from heterosexual participants regarding IR behaviors. Furthermore, we found the main effect of attitudes toward infidelity and problematic internet use on IR behaviors. Sexual orientation highlights the main effect of IR behaviors when analyzed with dyadic satisfaction. The current study may be a precursor to further research investigating correlations in online IR behavior among lesbian and gay individuals engaging in consensual nonmonogamy. Implications of the findings are discussed in the social context of a post-communist country where GL individuals may face discrimination and stigma because of their sexual orientation.",
+  "raw_path": "01_raw/europepmc_xml/PMC9740560.xml",
+  "text_path": "02_text/europepmc/PMC9740560.txt",
+  "raw_bytes": 159635,
+  "text_chars": 44963,
+  "raw_sha256": "d2f12f1591c9314c1c6711a6b8e63d7dcc93f4ce015ed27e1ea6e708c7480da9",
+  "text_sha256": "035de05b19a0629a649f505ecf3c80e25bcf0318e4fbe4d881f490463736d866",
+  "retrieved_at": "2026-10-25T15:32:59.623723+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_virgo_constellation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "室女座",
+  "requested_title": "处女座",
+  "url": "https://zh.wikipedia.org/wiki/%E5%AE%A4%E5%A5%B3%E5%BA%A7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 室女座",
+  "topics": [
+    "zodiac",
+    "astronomy"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/virgo_constellation.json",
+  "text_path": "02_text/zh_wikipedia/virgo_constellation.txt",
+  "raw_bytes": 8603,
+  "text_chars": 3476,
+  "text_sha256": "4e9b7e21df6c0d2bedcf4fab75e8e9e688a7dfa0f2dc82dcbc92a244e6298582",
+  "retrieved_at": "2026-10-26T13:05:06.695117+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9986911",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Perceived Marriage Squeeze and Subjective Well-Being Among Unmarried Rural Men in China: The Mediating Role of Sense of Coherence.",
+  "authors": "Zhang Q, Li Z.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/15579883231157975",
+  "pmcid": "PMC9986911",
+  "url": "https://europepmc.org/article/PMC/PMC9986911",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9986911/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "china_marriage"
+  ],
+  "abstract": "The marriage-squeeze unmarried rural men perceive during their daily life is one of the main stressors severely affecting their subjective well-being under the universal marriage culture. The mechanism of this relationship is still unknown. Based on the Stress Process Model, using data from the \"Survey on Rural Family Martial Status,\" this study examines the relationship between perceived marriage squeeze (PMS) and subjective well-being (SWB) and the mediating effect of sense of coherence (SOC). A sample of 417 Chinese unmarried rural men with an average age of 28.88 years was enrolled in this cross-sectional. Ordinary least square regressions and Bootstrap-mediated effect analysis methods were used to examine the association between PMS, SWB, and SOC. The results show that PMS has significant negative effects on both SWB and SOC of unmarried rural men, and SOC has a significant positive impact on SWB; the more perceived marriage squeeze they have, the lower SWB and SOC they have. The mediated analysis shows that SOC plays a mediating role in the influence of PMS on the SWB of unmarried rural men. This is to say, SOC can mitigate PMS's negative effects on the SWB of unmarried rural men. Our findings highlight the importance of SOC in protecting the SWB of unmarried rural men. Considering the propounding influence of the marriage squeeze, policies that enhance the level of SOC should be implemented to relieve the influence of PMS on vulnerable unmarried rural men's SWB.",
+  "raw_path": "01_raw/europepmc_xml/PMC9986911.xml",
+  "text_path": "02_text/europepmc/PMC9986911.txt",
+  "raw_bytes": 180623,
+  "text_chars": 55233,
+  "raw_sha256": "947dbf5e28e7f5c7e2ebe8efbbc2c2e2a588056fdd6a07bc03b4c63bbdcbea77",
+  "text_sha256": "f57a2593e5b339b48e1d9a29f03a9aaf75d7c28d58eba44fb76e3e0b206d0c43",
+  "retrieved_at": "2026-10-25T13:49:28.279491+00:00"
+}

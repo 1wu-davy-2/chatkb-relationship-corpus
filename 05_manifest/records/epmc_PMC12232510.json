@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12232510",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Confucian reflections on the new reproductive model of ROPA.",
+  "authors": "Ma Y, Chen H, Muyskens K.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/bioe.13402",
+  "pmcid": "PMC12232510",
+  "url": "https://europepmc.org/article/PMC/PMC12232510",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12232510/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "family_pressure"
+  ],
+  "abstract": "Some countries are legalizing same-sex marriage and assisted reproductive technologies (ART) for homosexual couples. One unique form of ART, ROPA (Reception of Oocytes from Partner), recently stirred up controversy in China, when a custody dispute between a female same-sex couple who used ROPA brought this reproductive model into the public eye. Some Western scholars have argued for the legitimacy of ROPA from the perspective of autonomy and reproductive rights. Yet, these arguments do not easily translate into all cultural contexts, as this case will show. There is a need to articulate the ethical considerations of such technologies in light of local philosophical traditions. To that end, this paper will explore the permissibility of ROPA from a Confucian lens, exploring Confucian perspectives on naturalness, filial piety, family and social harmony. Accordingly, we hope to further the discussion of cross-cultural bioethics.",
+  "raw_path": "01_raw/europepmc_xml/PMC12232510.xml",
+  "text_path": "02_text/europepmc/PMC12232510.txt",
+  "raw_bytes": 77046,
+  "text_chars": 59812,
+  "raw_sha256": "3c633b66303a00510aa1d829631925f0a7200c25ae9ad0cf083e0bacf41cde54",
+  "text_sha256": "77ab9aa841d503a03de451b7ed027f8d36ca5fde2d8bfa72431258e01c830f1b",
+  "retrieved_at": "2026-10-25T13:48:28.520737+00:00"
+}

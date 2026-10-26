@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13234862",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Extended factorial validity of the Capacity to Love Inventory.",
+  "authors": "de Starceva-Apele A, Raščevska M, Kapusta ND.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1831380",
+  "pmcid": "PMC13234862",
+  "url": "https://europepmc.org/article/PMC/PMC13234862",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13234862/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "This study extends the factorial validity of the Capacity to Love Inventory (CTL-I) by using a version adapted to the Latvian context, inviting clinicians to use this construct to deepen their understanding of clinical problems. It aims to examine the reliability and several valid factor models of the CTL-I after its adaptation to a Latvian sample. The total number of participants was 649 (79% female, 20% male, 1% other), aged from 20 to 60 years. Results for the subscales and total scale reliability of the Latvian version of the CTL-I showed adequate to excellent levels, comparable to the original version (after removing three psychometrically problematic items). A six-factor confirmatory factor analysis (CFA) and a second-order two-factor exploratory factor analysis (EFA) and CFA model achieved acceptable goodness-of-fit indices in the Latvian sample. The new latent second-level factors could be called (1) emotional investment and intimacy and (2) regulation of sexual desire and loss. The results support the CTL-I as a scientifically grounded tool for assessing one's capacity to engage in and sustain romantic relationships, with promising future applications for personality trait assessment, clinical assessment, treatment prognosis, and planning. Supporting one's capacity to build emotional and intimate relationships and regulate sexual desires is an important social focus in which it is beneficial to invest more at a preventive level.",
+  "raw_path": "01_raw/europepmc_xml/PMC13234862.xml",
+  "text_path": "02_text/europepmc/PMC13234862.txt",
+  "raw_bytes": 145753,
+  "text_chars": 53231,
+  "raw_sha256": "457f75d515cc810760020685a50b39e5fb235160e606cca5ca8484820bc98918",
+  "text_sha256": "c6add7f38408f9052f02cf652d38378391fd1e7dac8977c272aaf3c98e844700",
+  "retrieved_at": "2026-10-25T15:41:07.625617+00:00"
+}

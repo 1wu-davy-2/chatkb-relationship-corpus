@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13541442",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Poor sleep quality and loneliness among higher vocational college students: a conditional process analysis of psychological resilience and self-esteem.",
+  "authors": "Shi L, Zhou Y, Cai P.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1893857",
+  "pmcid": "PMC13541442",
+  "url": "https://europepmc.org/article/PMC/PMC13541442",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13541442/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_esteem"
+  ],
+  "abstract": "Background Loneliness, sleep quality, psychological resilience, and self-esteem are closely related to young adults' everyday psychological adjustment. However, less is known about how sleep quality is associated with loneliness among higher vocational college students and whether this association depends on internal psychological resources. This study examined the association between sleep quality and loneliness and tested the mediating role of psychological resilience and the moderating role of self-esteem. Methods A cross-sectional survey was conducted from May to December 2023 in three higher vocational colleges in Heilongjiang Province, China. A total of 4,000 questionnaires were distributed, and 3,782 valid responses were included in the final analysis. Sleep quality, psychological resilience, self-esteem, and loneliness were assessed using the Pittsburgh Sleep Quality Index, 10-item Connor-Davidson Resilience Scale, Rosenberg Self-Esteem Scale, and 20-item UCLA Loneliness Scale, respectively. Pearson correlation analysis, multiple linear regression analyses, bootstrap mediation analysis, and moderated mediation analysis were performed. Fully adjusted models controlled for age, sex, grade, residence, family economic status, parental marital status, dormitory relationship, classmate relationship, academic pressure, and physical activity frequency. Results Among the 3,782 participants, the mean age was 19.35 years (SD = 1.31); 1,593 participants were male (42.1%) and 2,189 were female (57.9%). Sleep quality was positively correlated with loneliness and negatively correlated with psychological resilience and self-esteem. Psychological resilience and self-esteem were negatively correlated with loneliness. In the fully adjusted mediation model, poorer sleep quality was associated with higher loneliness ( β = 0.556, p β = -0.491, p β = 0.119, p Conclusion Poorer sleep quality was associated with higher loneliness among higher vocational college students, and this association was partly explained by lower psychological resilience. Self-esteem further buffered the psychological resilience-loneliness pathway. These findings suggest that combining sleep health education, resilience enhancement, and self-esteem support may provide useful directions for reducing loneliness among higher vocational college students.",
+  "raw_path": "01_raw/europepmc_xml/PMC13541442.xml",
+  "text_path": "02_text/europepmc/PMC13541442.txt",
+  "raw_bytes": 137973,
+  "text_chars": 48260,
+  "raw_sha256": "4a22c13334d6f8c4ca9a8bc823e9cb93902f2488db466bf952ad8438718358e5",
+  "text_sha256": "fd42f152becfe7940d60d01168b7a52a7008290ecc7cc06af5328cdef9a4754c",
+  "retrieved_at": "2026-10-25T15:28:48.591776+00:00"
+}

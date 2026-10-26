@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_feminism",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "女性主義",
+  "requested_title": "女性主义",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A5%B3%E6%80%A7%E4%B8%BB%E7%BE%A9",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "gender",
+    "society"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/feminism.json",
+  "text_path": "02_text/zh_wikipedia/feminism.txt",
+  "raw_bytes": 55761,
+  "text_chars": 21362,
+  "text_sha256": "2dade8323eff518f51d17e4d15a39b6fb46c6e1a251c6dd76e5127e2e51456db",
+  "retrieved_at": "2026-10-25T15:42:13.739980+00:00"
+}

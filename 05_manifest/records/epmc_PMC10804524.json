@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10804524",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring the relationship between loneliness and volunteering amongst Australian adults: a cross-sectional study.",
+  "authors": "Williams T, Lakhani A, Spelten E.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s12889-024-17807-4",
+  "pmcid": "PMC10804524",
+  "url": "https://europepmc.org/article/PMC/PMC10804524",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10804524/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "Background Alleviating loneliness and fostering social connections and a sense of belonging are essential for individuals' well-being in the aftermath of the COVID-19 pandemic. Volunteering has emerged as a potential strategy to prevent or alleviate loneliness among adults. To gain insights into factors that can reduce or protect against loneliness, it is important to consider multi-dimensional measures of loneliness and motivations to volunteer. This study aimed to understand which variables predict Australian volunteers' social, family, and romantic loneliness. Methods From October 2021 to January 2022, a cross-sectional online survey was administered to a sample of Australian adults with volunteering experience. The survey collected demographic information and used validated measures to assess social, family, and romantic loneliness and volunteer motivation. Bivariate and multivariate analyses were conducted to examine the association between loneliness and motivations for volunteering. Results Of the 1723 individuals who accessed the survey link, 160 participants completed the survey. The average age of respondents was 59.87 years (SD 12.3). The majority were female (77.5%), married or partnered (70.6%), and had ten or more years of volunteering experience (62.1%). Overall, participants reported low to moderate levels of loneliness across social (M = 12.1; SD = 5.3), family (M = 11.3; SD = 6.7), and romantic (M = 14.8; SD = 8.3) dimensions. Social motivation for volunteering was negatively associated with social and romantic loneliness, while enhancement and protective motivations were positively associated with family and romantic loneliness. Age and rurality were not significantly associated with any dimension of loneliness. Conclusions Loneliness is a multifaceted and intricate experience that impacts individuals socially and emotionally. This study's findings confirmed that having protective and enhancement motives to volunteer was associated with increased loneliness. Social motives to volunteer were associated with a tendency to have lower levels of loneliness, possibly due to the positive impact of building and maintaining social relationships through volunteering. Understanding these associations is necessary to ensure that volunteering activities align with each person's unique needs and motivations.",
+  "raw_path": "01_raw/europepmc_xml/PMC10804524.xml",
+  "text_path": "02_text/europepmc/PMC10804524.txt",
+  "raw_bytes": 151868,
+  "text_chars": 42189,
+  "raw_sha256": "c590f095b9fa4fb89768b937acf46482adc8ce307ab4bf55cf3b673341303f4c",
+  "text_sha256": "52104b7a8fc2ff3e11fee5c7eb68e0048c57b2ce3cd95a6fea5901d636550570",
+  "retrieved_at": "2026-10-25T15:42:32.061254+00:00"
+}

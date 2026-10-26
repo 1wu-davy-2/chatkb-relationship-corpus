@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12368928",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Barriers to Systemic Therapy Services Among Transgender and Nonbinary Adults in Canada.",
+  "authors": "Lin C, Fuks N, Maitland L, Kang H.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/jmft.70064",
+  "pmcid": "PMC12368928",
+  "url": "https://europepmc.org/article/PMC/PMC12368928",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12368928/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Systemic therapies, including relational, couple, marriage, and family therapy services, play a key role in supporting transgender and nonbinary people who experience mental health and relational challenges. However, limited research studies have examined this population's barriers to accessing these therapy services. This study aimed to explore these barriers to enhance the cultural competence of relational and family therapists. This study involved 12 TNB adult participants in Canada. Regarding methodology, the semi-structured interviews were conducted via Zoom and recorded, and the interpretative phenomenological analysis was applied. The results included the following: (1) Challenges in finding competent and affirming therapists; (2) Geographic limitations; (3) Financial concerns; and (4) Systemic and institutional barriers to accessing RCMFT services. The results can be shared in teaching, supervision, workshops, and conference presentations to improve cultural competence and reduce the barriers.",
+  "raw_path": "01_raw/europepmc_xml/PMC12368928.xml",
+  "text_path": "02_text/europepmc/PMC12368928.txt",
+  "raw_bytes": 95336,
+  "text_chars": 48961,
+  "raw_sha256": "d19ef68661e7bd90b2bae259725a3763f9e38ae09b2474ca4ac622e93416e354",
+  "text_sha256": "1073211c22b5ce31ad4730faf62d725c7f93c05441f23ed4e0b7c3a07fa04157",
+  "retrieved_at": "2026-10-25T13:52:05.404213+00:00"
+}

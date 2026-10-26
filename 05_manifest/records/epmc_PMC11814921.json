@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11814921",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Client Perspectives on Addressing Intimacy, Romance and Sexuality in Early Psychosis Intervention Programmes.",
+  "authors": "Woolridge SM, Wilkinson E, Hau I, Stewart CA, Edirisinghe S, Aidelbaum R, Best MW, Bowie CR.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/eip.70014",
+  "pmcid": "PMC11814921",
+  "url": "https://europepmc.org/article/PMC/PMC11814921",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11814921/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "Objective This study investigated the perspectives of clients in early psychosis intervention programmes regarding the types, quality and relevance of information they desire and receive, particularly related to intimacy, romance and sexuality. Methods Participants (N = 35) rated the degree to which they desired and received information on topics related to treatment and recovery, as well as the quality and importance of that information. Results Between 25% and 50% of participants desired information on friendships, sexual functioning, sexual desire, sexual risk factors and romantic relationships. Less than half of participants who wanted information on romantic relationships, friendships, sexual desire and sexual functioning received this information. When this information was provided, however, participants reported it to be of high quality. Conclusions Findings demonstrate that intimacy, romance and sexuality remain areas of need that are relevant to recovery for people with psychosis, yet they continue to be insufficiently addressed in healthcare settings.",
+  "raw_path": "01_raw/europepmc_xml/PMC11814921.xml",
+  "text_path": "02_text/europepmc/PMC11814921.txt",
+  "raw_bytes": 62406,
+  "text_chars": 14524,
+  "raw_sha256": "a2f4c5c5e04c8473b5db2cd55be9119c67e6e8edb0ce4f5685d33fef678acad3",
+  "text_sha256": "a04791c919c545fd2c618a8e9a3bae58311def3888cd8c90503dc66f57f424d4",
+  "retrieved_at": "2026-10-25T15:38:21.790297+00:00"
+}

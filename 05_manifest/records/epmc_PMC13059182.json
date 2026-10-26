@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13059182",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship between gender role attitudes and body image concern and quality of life of Balouch women with the mediating role of marital relationship quality: a cross-sectional study using a structural equation model.",
+  "authors": "Kaveh MH, Didehvar M, Karimi M, Nazari M, Dadkhah S, Ghahremani L.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12905-026-04363-9",
+  "pmcid": "PMC13059182",
+  "url": "https://europepmc.org/article/PMC/PMC13059182",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13059182/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "body_image"
+  ],
+  "abstract": "BACKGROUND: Quality of life is a multifaceted concept influenced by various factors. This study examines the relationship between gender role attitudes, body image concerns, and the quality of life among Balouch women, with a focus on the mediating role of marital relationship quality. METHODS: This cross-sectional study used a structural equation approach to analyze data from 297 married Balouch women attending urban healthcare centers. Proportional stratified sampling was conducted from June to September 2023. Data were collected via questionnaires on demographics, gender role attitudes, body image concerns, marital relationship quality, and quality of life. Analysis was performed using descriptive statistics, regression, and structural equations in SPSS24. RESULTS: The results showed that the marital relationship quality had a significant positive direct impact on the quality of life of Balouch women. Gender role attitude had no direct relationship with quality of life, but it did affect the quality of life by influencing body image concern. Body image concern had a significant negative direct and indirect relationship with the mediating role of marital relationship quality on the quality of life of Balouch women. The results showed that the fit of the final model was good. (χ2 = 1.138، p < 0/001، GFI = 0.9، IFI = 1.023، RMSA < 0.001، CFI = 1.00). CONCLUSIONS: The findings of this study provide a comprehensive framework for understanding the multifaceted factors influencing the quality of life among Balouch women. By addressing societal perceptions, enhancing marital relationships, and implementing targeted interventions, it is possible to improve the overall well-being of women in this community.",
+  "raw_path": "01_raw/europepmc_xml/PMC13059182.xml",
+  "text_path": "02_text/europepmc/PMC13059182.txt",
+  "raw_bytes": 98576,
+  "text_chars": 28695,
+  "raw_sha256": "808a54111dae5ee15e56ed6906550d64b66663e1e239f282f304f05adc699a3c",
+  "text_sha256": "89580275cfd3e1ff223ef4c78aaf908f07fffac5e547714caabe0dee694449eb",
+  "retrieved_at": "2026-10-25T15:27:29.182686+00:00"
+}

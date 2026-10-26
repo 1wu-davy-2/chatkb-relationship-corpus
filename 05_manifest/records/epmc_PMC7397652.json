@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7397652",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Autobiographical memories of interpersonal trust in borderline personality disorder.",
+  "authors": "Botsford J, Renneberg B.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1186/s40479-020-00130-w",
+  "pmcid": "PMC7397652",
+  "url": "https://europepmc.org/article/PMC/PMC7397652",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7397652/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Background Establishing and maintaining interpersonal trust is often difficult for patients with Borderline Personality Disorder (BPD). How we trust is influenced by prior trust experiences. Methods For the investigation of trust experiences, autobiographical memories of n = 36 patients with BPD and n = 99 non-clinical controls were examined. Trust objects and interaction partners, emotional valence, perceived relevance and memory specificity were analyzed. Results Content analyses revealed that patients with BPD recalled mostly situations in which their trust was failed by family members or romantic partners. In addition, patients with BPD considered memories with trust and mistrust more relevant for their current lives than the control group. Our results correspond with findings that BPD patients have difficulties trusting close others as well as with theoretical assumptions about deficits in mentalizing and epistemic trust in patients with BPD. Conclusion In conclusion, our findings should encourage clinical practitioners to address trust deficits towards close others, as well as omniscient negative memory retrieval and interpretation biases which might influence current trust behavior.",
+  "raw_path": "01_raw/europepmc_xml/PMC7397652.xml",
+  "text_path": "02_text/europepmc/PMC7397652.txt",
+  "raw_bytes": 93577,
+  "text_chars": 37394,
+  "raw_sha256": "4d3bbc760049c3e4bdc15c87863bafc38c4c077e37ef2d926f62e7c5dc1948b9",
+  "text_sha256": "fb33e760843c3e842b8c09c6e7432a5b140f534ebd20c54432fb1229bc067218",
+  "retrieved_at": "2026-10-25T15:36:37.965157+00:00"
+}

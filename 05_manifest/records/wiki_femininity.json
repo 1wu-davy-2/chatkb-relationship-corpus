@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_femininity",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "女性气质",
+  "requested_title": "女性气质",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A5%B3%E6%80%A7%E6%B0%94%E8%B4%A8",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 女性气质",
+  "topics": [
+    "gender"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/femininity.json",
+  "text_path": "02_text/zh_wikipedia/femininity.txt",
+  "raw_bytes": 1922,
+  "text_chars": 876,
+  "text_sha256": "9791f4d69e20ed1b5842ada90b606139e0531b53ae665f5cb52570323b98d1b4",
+  "retrieved_at": "2026-10-25T16:29:08.451086+00:00"
+}

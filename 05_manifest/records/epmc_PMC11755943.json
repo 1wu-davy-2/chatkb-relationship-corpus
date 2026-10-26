@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11755943",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Investigating the impact of couple counseling based on the CHARMS model on sexual quality of life and marital satisfaction of wives of men suffering from myocardial infarction: a randomized clinical trial study.",
+  "authors": "Ghafuri D, Rabeipoor S, Khademvatani K, Barjasteh S, Yas A.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40834-025-00337-8",
+  "pmcid": "PMC11755943",
+  "url": "https://europepmc.org/article/PMC/PMC11755943",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11755943/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_therapy_interventions"
+  ],
+  "abstract": "Introduction Cardiovascular diseases can adversely affect the quality of sexual life and marital satisfaction for both patients and their spouses. The aim of the current study is to determine the effect of couple counseling based on the CHARMS model on sexual quality of life and marital satisfaction of wives of men suffering from myocardial infarction (MI). Method This two-group randomized clinical trial study with a parallel design was conducted in 2024 in Urmia, Iran. Participants included men with myocardial infarction and their spouses. Sampling was done on a convenience basis. Participants were randomly allocated into two groups: control (50 couples) and intervention (50 couples). The intervention consisted of six counseling sessions. Couples in intervention group were divided into six groups. Each group attended counseling sessions following the CHARMS model on a weekly basis. Data collection tools were include: Demographic information questionnaire, Women's Sexual Quality of Life Questionnaire and Enrich Marital Satisfaction Questionnaire, which were completed by women in both groups before and after the intervention. The Independent t-test, Chi-square, Fisher's exact test and a general linear model were used for comparing groups with SPSS software. The data analyst was blinded to the group allocation. Findings The average age of women in the intervention and control groups was 45.16 ± 5.90 and 44.75 ± 4.94 years, respectively, with most being housewives and having two children. The average age of men in the intervention and control groups was 48.6 ± 4.51 and 47.5 ± 5.5 years, respectively. The demographic and clinical characteristics of the two groups were similar (P > 0.05). Before the intervention, the average scores for sexual quality of life and marital satisfaction among women were not statistically significantly different between the control and intervention groups (P > 0.05). After the intervention, based on the ANCOVA and after adjusting for the baseline values, the average score for the sexual quality of life among women in the intervention and control groups was 61.96 ± 7.51 and 49.01 ± 6.32, respectively. This difference being statistically significant (Adjusted Mean Difference = 12.95; 95% CI = 1.18 to 21.13; P Conclusions The results of the current study indicate that sexual counseling for couples, utilizing the CHARMS model, effectively enhances the quality of sexual life and marital satisfaction for wives of men with myocardial infarction. Therefore, it is crucial to evaluate the sexual quality of life for cardiac patients and their partners in clinical settings and to suggest sexual counseling using the CHARMS model. Irct code The trial protocol of this study has been registered in Iranian Registry of Clinical Trials. The registration reference is IRCT20240218061046N1.",
+  "raw_path": "01_raw/europepmc_xml/PMC11755943.xml",
+  "text_path": "02_text/europepmc/PMC11755943.txt",
+  "raw_bytes": 92136,
+  "text_chars": 31307,
+  "raw_sha256": "4582bc1599ebb9e038eca08b3e0a90532dba748dcb3ec1fcc8dd058278c969e7",
+  "text_sha256": "24f94b041c00ec27b68f1f8aaf84c0940cf7fc8d4a8ffbe4f93eae4e902d5f82",
+  "retrieved_at": "2026-10-26T13:05:40.476740+00:00"
+}

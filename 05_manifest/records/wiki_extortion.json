@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_extortion",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "恐嚇",
+  "requested_title": "恐嚇",
+  "url": "https://zh.wikipedia.org/wiki/%E6%81%90%E5%9A%87",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "law",
+    "safety"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/extortion.json",
+  "text_path": "02_text/zh_wikipedia/extortion.txt",
+  "raw_bytes": 1488,
+  "text_chars": 698,
+  "text_sha256": "d771167e0a025a0921c13ecfc161cb450252d788326a0edf1dca5bc0c073083e",
+  "retrieved_at": "2026-10-25T15:59:07.969052+00:00"
+}

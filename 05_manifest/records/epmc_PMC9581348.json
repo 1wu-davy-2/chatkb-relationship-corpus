@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9581348",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Originality in online dating profile texts: How does perceived originality affect impression formation and what makes a text original?",
+  "authors": "van der Zanden T, Schouten AP, Mos MBJ, Krahmer EJ.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0274860",
+  "pmcid": "PMC9581348",
+  "url": "https://europepmc.org/article/PMC/PMC9581348",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9581348/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_disclosure"
+  ],
+  "abstract": "This paper investigates origins and consequences of perceived profile text originality. The first goal was to examine whether the perceived originality of authentic online dating profile texts affects online daters' perceptions of attractiveness, and whether perceptions of (less) desired partner personality traits mediate this effect. Results showed the positive impact of perceived profile text originality on impression formation: text originality positively affects perceptions of intelligence and sense of humor, which improve impressions of attractiveness and boost dating intention. The second goal was to explore what profile text features increase perceptions of profile text originality. Results revealed profile texts which were stylistically original (e.g., include metaphors) and contained more and concrete self-disclosure statements were considered more original, explaining almost half of the variance in originality scores. Taken together, our results suggest that perceived originality in profile texts is manifested in both meaning and form, and is a balancing act between novelty and appropriateness.",
+  "raw_path": "01_raw/europepmc_xml/PMC9581348.xml",
+  "text_path": "02_text/europepmc/PMC9581348.txt",
+  "raw_bytes": 175878,
+  "text_chars": 63212,
+  "raw_sha256": "81cd2207fdab37303fe8a766ad5181b22342206c11a83fc35fafca10e483ae4d",
+  "text_sha256": "a69b42b199f2919b06314203fc0c599dd1175a5252fa1e0c363935e30822e0d3",
+  "retrieved_at": "2026-10-25T15:38:48.848637+00:00"
+}

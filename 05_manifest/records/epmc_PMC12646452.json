@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12646452",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The effects of narrative framing of own broken love on understanding the past and imagining the future in close relationships.",
+  "authors": "Czarnecka JZ, Trzebiński J.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0334973",
+  "pmcid": "PMC12646452",
+  "url": "https://europepmc.org/article/PMC/PMC12646452",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12646452/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "The project aimed to assess the effects of narrative framing applied to one's past romantic relationship. It was expected that the activation of self-story on broken love would lead to more beneficial thinking about the personal past and possible future in close relationships. Women after the romantic relationship breakup (N = 422, 18-30 years old) took part in a two-stage naturalistic experiment in which they were randomly assigned to two sets. The narrative set participants wrote a story of broken love, while the control set participants answered questions about the past relationship. After seven days, participants declared their current thoughts and breakup understanding and provided open responses on the breakup reasons and thoughts about the future in close relationships. Self-story activation led to higher reflection elaboration and greater focus on causal connections, actions, and appropriate time perspectives. Women with activated self-stories provided more coherent descriptions of breakup reasons, declared a higher understanding of breakup, and experienced more future-oriented thoughts. The presence of the reported effects differed with the mode of exploration of the self-story activation level, and most of them were positively related to the level of narrative organization (plot structuring) of the narrative set participants' self-stories. These results underscore the impact of narrative thinking on cognition, and suggest that self-story writing interventions could help manage challenging interpersonal experiences.",
+  "raw_path": "01_raw/europepmc_xml/PMC12646452.xml",
+  "text_path": "02_text/europepmc/PMC12646452.txt",
+  "raw_bytes": 343830,
+  "text_chars": 120003,
+  "raw_sha256": "6bf509d2c6d50925b51b5d2ca15e529d4c6d2117b51fed1b9fd2437ac506a73c",
+  "text_sha256": "f16faa7b7e595b2e3cb97f72ef4eec35b5c72c92e98249dcee5eea11a29a1b03",
+  "retrieved_at": "2026-10-25T13:48:23.069586+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12133287",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Determinants of nonphysical intimate partner violence: a cross-sectional study with nationally representative data from Canada.",
+  "authors": "Shields M, Tonmyr L, Pollock N, Gonzalez A, Hovdestad W, Tanaka M, MacMillan H.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1093/aje/kwae305",
+  "pmcid": "PMC12133287",
+  "url": "https://europepmc.org/article/PMC/PMC12133287",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12133287/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Based on a nationally representative survey of the Canadian population conducted in 2019/2020, this study examined the prevalence and determinants of nonphysical intimate partner violence (NP-IPV). NP-IPV was defined as experiences of emotional abuse, controlling behaviors, or economic abuse during the past 5 years. Women (17.3%) and men (16.9%) were equally likely to report NP-IPV, often without co-occurring physical/sexual IPV. For both genders, the risk of NP-IPV decreased with age and increased with financial strain and having a disability. Childhood maltreatment (sexual abuse, emotional abuse, and exposure to emotional IPV for women and sexual abuse and emotional abuse for men) was associated with an increased likelihood of reporting NP-IPV in adulthood. Other risk factors included heavy episodic drinking (self and/or spouse/partner) for women and living in a neighborhood with high levels of social disorder for men. Having confidence in the police was a protective factor for both genders. These associations generally persisted in regression analyses controlling for co-occurring physical/sexual IPV. Future research should focus on methods of preventing NP-IPV and the development of gender-specific interventions to reach and support those who experience NP-IPV. Furthermore, there is a need to improve and standardize measures of NP-IPV.",
+  "raw_path": "01_raw/europepmc_xml/PMC12133287.xml",
+  "text_path": "02_text/europepmc/PMC12133287.txt",
+  "raw_bytes": 217147,
+  "text_chars": 28543,
+  "raw_sha256": "0bd53a88f1e7e6982dddfb3ceb8e887c2bd83ccff05968510754972496152e11",
+  "text_sha256": "c580c79801a1532a5af2ca8c6f73ff78d489437f2b96bbfb2f1425353a867539",
+  "retrieved_at": "2026-10-25T15:44:41.712635+00:00"
+}

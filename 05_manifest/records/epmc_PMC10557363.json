@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10557363",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Promoting Healthy Relationships in Foster Care-\"If I Had Seen What a Healthy Relationship Looks Like, that Would Have Changed My Perspective\".",
+  "authors": "Ball B, Hoefer S, Ding X, Sevillano L, Faulkner M.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/10778012231199106",
+  "pmcid": "PMC10557363",
+  "url": "https://europepmc.org/article/PMC/PMC10557363",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10557363/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "High levels of intimate partner violence among youth and young adults with history in foster care can perpetuate the cycle of violence and abuse. It is therefore important to understand how the experience of growing up in foster care impacts youths' understanding and formation of intimate relationships. This qualitative study centered the perspectives of young adults and investigated what they learned about relationships through interactions with foster caregivers and child welfare professionals. We conducted semi-structured interviews with 27 young adults and used Consensual Qualitative Research methods to identify critical experiences in foster care and formulate strategies for promoting healthy relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC10557363.xml",
+  "text_path": "02_text/europepmc/PMC10557363.txt",
+  "raw_bytes": 116831,
+  "text_chars": 61007,
+  "raw_sha256": "544fd19b3085a683849a4251228a67642a38155a2fe2fd3b960c0c7b3bbb7b02",
+  "text_sha256": "60f4afc1cbc4e6b6379062f2a1efae5d158a0cca7847dd6f3c612f378feefa0b",
+  "retrieved_at": "2026-10-25T15:39:56.796604+00:00"
+}

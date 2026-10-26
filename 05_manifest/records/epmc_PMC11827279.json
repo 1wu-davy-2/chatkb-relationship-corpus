@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11827279",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Friendships in Emerging Adulthood: The Role of Parental and Friendship Attachment Representations and Intimacy.",
+  "authors": "Oldeman MG, Cillessen AHN, van den Berg YHM.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/01461672231195339",
+  "pmcid": "PMC11827279",
+  "url": "https://europepmc.org/article/PMC/PMC11827279",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11827279/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_disclosure"
+  ],
+  "abstract": "The current studies addressed the associations between attachment representations with parents and a single best friend, intimacy behaviors (self-disclosure and support-seeking), and friendship quality in emerging adulthood, using the actor-partner interdependence mediation model (APIMeM). Study 1 ( N = 186 dyads) examined whether attachment to parents predicted friendship quality, and whether this was mediated by attachment to their best friend. More avoidance or anxiety with parents predicted lower friendship quality, which was mediated by avoidance or anxiety with their best friend. Study 2 ( N = 118 dyads) examined whether self-disclosure and support-seeking mediated the link between attachment with best friend and friendship quality. Anxiety with their best friend predicted lower friendship quality, which was mediated by support-seeking. Anxiety predicted less self-disclosure and support-seeking. We found no effects of avoidance. No partner effects were found in both studies. The findings are discussed in terms of adult attachment theory.",
+  "raw_path": "01_raw/europepmc_xml/PMC11827279.xml",
+  "text_path": "02_text/europepmc/PMC11827279.txt",
+  "raw_bytes": 164413,
+  "text_chars": 54634,
+  "raw_sha256": "d4035c3285daf258470e73189c9f3d981110787a27bbb2eb9f4734f5a5564019",
+  "text_sha256": "3a72e3827c544533acdc6dacd1d962796dc6b1b632fe107756edcf3aea9e8151",
+  "retrieved_at": "2026-10-25T13:56:30.821817+00:00"
+}

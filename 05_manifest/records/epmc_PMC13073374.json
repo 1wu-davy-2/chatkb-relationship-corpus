@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13073374",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dating Violence, Emotional Dependence and Mental Health Problems in Ecuadorian College Students.",
+  "authors": "Castillo-Gonzáles M, León-Del-Barco B, Mendo-Lázaro S, Terán-Andrade E.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/healthcare14070834",
+  "pmcid": "PMC13073374",
+  "url": "https://europepmc.org/article/PMC/PMC13073374",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13073374/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "emerging_adults"
+  ],
+  "abstract": "Background: Dating violence and emotional dependence are consistently associated with mental health problems among university students. However, less is known about how these associations operate indirectly and whether they differ by gender, particularly in Latin American contexts. Objective: To evaluate a model examining the association between dating violence (X) and mental health problems (Y) among university students, with emotional dependence (M) as an intervening variable and gender (W) as a moderator. Methods: A quantitative, cross-sectional study was conducted with 3202 university students. Participants completed the Dating Violence Questionnaire (CUVINO), the Emotional Dependence Questionnaire (CDE), and the Strengths and Difficulties Questionnaire (SDQ-Cas). Conditional process analyses were performed using Hayes' PROCESS macro (Model 14) with bootstrapping procedures. Results: Dating violence and emotional dependence were significantly associated with internalizing mental health problems. Emotional dependence showed a significant indirect association between dating violence and internalizing problems. This indirect association varied by gender, as indicated by a significant index of moderated mediation. Conclusions: The findings support a conditional indirect association between dating violence and internalizing mental health problems through emotional dependence, moderated by gender. These results highlight the importance of considering relational and gender-related factors when examining the mental health correlates of dating violence among university students.",
+  "raw_path": "01_raw/europepmc_xml/PMC13073374.xml",
+  "text_path": "02_text/europepmc/PMC13073374.txt",
+  "raw_bytes": 137234,
+  "text_chars": 39403,
+  "raw_sha256": "db7e7ba23572cd373b8664c65c18f3829b96829e3e9679623d4e07d83eb36d91",
+  "text_sha256": "8ffc4624a137699b7475fb178e0e86a9dff6e5db8f3789fc34a3230f0c11ad9a",
+  "retrieved_at": "2026-10-25T15:29:20.711218+00:00"
+}

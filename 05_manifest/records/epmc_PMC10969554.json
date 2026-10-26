@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10969554",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Translation and Preliminary Psychometric Validation of the Ghosting Questionnaire in Urdu.",
+  "authors": "Husain W, Sadiqa A, Zahid E, Idrees F, Ammar A, Saif Z, Trabelsi K, Pandi-Perumal SR, Seeman MV, Jahrami H.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/ejihpe14030037",
+  "pmcid": "PMC10969554",
+  "url": "https://europepmc.org/article/PMC/PMC10969554",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10969554/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "ghosting"
+  ],
+  "abstract": "Background \"Ghosting\" refers to the practice of abruptly cutting off all contact with a person with whom you have been in constant correspondence. The break comes without warning and without understandable provocation. The term most commonly applies to online romantic relationships. The motives for and effects of ghosting have been studied, and validated research questionnaires have been developed; however, there are no such questionnaires available for Urdu speakers. The purpose of this study was to adapt the \"Ghosting Questionnaire (GQ)\" for use in Pakistan and India, two of the world's most populous countries-a process that involves translation, adaptation, and validation. Methods The study's methodology involved translating the GQ into Urdu using both forward and backward translation techniques. Convergent validity, test-retest reliability, internal consistency, confirmatory factor analysis, and goodness of fit were all components of the psychometric analyses. Conclusions The Urdu version of the GQ demonstrated a good internal consistency, with the Cronbach's alpha and McDonald's omega both exceeding 0.90. It also showed a high test-retest reliability-(0.96). The one-factor structure was confirmed by the confirmatory factor analysis, which agreed with the original English version of the GQ.",
+  "raw_path": "01_raw/europepmc_xml/PMC10969554.xml",
+  "text_path": "02_text/europepmc/PMC10969554.txt",
+  "raw_bytes": 73592,
+  "text_chars": 27410,
+  "raw_sha256": "fe2ac1b05d43f8f3cd57e21e69cea75ac103b21e43910dc125aa02d7eccc22a4",
+  "text_sha256": "58c2b7ba89c1e55b1e53c35be0ec30d280794674dfe3a9f76f053ef0da634e56",
+  "retrieved_at": "2026-10-25T13:53:04.945235+00:00"
+}

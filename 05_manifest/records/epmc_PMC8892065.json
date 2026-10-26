@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8892065",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Unsupported and Stigmatized? The Association Between Relationship Status and Well-Being Is Mediated by Social Support and Social Discrimination.",
+  "authors": "Girme YU, Sibley CG, Hadden BW, Schmitt MT, Hunger JM.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/19485506211030102",
+  "pmcid": "PMC8892065",
+  "url": "https://europepmc.org/article/PMC/PMC8892065",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8892065/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "Single adults, on average, experience worse well-being compared to coupled adults. But why? The current research bridged interpersonal and intergroup perspectives to examine the influence of social support and social discrimination on single versus coupled adults' well-being. We drew on a nationally representative prospective study from New Zealand (Study 1, N = 4,024) and an integrative data analysis of three North American data sets examining peoples' general (Study 2, N = 806) and day-to-day (Study 2, N = 889 and 9,228 observations) social experiences. The results demonstrated that single adults reported lower life satisfaction compared to coupled adults, and this may be partly due to single adults reporting lower perceptions of social support availability and greater experiences of negative treatment and discrimination compared to coupled adults. These novel findings move away from stereotypical assumptions about singlehood and highlight the important role of social relationships and interactions in determining single adults' happiness and well-being.",
+  "raw_path": "01_raw/europepmc_xml/PMC8892065.xml",
+  "text_path": "02_text/europepmc/PMC8892065.txt",
+  "raw_bytes": 136599,
+  "text_chars": 38972,
+  "raw_sha256": "d06583a350a4011dd556ff184a76444bc1238b87716752929a85d810d989211f",
+  "text_sha256": "a90b5759720ca15af01403088bce4f99ed1a3d9a3a91c4c0ea2c2630f0c777e3",
+  "retrieved_at": "2026-10-25T15:46:41.227353+00:00"
+}

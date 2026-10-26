@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_24230",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "今古奇觀",
+  "gutenberg_id": "24230",
+  "url": "https://www.gutenberg.org/ebooks/24230",
+  "download_url": "https://www.gutenberg.org/cache/epub/24230/pg24230.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/24230.txt",
+  "text_path": "02_text/gutenberg/gut_24230_今古奇觀.txt",
+  "raw_bytes": 2896630,
+  "text_chars": 954093,
+  "text_sha256": "a53a16ccd039c27158b61c2a69e5efb141bb0689263879cfb56a89f4fef6d9e6",
+  "retrieved_at": "2026-10-25T15:44:53.775287+00:00"
+}

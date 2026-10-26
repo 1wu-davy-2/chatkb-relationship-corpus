@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13416257",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "How participants engage with emotion-focused training for couple identity (EFT-CIDE), a 14-day self-guided mobile app intervention: a framework analysis.",
+  "authors": "Halamová J.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1877423",
+  "pmcid": "PMC13416257",
+  "url": "https://europepmc.org/article/PMC/PMC13416257",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13416257/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "communication"
+  ],
+  "abstract": "Background In emotion-focused therapy for couples (EFT-C), identity is one of three relational systems alongside attachment and attraction. Emotion-Focused Training for Couple Identity (EFT-CIDE) is the first self-guided mobile app intervention targeting the identity system. Its quantitative outcomes are reported in a parallel manuscript. Although qualitative engagement work exists for other digital couple interventions, none has examined participant engagement with identity system intervention content in a self-guided mobile app format. In addition, qualitative engagement studies of digital couple interventions typically rely on post-hoc interviews; analysis of reflective text participants produce within the app itself remains uncommon. Methods We analysed reflective text written by 60 Slovak participants during the 14-day EFT-CIDE intervention (2,740 indexed segments). Coding combined deductive anchors from EFT-C and the respect literature with inductive codes admitted via a watchlist, using the Framework Method with a longitudinal layer. Cross-case patterns were paired with within-case trajectories across the 14-day window. Results Five backbone codes had high reach across the dataset: active listening (90%), giving appreciation (88%), constructive expression (85%), repair as growth (75%), and healthy boundary setting (67%). Three asymmetric splits characterised most participants: healthy boundary setting dominated over both internal and external blocks (13:1:1), mutual cycle attribution dominated over self-blame (9:1), and repair as growth dominated over over-responsibility (8:1). Six longitudinal trajectory types organised the dataset; 32 of 60 participants reached an integrative day-14 closure (\"change starts with me\"). Conclusion EFT-CIDE appears to work well for participants showing open engagement or distress followed by recovery, and may serve as a useful adjunct for those in sustained distress. A smaller group of participants did not engage substantively with the app format.",
+  "raw_path": "01_raw/europepmc_xml/PMC13416257.xml",
+  "text_path": "02_text/europepmc/PMC13416257.txt",
+  "raw_bytes": 152760,
+  "text_chars": 88057,
+  "raw_sha256": "4b00807ef9117cd018334a67a9c5e4fdc663527396e211a4c73411a404aa318f",
+  "text_sha256": "a84c04ea5aee7e68fbd98da12d837656addbc86b348345a67e4dd5ea95dda08a",
+  "retrieved_at": "2026-10-25T13:46:02.310387+00:00"
+}

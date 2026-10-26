@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12675855",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Further Validation of the Couple Relationship Scale.",
+  "authors": "Starken P, Stratton P, Kieran A, Sherbersky H, Shepherd M, Galbraith M, Whittinger N, Pomini V, Kunsang Yang Yang, Nearchou F, Shevlin M, Carr A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jmft.70100",
+  "pmcid": "PMC12675855",
+  "url": "https://europepmc.org/article/PMC/PMC12675855",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12675855/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "This study aimed to build on previous research by S. R. Anderson et al. in 2022 and further validate the Couple Relationship Scale (CRS), a routine outcome measure for use in couple therapy. Using data from a community sample (N = 300, Mean age = 41.61, 49% females), confirmatory factor analysis supported a robust single-factor structure with no evidence of gender-based measurement invariance. The CRS demonstrated excellent internal consistency reliability. Strong concurrent validity was evidenced by strong correlations with established measures of couple functioning and moderate correlations with mental health and well-being scales. CRS items showed expected associations with corresponding subscales of other measures of relational functioning and well-being scales. Scores were largely independent of demographic variables. CRS shows promise as a psychometrically sound tool to bridge the research-practice gap in couple therapy, although further validation in clinical populations is warranted.",
+  "raw_path": "01_raw/europepmc_xml/PMC12675855.xml",
+  "text_path": "02_text/europepmc/PMC12675855.txt",
+  "raw_bytes": 150949,
+  "text_chars": 44646,
+  "raw_sha256": "dedb4f478056a78a77cee9a95499a0d197ab80e743d0c51bcf6f2fad5e246b41",
+  "text_sha256": "965105bdd1dfca0661afe1b29ef8b71d701cc50acda00d50a4e609f3c2840118",
+  "retrieved_at": "2026-10-25T15:32:14.840105+00:00"
+}

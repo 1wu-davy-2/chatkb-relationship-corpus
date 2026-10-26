@@ -1,0 +1,24 @@
+{
+  "doc_id": "zh_civil_code",
+  "source": "zh_official",
+  "source_type": "law",
+  "title": "中华人民共和国民法典",
+  "page_title": "中华人民共和国司法部",
+  "url": "https://www.moj.gov.cn/pub/sfbgw/zwgkztzl/2025nianzhuanti/2025mfdxcy/2025mfdxcy_mfdql/202505/t20250507_518708.html",
+  "language": "zh",
+  "license": "official_public_document",
+  "license_url": "",
+  "topics": [
+    "law",
+    "marriage",
+    "family",
+    "property"
+  ],
+  "excerpt_only": false,
+  "raw_path": "01_raw/zh_official/civil_code.html",
+  "text_path": "02_text/zh_official/civil_code.txt",
+  "raw_bytes": 413732,
+  "text_chars": 111264,
+  "text_sha256": "fab831d4112948debc7bc3eda36323a18273a6df1bed2146d352e5cb00cdb952",
+  "retrieved_at": "2026-10-25T13:58:18.364083+00:00"
+}

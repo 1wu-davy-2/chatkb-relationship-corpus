@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10212108",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Correlates of condom use among male university students from eastern China who engage in casual sex.",
+  "authors": "Chen W, Zhou X, Ma Q, He L, Chen W, Guo Z, Chen L.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0283970",
+  "pmcid": "PMC10212108",
+  "url": "https://europepmc.org/article/PMC/PMC10212108",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10212108/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "Consistent condom use with casual partners is critical for preventing the transmission of human immunodeficiency virus (HIV) among male university students. This study aimed to determine the level of consistent condom use and explore the correlates of condom use consistency in male university students in eastern China. A descriptive cross-sectional survey was conducted in 13 universities in Zhejiang Province, which involved the recruitment of 31,674 students by stratified random sampling. Among them, 545 male students who engaged in casual sex in the year prior to this study were included. Adjusted and unadjusted logistic regression models were used to examine the correlates associated with consistent condom use. Among the 545 male university students, only 205 (37.6%) consistently used condoms in the previous year. The following correlates were associated with higher rates of consistent condom use: 1) Knowledge, specifically, the number of correct answers to \"HIV infection can be determined by appearance\" (AOR: 2.06, 95% CI: 1.21-3.49); 2) never finding casual partners on the internet during the past over the prior year (AOR: 0.63; 95% CI: 0.40-0.99); 3) never drinking alcohol before casual sex during the last over the prior year (AOR: 0.30; 95% CI: 0.20-0.46); 4) never engaging in commercial sex (AOR: 0.57; 95% CI: 0.34-0.96); and 5) high condom self-efficacy score (AOR: 2.55; 95% CI: 1.44-4.49). The study found a low level of consistent condom use among male university students. Promoting condom self-efficacy, reducing web-based casual sex, drinking before sex, and commercial sex are essential to improving the level of consistent condom use among male university students to reduce the transmission of HIV.",
+  "raw_path": "01_raw/europepmc_xml/PMC10212108.xml",
+  "text_path": "02_text/europepmc/PMC10212108.txt",
+  "raw_bytes": 101351,
+  "text_chars": 21346,
+  "raw_sha256": "097210210b4635a4e3e239c8e4b1fb3a279e90c1a352e0430f962efc7f94dffd",
+  "text_sha256": "14426d4ce155c23b62a99b6cfd087e12a56a09ff7910bc80a6d5cdb4a5f9cb3e",
+  "retrieved_at": "2026-10-26T13:06:55.612031+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9239691",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Assessing the Within-Person Variability of Internal and External Sexual Consent.",
+  "authors": "Willis M, Jozkowski KN, Bridges AJ, Veilleux JC, Davis RE.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1080/00224499.2021.1913567",
+  "pmcid": "PMC9239691",
+  "url": "https://europepmc.org/article/PMC/PMC9239691",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9239691/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types"
+  ],
+  "abstract": "Sexual consent is often conceptualized as an internal willingness to engage in sexual activity, which can be communicated externally to a sexual partner. Internal sexual consent comprises feelings of physical response, safety/comfort, arousal, agreement/want, and readiness; external sexual consent includes communication cues that may be explicit or implicit and verbal or nonverbal. Most previous research on sexual consent has focused on between-person differences; little attention has been devoted to examining the within-person variation of sexual consent across time. We conducted a 28-day experience sampling methodology (ESM) study with a sample of adults ( N = 113) to assess fluctuations in internal and external sexual consent across a given person's sexual events. We found that more than 50% and up to 80% of the variance in sexual consent scores could be accounted for by within-person variability. The type of sexual behavior participants engaged in during a sexual event predicted their internal and external consent. Further, internal consent feelings predicted external consent communication. Overall, our findings provided initial evidence regarding the extent that situational contexts are relevant for sexual consent. ESM study designs may be used to further investigate the potential contextual, intrapersonal, and interpersonal factors associated with internal and external sexual consent.",
+  "raw_path": "01_raw/europepmc_xml/PMC9239691.xml",
+  "text_path": "02_text/europepmc/PMC9239691.txt",
+  "raw_bytes": 123983,
+  "text_chars": 53946,
+  "raw_sha256": "bd44938555f67bca0eadb703e6aabfec715c39ddb47cecd531697728f346c515",
+  "text_sha256": "89d59c85d7a5c195c11e60b96c5dadcbc7f0bfbddd79f6bd04900389a4b0d57a",
+  "retrieved_at": "2026-10-26T13:27:43.425684+00:00"
+}

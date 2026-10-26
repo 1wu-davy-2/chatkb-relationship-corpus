@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10426024",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marriage, bridewealth and power: critical reflections on women's autonomy across settings in Africa.",
+  "authors": "Akurugu CA, Dery I, Domanban PB.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1017/ehs.2022.27",
+  "pmcid": "PMC10426024",
+  "url": "https://europepmc.org/article/PMC/PMC10426024",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10426024/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "bride_price"
+  ],
+  "abstract": "This article examines ongoing discourses on the importance of the marriage payment and its role in constraining women's autonomy across societies in Africa. First, we review how bridewealth has been conceptualised across multiple disciplines, including the work of evolutionary human scientists. We then summarise our research grounded in residential ethnographic fieldwork data collected over a period of a year in a rural settlement in north-western Ghana. Feminist accounts on women's lived experiences throughout bridewealth practising societies point to their subordination. In some contexts, including northern Ghana, bridewealth is perceived as engendering women's oppression. To liberate women from patriarchal norms, some gender advocates call for undoing of the institution of the marriage payment. Nonetheless, the women who bear the brunt of gendered oppression and the men who derive patriarchal dividends from it are averse to this undoing discourse as the bridewealth normatively secures legitimacy for women. Undoing bridewealth may mean further rendering precarious women's status in the marital family. We conclude that rather than undoing the revered institution of bridewealth, there is need to build on culturally appropriate notions of communitarianism as encapsulated by the Ubuntu philosophy and indigenous systems such as the traditional courts for negotiating the rights of women.",
+  "raw_path": "01_raw/europepmc_xml/PMC10426024.xml",
+  "text_path": "02_text/europepmc/PMC10426024.txt",
+  "raw_bytes": 98606,
+  "text_chars": 56578,
+  "raw_sha256": "b76fb117f27ef7f6dc56b6033153333346ef383302b07fe83ee163c9db639fe2",
+  "text_sha256": "43a70f30e685925af23280b9ca7ad3ed70d7d81f4bed9c29a469d3a13b7d4900",
+  "retrieved_at": "2026-10-25T15:31:03.053135+00:00"
+}

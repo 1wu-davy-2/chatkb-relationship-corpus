@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8322522",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Attachment Style and Jealousy in the Digital Age: Do Attitudes About Online Communication Matter?",
+  "authors": "Sullivan KT.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2021.678542",
+  "pmcid": "PMC8322522",
+  "url": "https://europepmc.org/article/PMC/PMC8322522",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8322522/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Romantic jealousy, a complex response to a real or perceived threat to a romantic relationship, can have serious negative consequences for individuals, partners and perceived rivals. The likelihood of a jealous response is heightened among individuals who experience attachment anxiety, and online communication and social media provide unique fodder for romantic jealousy. The purpose of the current study is to test whether the association between attachment anxiety and online jealousy (jealous response to ambiguous hypothetical online scenarios) is moderated by negative attitudes about online communication. Individuals in dating relationships were asked about attachment anxiety and attitudes about online communication (i.e., apprehension and concern about misunderstandings) as well as emotional, cognitive, and behavioral online jealousy. Hierarchical linear regression revealed an attachment anxiety-attitude interaction, such that the link between attachment anxiety and jealousy was stronger for participants with relatively low levels of negative attitudes about online communication compared to participants with relatively high levels of negative attitudes. The current study expands knowledge about attachment anxiety and jealousy in the context of online communication and social media, and highlights the importance of considering attitudes about online communication when studying relationship processes in the digital arena.",
+  "raw_path": "01_raw/europepmc_xml/PMC8322522.xml",
+  "text_path": "02_text/europepmc/PMC8322522.txt",
+  "raw_bytes": 89968,
+  "text_chars": 32065,
+  "raw_sha256": "0f5de5d2586e36cfd23c3cc1836568f84bbff863c54d44d168390bdc24e26740",
+  "text_sha256": "2f81d32d35e7ab3948443768fd586c2f5151be5bad041aa8979c58f287b5270b",
+  "retrieved_at": "2026-10-25T15:45:10.418764+00:00"
+}

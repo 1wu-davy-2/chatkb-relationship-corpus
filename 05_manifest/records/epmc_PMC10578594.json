@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10578594",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Effects of digital chatbot on gender attitudes and exposure to intimate partner violence among young women in South Africa.",
+  "authors": "De Filippo A, Bellatin P, Tietz N, Grant E, Whitefield A, Nkopane P, Devereux C, Crawford K, Vermeulen B, Hatcher AM.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1371/journal.pdig.0000358",
+  "pmcid": "PMC10578594",
+  "url": "https://europepmc.org/article/PMC/PMC10578594",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10578594/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "ai_companion"
+  ],
+  "abstract": "Background South Africa has among the highest rates of intimate partner violence (IPV) globally, with young women at heightened risk due to inequitable gender roles, limited relationship skills, and inadequate social support. Despite an urgent need for violence prevention in low- and middle-income settings, most efficacious approaches are time-intensive and costly to deliver. Digital, interactive chatbots may help young women navigate safer relationships and develop healthier gender beliefs and skills. Methods Young women (18-24 years old) across South Africa were recruited via Facebook for participation in an individually randomised controlled trial (n = 19,643) during the period of June 2021-September 2021. Users were randomly allocated, using a pipeline algorithm, to one of four trial arms: Pure Control (PC) had no user engagement outside of study measures; Attention Treatment (T0) provided didactic information about sexual health through a text-based chatbot; Gamified Treatment (T1) was a behaviourally-informed gamified text-based chatbot; Narrative Treatment (T2) was a behaviourally-informed drama delivered through pre-recorded voice notes. All chatbots were delivered in WhatsApp, through which users were invited to complete brief \"quizzes\" comprising adapted versions of validated scales. Primary outcomes were short-form adaptations of scales for gender attitudes (Gender Relations Scale) and past-month IPV (WHO Multi-country Study Instrument). Secondary outcomes were identification of unhealthy relationship behaviours (Intimate Partner Violence Attitudes Scale) and brief screener for depressive symptoms (Patient Health Questionnaire). A direct chat link to a trained counsellor was a safety measure (accessed by 4.5% of the sample). We estimated treatment effects using ordinary least squares and heteroskedasticity robust standard errors. Findings The trial retained 11,630 (59.2%) to the primary endpoint of gender attitudes. Compared to control, all treatments led to moderate and significant changes in attitudes towards greater gender equity (Cohen's D = 0.10, 0.29, 0.20 for T0, T1, and T2, respectively). The gamified chatbot (T1) had modest but significant effects on IPV: 56% of young women reported past-month IPV, compared to 62% among those without treatment (marginal effects = -0.07, 95%CI = -0.09to-0.05). The narrative treatment (T2) had no effect on IPV exposure. T1 increased identification of unhealthy relationship behaviours at a moderate and significant level (Cohen's D = 0.25). Neither T1 nor T2 had a measurable effect on depressive symptoms as measured by the brief screener. Interpretation: A behaviourally-informed, gamified chatbot increased gender equitable attitudes and was protective for IPV exposure among young women in South Africa. These effects, while modest in magnitude, could represent a meaningful impact given potential to scale the low-cost intervention.",
+  "raw_path": "01_raw/europepmc_xml/PMC10578594.xml",
+  "text_path": "02_text/europepmc/PMC10578594.txt",
+  "raw_bytes": 166454,
+  "text_chars": 37398,
+  "raw_sha256": "da2613b804ea0e2db8d99419d7e8ab39db7d6acc1985b0fce717e04008bfe306",
+  "text_sha256": "8eed4d5056b186e7e307416e14fb085b2e1209dd267c5e506afbdc305c576541",
+  "retrieved_at": "2026-10-25T15:27:24.221815+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10919602",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Diminished psychedelic returns on distress: Marital status and household size.",
+  "authors": "Viña SM.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0293675",
+  "pmcid": "PMC10919602",
+  "url": "https://europepmc.org/article/PMC/PMC10919602",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10919602/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Although the use of psychedelics to impact health has seen growth, little research has tested the effects of culture conditions on the relationship. More specifically, how does marital status and family size affect the relationship between psychedelics and health? This study tests the relationship between Lifetime Classic Psychedelic Use (LCPU), marital status, and household size (number of people living in a household) on levels of psychological distress in the past 30 days. This project uses pooled data from the National Survey of Drug Use and Health (NSDUH) (2010 to 2018) (N = 674,521). The Final sample size is determined by the dependent variable, psychological distress in the past month (n = 158,633). The analysis includes a series of nested logistic regression models conducted in Stata 17. Results indicate that LCPU is independently associated with better health, but the association between LCPU and health varies across levels of household size. Larger households are associated with higher levels of distress, which are then exacerbated among psychedelics users. Furthermore, three-way interactions reveal that the negative association between household size and distress gets larger among psychedelic users who are married, divorced, and widowed. Overall, results suggest that household size negatively impacts the association between LCPU and health, with those who are married, divorced, and widowed experiencing the worst outcomes.",
+  "raw_path": "01_raw/europepmc_xml/PMC10919602.xml",
+  "text_path": "02_text/europepmc/PMC10919602.txt",
+  "raw_bytes": 245703,
+  "text_chars": 53494,
+  "raw_sha256": "f80fc75a7ad60dddc8e1775ba5180fc99e4e72677040e45005ec2a55ad9d595f",
+  "text_sha256": "f9c57581f2fdd41d212d9b443adc2c54311b2c2e5b221747055d1feebb0fdffe",
+  "retrieved_at": "2026-10-25T15:45:45.568531+00:00"
+}

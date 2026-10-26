@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_13615",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_sexuality_science",
+  "title": "Studies in the Psychology of Sex, Volume 6",
+  "gutenberg_id": "13615",
+  "url": "https://www.gutenberg.org/ebooks/13615",
+  "download_url": "https://www.gutenberg.org/cache/epub/13615/pg13615.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "sexuality",
+    "psychology",
+    "public_domain",
+    "psychology of sex"
+  ],
+  "raw_path": "01_raw/gutenberg/13615.txt",
+  "text_path": "02_text/gutenberg/gut_13615_studies_in_the_psychology_of_sex_volume.txt",
+  "raw_bytes": 1816249,
+  "text_chars": 1708676,
+  "text_sha256": "dfec8924aeb821ff547964a2dca2ac4584392fcfbb26f4f8bfce7aa515894ba7",
+  "retrieved_at": "2026-10-26T13:00:49.416385+00:00"
+}

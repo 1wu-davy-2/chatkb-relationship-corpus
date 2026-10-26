@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11696088",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Perceived social support, marital satisfaction, and resilience in women with abortion experience through structural equation modeling.",
+  "authors": "Yadollahi P, Doostfatemeh M, Khalajinia Z, Karimi Z, Ghavi F.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1038/s41598-024-83485-2",
+  "pmcid": "PMC11696088",
+  "url": "https://europepmc.org/article/PMC/PMC11696088",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11696088/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Abortion can be a very stressful experience for women, and many social and psychological factors can influence this stress. The present study aims to investigate the impact of perceived social support on the marital satisfaction of women who have undergone an abortion. The study also explored whether resilience played a mediating role in this relationship. Data were analyzed from the cross-sectional study. The Perceived Social Support (including Social support, friend support, and other support subscales), ENRICH marital satisfaction, and Connor-Davidson Resilience questionnaire were completed by 150 women who had undergone an abortion and were referred to hospitals and clinics of Jahrom University of Medical Sciences from April 2021 to June 2021. The structural equation modeling (SEM) approach was used to obtain the direct and indirect effects of Perceived Social Support subscales and Resilience on marital satisfaction. The study found that the women who participated had high marital satisfaction and social support scores, while their resilience scores were moderate. The results indicated a positive correlation between social support dimensions and marital satisfaction and resilience. The study also revealed that family support (β = 0.41, p < 0.001), other supports (β = 0.46, p < 0.001), and resilience as a mediating variable (β = 0.15, p < 0.001) had a direct and significant positive impact on marital satisfaction. However, none of the three domains of perceived social support showed any indirect significant relationship with marital satisfaction. The study's findings demonstrate that the perception of social support from family members and other individuals can significantly impact the level of satisfaction in a marriage. Appropriate social support can increase resilience and help couples better cope with the stress associated with abortion. This study suggests that educating families, healthcare providers, and other individuals can help women experiencing this issue by providing them with counseling and support. This can ultimately help women maintain their mental and sexual health.",
+  "raw_path": "01_raw/europepmc_xml/PMC11696088.xml",
+  "text_path": "02_text/europepmc/PMC11696088.txt",
+  "raw_bytes": 88103,
+  "text_chars": 27601,
+  "raw_sha256": "02c4765acc08549dc580f0834309f2e58fdb459b0597387659fd19e9fed95790",
+  "text_sha256": "483edb151c7a49154b1d8378935ecea794ee4eafa22b3d4d2c9b072220230705",
+  "retrieved_at": "2026-10-25T15:43:36.512374+00:00"
+}

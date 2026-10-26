@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5420550",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexting: Prevalence, Predictors, and Associated Sexual Risk Behaviors among Postsecondary School Young People in Ibadan, Nigeria.",
+  "authors": "Olatunde O, Balogun F.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.3389/fpubh.2017.00096",
+  "pmcid": "PMC5420550",
+  "url": "https://europepmc.org/article/PMC/PMC5420550",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5420550/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Background and aims Sending and receiving sexually suggestive or explicit images or texts (sexting) have been shown to be associated with health risk behaviors but literature about this phenomenon is scarce in Nigeria. This study looked at the prevalence, predictors, and associated sexual risk behaviors of sexting among postsecondary school young persons in Ibadan, Nigeria. Methods This was a cross-sectional study using a self-administered questionnaire. Data were obtained for sociodemographic characteristics and sexual orientation, sexting behavior, personality assessment (using the International Personality Item Pool Big-Five factor markers), indicators for problematic phone use (using Mobile Phone Problem Use Scale), and sexual behavior. Chi square test and logistic regression were used for data analysis with p = 0.05. Results Five hundred seventy-five participants were recruited, age range 14-24 years, and 46.0% were males. Twenty percent had sent sexts, while 33.2% had received sexts. Fifty-four percent had high scores in extraversion, 46.5% had moderate-severe problematic phone use. Sixteen percent had ever had sex, and 40.0% of these had multiple sexual partners. Males were more likely than females to have sent sexts (OR = 2.67, 95% CI: 1.68-4.24). Having a high extraversion score (OR = 2.44, 95% CI: 1.35-4.41) and moderate-severe problematic phone use (OR = 5.56, 95% CI: 2.73-11.32) was predictive of sexting. Sending and receiving of sext were significantly associated with ever having sexual intercourse (OR = 4.01, 95% CI: 2.25-7.17 and OR = 2.96, 95% CI: 1.72-5.12, respectively). Conclusion Sexting was prevalent among postsecondary school young persons in Ibadan and was associated with male sex and problematic phone use. Intervention targeted at the identified susceptible group of young people may reduce its associated problems in this study group.",
+  "raw_path": "01_raw/europepmc_xml/PMC5420550.xml",
+  "text_path": "02_text/europepmc/PMC5420550.txt",
+  "raw_bytes": 106793,
+  "text_chars": 27568,
+  "raw_sha256": "410c414d72fa2dfe1b739746db772bb4f249bb3f12ff59acb4f9aa1ff0de938e",
+  "text_sha256": "18bada8d727dbf6231a809eefae9489d78a5a37e4153fec41f06a12d7c26c1fa",
+  "retrieved_at": "2026-10-26T13:14:14.364918+00:00"
+}

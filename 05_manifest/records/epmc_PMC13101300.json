@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13101300",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Gambling disorder in the context of couple relationships: a systematic review.",
+  "authors": "Abate R, Tartaglione M, Splaice D, Tafà M, Rogier G, Velotti P.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-04213-1",
+  "pmcid": "PMC13101300",
+  "url": "https://europepmc.org/article/PMC/PMC13101300",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13101300/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "BACKGROUND: In recent years, Gambling Disorder (GD) has gained increasing attention in psychological and neuroscientific research due to its significant behavioral, social, and economic consequences. GD shares core features with substance addictions, including craving, tolerance, and withdrawal, and is influenced by a complex interplay of genetic, neurobiological, and environmental factors. The couple's context plays a pivotal role in both the development and management of GD, as dysfunctional relational dynamics can perpetuate the disorder, leading to instability, chronic stress, financial difficulties, and even domestic violence. This systematic review aims to synthesize current evidence on the intersection between GD and couple relationships while identifying potential directions for future therapeutic and preventive interventions. METHODS: Following PRISMA guidelines (BMJ 372:n71, 2021), a systematic literature search was conducted using five databases (PsycInfo, PsycArticles, Scopus, PubMed, and MEDLINE). RESULTS: The 30 studies included in this review examined various aspects of GD within the couple's context. Specifically, 40% of the studies focused on the effectiveness of treatments for gamblers and their impact on partners and family members, while 30% investigated correlation between violence and GD. Additionally, 13.33% analyzed the bidirectional relationship between GD and couple dynamics, both as a contributing factor and as a consequence, 13.33% explored the influence of marital status and relationship conditions on GD, and 3.33% examined the role of attachment styles in gambling behaviors. CONCLUSION: This review underscores the intricate interplay between GD and couple relationships. The couple dynamic plays a crucial role in both the progression and management of GD, with dysfunctional interactions exacerbating stress and instability. Addressing these relational factors in treatment approaches may improve outcomes for individuals with GD and their partners.",
+  "raw_path": "01_raw/europepmc_xml/PMC13101300.xml",
+  "text_path": "02_text/europepmc/PMC13101300.txt",
+  "raw_bytes": 170773,
+  "text_chars": 60206,
+  "raw_sha256": "0090498cb5bf7a0839e3078ef5fad5c2939221998e71c318d9fab1f50ff817f6",
+  "text_sha256": "31564c8ddadf391b2e90d383d1ac2e4aed8f3e47bfa14b46135d156b4ff06976",
+  "retrieved_at": "2026-10-25T13:54:37.241028+00:00"
+}

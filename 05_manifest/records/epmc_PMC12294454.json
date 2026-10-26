@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12294454",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dating Application Use and Its Relationship with Mental Health Outcomes Among Men Who Have Sex with Men in Urban Areas of Thailand: A Nationwide Online Cross-Sectional Survey.",
+  "authors": "Nasahwan S, Kunno J, Ong-Artborirak P.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/ijerph22071094",
+  "pmcid": "PMC12294454",
+  "url": "https://europepmc.org/article/PMC/PMC12294454",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12294454/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "ghosting"
+  ],
+  "abstract": "Dating applications (DAs) are widely used to establish social and sexual connections among men who have sex with men (MSM), particularly in urban areas. In this study, we aimed to examine the associations between DA use and mental health among Thai MSM. An online cross-sectional survey was completed by 442 MSM residing in Bangkok and urban municipalities across all regions of Thailand. Psychological distress (PD) and probable depression were assessed using the General Health Questionnaire (GHQ-12) and the Patient Health Questionnaire (PHQ-9), respectively. Of the participants, 62.7% were current users, with 33.2% experiencing PD and 33.9% having depression. A logistic regression analysis showed that PD was significantly associated with late-night use (AOR = 2.02, 95% CI: 1.08-3.78), matching failure (AOR = 1.95, 95% CI: 1.12-3.38), rejection (AOR = 2.07, 95% CI: 1.18-3.62), and ghosting (AOR = 1.78, 95% CI: 1.02-3.11). Simultaneously, depression was significantly associated with using DAs with the motivation of hooking up (AOR = 2.27, 95% CI: 1.05-4.93), privacy violations (AOR = 2.76, 95% CI: 1.42-5.38), unsolicited sexual images (AOR = 2.04, 95% CI: 1.11-3.74), physical assault (AOR = 2.97, 95% CI: 1.57-5.61), harassment (AOR = 2.54, 95% CI: 1.37-4.70), scams (AOR = 2.59, 95% CI: 1.41-4.77), and extreme disappointment from DA use (AOR = 5.98, 95% CI: 1.84-19.41). These findings highlight how DA usage patterns and negative experiences may contribute to the poorer mental health among MSM in urban areas.",
+  "raw_path": "01_raw/europepmc_xml/PMC12294454.xml",
+  "text_path": "02_text/europepmc/PMC12294454.txt",
+  "raw_bytes": 239568,
+  "text_chars": 42543,
+  "raw_sha256": "324b93eb64909f003dfbbf99efa366b9a5f197a096a49820d2f69ce7ed16082c",
+  "text_sha256": "ac87905759a8f6ec9acdecbe5a448a0d7dace303f114ee96e5e81fc05d6246d7",
+  "retrieved_at": "2026-10-25T13:54:32.225957+00:00"
+}

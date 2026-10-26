@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11280222",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual anxiety mediate relationship between sexual schemas and body image with sexual function in Iranian women.",
+  "authors": "Yousefi Afrashteh M, Blouri R, Morovati Z.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0305340",
+  "pmcid": "PMC11280222",
+  "url": "https://europepmc.org/article/PMC/PMC11280222",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11280222/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "body_image",
+    "sexual_self_disclosure"
+  ],
+  "abstract": "Background Sexual function is one of the most critical challenges in human society, especially among women. The problems associated with sexual function are significantly ambiguous in a society like Iran. This study investigated the mediating role of sexual anxiety in relationship between sexual schemas and body image with female sexual function. Method The research method was correlational and specifically path analysis. The statistical population included women aged 25-45 in Rasht, Iran, 2021. 365 women were selected using Cochran's formula and the convenience sampling method. The Female Sexual Function Index (FSFI), Sexual Self-Schema Scale for Women (SSSS), Body Image Scale (BIS), and Multidimensional Sexual Self-Concept Questionnaire (MSQ) were used for data collection. For data analysis, SPSS-26 and LISREL 10.2 software were used. Results Descriptive data analysis showed that mean and standard deviation were for further passionate-romantic schema 22.96 and 4.83, open-direct schema 27.64 and 5.09, embarrassed-conservative 20.93 and 4.61, body image 128.96 and 27.35, sexual anxiety 13.13 and 3.91 and sexual function 49.83 and 8.67. According to the results of path analysis, passionate-romantic (β = 0.51), explicit-comfortable (β = 0.27), shy-conservative (β = -0.59), and body image (β = -0.62) schemas showed a significant relationship with sexual function. Sexual function anxiety as a mediating variable also had a significant role (β = -0.41) in female sexual function. Conclusion Sexual function anxiety, negative body image, and negative sexual schema negatively affect women's sexual function, and positive sexual schemas and body image positively affect sexual function anxiety.",
+  "raw_path": "01_raw/europepmc_xml/PMC11280222.xml",
+  "text_path": "02_text/europepmc/PMC11280222.txt",
+  "raw_bytes": 118582,
+  "text_chars": 31236,
+  "raw_sha256": "ff033d2c677c6c1531f93d025cfd63fdeb72e96f59c8d5e2d7d86628404da514",
+  "text_sha256": "9f0c6bc154b545a3d0b88100a6ed65a1cd4cae53404c963561b9742a87f98f5d",
+  "retrieved_at": "2026-10-25T15:28:54.499749+00:00"
+}

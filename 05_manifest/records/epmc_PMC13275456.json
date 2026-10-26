@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13275456",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The network structure of psychological wellbeing: paranormal belief is peripheral but meaningful.",
+  "authors": "Dagnall N, Denovan A, Dempsey RC, Drinkwater KG, Walsh S, Gascón AE.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1846072",
+  "pmcid": "PMC13275456",
+  "url": "https://europepmc.org/article/PMC/PMC13275456",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13275456/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "paranormal_belief"
+  ],
+  "abstract": "Introduction Paranormal belief (PB) remains prevalent within modern societies despite the dominance of scientific rationalism. While early research conceptualized PB as maladaptive, contemporary perspectives suggest it serves adaptive, meaning-making functions. However, the structural role of PB within broader systems of psychological wellbeing remains unclear. Addressing this gap, the present study employed network analysis to examine relationships between PB, affect (positive and negative), optimism, pessimism, and eudaimonic wellbeing (thriving and flourishing). Methods A sample of 1,430 UK adults completed validated self-report measures. A Gaussian Graphical Model with EBICglasso regularization was estimated to identify conditional associations and centrality indices within the network. Centrality indices (strength, closeness, betweenness, and expected influence) determined the relative importance and bridging roles of nodes. Results The network revealed a highly interconnected wellbeing structure centered on thriving, flourishing, and positive affect. Optimism emerged as a key bridge node linking positive and negative domains. PB occupied a peripheral position, demonstrating weak but positive associations with optimism, negative affect, and, to a lesser extent, thriving, while showing no direct connections with flourishing or positive affect. Discussion Findings indicate that PB is not centrally embedded within the wellbeing system but operates as a peripheral interpretive framework indirectly linked to adaptive functioning. Specifically, PB contributes to psychological wellbeing through its association with optimism and future-oriented expectations. Overall, the results support contemporary models that position PB as a non-pathological, context-dependent cognitive framework. Implications for understanding the role of belief systems in meaning-making and psychological adaptation are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC13275456.xml",
+  "text_path": "02_text/europepmc/PMC13275456.txt",
+  "raw_bytes": 120604,
+  "text_chars": 37963,
+  "raw_sha256": "f2d22a2a8d83e60fab43aad243cf809f410ea20ecd00488dd052c3b1a2458afd",
+  "text_sha256": "289fc82a49ecf1531af4e0d64621d9dfb432793b95dea941c7d91ee7b94a903c",
+  "retrieved_at": "2026-10-26T13:27:02.494449+00:00"
+}

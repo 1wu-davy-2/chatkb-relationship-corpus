@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9722948",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Money lies and extramarital ties: Predicting separate and joint occurrences of financial deception and extramarital infidelity.",
+  "authors": "Dew JP, Saxey MT, Mettmann A.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2022.1038169",
+  "pmcid": "PMC9722948",
+  "url": "https://europepmc.org/article/PMC/PMC9722948",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9722948/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "financial_infidelity"
+  ],
+  "abstract": "Introduction Although spouses frequently financially deceive each other (MFD; i.e., marital financial deception), few studies have examined this relationship behavior. The purpose of our study is to examine predictors of separate and joint occurrences of MFD and extramarital affairs (EMI). We chose the predictors we tested using social exchange theory (SET). Methods We used a national sample of married individuals and multinomial logistic regression analyses to examine how different predictors were associated with membership in three different groups (MFD with no EMI, EMI with no MFD, and both MFD and EMI) relative to the group of participants who reported neither behaviors. Results Relationship satisfaction was associated with a lower likelihood of being in the MFD-only group, moral commitment was negatively associated with membership in both EMI groups, and personal dedication commitment was negatively associated with membership in both MFD groups. Flirting with someone other than one's spouse was positively associated with being in all three groups relative to the reference group. The personal importance of religion was not associated with group membership. Discussion Moral commitment, personal dedication commitment, and flirting with someone other than one's spouse predicted these two types of marital deception. It is likely that other issues that affect marital outcomes, comparisons, and monitoring alternatives to the relationship may predict MFD and/or EMI.",
+  "raw_path": "01_raw/europepmc_xml/PMC9722948.xml",
+  "text_path": "02_text/europepmc/PMC9722948.txt",
+  "raw_bytes": 113538,
+  "text_chars": 48227,
+  "raw_sha256": "ba2e1d4e4099e7bd4cf58b83bb4bd59d7b2f49219e3d9e198b60b8a7e2f74e70",
+  "text_sha256": "6c8e4c0d5762ceb87eed515f472b0353e7ec6ed8c22bb60515dbab7fb4ea0f50",
+  "retrieved_at": "2026-10-25T13:47:51.715439+00:00"
+}

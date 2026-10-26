@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_interpersonal_relationship",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "人際關係",
+  "requested_title": "人际关系",
+  "url": "https://zh.wikipedia.org/wiki/%E4%BA%BA%E9%9A%9B%E9%97%9C%E4%BF%82",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "relationship",
+    "communication"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/interpersonal_relationship.json",
+  "text_path": "02_text/zh_wikipedia/interpersonal_relationship.txt",
+  "raw_bytes": 1914,
+  "text_chars": 797,
+  "text_sha256": "80886953149e56111d4c3cdae1a6ae0571c16dc12cc25ef257a3ae42c2ac9653",
+  "retrieved_at": "2026-10-25T15:34:16.566605+00:00"
+}

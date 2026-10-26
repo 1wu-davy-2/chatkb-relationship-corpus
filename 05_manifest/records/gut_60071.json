@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_60071",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Principles of politeness, and of knowing the world",
+  "gutenberg_id": "60071",
+  "url": "https://www.gutenberg.org/ebooks/60071",
+  "download_url": "https://www.gutenberg.org/cache/epub/60071/pg60071.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/60071.txt",
+  "text_path": "02_text/gutenberg/gut_60071_principles_of_politeness_and_of_knowing.txt",
+  "raw_bytes": 221272,
+  "text_chars": 194556,
+  "text_sha256": "983d6f39e71afc751c0653440642aa518f5eddb6b182a01ccb18c5d13e176dd3",
+  "retrieved_at": "2026-10-25T15:55:08.380085+00:00"
+}

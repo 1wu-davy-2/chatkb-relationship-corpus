@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_breakup",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "分手",
+  "requested_title": "分手",
+  "url": "https://zh.wikipedia.org/wiki/%E5%88%86%E6%89%8B",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "breakup",
+    "relationship"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/breakup.json",
+  "text_path": "02_text/zh_wikipedia/breakup.txt",
+  "raw_bytes": 3365,
+  "text_chars": 1290,
+  "text_sha256": "934dce06ce937ccd452a7df7a0bcf5f6b18928a7d6ff7ae998237d3f83d4dc8b",
+  "retrieved_at": "2026-10-25T15:35:12.005541+00:00"
+}

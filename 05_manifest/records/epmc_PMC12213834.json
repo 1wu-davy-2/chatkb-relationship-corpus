@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12213834",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship between ageism, loneliness, and anxiety in widowed older adults: cognitive function as a moderator in the mediated model.",
+  "authors": "Shen H, Pan G, Zhang M, He X, Yao M, Yang Y.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1624197",
+  "pmcid": "PMC12213834",
+  "url": "https://europepmc.org/article/PMC/PMC12213834",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12213834/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Objective As the global population ages and traditional family support structures decline, mental health issues-particularly anxiety-among widowed older adults have become increasingly prevalent. Studies have shown a positive correlation between ageism and anxiety disorders in older bereaved individuals, but the underlying mechanism by which ageism affects anxiety in this population has not yet been clarified. This study aimed to examine whether loneliness mediates the relationship between age discrimination and anxiety disorders, and whether cognitive functioning moderates this mediation. Methods A random sampling approach was used to select 406 older adults who have lost their spouse from Shenyang, China. The Generalized Anxiety Scale (GAD-7), Perceived Age Discrimination Scale (PAD), UCLA Loneliness Scale (UCLA-LS), and Alzheimer's Disease 8-Item Screening Instrument (AD-8) were used to assess the status of anxiety, ageism, loneliness, and cognitive functioning, respectively. Moderated mediation models were analyzed by SPSS PROCESS version 4.0 software. Results Age discrimination had a significant direct effect on anxiety in widowed individuals in later life. Loneliness partially mediated the effect of age discrimination knowledge on anxiety. In addition, the second half of the path of the indirect effect was moderated by cognitive functioning. The indirect effect of loneliness on anxiety was enhanced when cognitive functioning was poor. Conclusion Loneliness enhances the positive association between ageism and anxiety in widowed older adults, in which cognitive functioning plays a moderating role. These findings suggest the need for targeted psychosocial interventions that prioritize cognitive health and social engagement to reduce anxiety among bereaved older adults.",
+  "raw_path": "01_raw/europepmc_xml/PMC12213834.xml",
+  "text_path": "02_text/europepmc/PMC12213834.txt",
+  "raw_bytes": 106307,
+  "text_chars": 32294,
+  "raw_sha256": "84d7ff38a4212fccf9483e4f3f5103505fcd25b964cbf74f43e2e6e7e796e110",
+  "text_sha256": "46f7d6a141bc0a8f802a85612a3304abb100230cb1d09d9600c0512e8224ee76",
+  "retrieved_at": "2026-10-25T15:34:42.895956+00:00"
+}

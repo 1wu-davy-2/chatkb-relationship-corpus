@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11964849",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Jealousy in interracial and same-race relationships.",
+  "authors": "Pham V, Sasaki E, Naeimi H, Impett EA.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/02654075251317425",
+  "pmcid": "PMC11964849",
+  "url": "https://europepmc.org/article/PMC/PMC11964849",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11964849/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Interracial relationships have been on the rise and face unique relational challenges but are underrepresented in relationship science which has relied heavily on studies of same-race White couples. Existing research has shown that individuals in interracial relationships experience greater jealousy than those in same-race relationships, but these studies were underpowered or relied on binary measures of jealousy. In a large sample of individuals in interracial ( N = 196) and same-race relationships ( N = 198) from the United States and Canada, we found that individuals in interracial relationships reported experiencing jealousy more frequently and intensely (general jealousy), had greater worries about potential romantic rivals (rival-directed cognitive jealousy), and felt more distrust and anger toward rivals (rival-directed emotional jealousy). However, there were no differences in the extent to which they derogated the rival and displayed their relationship in front of the rival (rival-directed behavioral jealousy), and the findings for general and cognitive jealousy became nonsignificant when controlling for attachment anxiety. Finally, having a stronger couple identity attenuated the negative effects of having higher general jealousy and cognitive jealousy on relationship satisfaction for individuals in interracial (but not same-race) relationships. Future research should explore the development of attachment anxiety in interracial relationships and explore strategies in addition to having a stronger couple identity that can help interracial couples navigate third-party threats more effectively.",
+  "raw_path": "01_raw/europepmc_xml/PMC11964849.xml",
+  "text_path": "02_text/europepmc/PMC11964849.txt",
+  "raw_bytes": 141695,
+  "text_chars": 52322,
+  "raw_sha256": "366fd7187749bcd158f274841a2dc4bdad7bd21628833edf204d7dccc45e7414",
+  "text_sha256": "15761247c827271d735ead2288d22ca30ade30ce3ccb48d186eb78a766dbe4a0",
+  "retrieved_at": "2026-10-25T15:42:20.485425+00:00"
+}

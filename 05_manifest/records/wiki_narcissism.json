@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_narcissism",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "自戀",
+  "requested_title": "自恋",
+  "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E6%88%80",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "personality",
+    "abuse"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/narcissism.json",
+  "text_path": "02_text/zh_wikipedia/narcissism.txt",
+  "raw_bytes": 8645,
+  "text_chars": 3142,
+  "text_sha256": "c12e11e597659a09975968aefed6c49f1402d10d309eae557620c088adabc3ab",
+  "retrieved_at": "2026-10-25T15:38:04.989910+00:00"
+}

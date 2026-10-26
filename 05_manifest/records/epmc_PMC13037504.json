@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13037504",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Trying to understand who seeks open relationships: an evolutionary perspective.",
+  "authors": "Burtaverde V, Oprea B, Jonason PK, Zanfirescu SA, Ionescu SC.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1762047",
+  "pmcid": "PMC13037504",
+  "url": "https://europepmc.org/article/PMC/PMC13037504",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13037504/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Even if monogamy is the most desirable form of romantic relationship in the modern era, humans engage in an array of mating strategies. We aimed to understand consensual non-monogamy (CNM) from an adaptationist perspective by developing a measure of CNM preferences (Open Relationship Questionnaire; ORQ) and linking it to various relationships and life outcomes. Following construct operationalization and a literature search of CNM-related attitudes and behaviors, we generated 69 items as the initial item pool for the questionnaire. In Study 1 ( n = 271), four factors emerged: negative perceptions toward CNM , emotional insecurity in open relationships , preferences for CNM , and discriminatory views of CNM , which are related to the Dark Triad traits, life history strategies, mate value, sociosexuality, childhood maltreatment, and romantic love. In Study 2 ( n = 272), we confirmed the internal structure of the ORQ and related it to childhood economic status and sexual fantasies. This research offers new and interesting insights into a specific, less (mis)understood mating strategy.",
+  "raw_path": "01_raw/europepmc_xml/PMC13037504.xml",
+  "text_path": "02_text/europepmc/PMC13037504.txt",
+  "raw_bytes": 183241,
+  "text_chars": 36516,
+  "raw_sha256": "f732c3bf5d135e9309a54c41292dc215750627d5e8f0247d6bae1aec707f70b0",
+  "text_sha256": "180306eeecd574553e9ef2c6b56fe9ef7b0bad6247fe4b340eed1a90a331bf5e",
+  "retrieved_at": "2026-10-26T13:06:31.913719+00:00"
+}

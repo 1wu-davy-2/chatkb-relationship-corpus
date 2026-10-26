@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13496346",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Scoping Review on Strategies for Navigating Conflicting Rights Between Safety and Autonomy in Residential Long-Term Care in the United States.",
+  "authors": "Perone AK, Zhou L, Glusker A, Shin J, Xu C, Thairani P, Iriguchi Y, George J, Khov K, Abud A, Peng WS, Dua M, Wallrath AJ, Chicotel A, Walsh L, Chillemi M, King J.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jgs.70532",
+  "pmcid": "PMC13496346",
+  "url": "https://europepmc.org/article/PMC/PMC13496346",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13496346/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_self_disclosure"
+  ],
+  "abstract": "Background Older adults in the United States increasingly require residential long-term care, where staff must frequently navigate complex conflicts between residents' rights to safety and autonomy. Despite the prevalence of these ethical dilemmas and the potential for legal or professional harm, guidance for staff remains scarce. This scoping review identifies and synthesizes existing empirical strategies used to resolve these conflicts within U.S. residential long-term care. Methods Following the Arksey and O'Malley framework, a search was conducted across three academic databases (ProQuest Social Sciences, PubMed, and Scopus) for peer-reviewed, empirical studies published in English between 1987 and 2024. Two independent reviewers screened articles based on their focus on safety and autonomy conflicts and the inclusion of resolution strategies. Data were extracted from 14 final articles to categorize topics and solutions. Results The review identified 14 empirical studies covering topics such as fall prevention, dementia care, sexual expression, and daily routines. Strategies were synthesized into five categories: Innovation (new tools/policies), Compromise (balancing values), Advocacy (defending preferences), Reflection (team discussions), and Education (training, information). Innovation was the most frequently used strategy (8 of 14 studies), while education was the least utilized but most frequently suggested for future implementation. Conclusions A significant research gap exists regarding evidence-based strategies for navigating safety-autonomy conflicts. These five categories provide guidance for clinical care and policymakers to understand the diversity of ways staff can address conflicting rights. More research is needed on how residential long-term care staff understand and address conflicting rights on the ground and how to best disseminate these strategies more broadly.",
+  "raw_path": "01_raw/europepmc_xml/PMC13496346.xml",
+  "text_path": "02_text/europepmc/PMC13496346.txt",
+  "raw_bytes": 116180,
+  "text_chars": 30923,
+  "raw_sha256": "8cc5c1f5968f6891b5acce0366ec9d412c8581031751e0556215116a778da83f",
+  "text_sha256": "df5ba3df2456ed51b55c54733346860fd5fd9d21a303ce2f042b30bcb6d63f4a",
+  "retrieved_at": "2026-10-26T12:57:12.566581+00:00"
+}

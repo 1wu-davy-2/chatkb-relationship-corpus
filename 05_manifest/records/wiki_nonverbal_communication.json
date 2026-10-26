@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_nonverbal_communication",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "非言语交际",
+  "requested_title": "非语言沟通",
+  "url": "https://zh.wikipedia.org/wiki/%E9%9D%9E%E8%A8%80%E8%AF%AD%E4%BA%A4%E9%99%85",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "communication",
+    "nonverbal"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/nonverbal_communication.json",
+  "text_path": "02_text/zh_wikipedia/nonverbal_communication.txt",
+  "raw_bytes": 7581,
+  "text_chars": 2745,
+  "text_sha256": "d86262daad5454ef1b7a886d5fda8ffd5fb9d71e54fea94a881e6b19f43e562f",
+  "retrieved_at": "2026-10-25T15:30:31.309967+00:00"
+}

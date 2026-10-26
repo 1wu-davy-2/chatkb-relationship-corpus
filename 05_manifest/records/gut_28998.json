@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_28998",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Social Life; or, The Manners and Customs of Polite Society",
+  "gutenberg_id": "28998",
+  "url": "https://www.gutenberg.org/ebooks/28998",
+  "download_url": "https://www.gutenberg.org/cache/epub/28998/pg28998.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/28998.txt",
+  "text_path": "02_text/gutenberg/gut_28998_social_life_or_the_manners_and_customs_o.txt",
+  "raw_bytes": 922155,
+  "text_chars": 872735,
+  "text_sha256": "96043a6e1617e8f96cd0ce02880abe1425fae1b698eef9b26ea5044ab9be79a9",
+  "retrieved_at": "2026-10-25T15:46:03.615658+00:00"
+}

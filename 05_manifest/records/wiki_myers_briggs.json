@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_myers_briggs",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "邁爾斯-布里格斯類型指標",
+  "requested_title": "迈尔斯-布里格斯类型指标",
+  "url": "https://zh.wikipedia.org/wiki/%E9%82%81%E7%88%BE%E6%96%AF-%E5%B8%83%E9%87%8C%E6%A0%BC%E6%96%AF%E9%A1%9E%E5%9E%8B%E6%8C%87%E6%A8%99",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "mbti",
+    "personality"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/myers_briggs.json",
+  "text_path": "02_text/zh_wikipedia/myers_briggs.txt",
+  "raw_bytes": 48573,
+  "text_chars": 18561,
+  "text_sha256": "5a29bc0f046579762cbd347c28587308abcc2ed753880f6c92ef109409611b2a",
+  "retrieved_at": "2026-10-25T15:40:05.867186+00:00"
+}

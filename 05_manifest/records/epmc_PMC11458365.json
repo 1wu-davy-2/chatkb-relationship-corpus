@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11458365",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Grindr? it's a \"Blackmailer's goldmine\"! The weaponization of queer data publics Amid the US-China trade conflict.",
+  "authors": "Myles D.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/13634607221148137",
+  "pmcid": "PMC11458365",
+  "url": "https://europepmc.org/article/PMC/PMC11458365",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11458365/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "hookups"
+  ],
+  "abstract": "In March 2019, the Committee on Foreign Investment in the United States (CFIUS) identified Grindr, a hookup app that predominantly caters to men who have sex with men, as a \"national security threat\" and compelled the Chinese conglomerate Kunlun Tech to divest from it entirely. The CFIUS-Grindr ruling is indicative of larger regulatory debates over increasing datafication trends in the dating app industry. Through a political economy approach to communication, this paper examines how this ruling was predominantly constructed by various stakeholders as a public controversy in light of the ongoing US-China trade conflict. This interpretation of the controversy relies on a prejudicial trope that construes queer dating app users as vulnerable targets of potential blackmail schemes operated by Chinese intelligence agencies. Through the Lavender Scare, a historical period referring to state-led investigations into the presence of LGBTQ+ employees in Western federal workforces, this paper historicizes this blackmail trope to highlight how the politicization of queer vulnerabilities amid global hegemonic conflicts is a tactic that predates the US-China trade conflict. It argues that the CFIUS-Grindr ruling weaponizes Grindr's queer data publics as threats against which the US government should protect itself, while failing to fully recognize the urgency for the state to protect the data privacy rights of the LGBTQ+ communities in the digital economy. In light of the CFIUS-Grindr ruling, this paper examines the implications that datafication raises for the LGBTQ+ communities whose sexual lives and identities are increasingly being datafied and exploited by digital media platforms.",
+  "raw_path": "01_raw/europepmc_xml/PMC11458365.xml",
+  "text_path": "02_text/europepmc/PMC11458365.txt",
+  "raw_bytes": 126626,
+  "text_chars": 49891,
+  "raw_sha256": "e3c683a53e07ab9dce891dfd4aa6b56283ba20ef1fb40225bb051d9d45359652",
+  "text_sha256": "ec80933f0eb94e9993b4b85f2deff5949822a9d076810a0909490435345a227a",
+  "retrieved_at": "2026-10-25T15:27:06.291283+00:00"
+}

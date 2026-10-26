@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12558505",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Online exposure to marriage information and marriage expectations of Generation Z in China: The roles of marriage value and relative information exposure.",
+  "authors": "Wang Z, Yang H, Jiang Y.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0334596",
+  "pmcid": "PMC12558505",
+  "url": "https://europepmc.org/article/PMC/PMC12558505",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12558505/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_attitudes"
+  ],
+  "abstract": "Purpose The marriage expectations of Generation Z youth in China, the main force of marriage currently and over the next decade, are declining. In this study, several moderated mediation models were constructed to explain the effects of online exposure to marriage information on the marriage expectations of Gen Z from an information processing perspective. Participants and methods A total of 1,390 questionnaires, based on the Online Exposure to Marriage Information Scale, Relative Information Exposure Scale, Marriage Values Scale, and Marriage Expectation Scale, were collected from Gen Z youth across 31 provincial administrative regions in China. Preliminary data analysis was conducted using SPSS 24.0, and the mediation effect test and moderated mediation effect test were conducted using Process 3.5. Results The results indicated that (1) online exposure to marriage utility information was positively related to marriage intention, and online exposure to marriage cost information was negatively related to marriage intention; (2) marriage values mediated the relationship between online exposure to marriage information and marriage intention and that between online exposure to marriage information and expected marriage age; and (3) relative utility and cost information exposure played opposite moderating roles in the relationship between online exposure to marriage information and marriage intention, ultimately inhibiting the marriage intention of Chinese Generation Z. Conclusion Different types of online exposure to marriage information and the relative information exposure of Chinese Generation Z individuals have varying impacts on their marriage values and marriage expectations. Policy-makers and online platforms should enhance supervision and guidance on online marriage information. Additionally, Generation Z youth should adjust their relative exposure to cultivate healthy marriage values.",
+  "raw_path": "01_raw/europepmc_xml/PMC12558505.xml",
+  "text_path": "02_text/europepmc/PMC12558505.txt",
+  "raw_bytes": 166732,
+  "text_chars": 72509,
+  "raw_sha256": "e0ae5095b0b3123a36286e3c2f80298101114080926ececbf97c0312ccdd61e7",
+  "text_sha256": "901abc4c347d84aee6ca497d89ac21aa6f18f2d19efe051d1da1a0791a2fc87d",
+  "retrieved_at": "2026-10-25T15:29:47.404177+00:00"
+}

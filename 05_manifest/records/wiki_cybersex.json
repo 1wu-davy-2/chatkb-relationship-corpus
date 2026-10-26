@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_cybersex",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "網路性愛",
+  "requested_title": "网络性爱",
+  "url": "https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E6%80%A7%E6%84%9B",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 網路性愛",
+  "topics": [
+    "sexuality",
+    "online",
+    "safety"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/cybersex.json",
+  "text_path": "02_text/zh_wikipedia/cybersex.txt",
+  "raw_bytes": 4496,
+  "text_chars": 1877,
+  "text_sha256": "f934cfbce4cf28db8ba2ae457d64ef14b573301cfa4e45a5d45e8af2cf53ce3e",
+  "retrieved_at": "2026-10-26T13:42:22.751632+00:00"
+}

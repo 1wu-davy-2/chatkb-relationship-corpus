@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13198458",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual Health and Relationship Education Needs of People in Recovery for an Opioid Use Disorder.",
+  "authors": "Wilkerson JM, Gallardo KR, Zoschke IN, Stewart HLN, Rodriguez SA, Anosike MU, Pullin J, McCurdy SA.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s11121-026-01909-z",
+  "pmcid": "PMC13198458",
+  "url": "https://europepmc.org/article/PMC/PMC13198458",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13198458/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "People in recovery with histories of sex and drug-linked behavior (SDB) have an increased risk of substance use recurrence. However, sexual health concerns remain largely unaddressed by recovery support services researchers and practitioners. The purpose of this analysis was to describe the sex and relationship concerns of people in recovery for an opioid use disorder living in level II and level III recovery homes. Recovery homes are sober living homes that the National Association for Recovery Residences classifies into four levels based on staffing and service provision. We interviewed 93 residents and thematically analyzed 92 of the resulting transcripts; one was excluded because the participant did not talk about SDB. Most participants avoided sexual experiences or romantic relationships while living in recovery homes. Memories of SDB can trigger unwanted substance use recurrence, and histories of sexual trauma or reliance on drugs during sex impede connection with potential sex or romantic partners. Participants wanted to heal and prepare for healthy sexual or romantic relationships. Recovery residents could benefit from sexual health education that provides the skills for healthy sexual or romantic relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC13198458.xml",
+  "text_path": "02_text/europepmc/PMC13198458.txt",
+  "raw_bytes": 122270,
+  "text_chars": 38956,
+  "raw_sha256": "53524a169a6cc919afaefa89d3dc47889a44ae6c602af74b946578148a1acca8",
+  "text_sha256": "98866e5931f166b81d9fd40fa46eb4ee33369af4fdee6bc6ace43d5cb26c35d1",
+  "retrieved_at": "2026-10-25T13:54:43.693296+00:00"
+}

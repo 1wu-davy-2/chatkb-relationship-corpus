@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_premarital_sex",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "婚前性行為",
+  "requested_title": "婚前性行为",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A9%9A%E5%89%8D%E6%80%A7%E8%A1%8C%E7%82%BA",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "sexuality",
+    "society"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/premarital_sex.json",
+  "text_path": "02_text/zh_wikipedia/premarital_sex.txt",
+  "raw_bytes": 13758,
+  "text_chars": 5242,
+  "text_sha256": "127ad7020b24062f72f48a1738a12be993d47cc554fdd839a26f5a930c32ac5f",
+  "retrieved_at": "2026-10-25T15:36:17.601686+00:00"
+}

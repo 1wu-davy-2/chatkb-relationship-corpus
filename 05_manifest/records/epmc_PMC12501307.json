@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12501307",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Selective attraction to shorter muzzles in dogs is a hidden driver of the brachycephalic welfare crisis.",
+  "authors": "Bognár Z, Kawaguchi Y, Nakamura K, Kubinyi E.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1038/s41598-025-16562-9",
+  "pmcid": "PMC12501307",
+  "url": "https://europepmc.org/article/PMC/PMC12501307",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12501307/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Modern dog breeds show a trend towards shorter muzzles in the Western world. Using an international online questionnaire (N = 780), we examined how muzzle length, as the sole varying feature, influenced visual preference for dogs, using digitally morphed images of the same individuals. We investigated how preferences for shorter muzzles were influenced by demographics, personality, pre-existing attitudes towards brachycephalic dogs, awareness of health issues, and desired dog traits. Shorter muzzles were generally preferred. Associating more health problems with brachycephaly was negatively associated with preference for shorter muzzles, except among those with positive attitudes towards brachycephalic dogs. Preference was positively associated with positive attitudes towards brachycephalic dogs, older age, conscientiousness, extraversion, and appreciation of aesthetics; and negatively associated with dog-related professional expertise, openness, and a liking for control in dog keeping. Among respondents without prior attitudes, preference was positively linked to viewing the ideal dog as childlike, and negatively to valuing a humorous personality in the ideal dog. Our results show how age, dog-related profession, personality, health awareness, and attitudes towards brachycephalic dogs and the ideal dog intersect to shape preferences for shorter muzzle length. Our findings support the notion that individuals preferring shorter muzzles may prioritise aesthetic traits over health concerns.",
+  "raw_path": "01_raw/europepmc_xml/PMC12501307.xml",
+  "text_path": "02_text/europepmc/PMC12501307.txt",
+  "raw_bytes": 235925,
+  "text_chars": 77386,
+  "raw_sha256": "f0d10cfa77d0a762752f359d3dfccef3e29f8a1da7592e3e82fd0465721d3a1e",
+  "text_sha256": "de7d84c05380113fd8258305069a0e71a0adaa3e0a2c430da4e59a3fedd573d4",
+  "retrieved_at": "2026-10-25T15:38:17.932933+00:00"
+}

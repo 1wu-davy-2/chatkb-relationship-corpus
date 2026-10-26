@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13616167",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Perceived Barriers and Misconceptions Regarding Internal Medicine Residency Selection: A Pre-Post Survey Evaluation of a \"Path to Specialization\" Speed Dating Event.",
+  "authors": "Verwers JL, Zandbergen AAM, Al-Hassany L, Schrijver IT, Attaye I.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.2147/amep.s637527",
+  "pmcid": "PMC13616167",
+  "url": "https://europepmc.org/article/PMC/PMC13616167",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13616167/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction_physical"
+  ],
+  "abstract": "Introduction To explore transparency and address misconceptions regarding the selection of medical residents, the Internal Medicine Department of the Erasmus Medical Center, Rotterdam, The Netherlands, organized a \"path to specialization\" event. This event targeted medical bachelor's and master's students, PhD candidates, and junior doctors who consider a residency training in internal medicine. The event featured a plenary opening, followed by structured speed-dating sessions with internal medicine physicians and residents, fostering open discussions in an interactive question-and-answer format. In the current study, we evaluated the effects of this event on (mis)conceptions about selection procedures and explored whether it could help reduce perceived barriers. Methods Participants completed a full questionnaire before the event and a shortened post-event questionnaire repeating the three belief statements and two open-ended questions. The questionnaires were anonymous and therefore the statistical analyses were unpaired as the responses could not be linked. Results A total of 60 participants were included in the current study, of whom 38 (63%) reported obstacles in choosing internal medicine as their specialty of choice. Following the speed-dating sessions, participants reported greater perceived transparency and fewer misconceptions regarding residency selection compared with before the event. The median self-estimated likelihood of being accepted into an internal medicine residency increased from 6 (IQR 5-7) before the event to 7 (IQR 6-8) after the event (p Discussion Speed date sessions may represent a feasible approach to improving transparency, addressing misconceptions, and supporting prospective applicants in residency selection. Such interventions might be particularly valuable in systems with open, competitive selection such as the Netherlands, and may also help address application inflation in matching-based systems, such as in the United States, by aligning applicant expectations with selection processes. Longitudinal prospective studies are warranted to further evaluate the potential effects of this approach.",
+  "raw_path": "01_raw/europepmc_xml/PMC13616167.xml",
+  "text_path": "02_text/europepmc/PMC13616167.txt",
+  "raw_bytes": 46509,
+  "text_chars": 23523,
+  "raw_sha256": "79db375cc740e51f81c96396d469b7b00986a793483c84aa33180440b2ed640b",
+  "text_sha256": "47ca21acf9104a1bae3c65ce42c0d805fb94e3ec2b3eddf3049483e71620bbed",
+  "retrieved_at": "2026-10-25T15:28:09.464556+00:00"
+}

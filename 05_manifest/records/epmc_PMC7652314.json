@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7652314",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The herbivore's dilemma: Trends in and factors associated with heterosexual relationship status and interest in romantic relationships among young adults in Japan-Analysis of national surveys, 1987-2015.",
+  "authors": "Ghaznavi C, Sakamoto H, Nomura S, Kubota A, Yoneoka D, Shibuya K, Ueda P.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0241571",
+  "pmcid": "PMC7652314",
+  "url": "https://europepmc.org/article/PMC/PMC7652314",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7652314/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "Background It has been suggested that an increasing proportion of young adults in Japan have lost interest in romantic relationships, a phenomenon termed \"herbivorization\". We assessed trends in heterosexual relationship status and self-reported interest in heterosexual romantic relationships in nationally representative data. Methods We used data from seven rounds of the National Fertility Survey (1987-2015) and included adults aged 18-39 years (18-34 years in the 1987 survey; sample size 11,683-17,675). Current heterosexual relationship status (married; unmarried but in a relationship; single) was estimated by sex, age group and survey year, with singles further categorized into those reporting interest vs. no interest in heterosexual romantic relationships. Information about same-sex relationships were not available. Results Between 1992 and 2015, the age-standardized proportion of 18-39-year-old Japanese adults who were single had increased steadily, from 27.4 to 40.7% among women and from 40.3 to 50.8% among men. This increase was largely driven by decreases in the proportion of married women aged 25-39 years and men aged 30-39 years, while those in a relationship had increased only slightly for women and remained stable for men. By 2015, the proportion of single women was 30.2% in those aged 30-34 years and 24.4% in those aged 35-39 years. The corresponding numbers for men were 39.3% and 32.4%. Around half of the singles (21.4% of all women and 25.1% of all men aged 18-39 years) reported that they had no interest in heterosexual romantic relationships. Single women and men who reported no interest in romantic relationships had lower income and educational levels and were less likely to have regular employment compared to those who reported such an interest. Conclusions In this analysis of heterosexual relationships in nationally representative data from Japan, singlehood among young adults had steadily increased over the last three decades. In 2015 around one in four women and one in three men in their thirties were unmarried and not in a heterosexual relationship. Half of the singles reported no interest in romantic relationships and these women and men had lower income and educational levels and were less likely to have regular employment.",
+  "raw_path": "01_raw/europepmc_xml/PMC7652314.xml",
+  "text_path": "02_text/europepmc/PMC7652314.txt",
+  "raw_bytes": 118628,
+  "text_chars": 34330,
+  "raw_sha256": "a03104079e1169a7adce156e2a19e1a8c52737358381a019ec71839dfb56f4ea",
+  "text_sha256": "abb7533afa594835112af778156af5f9dee183dd9d9f52e49ee2231da6198fd6",
+  "retrieved_at": "2026-10-25T15:36:44.100851+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6041438",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Ethnopharmacology of Love.",
+  "authors": "Leonti M, Casu L.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.3389/fphar.2018.00567",
+  "pmcid": "PMC6041438",
+  "url": "https://europepmc.org/article/PMC/PMC6041438",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6041438/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Background: Elixirs conferring eternal youth or inducing amatory and erotic attraction have been searched for without success. Lovesickness is a widespread affliction resulting from unrequited love and/or the impossibility for physical and emotional union. The symptoms are reflections of altered dopamine, serotonin, noradrenaline, testosterone and cortisol levels and range from frenzy and intrusive thinking to despair and depression, sharing traits with the neurochemistry of addiction and compulsive behavior disorder. Although it can seriously impact the quality of life, lovesickness is currently not considered in official disease classification systems. Consequently, no official therapeutic guidelines exist, leaving subjects to seek the cure on their own. Methods: We review literature of the past 2000 years dealing with the concept, diagnosis and the healing of lovesickness and contextualize it with neurochemical, ethnomedical, and ethnographic data. Since neurobiological and pharmacological connections between the love drive and the sex drive exist, we review also the literature about herbal an- and aphrodisiacs, focusing on their excitatory or calmative potential. Results: An overall consensus regarding socio-behavioral regimes exists for dealing with lovesickness from historical through contemporary literature. The herbal drugs used for treating lovesickness or inducing love passion do not possess the alleged properties. The pharmacological effects of aphrodisiacs are heterogeneous, including dopaminergic and adrenergic activities, but there is no evidence for any serotonergic effects. The libido-regulating properties of anaphrodisiacs seem to be associated with sedative and toxic effects or decreasing testosterone levels. CB 2 receptors expressed on dopaminergic neurons of the ventral tegmental area, part of the brain's reward circuit, implicated with addiction, orgasm and strong emotions such as love, might constitute a new therapeutic target. Conclusion: The common food additive and CB 2 agonist β-caryophyllene might have the potential to attenuate dopaminergic firing, quenching the reward and thus motivation associated with romantic love. From Greek mythology to modern history, cultural expressions and implications of love, sex and procreation is and was organized along hierarchical lines that put men on top. The neuronal predispositions and activities associated with falling in love will probably forever remain nature's and Eros' secret.",
+  "raw_path": "01_raw/europepmc_xml/PMC6041438.xml",
+  "text_path": "02_text/europepmc/PMC6041438.txt",
+  "raw_bytes": 211029,
+  "text_chars": 64770,
+  "raw_sha256": "88bb3b434fef7ee0d0aad21899ddd80d00e2ff34813b189d85f4bb567aaf41f5",
+  "text_sha256": "312870f6a4ba55c41e2feead138ea5c3a11f80fc7ace6fc8cec21a60bf3966e8",
+  "retrieved_at": "2026-10-25T15:40:47.645903+00:00"
+}

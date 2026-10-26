@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_halo_effect",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "晕轮效应",
+  "requested_title": "光环效应",
+  "url": "https://zh.wikipedia.org/wiki/%E6%99%95%E8%BD%AE%E6%95%88%E5%BA%94",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 晕轮效应",
+  "topics": [
+    "psychology",
+    "bias"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/halo_effect.json",
+  "text_path": "02_text/zh_wikipedia/halo_effect.txt",
+  "raw_bytes": 5869,
+  "text_chars": 2258,
+  "text_sha256": "116a84bab4a1e098c2d5e282aaac0bd2d7329997c30cbe7ab1df0b9e65e47b77",
+  "retrieved_at": "2026-10-25T16:21:16.110763+00:00"
+}

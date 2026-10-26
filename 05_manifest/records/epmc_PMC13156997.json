@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13156997",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Pair-bond and survival in historical population: Marriage, widowhood, and social class.",
+  "authors": "Pettay JE, Lahdenperä M, Tanskanen AO, Lummaa V, Danielsbacka M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1016/j.isci.2026.115759",
+  "pmcid": "PMC13156997",
+  "url": "https://europepmc.org/article/PMC/PMC13156997",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13156997/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Marriage is widely associated with improved health and longevity, but spousal death significantly heightens immediate mortality risk, a phenomenon known as the \"widowhood effect.\" While these relationships are well-documented in modern populations, their prevalence in historical societies with extended family structures is less understood. Using church book records from Finland (1730-1910) and discrete-time event models, this study examined the survival probabilities of 11,892 individuals aged 40-90 across five marital statuses, with attention to socioeconomic status. In line with previous studies, we found large detrimental short-term widowhood effect. Long-term widowhood effect was smaller, and lower in women compared to men. Survival after remarriage was similar to first-time marriage. The survival of individuals who had never married did not differ from those who were married, suggesting that more communal living may have buffered against the possible negative effects of being single.",
+  "raw_path": "01_raw/europepmc_xml/PMC13156997.xml",
+  "text_path": "02_text/europepmc/PMC13156997.txt",
+  "raw_bytes": 132883,
+  "text_chars": 40351,
+  "raw_sha256": "c9285b3722b7632d650b2eab507a42e75e87e62726a65b0a76a6d5c84efee893",
+  "text_sha256": "10af8cfa401e947399e5b596aee93ff8fb51539536a0f8680f1e0735af2692cd",
+  "retrieved_at": "2026-10-25T15:27:37.702579+00:00"
+}

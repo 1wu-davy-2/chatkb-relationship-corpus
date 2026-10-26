@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_passion",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "激情",
+  "requested_title": "激情",
+  "url": "https://zh.wikipedia.org/wiki/%E6%BF%80%E6%83%85",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "love",
+    "attraction"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/passion.json",
+  "text_path": "02_text/zh_wikipedia/passion.txt",
+  "raw_bytes": 1245,
+  "text_chars": 514,
+  "text_sha256": "a7ee57dd34bc205cc06ce49fb0c395ade050c8750daeed8447e52443e94bf6db",
+  "retrieved_at": "2026-10-25T15:34:10.661557+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9443629",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Loneliness and diurnal cortisol levels during COVID-19 lockdown: the roles of living situation, relationship status and relationship quality.",
+  "authors": "Hopf D, Schneider E, Aguilar-Raab C, Scheele D, Morr M, Klein T, Ditzen B, Eckstein M.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1038/s41598-022-19224-2",
+  "pmcid": "PMC9443629",
+  "url": "https://europepmc.org/article/PMC/PMC9443629",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9443629/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Loneliness and social isolation have become increasing concerns during COVID-19 lockdown through neuroendocrine stress-reactions, physical and mental health problems. We investigated living situation, relationship status and quality as potential moderators for trait and state loneliness and salivary cortisol levels (hormonal stress-responses) in healthy adults during the first lockdown in Germany. N = 1242 participants (mean age = 36.32, 78% female) filled out an online questionnaire on demographics, trait loneliness and relationship quality. Next, N = 247 (mean age = 32.6, 70% female) completed ecological momentary assessment (EMA), collecting twelve saliva samples on 2 days and simultaneously reporting their momentary loneliness levels. Divorced/widowed showed highest trait loneliness, followed by singles and partnerships. The latter displayed lower momentary loneliness and cortisol levels compared to singles. Relationship satisfaction significantly reduced loneliness levels in participants with a partner and those who were living apart from their partner reported loneliness levels similar to singles living alone. Living alone was associated with higher loneliness levels. Hierarchical linear models revealed a significant cross-level interaction between relationship status and momentary loneliness in predicting cortisol. The results imply that widowhood, being single, living alone and low relationship quality represent risk factors for loneliness and having a partner buffers neuroendocrine stress responses during lockdown.",
+  "raw_path": "01_raw/europepmc_xml/PMC9443629.xml",
+  "text_path": "02_text/europepmc/PMC9443629.txt",
+  "raw_bytes": 146741,
+  "text_chars": 42804,
+  "raw_sha256": "4a51adf155b1453c27cd10c43b8ba6d2f783d97066c2be443583b247d81177a6",
+  "text_sha256": "89caaf7494558961f742a4495446def843e89bdacfd794410befbd6825751872",
+  "retrieved_at": "2026-10-25T15:44:26.101849+00:00"
+}

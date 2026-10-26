@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9525895",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Widowhood and cognition among older women in India: New insights on widowhood duration and mediators.",
+  "authors": "Jain U, Liu H, Langa KM, Farron M, Kabeto M, Lee J.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1016/j.ssmph.2022.101242",
+  "pmcid": "PMC9525895",
+  "url": "https://europepmc.org/article/PMC/PMC9525895",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9525895/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Background Widowhood, a marital status that disproportionately affects older women, has been associated with poorer health compared to married individuals. However, relatively little is known about the association between widowhood in later-life and cognitive health in low- and middle-income countries. Methods To address this research gap, we used data from the Longitudinal Aging Study in India (2017-19) to investigate the widowhood disparity in cognitive health among mid-aged and older women in India, including how this relationship varies by the duration of widowhood. We further examined the extent to which economic, social, and health conditions mediate this association. Results Cognition scores for widowed women were on average lower by almost 0.1 standard deviations compared to married women. Overall, this disparity increased with widowhood duration, with non-linearities in this association. The disparity in cognition scores increased with widowhood duration up to twenty years but did not increase further among those with longer widowhood duration. Worse physical and mental health were found to mediate almost thirty percent of the total association between widowhood and cognition. These mediators were most useful in explaining the association between lower cognition and widowhood among women who experienced widowhood for ten years or longer. Conclusion The study highlights the significant disadvantage in cognitive functioning among older widowed women in India. The study also provides evidence on potential mediators, suggesting differential effects of mediators at different stages of widowhood.",
+  "raw_path": "01_raw/europepmc_xml/PMC9525895.xml",
+  "text_path": "02_text/europepmc/PMC9525895.txt",
+  "raw_bytes": 177441,
+  "text_chars": 60984,
+  "raw_sha256": "df81f2769acd5ea4ae19db47713ead7b111a53220592bb66bc4c8deef6e2bdfa",
+  "text_sha256": "9f8fbbf9a1e3a42ff02cfee8950441294cdeb24d612b2cb786d1a525fdfa353d",
+  "retrieved_at": "2026-10-25T15:34:03.954986+00:00"
+}

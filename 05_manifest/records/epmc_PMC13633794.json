@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13633794",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship of body mass index with sexual function and marital satisfaction in reproductive-age women: A cross-sectional study in Iran.",
+  "authors": "Bahrami-Samani S, Omidvar S, Firouzbakht M, Golzar M, Heydari F.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.4103/jehp.jehp_352_25",
+  "pmcid": "PMC13633794",
+  "url": "https://europepmc.org/article/PMC/PMC13633794",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13633794/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_function_dysfunction"
+  ],
+  "abstract": "Background Obesity is a global issue and has negative effects on various aspects of life, including physical and psychosocial health, which leads to a reduced quality of life. The present study was conducted to investigate the relationships between body mass index, sexual function, and marital satisfaction in reproductive-aged women. Materials and methods The present research was a cross-sectional study that was conducted using socio-demographic and obstetric checklist, and questionnaires, including the Female Sexual Function Inventory (FSFI) and Enrich Marital satisfaction questionnaire as well as using a weight scale and stadiometer to measure height on 350 women of reproductive age referred to health centers during 2022 in Babol, Iran. The data were analyzed using SPSS 25, and Chi-square tests and ANOVA were performed. Results The results showed that there was a significant difference in the sexual function of women with a normal body mass index compared to overweight ( P = 0.034) and obese ( P r = 0.109, P = 0.041). Conclusion Considering the relationships among body mass index, sexual function, and marital satisfaction, it is important to screen women with higher body mass indices for sexual function and marital satisfaction and to offer suitable counseling and approaches to identify and address all related factors in addition to weight management recommendations.",
+  "raw_path": "01_raw/europepmc_xml/PMC13633794.xml",
+  "text_path": "02_text/europepmc/PMC13633794.txt",
+  "raw_bytes": 95823,
+  "text_chars": 22897,
+  "raw_sha256": "c4a3772acc90ccb64587f24b3eae7ff6595ae8e059f0b04f1e17963560e2b93e",
+  "text_sha256": "48e52e666a8974726fc804fda1c83c2776b78c40b98a0dee0109b0f7b7cdeb21",
+  "retrieved_at": "2026-10-26T12:54:32.898618+00:00"
+}

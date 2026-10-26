@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12449720",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Health Insurance Coverage Among Same-Sex vs Different-Sex Couples.",
+  "authors": "Harrell BJ, Jones NE, Miller GH.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1001/jamanetworkopen.2025.32844",
+  "pmcid": "PMC12449720",
+  "url": "https://europepmc.org/article/PMC/PMC12449720",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12449720/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "Importance Recent research suggests that since the Patient Protection and Affordable Care Act and the US Supreme Court's ruling in Obergefell v Hodges, lesbian, gay, bisexual, and/or transgender (LGBT) individuals are now at or beyond parity in insurance coverage with their non-LGBT counterparts, a reversal of a long-standing health disparity, but shows that gains have not been equitable. Objective To examine health insurance coverage of same-sex and different-sex couples by marital status, sex, insurance provider, state of residence, and income distribution. Design, setting, and participants This cross-sectional study was a secondary data analysis of 2008 to 2022 American Community Survey (ACS) data. The ACS is an annual, nationally representative survey of over 3 million households in the US, and study participants included adults aged 18 to 64 years in a cohabitating relationship. Data were analyzed in October and November of 2024. Exposure Cohabitation in a same-sex or different-sex couple. Main outcomes and measures The primary outcome was reporting any health insurance coverage in the 2008 to 2022 ACS results. A series of linear probability models was estimated to assess the association between same-sex couple status and the probability of being covered by any health insurance. Results The sample included a total of 20 938 414 respondents (mean [SD] age, 45.57 [11.86] years). The majority of respondents in the study sample were women (11 139 506 participants; 53.2% unweighted; 52.6% weighted), were married (13 988 414 participants; 63.2% unweighted; 67.0% weighted), had less than a bachelor's degree (13 408 218 participants; 65.1% unweighted; 64.1% weighted), and were employed (15 921 280 participants; 76.5% unweighted; 76.0% weighted). Participants reported a median (IQR) household income of $88 000 ($84 000). Respondents had a high level of insurance coverage (18 587 258 participants; 88.0% unweighted; 89.0% weighted) with 3 453 491 participants (16.8% unweighted; 16.5% weighted) reporting public and 14 248 083 (65.8% unweighted; 67.4% weighted) reporting private coverage. In further heterogeneity analyses, respondents in same-sex couples were more likely to be insured by employer-sponsored insurance than their counterparts in different-sex couples and less likely to be insured by all other insurance types, including public health insurance. Respondents in same-sex couples in the bottom quintiles of the income distribution were less likely to be insured compared with their counterparts in upper quintiles. Finally, respondents in same-sex couples living in states that had not yet expanded Medicaid (Alabama, Georgia, Kansas, Mississippi, South Carolina, Tennessee, and Wyoming) were less likely to be covered across the sample period. Conclusions and relevance This cross-sectional study examining insurance coverage among same-sex vs different-sex couples documented gains in health insurance status among individuals in same-sex couples in the past decade in the US. These gains, mostly realized by individuals of high socioeconomic status, reversed one of the defining health disparities for sexual minority adults of the late 20th century, but more must be done to ensure that these gains are distributed across the income distribution, especially to those living in states that have not yet expanded access to public health insurance.",
+  "raw_path": "01_raw/europepmc_xml/PMC12449720.xml",
+  "text_path": "02_text/europepmc/PMC12449720.txt",
+  "raw_bytes": 53621,
+  "text_chars": 18156,
+  "raw_sha256": "cc7c074cc7b7cfdbe6611cbe9d01c1c7e15284dd32122d020406e7e8a8eec407",
+  "text_sha256": "fecc73954b3dc5794d8e9a0f8d42af2527265668c6329dd5def83e67aeceee2b",
+  "retrieved_at": "2026-10-25T15:42:12.437300+00:00"
+}

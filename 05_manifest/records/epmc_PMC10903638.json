@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10903638",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Multiple Casual Sex Scripts: Shared Beliefs about Behavior among Portuguese Emerging Adults.",
+  "authors": "Luz R, Pegado A, Godinho C, Pereira C, Alvarez MJ.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1080/19317611.2023.2172512",
+  "pmcid": "PMC10903638",
+  "url": "https://europepmc.org/article/PMC/PMC10903638",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10903638/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "Objective Empirical research to differentiate casual sex scripts is still limited. We aimed to ascertain the sexual scripts for three main types of casual sexual relationships: hookup , friends with benefits and one-night stands . Methods Through a mixed-method approach, we performed a study consisting in two sequential tasks to (1) complete three lists of script actions, and (2) identify the most agreed-upon actions for each casual sexual relationship. Results An important number of actions and events were identified for the three casual sexual scripts, reflecting a high level of elaboration and structure. Following a cognitive-script methodology, the actions retained for the content of the script for each casual sexual relationship were those obtaining at least 60% in respect to the mean of their centrality to the encounter. Only 16.5% of actions were shared among the three scripts, demonstrating their distinctiveness. Conclusion Knowledge about the different casual sex scripts can be used to develop relational and personal skills within CSRs and decrease unwanted experiences such as condomless sex.",
+  "raw_path": "01_raw/europepmc_xml/PMC10903638.xml",
+  "text_path": "02_text/europepmc/PMC10903638.txt",
+  "raw_bytes": 161808,
+  "text_chars": 53578,
+  "raw_sha256": "3a7dbb286d2713307c9392ea591367201d3226436fccfa5cb1d676b5853fa8da",
+  "text_sha256": "b4112abb2fc54370cfd5ccb22cf0d5c288664f7656e7beedb9403f6cbf639019",
+  "retrieved_at": "2026-10-26T13:10:23.497231+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_marital_rape",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "婚内强奸",
+  "requested_title": "婚内强奸",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A9%9A%E5%86%85%E5%BC%BA%E5%A5%B8",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 婚内强奸",
+  "topics": [
+    "consent",
+    "law",
+    "safety"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/marital_rape.json",
+  "text_path": "02_text/zh_wikipedia/marital_rape.txt",
+  "raw_bytes": 6250,
+  "text_chars": 2937,
+  "text_sha256": "50567e82624116091f906c19d5a7eb2843c59358f2f4a9ceaba7c118ae62efbc",
+  "retrieved_at": "2026-10-26T13:42:14.753128+00:00"
+}

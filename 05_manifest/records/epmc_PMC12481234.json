@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12481234",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Being Me While Loving You: The Role of Autonomy in the Association Between Insecure Attachment and Relationship Satisfaction.",
+  "authors": "Genesse D, Brassard A, Vaillancourt-Morel MP, Muise A, Raposo S, Péloquin K.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/jmft.70079",
+  "pmcid": "PMC12481234",
+  "url": "https://europepmc.org/article/PMC/PMC12481234",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12481234/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "One way that couples can maintain relationship satisfaction is by acting according to who they are, or autonomously, within their romantic relationships. However, feeling autonomous can be challenging for romantic partners, especially those with attachment insecurities. In two dyadic and longitudinal studies, we tested whether the daily feeling of being autonomous within romantic relationships accounted for associations between attachment insecurities and daily and over time relationship satisfaction in long-term romantic relationships. Across both studies, dyadic mediation models showed that people higher in attachment avoidance reported less daily autonomy in their relationships and, in turn, reported lower relationship satisfaction daily and 3-months later. In Study 2, people higher in attachment anxiety reported less daily autonomy in their relationships and this was associated with lower satisfaction, both daily and over time. Findings highlight the role of autonomy as one explanation for the lower levels of relationship satisfaction among insecure romantic partners.",
+  "raw_path": "01_raw/europepmc_xml/PMC12481234.xml",
+  "text_path": "02_text/europepmc/PMC12481234.txt",
+  "raw_bytes": 154521,
+  "text_chars": 49430,
+  "raw_sha256": "ec5814a6e61745d1c5187b881d0c8a10e265c305e2031fdf83a4b8de11810dbb",
+  "text_sha256": "30f5e36167c83a374f20312f3714f25bd280a91569645b1aac3eb2a0a72ca52a",
+  "retrieved_at": "2026-10-25T15:40:40.695586+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_scorpio_constellation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "天蝎座",
+  "requested_title": "天蝎座",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A4%A9%E8%9D%8E%E5%BA%A7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 天蝎座",
+  "topics": [
+    "zodiac",
+    "astronomy"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/scorpio_constellation.json",
+  "text_path": "02_text/zh_wikipedia/scorpio_constellation.txt",
+  "raw_bytes": 6107,
+  "text_chars": 2526,
+  "text_sha256": "f3d892de0c6d4441ce40d7c81e629570018c704b4e37e370aa1f32bcd2432643",
+  "retrieved_at": "2026-10-26T13:05:14.646610+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13406012",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Coparenting Closeness and Psychological Distress as Predictors of Life Satisfaction Among Romanian Divorced and Separated Parents.",
+  "authors": "Apostol MM, Iorga M, Melnic LL, Soponaru C.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/bs16071213",
+  "pmcid": "PMC13406012",
+  "url": "https://europepmc.org/article/PMC/PMC13406012",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13406012/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "midlife_older"
+  ],
+  "abstract": "Background Divorce and separation represent major life transitions involving substantial changes in family organization, interpersonal relationships, and individual functioning. Despite the end of the romantic relationship, parents often remain connected through ongoing coparenting responsibilities, making post-separation adjustment a continuing relational process. The aim of the study was to examine the associations between coparenting dimensions, psychological distress, and life satisfaction among Romanian parents who were divorced, separated, or in the process of separation. Methods A convenience sample of 206 divorced or separated parents (83.5% women; Mage = 43.39) completed a self-report questionnaire collecting sociodemographic data and identifying scores for coparenting quality of relationship (Coparenting Relationship Scale), psychological distress (Depression Anxiety Stress Scale-DASS-21), and life satisfaction (Satisfaction with Life Scale-SWLS). Results showed that positive coparenting dimensions were positively associated with life satisfaction, whereas conflictual dimensions and psychological distress were negatively associated with well-being indicators. Psychological distress was strongly negatively associated with life satisfaction. In the regression model, only higher coparenting closeness and lower psychological distress emerged as significant predictors of greater life satisfaction. Conclusions These findings indicate that, when considered simultaneously, the emotional quality of coparenting-particularly closeness-and individual psychological distress are the most relevant predictors of life satisfaction in post-separation parents. The findings suggest that interventions aiming to strengthen coparenting relationships and address psychological distress may be associated with improved well-being among separated or divorced parents. However, these implications should be interpreted considering the cross-sectional design.",
+  "raw_path": "01_raw/europepmc_xml/PMC13406012.xml",
+  "text_path": "02_text/europepmc/PMC13406012.txt",
+  "raw_bytes": 176750,
+  "text_chars": 62010,
+  "raw_sha256": "6161edfcf2200f107674fc3b2ac5995064924e1bb831dffe099755432c8c351a",
+  "text_sha256": "dcf7094282073ddd110d531442107e83f0a97fd38e46b08f8f69c7509dba0c76",
+  "retrieved_at": "2026-10-25T13:53:37.830929+00:00"
+}

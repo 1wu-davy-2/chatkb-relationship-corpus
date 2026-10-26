@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9634332",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Shades of digital deception: Self-presentation among men seeking men on locative dating apps.",
+  "authors": "Filice E, Johnson CW, Parry DC, Oakes H.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/13548565221102714",
+  "pmcid": "PMC9634332",
+  "url": "https://europepmc.org/article/PMC/PMC9634332",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9634332/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_presentation"
+  ],
+  "abstract": "In recent years, location-based real-time dating apps like Grindr and Tinder have assumed an increasingly pivotal role in brokering socio-sexual relations between men seeking men and have proven to be fertile ground for the study of identity negotiation and impression management. However, current research has given insufficient consideration to how various contextual elements of technology use interact with one another to shape self-presentation behaviour. Through analysis of interview data, we found impression construction on these apps reflects tensions between authentic depiction of the self-concept and self-enhancement via deception. Whether and the extent to which one engages in deception depends on how a number of technological affordances, platform-specific community norms and userbase characteristics interact with each other. Self-presentational choices were a result of a combination of deception facilitators, for example, belief in the normalcy of lying, and constraining determinants, for example, the expectation of brokering physical connection. Impression construction determinants also interact in ways where the influence of any one element is dependent on others. This was most plainly evidenced in the interactions between stigma management concerns, the affordances of audience visibility/control and locatability and common ground reinforcing social hierarchy.",
+  "raw_path": "01_raw/europepmc_xml/PMC9634332.xml",
+  "text_path": "02_text/europepmc/PMC9634332.txt",
+  "raw_bytes": 152131,
+  "text_chars": 65626,
+  "raw_sha256": "8b801b135fa069de2d203527d966128b86e56d1cb5df0163ce01bd4fcd538eb8",
+  "text_sha256": "307366017fdfdeeb349f16f088052ed1b91024cdacd51c76efbdf7d3058d9df8",
+  "retrieved_at": "2026-10-25T13:52:50.724075+00:00"
+}

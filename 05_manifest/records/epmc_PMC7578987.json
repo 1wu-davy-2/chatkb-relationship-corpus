@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7578987",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mind the Gap: Perceived Partner Responsiveness as a Bridge between General and Partner-Specific Attachment Security.",
+  "authors": "Rice TM, Kumashiro M, Arriaga XB.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.3390/ijerph17197178",
+  "pmcid": "PMC7578987",
+  "url": "https://europepmc.org/article/PMC/PMC7578987",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7578987/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "responsiveness"
+  ],
+  "abstract": "A core idea of attachment theory is that security develops when attachment figures are responsive to a person's connection needs. Individuals may be more or less secure in different relationships. We hypothesized that individuals who perceive a current relationship partner as being responsive to their needs will feel more secure in that specific relationship, and that the benefits of perceived partner responsiveness would be more pronounced for individuals who generally feel insecure. The current study included 472 individuals (236 couples) in romantic relationships. Consistent with our predictions, individuals who perceived more responsiveness from their partner displayed lower partner-specific attachment anxiety and partner-specific avoidance, especially when they were generally insecure. These findings are discussed in terms of the conditions that promote secure attachment bonds.",
+  "raw_path": "01_raw/europepmc_xml/PMC7578987.xml",
+  "text_path": "02_text/europepmc/PMC7578987.txt",
+  "raw_bytes": 132155,
+  "text_chars": 49542,
+  "raw_sha256": "562078aac92b5e5acee88841564176989443b6e02262e447b01bc039fba84937",
+  "text_sha256": "37020caa67214f3f47c53cf177dcdb9517cea9b4972e2ce107636e8dc264e34d",
+  "retrieved_at": "2026-10-25T14:01:20.947203+00:00"
+}

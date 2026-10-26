@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12994808",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship between the perceived personalities of dating partners and dating violence victimization: A three-month longitudinal cross-lagged panel study.",
+  "authors": "Koiwa K, Kobayashi D, Seki F, Uchiyama A, Ishigaki N.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0344975",
+  "pmcid": "PMC12994808",
+  "url": "https://europepmc.org/article/PMC/PMC12994808",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12994808/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Dating violence is a significant social issue with serious psychological consequences. Victims' perceptions of perpetrators' traits may both influence and be influenced by abuse. However, most existing studies are cross-sectional, providing limited insight into the temporal and reciprocal relationships between these variables. Therefore, this study aimed to examine the directional and reciprocal associations between victims' perceptions of perpetrators' personalities and their experiences of dating violence. A three-month longitudinal survey was conducted with 206 young adults (aged 18-29 years) who were currently in romantic relationships. Three personality characteristics previously linked to dating violence perpetration were assessed: the basic Big Five personality traits, aggression, and attachment style. We used a cross-lagged panel model (i.e., a statistical approach that estimates directional and reciprocal influences over time) and found three key results. First, among the Big Five personality traits, perceived \"agreeableness\" exhibited a cross-sectional relationship with dating violence victimization. Second, perceived aggression had a bidirectional effect: viewing partners as more aggressive predicted later victimization, and dating violence victimization predicted higher subsequent perceptions of partner aggression. Third, perceptions of partners' \"fear of abandonment\" were shaped through experiences of dating violence. Among these findings, the bidirectional link between perceived aggression and victimization was the most robust and theoretically novel. These results suggest that victims' perceptions of their partners' anger-related traits predict and reflect abuse, underscoring the need for interventions that target mutual perception dynamics in violent relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC12994808.xml",
+  "text_path": "02_text/europepmc/PMC12994808.txt",
+  "raw_bytes": 134629,
+  "text_chars": 55238,
+  "raw_sha256": "c2d99736f4073097836cab37d60e6e1d383f24ca8755f88d30134546f463c7fe",
+  "text_sha256": "91006c24c49980a674921d3417504e59cc123dc610767a216c43e8e1e2c1e5cc",
+  "retrieved_at": "2026-10-25T13:54:22.570713+00:00"
+}

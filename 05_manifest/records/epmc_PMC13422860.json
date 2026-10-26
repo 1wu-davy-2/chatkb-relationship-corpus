@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13422860",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Prevalence and associated factors of intimate partner violence against reproductive-age women in Africa and Asia regions: Insights from 2022-2024 DHS datasets.",
+  "authors": "Mekonen EG.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0353669",
+  "pmcid": "PMC13422860",
+  "url": "https://europepmc.org/article/PMC/PMC13422860",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13422860/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Background Intimate partner violence is a major public health and human rights issue, affecting one in four women globally. It is particularly prevalent in low‑ and middle‑income countries, where reproductive‑age women face heightened risks due to cultural norms, poverty, and weak legal protections. It is linked to severe mental, physical, and reproductive health consequences, as well as intergenerational and societal impacts. Using recent demographic and health survey data, this study provides updated cross‑regional insights into intimate partner violence among women in Africa and Asia to inform culturally tailored interventions and strengthen policy frameworks. Methods A cross-sectional study was conducted using recent demographic and health survey data (2022-2024) from twelve countries in sub-Saharan Africa and Asia, including 88,414 women aged 15-49 years. Intimate partner violence was measured using 13 self‑reported items adapted from the Conflict Tactics Scale and coded as a binary outcome. Explanatory variables were selected based on the WHO ecological model, covering individual, relationship, community, and societal factors. Weighted data were analyzed in STATA 17 using multilevel logistic regression to account for clustering, with associations reported as adjusted odds ratios and 95% confidence intervals. Results The overall prevalence of intimate partner violence among reproductive‑age women in sub-Saharan Africa and Asia was 29.51% (95% CI: 29.21-29.81), with emotional (21.03%) being most common. Prevalence ranged from 51.74% in the Democratic Republic of Congo to 13.53% in the Philippines. Multilevel analysis identified significant predictors, including age, education, marital and employment status, early cohabitation, number of children, maternal abuse exposure, attitudes toward wife‑beating, partner jealousy, fear of partner, smoking, partner alcohol use, and region. Notably, partner alcohol consumption (AOR = 3.10), fear of partner (AOR = 2.98), and partner jealousy (AOR = 2.96) showed the strongest associations with intimate partner violence. Conclusions Nearly one in three reproductive‑age women experienced intimate partner violence, highlighting its magnitude and public health importance. Intimate partner violence was strongly associated with socio‑demographic, behavioral, and attitudinal factors and regional differences. These findings call for multi‑level interventions that promote women's empowerment, challenge harmful gender norms, strengthen legal frameworks, and expand community‑based support, while future longitudinal and qualitative research should deepen understanding and guide evidence‑based policy.",
+  "raw_path": "01_raw/europepmc_xml/PMC13422860.xml",
+  "text_path": "02_text/europepmc/PMC13422860.txt",
+  "raw_bytes": 193233,
+  "text_chars": 37322,
+  "raw_sha256": "ea97e8c59e3823de5a7ce909af69d751e8fdbf5b6172f47c742900008e87ad2e",
+  "text_sha256": "ef93336ae717e6dc86a545b1fdf05eefdb7ffe611151ad1315f60e305cad9a52",
+  "retrieved_at": "2026-10-25T15:36:00.359596+00:00"
+}

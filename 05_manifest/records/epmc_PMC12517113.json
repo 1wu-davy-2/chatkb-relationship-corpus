@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12517113",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Synchronicity in Post‐Jungian Astrology: A Cosmological Quest",
+  "authors": "",
+  "year": "2025",
+  "journal": "",
+  "doi": "",
+  "pmcid": "PMC12517113",
+  "url": "https://europepmc.org/article/PMC/PMC12517113",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12517113/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "astrology_belief"
+  ],
+  "abstract": "",
+  "raw_path": "01_raw/europepmc_xml/PMC12517113.xml",
+  "text_path": "02_text/europepmc/PMC12517113.txt",
+  "raw_bytes": 76308,
+  "text_chars": 34723,
+  "raw_sha256": "7e4d4f69a989c1c0fbb0d02145294bb19a81bf9b4dc7a84b2ccd9a649c9a0987",
+  "text_sha256": "039567b358baf7938bf51acbec01bd9bb24532754ba91e013957e9b8a28f82fb",
+  "retrieved_at": "2026-10-26T12:54:48.660661+00:00"
+}

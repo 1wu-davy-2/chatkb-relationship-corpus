@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_erich_fromm",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "埃里希·弗罗姆",
+  "requested_title": "埃里希·弗罗姆",
+  "url": "https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%B8%8C%C2%B7%E5%BC%97%E7%BD%97%E5%A7%86",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 埃里希·弗罗姆",
+  "topics": [
+    "psychology",
+    "love"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/erich_fromm.json",
+  "text_path": "02_text/zh_wikipedia/erich_fromm.txt",
+  "raw_bytes": 9155,
+  "text_chars": 3448,
+  "text_sha256": "081ddbb07a3c7ace5e1cccc0f34672fbe86c7e60a3151d4aafc35df862ca95c9",
+  "retrieved_at": "2026-10-25T16:26:11.213001+00:00"
+}

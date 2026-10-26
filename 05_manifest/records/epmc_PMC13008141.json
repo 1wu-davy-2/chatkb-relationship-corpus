@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13008141",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Partner phubbing and its association with depression and family functioning: A cross-sectional study.",
+  "authors": "Onur D, Özer ZY, Okyar Ç, Yüce S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1097/md.0000000000048104",
+  "pmcid": "PMC13008141",
+  "url": "https://europepmc.org/article/PMC/PMC13008141",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13008141/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "phubbing"
+  ],
+  "abstract": "The increasing integration of smartphones into daily life has given rise to partner phubbing - being ignored in favor of a partner phone use - which may impact mental health and family dynamics. Although phubbing has been explored in various relational contexts, empirical evidence on its association with depression and family functioning in primary care populations remains limited. This cross-sectional study was conducted among 222 married individuals aged 18 and above who visited a university-affiliated Family Health Center in Turkey between July and September 2024. Participants completed validated measures including the Phubbing Exposure Scale, Patient Health Questionnaire-2 and -9 (PHQ-2 and PHQ-9), and the Family Adaptability, Partnership, Growth, Affection, Resolve Scale. Statistical analyses included Mann-Whitney U, Kruskal-Wallis, chi-square, and correlation tests, with significance set at P < .05. Phubbing exposure was significantly higher among participants with positive PHQ-2 screenings for depressive symptoms (P < .01) and those with a history of psychiatric medication use (P < .01). Although PHQ-9 scores were not significantly associated with phubbing, early depressive symptoms measured by PHQ-2 were. Women reported higher phubbing exposure than men, and younger participants had higher perceived phubbing levels. Interestingly, individuals with low family functioning reported lower Phubbing Exposure Scale scores compared to those with moderate or high family functioning (P < .01), suggesting possible perceptual or relational dynamics in digitally neglected households. Partner phubbing appears to be linked with early depressive symptoms and various psychosocial characteristics, including gender, age, and psychiatric history. These findings highlight the relevance of digital neglect in clinical assessments and underscore the importance of integrating phubbing awareness into mental health and family care practices. Future research should explore longitudinal effects and develop interventions targeting smartphone-related disruptions in couple dynamics.",
+  "raw_path": "01_raw/europepmc_xml/PMC13008141.xml",
+  "text_path": "02_text/europepmc/PMC13008141.txt",
+  "raw_bytes": 57937,
+  "text_chars": 22878,
+  "raw_sha256": "9da6fffb3b3ed3d7af6d23630efc526c530a7f9c9db73e81a728cf957299cc17",
+  "text_sha256": "5ac078c755549a9acc011eff2bd83b292eb713dc47ca5a53a133a5b7dcfd8de1",
+  "retrieved_at": "2026-10-25T13:50:06.502826+00:00"
+}

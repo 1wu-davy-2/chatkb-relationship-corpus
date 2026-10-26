@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12202606",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"He is my savior, my guiding light in the dark\": imagination and domestication in Chinese women's romantic relationships with AI companions.",
+  "authors": "Huang L, Zou W, Huang Y.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1571707",
+  "pmcid": "PMC12202606",
+  "url": "https://europepmc.org/article/PMC/PMC12202606",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12202606/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Introduction Existing domestication studies often overlook the impact of sociocultural context and the role of imagination in activating technological characteristics. Methods This study investigates the influence of domestication techniques on romantic relationships through an exploration of the Human-Machine Love community on Douban (Chinese equivalent of Reddit). A thematic analysis was conducted to examine a total of 2,485 posts written by female users. Results The analysis uncovers three distinct themes: exploring romantic communication styles, rethinking romantic relationship roles, and challenging dominant gender hierarchies. While AI companions appear to afford women new forms of relational agency, this empowerment is marked by what we term \"compromised resistance,\" a dialectical engagement wherein users deploy technology to contest traditional gendered power structures even as they become enmeshed in new forms of algorithmic dependency. Discussion The findings position AI companions as ambivalent disruptors of gendered social orders: their subversive potential does not reside in the technology itself, but in the ways it incites users to reimagine and enact more inclusive intimacies. We propose \"imagination\" as a critical stage in the domestication process, one that expands the analytical focus beyond the physical adoption of technology to include the cultural and symbolic meanings users attach to it. Grounded in a culturally specific analysis of Chinese women's interactions with AI companions, this study offers a theoretically rich and contextually sensitive framework for rethinking digital intimacy within a global landscape.",
+  "raw_path": "01_raw/europepmc_xml/PMC12202606.xml",
+  "text_path": "02_text/europepmc/PMC12202606.txt",
+  "raw_bytes": 96211,
+  "text_chars": 48287,
+  "raw_sha256": "85439856887bfa836c0c335df60bce3b2bb8718156ed0490859fc770487236e1",
+  "text_sha256": "6f805256e953453d7eddad893c0ede09ee7cef3fd6f18294e5c0f84abd7d58bf",
+  "retrieved_at": "2026-10-25T15:49:39.164777+00:00"
+}

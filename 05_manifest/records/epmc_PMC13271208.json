@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC13271208",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Intimate partner violence and associated factors among adult women: a population-based study.",
+  "authors": "Simon C, Costa JSDD, Olinto MTA, Bairros FS, Gonçalves TR.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.11606/s1518-8787.2026060007176",
+  "pmcid": "PMC13271208",
+  "url": "https://europepmc.org/article/PMC/PMC13271208",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13271208/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence",
+    "safer_sex_communication"
+  ],
+  "abstract": "Objective The study investigated the lifetime prevalence of intimate partner violence among women aged 20 to 69 years residing in the urban area of São Leopoldo (RS) and associated factors. Methods This was a population-based cross-sectional study in which 1,113 women were interviewed. The outcome was self-reported lifetime intimate partner violence, and sociodemographic, physical and mental health, and behavioral variables were assessed. A stratified analysis by age group was performed. Results The prevalence of intimate partner violence in the sample was 17.9% (95%CI 15.6-20.1). In the adjusted analysis, the outcome was associated with lower socioeconomic status, a history of sexually transmitted infections, and the presence of common mental disorders. In the stratified analysis, women aged 20-39 years had a 13.7% (95%CI 10.5-16.8) lifetime prevalence of intimate partner violence, with nearly three times the likelihood among those with common mental disorders. Among women aged 40 years or older, the prevalence was 20.7% (95%CI 17.6-23.8), with those in the lowest socioeconomic class, who were single, divorced, or widowed, who self-reported sexually transmitted infections, and who had common mental disorders being more likely to experience the outcome. Secondary intersectional analyses revealed a higher prevalence of intimate partner violence among Black or Brown women with low educational attainment (PR = 1.67; 95%CI 1.14-2.45) and White women with low educational attainment (PR = 1.58; 95%CI 1.14-2.19), compared to white women with higher educational attainment. Conclusions The study demonstrated a high lifetime prevalence of intimate partner violence, reinforcing the need for public policies that improve women's socioeconomic conditions, as well as integrated gender-based violence prevention programs that incorporate mental health care in the support provided to victims.",
+  "raw_path": "01_raw/europepmc_xml/PMC13271208.xml",
+  "text_path": "02_text/europepmc/PMC13271208.txt",
+  "raw_bytes": 216687,
+  "text_chars": 31941,
+  "raw_sha256": "adcce7e09857040b9d36a6857dcfb7c2ff2c5eb2e7aae28c26b2424798d23198",
+  "text_sha256": "5789378a44abec808ed33886c873957612ddfecd813ff0171972e524d815e896",
+  "retrieved_at": "2026-10-25T13:47:44.594508+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10103056",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship Between Sociosexuality and Condom Use Frequency Among Young French College Students.",
+  "authors": "Gana K, Arshakyan D.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.5964/ejop.6793",
+  "pmcid": "PMC10103056",
+  "url": "https://europepmc.org/article/PMC/PMC10103056",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10103056/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Sociosexuality, conceptualized as individual differences in attitudes, behaviors, and desires for casual sex, is reflected in \"hookup culture\" where risky sexual behaviors should not be overlooked. The main objectives of this study were (a) to provide a first French adaptation of the SOI-R and to evaluate its psychometric properties, and (b) to examine the relationship between sociosexuality and condom use among young college students (N = 1037, mean age = 18.7 years, SD = 1 year). A path model hypothesizing links between dispositional optimism, boredom proneness, sexual orientation, age, gender (as correlated exogenous/independent variables), sociosexuality (as mediation variable), and condom use (as output variable), was specified and tested. Findings showed gender and sexual orientation differences in sociosexuality. As expected, males as well as non-heterosexual individuals endorsed more sociosexuality than the others. Optimism, but not boredom, predicted a higher level of sociosexuality. Sociosexuality positively predicted safer sex. Sociosexual orientation was not associated with condomless sex. It would seem that sexual freedom does not necessarily mean irresponsible sexual adventures for the young college students in our study.",
+  "raw_path": "01_raw/europepmc_xml/PMC10103056.xml",
+  "text_path": "02_text/europepmc/PMC10103056.txt",
+  "raw_bytes": 117383,
+  "text_chars": 32153,
+  "raw_sha256": "07f841633013ec10dfb71fceb8df4c014ed793de5595b0d46d9a813aeb943f9e",
+  "text_sha256": "27dfd8e631798a2e1eff66138cf252bb23db7e0df5bdd008088e1a67bc0e2345",
+  "retrieved_at": "2026-10-26T12:58:11.812609+00:00"
+}

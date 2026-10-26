@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13171570",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Character style and relational judgments in human-AI romance: trust, commitment, intimacy, and passion.",
+  "authors": "Niu J, She W, Cheng W, Dou X, Jia X.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1819889",
+  "pmcid": "PMC13171570",
+  "url": "https://europepmc.org/article/PMC/PMC13171570",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13171570/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "Introduction As AI-generated characters become increasingly present in everyday emotional and romantic contexts, questions arise about whether they may begin to occupy relational space traditionally reserved for human partners. This study examines how character style (operationalized as holistic character conditions, each combining a distinct visual rendering, voice, and character background settings) and participant gender shape initial romantic evaluations of AI-generated and real human targets across four relational dimensions: Trust, Intimacy, Passion, and Commitment. Methods A 4 (Character Style: 2D Anime, 3D Cartoon, Highly Humanoid, Real Human) × 2 (Participant Gender: Female, Male) mixed-design experiment was conducted with 134 Generation Z participants (72 female, 62 male; mean age = 19.91). Each participant viewed 30-s multimodal video introductions of four opposite-sex targets and rated them on a 12-item instrument adapted from automation trust scales and Sternberg's Triangular Love Scale. Results The results reveal two distinct patterns. On the foundational relational dimensions of Trust and Commitment, real human targets were generally rated higher than AI-generated conditions. For Trust, the real human target was rated significantly higher than all three AI conditions. For Commitment, this advantage was significant relative to the 3D Cartoon and Highly Humanoid conditions, but not relative to the 2D Anime condition. No significant Character Style × Gender interaction was found for either dimension, supporting the view that AI characters do not readily approach the relational standing of real humans on these judgments under brief initial exposure. On the affective engagement dimensions of Intimacy and Passion, significant Character Style × Gender interactions emerged: female participants reported elevated intimacy specifically toward 2D Anime targets, while male participants reported elevated passion specifically toward Highly Humanoid targets. Discussion These findings suggest that the relational boundary between AI-generated and real human targets is dimension-specific rather than absolute - firmly held on trust, largely maintained on commitment, but more permeable on intimacy and passion. The study contributes a cross-disciplinary measurement framework that integrates HCI trust assessment with relationship psychology, and reveals a pattern of dimensional separation in which affective engagement dimensions can shift independently of foundational relational dimensions.",
+  "raw_path": "01_raw/europepmc_xml/PMC13171570.xml",
+  "text_path": "02_text/europepmc/PMC13171570.txt",
+  "raw_bytes": 160629,
+  "text_chars": 68411,
+  "raw_sha256": "8bcd0b6534d5422d45ac95635c84e3386c3e7bd4e4f18ce0a12ffbabbfd32a6f",
+  "text_sha256": "baac57855544f20f88b2c428bf6ccc82947291fa1aef24701c2ea90897e4af3f",
+  "retrieved_at": "2026-10-25T13:49:51.641670+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12912979",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Gustatory avoidance of fatty acids by &lt;i&gt;Aedes aegypti&lt;/i&gt; depends on an arthropod-specific TRP channel.",
+  "authors": "Dhakal S, Bontempo AE, Singh R, Dhavan P, Montell C.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1073/pnas.2522818123",
+  "pmcid": "PMC12912979",
+  "url": "https://europepmc.org/article/PMC/PMC12912979",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12912979/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Mosquito-disease vectors, such as Aedes aegypti , use their sense of taste before deciding whether to consume a blood meal, or fly away. However, the molecular mechanisms controlling gustatory decisions in mosquitoes are largely unknown. The transient receptor potential (TRP) channel, Painless1 (Pain1), is an intriguing candidate for participating in Ae. aegypti taste since pain1 transcripts are detected in gustatory receptor neurons (GRNs). The Drosophila homolog, painless ( pain ) is also expressed in GRNs, where it is required for sensing allyl-isothiocyanate. Here, to identify additional gustatory roles for pain homologs, we first focused on Drosophila pain , which is widely expressed in multiple GRN classes. We demonstrated that pain mutations eliminated gustatory attraction to low fatty acids levels, repulsion to high levels, and fatty acid-induced action potentials. The attraction and repulsion depended on pain expression in different GRN classes. In contrast to Drosophila , when Aedes contacts fatty acids, they induce gustatory rejection only. Aedes pain1 is expressed in taste organs, and is required for gustatory avoidance of fatty acids, and for fatty acid-induced action potentials. Given that Pain homologs are found in insects but not vertebrates, Pain1 represents an intriguing target for developing repellents to diminish biting, and transmission of infectious agents by mosquito disease vectors.",
+  "raw_path": "01_raw/europepmc_xml/PMC12912979.xml",
+  "text_path": "02_text/europepmc/PMC12912979.txt",
+  "raw_bytes": 175097,
+  "text_chars": 56852,
+  "raw_sha256": "58683306b2f7376b178f5416ed0f5e815916d0f03da59e0f1a3da9f9ee94ad64",
+  "text_sha256": "97d83e0e15bfeef0d3bc23bdd2165ce0cdda333de6a680e89c8718ccb5070750",
+  "retrieved_at": "2026-10-25T13:58:58.630895+00:00"
+}

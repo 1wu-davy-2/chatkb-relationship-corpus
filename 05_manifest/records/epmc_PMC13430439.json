@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13430439",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"Someone catching me when I'm falling\": a qualitative study exploring satisfaction in romantic relationships where one partner has borderline personality disorder.",
+  "authors": "Molyneux E, Broadbear JH, Rao S, Kasiviswanathan K, Zafir S, Knight T, Mildred H.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2026.1807149",
+  "pmcid": "PMC13430439",
+  "url": "https://europepmc.org/article/PMC/PMC13430439",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13430439/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "emotion_regulation"
+  ],
+  "abstract": "Introduction Interpersonal difficulties are a core challenge experienced by people who have borderline personality disorder (BPD). Relationships where one person has BPD are often rated lower in satisfaction than others due to their tumultuous and unstable nature. Interpersonal difficulties not only cause distress but may also catalyse crises for people with BPD. The ability to sustain emotionally positive attachments is fundamental for recovery in BPD. The aim of this study was to understand how couples, where one partner has BPD, experience their intimate relationships and make sense of their success. Method Through semi-structured interviews, we explored the role of attachment in the context of these romantic relationships and identified constructive behaviours that contribute to their longevity and satisfaction. In-depth interviews were conducted individually with six couples engaged in long-term (>1 year) relationships. Results Interpretative Phenomenological Analysis (IPA) was used, and two key themes were identified - a) navigating the impacts of the disorder and b) safe base and secure attachment. Conclusion Our findings suggest that reorientation of interpersonal transactions, where the partner without BPD serves as a stable base, enables open communication. As a result, people with BPD feel secure, promoting emotion regulation, remission from symptoms, and an ability to sustain a long-term, satisfying relationship.",
+  "raw_path": "01_raw/europepmc_xml/PMC13430439.xml",
+  "text_path": "02_text/europepmc/PMC13430439.txt",
+  "raw_bytes": 131477,
+  "text_chars": 57218,
+  "raw_sha256": "0222e1225abd5862acac5e2b4fac1ac069a3a15d7dc62dfe0224c0daf34b95d1",
+  "text_sha256": "6a3f662b0ad47cb6033f4300dcecf9187d33a591266127e80eaf0bf3489d2463",
+  "retrieved_at": "2026-10-25T15:31:55.035457+00:00"
+}

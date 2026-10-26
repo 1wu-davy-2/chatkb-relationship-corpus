@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13486057",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "An Evaluation of Social Media and Geospatial Dating Apps for Recruitment of a National Sample of Young Men Who Have Sex with Men in the LITE-2 Study.",
+  "authors": "Bonnewit I, Schnall R, Garofalo R, Duncan DT, Wood OR, Almodovar M, Xiao F, Kuhns LM.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s10461-026-05083-9",
+  "pmcid": "PMC13486057",
+  "url": "https://europepmc.org/article/PMC/PMC13486057",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13486057/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "In 2022, over two thirds of individuals diagnosed with HIV in the United States were people of color, half resided in the south, and 67% of new cases were attributed to male-to male sexual transmission (Centers For Disease Control, 2024). To combat these health disparities, the Ending the HIV Epidemic (EHE) initiative recommends that HIV prevention research focus on targeted populations and geographic regions with high rates of new HIV diagnosis. There are limited data on the relative efficiency of social media and dating apps for the recruitment of key EHE populations to HIV prevention studies. The LITE-2 Study aimed to recruit a national sample of approximately 3,000 young men who have sex with men (YMSM), at least 30% Black/African American and 30% Hispanic/Latino. This analysis compared the success of different social media platforms in relation to study goals, using descriptive statistics from the LITE-2 study (N = 2999) to assess enrollment count, eligibility rates, cost, and geographic distribution for each platform. Facebook had the highest enrollment rate, 45.38%, among eligible screeners. The cost per enrolled participant for Grindr, Sniffies, Scruff, Jack'd, and Adam4Adam was $118.02, $129.46, $220.59, $252.53, and $305.56 respectively. Jack'd had the highest proportion of Black participants, and Sniffies the highest proportion of Hispanic/Latino individuals. Use of Scruff resulted in enrollment of the highest proportion of participants in the rural EHE jurisdictions (47.1%). These findings inform digital recruitment strategies for future studies with similar racial/ethnic and geographic targets.",
+  "raw_path": "01_raw/europepmc_xml/PMC13486057.xml",
+  "text_path": "02_text/europepmc/PMC13486057.txt",
+  "raw_bytes": 69399,
+  "text_chars": 25875,
+  "raw_sha256": "d580d47b4ce6a4c2e90ed47220265865a279d961f3246d8701d97fad57cb69d2",
+  "text_sha256": "cd247f01e34ba0252aa29b1edfd7c2f06b42c3def72fb88f3150df706eb7a1f8",
+  "retrieved_at": "2026-10-25T15:48:22.575209+00:00"
+}

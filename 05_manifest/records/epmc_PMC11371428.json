@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11371428",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Prevalence, patterns and predictors of paranormal beliefs in The Netherlands: a several-analysts approach.",
+  "authors": "Hoogeveen S, Borsboom D, Kucharský Š, Marsman M, Molenaar D, de Ron J, Sekulovski N, Visser I, van Elk M, Wagenmakers EJ.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1098/rsos.240049",
+  "pmcid": "PMC11371428",
+  "url": "https://europepmc.org/article/PMC/PMC11371428",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11371428/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "paranormal_belief"
+  ],
+  "abstract": "Paranormal beliefs encompass a wide variety of phenomena, including the existence of supernatural entities such as ghosts and witches, as well as extraordinary human abilities such as telepathy and clairvoyance. In the current study, we used a nationally representative sample ( N = 2534 ) to investigate the presence and correlates of paranormal beliefs among the secular Dutch population. The results indicated that most single paranormal phenomena (e.g. belief in clairvoyance) are endorsed by 10-20% of Dutch respondents; however, 55.6% of respondents qualify as paranormal believers based on the preregistered criterion that they believe in at least one phenomenon with considerable certainty. In addition, we invited four analysis teams with different methodological expertise to assess the structure of paranormal beliefs using traditional factor analysis, network analysis, Bayesian network analysis and latent class analysis (LCA). The teams' analyses indicated adequate fit of a four-factor structure reported in a 1985 study, but also emphasized different conclusions across techniques; network analyses showed evidence against strong connectedness within most clusters, and suggested a five-cluster structure. The application of various analytic techniques painted a nuanced picture of paranormal beliefs and believers in The Netherlands and suggests that despite increased secularization, subgroups of the general population still believe in paranormal phenomena.",
+  "raw_path": "01_raw/europepmc_xml/PMC11371428.xml",
+  "text_path": "02_text/europepmc/PMC11371428.txt",
+  "raw_bytes": 271501,
+  "text_chars": 63551,
+  "raw_sha256": "f9a93c7bd00bef47a097c2205509138e0ce7048fb53098bffeb124ac9a2aac95",
+  "text_sha256": "4704d0d5646e2808dc3c9cd23c98eba7cc04e7319df8414b3c2267ceb70ae6e9",
+  "retrieved_at": "2026-10-26T13:27:26.998476+00:00"
+}

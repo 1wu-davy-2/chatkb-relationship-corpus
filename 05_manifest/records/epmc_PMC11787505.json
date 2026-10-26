@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11787505",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Development and validation of the gift reciprocation anxiety scale (GRAS) for youths and adults in intimate relationships.",
+  "authors": "Shahrier MA, Khatun S.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1016/j.heliyon.2025.e41956",
+  "pmcid": "PMC11787505",
+  "url": "https://europepmc.org/article/PMC/PMC11787505",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11787505/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "The development and validation of any scale measuring reciprocation anxiety induced from gift reciprocation contexts are yet to be addressed for intimate relationships. To this end, the present study aimed to develop and validate the gift reciprocation anxiety scale (GRAS) using modern psychometric methods for Bangladeshi youths and adults engaged in informal romantic and formal marital relationships. A total of 763 Bangladeshi youths of different public universities and adults in different professions with the ages ranged from 17 to 36 years were the study participants recruited through convenient sampling technique. Firstly, items were generated, and the content validity coefficients were determined through appropriate procedure to finalize the 7-item GRAS for administering on a large sample ( n = 763). Next, the adequacy of the data for factor analysis was checked and exploratory factor analysis (EFA) was done, extracting a single factor structure which was confirmed through the same factor retention using parallel analysis (PA). Model fit indices of confirmatory factor analysis (CFA) validated the unifactorial solution of GRAS. In addition, the item response theory (IRT) analyses confirmed that the items of the GRAS had high discriminative power, satisfactory threshold parameters, and covered a wide range of the latent trait. Mean inter-item correlations, corrected item-total correlations, and internal consistency reliabilities of the newly developed GRAS fall within the suggested limits. Multi-group confirmatory factor analysis (MGCFA) revealed that the GRAS can invariably be applied across gender, age, and marital status. A moderately positive association of GRAS with reciprocity anxiety, depression, and anxiety indicated the convergent validity of the scale. Altogether, GRAS has been found to be a psychometrically sound tool to objectively measure gift reciprocation anxiety in close relationships, implicating gift reciprocation less as an obligation and more as signs of trust, commitment, security, and care for ensuring better intimate relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC11787505.xml",
+  "text_path": "02_text/europepmc/PMC11787505.txt",
+  "raw_bytes": 191960,
+  "text_chars": 51857,
+  "raw_sha256": "7c355b5e2166077ed9663fe2b734e70c9f11b6e85e001e1e6bd9b80d1fc857ec",
+  "text_sha256": "f8d1e6fc16bbffd25d5a66c74b175bd068ef3c941ceed6e9497daf8091746629",
+  "retrieved_at": "2026-10-25T15:33:30.833320+00:00"
+}

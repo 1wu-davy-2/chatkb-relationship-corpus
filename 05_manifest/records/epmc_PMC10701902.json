@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10701902",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Spectrum of complaints: practices of complaining in therapeutic conversations as a window to spouses' personalities and couples' relationships.",
+  "authors": "Taurogiński B, Janusz B, Bergmann JR, Peräkylä A.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2023.1232594",
+  "pmcid": "PMC10701902",
+  "url": "https://europepmc.org/article/PMC/PMC10701902",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10701902/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "Introduction Complaining is a frequent phenomenon in human interactions and it frequently happens during couple counseling. A conversation between a therapist and spouses that requires them to talk about problems inevitably leads to complaining (especially during the first meeting). The institutional context and the presence of an impartial therapist shape the complaining sequences. Method We used conversation analysis to explore the interactional organization of complaining in the specific context, which is couples therapy. Our data involve video recordings of nine couple therapy first consultations. Results In the results section of our paper, we describe in detail the composition and delivery of complaints in couple therapy setting. Our observations made it possible to propose a nuanced spectrum of ways of complaining that spans the considerateness dimension. Our data suggest that there may be a relationship between the manner of complaining and the presence and severity of maladaptive personality traits of complainers. Discussion We argue that paying close attention to complaining practices that arise during couple therapy is an important aspect of clinical work with couples and can be informative regarding the nature of spouses' quarrels and their personality constitutions.",
+  "raw_path": "01_raw/europepmc_xml/PMC10701902.xml",
+  "text_path": "02_text/europepmc/PMC10701902.txt",
+  "raw_bytes": 165686,
+  "text_chars": 82381,
+  "raw_sha256": "79a51a114c7ae72e0be27b6ce574d02f21a9b36a5ccd970f6ad02d7c871e7096",
+  "text_sha256": "caf876ea994a11d2e0217ad762d13e36883aeb309d9c5bc419fd5dadfc347227",
+  "retrieved_at": "2026-10-25T15:34:41.521128+00:00"
+}

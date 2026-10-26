@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7898773",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Associations between state intimate partner violence-related firearm policies and injuries among women and men who experience intimate partner violence.",
+  "authors": "Willie TC, Kershaw T, Perler R, Caplon A, Katague M, Sullivan TP.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1186/s40621-021-00297-y",
+  "pmcid": "PMC7898773",
+  "url": "https://europepmc.org/article/PMC/PMC7898773",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7898773/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "Background Comprehensive state firearm policies related to intimate partner violence (IPV) may have a significant public health impact on non-lethal IPV-related injuries. Research indicates that more restrictive firearm policies may reduce risk for intimate partner homicide, however it is unclear whether firearm policies prevent or reduce the risk of non-lethal IPV-related injuries. This study sought to examine associations between state-level policies and injuries among U.S. IPV survivors. Methods Individual-level data were drawn from the National Intimate Partner and Sexual Violence Survey, a nationally-representative study of noninstitutionalized adults. State-level data were drawn from a firearm policy compendium. Multivariable regressions were used to test associations of individual policies with non-fatal IPV-related injuries (N = 5493). Regression models were also conducted to explore differences in the policy-injury associations among women and men survivors. Results Three categories of policies were associated with IPV-related injuries. The odds of injuries was lower for IPV survivors living in states that prohibited firearm possession and require firearm relinquishment among persons convicted of IPV-related misdemeanors (aOR [95% CI] = .76 [.59, .97]); prohibited firearm possession and require firearm relinquishment among persons subject to IPV-related restraining orders (aOR [95% CI] = .81 [.66, .98]); and prohibited firearm possession among convicted of stalking (aOR [95% CI] = .82 [.68, .98]) than IPV survivors living in states without these policies. There was a significant difference between women and men survivors in the association between IPV-related misdemeanors policy and injuries (B [SE] = .60 [.29]), such that the association was stronger for men survivors (aOR [95% CI] = .10 [.06, .17]) than women survivors (aOR [95% CI] = .60 [.48, .76]). Conclusions Restrictive state firearm policies regarding IPV may provide unique opportunities to protect IPV survivors from injuries.",
+  "raw_path": "01_raw/europepmc_xml/PMC7898773.xml",
+  "text_path": "02_text/europepmc/PMC7898773.txt",
+  "raw_bytes": 96488,
+  "text_chars": 33026,
+  "raw_sha256": "4df5e3dc2460db653885a6d11655cc340bd70b22452e8e948e541b750aa99567",
+  "text_sha256": "2cdd77907742c2e99b3828d54cf29c2f42f7d898c99fde2e50d33bb923b9846a",
+  "retrieved_at": "2026-10-25T15:44:23.004386+00:00"
+}

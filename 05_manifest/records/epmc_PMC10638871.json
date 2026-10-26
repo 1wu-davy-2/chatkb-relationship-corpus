@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10638871",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "People Are More Generous to a Partner Who Pays Attention to Them.",
+  "authors": "Ohtsubo Y, Yamaguchi C.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.1177/1474704916687310",
+  "pmcid": "PMC10638871",
+  "url": "https://europepmc.org/article/PMC/PMC10638871",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10638871/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_scripts"
+  ],
+  "abstract": "People use relatively low-cost signals to maintain close relationships, in which they engage in costlier exchanges of tangible support. Paying attention to a partner allows an individual to communicate his or her interest in the relationship with the partner. Previous studies have revealed that when Person A pays attention to Person B, B's feeling of intimacy toward A increases. If social attention strengthens the bond between A and B, it is predicted that A's attention will also increase B's generous behavior toward A. This study tested this prediction. Participants first engaged in a collaborative task using computers. In the task, the putative partner (a computer program) either paid or did not pay attention to participants (high attention condition vs. low attention condition). In the control condition, the partner could not choose when to pay attention to participants. They then played three rounds of the dictator game with the partner. Confirming the previous finding, perceived intimacy was highest in the high attention condition, in the middle in the control condition, and lowest in the low attention condition. More importantly, participants in the high attention condition decided to give more resources to their partner than those in the low attention condition (but the difference between the high attention condition and the control condition was not significant). In addition, self-reported intimacy was positively correlated with the resource allocated to the partner. The results of this study demonstrated that social attention fosters a partner's generosity.",
+  "raw_path": "01_raw/europepmc_xml/PMC10638871.xml",
+  "text_path": "02_text/europepmc/PMC10638871.txt",
+  "raw_bytes": 83924,
+  "text_chars": 32163,
+  "raw_sha256": "2d130a25b84358700cf97e02ee231072546f2fc1fd8b5ea8598ad0fe3651ae7c",
+  "text_sha256": "8d87e0e3fbeca279cb7c02d922a313ee45ec5974388fb7401986c5e7b8313378",
+  "retrieved_at": "2026-10-25T15:31:06.049214+00:00"
+}

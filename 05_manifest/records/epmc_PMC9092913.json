@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9092913",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dialing up desire and dampening disinterest: regulating sexual desire in the bedroom and sexual and relationship well-being.",
+  "authors": "Horne RM, Raposo S, Muise A, Harasymchuk C, Impett EA.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/02654075211054781",
+  "pmcid": "PMC9092913",
+  "url": "https://europepmc.org/article/PMC/PMC9092913",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9092913/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction"
+  ],
+  "abstract": "Romantic partners often regulate their emotions and affection to achieve certain goals, but research has yet to explore how partners regulate their expression of sexual desire during sex and its implications for couples' well-being. In two multi-part dyadic diary studies of primarily mixed-gender couples in longer-term relationships residing in North America, we examined three questions. First, is amplifying desire and suppressing disinterest during sex associated with both partners' daily sexual and relationship satisfaction? Second, do these associations differ by level of sexual desire and gender? Third, tested in our second sample, can these associations be explained by feelings of sexual inauthenticity? Across both samples (N total = 225 couples, 450 participants), amplifying desire was associated with lower sexual satisfaction, while suppressing disinterest was not associated with daily satisfaction. Importantly, sexual desire played a role in the links between desire regulation during sex and satisfaction: on days when people were low in sexual desire, amplification was associated with both partners' lower sexual satisfaction, while suppression was associated with a partner's higher relationship satisfaction. In addition, amplification (on low desire days) and suppression (regardless of desire level) were associated with lower sexual authenticity which, in turn, was linked to lower relationship satisfaction. The findings suggest that desire regulation during sex plays an important role in couples' daily sexual satisfaction and relationship satisfaction-in part because it feels sexually inauthentic-with the implications of this regulation being particularly strong when people feel low sexual desire.",
+  "raw_path": "01_raw/europepmc_xml/PMC9092913.xml",
+  "text_path": "02_text/europepmc/PMC9092913.txt",
+  "raw_bytes": 144838,
+  "text_chars": 48798,
+  "raw_sha256": "940a72412b78d1212319689b14d82064c59f8eff13fe3c7fb85dac0f979d937c",
+  "text_sha256": "a3c77a749aaf4b4bf256efcc63bec7f3dc465980aff3f856c2b5c35d36106fdb",
+  "retrieved_at": "2026-10-25T15:37:54.988223+00:00"
+}

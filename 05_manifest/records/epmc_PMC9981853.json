@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9981853",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Love is Elsewhere: Internal Migration and Marriage Prospects in China.",
+  "authors": "Xiong W.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1007/s10680-023-09658-3",
+  "pmcid": "PMC9981853",
+  "url": "https://europepmc.org/article/PMC/PMC9981853",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9981853/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_market"
+  ],
+  "abstract": "Migration and marriage are major life events that might interact and be jointly decided. Places with good labor market opportunities may or may not provide good marriage options. In this paper, I quantify gains and losses in marriage prospects for unmarried migrants and natives during the population redistribution driven by internal migration. I also examine how the experiences differ by individual characteristics and regional factors. The analysis measures marriage prospects using the availability ratio (AR) with adaptive assortative matching norms for every unmarried individual from sample data of the 2010 China population census. The AR quantifies the intensity of competition for suitable partners in the local marriage market. I compare (1) migrants' current AR with an alternative AR if the migrant returned to the hometown and (2) natives' AR with a hypothetical AR if all migrants returned to their hometown. The first comparison shows that among migrants moving for labor market opportunities, most women have higher ARs (better marriage prospects) in the place of residence than in their hometown, especially those of rural origin. In contrast, migrant men's ARs mostly decrease after migration except for the best educated. The second comparison reveals small negative externalities of internal migration on ARs for native women but positive impacts for some native men. The results suggest a conflict between labor market opportunities that dominate internal migration decisions and marriage market opportunities in China. This study demonstrates a method to quantify and compare marriage prospects and extends the literature on how migration and marriage interact.",
+  "raw_path": "01_raw/europepmc_xml/PMC9981853.xml",
+  "text_path": "02_text/europepmc/PMC9981853.txt",
+  "raw_bytes": 225411,
+  "text_chars": 62343,
+  "raw_sha256": "1c2dc83355f9cfc0c7a814902206c75d3b17455fb466acd051a099b37aa6d9e4",
+  "text_sha256": "589d161b2d0b7c224b7f1fd75b7f45004c11c0bdd6992493878c0f9fb0edb7ab",
+  "retrieved_at": "2026-10-25T15:32:06.294680+00:00"
+}

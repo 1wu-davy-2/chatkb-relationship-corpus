@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_phubbing",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "低頭族",
+  "requested_title": "低头族",
+  "url": "https://zh.wikipedia.org/wiki/%E4%BD%8E%E9%A0%AD%E6%97%8F",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "technology",
+    "relationship"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/phubbing.json",
+  "text_path": "02_text/zh_wikipedia/phubbing.txt",
+  "raw_bytes": 2818,
+  "text_chars": 1087,
+  "text_sha256": "8a1f5317f7d62816e6d13137130ee0568be01625c9ae0ea4954d5ee39a66177e",
+  "retrieved_at": "2026-10-25T15:44:13.953042+00:00"
+}

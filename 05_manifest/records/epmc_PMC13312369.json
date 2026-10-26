@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13312369",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Drivers of the association between armed conflict and intimate partner violence: A systematic review.",
+  "authors": "Travers A, Namuggala VF, Bahati I, Buckley C.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1017/gmh.2026.10248",
+  "pmcid": "PMC13312369",
+  "url": "https://europepmc.org/article/PMC/PMC13312369",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13312369/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "The association between armed conflict and intimate partner violence (IPV) is well established. However, the mechanisms or drivers of this relationship are less well understood. This review provides a systematic synthesis of published literature on the factors driving the association between violence in the public and private spheres. Five databases (Web of Science, EMBASE, CINAHL, PsycINFO and PubMed) were systematically searched to identify all studies examining potential drivers. Inclusion criteria specified that studies should be based on adult samples, should measure or analyse the impact of conflict exposure, and should provide some insight into the drivers of the association between armed conflict and IPV, rather than only documenting the association. A total of 49 studies (25 qualitative and 24 quantitative) met the inclusion criteria. Identified drivers included individual, relational and structural factors. Among the most empirically supported drivers were conflict-related trauma and post-traumatic stress disorder (PTSD), stress associated with the economic effects of conflict and changes to gender roles and norms in the post-conflict setting. The intersection of these factors, particularly gender roles and economic factors, also emerged as a significant dynamic across multiple studies. The findings highlight the importance of integrating gender considerations, including IPV prevention and response, into humanitarian programming. There is a need for further research and theory-building to better integrate the factors operating at both individual and societal levels, and to better incorporate consideration of the influence of historical factors such as legacies of imperialism and colonial violence.",
+  "raw_path": "01_raw/europepmc_xml/PMC13312369.xml",
+  "text_path": "02_text/europepmc/PMC13312369.txt",
+  "raw_bytes": 286899,
+  "text_chars": 60418,
+  "raw_sha256": "2d1765b9c005fbffce602e6bdeff9a8333203e99ac6dc642143e3c36cac1b759",
+  "text_sha256": "10f34a963be43b1e6dddb6cbc1c325151efb2be09fec792b557b42f9cfafb539",
+  "retrieved_at": "2026-10-25T14:02:24.197950+00:00"
+}

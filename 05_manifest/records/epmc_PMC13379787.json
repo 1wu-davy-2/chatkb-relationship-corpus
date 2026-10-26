@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13379787",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Defensive Strategies and Handling Paths in Intimate Relationship Conflicts: A Dynamic Game Model From the Perspective of Emotional Regulation.",
+  "authors": "Liu Y.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1002/pchj.70103",
+  "pmcid": "PMC13379787",
+  "url": "https://europepmc.org/article/PMC/PMC13379787",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13379787/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "emotion_regulation"
+  ],
+  "abstract": "This study develops a dynamic game model of intimate relationship conflicts that incorporates emotion regulation mechanisms, translating cognitive reappraisal and expressive suppression into strategic parameters. The model simulates the dynamic evolution of defensive strategies and intervention paths, capturing the continuous interplay between emotional states and conflict behavior choices in realistic relational contexts. Using longitudinal tracking data from 320 couples and agent-based simulations, we validate the core mechanisms and demonstrate that flexibility in emotion regulation significantly reduces conflict intensity and shortens conflict cycles. When one partner's emotion regulation capacity is limited, power asymmetry intensifies defensive rigidity, highlighting the combined influence of neural coordination, relational fluidity, and micro-level cultural practices on conflict dynamics. By operationalizing emotion regulation as a computable variable within a formalized game-theoretic framework, this research bridges theoretical constructs and observable behavior, revealing how neural synchrony and relational context shape the selection and effectiveness of defensive strategies. The findings offer both theoretical and practical contributions: theoretically, the study provides a more integrated understanding of intimate relationship conflicts, emphasizing the joint roles of emotional, relational, and cultural factors in conflict evolution; practically, the model equips clinicians and family intervention practitioners with a structured, quantifiable tool for diagnosing conflict patterns and designing evidence-based strategies to reduce destructive behaviors and foster cooperative problem-solving. Overall, this study presents a concise yet comprehensive framework that advances both the conceptualization and empirical analysis of intimate relationship conflicts, offering actionable insights for intervention while highlighting the importance of integrating emotional, neural, and cultural dimensions in research and practice.",
+  "raw_path": "01_raw/europepmc_xml/PMC13379787.xml",
+  "text_path": "02_text/europepmc/PMC13379787.txt",
+  "raw_bytes": 180429,
+  "text_chars": 69862,
+  "raw_sha256": "e404577cfe4eb17776f6c70c652c870ddf4fc1a6b5eedc54c9c8245b062c7fbc",
+  "text_sha256": "3b2c1b1150518f4576bda9a6f129b89b3bc18f77ee0e118b3abe612932d007b1",
+  "retrieved_at": "2026-10-25T15:26:49.632824+00:00"
+}

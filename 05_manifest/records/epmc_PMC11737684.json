@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11737684",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychometric assessment of scales used to evaluate sexual assault prevention programming in the United States Air Force.",
+  "authors": "Grimes KEL, Scaglione NM, Kan ML, Frerichs L, Shea CM, Stover AM.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0317557",
+  "pmcid": "PMC11737684",
+  "url": "https://europepmc.org/article/PMC/PMC11737684",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11737684/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_communication"
+  ],
+  "abstract": "Background Preventing sexual assault in the United States (U.S.) military is essential to safeguard the overall well-being of military personnel and support the military to function in alignment with its intended mission and objectives. Valid instruments are needed to accurately and reliably evaluate programming effectiveness. The goal of this research was to psychometrically assess measures used to evaluate the Sexual Communication and Consent (SCC) program within the Air Force Basic Military Training (BMT) context. Methods We evaluated four measures used to assess the SCC program implemented at Air Force BMT in 2019-2020: Date Rape Attitudes, Self-Efficacy to Resist Unwanted Advances, Risky and Protective Dating Behaviors, and Bystander Intentions. The analytic sample included 7,126 BMT trainees (74% male). We assessed structural validity with exploratory factor analysis (EFA) and confirmatory factor analysis (CFA). We used full information maximum likelihood estimation with robust standard errors in Mplus. We refined each scale based on factor analysis results and assessed internal consistency reliability by computing Cronbach's coefficient alpha for each scale in the overall sample, by sex, and by tailored SCC intervention group. Results We identified a two-factor structure for the Date Rape Attitudes scale; subscale reliability was moderate within the overall sample and among males, though low among females. We found single-factor structures and excellent reliability for both the Self-Efficacy to Resist Unwanted Advances scale and the Bystander Intentions scale. The Dating Behaviors scale CFA did not confirm the two-factor solution suggested by the EFA, but subscale reliability was acceptable. Conclusion This research fills a critical gap in the psychometric literature in military settings. Based on our findings, we recommend approaches for using the finalized scales in future evaluations of sexual assault prevention programming in the U.S. Air Force BMT setting.",
+  "raw_path": "01_raw/europepmc_xml/PMC11737684.xml",
+  "text_path": "02_text/europepmc/PMC11737684.txt",
+  "raw_bytes": 153991,
+  "text_chars": 56855,
+  "raw_sha256": "9f459801c359f7af5713566ae49b59a12c4fe9825c16355d64c606f1ac0b4770",
+  "text_sha256": "0393185e226d011417adde19afc35f616938551058f86e4a4706c4189ce265c8",
+  "retrieved_at": "2026-10-25T13:59:21.528447+00:00"
+}

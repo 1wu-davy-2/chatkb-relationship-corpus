@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13036352",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Alcohol Problems and Emotion Dysregulation as Predictors of Digital Dating Abuse Perpetration Among College Students.",
+  "authors": "Kwak JE, Basting EJ, Poole EJ, Son SWJ, Jensen MC, Stuart GL.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/29768357261423810",
+  "pmcid": "PMC13036352",
+  "url": "https://europepmc.org/article/PMC/PMC13036352",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13036352/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "emerging_adults"
+  ],
+  "abstract": "Background In an increasingly digital world, young people are becoming more vulnerable to an emerging form of intimate partner violence, termed digital dating abuse, where technology facilitates abusive behaviors. Though prior studies suggest that alcohol use/problems and emotion dysregulation are predictors of digital dating abuse, findings on whether these associations vary by gender are mixed. Objective We explored associations among alcohol use/problems, emotion dysregulation, and gender on 3 types of digital dating abuse perpetration: digital coercion (eg, pressuring for explicit images), direct aggression (eg, sending threats online), and monitoring (eg, tracking a partner's online activities). This study also examined the 3-way interaction among these 3 variables to assess their combined influence on digital dating abuse. Design We aimed to answer the question: Does emotion dysregulation moderate the relationship between alcohol use/problems and types of digital dating abuse (ie, coercion, direct aggression, monitoring)? Is there a difference based on gender? Methods Participants were ( n = 1619) undergraduate students from a public university in the southeastern United States. Sociodemographic information and scores for alcohol use/problems, emotion dysregulation, and digital dating abuse were collected via an online survey. Regression analyses were conducted to evaluate independent and interactive effects among these variables. Results Alcohol use/problems were consistently associated with all forms of digital dating abuse. While emotion dysregulation predicted digital direct aggression and digital monitoring, it did not predict digital coercion. Notably, alcohol use/problems and emotion dysregulation exhibited an interactive effect on digital monitoring, with higher emotion dysregulation amplifying the relationship between alcohol use/problems and controlling behaviors. When controlling for gender, no significant gender differences emerged across these associations. Conclusion Findings suggest that interventions addressing alcohol misuse and emotion dysregulation may be effective in preventing digital dating abuse, particularly among young adults.",
+  "raw_path": "01_raw/europepmc_xml/PMC13036352.xml",
+  "text_path": "02_text/europepmc/PMC13036352.txt",
+  "raw_bytes": 127277,
+  "text_chars": 37290,
+  "raw_sha256": "48f9417ba1f9f36b6657ccb59d181f87798db01d4e5bd88454bbb094562083ab",
+  "text_sha256": "df02cb644c1a4dde4eb69bc36c874577d385145a94f922c5af24cea7d666d9bc",
+  "retrieved_at": "2026-10-25T15:31:32.408474+00:00"
+}

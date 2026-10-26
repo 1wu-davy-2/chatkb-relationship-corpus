@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_internet_slang",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "互联网用语",
+  "requested_title": "网络用语",
+  "url": "https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E7%94%A8%E8%AF%AD",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 互联网用语",
+  "topics": [
+    "culture",
+    "language"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/internet_slang.json",
+  "text_path": "02_text/zh_wikipedia/internet_slang.txt",
+  "raw_bytes": 7103,
+  "text_chars": 2747,
+  "text_sha256": "cc7887963d07520b0cc8c75cd3f8b518732518c87d5ea4f2b7875ac42c75f18f",
+  "retrieved_at": "2026-10-25T16:21:01.428103+00:00"
+}

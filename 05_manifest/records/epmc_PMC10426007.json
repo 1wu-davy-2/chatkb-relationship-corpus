@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10426007",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The impact of market integration on arranged marriages in Matlab, Bangladesh.",
+  "authors": "Schaffnit SB, Page AE, Lynch R, Spake L, Sear R, Sosis R, Shaver J, Alam N, Towner MC, Shenk MK.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1017/ehs.2022.54",
+  "pmcid": "PMC10426007",
+  "url": "https://europepmc.org/article/PMC/PMC10426007",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10426007/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "arranged_marriage"
+  ],
+  "abstract": "Success in marriage markets has lasting impacts on women's wellbeing. By arranging marriages, parents exert financial and social powers to influence spouse characteristics and ensure optimal marriages. While arranging marriages is a major focus of parental investment, marriage decisions are also a source of conflict between parents and daughters in which parents often have more power. The process of market integration may alter parental investment strategies, however, increasing children's bargaining power and reducing parents' influence over children's marriage decisions. We use data from a market integrating region of Bangladesh to (a) describe temporal changes in marriage types, (b) identify which women enter arranged marriages and (c) determine how market integration affects patterns of arranged marriage. Most women's marriages were arranged, with love marriages more recent. We found few predictors of who entered arranged vs. love marriages, and family-level market integration did not predict marriage type at the individual level. However, based on descriptive findings, and findings relating women's and fathers' education to groom characteristics, we argue that at the society-level market integration has opened a novel path in which daughters use their own status, gained via parental investments, to facilitate good marriages under conditions of reduced parental assistance or control.",
+  "raw_path": "01_raw/europepmc_xml/PMC10426007.xml",
+  "text_path": "02_text/europepmc/PMC10426007.txt",
+  "raw_bytes": 135142,
+  "text_chars": 56911,
+  "raw_sha256": "d57360f77f2ac5592cb37666ae2f6c73a29d788b0b4059998164bc351c8d598d",
+  "text_sha256": "88639f2ffbca19a6cbe88e785e788aee22f9c302d1efbd9c4fefc40e60cf4c24",
+  "retrieved_at": "2026-10-25T13:59:46.086549+00:00"
+}

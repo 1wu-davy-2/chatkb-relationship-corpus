@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC13047236",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Gay, Bisexual, and Other Men Who Have Sex with Men's Experiences of Intimate Partner Violence in Four Celtic Nations: A Mixed-Method Study.",
+  "authors": "Maxwell S, McAloney K, Strongylou D, O'Brien R, Stenhouse R, Frankis J.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/08862605251331077",
+  "pmcid": "PMC13047236",
+  "url": "https://europepmc.org/article/PMC/PMC13047236",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13047236/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control",
+    "sex_positive_attitudes"
+  ],
+  "abstract": "This study investigates the prevalence, forms, and unique cultural manifestations of intimate partner violence (IPV) among gay, bisexual, and other men who have sex with men (GBMSM) in four Celtic nations (Scotland, Ireland, Northern Ireland, and Wales) while recognizing differences due to gendered heteronormativity. The research involved a cross-sectional survey of 1,389 participants and in-depth narrative interviews with 10 individuals, with recruitment conducted via GBMSM social and sociosexual media platforms. The study employed descriptive statistics to estimate IPV prevalence and types, while logistic regression was used to identify socio-behavioral predictors of IPV. Findings suggest that the 1-year IPV prevalence among GBMSM was 33% ( n = 546), with emotional abuse (13%) and belittlement (13%) as the most common forms. Notably, all qualitative participants reported experiencing coercive control. The narratives indicated that IPV predominantly occurred in longer-term relationships, with no instances identified in singular intimate encounters. The study found that while the prevalence of IPV among GBMSM is similar to that observed among heterosexual women, the nature of IPV and the recognition of certain forms of nonconsensual sex as IPV differ between these populations. These differences can be better understood through the lens of masculinities discourses and the heteronormative framework of Western societies. The study underscores the importance of building a dedicated body of evidence on IPV within sexual minority communities to inform policy and provide appropriate support through health and social care initiatives. Addressing IPV in GBMSM relationships is crucial for safeguarding this community and contributing to the broader societal goal of eradicating violence.",
+  "raw_path": "01_raw/europepmc_xml/PMC13047236.xml",
+  "text_path": "02_text/europepmc/PMC13047236.txt",
+  "raw_bytes": 123479,
+  "text_chars": 46617,
+  "raw_sha256": "7a9f91e1c7d284414290002aad78983445a9960bf7f9d2be813fa5e01ba9f86a",
+  "text_sha256": "4067a534c481e08a91fcd300b4b4cc3a70adcc75a8156524b2c484dd16e371f0",
+  "retrieved_at": "2026-10-25T15:46:28.189587+00:00"
+}

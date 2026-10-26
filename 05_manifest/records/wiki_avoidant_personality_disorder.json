@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_avoidant_personality_disorder",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "迴避型人格障礙",
+  "requested_title": "回避型人格障碍",
+  "url": "https://zh.wikipedia.org/wiki/%E8%BF%B4%E9%81%BF%E5%9E%8B%E4%BA%BA%E6%A0%BC%E9%9A%9C%E7%A4%99",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 迴避型人格障礙",
+  "topics": [
+    "personality"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/avoidant_personality_disorder.json",
+  "text_path": "02_text/zh_wikipedia/avoidant_personality_disorder.txt",
+  "raw_bytes": 10489,
+  "text_chars": 4048,
+  "text_sha256": "cd10868156a0ebf2b439021c929d919f6759cd185249fafc24151fd87c37bcb7",
+  "retrieved_at": "2026-10-25T16:25:05.871799+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_online_community",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "网络社区",
+  "requested_title": "网络社区",
+  "url": "https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E7%A4%BE%E5%8C%BA",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 网络社区",
+  "topics": [
+    "technology",
+    "social"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/online_community.json",
+  "text_path": "02_text/zh_wikipedia/online_community.txt",
+  "raw_bytes": 6345,
+  "text_chars": 2460,
+  "text_sha256": "e24e73c136a87c2559f0a0a77311b748dd3598194c5747c5f8836d0b669806c4",
+  "retrieved_at": "2026-10-25T16:31:09.435001+00:00"
+}

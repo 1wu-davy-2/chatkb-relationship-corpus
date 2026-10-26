@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11071599",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Romantic Attachment and Intimate Partner Violence Perpetrated by Men: The Role of Affect Dysregulation and Gender Hostility.",
+  "authors": "Douadi M, Brassard A, Godbout N, Savard C, Daspe MÈ, Lafontaine MF, Péloquin K.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/08862605231218226",
+  "pmcid": "PMC11071599",
+  "url": "https://europepmc.org/article/PMC/PMC11071599",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11071599/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "Intimate partner violence (IPV) is a major public health problem, associated with considerable consequences for the victims. Among the risk factors associated with the perpetration of male IPV, attachment insecurities (avoidance, anxiety) and affect dysregulation (AD) have received strong empirical support. A few studies showed that hostility toward women (HTW) is a correlate of IPV perpetration, but none have explored hostility toward men (HTM). This study's aim was to test direct and indirect associations between romantic attachment insecurities and IPV perpetration (psychological, physical, and sexual coercion) through AD in men seeking help, and to examine the moderator role of HTW and HTM in theses links. A sample of 1,845 men aged between 18 and 88 years and from a diverse population (e.g., cultural background, education, and sexual orientation) were recruited through 18 community organizations providing IPV services in a Canadian province. As part of the systematic assessment protocol of each organization, participants answered a series of online questionnaires. Results from a path analysis model showed indirect associations between attachment insecurities (avoidance and anxiety) and IPV perpetration (psychological, physical, and sexual coercion) through AD. Beyond these links, attachment avoidance was also directly associated with psychological violence, attachment anxiety with sexual coercion, and HTM with sexual coercion. The results revealed two moderation effects: higher HTW amplified the link between AD and physical IPV, whereas higher HTM amplified the link between AD and sexual coercion. Results highlight the relevance of assessing attachment, AD, and gender hostility in IPV programs. They also highlight the relevance of targeting HTM as a risk marker for IPV perpetration in men.",
+  "raw_path": "01_raw/europepmc_xml/PMC11071599.xml",
+  "text_path": "02_text/europepmc/PMC11071599.txt",
+  "raw_bytes": 114927,
+  "text_chars": 40484,
+  "raw_sha256": "b15eb0857ac1b597173526a451e70b20b7e33d284b56c3c670373767f8798063",
+  "text_sha256": "72a87d79fdd95cc829f46c5078063ea659a99d6a99f48b7cb6374864ffc3d05f",
+  "retrieved_at": "2026-10-26T13:05:16.251792+00:00"
+}

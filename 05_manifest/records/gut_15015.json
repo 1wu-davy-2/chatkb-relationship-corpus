@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_15015",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_sexuality_science",
+  "title": "Sex and Society: Studies in the Social Psychology of Sex",
+  "gutenberg_id": "15015",
+  "url": "https://www.gutenberg.org/ebooks/15015",
+  "download_url": "https://www.gutenberg.org/cache/epub/15015/pg15015.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "sexuality",
+    "psychology",
+    "public_domain",
+    "psychology of sex"
+  ],
+  "raw_path": "01_raw/gutenberg/15015.txt",
+  "text_path": "02_text/gutenberg/gut_15015_sex_and_society_studies_in_the_social_ps.txt",
+  "raw_bytes": 437611,
+  "text_chars": 401389,
+  "text_sha256": "787258be35417b6e5fbae5b4e72dfd0b5d31f3f1ff510d90bd85d86e6825027c",
+  "retrieved_at": "2026-10-26T13:01:03.348160+00:00"
+}

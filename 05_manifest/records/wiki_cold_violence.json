@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_cold_violence",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "精神虐待",
+  "requested_title": "冷暴力",
+  "url": "https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%A5%9E%E8%99%90%E5%BE%85",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "abuse",
+    "safety"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/cold_violence.json",
+  "text_path": "02_text/zh_wikipedia/cold_violence.txt",
+  "raw_bytes": 4144,
+  "text_chars": 1515,
+  "text_sha256": "daade25dde87602a65248fbe82ffa6434c154da48348a963a876b93f70afb5cb",
+  "retrieved_at": "2026-10-25T15:37:02.037571+00:00"
+}

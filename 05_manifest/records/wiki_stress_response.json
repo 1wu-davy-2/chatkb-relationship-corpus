@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_stress_response",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "應激",
+  "requested_title": "应激",
+  "url": "https://zh.wikipedia.org/wiki/%E6%87%89%E6%BF%80",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 應激",
+  "topics": [
+    "mental_health",
+    "stress"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/stress_response.json",
+  "text_path": "02_text/zh_wikipedia/stress_response.txt",
+  "raw_bytes": 5958,
+  "text_chars": 2304,
+  "text_sha256": "c63da6a3af0f4721f24227c85dddb1b29355086521d30a87bcaf2bf8aed25936",
+  "retrieved_at": "2026-10-26T13:57:59.908471+00:00"
+}

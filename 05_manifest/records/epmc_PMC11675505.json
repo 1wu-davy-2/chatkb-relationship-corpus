@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11675505",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Navigating preclinic instrumentation practice fatigue with speed dating.",
+  "authors": "Lintag-Nguyen K, McLee L, Brody ER.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1002/jdd.13478",
+  "pmcid": "PMC11675505",
+  "url": "https://europepmc.org/article/PMC/PMC11675505",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11675505/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction_physical"
+  ],
+  "abstract": "",
+  "raw_path": "01_raw/europepmc_xml/PMC11675505.xml",
+  "text_path": "02_text/europepmc/PMC11675505.txt",
+  "raw_bytes": 10810,
+  "text_chars": 3763,
+  "raw_sha256": "2388cf04b8f5883218a4219ea2ac357ca10c8c0cf68fb95b45d2a30820bec131",
+  "text_sha256": "3178adcaa3bf33d4eec5628f0b82cab797cb1d8b84862e654f8b07b043cdfa7c",
+  "retrieved_at": "2026-10-25T15:35:58.810296+00:00"
+}

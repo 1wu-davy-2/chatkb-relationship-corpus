@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7545775",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual self-disclosure, internalized homophobia and depression symptoms among sexual minority women in Vietnam.",
+  "authors": "Duc TTM, Oanh HK, Thai BTH, Thu NTA.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1177/2055102920959576",
+  "pmcid": "PMC7545775",
+  "url": "https://europepmc.org/article/PMC/PMC7545775",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7545775/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_self_disclosure"
+  ],
+  "abstract": "This study used an online survey of a sample of sexual minority Vietnamese women ( N = 302, Mean = 21.23) who self-identified as lesbian (48.7%), bisexual (42.2%), and other (8.9%). The purpose of the study was to examine the relationship among self-disclosure, internalized homophobia, and symptoms of depression. This topic has never before been studied in Vietnam. Structural equation modeling indicates that a higher level of self-disclosure with friends and coworkers leads to less self-stigmatization and less sexual prejudice. In addition, sexual minority women's self-disclosure affects all three aspects of depression (negative affect, positive affect, and interpersonal relationships).",
+  "raw_path": "01_raw/europepmc_xml/PMC7545775.xml",
+  "text_path": "02_text/europepmc/PMC7545775.txt",
+  "raw_bytes": 109049,
+  "text_chars": 34763,
+  "raw_sha256": "312acf49bcbb70a6040da2e64d820ac1e08eab56a013200e2aaa1ae79c593840",
+  "text_sha256": "2fe1b1738eecf53e89fe1f67f55a33b755dff5bafc2bc9fd7303d6641014e530",
+  "retrieved_at": "2026-10-26T13:07:41.075261+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12382781",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Relationship Between Men's Self-Perceived Attractiveness and Ratings of Women's Sexual Intent.",
+  "authors": "Rerick PO, Livingston TN, Singer J.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15081101",
+  "pmcid": "PMC12382781",
+  "url": "https://europepmc.org/article/PMC/PMC12382781",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12382781/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction_physical"
+  ],
+  "abstract": "Sexual and romantic partners tend to match on various dimensions of mate value including physical attractiveness. Men may be motivated to inflate their self-perceived physical attractiveness to justify pursuing highly attractive women. In the present research, heterosexual men ( N = 180) received random assignment to a two-way between-participants factorial design that tested the effects of a woman's physical attractiveness (low vs. high) and the recipient of her ambiguous sexual behavior (the participant himself or another man) on men's ratings of her sexual intent. Participants rated that attractive women had greater sexual intent compared to unattractive women, but only when the participant himself was the recipient of women's behavior. Men's self-perceived physical attractiveness did not vary as a function of the woman's physical attractiveness except when another man was the recipient of a physically attractive woman's behavior, which reduced men's perceptions of their physical attractiveness. Findings suggested that men's self-perceptions and women's appearance may bias men's sexual judgment.",
+  "raw_path": "01_raw/europepmc_xml/PMC12382781.xml",
+  "text_path": "02_text/europepmc/PMC12382781.txt",
+  "raw_bytes": 119735,
+  "text_chars": 35471,
+  "raw_sha256": "6d58ab0238ef3f35402ec569d9388ad1c804e7f1cfd8076082f60d5f505dd68a",
+  "text_sha256": "174122165efb520f6cbdb016a786923f78d3cfb50fd1e542bd6c003289e298b2",
+  "retrieved_at": "2026-10-25T15:30:45.147271+00:00"
+}

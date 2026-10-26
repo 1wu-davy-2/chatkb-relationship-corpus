@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9853172",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The impact of the educational marriage-matching model on the household income gap.",
+  "authors": "Huo C, Chen L.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2022.1082970",
+  "pmcid": "PMC9853172",
+  "url": "https://europepmc.org/article/PMC/PMC9853172",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9853172/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_market"
+  ],
+  "abstract": "Education has become one of the important selection criteria for homogeneous marriage. The proportion of educational homogeneous marriage in China's marriage market is increasing. The inequality of family income is closely related to the educational background of family members. The article is based on the Chinese General Social Survey (CGSS) data. It uses the Recentralized Impact Function Regression Method (RIF) to empirically test that the marriage structure under different educational backgrounds has widened the income gap in Chinese households. Propensity score matching was used to correct possible selection bias and estimate the net effect of marital education matching on household income gaps. The results showed that the increase in the proportion of educational homogeneity in marriage would expand the family income gap. Based on theory and empirical evidence, some reasonable suggestions are put forward to advocate diversified marriages, strengthen social security, and reduce the family income gap.",
+  "raw_path": "01_raw/europepmc_xml/PMC9853172.xml",
+  "text_path": "02_text/europepmc/PMC9853172.txt",
+  "raw_bytes": 162422,
+  "text_chars": 71549,
+  "raw_sha256": "b78a31749c17f5b6bfe49b4ce9ad0a72bf6e5d3567f35b4c1d005b18a9c52693",
+  "text_sha256": "dd80f184d252551301c56c6455ff69dc118a6a4ecb1ba07b658bd439536edb0e",
+  "retrieved_at": "2026-10-25T15:34:36.596618+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9550916",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Wealth Accumulation and the Gender Wealth Gap Across Couples' Legal Statuses and Matrimonial Property Regimes in France.",
+  "authors": "Frémeaux N, Leturcq M.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1007/s10680-022-09632-5",
+  "pmcid": "PMC9550916",
+  "url": "https://europepmc.org/article/PMC/PMC9550916",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9550916/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "This paper examines wealth accumulation among couple-headed households and investigates changes in within-household inequality over time and across couple statuses. Going beyond previous research that mostly studies wealth accumulation within marriages by comparing married with unmarried individuals, we consider the legal statuses of couples (cohabitation, civil union, and marriage) and property regimes (community and separate property). We apply multivariate regression analysis to high-quality longitudinal data from the French wealth survey (2015-2018) and find no differences in net worth accumulation between couples' legal statuses when property regimes are not accounted for. However, couples with a separate property regime accumulate more wealth than couples with a community property regime, and married couples with a separate property regime drive this association. Our results show that the gender wealth gap is larger for couples with a separate property regime, but it is partially compensated by accumulated wealth. Our results highlight the importance of legal statuses and property regimes in explaining the dynamics of between- and within-household inequality in France, specifically within a context of increasingly diversified marital trajectories. Supplementary information The online version contains supplementary material available at 10.1007/s10680-022-09632-5.",
+  "raw_path": "01_raw/europepmc_xml/PMC9550916.xml",
+  "text_path": "02_text/europepmc/PMC9550916.txt",
+  "raw_bytes": 245520,
+  "text_chars": 99219,
+  "raw_sha256": "ec3051eb16e16e0095ba2b8d685a22345f3e7f1a12545de34989f43bae984005",
+  "text_sha256": "f30f7069bdc1f8390e6440a2e39323f9665a7b3944bf62dd1c22380dcdcb2b89",
+  "retrieved_at": "2026-10-25T15:45:00.750303+00:00"
+}

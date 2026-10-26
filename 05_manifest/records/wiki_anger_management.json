@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_anger_management",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "愤怒管理",
+  "requested_title": "愤怒管理",
+  "url": "https://zh.wikipedia.org/wiki/%E6%84%A4%E6%80%92%E7%AE%A1%E7%90%86",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 愤怒管理",
+  "topics": [
+    "emotion",
+    "skills"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/anger_management.json",
+  "text_path": "02_text/zh_wikipedia/anger_management.txt",
+  "raw_bytes": 1400,
+  "text_chars": 815,
+  "text_sha256": "d9bad9347df654e48a3811c863e5fdb9896d5d35c342fe452eb31406595e2f65",
+  "retrieved_at": "2026-10-25T16:24:10.469874+00:00"
+}

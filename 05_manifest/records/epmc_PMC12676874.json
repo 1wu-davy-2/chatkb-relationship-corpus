@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12676874",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Understanding and addressing intimate partner violence: a comprehensive review.",
+  "authors": "Khan A, Akram M.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s13010-025-00175-1",
+  "pmcid": "PMC12676874",
+  "url": "https://europepmc.org/article/PMC/PMC12676874",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12676874/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Intimate Partner Violence (IPV) remains a pervasive and distressing societal issue with far-reaching physical, emotional, and psychological consequences. This paper delves into the complex dynamics of IPV, aiming to enhance the comprehension of its root causes, contributing factors, and various manifestations. By synthesizing multidisciplinary research, it highlights the role of societal norms, cultural influences, and individual psychological traits in perpetuating such violence. Moreover, the paper elucidates the impact of IPV on survivors, children, families, and communities, emphasizing the urgent need for comprehensive intervention strategies. Drawing upon psychological, sociological, and criminological perspectives, the outlines existing theoretical frameworks that seek to explain the underlying mechanisms of IPV. It explores the cyclical nature of violence, power and control dynamics, as well as the intersectionality of factors such as gender, socioeconomic status, and race. By examining the various forms of IPV, including physical, emotional, sexual, and financial abuse, the paper underscores the importance of recognizing the subtler, non-physical forms of violence. In addressing IPV, evaluate the effectiveness of prevention and intervention programs across different contexts. It emphasizes the significance of early education, awareness campaigns, and policy initiatives in reshaping societal attitudes and dismantling cycles of violence. Additionally, the paper examines support systems for survivors, from crisis intervention and shelters to counseling and legal assistance, while considering the unique needs of marginalized and vulnerable populations.Ultimately, this paper underscores the urgent necessity for a holistic and collaborative approach to eradicating IPV. By understanding its intricate underpinnings and consequences, society can work collectively to challenge ingrained norms, promote healthy relationships, and provide survivors with the resources they need to rebuild their lives. Through a comprehensive exploration of IPV, this paper contributes to the ongoing discourse surrounding this critical issue and advocates for a future free from the shackles of intimate partner violence.",
+  "raw_path": "01_raw/europepmc_xml/PMC12676874.xml",
+  "text_path": "02_text/europepmc/PMC12676874.txt",
+  "raw_bytes": 115143,
+  "text_chars": 52352,
+  "raw_sha256": "3f72be631366df89845bff9eb2a316f10108c5b3f76a400ceef92e125adf8aa6",
+  "text_sha256": "09cccbef790d99a07c97724bfa45ccce0160dd7e5b316550c69ec21bd38e8c9f",
+  "retrieved_at": "2026-10-25T15:45:57.705261+00:00"
+}

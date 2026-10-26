@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13603261",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Love as Calculation: The Internalized Rationality of Digital Intimacy and the Erosion of Social Flow.",
+  "authors": "Jiang J, Ji C, Zhao T, Sthapit E.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/bs16091649",
+  "pmcid": "PMC13603261",
+  "url": "https://europepmc.org/article/PMC/PMC13603261",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13603261/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "As neoliberal rationality permeates private life, romantic relationships are increasingly managed as calculated projects rather than spontaneous, autotelic bonds. Drawing on Self-Determination Theory (SDT), this study examines how calculative subjectivity is associated with diminished social flow-the state of dyadic synchrony-within intimate relationships in the context of contemporary societal involution, a state of hyper-competition and intense social comparison. Analyzing data from 402 Chinese digital natives via PLS-SEM, we reveal that calculative subjectivity demonstrates a substantial negative association with social flow, statistically mediated through internalized cognitive rationalities (regret aversion, sunk cost sensitivity, self-monitoring) and external behavioral distractions (partner phubbing). Specifically, the \"market-in-mind\" correlates with a substantial cognitive barrier alongside the physical interference of the \"device-in-hand.\" These findings are theoretically consistent with the philosophical critique regarding the \"agony of eros,\" suggesting that a prominent barrier to authentic intimacy in the algorithmic age is not merely technological mediation, but the internalized instrumental rationality that colonizes the human mind.",
+  "raw_path": "01_raw/europepmc_xml/PMC13603261.xml",
+  "text_path": "02_text/europepmc/PMC13603261.txt",
+  "raw_bytes": 204781,
+  "text_chars": 64162,
+  "raw_sha256": "e37783fb9a411f1ae774b4767a01f0734211f23d6e52799a91bf4cad8e250e01",
+  "text_sha256": "251e4b2e9d15f8f949dc288bdf1812c53725e3bddcb54a08675254b709af1059",
+  "retrieved_at": "2026-10-25T13:51:18.450959+00:00"
+}

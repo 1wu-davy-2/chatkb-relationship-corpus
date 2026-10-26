@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_25328",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "豆棚閒話",
+  "gutenberg_id": "25328",
+  "url": "https://www.gutenberg.org/ebooks/25328",
+  "download_url": "https://www.gutenberg.org/cache/epub/25328/pg25328.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/25328.txt",
+  "text_path": "02_text/gutenberg/gut_25328_豆棚閒話.txt",
+  "raw_bytes": 284878,
+  "text_chars": 89701,
+  "text_sha256": "842344c30bf2947e32307d77d193a86b26b17c464a93ab35162b3a28c8d470b7",
+  "retrieved_at": "2026-10-25T16:03:46.334698+00:00"
+}

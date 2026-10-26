@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC7330497",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Paranormal beliefs and individual differences: story seeking without reasoned review.",
+  "authors": "Betsch T, Aßmann L, Glöckner A.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1016/j.heliyon.2020.e04259",
+  "pmcid": "PMC7330497",
+  "url": "https://europepmc.org/article/PMC/PMC7330497",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7330497/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "astrology_belief",
+    "astrology_personality_validity"
+  ],
+  "abstract": "In a sample of 599 participants (60% female, 18-81 years), we tested the hypotheses that cognitive ability and the big-six personality traits suffice to explain the individual-difference component of paranormal beliefs (belief in magic, astrology, esoterism, supernatural beings, and spirituality). Additionally, we measured 14 other potential predictors that were found to correlate with paranormal beliefs in prior research (e.g., ontological confusion). Although cognitive ability and the big-six explained 10% of the variance in individual belief, ontological confusion and causality understanding also were significant predictors in regression analyses. The resulting model, explaining 19 % of variance, consists of ontological confusion, cognitive ability (negative correlation), openness to new experiences, emotionality, conscientiousness (neg. corr.) and causality understanding (neg. corr.). We discuss the findings with reference to two hypothetical factors that drive individuals' acceptance of paranormal beliefs, inclination for story-telling, and tendency to evaluate belief content in terms of reason and conscientious evaluation.",
+  "raw_path": "01_raw/europepmc_xml/PMC7330497.xml",
+  "text_path": "02_text/europepmc/PMC7330497.txt",
+  "raw_bytes": 121088,
+  "text_chars": 34366,
+  "raw_sha256": "c17ec2bad3fd5ded92499a31b6b5b777a65116ae384781e7b14b2b6bf48b757e",
+  "text_sha256": "84604c11944012fab8f162dff1b01b5777f96cb38aa91344ed374b3daf04a1b6",
+  "retrieved_at": "2026-10-26T13:06:09.538673+00:00"
+}

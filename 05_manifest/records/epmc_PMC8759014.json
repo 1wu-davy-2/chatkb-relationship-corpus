@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8759014",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Evaluation of a Healthy Relationship Smartphone App With Indigenous Young People: Protocol for a Co-designed Stepped Wedge Randomized Trial.",
+  "authors": "Koziol-McLain J, Wilson D, Vandal AC, Eruera M, Nada-Raja S, Dobbs T, Roguski M, Barbarich-Unasa TW.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.2196/24792",
+  "pmcid": "PMC8759014",
+  "url": "https://europepmc.org/article/PMC/PMC8759014",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8759014/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_confidence"
+  ],
+  "abstract": "Background We co-designed a smartphone app, Harmonised, with taitamariki (young people aged 13-17 years) to promote healthy intimate partner relationships. The app also provides a pathway for friends and family, or whānau (indigenous Māori extended family networks), to learn how to offer better support to taitamariki. Objective The aim of our taitamariki- and Māori-centered study is to evaluate the implementation of the app in secondary schools. The study tests the effectiveness of the app in promoting taitamariki partner relationship self-efficacy (primary outcome). Methods We co-designed a pragmatic, randomized, stepped wedge trial (retrospectively registered on September 12, 2019) for 8 Aotearoa, New Zealand, secondary schools (years 9 through 13). The schools were randomly assigned to implement the app in 1 of the 2 school terms. A well-established evaluation framework (RE-AIM [Reach, Effectiveness, Adoption, Implementation, Maintenance]) guided the selection of mixed data collection methods. Our target sample size is 600 taitamariki enrolled across the 8 schools. Taitamariki will participate by completing 5 web-based surveys over a 15-month trial period. Taitamariki partner relationship self-efficacy (primary outcome) and well-being, general health, cybersafety management, and connectedness (secondary outcomes) will be assessed with each survey. The general effectiveness hypotheses will be tested by using a linear mixed model with nested participant, year-group, and school random effects. The primary analysis will also include testing effectiveness in the Māori subgroup. Results The study was funded by the New Zealand Ministry of Business, Innovation, and Employment in October 2015 and approved by the Auckland University of Technology Ethics Committee on May 3, 2017 (application number: 17/71). Conclusions This study will generate robust evidence evaluating the impact of introducing a healthy relationship app in secondary schools on taitamariki partner relationship self-efficacy, well-being, general health, cybersafety management, and connectedness. This taitamariki- and indigenous Māori-centered research fills an important gap in developing and testing strengths-based mobile health interventions in secondary schools. Trial registration Australian New Zealand Clinical Trials Registry ACTRN12619001262190; https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=377584. International registered report identifier (irrid) RR1-10.2196/24792.",
+  "raw_path": "01_raw/europepmc_xml/PMC8759014.xml",
+  "text_path": "02_text/europepmc/PMC8759014.txt",
+  "raw_bytes": 115756,
+  "text_chars": 33861,
+  "raw_sha256": "f246bb76bc9a179c723dfc1fa02052227be9ced511b4286c86124070cbdf450f",
+  "text_sha256": "8524dc2b3f1e8a4928c8fd461f88d622a042166df03dceb59be2fdea4db7e9f5",
+  "retrieved_at": "2026-10-25T15:27:44.705985+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12540714",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship between subthreshold anxiety disorder and symptoms and signs of dry eye disease.",
+  "authors": "Li G, Sun X, Dong M, Zhao G, Zhong X, Shi W, Li S.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1038/s41598-025-20500-0",
+  "pmcid": "PMC12540714",
+  "url": "https://europepmc.org/article/PMC/PMC12540714",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12540714/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "To determine the relationship between subthreshold anxiety disorder and dry eye disease (DED) symptoms and signs. This was a cross-sectional study. The 127 outpatients of DED were collected and assessed for related symptoms and signs via the Ocular Surface Disease Index (OSDI), strip meniscometry (SM), non-invasive breakup time (NIBUT), tear meniscus height (TMH), total corneal fluorescein staining (tCFS), and meibomian gland function (MGD) score. Subthreshold and full-blown anxiety disorders were evaluated via the HADS-A questionnaire and the Mini-International Neuropsychiatric Interview (M.I.N.I). The OSDI were markedly higher in patients with subthreshold anxiety relative to mental healthy patients (p = 0.029); however, these scores were lower than in the full-blown anxiety patients (p = 0.016). TMH and SM were substantially lower than those in the mental healthy patients (p = 0.002, p = 0.004, respectively) but higher than the full-blown anxiety cohort (p = 0.026, p = 0.029, respectively). HADS-A scores in the subthreshold, full-blown indicated a significant positive correlation with OSDI (r = 0.786, p < 0.001; r = 0.787, p < 0.001; respectively). Significant correlations were found between subthreshold anxiety disorder and DED symptoms and signs; however, its intensity is lower than full-blown anxiety disorders.",
+  "raw_path": "01_raw/europepmc_xml/PMC12540714.xml",
+  "text_path": "02_text/europepmc/PMC12540714.txt",
+  "raw_bytes": 140319,
+  "text_chars": 36192,
+  "raw_sha256": "529b5d546aeaea50ef964dc751f6747bcb987831e6ac7630c5e0836c54426038",
+  "text_sha256": "2fe50030ccd70908ae919e1cad93ce99cbc7bbbde17c60831a18e5f90d886ee1",
+  "retrieved_at": "2026-10-25T15:45:31.905855+00:00"
+}

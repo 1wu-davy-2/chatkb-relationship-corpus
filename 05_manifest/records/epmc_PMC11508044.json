@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11508044",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Fragile Egos and Broken Hearts: Narcissistic and Borderline Personality Traits Predict Reactions to Potential Infidelity.",
+  "authors": "Besser A, Zeigler-Hill V.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/ijerph21101272",
+  "pmcid": "PMC11508044",
+  "url": "https://europepmc.org/article/PMC/PMC11508044",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11508044/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "We examined the connections that narcissistic and borderline personality traits had with hypothetical responses to romantic infidelity in a sample of Israeli community members (N = 997). We distinguished between four forms of narcissism: extraverted narcissism (characterized by assertive self-enhancement), antagonistic narcissism (characterized by defensiveness and hostility), neurotic narcissism (characterized by emotional distress), and communal narcissism (characterized by attempts to emphasize superiority over others by exaggerating communal characteristics such as being extraordinarily helpful). We also measured levels of borderline personality traits. Results showed that neurotic narcissism was strongly associated with heightened negative emotional responses, particularly in high-threat infidelity scenarios, aligning with predictions regarding emotional volatility. Antagonistic and communal narcissism showed detrimental effects on relationship evaluations primarily under low-threat conditions, indicating distinct patterns of defensiveness and vulnerability. Extraverted narcissism showed no significant association with emotional responses. Borderline traits were linked to intense emotional reactions across conditions, emphasizing their broad impact on perceived relational threats. These findings suggest that while some personality traits exacerbate reactions in less severe conditions, infidelity trauma can overwhelm these differences, underscoring the potential need for personalized therapeutic approaches. Discussion is focused on the implications for understanding personality traits in relational contexts and future research directions exploring varied threat manipulations.",
+  "raw_path": "01_raw/europepmc_xml/PMC11508044.xml",
+  "text_path": "02_text/europepmc/PMC11508044.txt",
+  "raw_bytes": 167246,
+  "text_chars": 59205,
+  "raw_sha256": "6cb9af902801164d154c66045b32d07335013dbdf3cea8a66d90f8d042c9d37b",
+  "text_sha256": "624ebef9cb89a4984faa020d2eaf88d72e87d621bfa4b403875d095635ca7333",
+  "retrieved_at": "2026-10-25T13:56:06.481947+00:00"
+}

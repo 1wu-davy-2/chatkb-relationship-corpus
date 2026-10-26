@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11835996",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Spouses' personalities and marital satisfaction in Chinese families.",
+  "authors": "Jia L, Antonides G, Liu Z.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1480570",
+  "pmcid": "PMC11835996",
+  "url": "https://europepmc.org/article/PMC/PMC11835996",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11835996/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Introduction Considering the traditional Confucian values prevalent in Chinese society, we study the effects of the spouses' personalities and household sociodemographic circumstances on the marital satisfaction of marriage partners. Methods We evaluate the factors that contribute to marital satisfaction, using the 2018 wave of the Chinese Family Panel Survey, including 6,603 households. We use information on both spouses' Big-Five personality traits, and marital satisfaction. In addition, the effects of the household's sociodemographic factors on the spouses' marital satisfaction are estimated. We employ the Actor-Partner Interdependence Model to estimate the effects, using simultaneous equation modeling. Results We find significant actor effects of personality, i.e., agreeableness, openness, conscientiousness, and extroversion, but few partner effects on marital satisfaction. In addition to other socioeconomic effects, we find strong actor effects of subjective social status on marital satisfaction for both spouses. The wife's level of education had a negative effect on her marital satisfaction. Discussion The effects of the spouses' personalities and sociodemographic circumstances on their marital satisfaction fit the Confucian values fostered in China. The wife's double burden of having a job and taking care of household duties, negatively affecting her marital satisfaction, may be alleviated by proper government policies.",
+  "raw_path": "01_raw/europepmc_xml/PMC11835996.xml",
+  "text_path": "02_text/europepmc/PMC11835996.txt",
+  "raw_bytes": 162002,
+  "text_chars": 41634,
+  "raw_sha256": "779af1a39f525edc2e04cb399ca946a360f06f2ccd562f16694fcaf5604b8492",
+  "text_sha256": "c899aadec98831e162851ad4ee1cb2832adfeea622bb903e303a829386ced17f",
+  "retrieved_at": "2026-10-25T15:41:15.917051+00:00"
+}

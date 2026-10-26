@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10696254",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A study of the mechanism for intergenerational transmission of gender roles in single-parent families.",
+  "authors": "Chen IJ, Chen Z.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1016/j.heliyon.2023.e22952",
+  "pmcid": "PMC10696254",
+  "url": "https://europepmc.org/article/PMC/PMC10696254",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10696254/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gender_roles"
+  ],
+  "abstract": "The divorce rate in China is rising yearly, and the concept of marriage is changing, triggering many social topics related to single parents. Among them, gender-awareness education for children in single-parent families is particularly worthy of attention, as there has been insufficient exploration of how parents transfer their gender role concepts to their children. This study conducted in-depth interviews with 58 single parents and children from 29 families in Suzhou and constructed the mechanism for intergenerational transmission of gender roles in single-parent families based on grounded theory. It found that single parents' gender stereotypes, the starting point of the intergenerational transmission mechanism, have been diluted. It affords them a more enlightened attitude towards child-rearing style, and they expect more equality in the gender role of their offspring. However, in some parents' actual parenting process, when the children's sexualization behaviours exceed their acceptance range, they will communicate with children in an authoritative and didactic way to \"correct\" the children's behaviour. In addition to direct verbal instruction, parents' expectations of their children's gender roles will be implicitly conveyed through various parent-child interactions in daily life to affect the formation of their children's gender roles. In the intergenerational transmission of gender roles, external people (such as grandparents, teachers and peer groups) have horizontal socialisation effects on children to modify or strengthen the results of gender education from their parents. Under the comprehensive influence of the above factors, the children's gender roles are finally determined. These studies expand previous theories and studies and have significant theoretical and practical implications.",
+  "raw_path": "01_raw/europepmc_xml/PMC10696254.xml",
+  "text_path": "02_text/europepmc/PMC10696254.txt",
+  "raw_bytes": 139971,
+  "text_chars": 58188,
+  "raw_sha256": "edbfa7084e4199f03177c9e584ecbc209aa57368dff48c304e196fd2398c3d9a",
+  "text_sha256": "60fcef496c881fcbc21dbc66760878d5935ac4515fd05444fc3c2949af39a3dc",
+  "retrieved_at": "2026-10-25T14:01:35.398748+00:00"
+}

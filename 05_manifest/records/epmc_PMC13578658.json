@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13578658",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Love as Bait: A Scoping Review and Crime Script Analysis of Online Romance Scams.",
+  "authors": "Schokkenbroek JM, Snaphaan T.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/15248380251361046",
+  "pmcid": "PMC13578658",
+  "url": "https://europepmc.org/article/PMC/PMC13578658",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13578658/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "scam"
+  ],
+  "abstract": "This study presents a scoping review and crime script analysis of the modus operandi of online romance scammers. Online romance scams are a form of fraud in which perpetrators fabricate online romantic relationships with victims, aiming to emotionally manipulate and, ultimately, financially exploit them. The review aims to synthesize existing research on how scammers operate and to develop a comprehensive crime script that can guide prevention and policy efforts. A literature search was conducted in Web of Science and Scopus. The search yielded 318 initial results, which were screened for relevance using ASReview Lab and supplemented with 14 additional sources from reference lists and Google Scholar. In total, 50 empirical studies were included based on their descriptions of scammer behaviors. Data were analyzed by coding relevant passages on scammer actions and process models, which were then categorized into scenes and actions to construct a crime script. The resulting script identifies nine major scenes in the scam process: (1) preparation (the Setup); (2) target selection (the Hunt); (3) initial contact (the Hook);(4) transition to private communication (the Shift); (5) grooming; (6) the Sting; (7) financial transaction (the Payout); (8) the Squeeze (e.g., sextortion); and (9) the Aftermath (e.g., revictimization). Each scene includes multiple possible actions and variations, demonstrating the flexibility and adaptability of scammers. The review underscores gaps in previous process models by highlighting non-linearity, scammer adaptability, and revictimization in the online romance scam process. This study contributes to both theory and practice by offering a detailed framework for understanding and reducing (the harm following) online romance scams.",
+  "raw_path": "01_raw/europepmc_xml/PMC13578658.xml",
+  "text_path": "02_text/europepmc/PMC13578658.txt",
+  "raw_bytes": 171175,
+  "text_chars": 60474,
+  "raw_sha256": "5d196eb9269f0129943f4730974c7a626080f52961188b7db72e56c177a82090",
+  "text_sha256": "115f08785ea8846f82332b39337f0c3a9191407177ad315b022b81195a2aa7ef",
+  "retrieved_at": "2026-10-25T13:49:16.342412+00:00"
+}

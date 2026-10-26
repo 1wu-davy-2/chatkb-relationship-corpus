@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13391345",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Intimate relationship satisfaction among Swedish police officers: work centrality, workplace social climate, and the conditional role of external support.",
+  "authors": "Rostami A, Hansson J.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1778017",
+  "pmcid": "PMC13391345",
+  "url": "https://europepmc.org/article/PMC/PMC13391345",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13391345/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "Policing is a high-demand profession that can intensify work-family conflict, significantly affecting satisfaction in intimate relationships. This cross-sectional study investigated intimate relationship satisfaction among Swedish police officers and examined the influence of psychosocial and organizational factors. Data were collected from police officers using the ENRICH Marital Satisfaction (EMS) scale and the QPS Nordic questionnaire. Results indicated a moderate level of intimate relationship satisfaction among police officers, independent of sociodemographic variables. A positive social climate and support from friends and relatives were positively associated with relationship satisfaction, while work centrality was most strongly and negatively associated with relationship satisfaction. A significant interaction between work centrality and support from friends and relatives showed that the benefit of external support was strongest when work centrality was high, indicating its conditional and compensatory role. Police organizations should adopt a holistic strategy to manage the impact of work centrality, integrating policies that strengthen positive work social climate and officers' external support networks to foster sustainable work-family balance in policing.",
+  "raw_path": "01_raw/europepmc_xml/PMC13391345.xml",
+  "text_path": "02_text/europepmc/PMC13391345.txt",
+  "raw_bytes": 146332,
+  "text_chars": 47964,
+  "raw_sha256": "f3677a3dc9edcddca261174d0f9c6c8f73c476e8cb84d0768d84e1854c992415",
+  "text_sha256": "5d15c42f4c0c98d9fd9495eff0279ad53d6f8033cc6c8787b738e505d02f2432",
+  "retrieved_at": "2026-10-25T13:47:40.222040+00:00"
+}

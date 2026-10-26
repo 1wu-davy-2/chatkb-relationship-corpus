@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11623465",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Beyond words: Relationships between emoji use, attachment style, and emotional intelligence.",
+  "authors": "Dubé S, Gesselman AN, Kaufman EM, Bennett-Brown M, Ta-Johnson VP, Garcia JR.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0308880",
+  "pmcid": "PMC11623465",
+  "url": "https://europepmc.org/article/PMC/PMC11623465",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11623465/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Assessing the relationships between emoji use and traits related to communication and interpersonal skills can provide insights into who employs emojis and the psychological mechanisms underlying computer-mediated communications. This online study investigated associations between emoji use frequency, attachment style, and emotional intelligence across genders and relationship types in a Mechanical Turk sample of 320 adults (≥18y; 191 women, 123 men, and 4 transgender individuals). Correlational analyses showed that emotional intelligence was positively related to emoji use with friends, while avoidant attachment was negatively related to emoji use with friends and dating or romantic partners. This pattern of associations varied across genders and relationship types, with women using emojis more frequently than men with friends and family. Such findings suggest that individuals higher on emotional intelligence with secure attachment may employ emojis more frequently across contexts where more conventional non-verbal cues are lacking. These findings are important given the prevalence of virtual communications in our everyday lives.",
+  "raw_path": "01_raw/europepmc_xml/PMC11623465.xml",
+  "text_path": "02_text/europepmc/PMC11623465.txt",
+  "raw_bytes": 199349,
+  "text_chars": 31394,
+  "raw_sha256": "e9e5c594d02a156d01563e8f25af0215ad44e278aae8fa8538383eae98daa14a",
+  "text_sha256": "c9e5637362831a39b24e65ec32dba004c5e62688205e8a901e6d3dd794726e5a",
+  "retrieved_at": "2026-10-25T13:55:35.337711+00:00"
+}

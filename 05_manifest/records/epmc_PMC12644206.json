@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12644206",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Is Family Size Related To Love? Data from 25 Countries.",
+  "authors": "Żelaźniewicz A, Kowal M, Pawłowski B, Sorokowski P.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s12110-025-09505-w",
+  "pmcid": "PMC12644206",
+  "url": "https://europepmc.org/article/PMC/PMC12644206",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12644206/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "Previous research indicates that having children can negatively affect relationship satisfaction, yet it may also strengthen bonding between partners. Romantic love is hypothesized to serve as a commitment device contributing to marital satisfaction. Interestingly, the relationship between romantic love and the number of children is complex and has received limited empirical attention, especially in diverse cultural contexts. However, some evidence from traditional societies suggests a positive correlation. Guided by Sternberg's Triangular Theory of Love, we examined the relationship between the number of children and romantic love and its three components (passion, intimacy, commitment) across 25 populations. Based on prior research, we hypothesized that the number of children would be positively associated with passion and commitment but negatively associated with intimacy. Our global sample included 3,187 married or engaged individuals (55.9% women), aged 18-99 years (M = 38.69, SD = 10.55), from 25 countries. Contrary to our predictions, having children, but not the number of children, was negatively related to overall romantic love, intimacy, and passion, but unrelated to commitment. These findings suggest that parenthood may be linked to reduced romantic love, particularly in terms of intimacy and passion, across diverse cultural settings. This pattern may reflect challenges commonly associated with the transition to parenthood, including increased stress, fatigue, financial strain, and work-life conflict, which can diminish partners' sense of closeness and attraction. Overall, the results underscore the importance of supporting couples' romantic relationships during the parenting stage to help sustain emotional and physical connection under the demands of family life.",
+  "raw_path": "01_raw/europepmc_xml/PMC12644206.xml",
+  "text_path": "02_text/europepmc/PMC12644206.txt",
+  "raw_bytes": 182561,
+  "text_chars": 41883,
+  "raw_sha256": "49a0fd8b3b7198f26554b6ac52f02a2888fa6e1d32c36af3ef5511e613ccd89a",
+  "text_sha256": "344b0625313f84a365b1b4c381ae98d6b8ab4ef8a8b859f2123559293b7b279f",
+  "retrieved_at": "2026-10-25T14:02:07.778595+00:00"
+}

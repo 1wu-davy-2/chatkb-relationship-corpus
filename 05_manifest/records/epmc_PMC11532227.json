@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11532227",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dating app users: Differences between middle-aged men and women.",
+  "authors": "Jiménez-Muro A, Ramos-Villagrasa PJ, Castro Á.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1016/j.ijchp.2024.100505",
+  "pmcid": "PMC11532227",
+  "url": "https://europepmc.org/article/PMC/PMC11532227",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11532227/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex",
+    "online_dating"
+  ],
+  "abstract": "The scientific literature generated as a result of the appearance and popularization of the use of dating apps still has some important limitations. Among them, the one that has focused particularly on some groups (men who have sex with men, university students) while ignoring others, stands out. Therefore, this study aimed to analyze the characteristics of dating app usage in middle-aged heterosexual people, paying special attention to the differences between men and women. A total of 298 heterosexual current dating app users (41.3 % women, 58.7 % men), aged between 25 and 50 years ( M = 37.67, SD = 6.99), completed a battery of online questionnaires. Regular and intense use of dating apps was found in middle-aged people. Compared to women, men use more dating apps, have used them for a longer time, use them to a greater extent for casual sex, and for more time per day. It was also found that the time spent on dating apps and having a partner allowed for predicting some behaviors and relationships that arose in the apps. Knowing middle-aged people's dating app usage profiles and the differences between men and women will have relevant implications when designing and implementing preventive strategies and promoting these apps' recreational and responsible use from a gender perspective.",
+  "raw_path": "01_raw/europepmc_xml/PMC11532227.xml",
+  "text_path": "02_text/europepmc/PMC11532227.txt",
+  "raw_bytes": 90073,
+  "text_chars": 28489,
+  "raw_sha256": "abed40202c42ba580f50dde45ab9f469baf39d28b970415772ac69e80826d084",
+  "text_sha256": "1b6923911f26d7ffe270c57af719548fb514c5cd5edc801213382213270b34b4",
+  "retrieved_at": "2026-10-25T13:59:56.732501+00:00"
+}

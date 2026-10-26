@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10496105",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Fitness Costs of Insecure Romantic Attachment: The Role of Reproductive Motivation and Long-Term Mating.",
+  "authors": "Međedović J, Anđelković A, Lukić J.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/14747049221146433",
+  "pmcid": "PMC10496105",
+  "url": "https://europepmc.org/article/PMC/PMC10496105",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10496105/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Attachment styles are frequently viewed from within the evolutionary conceptual framework; however, their associations with evolutionary fitness are very rarely empirically explored. In the present research ( N = 448), we analyzed the relations between romantic attachment (anxiety and avoidance) and various fitness indicators in Serbian adults: matting patterns (short and long-term mating), reproductive motivation, reproductive success (age of first birth, number of children, and grandchildren), and kin care (care for biological relatives in general and care for children). Congruent negative associations between insecure styles and fitness outcomes were found: this is particularly true for avoidance, which is negatively related to long-term mating, reproductive motivation, number of children, and kin care. Furthermore, the data showed that reproductive motivation and long-term mating may mediate the links between avoidance and the number of children. Anxiety was negatively related to reproductive motivation and the number of children; this attachment style was also negatively associated with care for children, but only in males. The present data suggest that secure romantic bonding may be evolutionary adaptive; the obtained results contradict some evolutionary theories that assume that insecure attachment has some adaptive benefits as well. Findings provide new insights into the role of romantic attachment in the behavioral ecology of pair bonding.",
+  "raw_path": "01_raw/europepmc_xml/PMC10496105.xml",
+  "text_path": "02_text/europepmc/PMC10496105.txt",
+  "raw_bytes": 117094,
+  "text_chars": 34127,
+  "raw_sha256": "88d0f8d22c186894fda69dc210dde20837bdc110ef673bfd9d3f13903fe17b96",
+  "text_sha256": "c36d1c391417f7913a27153d22bbb0283d999c94808bde1b4154bb465667157c",
+  "retrieved_at": "2026-10-25T15:49:10.118075+00:00"
+}

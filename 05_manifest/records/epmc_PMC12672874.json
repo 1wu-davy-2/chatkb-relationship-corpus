@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12672874",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The interplay of emotional intelligence and mental toughness in amateur soccer: the role of goal commitment.",
+  "authors": "Şekerci K, Şahbudak M, Işıkgöz ME.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1670502",
+  "pmcid": "PMC12672874",
+  "url": "https://europepmc.org/article/PMC/PMC12672874",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12672874/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "commitment"
+  ],
+  "abstract": "Background Emotional intelligence and mental toughness are recognized as key psychological factors influencing athletic performance and well-being. However, the mechanisms underlying the relationship between these constructs, and the potential impact of demographic factors, remain underexplored, especially among amateur soccer players. Purpose The purpose of this study is to examine the mediating role of goal commitment in the relationship between emotional intelligence and mental toughness in amateur soccer players, and to determine whether this role is moderated by demographic factors. Methods The study included 262 licensed amateur soccer players in Şırnak province, southeastern Türkiye, using a cross-sectional design and a correlational survey model. Data were collected with the Emotional Intelligence Scale, the Goal Commitment Scale, and the Mental Toughness Inventory in Sports. Analyses were conducted using Jamovi software (version 2.4.8) and the Bootstrap 5,000 resampling method. Results The results indicated moderate positive relationships among emotional intelligence, goal commitment, and mental toughness. Mediation analysis indicated that goal commitment partially mediated the association between emotional intelligence and mental toughness; approximately 24% of the total association was indirect via goal commitment. Moderator analysis indicated that the indirect association varied by gender, athlete's license year, and educational status influenced this mediation, while marital status did not. Conclusion These findings suggest that goal commitment is importantly associated with emotional intelligence and mental toughness among amateur soccer players. The results highlight the need to consider individual differences and demographic factors such as gender, athlete license year, and educational status for designing interventions aimed at supporting performance and mental toughness in this population.",
+  "raw_path": "01_raw/europepmc_xml/PMC12672874.xml",
+  "text_path": "02_text/europepmc/PMC12672874.txt",
+  "raw_bytes": 188260,
+  "text_chars": 60555,
+  "raw_sha256": "0d2beea8870ea2b1232b57de4b316982732ee62a453ba0d93c17a23d4b6458e5",
+  "text_sha256": "f6609499a9d3716c53f3fe2f95315f53e0c27aa815aec191c4b4a2efca052a59",
+  "retrieved_at": "2026-10-25T15:32:37.588525+00:00"
+}

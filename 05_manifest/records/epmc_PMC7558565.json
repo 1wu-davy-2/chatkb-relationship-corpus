@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7558565",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Theoretical Boundary Conditions of Partner Buffering in Romantic Relationships.",
+  "authors": "Eller J, Simpson JA.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.3390/ijerph17186880",
+  "pmcid": "PMC7558565",
+  "url": "https://europepmc.org/article/PMC/PMC7558565",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7558565/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Attachment insecurity is consequential for both personal and relationship wellbeing. Some research has documented that partner buffering can downregulate insecure individuals' immediate feelings of distress, allowing them to feel more secure at least temporarily. The benefits of partner buffering, however, may be limited by several contextual factors. In this article, we identify boundary conditions that may curb or amplify the benefits of partner buffering for both targets (those who receive buffering) and agents (those who enact buffering). We suggest that motivation, ability, and timing may all affect partner buffering outcomes for targets and agents. If partner buffering is delivered in an adaptive way that does not reinforce the target's insecure tendencies, it may help insecure targets learn that they can trust and depend on their partners (agents), which may facilitate greater security in targets. We recommend that future research consider these contextual factors and examine partner buffering as an inherently dyadic relationship process capable of enhancing attachment security.",
+  "raw_path": "01_raw/europepmc_xml/PMC7558565.xml",
+  "text_path": "02_text/europepmc/PMC7558565.txt",
+  "raw_bytes": 159872,
+  "text_chars": 44777,
+  "raw_sha256": "0173d33a81b69dfb1277530ec534ef6421df56f5f36755da300e14dd1a3cf24c",
+  "text_sha256": "d2dce1521e616ef025977c2b856dc13acac9f721a36725c194aa6ab4788c724d",
+  "retrieved_at": "2026-10-25T15:40:13.124509+00:00"
+}

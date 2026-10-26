@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_ziwei_douishu",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "紫微斗数",
+  "requested_title": "紫微斗数",
+  "url": "https://zh.wikipedia.org/wiki/%E7%B4%AB%E5%BE%AE%E6%96%97%E6%95%B0",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 紫微斗数",
+  "topics": [
+    "astrology",
+    "belief",
+    "china"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/ziwei_douishu.json",
+  "text_path": "02_text/zh_wikipedia/ziwei_douishu.txt",
+  "raw_bytes": 9859,
+  "text_chars": 3740,
+  "text_sha256": "69a83e359cc92b290a0b8b60a0a6d9cf13964e57c18f62eaae6019b73a505d6c",
+  "retrieved_at": "2026-10-26T13:42:03.119855+00:00"
+}

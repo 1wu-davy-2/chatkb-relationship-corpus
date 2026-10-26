@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13513619",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Co-Creating in Close Collaboration with Community Stakeholders: Transferable Lessons Learned from the Development of a Group-Based Intervention for Intimate Partner Violence (IPV) Survivors in Sweden.",
+  "authors": "Strand C, Lymeus F, Bergman AS.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/ijerph23080993",
+  "pmcid": "PMC13513619",
+  "url": "https://europepmc.org/article/PMC/PMC13513619",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13513619/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "There is a lack of step-by-step guides for developing evidence-based interventions through close collaboration between researchers and practitioners that emphasize genuine co-creation. The purpose of this paper is to provide a detailed description of the five-year participatory action research- and iterative-design-inspired development process that resulted in a 12-week group-based intervention to support reorientation and post-traumatic growth among intimate partner violence (IPV) survivors. This paper presents a case study based on an analysis of meeting agendas and notes, observations, successive versions of the intervention, and interviews with staff at partnering women's shelters and female victim-survivor intervention participants, conducted from 2021 to 2025. This study offers future intervention developers three actionable recommendations: (1) invest in relationship building and establish a collaborative project culture characterized by epistemic equality between academic researchers and practitioners, manifested in non-hierarchical decision-making; (2) create a purpose-built framework for genuine collaboration and co-creation, like the one presented in this project, which combines participatory action research and iterative design approaches; and (3) ensure a shared vision and a formalized agreement regarding future uses and rights connected to the intervention. By offering key transferable recommendations, this paper contributes to teams embarking on intervention development alongside end-beneficiaries and community stakeholders in women's shelters and beyond.",
+  "raw_path": "01_raw/europepmc_xml/PMC13513619.xml",
+  "text_path": "02_text/europepmc/PMC13513619.txt",
+  "raw_bytes": 162086,
+  "text_chars": 90046,
+  "raw_sha256": "9f6a22c18be1ff6fef3e425ec818bbb4cf39f366a40fa3cf74e1de64a3159120",
+  "text_sha256": "f9316805170c3d59649252d0881dc0ddfd7a83ca9b91aeacdbbee0d63cadf748",
+  "retrieved_at": "2026-10-25T13:56:05.014689+00:00"
+}

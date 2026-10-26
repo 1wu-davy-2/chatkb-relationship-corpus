@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10563489",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Ideological Mate-guarding: Sexual Jealousy and Mating Strategy Predict Support for Female Honor.",
+  "authors": "Kupfer TR, Gul P.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/14747049231200641",
+  "pmcid": "PMC10563489",
+  "url": "https://europepmc.org/article/PMC/PMC10563489",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10563489/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "Feminine honor dictates that women should cultivate a reputation for sexual purity via behaviors such as dressing modestly and maintaining virginity before marriage. The dominant explanation for people's support for feminine honor is that female infidelity threatens male partners' honor. Beyond this, the literature affords little understanding of the evolutionary and psychological origins of feminine honor. We propose that feminine honor functions as an ideological form of mate guarding that is shaped by sexual jealousy and mating strategy. Two correlational studies ( N = 892) revealed support for predictions derived from this ideological mate-guarding account. In Study 1, dispositional jealousy and mating strategy (more monogamous orientation) predicted male participants' support for a mate's (especially a long-term mate's) feminine honor. Moving beyond mate preferences, in Study 2 male and female participants' dispositional jealousy and mating strategy predicted support for feminine honor of women in general. Results applied beyond masculine honor norms, religiosity, political conservativism, and age. These findings enhance the understanding of the origins and maintenance of feminine honor and related norms and ideologies that enable control over women's socio-sexual behavior.",
+  "raw_path": "01_raw/europepmc_xml/PMC10563489.xml",
+  "text_path": "02_text/europepmc/PMC10563489.txt",
+  "raw_bytes": 180252,
+  "text_chars": 39669,
+  "raw_sha256": "b7ecdb618c6212bbdefbb1ac40027034b2c5a892e34771678d61d3d3de7b5245",
+  "text_sha256": "ecc9b3a13e111b64b00d9e1e87b44cd4c81721d65efd0482466bbdaa7ace02e7",
+  "retrieved_at": "2026-10-25T15:34:29.503617+00:00"
+}

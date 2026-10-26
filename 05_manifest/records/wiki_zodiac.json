@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_zodiac",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "星座",
+  "requested_title": "星座",
+  "url": "https://zh.wikipedia.org/wiki/%E6%98%9F%E5%BA%A7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "astrology",
+    "culture"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/zodiac.json",
+  "text_path": "02_text/zh_wikipedia/zodiac.txt",
+  "raw_bytes": 22973,
+  "text_chars": 8295,
+  "text_sha256": "8dbb2f03a621b37f57f807213d0cba61dfdec8a5712841d0721ab4ea4f2e3787",
+  "retrieved_at": "2026-10-25T15:39:14.725854+00:00"
+}

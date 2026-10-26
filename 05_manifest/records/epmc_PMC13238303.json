@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13238303",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "It Takes Two to Tango: The Interplay of Partners' Communicated Perspective-Taking, Positive Relational Experience During Conflict and Relationship Satisfaction in Young Adult Couples.",
+  "authors": "Emond M, Ramos B, Léonard F, Péloquin K, Daspe MÈ.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jmft.70149",
+  "pmcid": "PMC13238303",
+  "url": "https://europepmc.org/article/PMC/PMC13238303",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13238303/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "Research has yet to clarify the relational mechanisms through which communicated perspective-taking (CPT) during conflict relates to overall relationship satisfaction, and prior studies have largely overlooked its dynamic and interactive nature, often examining partners' contributions separately. To address these gaps, this study employed an observational dyadic design to examine, in a sample of 178 young adult couples, the unique and joint contributions of partners' CPT during conflict to their relationship satisfaction, as well as the role of positive relational experience during conflict in these associations. Results showed that an individual's CPT was positively associated with their own and their partner's relationship satisfaction, through both their own and their partner's greater positive relational experience during the conflict discussion. Partners' CPT also interacted in association with relational experience and relationship satisfaction. Findings underscore the potential role of positive relational experience and the inherently dyadic and interactive nature of CPT within couple interactions.",
+  "raw_path": "01_raw/europepmc_xml/PMC13238303.xml",
+  "text_path": "02_text/europepmc/PMC13238303.txt",
+  "raw_bytes": 153133,
+  "text_chars": 59580,
+  "raw_sha256": "92ab7abbab05527fcb32fe36e3ad1a59a5ce71e0f44c4e411f7fd77b37fedb2a",
+  "text_sha256": "657e4d5f3b06b9b9cfaa5b97365af5c2df4303cbfcf23c1b1caa85f5ad138651",
+  "retrieved_at": "2026-10-25T15:38:03.521344+00:00"
+}

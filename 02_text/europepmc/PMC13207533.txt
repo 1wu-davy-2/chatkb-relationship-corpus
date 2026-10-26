@@ -1,0 +1,182 @@
+TITLE: Body Image in Women During the Menopausal Transition: Associations with Self-Perceived Attractiveness in Partner Relationships.
+AUTHORS: Bień A, Pięta B, Górska B, Bączek G, Głowacka M, Grzesik-Gąsior J.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3390/jcm15103562
+PMCID: PMC13207533
+LICENSE: cc by
+LICENSE_URL: https://creativecommons.org/licenses/by/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC13207533
+TOPICS: body_image
+
+---
+
+ABSTRACT
+AbstractBackground/Objectives: The menopausal transition involves bodily, emotional, and sexual changes that may be relevant to body image. This study examined whether intrapersonal and relational dimensions of perceived self-attractiveness were associated with multidimensional body image among partnered women during the menopausal transition, after adjustment for BMI and sociodemographic factors. Methods: This cross-sectional study was conducted in 2024–2025 in primary health care clinics in Lublin Province, Poland, and included 474 partnered women in perimenopause or early postmenopause. Body image was assessed with the Body Esteem Scale subscales, namely Sexual Attractiveness, Weight Concern, and Physical Condition, and perceived self-attractiveness with the Scale of Assessment of Self-Attractiveness in a Relationship. Hierarchical linear regression models were adjusted for BMI, age, education, and socioeconomic conditions. Results: Body Acceptance was positively associated with Sexual Attractiveness (β = 0.193, p = 0.002), Weight Concern (β = 0.225, p < 0.001), and Physical Condition (β = 0.206, p = 0.001). Sexual Satisfaction was positively associated with Sexual Attractiveness (β = 0.299, p < 0.001) and Physical Condition (β = 0.143, p = 0.023). Appearance Evaluation was positively associated with Weight Concern (β = 0.126, p = 0.023). Higher BMI was negatively associated with Weight Concern (β = −0.356, p < 0.001) and Physical Condition (β = −0.209, p < 0.001), whereas older age was negatively associated with Sexual Attractiveness (β = −0.127, p = 0.002) and Physical Condition (β = −0.137, p = 0.001). Conclusions: In partnered women during the menopausal transition, body image was associated not only with BMI and age, but also with body acceptance and selected intimacy-related dimensions of perceived self-attractiveness.Keywords: body image, menopausal transition, self-attractiveness, partner relationship, sexual health
+
+BODY
+1. Introduction
+
+The menopausal transition is a life stage during which hormonal changes and aging processes contribute to changes in body composition and fat distribution, including increased central adiposity and loss of lean mass [1,2]. Vasomotor symptoms are common and frequently co-occur with sleep disturbances and mood changes, and sexual functioning may also change across the transition [3]. These changes may be relevant to women’s perceptions of their bodies as well as to their sense of femininity and attractiveness. Because clinicians providing menopause care, including gynecologists, midwives, and other women’s health professionals, increasingly address both somatic and psychosocial concerns in midlife, understanding factors associated with body image during this period has direct clinical relevance [4,5].
+
+Body image is a multidimensional construct encompassing beliefs and interpretations about appearance, related emotions, and body-focused behaviors within a social context [6]. In line with multidimensional and cognitive-behavioral perspectives on body image, body-related evaluations are shaped not only by physical characteristics, but also by self-perceptions, emotions, social experiences, and interpretive processes [6]. In midlife, body evaluation often reflects not only aesthetics but also functionality and physical capability [6,7]. Body image is associated with individual factors, such as age, body mass index (BMI), health status, and personality traits, as well as with sociocultural influences, including norms regarding attractiveness [4,8]. In many Western cultures, ideals emphasizing youth, thinness, and fitness may intensify social comparison and undermine body satisfaction as women experience age-related changes [8]. Clinically, negative body image in midlife has been linked to lower well-being, avoidance of intimacy, and reduced engagement in health-promoting behaviors, underscoring its relevance for counseling in routine care [8,9]. In this context, interpersonal feedback within partner relationships may be relevant to how women evaluate their bodies during the menopausal transition.
+
+Partner relationships provide a context in which the body may gain significance as a source of closeness and sexual satisfaction, but also as a potential target of evaluation and fear of rejection. Perceived acceptance from a significant other may be related to less negative self-evaluation, including lower body dissatisfaction. At the same time, intrapersonal dimensions, such as body acceptance and appearance evaluation, may be relevant to how women interpret external cues and integrate bodily changes during this period [10]. Accordingly, perceived self-attractiveness in partner relationships can be conceptualized as a relationship-contextualized construct that integrates intrapersonal components, such as body acceptance and appearance evaluation, with relational components, such as perceived partner acceptance and sexual satisfaction. Although related to body image, this construct is not identical to domain-specific body evaluation, which makes it clinically relevant to examine how these dimensions correspond with different aspects of body image [11].
+
+Findings in midlife women are often less consistent than those reported in younger adults. This may reflect heterogeneity in menopausal stage, weight-change trajectories, relationship duration and quality, comorbidities, and the increasing salience of functional aspects of the body [12]. This underscores the need for analyses that consider relational and intrapersonal dimensions of self-attractiveness alongside key sociodemographic and health-related correlates.
+
+Limited research has examined how relational and intrapersonal dimensions of perceived self-attractiveness are linked to multidimensional body image during the menopausal transition while accounting for BMI and key sociodemographic factors. This gap is clinically important because body image concerns in midlife may be relevant to well-being, intimacy, and engagement in health-promoting behaviors, yet they are often reduced in practice to weight- or symptom-centered concerns alone. Therefore, this study examined associations between perceived self-attractiveness in partner relationships and three domains of body image among partnered women during the menopausal transition, with the aim of informing more person-centered and psychosocially sensitive menopause care.
+
+2. Materials and Methods
+
+2.1. Study Population and Procedures
+
+The study was conducted between January 2024 and April 2025 in several public and private primary health care clinics in Lublin Province, Poland. Women were recruited during routine clinic visits, including preventive consultations, general health assessments, and visits related to menopausal transition symptoms. Eligibility was assessed during a structured health, gynecologic, and obstetric interview covering menstrual patterns and menopausal symptoms. After receiving information about the study, participants provided written informed consent and completed the questionnaires in private.
+
+Women who were sufficiently fluent in Polish to complete the questionnaires independently were eligible. Based on a structured interview, participants were classified as being in perimenopause (menopausal transition) or early postmenopause, defined as the first 12 months after the final menstrual period (FMP). Additional inclusion criteria were self-reported naturally occurring menopausal transition symptoms. Menopausal status was determined from interview data on bleeding patterns and climacteric symptoms, consistent with the Stages of Reproductive Aging Workshop + 10 (STRAW + 10) recommendations. Because of the cross-sectional design, classification was based on interview data only, without hormonal assessment or prospective confirmation of the FMP.
+
+Women were excluded if they did not provide informed consent, withdrew from the study, were more than 12 months after the FMP, did not report menopausal transition symptoms, were not sufficiently fluent in Polish, or did not complete the questionnaires. No formal a priori sample size calculation was performed because this was an observational study based on a purposively recruited sample collected within a predefined study period rather than a prospectively powered design targeting a single primary parameter estimate. To provide additional context for model adequacy, we considered the final analytic sample in relation to the planned multivariable regression models. With 474 participants and nine variables included in the fully adjusted models, the sample size provided adequate sensitivity to detect small overall effects in multiple regression, assuming α = 0.05 and conventional power of 0.80. Therefore, the final analytic sample was considered sufficient for the planned analyses. Women with incomplete questionnaires were excluded from the analysis, and no item-level missing data were present among participants included in the final analytic sample.
+
+Because the SAAR assesses perceived self-attractiveness in the context of an intimate relationship, the present analysis was restricted to women who reported being in a partner relationship.
+
+This study was reported in accordance with the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) guidelines.
+
+2.2. Data Collection
+
+Data were collected using the Body Esteem Scale (BES), the Scale of Assessment of Self-Attractiveness in a Relationship (SAAR), and a study questionnaire. The study questionnaire collected sociodemographic data, including age, place of residence, relationship status, education, employment status, self-rated socioeconomic conditions, and parental status, as well as health-related information, including body mass index (BMI). BMI was calculated as weight in kilograms divided by height in meters squared, using self-reported height and weight.
+
+The Body Esteem Scale (BES) was developed by Franzoi and Shields and adapted into Polish by Lipowska and Lipowski. It assesses body-related attitudes across three subscales: Sexual Attractiveness, Weight Concern, and Physical Condition. The BES comprises 35 items rated on a 5-point Likert scale, ranging from 1 (strongly negative feelings) to 5 (strongly positive feelings). Subscale scores were calculated as the sum of item responses, with higher scores indicating a more positive body evaluation. Therefore, for the Weight Concern subscale, higher scores reflect more favorable weight-related body evaluation rather than greater concern. In validation studies of the Polish version among women, internal consistency was high (Cronbach α = 0.80 for Sexual Attractiveness, 0.89 for Weight Concern, and 0.82 for Physical Condition) [13,14].
+
+The women’s version of the Scale of Assessment of Self-Attractiveness in a Relationship (SAAR) was developed by Chybicka and Karasiewicz to assess perceived physical and sexual self-attractiveness in the context of a partner relationship. It includes four subscales, two reflecting self-evaluation (Body Acceptance and Appearance Evaluation) and two reflecting partner-related perceptions (Partner Acceptance and Sexual Satisfaction). Each subscale contains four items rated on a 5-point Likert scale, ranging from 1 (strongly disagree) to 5 (strongly agree), with higher scores indicating greater perceived self-attractiveness, partner-related acceptance, or sexual satisfaction, depending on the subscale. Reported internal consistency was acceptable (Cronbach α = 0.75 for the total scale; 0.67 for Body Acceptance, 0.74 for Appearance Evaluation, 0.71 for Partner Acceptance, and 0.70 for Sexual Satisfaction) [15].
+
+Although related, these constructs are not identical. In the present study, body image was operationalized using the BES as domain-specific body evaluation (sexual attractiveness, weight-related evaluation, and physical condition), whereas the SAAR was used to capture perceived self-attractiveness in the context of an intimate relationship, including both intrapersonal and partner-related dimensions. Thus, SAAR Body Acceptance was treated as a relationship-contextualized dimension of perceived self-attractiveness examined in relation to BES body image domains, rather than as a component of the BES outcome itself. Nevertheless, some conceptual proximity is plausible, particularly between SAAR Body Acceptance and more global positive body evaluation, and this should be considered when interpreting associations between these measures.
+
+To reduce potential sources of bias, questionnaires were completed in private, eligibility criteria were applied consistently during recruitment, validated instruments were used, and covariates were specified a priori.
+
+2.3. Ethical Considerations
+
+The study was conducted in accordance with the Declaration of Helsinki and Good Clinical Practice. Ethical approval was obtained from the Bioethics Committee at the Medical University of Lublin (Resolution No. KE-0254/265/12/2023, 14 December 2023).
+
+2.4. Statistical Analysis
+
+Statistical analyses were performed using Python, version 3.11.2. Categorical variables were summarized as counts and percentages, and continuous variables as mean (SD). Associations between perceived self-attractiveness in a partner relationship and body image were examined using hierarchical multiple linear regression, with separate models fitted for each Body Esteem Scale subscale. Covariates were selected a priori based on their established or plausible associations with body image in midlife and their potential to confound associations between perceived self-attractiveness in partner relationships and body image. BMI and age were included as core body-related and demographic factors, whereas education and self-rated socioeconomic conditions were included as structural indicators that may shape body-related experiences, health resources, and psychosocial context. In step 1, SAAR subscales (Body Acceptance, Appearance Evaluation, Partner Acceptance, and Sexual Satisfaction) were entered. Body mass index (BMI) was added in step 2, age in step 3, education (3 categories) in step 4, and self-rated socioeconomic conditions (satisfactory vs. unsatisfactory) in step 5, with prespecified reference categories for categorical variables. Sequential entry of covariates was used to examine the incremental contribution of body-related (BMI), demographic (age), and structural (education and socioeconomic conditions) background characteristics to the associations between SAAR dimensions and body image. Results are presented as unstandardized (B) and standardized (β) coefficients with 95% CIs. Model fit was evaluated using R2, and adjusted R2. Multicollinearity was assessed using variance inflation factors, with values below 5 considered not indicative of problematic collinearity. Statistical significance was set at p < 0.05.
+
+3. Results
+
+3.1. Participant Characteristics
+
+A total of 621 women were approached during recruitment, of whom 18 were excluded because they did not meet the study eligibility criteria. The final study sample comprised 603 women, including 474 partnered women who constituted the analytic sample for the present study.
+
+Most participants lived in the regional capital (43.88%), had higher education (49.79%), and were employed (87.55%). Most rated their socioeconomic conditions as satisfactory (76.37%) and reported having children (79.32%). Comorbidities were reported by 53.38% of participants, 74.89% reported no current tobacco and/or alcohol use, and 50.84% had normal weight (Table 1).
+
+Characteristics of the analytic sample of partnered women (n = 474).
+
+3.2. Descriptive Statistics of BES and SAAR
+
+Descriptive statistics for the Body Esteem Scale and the Scale of Assessment of Self-Attractiveness in a Relationship subscales are presented in Table 2.
+
+Scores of Body Esteem Scale and Scale of Assessment of Self-Attractiveness in a Relationship in the study sample (n = 474).
+
+M, mean; Me, median; SD, standard deviation; Min, minimum value; Max, maximum value.
+
+Across all regression models, VIF values were below 5, indicating no problematic multicollinearity among the variables included in the models.
+
+3.3. Factors Associated with Sexual Attractiveness
+
+Hierarchical regression results for Sexual Attractiveness are presented in Table 3. Model fit increased modestly across steps, from 22.1% to 26.2% of explained variance, indicating that the addition of BMI, age, education, and socioeconomic conditions provided only a small incremental contribution beyond the SAAR dimensions. In the fully adjusted model, Body Acceptance (β = 0.193, p = 0.002) and Sexual Satisfaction (β = 0.299, p < 0.001) were positively associated with Sexual Attractiveness, whereas age was negatively associated with Sexual Attractiveness (β = −0.127, p = 0.002). Appearance Evaluation, Partner Acceptance, BMI, education, and self-rated socioeconomic conditions were not significantly associated with Sexual Attractiveness in the fully adjusted model.
+
+Hierarchical Linear Regression Models Examining Factors Associated with Sexual Attractiveness Scores on the Body Esteem Scale from Subscales of the Scale of Assessment of Self-Attractiveness in a Relationship and Covariates.
+
+BC, Body Acceptance; AE, Appearance Evaluation; PA, Partner Acceptance; SS, Sexual Satisfaction; BMI, body mass index; B, unstandardized coefficient; β, standardized coefficient; CI, confidence interval; LL, lower limit; UL, upper limit; VIF, variance inflation factor. Reference categories: primary/vocational education and satisfactory socioeconomic conditions.
+
+3.4. Factors Associated with Weight Concern
+
+Table 4 presents the hierarchical regression results for Weight Concern. Model fit increased from 19.4% to 32.5% of explained variance, with the largest improvement observed after adding BMI, indicating that BMI made the strongest incremental contribution to the weight-related body image domain. In the fully adjusted model, BMI was negatively associated with Weight Concern (β = −0.356, p < 0.001), whereas Body Acceptance (β = 0.225, p < 0.001) and Appearance Evaluation (β = 0.126, p = 0.023) were positively associated with this domain. Age, Partner Acceptance, Sexual Satisfaction, education, and self-rated socioeconomic conditions were not significantly associated with Weight Concern in the fully adjusted model.
+
+Hierarchical Linear Regression Models Examining Factors Associated with Weight Concern Scores on the Body Esteem Scale from Subscales of the Scale of Assessment of Self-Attractiveness in a Relationship and Covariates.
+
+3.5. Factors Associated with Physical Condition
+
+Table 5 shows the hierarchical regression results for Physical Condition. Model fit increased from 14.2% to 21.9% of explained variance, indicating a modest incremental contribution of BMI, age, education, and socioeconomic conditions beyond the SAAR dimensions. In the fully adjusted model, BMI (β = −0.209, p < 0.001) and age (β = −0.137, p = 0.001) were negatively associated with Physical Condition, whereas Body Acceptance (β = 0.206, p = 0.001) and Sexual Satisfaction (β = 0.143, p = 0.023) were positively associated with this domain. Appearance Evaluation, Partner Acceptance, education, and self-rated socioeconomic conditions were not significantly associated with Physical Condition in the fully adjusted model.
+
+Hierarchical Linear Regression Models Examining Factors Associated with Physical Condition Scores on the Body Esteem Scale from Subscales of the Scale of Assessment of Self-Attractiveness in a Relationship and Covariates.
+
+4. Discussion
+
+This study contributes to the clinical literature on menopausal health by indicating that body image during the menopausal transition may follow domain-specific patterns rather than reflect a single uniform process. In the fully adjusted models, Body Acceptance was the most consistent correlate across all three body image domains, Sexual Satisfaction was relevant primarily to sexual and functional domains, and BMI was most strongly related to the weight-related domain. Clinically, this pattern suggests that body image concerns in midlife should not be approached as synonymous with body weight alone. This interpretation is consistent with broader evidence indicating that menopausal symptoms are associated with more negative body image and that sexual satisfaction remains an important dimension of well-being in postmenopausal women [3,12,16,17].
+
+Body Acceptance was consistently related to all three body image domains. This finding may partly reflect the role of intrapersonal self-evaluation in how women appraise their bodies during the menopausal transition, but it should also be interpreted in light of the conceptual proximity between SAAR Body Acceptance and positive body evaluation. In this study, Body Acceptance was treated as a relationship-contextualized dimension of perceived self-attractiveness rather than as a BES body image outcome; nevertheless, overlap between these constructs may have contributed to the strength and consistency of the observed associations. This pattern is consistent with the view that body image in midlife may become increasingly tied to the internal integration of bodily changes rather than to appearance standards alone. Recent qualitative work suggests that women in midlife often describe tension between efforts to accept age-related bodily changes and persistent emotional discomfort related to changing appearance, bodily function, and self-perception [4,18,19].
+
+In the present study, Sexual Satisfaction was associated with Sexual Attractiveness and Physical Condition. This pattern may reflect links between intimate comfort, agency, and positive embodied experiences on the one hand, and sexual body image and perceived physical capability on the other. However, the direction of these associations cannot be determined; more positive body image may also be related to greater sexual satisfaction. By contrast, Partner Acceptance was not significantly associated with any BES body image domain after adjustment for the other SAAR dimensions and covariates. This finding should not be interpreted as evidence that relational dynamics are unimportant for body image in midlife, but rather that the specific partner-related measure used here did not show significant associations in the fully adjusted models. Possible explanations include limited variability in the Partner Acceptance subscale, measurement constraints, or the absence of broader relationship-quality indicators such as emotional intimacy, communication, relationship duration, and overall relationship satisfaction [4,18].
+
+Evidence in midlife women remains less consistent than in younger adults, likely because of heterogeneity in menopausal stage, weight-change trajectories, relationship characteristics, comorbidities, and the increasing salience of functional aspects of the body [19,20,21]. Recent qualitative syntheses further suggest that women’s sexual and relational experiences during the menopausal transition are shaped not only by physical symptoms, but also by relationship dynamics, communication, and broader biopsychosocial context [22,23]. The pattern observed in the present study may therefore indicate that intrapersonal and relational dimensions of perceived self-attractiveness are related to body image in different ways across domains. However, these associations should be interpreted cautiously, as the cross-sectional design precludes conclusions about temporal ordering, and partial conceptual proximity between some self-evaluative constructs may have contributed to the observed associations.
+
+Appearance Evaluation showed a domain-specific pattern in relation to Weight Concern, but not Sexual Attractiveness or Physical Condition. This may indicate that appearance evaluation is most relevant to the body image domain that is especially sensitive to weight- and shape-related pressures and social comparison [8]. This interpretation is consistent with emerging evidence indicating that sociocultural appearance pressures and appearance comparisons remain relevant to body image concerns in women in midlife, particularly in relation to weight and shape [24]. In contrast, sexual body image in midlife may be more closely linked to Body Acceptance and the quality of intimate experiences than to appearance evaluation alone [8,25]. A recent qualitative synthesis suggests that women’s sexual experiences across the menopause continuum are shaped not only by bodily changes but also by self-perception, emotional responses, and relationship dynamics, which may help explain why Appearance Evaluation was not significantly associated with Sexual Attractiveness in the present study [22]. For clinicians, this distinction may support tailoring counseling to the specific domain of concern, such as weight- and shape-related concerns versus sexual attractiveness or perceived physical capability, rather than treating body image as a single construct.
+
+BMI was negatively associated with Weight Concern and was also negatively associated with Physical Condition, whereas it was not significantly associated with Sexual Attractiveness. Because higher Weight Concern scores indicate more favorable weight-related body evaluation rather than greater concern, this negative association indicates that higher BMI was related to less favorable weight-related body evaluation. Similar associations between BMI, weight-related factors, and body dissatisfaction have been reported in middle-aged women [26]. Recent reviews further suggest that weight gain and changes in body composition during midlife are driven by both aging-related and menopause-related processes and may have implications not only for physical health, but also for body-related self-perception [1,4,27]. This pattern is consistent with the interpretation that weight- and shape-related factors are central to the weight-related body image domain, whereas sexual body image may be more closely linked to intrapersonal acceptance and intimate experiences than to body weight alone.
+
+Older age was negatively associated with Sexual Attractiveness and Physical Condition, which may be related to unmeasured factors such as symptom burden, reduced energy, or functional changes during the menopausal transition [3,4]. Education and self-rated socioeconomic conditions were not significantly associated with body image in the fully adjusted models. Given the simple operationalization of these variables, these null findings should be interpreted cautiously. Because body dissatisfaction has been linked to poorer mental health outcomes and lower self-esteem, whereas more positive body image has been linked to emotional well-being, these findings support the clinical relevance of addressing psychosocial aspects of body image in women’s health care during midlife [28].
+
+Several complementary mechanisms may help contextualize the observed associations, although these interpretations remain tentative because of the cross-sectional design. Body Acceptance may represent a psychological resource linked to self-kindness and reduced self-criticism, which may be associated with less negative interpretations of bodily changes during the menopausal transition [29]. Supportive relationship experiences may also be related to how women interpret and negotiate sociocultural pressures and social comparison during this period [8]. In the present study, this broader pattern was partly reflected in Sexual Satisfaction, which was associated with Sexual Attractiveness and Physical Condition, but not with Weight Concern. Together with previous evidence linking more favorable body image to emotional well-being and engagement in wellness behaviors, these findings are consistent with the understanding of body image in midlife within a broader biopsychosocial context rather than as a simple consequence of aging alone [5,30,31].
+
+4.1. Clinical Implications
+
+For clinicians involved in menopause care, these findings are consistent with extending routine assessment beyond somatic symptoms and body weight to include brief evaluation of body-related distress and sexual well-being. In routine visits, nonjudgmental questions may help identify women experiencing body image concerns beyond BMI and age alone, within the scope of the variables measured in this study. Examples include: “How comfortable do you feel with the changes in your body during this stage of life?”, “Have changes in your body affected how attractive or confident you feel?”, and “Has the menopausal transition affected your comfort with intimacy or sexual satisfaction?”
+
+When concerns are identified, counseling may incorporate normalization of menopausal changes, body-neutral or function-focused reframing (e.g., strength, energy, mobility), and brief strategies that foster self-compassion and reduce self-criticism. When low sexual satisfaction co-occurs with distress about sexual attractiveness or avoidance of intimacy, referral for sexual health counseling, psychological support, or couple-based support may be considered. Lifestyle guidance, including physical activity, should be individualized and framed not only in terms of weight management, but also as supporting physical functioning, symptom coping, and overall well-being.
+
+Overall, this approach may help clinicians address weight concerns, body comfort, perceived attractiveness, and sexual well-being as related but distinct aspects of menopause care.
+
+4.2. Strengths and Limitations
+
+This cross-sectional study included a relatively large sample of women in perimenopause and early postmenopause who reported naturally occurring menopausal symptoms. Use of validated instruments, the Body Esteem Scale and the Scale of Assessment of Self-Attractiveness in a Relationship, allowed assessment of three body image domains as well as both intrapersonal and relational dimensions of perceived self-attractiveness. The hierarchical regression approach, with adjustment for age, BMI, education, and self-rated socioeconomic conditions, helped address the possibility that the observed associations were explained solely by basic sociodemographic or weight-related factors. Recruitment in primary health care settings also supports the clinical relevance of the findings, although the sample was not intended to be population-representative.
+
+Several limitations should be considered. First, the cross-sectional design precludes causal inference, and reverse or bidirectional relationships cannot be excluded. Second, participants were recruited purposively from primary health care settings in a single region of Poland, which may limit generalizability and introduce selection effects related to a health-seeking population. The findings may also be partly shaped by the cultural context of this clinic-based sample, including norms surrounding aging, femininity, and body evaluation, and therefore may not transfer directly to women from more diverse sociocultural or health care settings. Third, all measures were self-reported and collected from the same source, increasing the possibility of reporting bias and common method bias. In particular, BMI was derived from self-reported height and weight, which may have introduced measurement error, including possible underreporting of weight and consequent underestimation of BMI. Fourth, menopausal stage was classified using interview data on bleeding patterns and symptoms, consistent with STRAW + 10 recommendations, but without hormonal verification or prospective confirmation of the final menstrual period. This may have resulted in some misclassification, particularly near the 12-month threshold.
+
+Another limitation is the possibility of partial conceptual proximity between SAAR Body Acceptance and body image constructs assessed with the BES. Importantly, although multicollinearity diagnostics did not indicate problematic statistical collinearity among the variables included in the regression models, this does not fully exclude theoretical closeness between these constructs. Therefore, the associations involving Body Acceptance should be interpreted with caution.
+
+Finally, the models did not include several potentially relevant variables, such as menopausal symptom severity, depressive or anxiety symptoms, menopausal hormone therapy use, physical activity, relationship quality or duration, and partner-reported data. Their omission increases the possibility of residual confounding and limits confidence that the observed associations would remain unchanged after adjustment for these factors. Although comorbidity data were collected descriptively, they were not included in the regression models because of their broad and heterogeneous nature and because the analytic strategy was designed to focus on a parsimonious set of core background covariates specified a priori.
+
+5. Conclusions
+
+Among partnered women during the menopausal transition, Body Acceptance was the most consistent correlate of multidimensional body image, whereas Sexual Satisfaction was additionally associated with Sexual Attractiveness and Physical Condition. Overall, the data indicate that body image concerns in midlife are related not only to BMI and age, but also to psychosocial and intimacy-related dimensions of perceived self-attractiveness that may be clinically relevant in menopause care. Longitudinal and intervention studies are needed to clarify temporal pathways and to identify effective strategies to support body acceptance and sexual well-being in this population.
+
+Acknowledgments
+
+The authors thank all women who participated in the study. During the preparation of this manuscript, the authors used DeepL Write and ChatGPT to improve language clarity and readability. The authors reviewed and edited the output and take full responsibility for the content of this publication.
+
+Abbreviations
+
+The following abbreviations are used in this manuscript:
+
+Author Contributions
+
+Conceptualization, A.B. and B.G.; methodology, A.B., B.P. and J.G.-G.; formal analysis, A.B., B.P., B.G. and J.G.-G.; investigation, M.G. and J.G.-G.; data curation, B.G., B.P. and M.G.; writing—original draft preparation, A.B., B.P., B.G. and J.G.-G.; writing—review and editing, A.B., B.P. and J.G.-G.; supervision, A.B. and G.B. All authors have read and agreed to the published version of the manuscript.
+
+Institutional Review Board Statement
+
+The study was conducted in accordance with the Declaration of Helsinki and approved by the Bioethics Committee at the Medical University of Lublin (Resolution No. KE-0254/265/12/2023, 14 December 2023).
+
+Informed Consent Statement
+
+Informed consent was obtained from all subjects involved in the study.
+
+Data Availability Statement
+
+The data presented in this study are available upon request from the corresponding author.
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+Funding Statement
+
+This research received no external funding.
+
+Footnotes
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+References
+
+Associated Data

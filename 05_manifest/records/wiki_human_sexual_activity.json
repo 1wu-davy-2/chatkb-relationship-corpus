@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_human_sexual_activity",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "人类性行为",
+  "requested_title": "人类性行为",
+  "url": "https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%B1%BB%E6%80%A7%E8%A1%8C%E4%B8%BA",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 人类性行为",
+  "topics": [
+    "sexuality",
+    "science"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/human_sexual_activity.json",
+  "text_path": "02_text/zh_wikipedia/human_sexual_activity.txt",
+  "raw_bytes": 26889,
+  "text_chars": 9472,
+  "text_sha256": "3223d50e7af490df1628b37d08bf028be7ccf0aebb474628a5b6a3e0efc0b917",
+  "retrieved_at": "2026-10-26T12:59:09.103121+00:00"
+}

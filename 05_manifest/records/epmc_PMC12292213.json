@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12292213",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Embodying togetherness while taking divergent stances. Romantic couples' multimodal positioning practices while performing \"we-stories\".",
+  "authors": "Pfänder S, Pfänder C.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1452460",
+  "pmcid": "PMC12292213",
+  "url": "https://europepmc.org/article/PMC/PMC12292213",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12292213/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "humor_playfulness"
+  ],
+  "abstract": "Making epistemic and/or affective statements about an interlocutor is a rather delicate endeavor. This is all the more true for spouses who collaboratively tell a good friend a \"we-story\" about where they met, when they fell in love, how he proposed to her, and that they were not always good partners in everyday life. Using a corpus of 48 collaborative narratives of Italian romantic couples' we-stories, we examine how strong epistemic and affective standpoints interrupt the narrative flow and open up a side sequence in which the delicate positioning of the other is multimodally constructed and negotiated. Using multimodal conversational analysis of three exemplary excerpts, we show how the possibilities of sitting side by side on a sofa while recounting difficult marital episodes affect the interplay of verbal, vocal, and bodily resources in the conversational interaction. Faced with a potentially face-threatening act, participants make use of remarkable multimodal packages to challenge their spouse's unwelcome stance-taking by formulating a counter-stance. These opposing stance-takings then lead to a negotiation and ultimately to a new collaborative narrative that most of the times integrates parts of both (initially divergent) stances. We conclude that a finely nuanced micro-sequential analysis makes it possible to discover the highly complex interplay of multimodal resources like verbal and gestural resonance, mutual nodding, synchronized position shifts, eye contact, choral vocalizations and, maybe most importantly, joint laughter. By reusing, but slightly transforming, these verbal and nonverbal elements from prior talk, romantic partners co-operatively achieve shared epistemic and/or affective stance-taking in collaborative story-telling.",
+  "raw_path": "01_raw/europepmc_xml/PMC12292213.xml",
+  "text_path": "02_text/europepmc/PMC12292213.txt",
+  "raw_bytes": 113184,
+  "text_chars": 45085,
+  "raw_sha256": "e744d89ffc76f7b83d3c0bfbd213336cee2b0c1eafe284ba24e10a23732d519c",
+  "text_sha256": "88ffbd5c2b90725d3d9a9b58e1515aa40a2239d2d1ce28bda8dff5f61f37c4f0",
+  "retrieved_at": "2026-10-25T15:29:32.204200+00:00"
+}

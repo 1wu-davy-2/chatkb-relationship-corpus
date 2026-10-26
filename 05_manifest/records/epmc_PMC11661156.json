@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11661156",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychological Distress and Relational Intimacy following Sexual Violence: A Longitudinal Study.",
+  "authors": "Stockman D, Uzieblo K, Fomenko E, Littleton H, Keygnaert I, Lemmens G, Verhofstadt L.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.5334/pb.1240",
+  "pmcid": "PMC11661156",
+  "url": "https://europepmc.org/article/PMC/PMC11661156",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11661156/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "Increasing evidence shows how distress following sexual violence might spill over to victims' romantic relationship functioning. However, studies investigating the reverse spillover between relationship functioning and psychological distress following sexual violence are lacking. The current study therefore aimed to investigate the bidirectional association between victims' psychological distress (posttraumatic stress, depression, anxiety and stress) and emotional and sexual intimacy using a three-wave yearly survey study of a community sample of sexual violence victims ( N = 274, 89% women, 3% men and 8% trans persons, M age = 32 years, SD = 10.7). Results show evidence for spillover effects for posttraumatic stress and stress on emotional intimacy and for anxiety on sexual intimacy. In addition, reverse spillover effects for emotional intimacy were found on all indicators of psychological distress and for sexual intimacy on depression and anxiety. These results suggest that victims' individual and relational functioning is bidirectionally associated. In addition, results suggest that targeting intimacy levels within romantic relationships might improve victims' individual functioning and vice versa. Future research that includes dyadic assessment could enhance our understanding of the bidirectional associations between individual functioning and couple functioning following sexual violence.",
+  "raw_path": "01_raw/europepmc_xml/PMC11661156.xml",
+  "text_path": "02_text/europepmc/PMC11661156.txt",
+  "raw_bytes": 169154,
+  "text_chars": 54319,
+  "raw_sha256": "b90a196c85c69a8dad03e048b027d0fc130725ba08f423436a4bff268e36d77b",
+  "text_sha256": "25c343398fabaa76d1b97793471e068c77a1f3f1cd1a6dd12f37e8103b7a1a8b",
+  "retrieved_at": "2026-10-25T14:01:30.729929+00:00"
+}

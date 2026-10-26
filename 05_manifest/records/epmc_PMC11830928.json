@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11830928",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "An online intervention relationship enhancement couple therapy program versus systematic desensitization on sexual performance anxiety in women undergoing infertility treatment with timed intercourse: An RCT.",
+  "authors": "Dehkordi MA, Farajkhoda T, Khanabadi M, Shamsi F.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.18502/ijrm.v22i12.18062",
+  "pmcid": "PMC11830928",
+  "url": "https://europepmc.org/article/PMC/PMC11830928",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11830928/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "Background Sexual performance anxiety is common among infertility treatments. Psychological interventions are options for couples who do not tolerate psychiatric medications or like psychotherapy with pharmacotherapy. Objective This study aimed to compare the effectiveness of relationship enhancement couple therapy program (RECT) vs. systematic desensitization (SD) on sexual anxiety. Materials and methods A parallel randomized clinical trial was conducted on 68 women with infertility in Shahrekord, Iran, in January 2022. They were randomly allocated to 8 weekly online interventions RECT or SD (control). The main outcome variable, sexual performance anxiety, was assessed via Davis's questionnaire at baseline, completion of the intervention (week 8), and follow-up (week 12). The secondary outcome variable spouse's satisfaction was assessed (weeks 8 and 12, via visual analog scale). Data from 29 women were analyzed in each group. Results Intra-group comparison RECT and SD showed a significant decrease of sexual anxiety baseline compared to week 12 (p = 0.001, 0.001 for RECT and SD, respectively). No significant difference was observed between the 2 groups in baseline compared to week 12 (RECT vs. SD, p = 0.149). Time-group interaction of spouse's satisfaction showed a significant difference between RECT and SD (p = 0.010). Conclusion Both RECT and SD were almost equally effective in decreasing sexual anxiety. RECT (couple relationship-centered) by empowering 10 interpersonal skills, and SD (personal-oriented) by learning step-by-step how fight-or-flight response is replaced by relaxation response, helping women perform more adaptive behaviors regarding sexual anxiety. RECT increased spouse satisfaction significantly compared to SD, indicating that males need to participate in positive relationship changes. The results may be applied by therapists and health policymakers.",
+  "raw_path": "01_raw/europepmc_xml/PMC11830928.xml",
+  "text_path": "02_text/europepmc/PMC11830928.txt",
+  "raw_bytes": 100956,
+  "text_chars": 22398,
+  "raw_sha256": "f135e13a070175e8169bf4948c1200ac25da10b28d36ebdadfb4f6422718b020",
+  "text_sha256": "db173ea31892c0b70c31ef9febe2ce096f7ab47c067dd24b7576686b65094227",
+  "retrieved_at": "2026-10-25T15:46:13.403691+00:00"
+}

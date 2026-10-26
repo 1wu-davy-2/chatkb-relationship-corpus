@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10017077",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual consent norms in a cross-sectional national sample of the UK.",
+  "authors": "Willis M, Marcantonio TL.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1093/pubmed/fdab361",
+  "pmcid": "PMC10017077",
+  "url": "https://europepmc.org/article/PMC/PMC10017077",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10017077/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types"
+  ],
+  "abstract": "Background Sexual assault is a pervasive problem in the UK, and young women are disproportionately affected. We sought to provide an initial account of sexual consent norms in the UK and whether they differ by gender and age. Method The present study was a secondary analysis of data collected by the Family Planning Association, which conducted an online survey (N = 2003) to assess experiences with, knowledge of, and attitudes toward consent. The sample represented all regions of the UK and spanned ages 14-55. Results Definitions of sexual consent endorsed by women and older age groups more closely aligned with the tenets of affirmative consent compared with men and younger age groups. Women and older age groups were also more likely to perceive that various nonverbal cues may be used to interpret sexual consent or refusal and were more supportive of people being able to withdraw their sexual consent. Conclusion Maladaptive sexual consent norms seemed to be prevalent among men and young people in the UK, which may contribute to young women's elevated risk of experiencing sexual assault. Our findings support the UK's recent relationships and sex education curriculum that actively promotes healthy sexual consent norms.",
+  "raw_path": "01_raw/europepmc_xml/PMC10017077.xml",
+  "text_path": "02_text/europepmc/PMC10017077.txt",
+  "raw_bytes": 73872,
+  "text_chars": 20722,
+  "raw_sha256": "b61817967b65aa6378d78fea45b89de4973bd55160b1b1985d0b50badb09fa10",
+  "text_sha256": "43b86923d454c10ac636eaf7581a1fdec145b9d3495ad493d4d00e2756adea46",
+  "retrieved_at": "2026-10-26T13:26:43.124737+00:00"
+}

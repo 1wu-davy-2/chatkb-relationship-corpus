@@ -1,0 +1,158 @@
+TITLE: Intimate Partner Violence and Depressive Symptoms in Women in the Rural Region of Peru 2020 to 2022.
+AUTHORS: Cuba K, Espinoza R, Gutierrez EL.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1177/21501319261439203
+PMCID: PMC13260958
+LICENSE: cc by-nc
+LICENSE_URL: https://creativecommons.org/licenses/by-nc/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC13260958
+TOPICS: dating_violence
+
+---
+
+ABSTRACT
+AbstractObjective:To determine the relationship between intimate partner violence and depressive symptoms in women in the rural region of Peru, 2020 to 2022.Methods:Analytical cross-sectional study. We analyzed the 2020 to 2022 Demographic and Family Health Survey (ENDES) data from a subsample of partnered or ever-partnered women of childbearing age (15-49 years) residing in rural areas. Multivariate analysis was performed using a Poisson regression model with robust variance, accounting for the complex survey design. Adjusted prevalence ratios (aPR) with 95% confidence intervals (95% CI) are reported.Results:A total of 6797 eligible women were included. The prevalence of depressive symptoms was 5.7%, and 38.4% reported experiencing any form of intimate partner violence (IPV). The variables independently associated with depressive symptoms were physical violence (aPR = 3.37; 95% CI: 2.14-5.32), psychological violence (aPR = 2.21; 95% CI: 1.79-2.71), unmarried marital status (aPR = 1.57; 95% CI: 1.29-1.91), speaking a native language (aPR = 1.44; 95% CI: 1.19-1.76), and a history of physical abuse by the father (aPR = 2.38; 95% CI: 1.57-3.62).Conclusions:In the present study, an association was found between intimate partner violence in its dimensions of physical and psychological violence, with the presence of depressive symptoms. These findings underscore the need for integrated public health interventions that address violence prevention and mental health support in rural contexts.Keywords: depression, intimate partner violence, women, rural health, Peru
+
+BODY
+Introduction
+
+Depression is one of the most prevalent mental disorders globally and a leading cause of disability, disproportionately affecting women. 1 Intimate partner violence (IPV), recognized as a severe public health issue and human rights violation, is a key psychosocial risk factor for depression.2,3 Exposure to IPV can initiate a cycle of vulnerability that impairs quality of life and social functioning, with effects often mediated through chronic stress, trauma, and social isolation. 4 This relationship is critically exacerbated in contexts of structural vulnerability, such as rural settings, where patriarchal norms, economic hardship, and limited access to services converge.5,6
+
+A comprehensive understanding of intimate partner violence (IPV) requires an ecological framework. This theoretical model conceptualizes violence as operating across multiple, interrelated levels: the individual level (eg, personal history and childhood experiences), the relationship level (eg, partner dynamics and family interactions), the community level (eg, social networks and neighborhood norms), and the structural level (eg, gender inequality, poverty, and institutional policies). This model highlights that individual risk cannot be separated from the broader social and structural context in which violence occurs. In rural Peru, these levels intersect with significant force; community-level patriarchal norms frequently normalize aggression, household economic instability intensifies relational tension, and structural deficiencies in rural health infrastructure leave survivors with limited pathways for support.7,8
+
+In Peru, the prevalence of IPV exceeds the regional average, with a reported figure of 38.7% in the period 2015 to 2017, where psychological and physical forms were the most frequent. 5 Studies agree that women from rural areas are affected in greater proportion.5,6 Additionally, rural migrant women are 15% more likely to suffer from IPV compared to non-migrant women. 9
+
+Regarding depression, although the national prevalence of depressive symptoms in Peru was 6.2% in a 2018 study, a critical gap in access to treatment is highlighted, particularly in rural and low-income areas, where a lower proportion of cases receive adequate care. 10 Although mental health services have been decentralized through Community Mental Health Centers, coverage remains insufficient to meet demand in non-urban regions. 11
+
+Currently, there is little specific evidence on the relationship between IPV and depressive symptomatology in women in rural Peruvian areas. Most epidemiological studies focus on general or urban populations, making invisible the sociocultural particularities and access barriers specific to this group.12,13 This study therefore aims to determine the cross-sectional association between IPV and depressive symptoms among women in rural Peru from 2020 to 2022. By framing IPV as a social determinant of health embedded within structures of gender inequality and rural disadvantage, this research seeks to provide evidence for culturally appropriate, territorially based interventions that integrate violence prevention and mental health care into rural public policy.
+
+Methodology
+
+Type and Design
+
+An analytical cross-sectional study was conducted through secondary analysis of the pooled Demographic and Family Health Survey (ENDES) datasets for 2020, 2021, and 2022.
+
+Population and Sample
+
+The target population was women of childbearing age (15-49 years) living in rural Peru. The ENDES employs a probabilistic, stratified, 2-stage cluster sampling design that is representative at the national, urban, and rural levels. The analysis was restricted to women who were eligible for the Domestic Violence module, that is, those who were ever-partnered (married, cohabiting, or previously partnered). A total of 6797 women from the pooled 2020 to 2022 datasets met the eligibility criteria and had complete data for all study variables.
+
+Inclusion and Exclusion Criteria
+
+We included Peruvian women aged 15 to 49 years residing in rural areas who participated in the ENDES from 2020 to 2022 and were eligible for the Domestic Violence module. We excluded records with missing data on any study variable (n = 6797 see Figure 1 – Study flow diagram).
+
+Flowchart for sample selection.
+
+Variables and Measurement
+
+Dependent Variable
+
+The dependent variable, depressive symptoms, was measured using the Patient Health Questionnaire (PHQ-9), located in the Mental Health Section. This scale consists of 9 items with Likert-type responses ranging from 0 (not at all) to 3 (almost every day), adding up to a total score between 0 and 27, where a higher value reflects a greater severity of symptoms. 14 For this research, a total score ≥10 was considered to indicate the presence of depressive symptomatology, since, according to the instrument’s official manual, this cut-off point defines a picture of moderate depression. The instrument showed high internal consistency in the Peruvian population (α = 0.870; ω = 0.873). 15
+
+Independent Variable
+
+Intimate Partner Violence (IPV): derived from the Domestic Violence module of the ENDES administered to ever-partnered women. Three specific dimensions were considered: psychological, physical, and sexual violence.
+
+Psychological violence was defined as an affirmative report of at least 1 behavior involving control, humiliation, or threats (items 1003-1004). Physical violence was defined as an affirmative report of at least 1 act of physical aggression, including slapping, punching, kicking, or assault with an object (items A-G in section 1005). Sexual violence was defined as an affirmative report of forced sexual intercourse or other forced sexual acts (items H-I). Each dimension was operationalized as a dichotomous variable (0 = No, 1 = Yes) and analyzed independently to prevent conceptual overlap between the different forms of violence. Additionally, a composite variable termed “Any IPV” was constructed to identify participants exposed to at least 1 of the 3 forms of violence.
+
+Sociodemographic covariates included age (categorized), educational level, marital status (married or cohabiting vs unmarried, separated, divorced, or widowed), and native language (Spanish vs indigenous/native). Furthermore, a history of paternal physical abuse during childhood was included as a family history variable.
+
+Data Analysis
+
+Data from the 3 survey years were pooled. Sampling weights were adjusted by dividing the original annual weights by 3, following DHS recommendations for pooled analyses. Strata and primary sampling units were redefined to ensure uniqueness across years. All analyses incorporated adjusted weights, strata, and clusters using the complex samples module. Survey year was evaluated descriptively; no substantial heterogeneity in associations was observed across years. All analyses were conducted using Stata statistical software, version 17 (StataCorp, College Station, TX, USA), employing the complex survey design modules (svy).
+
+Descriptive statistics were calculated for all study variables. Bivariate associations between each independent variable and the presence of depressive symptoms were evaluated using the Rao-Scott chi-square test, which is a design-adjusted version of the conventional chi-square test. This test was employed because the ENDES utilizes a complex sampling design, incorporating stratification, clustering, and weighting, which invalidates simple random sampling assumptions. The Rao-Scott adjustment provides appropriate statistical significance estimates by accounting for the survey’s design structure and sampling weights. Prevalences and 95% confidence intervals (95% CI) were reported for each analyzed group.
+
+Multivariable models were specified a priori based on theoretical relevance and prior evidence. To address potential multicollinearity among the different dimensions of intimate partner violence (IPV), separate multivariable models were initially fitted for physical, psychological, and sexual violence. However, given that these dimensions represent conceptually distinct constructs, they were retained in the final model after confirming acceptable levels of multicollinearity through Variance Inflation Factor (VIF) diagnostics. adjusted prevalence ratios (aPR) with 95% Confidence Intervals (95% CI) are reported.
+
+Ethical Aspects
+
+This study was in line with the ethical principles of the Declaration of Helsinki. By using publicly accessible and anonymized secondary databases, no risk to participants was identified. The research was approved by the Ethics Committee of the Faculty of Medicine and the data were used exclusively for academic purposes, guaranteeing the confidentiality of the information.
+
+Results
+
+Sample Characteristics and Prevalence
+
+The prevalence of depressive symptoms in women of childbearing age in rural areas is 5.7%. On the other hand, the prevalence of intimate partner violence in any of its 3 forms was 38.4%. Psychological violence was the most frequent (38.3%), followed by physical violence (0.9%) and sexual violence (0.3%) (Table 1). It should be noted that the coefficients of variation for physical and sexual violence are within an “acceptable” range, while that of sexual violence presents a level of referential precision for being greater than 15%, according to the criteria of the National Institute of Statistics and Informatics of Peru, INEI.
+
+Sociodemographic Characteristics of Women of Childbearing Age From Rural Areas of Peru, 2020 to 2022.
+
+Weighted percentages according to survey complex sampling.
+
+In terms of sociodemographic characteristics, the average age of the women was 32.15 ± 9.31 years old. The age group of 25 to 34 years was the most frequent (36.6%). In terms of level of education, women with primary or secondary education predominated (84.6%). Most of the women were married at the time of the interview (69.5%). In the wealth index, the predominant group was the poor (98.9%). The most widely spoken language was Spanish (65.6%), followed by native or native languages. Finally, 2.1% of the women reported a history of physical abuse by the father.
+
+Bivariate Analysis
+
+The bivariate associations, analyzed using the Rao-Scott chi-square test to account for the complex survey design, are presented in Table 2. Depressive symptoms showed a significant statistical association (P < .001) with all dimensions of intimate partner violence (IPV). Furthermore, several sociodemographic factors were significantly linked to the presence of depressive symptoms, including older age (≥45 years: 9.7% vs 4.3% in 25- to 34-year-olds, P < .001) and educational attainment, where a higher prevalence was observed among those with low educational levels (no education: 10% vs superior: 4.5%, P < .004).
+
+Bivariate Analysis Between Depressive Symptoms and Independent Variables in Women of Childbearing Age from Rural Areas of Peru 2020 to 2022.
+
+Refers to the statistical significance obtained from the comparison of the proportions between the categories of the variables considering the complex sampling of the survey.
+
+Additional significant factors identified in the analysis included marital status (unmarried: 7.1% vs married: 5.1%, P < .001) and primary language, with indigenous speakers reporting higher rates than those who speak Castilian (indigenous: 7.2% vs Castilian: 4.9%, P < .001). Finally, women with a history of paternal abuse showed a significantly higher prevalence of symptoms compared to those without such history (yes: 12.7% vs no: 5.6%, P < .001).
+
+Multivariable Analysis
+
+In the regression analysis (Table 3), it is observed that intimate partner violence in any of its 3 forms was associated with the presence of depressive symptoms, with a crude Prevalence Ratio (cPR) of 2.48 (95% CI: 2.023-3.039). However, this variable was not included in the multivariate model to avoid multicollinearity. On the other hand, both physical and psychological violence showed a statistically significant association (P < .001) in the adjusted analysis, with aPR of 3.37 (95% CI: 2.14-5.32) and 2.21 (95% CI: 1.79-2.71), respectively.
+
+Bivariate and Multivariate Analyses Showing Crude and Adjusted Prevalence Ratios Between Depressive Symptoms and Independent Variables in Women of Childbearing Age From Rural Areas of Peru, 2020 to 2022.
+
+A generalized linear model (LGM) of the Poisson family with a link function (log) was made considering the effects of the design and weights of the complex sampling of the survey
+
+Adjusted for age, Level of education, Marital status, Language or Mother tongue, History of physical abuse by the father.
+
+Among the sociodemographic factors, significant associations were found (P < .001) for the age group 45 years and older (aPR = 2.03; 95% CI: 1.53-2.70), Unmarried marital status (aPR = 1.569; 95% CI: 1.288-1.912), and speaking a native or native language (aPR = 1.443; 95% CI: 1.185-1.757). A history of physical abuse by the father also showed a significant association (P < .001) with an aPR of 2.383 (95% CI: 1.569-3.619). The variables sexual violence, age groups of 15 to 24 years, and level of education were not statistically significant in the model.
+
+Discussion
+
+This study found a significant association between intimate partner violence, (particularly its physical and psychological forms) and depressive symptoms among rural Peruvian women, even after adjusting for key sociodemographic and childhood trauma factors. The prevalence of depressive symptoms 5.7% in women of childbearing age in rural areas. This figure is lower than that reported in previous studies conducted in Peru, which also used data from the ENDES. Thus, prevalences of 6.98% were reported for the period 2014 to 2016 16 and of 6% for the year 2020. 17 The difference could be due to methodological variations or to the exclusive focus on the rural population in our analysis.
+
+However, this prevalence is markedly lower than that reported in international contexts, such as Chile (13.6%), 18 the United States during the pandemic (31%), 19 or Malawi (47%) in adolescent and youth populations. 20 This heterogeneity can be attributed to various factors, such as the context of the pandemic caused by COVID-19, the inclusion of specific and vulnerable population groups, or differences in measurement instruments. At this juncture, the cross-cultural sensitivity of the PHQ-9 must be considered. While validated in the Peruvian population, the measurement properties and the symptomatic expression of depression may vary in rural contexts and among indigenous language speakers. Cultural and linguistic factors may influence how symptoms are interpreted and reported, representing a critical consideration when comparing prevalences across different studies or populations. 21
+
+Regarding intimate partner violence (IPV), a total prevalence of 38.4%, of which psychological violence (38.3%) is the most frequent, followed by physical violence (0.9%) and sexual violence (0.3%). The pattern of psychological violence as the most prevalent is consistent with the national and international literature.14,22 However, the prevalence of physical and sexual violence is remarkably low compared to other studies. For example, Silva et al 16 in Peru reported 12.31% for physical violence and 7.05% for sexual violence, while Brar et al 20 in Malawi found 36% and 46%, respectively. This underestimation could be due to the sensitive nature of the information, social stigma, and cultural barriers that make reporting difficult, especially in rural areas.23,24 The high coefficient of variation for sexual violence reinforces the idea that this data should be interpreted with caution.
+
+The multivariate analysis confirmed a robust association between intimate partner violence (IPV) and depressive symptoms. In the adjusted regression model, both physical and psychological violence emerged as significant and independent risk factors. These findings align with evidence reported in international settings, including China, 22 Australia, 25 and Brazil. 26 The potential mechanisms linking each form of violence to depression appear to differ. Psychological violence, characterized by coercive control, social isolation, and instilled hopelessness, is posited to erode self-esteem and emotional well-being.26,27 Conversely, physical violence inflicts not only emotional trauma but also health deterioration and altered self-perception, which may deepen feelings of worthlessness and sadness.14,28 Collectively, these results reinforce the conceptualization of IPV as a critical social determinant of mental health, embedded within structures of gender-based violence and rural inequity. The pathway from IPV to depression is multifaceted, involving chronic stress activation, physical trauma, perpetrator-imposed isolation, and the degradation of self-worth and hope.26 -28
+
+Nevertheless, due to the cross-sectional design of this study, it is not possible to establish a causal direction for this association. While theoretical and longitudinal evidence strongly suggests that IPV is a risk factor for depression, a bidirectional relationship has also been documented. Longitudinal studies, such as those conducted in rural Rwanda, demonstrate that depression can increase the risk of experiencing IPV and vice versa, creating a cycle of vulnerability. This bidirectionality may be explained by depression diminishing a woman’s capacity to negotiate safe relationships or increasing partner dependency. Consequently, longitudinal studies in the Peruvian context are required to fully elucidate these complex temporal trajectories. 29
+
+It should be noted that sexual violence did not show a significant association in the adjusted model, a result that contrasts with studies such as those of Yuan et al 22 and Silva et al, 14 but which coincides with the findings of Ahmadabadi et al. 25 The lack of a significant adjusted association for sexual violence is almost certainly due to this underreporting and the consequent small number of cases, which limited statistical power.
+
+Among the sociodemographic factors, it was found that women aged 45 years and older had a significantly higher risk of presenting depressive symptoms, which is consistent with the findings of Carpena et al 30 in Brazil and Jaucala 31 in Lima. “Unmarried” marital status was also associated with an increased risk. This result is like the findings of the study by Bastida et al, 32 who suggest that marriage can act as a protective factor through socioeconomic support and stress buffering, although the quality of the relationship is an important nuance to consider. 33
+
+Speaking an indigenous language was associated with a 44% increased likelihood of depressive symptoms (aPR = 1.44; 95% CI: 1.19-1.76). This finding underscores the heightened vulnerability of indigenous populations within rural Peru. While Zevallos. 34 found no significant difference in depression prevalence between Quechua and non-Quechua populations in their territories of origin, a significant disparity emerged upon migration to urban centers, a shift attributed to political and social exclusion. Conversely, Cjuno et al 35 reported a high depression prevalence of 38.9% among Quechua speakers in Ayacucho, noting that cultural and linguistic barriers, alongside a lack of validated diagnostic instruments, severely restrict access to mental healthcare. Consequently, the vulnerability of indigenous-speaking women reflects an intersection of gender-based violence, ethnic discrimination, and structural marginalization, all of which compound barriers to seeking help
+
+Finally, a history of physical abuse by the father showed a strong association with depression, a finding like that found by Das et al 36 in India. From a neurobiological perspective, Burani et al 37 demonstrated that corporal punishment is associated with alterations in the neural response to errors and rewards, which can predispose depressive and anxious symptomatology in adolescence and adult life.
+
+Limitations
+
+This study has several limitations. Its cross-sectional design precludes causal inference; depressive symptoms could both be a consequence of and a risk factor for IPV. Significant underreporting of IPV, especially sexual violence, is probable due to social stigma, leading to measurement bias and an underestimation of true associations.
+
+Furthermore, the disclosure of IPV tends to be higher among women who have experienced more recent, severe, or frequent episodes. This differential reporting could influence the magnitude of the associations and may limit the generalizability of these findings across the full spectrum of IPV experiences.
+
+Although we adjusted for several confounders, residual confounding from unmeasured factors (eg, social support and severity/frequency of violence) is possible. Finally, the analysis was limited to variables available in the ENDES.
+
+Finally, methodological shifts in the 2020 ENDES due to the COVID-19 pandemic must be acknowledged. During that year, face-to-face data collection for the domestic violence module was restricted to the first and last quarters, with telephone-based methods prioritized for other sections. This alteration in survey administration and the context of the pandemic itself may have influenced the measurement and reporting of IPV relative to the 2021 and 2022 periods.
+
+Conclusions and Implications
+
+Despite its inherent limitations, this study provides robust evidence of a significant association between intimate partner violence (IPV) and depressive symptoms within a vulnerable and understudied population. These findings underscore an urgent need for integrated public health strategies that strengthen community-based detection of both IPV and depression within rural primary care settings. To be effective, such interventions must be culturally and linguistically tailored to address the specific lived experiences and barriers faced by indigenous women.
+
+Furthermore, the results highlight the importance of developing prevention programs that challenge entrenched gender norms and break the intergenerational cycle of violence evidenced by the link between childhood paternal abuse and adult depression. Ultimately, addressing the mental health burden of rural women in Peru requires a shift beyond individual-focused clinical models toward a comprehensive framework that tackles the structural and social determinants of health, including gender inequality and rural marginalization.
+
+Acknowledgments
+
+The authors would like to thank the National Institute of Statistics and Informatics of Peru for the free availability of the Survey database.
+
+Footnotes
+
+ORCID iDs: Rubén Espinoza https://orcid.org/0000-0002-1459-3711
+
+Ericson L. Gutierrez https://orcid.org/0000-0003-4725-6284
+
+Author Contributions: KC: Conceptualization, Methodology, Investigation, Data management, Formal analysis, Interpretation, Writing – original draft, and Final approval of the version to be published. RE: Conceptualization, Methodology, Investigation, Data management, Formal analysis, Interpretation, Writing – original draft, and Final approval of the version to be published. ELG: Data management, Interpretation, Writing – review & editing, and Final approval of the version to be published.
+
+Funding: The authors received no financial support for the research, authorship, and/or publication of this article.
+
+The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+References

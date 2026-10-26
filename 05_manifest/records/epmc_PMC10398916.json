@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10398916",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship between emotional divorce and alexithymia among married women in Saudi Arabia.",
+  "authors": "Al-Shahrani HF, Hammad MA.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1186/s40359-023-01236-w",
+  "pmcid": "PMC10398916",
+  "url": "https://europepmc.org/article/PMC/PMC10398916",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10398916/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Background Emotional divorce occurs when a couple continues to live together due to necessity and coercion but they do not have a positive or constructive relationship, which negatively affects the stability of married life. Due to the low social acceptance of a formal divorce in the Saudi society, emotional divorce is common in several families. The rigidity of feelings and emotions within the family and the inability to express them may indicate the presence of alexithymia, which could result in the collapse of the family system and place the people involved at risk of mental health problems such as depression. Therefore, it is important to determine the prevalence of emotional divorce among married women in Saudi Arabia and to examine the relationship between emotional divorce and alexithymia. Methods Data were collected from 305 married women in Saudi Arabia (M age = 33.24 years; SD age = 4.87 years), using the Emotional Divorce Scale and the Alexithymia Scale. Results Results revealed that 78.36% of the participants experienced moderate to severe levels of emotional divorce. Working women, those who had been married for more than ten years, and those with five or more children exhibited a higher incidence of emotional divorce as compared to their counterparts. A linear regression analysis indicated that alexithymia was significantly associated with emotional divorce in this sample. Conclusion These results suggest the need for examining the negative consequences of emotional divorce on the family and society. Additionally, it is important to educate young individuals of marriageable age about the nature of married life, and ways to deal with problems that occur. Finally, couples should be encouraged to express their positive and negative emotions with their spouse to build the marital relationship, and achieve compatibility and marital satisfaction.",
+  "raw_path": "01_raw/europepmc_xml/PMC10398916.xml",
+  "text_path": "02_text/europepmc/PMC10398916.txt",
+  "raw_bytes": 115264,
+  "text_chars": 44288,
+  "raw_sha256": "8aa48ddb8ad6e2df8ae080a4a8c7770521cd6917005071ef57e5b0d2074396ae",
+  "text_sha256": "aaffe83f31df6ba577fdb79464f2aa7a75aaab60532fc83c9deaefa40ec6b28f",
+  "retrieved_at": "2026-10-25T15:47:29.448063+00:00"
+}

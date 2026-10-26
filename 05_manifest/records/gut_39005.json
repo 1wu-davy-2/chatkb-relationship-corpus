@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_39005",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "The American Gentleman's Guide to Politeness and Fashion",
+  "gutenberg_id": "39005",
+  "url": "https://www.gutenberg.org/ebooks/39005",
+  "download_url": "https://www.gutenberg.org/cache/epub/39005/pg39005.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/39005.txt",
+  "text_path": "02_text/gutenberg/gut_39005_the_american_gentleman_s_guide_to_polite.txt",
+  "raw_bytes": 742545,
+  "text_chars": 698148,
+  "text_sha256": "6e345b5d5a3039609fcc548e9eb9f0e2c01d022f8cdafbd7611ed9a6e4a94f0c",
+  "retrieved_at": "2026-10-25T15:54:25.077134+00:00"
+}

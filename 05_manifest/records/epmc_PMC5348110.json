@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5348110",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Self-disclosure on SNS: Do disclosure intimacy and narrativity influence interpersonal closeness and social attraction?",
+  "authors": "Lin R, Utz S.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.1016/j.chb.2017.01.012",
+  "pmcid": "PMC5348110",
+  "url": "https://europepmc.org/article/PMC/PMC5348110",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5348110/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_disclosure"
+  ],
+  "abstract": "On social media, users can easily share their feelings, thoughts, and experiences with the public, including people who they have no previous interaction with. Such information, though often embedded in a stream of others' news, may influence recipients' perception toward the discloser. We used a special design that enables a quasi-experience of SNS browsing, and examined if browsing other's posts in a news stream can create a feeling of familiarity and (even) closeness toward the discloser. In addition, disclosure messages can vary in the degree of intimacy (from superficial to intimate) and narrativity (from a random blather to a story-like narrative). The roles of disclosure intimacy and narrativity on perceived closeness and social attraction were examined by a 2 × 2 experimental design. By conducting one lab study and another online replication, we consistently found that disclosure frequency, when perceived as appropriate, predicted familiarity and closeness. The effects of disclosure intimacy and narrativity were not stable. Further exploratory analyses showed that the roles of disclosure intimacy on closeness and social attraction were constrained by the perceived appropriateness, and the effects of narrativity on closeness and social attraction were mediated by perceived entertainment value.",
+  "raw_path": "01_raw/europepmc_xml/PMC5348110.xml",
+  "text_path": "02_text/europepmc/PMC5348110.txt",
+  "raw_bytes": 137608,
+  "text_chars": 47259,
+  "raw_sha256": "1656eb81012289f1aeb8b7d67e5919e7b85c121733468aaee7a91ae632e9b195",
+  "text_sha256": "c3071395dcf1e6b35fc1303e3c4d1c91b536a0f7b9c717f6bcb7a07aed568182",
+  "retrieved_at": "2026-10-25T15:39:38.877490+00:00"
+}

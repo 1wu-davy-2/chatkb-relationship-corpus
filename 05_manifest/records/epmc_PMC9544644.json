@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9544644",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Thematic analysis of therapists' experiences integrating EMDR and EFT in couple therapy: Theoretical and clinical complementarity, and benefits to client couples.",
+  "authors": "Linder JN, Niño A, Negash S, Espinoza S.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1111/jmft.12587",
+  "pmcid": "PMC9544644",
+  "url": "https://europepmc.org/article/PMC/PMC9544644",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9544644/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "In this article, we present partial findings from a thematic analysis study that examined integrating emotionally focused therapy (EFT) and eye-movement desensitization and reprocessing (EMDR) as clinical frameworks in couple therapy. The purpose of the study is to better understand how therapists integrate EFT and EMDR therapy in their clinical work. Thirteen licensed therapists (n = 13) trained in EFT and EMDR were interviewed about their experiences integrating these two models in their couple therapy practice. The findings included in this article are related to how these models complement each other as well as the clinical benefits associated with their integration. Findings provide preliminary evidence that there are benefits and challenges when integrating both models, although we emphasize complementarity in this article. Limitations and implications for future research on the integration and efficacy of these two models are also discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC9544644.xml",
+  "text_path": "02_text/europepmc/PMC9544644.txt",
+  "raw_bytes": 125839,
+  "text_chars": 54198,
+  "raw_sha256": "60ea7f7fd94ec84f4f6808911c436cc8f2fac4225df5ba124d5f8b8f12fbc37c",
+  "text_sha256": "a44402f83554bbffb59e442ce3598da74349f600518518afe0b8787d64c1ad36",
+  "retrieved_at": "2026-10-25T15:49:27.993177+00:00"
+}

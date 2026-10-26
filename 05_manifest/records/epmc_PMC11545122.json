@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11545122",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Coercive Control in 2SLGBTQQIA+ Relationships: A Scoping Review.",
+  "authors": "Zoe Hilton N, Ham E, Radatz DL, Smith CM, Snow N, Wintermute J, Jennings-Fitz-Gerald E, Lee J, Patterson S.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/15248380241257957",
+  "pmcid": "PMC11545122",
+  "url": "https://europepmc.org/article/PMC/PMC11545122",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11545122/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Existing measures and theories of intimate partner coercive control largely evaluate men's coercion of women. The extent of knowledge pertaining to intimate relationships among other genders and sexual identities is unclear. Guided by a theoretical framework of intersectionality, we examined and synthesized original studies on coercive control by (perpetration) or against (victimization) Two Spirit, lesbian, gay, bisexual, trans, queer, questioning, intersex, and asexual individuals within intimate partner relationships. We searched eight academic databases for records from 2014 through 2022 and hand-searched review articles' reference lists, supplemented with gray literature and website searches. Using duplicate screening, we identified 1,774 unique documents; 526 met preliminary eligibility criteria and 277 were retained for data extraction in duplicate. Coercive control was more common among minority individuals and was related to mental health challenges. Few studies reported on gender- or sexual-identity specific forms of coercive control, and an intersectional focus was uncommon. This review revealed a lack of agreed definition of coercive control or accepted standard of measurement, and a gap in research with individuals who identify as gender diverse, gender fluid or intersex, or those identifying their sexuality as asexual, pansexual, or sexually diverse.",
+  "raw_path": "01_raw/europepmc_xml/PMC11545122.xml",
+  "text_path": "02_text/europepmc/PMC11545122.txt",
+  "raw_bytes": 179256,
+  "text_chars": 43903,
+  "raw_sha256": "97495b8d31a742b2774b3c6607e8ea091157fa4d08ecab96b7202ba8f0e9ff5d",
+  "text_sha256": "42f459a79dfc6976d42750408196001a240b61ac01c557e15b91a0f683f536a7",
+  "retrieved_at": "2026-10-25T15:48:00.064155+00:00"
+}

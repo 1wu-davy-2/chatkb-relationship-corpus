@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_24138",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "官場現形記",
+  "gutenberg_id": "24138",
+  "url": "https://www.gutenberg.org/ebooks/24138",
+  "download_url": "https://www.gutenberg.org/cache/epub/24138/pg24138.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/24138.txt",
+  "text_path": "02_text/gutenberg/gut_24138_官場現形記.txt",
+  "raw_bytes": 2001255,
+  "text_chars": 669226,
+  "text_sha256": "9b0d18160e804d24b090df27c0bace23f27017515858a9724d4e736da023ce9b",
+  "retrieved_at": "2026-10-25T15:46:21.821878+00:00"
+}

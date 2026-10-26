@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12518378",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Interplay of Religion and Singlehood: A Qualitative Study of Christian Single Adults Living in Poland.",
+  "authors": "Pietrzak S, Adamczyk K, Zarzycka B.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10943-025-02345-z",
+  "pmcid": "PMC12518378",
+  "url": "https://europepmc.org/article/PMC/PMC12518378",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12518378/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "Previous research has suggested that religion and spirituality may play positive and negative functions in single people's lives. However, while prior studies have provided initial findings, a more comprehensive and thorough exploration of the role of religion in the experience of singlehood is required. To address this gap in the literature, qualitative interview-based research was performed with a sample of 30 single Christian adults living in Poland aged 19-63 years (M = 35.37; SD = 10.27), namely, 16 women and 14 men. The reflexive thematic analysis identified three major themes: 1) religion as a source of negative experiences associated with singlehood, 2) religion as an aid in mitigating negative experiences associated with singlehood, and 3) religion as a criterion for choosing a life partner and the foundation of an intimate relationship. The identified themes imply that the functions of religion in the experience of adult singlehood may reflect religious attributions employed by single individuals to make meaning of their single status, regain a sense of control in their lives and preserve positive self-esteem while remaining single. The findings highlight the importance of religion in interpreting the determinants, nature, and outcomes of singlehood among single Christian individuals.",
+  "raw_path": "01_raw/europepmc_xml/PMC12518378.xml",
+  "text_path": "02_text/europepmc/PMC12518378.txt",
+  "raw_bytes": 168305,
+  "text_chars": 65529,
+  "raw_sha256": "ea77835ca2857567576338108dd0674f02d0d144d1c7b8e0c3b4614fb5857e91",
+  "text_sha256": "ffbdf08b42917d5416cb566bd9d53be734ae4673eea2ea29c1217139e2d2cbaa",
+  "retrieved_at": "2026-10-25T13:51:49.877967+00:00"
+}

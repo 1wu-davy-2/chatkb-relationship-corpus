@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13585709",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Does negative marriage discourse on social media deter marriage? Evidence from Weibo users in urban China.",
+  "authors": "Chen Y, Zhang L, Jiang Y, Zaremohzzabieh Z, Ma'rof AA.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1902706",
+  "pmcid": "PMC13585709",
+  "url": "https://europepmc.org/article/PMC/PMC13585709",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13585709/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_attitudes"
+  ],
+  "abstract": "Introduction Marriage-related discourse on social media has become a prominent source of social influence, yet its impact on women's marriage-related cognitions in contemporary China remains underexplored. This study integrates the Elaboration Likelihood Model (ELM) and the Theory of Planned Behaviour (TPB) to examine how characteristics of Weibo marriage comments influence marriage attitudes and intentions among unmarried Chinese women. Methods A cross-sectional survey was conducted with 373 unmarried women in Guangzhou, China. The proposed research model incorporated ELM constructs (argument quality, source credibility, and personal relevance) and TPB constructs (marriage attitude, subjective norms, perceived behavioural control, and marriage intention). Data were analysed using partial least squares structural equation modelling (PLS-SEM). Results Both argument quality and source credibility were negatively associated with marriage attitude and marriage intention. Marriage attitude served as a complementary mediator in these relationships, indicating that online comment characteristics influence intention both directly and indirectly via attitudinal evaluations. Personal relevance moderated the effects of comment characteristics on marriage attitude, suggesting that women with higher self-relevance were more responsive to online cues. Additionally, subjective norms, marriage attitude, and perceived behavioural control positively predicted marriage intention. Discussion These findings extend theoretical understanding of the psychological processes through which social media discourse shapes marriage-related decision-making. They also highlight the role of digital environments in influencing personal attitudes and intentions. The study offers practical implications for clinicians and counselors supporting unmarried women navigating relationship beliefs and marriage-related concerns in digitally mediated contexts.",
+  "raw_path": "01_raw/europepmc_xml/PMC13585709.xml",
+  "text_path": "02_text/europepmc/PMC13585709.txt",
+  "raw_bytes": 163246,
+  "text_chars": 57929,
+  "raw_sha256": "fc3ff888876400565829e39c7c84eb0cadf6e0ec5f5d003a2dd5d41658cdf976",
+  "text_sha256": "70575bd9410dade6590654d60339fdd482a8504cf5d7bafd1e07dd6c951e868f",
+  "retrieved_at": "2026-10-25T15:27:09.772549+00:00"
+}

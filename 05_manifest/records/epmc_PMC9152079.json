@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9152079",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "We Don't Choose Whom We Love: Predictors for Romantic Attraction to Villains.",
+  "authors": "Frowijn I, Vos LMW, Masthoff E, Bogaerts S.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2022.802988",
+  "pmcid": "PMC9152079",
+  "url": "https://europepmc.org/article/PMC/PMC9152079",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9152079/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Introduction Why are women (not) romantically attracted to dark personalities or villains, which might be a risk factor for intimate partner violence (IPV) victimization? In the current study, it is opted to investigate how adult attachment, maladaptive personality traits, and acceptance of couple violence in women predict romantic attraction to heroic/villainous characters using structural equation modeling (SEM). Method First, a pilot study was conducted in 122 heterosexual women (aged 16-25) to select male TV characters. This resulted in the selection of six villains and 10 heroes for the main study, in which 194 other heterosexual women (aged 16-25) were asked to rate the pictures of TV characters through an online questionnaire. This was combined with self-report measures of maladaptive personality traits, acceptance of couple violence, and adult attachment. These variables were entered into a SEM model to assess model fit. Results Overall, women rated heroes higher on physical appearance (pilot study) and romantic attraction (main study) compared to villains. We found different direct effects of avoidant (negative) and anxious (positive) attachment styles on romantic attraction to heroes. Moreover, maladaptive personality traits fully mediated the positive effect of avoidant attachment style on romantic attraction to villains. Discussion Despite the limitations of the study design (e.g., low N , low notoriety of the TV characters), this study emphasizes that women are generally more romantically attracted to heroes (vs. villains). Besides, there are different predictors of romantic attraction to heroes and villains, which requires further investigation, especially in the context of IPV.",
+  "raw_path": "01_raw/europepmc_xml/PMC9152079.xml",
+  "text_path": "02_text/europepmc/PMC9152079.txt",
+  "raw_bytes": 199547,
+  "text_chars": 60789,
+  "raw_sha256": "8b32bfbf869fe6f923a57a9f40584440169f9a2aa328cbdf4963904ad7d1ad80",
+  "text_sha256": "c08375c3df8e9111479475e35f3f3f3e3476baa009a2927f95c6fe16949a1e1f",
+  "retrieved_at": "2026-10-25T15:46:48.211761+00:00"
+}

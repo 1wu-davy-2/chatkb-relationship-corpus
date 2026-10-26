@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10669286",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring Emotional Intelligence and Sociodemographics in Higher Education; the Imperative for Skills and Curriculum Development.",
+  "authors": "Abouhasera S, Abu-Madi M, Al-Hamdani M, Abdallah AM.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3390/bs13110911",
+  "pmcid": "PMC10669286",
+  "url": "https://europepmc.org/article/PMC/PMC10669286",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10669286/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "There is increasing interest in understanding the nature and impact of emotional intelligence (EI) in educational institutions and the workplace since EI is associated with academic performance, career success, job satisfaction, and management skills. Here we measured EI levels in students and employees at Qatar University and examined associations with sociodemographic variables. This cross-sectional study used the Trait Emotional Intelligence Questionnaire-Short Form (TEIQue-SF) questionnaire to quantify EI. Of 517 respondents, 315 were students and 202 were employees. The mean global EI level across all participants was 4.80 ± 0.78, with EI highest in the well-being domain (5.43 ± 1.04). Overall, older respondents had higher EI than younger respondents. There was no significant effect of gender, marital status, or employment position on EI. However, there were significant two- and three-way interactions. As a standalone variable, age was the most important factor influencing EI development in our cohort. However, three-way interactions revealed complex effects between age, gender, and marital status and EI. Our findings support a need for workshops on EI for employees and integrating dedicated courses into existing curricula to equip students with effective interpersonal relationship skills that foster EI development. Developing such interpersonal skills could help to promote personal, professional, and academic success.",
+  "raw_path": "01_raw/europepmc_xml/PMC10669286.xml",
+  "text_path": "02_text/europepmc/PMC10669286.txt",
+  "raw_bytes": 119415,
+  "text_chars": 29679,
+  "raw_sha256": "97dd871e908e9b2d5038a7c6033bb6787ce650a4db66ca0c8218c7c744cf3b27",
+  "text_sha256": "494bebbfd2f341b3d9300765330e9d355ac940901ea5c20865f637d5b0efa8cc",
+  "retrieved_at": "2026-10-25T15:42:28.601123+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_37988",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "The Ladies' Guide to True Politeness and Perfect Manners",
+  "gutenberg_id": "37988",
+  "url": "https://www.gutenberg.org/ebooks/37988",
+  "download_url": "https://www.gutenberg.org/cache/epub/37988/pg37988.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/37988.txt",
+  "text_path": "02_text/gutenberg/gut_37988_the_ladies_guide_to_true_politeness_and.txt",
+  "raw_bytes": 524772,
+  "text_chars": 494075,
+  "text_sha256": "542c02aa0a2dfc50af6575c5a0078152ad5dd7e6685132efc8f02cb82710edea",
+  "retrieved_at": "2026-10-25T15:54:48.204896+00:00"
+}

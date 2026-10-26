@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8170365",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Perceived Stress, supportive dyadic coping, and sexual communication in couples.",
+  "authors": "Yurkiw J, Johnson MD.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1177/0265407521996446",
+  "pmcid": "PMC8170365",
+  "url": "https://europepmc.org/article/PMC/PMC8170365",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8170365/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_communication"
+  ],
+  "abstract": "This study investigated associations between perceived stress and sexual communication, considering supportive dyadic coping as a potential mediator and whether being male or female moderated associations. Data from 2,529 couples from Wave 5 of the German Family Panel (pairfam) were used in the analyses. Structural equation modeling results showed higher levels of stress were linked with lower levels of dyadic coping and higher levels of dyadic coping were associated with higher levels of sexual communication. There was no direct association between stress and sexual communication, but there was an indirect relationship between higher levels of perceived stress and less sexual communication via supportive dyadic coping. Sex did not moderate these associations. These results highlight supportive dyadic coping as an important protective factor against the effects of perceived stress on sexual communication and call for further investigation of how couples can maintain a healthy sex life in the face of stress.",
+  "raw_path": "01_raw/europepmc_xml/PMC8170365.xml",
+  "text_path": "02_text/europepmc/PMC8170365.txt",
+  "raw_bytes": 53759,
+  "text_chars": 19310,
+  "raw_sha256": "59104a2ad987e11e18832b43a7c1727e1df86446f9c23742f2ac00699db42fec",
+  "text_sha256": "edd098c8571da741c9c67927c416aa67b4e167f5b2ca798a75b1c8a9eb76ba55",
+  "retrieved_at": "2026-10-25T14:00:32.022807+00:00"
+}

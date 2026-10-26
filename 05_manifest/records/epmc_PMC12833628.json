@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12833628",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual health interventions for treating sexual dysfunction in women with female genital mutilation: A systematic review.",
+  "authors": "Okomo U, Oringanje C, Nwaneri-Ogugbue M, Inyang E, Okusanya B, Okoh PF, Otonkue M, Meremikwu M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1002/ijgo.70761",
+  "pmcid": "PMC12833628",
+  "url": "https://europepmc.org/article/PMC/PMC12833628",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12833628/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_therapy_interventions"
+  ],
+  "abstract": "Background Female sexual dysfunction (FSD), characterized by persistent problems with desire, arousal, orgasm, or pain, can occur in women with any type of female genital mutilation (FGM) as a result of anatomical changes, pain, or psychological trauma. Objectives To systematically review the evidence on the effects of non-surgical interventions, including sexual counseling, mechanical devices, and lubricants, on the sexual function in women living with FGM. Search strategy A comprehensive search was conducted in CINAHL Plus, IRIS, MEDLINE (Ovid), PsycINFO (EBSCOhost), SCOPUS, and Web of Science from inception to November 2025. Reference lists were hand-searched and study authors contacted for additional data. Selection criteria Studies were eligible if they involved women with any type of FGM who received non-surgical interventions for FSD. Data collection and analysis One controlled trial met the inclusion criteria. Data were extracted independently by two reviewers, and the certainty of the evidence was assessed using the GRADE approach. Main results In women with Type I FGM, use of the FDA-approved Eros-Clitoral Therapy Device (CTD) combined with psychotherapy led to statistically significant improvements across all domains of the Female Sexual Function Index compared with psychotherapy alone. In the control group, only orgasm scores improved. Conclusions Evidence on non-surgical interventions for FSD in women with FGM is extremely limited and based solely on a small single trial in women with Type I FGM. Although Eros-CTD shows promise, findings cannot be generalized to other FGM types, and data on safety and contraindications are lacking. Further research is needed across diverse populations and FGM types to inform practice and policy.",
+  "raw_path": "01_raw/europepmc_xml/PMC12833628.xml",
+  "text_path": "02_text/europepmc/PMC12833628.txt",
+  "raw_bytes": 97787,
+  "text_chars": 32477,
+  "raw_sha256": "52bdc02a2d638b83d79ef697164552d93d17cec0113a287aa638b91e0374a665",
+  "text_sha256": "344eab27e8c0fe8327e02a9ca80173f69ca441f635f21b3e6512570800ed276f",
+  "retrieved_at": "2026-10-26T12:57:19.534947+00:00"
+}

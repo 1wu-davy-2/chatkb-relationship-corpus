@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_cognitive_bias",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "認知偏誤",
+  "requested_title": "认知偏差",
+  "url": "https://zh.wikipedia.org/wiki/%E8%AA%8D%E7%9F%A5%E5%81%8F%E8%AA%A4",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "cognition",
+    "bias"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/cognitive_bias.json",
+  "text_path": "02_text/zh_wikipedia/cognitive_bias.txt",
+  "raw_bytes": 4312,
+  "text_chars": 1709,
+  "text_sha256": "4ed8f34859063afb439e3061f097cc06e895ccf89c9abee9b7886049fbb4d312",
+  "retrieved_at": "2026-10-25T15:33:17.875043+00:00"
+}

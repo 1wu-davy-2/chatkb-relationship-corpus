@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10523183",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Prevalence and risk factors for nonconsensual distribution of intimate images among Italian young adults: Implications for prevention and intervention.",
+  "authors": "Brighi A, Amadori A, Summerer K, Menin D.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1016/j.ijchp.2023.100414",
+  "pmcid": "PMC10523183",
+  "url": "https://europepmc.org/article/PMC/PMC10523183",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10523183/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Nonconsensual distribution of intimate images (NCII), also known as revenge porn, has become a significant social issue in recent years, with severe consequences for victims. The present study aimed to investigate the prevalence and predictors of NCII victimization among young Italian adults, focusing on the role of sexting, intimate partner violence (IPV), impulsivity, and self-disclosure. An online survey was conducted among a sample of 2047 Italian young adults ( F = 29.3 %, M = 53.4 %, Not Indicated=16.9 %; mean age = 24.4, SD = 4.4) using a convenience sample recruited through internet. The survey included questions on NCII victimization, sexting behavior, sextortion, and IPV. Our findings showed that 33.9 % of respondents reported engaging in sexting behavior, with females being three times more likely to engage in sexting than males. Furthermore, 3.3 % of participants reported being victims of NCII, with over one-third of victims experiencing three or more types of NCII victimization. Multiple regression analysis revealed that sexting and IPV were significant predictors of NCII victimization, and the interaction effect between self-disclosure and impulsivity was also a significant predictor. This study contributes to the understanding of NCII in Italy and highlights the need for interventions and prevention strategies to address both NCII and IPV, given their strong continuity. The results also suggest that the relationship between self-disclosure, impulsivity, IPV, and NCII victimization is complex and requires further investigation, suggesting a scenario where the climate of violence may impair the victim's decision-making.",
+  "raw_path": "01_raw/europepmc_xml/PMC10523183.xml",
+  "text_path": "02_text/europepmc/PMC10523183.txt",
+  "raw_bytes": 156374,
+  "text_chars": 52955,
+  "raw_sha256": "db8c770f440c5503999b276fd963b7bf3ba6e47807ce8cdb4f63715bbde43a22",
+  "text_sha256": "7ca2746eb3d028d9aa18aa10cb9bd710b00bca50d7e100dc12f9619f9dd701d6",
+  "retrieved_at": "2026-10-26T12:57:17.212650+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9825982",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Where to draw the line? The influence of prior relationship, perpetrator-target sex and perpetrator motivation on the point at which behavior 'crosses the line' and becomes stalking.",
+  "authors": "Scott AJ, Stathi S, Burniak V.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1002/bsl.2592",
+  "pmcid": "PMC9825982",
+  "url": "https://europepmc.org/article/PMC/PMC9825982",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9825982/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "The present study examines the influence of prior relationship (intimate, non-intimate), perpetrator-target sex (male-female, female-male) and perpetrator motivation (romance, upset) on (1) the point at which behavior crosses the line and becomes stalking, and (2) the likelihood of offering five forms of advice to the target (formal support, informal support, protective measures, avoidance measures, threatening action). The study used a 2 × 2 × 2 between-participants experimental design. Four-hundred and sixty-one UK students read one of eight versions of a hypothetical scenario that they were informed may or may not depict a stalking situation. Analyses revealed that 97.8% (n = 451) of participants believed the perpetrator's behavior constituted stalking, and that behavior was perceived to cross the line earlier in the scenario when the perpetrator's motivation was to upset the target in the context of a non-intimate prior relationship only. Prior relationship, perpetrator-target sex and perpetrator motivation also influenced the likelihood of offering various forms of advice to the target. These findings further demonstrate the impact of situational characteristics on perceptions of stalking and highlight the importance of educational campaigns and programs to increase people's understanding of stalking.",
+  "raw_path": "01_raw/europepmc_xml/PMC9825982.xml",
+  "text_path": "02_text/europepmc/PMC9825982.txt",
+  "raw_bytes": 164107,
+  "text_chars": 61385,
+  "raw_sha256": "dea7ebc2f46303e89a8b908687fafd9e09d89e43d14da545ba7435d872629d33",
+  "text_sha256": "465b068890f8803431f159e66bf70d03be73536fd4ea372d8aaa1f223fc70ce0",
+  "retrieved_at": "2026-10-25T15:35:28.075178+00:00"
+}

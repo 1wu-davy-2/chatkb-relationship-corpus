@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7492336",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Opposites Attract: Assortative Mating and Immigrant-Native Intermarriage in Contemporary Sweden.",
+  "authors": "Elwert A.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1007/s10680-019-09546-9",
+  "pmcid": "PMC7492336",
+  "url": "https://europepmc.org/article/PMC/PMC7492336",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7492336/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_market"
+  ],
+  "abstract": "This paper studies how immigrant-native intermarriages in Sweden are associated with individual characteristics of native men and women and patterns of assortative mating. Patterns of educational- and age-assortative mating that are similar to those found in native-native marriages may reflect openness to immigrant groups, whereas assortative mating patterns that indicate status considerations suggest that country of birth continues to serve as a boundary in the native marriage market. The study uses Swedish register data that cover the entire Swedish population for the period of 1991-2009. The results from binomial and multinomial logistic regressions show that low status of natives in terms of economic and demographic characteristics is associated with intermarriage and that intermarriages are characterized by educational and age heterogamy more than are native-native marriages. The findings indicate that immigrant women as well as immigrant men become more attractive marriage partners if they are considerably younger than their native spouses. This is particularly true for intermarriages with immigrants from certain regions of origin, such as wives from Asia and Africa and husbands from Asia, Africa, and the Middle East. Gender differences in the intermarriage patterns of native men and women are surprisingly small.",
+  "raw_path": "01_raw/europepmc_xml/PMC7492336.xml",
+  "text_path": "02_text/europepmc/PMC7492336.txt",
+  "raw_bytes": 176097,
+  "text_chars": 67011,
+  "raw_sha256": "b3d531db21e1469870d57f9fe1e59c4736a957df172af6b812fd2deded5aaa86",
+  "text_sha256": "6608f283b115ab0b96bb81e6060e7b3e5565d36650d883ae7ff92352abb45177",
+  "retrieved_at": "2026-10-25T15:37:50.524140+00:00"
+}

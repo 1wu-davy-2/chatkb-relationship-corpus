@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9541508",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Pathological narcissism: An analysis of interpersonal dysfunction within intimate relationships.",
+  "authors": "Day NJS, Townsend ML, Grenyer BFS.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1002/pmh.1532",
+  "pmcid": "PMC9541508",
+  "url": "https://europepmc.org/article/PMC/PMC9541508",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9541508/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Pathological narcissism is marked by deficits in psychosocial functioning. Difficulties in relationships include instances of aggression, devaluation and control; however, few studies have examined these relationships from the perspective of partners and family members. We studied participants who were in relationships with relatives high in narcissistic traits (N = 436; current romantic partners [57.3%]; former romantic partners [21.1%]; family members [15.4%]). Participant responses were analysed thematically, and their underlying mental health problems were also measured. Thematic analysis of participant responses indicated themes of abuse from the relative with narcissism (physical, verbal, emotional and sexual) as well as the relative imposing challenging financial and sexual behaviours. There were complex interpersonal themes of mutual idealization but also devaluation. In response, participants reported high levels of anxiety, depression, self-aggression, sickness and somatic concerns. Further, participants expressed overt outward hostility towards their relative with narcissism, but also dependency strivings and frustrated dependency themes. Partners and their relative with narcissism appeared locked into interpersonal and intrapersonal dynamic conflicts. Clinical implications include specific attendance to alliance issues, dependency themes, and a focus on limit setting to establish personal safety.",
+  "raw_path": "01_raw/europepmc_xml/PMC9541508.xml",
+  "text_path": "02_text/europepmc/PMC9541508.txt",
+  "raw_bytes": 144497,
+  "text_chars": 42680,
+  "raw_sha256": "7e204c1df5add1b14d873c625de7c66f437c2b10a53e3dbd31389c8e94f690b8",
+  "text_sha256": "4d3642d21ff989651c5e0f825d9b7f55dc82c09679e7a45439cf77f1c61bc014",
+  "retrieved_at": "2026-10-25T15:41:04.104484+00:00"
+}

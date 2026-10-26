@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC10899422",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Love songs and serenades: a theoretical review of music and romantic relationships.",
+  "authors": "Bamford JS, Vigl J, Hämäläinen M, Saarikallio SH.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2024.1302548",
+  "pmcid": "PMC10899422",
+  "url": "https://europepmc.org/article/PMC/PMC10899422",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10899422/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction",
+    "intimacy"
+  ],
+  "abstract": "In this theoretical review, we examine how the roles of music in mate choice and social bonding are expressed in romantic relationships. Darwin's Descent of Man originally proposed the idea that musicality might have evolved as a sexually selected trait. This proposition, coupled with the portrayal of popular musicians as sex symbols and the prevalence of love-themed lyrics in music, suggests a possible link between music and attraction. However, recent scientific exploration of the evolutionary functions of music has predominantly focused on theories of social bonding and group signaling, with limited research addressing the sexual selection hypothesis. We identify two distinct types of music-making for these different functions: music for attraction, which would be virtuosic in nature to display physical and cognitive fitness to potential mates; and music for connection, which would facilitate synchrony between partners and likely engage the same reward mechanisms seen in the general synchrony-bonding effect, enhancing perceived interpersonal intimacy as a facet of love. Linking these two musical functions to social psychological theories of relationship development and the components of love, we present a model that outlines the potential roles of music in romantic relationships, from initial attraction to ongoing relationship maintenance. In addition to synthesizing the existing literature, our model serves as a roadmap for empirical research aimed at rigorously investigating the possible functions of music for romantic relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC10899422.xml",
+  "text_path": "02_text/europepmc/PMC10899422.txt",
+  "raw_bytes": 339450,
+  "text_chars": 102618,
+  "raw_sha256": "8e9cdd9036e0cb8ca65cf63687732b4a9001160f65194e60a626e777157e5d56",
+  "text_sha256": "95925b89c711553518a7ca04c42d171828ea507fc29cf64cbd275e4cb9b8bce9",
+  "retrieved_at": "2026-10-25T13:58:21.993556+00:00"
+}

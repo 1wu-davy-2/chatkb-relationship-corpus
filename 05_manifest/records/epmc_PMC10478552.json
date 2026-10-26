@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10478552",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Work-Family Conflict and Depressive Symptoms of Married Working Women in Korea: The Role of Marriage Satisfaction and Organizational Gender Discrimination Climate.",
+  "authors": "Kim JY, Jung GH, Kim JH.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/23779608231196841",
+  "pmcid": "PMC10478552",
+  "url": "https://europepmc.org/article/PMC/PMC10478552",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10478552/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "gender_roles"
+  ],
+  "abstract": "Introduction Depression is increasing worldwide. Some previous studies have explored the impact of work-family conflict on depressive symptoms of married working women. However, little is known about the moderating relationship underlying them. Objectives This study aims to determine the moderating effects of marriage satisfaction and organizational gender discrimination climate in the relationship between work-family conflict and depressive symptoms of married working women in Korea. Methods A cross-sectional study was conducted using the data of the 8th Korean Longitudinal Survey of Women and Families (KLoWF). The data of 1,816 married working women employed and paid by an individual or an enterprise were analyzed. Results The work-family conflict had a significant effect on depressive symptoms of married working women. In the dynamics between work-family conflict and depressive symptoms, no significant moderating effect of marriage satisfaction was found. On the contrary, the organizational gender discrimination climate displayed a moderating effect on the relationship between work-family conflict and depressive symptoms. Conclusion Nursing strategies in the workplace or community are needed so that married working women can cope positively and actively between work-family conflicts and maintain healthy mental health. To this end, gender role awareness education should be prioritized to improve awareness of gender discrimination in the workplace. In addition, nursing interventions such as linking local or government support and information delivery should be provided so that married working women can be consulted about situations related to work-family conflicts or gender discrimination climate.",
+  "raw_path": "01_raw/europepmc_xml/PMC10478552.xml",
+  "text_path": "02_text/europepmc/PMC10478552.txt",
+  "raw_bytes": 100129,
+  "text_chars": 34529,
+  "raw_sha256": "d31159f56a20a7e8b014b7b80006010c4128ca5a30a8ea9af4fc91af13705e84",
+  "text_sha256": "45704cc9b0203ef8bcd84a69f8eb1a9d59898b8d0821182cfaa2f0a5191e6a75",
+  "retrieved_at": "2026-10-25T15:32:41.091881+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_23873",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "詩經",
+  "gutenberg_id": "23873",
+  "url": "https://www.gutenberg.org/ebooks/23873",
+  "download_url": "https://www.gutenberg.org/cache/epub/23873/pg23873.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/23873.txt",
+  "text_path": "02_text/gutenberg/gut_23873_詩經.txt",
+  "raw_bytes": 147059,
+  "text_chars": 43773,
+  "text_sha256": "7c406ffbed022b5ed590b1123e7a294f9affba0bdb5b4c7f07095833766612d6",
+  "retrieved_at": "2026-10-25T15:44:38.882693+00:00"
+}

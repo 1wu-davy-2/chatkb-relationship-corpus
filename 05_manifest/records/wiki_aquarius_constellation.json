@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_aquarius_constellation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "寶瓶座",
+  "requested_title": "水瓶座",
+  "url": "https://zh.wikipedia.org/wiki/%E5%AF%B6%E7%93%B6%E5%BA%A7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 寶瓶座",
+  "topics": [
+    "zodiac",
+    "astronomy"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/aquarius_constellation.json",
+  "text_path": "02_text/zh_wikipedia/aquarius_constellation.txt",
+  "raw_bytes": 5809,
+  "text_chars": 2609,
+  "text_sha256": "f3b3c82bcd90192e4141fbe5824ba0ffe0b5819750e088a1adc3333d3a8ed5be",
+  "retrieved_at": "2026-10-26T13:05:25.578542+00:00"
+}

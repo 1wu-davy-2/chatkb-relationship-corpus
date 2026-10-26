@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC3980098",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Free will and paranormal beliefs.",
+  "authors": "Mogi K.",
+  "year": "2014",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2014.00281",
+  "pmcid": "PMC3980098",
+  "url": "https://europepmc.org/article/PMC/PMC3980098",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3980098/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "astrology_belief",
+    "astrology_personality_validity"
+  ],
+  "abstract": "Free will is one of the fundamental aspects of human cognition. In the context of cognitive neuroscience, various experiments on time perception, sensorimotor coordination, and agency suggest the possibility that it is a robust illusion (a feeling independent of actual causal relationship with actions) constructed by neural mechanisms. Humans are known to suffer from various cognitive biases and failures, and the sense of free will might be one of them. Here I report a positive correlation between the belief in free will and paranormal beliefs (UFO, reincarnation, astrology, and psi). Web questionnaires involving 2076 subjects (978 males, 1087 females, and 11 other genders) were conducted, which revealed significant positive correlations between belief in free will (theory and practice) and paranormal beliefs. There was no significant correlation between belief in free will and knowledge in paranormal phenomena. Paranormal belief scores for females were significantly higher than those for males, with corresponding significant (albeit weaker) difference in belief in free will. These results are consistent with the view that free will is an illusion which shares common cognitive elements with paranormal beliefs.",
+  "raw_path": "01_raw/europepmc_xml/PMC3980098.xml",
+  "text_path": "02_text/europepmc/PMC3980098.txt",
+  "raw_bytes": 86704,
+  "text_chars": 32547,
+  "raw_sha256": "e233e8f76fb59188fee9de49f78f92a158bc0e4579a1aa553766527a25b7db55",
+  "text_sha256": "0318256770a5a05b814ae4326fbafe988343512fe59ee0824f5c3835667883c9",
+  "retrieved_at": "2026-10-26T13:07:56.116581+00:00"
+}

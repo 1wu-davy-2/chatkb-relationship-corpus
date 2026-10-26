@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9408495",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Risk Factors for Intimate Partner Femicide-Suicide in Italy: An Ecological Approach.",
+  "authors": "Sorrentino A, Cinquegrana V, Guida C.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3390/ijerph191610431",
+  "pmcid": "PMC9408495",
+  "url": "https://europepmc.org/article/PMC/PMC9408495",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9408495/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "The present study investigated the intimate partner femicide (IPF) and intimate partner femicide-suicide (IPFS) perpetrators' individual, relational, and contextual characteristics by analyzing, within the ecological approach, femicide cases that occurred in Italy from 2010 to 2019. On the topic, to date, scant studies examined possible differences between IPF and IPFS risk factors, and no studies have analyzed these factors by adopting an ecological systems model perspective. To this aim, archival research was carried out. Of a total of 1.207 femicides, 409 were IPF, and 227 were IPFS. Perpetrators' age, level of employment, law enforcement membership, mental and/or physical illnesses, use of psychoactive substances, previous crimes, previous violent relationships, presence of children, previous violence in the couple, inability to accept the end of the relationship, quarrels and conflict, jealousy and the psychophysical illnesses of both authors and victims, as well as the use of firearms and victim's request for help were analyzed. The results underlined the existence of different risk factors contributing to the IPF perpetrators' decision to commit suicide such as perpetrators' age, law enforcement membership, and firearm availability. These findings stress the need for specific risk assessment and management strategies for IPFS perpetrators.",
+  "raw_path": "01_raw/europepmc_xml/PMC9408495.xml",
+  "text_path": "02_text/europepmc/PMC9408495.txt",
+  "raw_bytes": 164325,
+  "text_chars": 37904,
+  "raw_sha256": "4dcfe807e48b1652796a21d83610a2d65f84bb48681155faa2fc65c8dde96318",
+  "text_sha256": "2cacd78780c7188805e6a6df4a44292c1d216b005ce17cbfc88b4596d9c6e1f4",
+  "retrieved_at": "2026-10-25T15:48:43.729737+00:00"
+}

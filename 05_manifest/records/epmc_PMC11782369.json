@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11782369",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Love Components in Free-Choice and Arranged Marriages Among Five Non-Western Populations From Africa, Amazonia, and Himalayas.",
+  "authors": "Sorokowski P, Groyecka-Bernard A, Kowal M, Butovskaya M, Stefanczyk MM, Huanca T, Kumar A, Manral U, Odo OM, Onyishi IE, Jędryczka W.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10508-024-03040-y",
+  "pmcid": "PMC11782369",
+  "url": "https://europepmc.org/article/PMC/PMC11782369",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11782369/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "arranged_marriage",
+    "commitment"
+  ],
+  "abstract": "Two main ways to enter a marriage are through free choice and through an arrangement between families, known as an arranged marriage. In this study, we compared differences in three dimensions of love (Intimacy, Passion, and Commitment) between spouses in love-based marriages and arranged marriages among five non-Western societies: Bhotiya from the Himalayas, Igbo from Nigeria, Kimeru from Kenya, Meru from Tanzania, and Tsimane' from Bolivia. When considering all data gathered from the five cultures, free choice and arranged marriages did not differ significantly in average love scores. However, within cultures, some differences did emerge between free choice and arranged marriages, such as spouses from free choice marriages from Bhotiya and Tsimane' culture showing higher levels of Intimacy than those from arranged marriages. However, in the Bhotiya, this difference was only evident in marriages lasting longer than 10 years. Moreover, spouses from free choice marriages from Bhotiya reported higher levels of passion, while spouses from free choice marriages from Tsimane' reported higher levels of commitment than individuals from arranged marriages. Conversely, wives from arranged marriages from Meru culture from Tanzania reported higher levels of Intimacy and Passion as compared to wives from free choice marriages. In Kimeru and Igbo, no significant differences were found. These results contribute to the growing body of literature on the relationship between culture, love, and marriage. Our data also challenge the Western perception that arranged marriages lack love.",
+  "raw_path": "01_raw/europepmc_xml/PMC11782369.xml",
+  "text_path": "02_text/europepmc/PMC11782369.txt",
+  "raw_bytes": 106727,
+  "text_chars": 31996,
+  "raw_sha256": "627394c1f0872f96841bbdc6c1e15e7734bd421752ad8e3d66750fe2d21acd54",
+  "text_sha256": "43d3c57d4605cec5ea72e11eb8143d1e7b32b58b11733804015f2b4ff7041628",
+  "retrieved_at": "2026-10-25T13:55:24.772736+00:00"
+}

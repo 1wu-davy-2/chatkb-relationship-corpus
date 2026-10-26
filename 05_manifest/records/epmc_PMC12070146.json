@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12070146",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Minimal couple intervention to improve psychobiological stress resilience.",
+  "authors": "Aguilar-Raab C, Stoffel M, Fischer M, Eckstein M, Bodenmann G, Heinrichs M, Ehlert U, Ditzen B.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/bjhp.12799",
+  "pmcid": "PMC12070146",
+  "url": "https://europepmc.org/article/PMC/PMC12070146",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12070146/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "communication_training"
+  ],
+  "abstract": "Objective This study aimed at evaluating the effects of a minimal couple intervention focusing on positive aspects within the relationship (instructed partnership appreciation task; PAT) in daily life. We hypothesized a stress-buffering effect of this intervention on perceived stress, salivary cortisol and alpha-amylase. Methods N = 40 couples were randomly assigned to either PAT or a no PAT (nPAT) condition. Self-reports and saliva samples were assessed six times per day on five consecutive days. To account for couple interdependencies, multilevel modelling (MLM) approaches were used to test the effects of (a) group assignment (PAT vs. nPAT) and (b) practicing the PAT in everyday life (PAT group only). Results Overall perceived stress was lower for women in the PAT group as compared with women in the nPAT group (b = -.380, p = .0098). Within the PAT group, daily positive interaction (PAT) significantly reduced cortisol (b = -.127, p = .02) and alpha amylase (b = -.122, p = .037). Sex-specific analyses of within-participants effects in daily life indicate that these results were driven by the men in the sample: Practicing the PAT led to a decrease in perceived stress (b = -.271, p = 001) and sCort (b = -.226, p = .006) in men, but not in women (all p > .05). Conclusions The findings suggest that a minimal couple intervention can improve individual health-related outcomes in a sex-specific manner, and that effects depend on actually practicing the positive exchange in daily life. Trial registration The analysis of the present study is based on a sub-sample (placebo group) of a larger neuropharmacological intervention and longitudinal trial 'Oxytocin, Couple Interaction and Wound Healing' (clinicaltrials.gov, identifier NCT01594775).",
+  "raw_path": "01_raw/europepmc_xml/PMC12070146.xml",
+  "text_path": "02_text/europepmc/PMC12070146.txt",
+  "raw_bytes": 151895,
+  "text_chars": 49400,
+  "raw_sha256": "c9b02e33c796725d89d67ae9024673177cad743d29a23fbcc73dffb470b5f385",
+  "text_sha256": "eab02bc3cdcbe50660d6820b7e8d9c3be40b91b214cd0fcdae23da5e096dfb78",
+  "retrieved_at": "2026-10-25T15:27:34.190861+00:00"
+}

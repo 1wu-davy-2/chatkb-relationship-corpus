@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13225257",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The gender paradox of infertility: a comparative study of marital adjustment and sexual dysfunction in Bangladesh.",
+  "authors": "Ahsan MS, Mubassara L, Deeba F, Mahmud N, Akter S, Al-Amin Khan M, Sarkar AA, Sansone A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1093/sexmed/qfag040",
+  "pmcid": "PMC13225257",
+  "url": "https://europepmc.org/article/PMC/PMC13225257",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13225257/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_function_dysfunction"
+  ],
+  "abstract": "Introduction Infertility significantly impacts self-image, sexuality, and interpersonal dynamics. While sexual dysfunction is a known consequence of infertility, its prevalence and impact on marital adjustment, specifically within the socio-cultural context of Bangladesh remain under-explored. The aim of this study was to determine the prevalence of sexual dysfunction among infertile men and women and to examine its association with marital adjustment. Methods This cross-sectional study was conducted at two tertiary hospitals in Bangladesh and data were collected from September 2024 to June 2025. A total of 658 participants (320 men and 338 women) were recruited via systematic random sampling. Sexual function was evaluated using the International Index of Erectile Function (IIEF-EF), the Premature Ejaculation Diagnostic Tool (PEDT), and the 6-item Female Sexual Function Index (FSFI-6). Marital adjustment was assessed using the Revised Dyadic Adjustment Scale (RDAS). Results The overall prevalence of sexual dysfunction in this cohort was 25.4% ( n = 167/658). Men were disproportionately affected compared to women. Among men ( n = 320), 37.5% ( n = 120) had at least one form of male sexual dysfunction, defined as erectile dysfunction (ED) and/or overt premature ejaculation (PE). Specifically, ED was identified in 33.7% ( n = 108) of male participants, categorized as mild (24.1%), mild-to-moderate (8.1%), and moderate (1.6%). Overt PE (PEDT >11) was present in 13.1% ( n = 42), including 9.3% ( n = 30) with comorbid ED and PE, while 12 men had overt PE without ED. Probable PE (PEDT 9-10) was identified in 5.6% ( n = 18) but was not included in the composite definition of male sexual dysfunction. Among women ( n = 338), the prevalence of female sexual dysfunction was significantly lower at 13.9% ( n = 47). Sexual dysfunction was inversely correlated with marital adjustment scores across both genders ( P Conclusion A substantial \"gender paradox\" exists in infertility-related sexual health in Bangladesh, where men exhibit a significantly higher prevalence of sexual dysfunction than women. These findings highlight the necessity of integrating sexual medicine and psychological counseling into routine infertility management to improve both reproductive outcomes and marital quality. Strengths include the use of validated psychometric instruments and a relatively large, clinic-based sample. Limitations include cross-sectional design and reliance on self-report measures, which may limit generalizability and causal interpretation.",
+  "raw_path": "01_raw/europepmc_xml/PMC13225257.xml",
+  "text_path": "02_text/europepmc/PMC13225257.txt",
+  "raw_bytes": 94379,
+  "text_chars": 26498,
+  "raw_sha256": "1f7b74afa6ad6ecd4ff4433ac098c3425f5ae0323de89309ab57117f898c123d",
+  "text_sha256": "8ffc8149317cfea157fe94e2183ff75b49944ebc89315c07fef317cd16ccbaa5",
+  "retrieved_at": "2026-10-26T12:53:21.210802+00:00"
+}

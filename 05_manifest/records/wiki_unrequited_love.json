@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_unrequited_love",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "暗戀",
+  "requested_title": "暗恋",
+  "url": "https://zh.wikipedia.org/wiki/%E6%9A%97%E6%88%80",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 暗戀",
+  "topics": [
+    "attraction",
+    "rejection"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/unrequited_love.json",
+  "text_path": "02_text/zh_wikipedia/unrequited_love.txt",
+  "raw_bytes": 2056,
+  "text_chars": 967,
+  "text_sha256": "fde6940e7fd3e6c0b92d066608d461529f6bccfeee592f37e5c7fc1253da6297",
+  "retrieved_at": "2026-10-26T13:58:03.430237+00:00"
+}

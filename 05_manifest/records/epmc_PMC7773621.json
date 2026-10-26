@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7773621",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The cost of associating with males for Bornean and Sumatran female orangutans: a hidden form of sexual conflict?",
+  "authors": "Kunz JA, Duvot GJ, van Noordwijk MA, Willems EP, Townsend M, Mardianah N, Utami Atmoko SS, Vogel ER, Nugraha TP, Heistermann M, Agil M, Weingrill T, van Schaik CP.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1007/s00265-020-02948-4",
+  "pmcid": "PMC7773621",
+  "url": "https://europepmc.org/article/PMC/PMC7773621",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7773621/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "Abstract Sexual coercion, in the form of forced copulations, is relatively frequently observed in orangutans and generally attributed to their semi-solitary lifestyle. High ecological costs of association for females may be responsible for this lifestyle and may have prevented the evolution of morphological fertility indicators (e.g., sexual swellings), which would attract (male) associates. Therefore, sexual conflict may arise not only about mating per se but also about associations, because males may benefit from associations with females to monitor their reproductive state and attempt to monopolize their sexual activities. Here, we evaluate association patterns and costs for females when associating with both males and females of two different orangutan species at two study sites: Suaq, Sumatra ( Pongo abelii ), and Tuanan, Borneo ( Pongo pygmaeus wurmbii ). Female association frequency with both males and females was higher in the Sumatran population, living in more productive habitat. Accordingly, we found that the cost of association, in terms of reduced feeding to moving ratio and increased time being active, is higher in the less sociable Bornean population. Males generally initiated and maintained such costly associations with females, and prolonged associations with males led to increased female fecal cortisol metabolite (FCM) levels at Tuanan, the Bornean population. We conclude that male-maintained associations are an expression of sexual conflict in orangutans, at least at Tuanan. For females, this cost of association may be responsible for the lack of sexual signaling, while needing to confuse paternity. Significance statement Socioecological theory predicts a trade-off between the benefits of sociality and the ecological costs of increased feeding competition. Orangutans' semi-solitary lifestyle has been attributed to the combination of high association costs and low predation risk. Previous work revealed a positive correlation between association frequencies and habitat productivity, but did not measure the costs of association. In this comparative study, we show that females likely incur costs from involuntary, male-maintained associations, especially when they last for several days and particularly in the population characterized by lower association frequencies. Association maintenance therefore qualifies as another expression of sexual conflict in orangutans, and especially prolonged, male-maintained associations may qualify as an indirect form of sexual coercion. Supplementary information The online version contains supplementary material available at 10.1007/s00265-020-02948-4.",
+  "raw_path": "01_raw/europepmc_xml/PMC7773621.xml",
+  "text_path": "02_text/europepmc/PMC7773621.txt",
+  "raw_bytes": 244407,
+  "text_chars": 87820,
+  "raw_sha256": "d9fff4eff5f820b043a959ec3962548d9c215a95e3f63e08b9dacfe75f807624",
+  "text_sha256": "87b7314f29637d24927f5b9a01929e99901ec4eb7f275f0ccec57cfe3e796659",
+  "retrieved_at": "2026-10-26T13:13:22.946041+00:00"
+}

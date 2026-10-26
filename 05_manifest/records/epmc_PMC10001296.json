@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10001296",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual Satisfaction Mediates the Effects of the Quality of Dyadic Sexual Communication on the Degree of Perceived Sexual Desire Discrepancy.",
+  "authors": "Galizia R, Theodorou A, Simonelli C, Lai C, Nimbi FM.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3390/healthcare11050648",
+  "pmcid": "PMC10001296",
+  "url": "https://europepmc.org/article/PMC/PMC10001296",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10001296/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_communication"
+  ],
+  "abstract": "Difficulties related to sexual desire discrepancy are among the most common complaints in people seeking help in therapy. The aims of the current study were to test a mediation model using a bootstrapping procedure where the quality of the dyadic sexual communication plays a key role in increasing or diminishing the degree of perceived sexual desire discrepancy through sexual satisfaction. An online survey was administered through social media to N = 369 participants involved in a romantic relationship, measuring the quality of dyadic sexual communication, sexual satisfaction, the degree of the perceived sexual desire discrepancy, and a series of relevant covariates. As expected, the mediation model showed that a better quality of dyadic sexual communication is related to a lower degree of perceived sexual desire discrepancy through increased sexual satisfaction (β = -0.17, SE = 0.05, [95% CI = -0.27, -0.07]). The effect held over and above the effect of the relevant covariates. The theoretical and practical implications of the present study are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC10001296.xml",
+  "text_path": "02_text/europepmc/PMC10001296.txt",
+  "raw_bytes": 140060,
+  "text_chars": 33018,
+  "raw_sha256": "51fee7c7ad0c22771e56e2a7c99b257abdea902a3e97d80faea348b819a0797b",
+  "text_sha256": "197bf36a9659cd4d028201377cf2273d231b68233f7d530cb77c4bd82dadf412",
+  "retrieved_at": "2026-10-25T13:57:19.120017+00:00"
+}

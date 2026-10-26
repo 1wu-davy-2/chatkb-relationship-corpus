@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9602708",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The ABC-X's of Stress among U.S. Emerging Adults during the COVID-19 Pandemic: Relationship Quality, Financial Distress, and Mental Health.",
+  "authors": "LeBaron-Black AB, Yorgason JB, Curran MA, Saxey MT, Okamoto RM.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3390/ijerph192013125",
+  "pmcid": "PMC9602708",
+  "url": "https://europepmc.org/article/PMC/PMC9602708",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9602708/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Many emerging adults have experienced increased financial distress and mental health problems during the COVID-19 pandemic, and isolation may have amplified the importance of close relationships (especially as parents' influence diminishes during this developmental stage). Using the ABC-X Model to frame our model, we tested whether financial distress (C) mediates the associations between COVID-19 impact (A) and anxiety and depressive symptoms (X), and whether or not romantic relationship quality (B) moderates these indirect associations. Our sample comprised of 1950 U.S. emerging adults in a romantic relationship. Mediation and first-stage moderated mediation were tested using structural equation modeling. Financial distress partially mediated the association between COVID-19 impact and anxiety symptoms and fully mediated the association between COVID-19 impact and depressive symptoms. Strong evidence of moderated mediation was found but in the opposite direction expected: the indirect associations of COVID-19 impact with anxiety and depressive symptoms (through financial distress) were stronger for those in high-quality romantic relationships. The findings may inform policy and practice aimed at optimizing the mental health of emerging adults, especially in light of the ongoing COVID-19 pandemic: specifically, alleviating financial distress may improve the mental health of emerging adults, while focusing on the quality of their romantic relationships may not.",
+  "raw_path": "01_raw/europepmc_xml/PMC9602708.xml",
+  "text_path": "02_text/europepmc/PMC9602708.txt",
+  "raw_bytes": 135924,
+  "text_chars": 41479,
+  "raw_sha256": "93f8efe5ecd385158ae14ff93704e4cb12a7045967cdbc54c187e774f9f99d33",
+  "text_sha256": "ed1e09f8477a49562406522aaf0421de7b1ca5b73df5ebddf7ea4044be401551",
+  "retrieved_at": "2026-10-25T15:40:45.530029+00:00"
+}

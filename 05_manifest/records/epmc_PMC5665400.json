@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5665400",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "When one spouse has an affair, who is more likely to leave?1",
+  "authors": "England P, Allison PD, Sayer LC.",
+  "year": "2014",
+  "journal": "",
+  "doi": "10.4054/demres.2014.30.18",
+  "pmcid": "PMC5665400",
+  "url": "https://europepmc.org/article/PMC/PMC5665400",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5665400/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "Objective We examine whether having an affair around the time a marriage broke up is associated with being the person who wanted the divorce more or the person who was left. We also examine predictors of having an affair around the end of the marriage. Methods We use the National Survey of Families and Households, using each ex-spouse's reports of which spouse wanted the divorce more and whether either was having an affair around the end of the marriage. We combine latent class models with logistic regression, treating either spouse's report as a fallible indicator of the reality of whether each had an affair and who wanted the divorce more. Results We find that a spouse having an affair is more likely to be the one who wanted the divorce more. We find little gender difference in who has affairs preceding divorce. Conclusions Results suggest that it is more common to leave because one is having an affair, or to have an affair because one has decided to leave, than it is to discover one's spouse having an affair and initiate a divorce.",
+  "raw_path": "01_raw/europepmc_xml/PMC5665400.xml",
+  "text_path": "02_text/europepmc/PMC5665400.txt",
+  "raw_bytes": 53946,
+  "text_chars": 17435,
+  "raw_sha256": "eaff3ea1564ac5e6bacf3dc0c059023f7946e8ef5721b03155a74a1a24d1bb12",
+  "text_sha256": "69476e46e0ee2ca619ee99b30d24d6237167d35e7b80add5d1b155b7deadda7a",
+  "retrieved_at": "2026-10-25T15:44:20.071425+00:00"
+}

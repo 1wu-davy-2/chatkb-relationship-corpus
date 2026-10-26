@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10990800",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Affectivity and satisfaction in the relationship of Pakistani couples is mediated by dyadic coping-based gratitude.",
+  "authors": "Shujja S, Adil A.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1002/pchj.722",
+  "pmcid": "PMC10990800",
+  "url": "https://europepmc.org/article/PMC/PMC10990800",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10990800/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gratitude"
+  ],
+  "abstract": "A substantial body of research supports a positive association between interpersonal gratitude and relationship satisfaction in couples; however, dyadic coping-based gratitude (DC-G) has not been investigated from a dyadic stress and coping perspective. The current study aimed to investigate the mediating role of DC-G between trait affectivity and relationship satisfaction in couples. We collected data from both members of dyads (N = 300 married couples) for the study variables as a pre-requisite for conducting dyadic data analysis using an actor-partner interdependent mediation model (APIMeM). The findings suggest that husbands' positive affect significantly predicted wives' relationship satisfaction via DC-G (actor-partner effect). However, the mediating effect of DC-G appeared to be stronger for the actor-actor and partner-partner effects compared with the cross-partner effect, which supports the actor-only effect. Further, wives' DC-G mediated between husbands' negative affect and wives' relationship satisfaction, suggesting a mediating effect of DC-G for wives but not for husbands. The implications are discussed within the context of couples' relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC10990800.xml",
+  "text_path": "02_text/europepmc/PMC10990800.txt",
+  "raw_bytes": 91451,
+  "text_chars": 32678,
+  "raw_sha256": "64b55ed428720656dab6b8ab33af9ce0cba0a8c4a581852dfd5dc0f3141410b3",
+  "text_sha256": "ca19b8758325c5f934caa4a9e0d182396a7735d1f740867d7cfda61e9c10e796",
+  "retrieved_at": "2026-10-25T15:29:37.695922+00:00"
+}

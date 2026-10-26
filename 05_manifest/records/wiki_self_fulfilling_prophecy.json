@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_self_fulfilling_prophecy",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "自证预言",
+  "requested_title": "自证预言",
+  "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E8%AF%81%E9%A2%84%E8%A8%80",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 自证预言",
+  "topics": [
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/self_fulfilling_prophecy.json",
+  "text_path": "02_text/zh_wikipedia/self_fulfilling_prophecy.txt",
+  "raw_bytes": 6127,
+  "text_chars": 2395,
+  "text_sha256": "dd0943b558ecbe3da2ac5495b58c22e2ecb61a47616658ea1f08ba0dae40d1bb",
+  "retrieved_at": "2026-10-25T16:22:01.613150+00:00"
+}

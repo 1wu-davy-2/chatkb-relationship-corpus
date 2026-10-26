@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10387690",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Women's Romantic Jealousy Predicts Risky Appearance Enhancement Effort.",
+  "authors": "Arnocky S, MacKinnon M, Clarke S, McPherson G, Kapitanchuk E.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/14747049231185782",
+  "pmcid": "PMC10387690",
+  "url": "https://europepmc.org/article/PMC/PMC10387690",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10387690/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "Human appearance enhancement effort has recently been considered from an evolutionary perspective as an adaptive and sexually dimorphic strategy for effective female intrasexual and intersexual competition. Most writing and research on the topic to date has focused on appearance enhancement as a means of mate attraction, with relatively less research examining its role in mate retention. The present study considered whether romantic jealousy, as a negative emotion experienced in response to perceived threat to a desired relationship, predicts costly and/or risky appearance enhancement independent of the closely related emotion of envy. In a sample of 189 undergraduate women, results showed that romantic jealousy and dispositional envy were positively correlated with one another. Results further demonstrated that romantic jealousy predicted women's positive attitude toward cosmetic surgery, willingness to use a one-week free tanning membership, willingness to use a risky diet pill, and intent on spending a greater proportion of their income on appearance enhancement, but not intended use of facial cosmetics. Results held independent of participants' dispositional envy, suggesting that romantic jealousy is a unique predictor of women's efforts at enhancing their physical appearance, which could extend into costly and physically risky mate retention efforts.",
+  "raw_path": "01_raw/europepmc_xml/PMC10387690.xml",
+  "text_path": "02_text/europepmc/PMC10387690.txt",
+  "raw_bytes": 113471,
+  "text_chars": 42944,
+  "raw_sha256": "897d3572fb9f00fb9f0481516ec12068e4005db8ef7b9b530696a26c615cbe2c",
+  "text_sha256": "bb97c738bc64185c1c26d2bb251012f3b9b84847f0b184758a54a38f50f70e7a",
+  "retrieved_at": "2026-10-25T14:00:11.784958+00:00"
+}

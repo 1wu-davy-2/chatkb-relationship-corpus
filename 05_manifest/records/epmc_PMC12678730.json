@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12678730",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring domains and ways of expressing gratitude in older couples: A qualitative study.",
+  "authors": "Weitkamp K, Roth M, Baumann M, Bodenmann G.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/20551029251406030",
+  "pmcid": "PMC12678730",
+  "url": "https://europepmc.org/article/PMC/PMC12678730",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12678730/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "In romantic relationships, gratitude promotes positivity, satisfaction and maintenance behaviour. However, little is known about specific domains of and ways of expressing gratitude in long-term relationships, particularly, as studies so far relied on pre-formulated self-report questionnaires that may fail to capture expressions of gratitude beyond direct verbal expressions. The research questions were: How do individuals experience gratitude in their current romantic relationship and how do they describe their partner's expressions of gratitude? Forty-three older couples were interviewed separately by phone. Interview data were analysed with qualitative content analysis. Overall, a strong sense of gratitude was mentioned for the partner's personality, the relationship quality, the partner's support, their joint achievements and the life they have created together. Gratitude was expressed verbally, but also in idiosyncratic ways through love expressions, signs of affection, or gifts. To conclude, gratitude seems to be an integral part of long-term relationships and may be beneficial for healthy aging.",
+  "raw_path": "01_raw/europepmc_xml/PMC12678730.xml",
+  "text_path": "02_text/europepmc/PMC12678730.txt",
+  "raw_bytes": 129910,
+  "text_chars": 55438,
+  "raw_sha256": "1515b33e21b8e5a03f8e49c08996bf72b1a80726f7de569ebf09058ffd3e28f8",
+  "text_sha256": "add6bc93e1374b083524cd805aeaae77bb03de9b8eade4c9013bc423c90d3c9b",
+  "retrieved_at": "2026-10-25T15:45:27.829668+00:00"
+}

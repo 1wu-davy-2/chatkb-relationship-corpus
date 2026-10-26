@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_personality_psychology",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "人格心理學",
+  "requested_title": "人格心理学",
+  "url": "https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%A0%BC%E5%BF%83%E7%90%86%E5%AD%B8",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "personality",
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/personality_psychology.json",
+  "text_path": "02_text/zh_wikipedia/personality_psychology.txt",
+  "raw_bytes": 7157,
+  "text_chars": 3294,
+  "text_sha256": "63cb9023558c4a9ec75938a3923c8288363ef85a6db60d0012a904c19897a579",
+  "retrieved_at": "2026-10-25T15:40:10.992055+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13639203",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Pilot trial of THRIVE: A peer-delivered sexual and intimate partner violence prevention program for women in substance use treatment.",
+  "authors": "Zinzow HM, Smalls L, Pericot-Valverde I, Shank M, Brancato M, Chapman G, Smith A, Greco C, Eichelberger K, Smith K, Litwin AH.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1002/jts.70100",
+  "pmcid": "PMC13639203",
+  "url": "https://europepmc.org/article/PMC/PMC13639203",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13639203/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "High rates of interpersonal violence exposure and trauma-related mental health concerns among women in substance use treatment underscore the need for violence prevention services in these settings. Peer support specialists can play a crucial role in increasing access to trauma-focused services and overcoming barriers, such as stigma and mistrust in formal systems. We tested the feasibility, acceptability, and preliminary efficacy of a peer-delivered sexual and intimate partner violence prevention program for women in substance use treatment (THRIVE: The Healthy Relationships and Interpersonal Violence Education program). We conducted a single-arm trial with 90 women recruited from outpatient and residential substance use treatment centers. Self-report surveys assessed risk and protective factors and violence exposure over four assessment points from baseline (T1) to 3-month follow-up (T4). Exit interviews and survey data examined feasibility and acceptability outcomes. Results from linear mixed models indicated that participants improved on knowledge of consent (M T1 = 4.37, M T4 = 4.52), p = .004, and resources (M T1 = 2.09, M T4 = 2.63), p T1 = 4.90, M T4 = 5.29), p T1 = 3.37, M T4 = 2.87), p < .001, and physical and psychological intimate partner violence victimization (T1: 73.9%, T4: 42.0%), p < .001. Participants reported high satisfaction and acceptability and highlighted the strengths of peers as facilitators. In sum, THRIVE offers promise as an effective, scalable violence prevention program.",
+  "raw_path": "01_raw/europepmc_xml/PMC13639203.xml",
+  "text_path": "02_text/europepmc/PMC13639203.txt",
+  "raw_bytes": 128572,
+  "text_chars": 38281,
+  "raw_sha256": "70a1ae2f53aa579ca909ef2de37fd783f9855e289f1cec3e8c096ee3e9f63656",
+  "text_sha256": "4cc0c24dcb5500f4ed16f7542d2a66501e8a9907cc04c2ca156634f05805d7f8",
+  "retrieved_at": "2026-10-25T13:52:24.266225+00:00"
+}

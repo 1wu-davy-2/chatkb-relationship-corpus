@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13617877",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Association between dental plaque index and COVID-19 severity: a cross-sectional study in a conflict-affected humanitarian setting.",
+  "authors": "Ismail H, Al-Daoud F, Mushtaq G.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12903-026-09169-7",
+  "pmcid": "PMC13617877",
+  "url": "https://europepmc.org/article/PMC/PMC13617877",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13617877/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "Background COVID-19 shows marked variation in clinical severity. Identifying demographic and clinical factors associated with severity is particularly important in conflict-affected, resource-limited settings. This study assessed the relationship between COVID-19 symptom severity and selected variables, including sex, age, marital status, and dental plaque index, among patients in northwest Syria. Methods This cross-sectional analytical study was conducted from 12 October to 23 November 2021 in three COVID-19 isolation centers in northwest Syria. Sixty adult patients with confirmed SARS-CoV-2 infection were enrolled through consecutive screening with purposive quota balancing by clinical severity category, resulting in 20 patients in each of the mild, moderate, and severe groups. Demographic data were recorded, and oral examination was performed by one trained examiner to assess plaque index using the modified Greene-Vermillion index. Associations were analyzed using Spearman's rank correlation, Pearson correlation, Kruskal-Wallis H test, and chi-squared test, with statistical significance set at p ≤ 0.05. Results The sample included 38 females (63.3%) and 22 males (36.7%), aged 18-82 years. COVID-19 severity was significantly associated with sex, with greater severity among males (Spearman's ρ = - 0.428, p = 0.001). Age showed a weak but significant positive correlation with severity (Pearson's r = 0.287, p = 0.026). Marital status was also associated with severity (Spearman's ρ = 0.329, p = 0.010), although this relationship appeared to be strongly confounded by age. Dental plaque index showed a moderate positive association with COVID-19 severity (Spearman's ρ = 0.533, 95% CI: 0.307-0.702; p Conclusion In this conflict-affected humanitarian setting, male sex, older age, and higher dental plaque index were significantly associated with increased COVID-19 symptom severity. These findings are preliminary and should be interpreted cautiously because of the cross-sectional design, small sample size, and limited data on potential confounders. Nevertheless, the study contributes evidence from an underrepresented crisis-affected population and suggests that oral health assessment may have value as part of broader COVID-19 risk evaluation in resource-constrained settings.",
+  "raw_path": "01_raw/europepmc_xml/PMC13617877.xml",
+  "text_path": "02_text/europepmc/PMC13617877.txt",
+  "raw_bytes": 102473,
+  "text_chars": 46369,
+  "raw_sha256": "e6c418e82be23e22635ffe454d3d78ac07fc3a545dca329c9b13eedb3b9bda3d",
+  "text_sha256": "9a3dfa0b82552010192981611f2d11632363335aa50f8cbf3f0640e1f6dc9deb",
+  "retrieved_at": "2026-10-25T15:46:22.231699+00:00"
+}

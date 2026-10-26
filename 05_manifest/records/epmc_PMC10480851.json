@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10480851",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Upset in Response to a Sibling's Partner's Infidelity : A Study With Siblings of Gays and Lesbians, From an Evolutionary Perspective.",
+  "authors": "Hellstrand D, Chrysochoou E.",
+  "year": "2015",
+  "journal": "",
+  "doi": "10.1177/1474704915598491",
+  "pmcid": "PMC10480851",
+  "url": "https://europepmc.org/article/PMC/PMC10480851",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10480851/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "gender_roles"
+  ],
+  "abstract": "Existing evidence suggests that the psychological design of romantic jealousy differs for men and women: Men are more likely than women to report greater upset in response to a partner's sexual than emotional infidelity, whereas women are more likely than men to report greater upset in response to a partner's emotional than sexual infidelity. However, the observed sex difference can be explained after the fact by both an evolutionary analysis of past reproductive costs and a social constructionist analysis of social and gender role training. Attempting to disentangle these competing perspectives, researchers have measured participants' upset in response to a sibling's or a child's partner's infidelities. In contrast to what a socialization perspective would predict, participants' sex did not seem to affect their responses; the key variable was the sex of the sibling or the child, in line with a heuristic application of the evolutionary perspective. The present study attempted not only to test these competing hypotheses but also to extend previous work by involving participants with a gay or lesbian sibling and examining whether participants' responses are triggered by their sibling's or sibling's partner's sex. In line with an evolutionary perspective, participants' sex did not assert an effect on their responses. The key variable seemed to be the sex of the sibling (rather than the sex of the sibling's partner), with participants reporting greater levels of upset in response to the sexual than emotional infidelity of a gay brother's partner and to the emotional than sexual infidelity of a lesbian sister's partner. The ensuing discussion offers suggestions for future work on sex-specific triggers of jealousy.",
+  "raw_path": "01_raw/europepmc_xml/PMC10480851.xml",
+  "text_path": "02_text/europepmc/PMC10480851.txt",
+  "raw_bytes": 58579,
+  "text_chars": 30412,
+  "raw_sha256": "553f106fb320b24eab19329b2e3d835141c027726f3ff66ac05b65270da2ebac",
+  "text_sha256": "3cc9e644e01da18cb4df6b5f13c4fed85fc6e4fef4c9a284aaa8f3fe14af0e04",
+  "retrieved_at": "2026-10-25T15:36:40.844900+00:00"
+}

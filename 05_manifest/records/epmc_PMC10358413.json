@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10358413",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Cascade Model of Sociodevelopmental Events Leading to Men's Perpetration of Violence Against Female Romantic Partners.",
+  "authors": "Kaighobadi F, Figueredo AJ, Shackelford TK, Bjorklund DF.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1177/14747049211040751",
+  "pmcid": "PMC10358413",
+  "url": "https://europepmc.org/article/PMC/PMC10358413",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10358413/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "Conceptually driven by life history theory, the current study investigated a hypothesized hierarchy of behaviors leading to men's perpetration of violence in intimate relationships. Using a series of hierarchical regressions, we tested a causal cascade model on data provided by 114 men in a committed romantic relationship. The results supported the hypothesized hierarchy of sociodevelopmental events: (1) men's childhood experiences with their parents' parental effort predicted men's life history strategies; (2) men's life history strategies predicted men's behavioral self-regulation; (3) men's self-regulation predicted men's perceptions of partner infidelity risk; (4) perceptions of infidelity risk predicted men's frequency of engagement in nonviolent mate retention behaviors; (5) men's mate retention behaviors predicted men's frequency of partner-directed violence. The overall cascade model explained 36% of variance in men's partner-directed violence.",
+  "raw_path": "01_raw/europepmc_xml/PMC10358413.xml",
+  "text_path": "02_text/europepmc/PMC10358413.txt",
+  "raw_bytes": 123391,
+  "text_chars": 45113,
+  "raw_sha256": "e5734d89699ab8c1c2170e2e6c11f2a9172d67f4a670f7ea79b249087f40fb8b",
+  "text_sha256": "09625584faea489690a5bef0f67de513c3e816e9764f388005bfb62289bb0ba0",
+  "retrieved_at": "2026-10-25T15:33:50.496813+00:00"
+}

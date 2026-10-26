@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13490930",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "AI as a Therapist, Companion, and Romantic Partner: Emerging Roles, Benefits, and Risks for Mental Health in Participatory Medicine.",
+  "authors": "Grohol J.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.2196/95153",
+  "pmcid": "PMC13490930",
+  "url": "https://europepmc.org/article/PMC/PMC13490930",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13490930/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "The line between tool and companion was once obvious, but conversational AI is blurring it in ways few researchers anticipated. Large language model chatbots and purpose-built AI companion agents are now used by millions of people every day. They are not being used to simply retrieve information but, instead, to offer emotional support, help process personal distress, and sustain what many describe as genuine relationships. Research puts the scale of this shift in sharp relief as nearly half (48.7%) of individuals with self-reported mental health concerns report having used a large language model for mental health support or therapy-related purposes. This Viewpoint argues that these uses are best understood through 3 unique but overlapping relational frames: AI as a therapist substitute, AI as a companion or confidant substitute, and AI as a romantic partner substitute. Drawing on empirical literature across digital mental health, psychology, communication, and human-computer interaction and grounded in the values of participatory medicine, this paper examines why people turn to AI for these intimate purposes; what they appear to gain; and what clinicians, designers, developers, and policymakers should examine more carefully as the practice evolves. The picture that emerges is neither straightforwardly optimistic nor dismissive. Therapeutic chatbots can produce real symptom reduction for users; AI companionship can ease loneliness in genuine, if bounded, ways; and the emotional relief some people experience in these interactions is not an artifact of naivety. But the same systems that lower the barriers to disclosure also lower the barriers to harm. AI chatbots regularly hallucinate clinical guidance, validate dysfunctional beliefs, handle crises without accountability, and may cultivate the very isolation they seek to relieve. Responsible integration requires something more demanding than a disclaimer. Instead, it requires transparent design, thoughtful escalation pathways, ongoing evaluation, and a commitment to the human connection that participatory medicine places at the center of good care.",
+  "raw_path": "01_raw/europepmc_xml/PMC13490930.xml",
+  "text_path": "02_text/europepmc/PMC13490930.txt",
+  "raw_bytes": 86282,
+  "text_chars": 38406,
+  "raw_sha256": "3e42e1d870c041daa3ad99fff981fbbcd17d5c26a896b24fb1de6ac95ab01722",
+  "text_sha256": "802ccd9eef793bedc0d19fdb11a3cfcf2430b7d850bca62c10e071ca968bd408",
+  "retrieved_at": "2026-10-25T15:36:28.157794+00:00"
+}

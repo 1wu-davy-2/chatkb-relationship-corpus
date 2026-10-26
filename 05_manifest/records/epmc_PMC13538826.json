@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13538826",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Infidelity conduct and desire: the differentiated contribution of broad personality traits.",
+  "authors": "Rodas JA, Abad M, Barandica A, Leon-Rojas JE, Valdevila Figueira JA, Oleas D.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1939819",
+  "pmcid": "PMC13538826",
+  "url": "https://europepmc.org/article/PMC/PMC13538826",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13538826/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Introduction Previous research linking personality to infidelity often conflates actual unfaithful conduct with the psychological desire to cheat. The present study evaluated the incremental predictive value of the Five-Factor Model (FFM) personality traits on sexual infidelity conduct and sexual infidelity desire, controlling for demographic characteristics and relationship history. Methods A cross-sectional design was employed with a sample of 200 adults from Ecuador, who completed the Big Five Inventory and the Infidelity Conduct Subscale. Hierarchical multiple linear regression models were used to isolate the variance explained by personality dimensions. Results The results demonstrated a clear divergence in the predictors of conduct vs. desire. Specific personality dimensions, notably higher openness to experience and lower agreeableness, significantly predicted the desire for sexual infidelity. In contrast, the predictive power of the FFM traits were not significant for actual infidelity conduct. A personal history of infidelity, alongside older age and male sex, emerged as the strongest predictors of current unfaithful conduct. Discussion These findings provide empirical support for the intention-behavior gap within the context of romantic relationships. While personality structure generates the cognitive and emotional precursors for infidelity, actual unfaithful actions are primarily facilitated by relational history and cumulative opportunity.",
+  "raw_path": "01_raw/europepmc_xml/PMC13538826.xml",
+  "text_path": "02_text/europepmc/PMC13538826.txt",
+  "raw_bytes": 86514,
+  "text_chars": 34693,
+  "raw_sha256": "ef5c37efe39a3bfda599c566a74bd8bae8b66e206a2cbfc2dda1c5abd1edc7da",
+  "text_sha256": "a33d6ebbf57b71c97528d86c2d6b5007db761c45e4aa952d4fa472a2ae0104d9",
+  "retrieved_at": "2026-10-25T13:49:39.376361+00:00"
+}

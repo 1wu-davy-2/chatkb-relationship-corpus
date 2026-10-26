@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12987439",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Is the process of successful sexual aging different in older partnered and non-partnered adults?",
+  "authors": "Štulhofer A, Tafro A, Pietras L, Landripet I, Koletić G.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0344655",
+  "pmcid": "PMC12987439",
+  "url": "https://europepmc.org/article/PMC/PMC12987439",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12987439/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_self_disclosure"
+  ],
+  "abstract": "As populations in the Western world age, interest in the sexual health and well-being of older adults has grown substantially, yet positive models of sexual aging remain underexplored-especially across diverse relational contexts. To address this gap, the Successful Sexual Aging (SSA) model was recently proposed. This model conceptualizes positive sexual aging as a dynamic process involving three interrelated psychosocial domains: acceptance of physical and sexual changes, adaptation to those changes, and the presence of opportunities for sexual expression. These domains were operationalized as a latent construct, which was validated and explored for culture-specific elements in partnered older adults. Given the importance of a close partnership for older adults' sexuality, but also the fact that many older adults, women in particular, are non-partnered, the current study focused on the assessment of differences in positive sexual aging between partnered and non-partnered older German (N = 1,328, Mage = 69.2) and Croatian adults (N = 301, Mage = 68.8). Using measurement invariance testing and a network analytic approach, we identified important differences in reported obstacles to sexual expression between partnered and non-partnered older adults, and the robustness (connectivity) of the network of SSA-indicating items. Overall, SSA seemed to be somewhat more difficult for older non-partnered adults compared to their partnered peers. Although the 9-item measure of SSA can be used to reliably assess the process of sexual aging in both partnered and non-partnered older individuals, direct comparisons should be avoided due to partnership-specific properties of positive sexual aging.",
+  "raw_path": "01_raw/europepmc_xml/PMC12987439.xml",
+  "text_path": "02_text/europepmc/PMC12987439.txt",
+  "raw_bytes": 125222,
+  "text_chars": 39531,
+  "raw_sha256": "2dd498e2e91f84ad3259226d71c2ac0bf11a434490faf7f37d36c34033b3b109",
+  "text_sha256": "c1de0f92f096929ef0e79394cca4869d385292c9ec92092a2da0612b182cb7ae",
+  "retrieved_at": "2026-10-26T12:56:27.847338+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13206459",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Development and Preliminary Evaluation of iCanPlan: A Mobile Health Application for Intimate Partner Violence Prevention in Thailand.",
+  "authors": "Chuemchit M, Chernkwanma S, Phyo T, Kantipudi S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/ijerph23050670",
+  "pmcid": "PMC13206459",
+  "url": "https://europepmc.org/article/PMC/PMC13206459",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13206459/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Intimate partner violence (IPV) is a significant global public health issue that requires accessible, scalable, and contextually appropriate interventions. Mobile health (mHealth) technologies provide a promising platform to deliver support, information, and safety planning tools for individuals at risk of IPV. This study aimed to develop and pilot-test iCanPlan, a mobile application designed to support IPV prevention in Thailand. The application evaluates IPV risk, identifies indicators of danger, and provides a countrywide list of assistance sources. iCanPlan consists of four main components: (1) an IPV risk assessment tool, (2) a list of support resources, (3) educational materials presented in the form of infographics, and (4) encouraging quotes from well-known public figures. The app features a clean, user-friendly interface with intuitive navigation and color-coded components to enhance usability. In addition, a preliminary study was conducted with 30 experts from multidisciplinary fields, including gender-based violence research, social work, psychology, public health, and non-governmental organizations. Participants used the application for one month and subsequently evaluated it using a structured questionnaire based on heuristic evaluation principles. The questionnaire assessed usability, safety features, content quality, cultural appropriateness, language clarity, ethical considerations, and overall evaluation using a five-point Likert scale. Data was analyzed using descriptive statistics (mean and standard deviation) in SPSS. The findings demonstrated excellent performance across all domains, with high mean scores for usability (M = 4.93), safety features (M = 4.73), and content quality (M = 4.82), while cultural appropriateness, language clarity, ethical considerations, and overall evaluation achieved perfect scores (M = 5.00). These results indicate strong agreement among experts regarding the application's usability, safety, and relevance. The study highlights the potential of iCanPlan as a culturally appropriate and user-friendly digital intervention for IPV prevention. Further research involving the target population is needed to evaluate its effectiveness and long-term impact on help-seeking behavior and IPV-related outcomes.",
+  "raw_path": "01_raw/europepmc_xml/PMC13206459.xml",
+  "text_path": "02_text/europepmc/PMC13206459.txt",
+  "raw_bytes": 142927,
+  "text_chars": 48120,
+  "raw_sha256": "7c499657a4659227bf2782c70ace3146c300ba1c1a0ba31b36aa2293687f51fd",
+  "text_sha256": "6e0cd89f8cb45b2d0cb27264f4c166aee81d4fc05c8433d34eee2784206372f2",
+  "retrieved_at": "2026-10-25T15:49:36.458084+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11035123",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Male delayed orgasm and anorgasmia: a practical guide for sexual medicine providers.",
+  "authors": "Nguyen V, Dolendo I, Uloko M, Hsieh TC, Patel D.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1038/s41443-023-00692-7",
+  "pmcid": "PMC11035123",
+  "url": "https://europepmc.org/article/PMC/PMC11035123",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11035123/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_therapy_interventions"
+  ],
+  "abstract": "Delayed orgasm (DO) is defined as increased latency of orgasm despite adequate sexual stimulation and desire. Anorgasmia (AO) is characterized as the absence of orgasm. Etiologies of DO/AO include medication-induced, psychogenic, endocrine, and genitopelvic dysesthesia. Given the multifactorial complex nature of this disorder, a thorough history and physical examination represent the most critical components of patient evaluation in the clinical setting. Treating DO/AO can be challenging due to the lack of standardized FDA-approved pharmacotherapies. There is no standardized treatment plan for DO/AO, though common treatments plans are often multidisciplinary and may include adjustment of offending medications and sex therapy. In this review, we summarize the etiology, diagnosis, and treatment of DO/AO.",
+  "raw_path": "01_raw/europepmc_xml/PMC11035123.xml",
+  "text_path": "02_text/europepmc/PMC11035123.txt",
+  "raw_bytes": 134273,
+  "text_chars": 34895,
+  "raw_sha256": "1dc17a16799681b8afd2029d9931b1fe67398bdce01784a007e3b9586a12601a",
+  "text_sha256": "4caec1342a14e47323a8d47ec11f2996d4cf6b0e1437fb4cb0cbc3e5ccb51d2f",
+  "retrieved_at": "2026-10-26T13:09:11.055505+00:00"
+}

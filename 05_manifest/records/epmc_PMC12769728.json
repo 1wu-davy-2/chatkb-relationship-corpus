@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12769728",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Associations of Sexual Desire with Demographic and Relationship Variables.",
+  "authors": "Aavik T, Täht K, Vainik U, Mõttus R.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1038/s41598-025-23483-0",
+  "pmcid": "PMC12769728",
+  "url": "https://europepmc.org/article/PMC/PMC12769728",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12769728/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance",
+    "sexual_satisfaction"
+  ],
+  "abstract": "Sexual desire plays an important role in human well-being and relational dynamics, yet its demographic and relational predictors remain insufficiently understood. Leveraging a uniquely large and representative sample (N = 67,334) from the Estonian Biobank, we examined how gender, age, sexual orientation, relationship status, recent childbirth, number of children, relationship satisfaction, education, and occupation relate to self-reported sexual desire. Men reported substantially higher desire than women (η² = 0.18), a difference that persisted across most ages and demographic groups. Sexual desire declined with age, more steeply for women, and was positively associated with bisexual and pansexual orientation, recent childbirth, and relationship satisfaction. Multivariate models explained 28.3% of the variance in sexual desire, with gender and age emerging as the strongest predictors. Notably, gender moderated several associations, including those with age, parenthood, and relationship satisfaction. These findings provide the most comprehensive account to date of how basic demographic and relational variables jointly shape sexual desire in the general population, offering a robust foundation for theory development and applied sexual health research.",
+  "raw_path": "01_raw/europepmc_xml/PMC12769728.xml",
+  "text_path": "02_text/europepmc/PMC12769728.txt",
+  "raw_bytes": 183456,
+  "text_chars": 52912,
+  "raw_sha256": "8c8ddc943c35e0076aceac71d617f5677262ac6bdb277281bde98fd211f5dc24",
+  "text_sha256": "71277889fb46f88171373bfdfa72a19bd29ef6e758b1c3cd0900d1efd5c3a4a2",
+  "retrieved_at": "2026-10-25T15:39:05.776867+00:00"
+}

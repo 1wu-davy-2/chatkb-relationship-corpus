@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11837644",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The influence of constellation virtual community atmosphere on blogger trust and constellation infatuation behavior.",
+  "authors": "Li Q, Li S, Li Q, Li Y.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40359-025-02468-8",
+  "pmcid": "PMC11837644",
+  "url": "https://europepmc.org/article/PMC/PMC11837644",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11837644/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "astrology_belief"
+  ],
+  "abstract": "With the rapid development of social media, astrology-related virtual communities have gained significant popularity in China. However, the mechanisms behind the formation of astrological addiction behaviors within virtual communities remain largely unexplored. This study, based on the Stimulus-Organism-Response (S-O-R) theory, investigates how community environmental characteristics and user traits influence astrological addiction through the mediation of blogger trust. The results show that both community atmosphere (CA) and community expertise (PK) significantly influence constellation infatuation (CI) through the mediation of blogger trust (BT). Specifically, community atmosphere and community expertise positively affect constellation infatuation through blogger trust, supporting the proposed hypotheses. However, online participation (NI) does not have a significant indirect effect on constellation infatuation via blogger trust. The findings suggest that blogger trust plays a critical role in shaping astrological addiction behaviors within virtual communities. This study offers theoretical insights into community management and contributes to understanding the dynamics of addictive behaviors in online environments.",
+  "raw_path": "01_raw/europepmc_xml/PMC11837644.xml",
+  "text_path": "02_text/europepmc/PMC11837644.txt",
+  "raw_bytes": 162120,
+  "text_chars": 56802,
+  "raw_sha256": "9b5fd85453a19e68c2b65db6bb2d77d6b6fb6ec8dfc1135e38c1065e78a50fe6",
+  "text_sha256": "7cfc83e93f638989922db4cb1fea44a6837dd6a2cda12afcf9accd6b36f86e94",
+  "retrieved_at": "2026-10-26T12:53:38.127739+00:00"
+}

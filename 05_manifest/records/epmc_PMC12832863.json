@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12832863",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Greater toxic online disinhibition and lower consistent online self-presentation contribute to the perpetration of cyber dating abuse.",
+  "authors": "Ritchie R, Limniou M, Gordts S.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2025.1716617",
+  "pmcid": "PMC12832863",
+  "url": "https://europepmc.org/article/PMC/PMC12832863",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12832863/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Background While online interaction can support romantic relationships, it may also increase the risk of Cyber Dating Abuse (CDA - abuse perpetrated via technology between romantic partners). CDA consists of two types of aggressive behaviours: Direct Aggression and Cyber Control and Monitoring. Past research explores overall CDA perpetration with relationship satisfaction. However, there is limited evidence for the association between computer-mediated communication variables (i.e., Online Disinhibition, Online Self-Presentation strategies, and online platform use) and the two variations of CDA. Methods A cross-sectional online questionnaire study was conducted using opportunity and snowball sampling. Overall, 326 participants aged 18 to 68 years old were recruited ( M = 24.47, ± SD = 8.52; 71.50% women). Participants were required to be over 18 years old, have at least one previous romantic relationship, and be English-speaking social media users. Results Weighted Least Squares multiple regressions indicated that \"toxic\" Online Disinhibition and \"ideal\" Online Self-Presentation positively predicted Direct Aggression and Cyber Control and Monitoring behaviours. \"Consistent\" Online Self-Presentation was negatively associated with Cyber Control and Monitoring only. In relation to Direct Aggression, \"benign\" Online Disinhibition was a negative predictor, whereas general online platform use frequency was positively associated. Relationship satisfaction was not significantly associated with CDA. Conclusion Computer-mediated communication variables may exert greater influence on CDA perpetration than relational variables, as the anonymity and invisibility afforded by the online environment contribute to CDA. The findings highlight the importance of raising awareness regarding how the online environment can facilitate abusive behaviours.",
+  "raw_path": "01_raw/europepmc_xml/PMC12832863.xml",
+  "text_path": "02_text/europepmc/PMC12832863.txt",
+  "raw_bytes": 192981,
+  "text_chars": 47082,
+  "raw_sha256": "031c2088a8e540b8257d457cae1d45c0d25ac351a303eb37299c5f509b3492be",
+  "text_sha256": "b57e84282cffba1535773aac0aacf26922af2d255948e5e6a707a94cc5d0b124",
+  "retrieved_at": "2026-10-25T13:53:40.226709+00:00"
+}

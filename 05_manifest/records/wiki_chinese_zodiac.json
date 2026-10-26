@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_chinese_zodiac",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "生肖",
+  "requested_title": "十二生肖",
+  "url": "https://zh.wikipedia.org/wiki/%E7%94%9F%E8%82%96",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "culture",
+    "astrology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/chinese_zodiac.json",
+  "text_path": "02_text/zh_wikipedia/chinese_zodiac.txt",
+  "raw_bytes": 47313,
+  "text_chars": 19288,
+  "text_sha256": "534dec23e8f525e54837a19aacc46bbe57436e418571acd63da752ef40dc7ebd",
+  "retrieved_at": "2026-10-25T15:40:03.161762+00:00"
+}

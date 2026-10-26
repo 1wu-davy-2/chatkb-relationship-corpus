@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10634533",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship of widowhood with pulse pressure, fasting blood glucose, and mental health in older adults: a propensity matching score analysis.",
+  "authors": "Zhang Y, Chen X, Sun Y, Feng S, Wang F, Gu H, Jia H, Zhang Q, Ding W, Lu H, Zhang J.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpubh.2023.1257133",
+  "pmcid": "PMC10634533",
+  "url": "https://europepmc.org/article/PMC/PMC10634533",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10634533/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Background Transitioning from marriage to widowhood presents inevitable and significant challenges for many older adults. This study explored the impact of widowhood on a range of mental health outcomes, including pulse pressure and fasting blood glucose levels, among older adults in nursing homes. Methods This cross-sectional study utilized cluster random sampling to recruit participants, with data analyzed from 388 older Chinese adults. Psychosocial traits were assessed using the Perceived Social Support from Family scale (PSS-Fa) for family support, the Generalized Anxiety Disorder 7-item scale (GAD-7) for anxiety symptoms, and the 9-item Patient Health Questionnaire (PHQ-9) for depressive symptoms and suicidal ideation. Propensity score matching (PSM) was employed to control for confounding factors. A multivariate linear regression analysis was performed to explore the relationship between widowhood, mental health outcomes, pulse pressure, and fasting blood glucose levels. Results After applying PSM, the sample size was refined to 268 ( N = 134 for both married and widowed groups) from the initial 388, excluding 120 unmatched cases. Widowed older adults were found to have notably lower family support ( β = -0.81, p = 0.002), increased depressive symptoms ( β = 1.04, p = 0.043), elevated pulse pressure ( β = 8.90, p β = 3.22, p = 0.027). These associations exhibited greater beta values compared to pre-matching analysis. Conclusion Our findings revealed that widowed participants had reduced family support, an increased risk of depressive symptoms, heightened pulse pressure, and elevated fasting blood glucose in comparison to their married counterparts. Interventions focusing on social support, mental health, and cardiovascular well-being could be advantageous for this at-risk group.",
+  "raw_path": "01_raw/europepmc_xml/PMC10634533.xml",
+  "text_path": "02_text/europepmc/PMC10634533.txt",
+  "raw_bytes": 109656,
+  "text_chars": 27245,
+  "raw_sha256": "0738de753179eca62a8df93d1e80f25ce7e55f591f96fcad1d1f388c12948c14",
+  "text_sha256": "aaed7d72ca9f7a6456919b9409db2d42eba420091c1a239bd4ce63a454f8b966",
+  "retrieved_at": "2026-10-25T15:33:15.637843+00:00"
+}

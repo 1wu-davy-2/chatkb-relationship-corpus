@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10897493",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sex ratios and gender norms: why both are needed to understand sexual conflict in humans.",
+  "authors": "Hagen RV, Scelza BA.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1017/ehs.2024.3",
+  "pmcid": "PMC10897493",
+  "url": "https://europepmc.org/article/PMC/PMC10897493",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10897493/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Sexual conflict theory has been successfully applied to predict how in non-human animal populations, sex ratios can lead to conflicting reproductive interests of females and males and affect their bargaining positions in resolving such conflicts of interests. Recently this theory has been extended to understand the resolution of sexual conflict in humans, but with mixed success. We argue that an underappreciation of the complex relationship between gender norms and sex ratios has hampered a successful understanding of sexual conflict in humans. In this paper, we review and expand upon existing theory to increase its applicability to humans, where gender norms regulate sex ratio effects on sexual conflict. Gender norms constrain who is on the marriage market and how they are valued, and may affect reproductive decision-making power. Gender norms can also directly affect sex ratios, and we hypothesize that they structure how individuals respond to market value gained or lost through biased sex ratios. Importantly, gender norms are in part a product of women's and men's sometimes conflicting reproductive interests, but these norms are also subject to other evolutionary processes. An integration of sexual conflict theory and cultural evolutionary theory is required to allow for a full understanding of sexual conflict in humans.",
+  "raw_path": "01_raw/europepmc_xml/PMC10897493.xml",
+  "text_path": "02_text/europepmc/PMC10897493.txt",
+  "raw_bytes": 232096,
+  "text_chars": 75035,
+  "raw_sha256": "edd6ea91f558b64717ae4eddd6d93caef541b1ea75d9775ec9a8e87e0fad86e1",
+  "text_sha256": "a91dffd30d31d2864aa3b0dcf31d2a39dfdf6bda1e026a378eb3bbe1a0e35683",
+  "retrieved_at": "2026-10-25T15:44:55.162237+00:00"
+}

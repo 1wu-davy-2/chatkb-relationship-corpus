@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12310149",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Predicting Engagement With Conversational Agents in Mental Health Therapy by Examining the Role of Epistemic Trust, Personality, and Fear of Intimacy: Cross-Sectional Web-Based Survey Study.",
+  "authors": "Guglielmucci F, Di Basilio D.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.2196/70698",
+  "pmcid": "PMC12310149",
+  "url": "https://europepmc.org/article/PMC/PMC12310149",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12310149/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_anxiety"
+  ],
+  "abstract": "Background The use of conversational agents (CAs) in mental health therapy is gaining traction due to their accessibility, anonymity, and nonjudgmental nature. However, understanding the psychological factors driving preferences for CA-based therapy remains critical to ensure ethical and effective application. Variables such as epistemic trust, attachment styles, personality traits, and fear of intimacy appear central in shaping attitudes toward these artificial intelligence (AI)-driven interventions. Objective This study aimed to investigate the role of epistemic trust, attachment styles, personality traits, and fear of intimacy in influencing individuals' willingness to engage with CA-based therapy. Methods An online survey was administered to 876 psychology students, yielding 736 responses (84.01% response rate). Variables measured included epistemic trust, attachment styles, personality traits, and fear of intimacy. A 5-point ordinal scale assessed willingness to engage in CA-based therapy. The data were analyzed using ordinal logistic regression models, including proportional odds models (POMs), nonproportional odds models (NPOMs), and partial proportional odds models (PPOMs), with residual deviance used to compare model fit. Results The PPOM provided the best model fit (residual deviance=3530.47), outperforming both the NPOM (deviance=6244.01) and the POM based on Brant test results indicating violations of the proportional odds assumption (χ²105=187.8; P Conclusions Epistemic trust and fear of intimacy emerged as pivotal factors influencing preferences for CA-based therapy, underscoring the role of interpersonal dynamics and emotional vulnerabilities. The findings suggest that individuals with avoidant attachment styles or maladaptive personality traits are more inclined toward AI-mediated interventions, driven by reduced fear of judgment and increased perceived safety. The relative homogeneity of the sample considered-particularly in terms of age, education level, and cultural exposure-limits the generalizability of these findings to broader or more diverse populations. Nonetheless, these insights highlight the need for ethical considerations and personalized approaches in deploying CA-based mental health tools to balance user reliance with human-centric therapeutic values.",
+  "raw_path": "01_raw/europepmc_xml/PMC12310149.xml",
+  "text_path": "02_text/europepmc/PMC12310149.txt",
+  "raw_bytes": 176126,
+  "text_chars": 52975,
+  "raw_sha256": "f8e27b95ed357bda4d62fcc63a46c997cdad7c9c7d346167f8c2eb0df7c85d6b",
+  "text_sha256": "386bbd4e6b4c36259ef528d5fc8fedc400088dcf6e2172579ead6c4e8d173b29",
+  "retrieved_at": "2026-10-25T13:51:38.061038+00:00"
+}

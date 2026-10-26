@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12228259",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Comparing the effectiveness of group-based Cognitive-Behavioral Couple Therapy (CBCT) and Schema-Based Couple Therapy (SBCT) workshops in reducing desire for divorce and marital boredom.",
+  "authors": "Ardeh A, Goodarzi E, Madadi Z, Rostami C, Ghiaci A, Shahverdi J.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s13104-025-07339-4",
+  "pmcid": "PMC12228259",
+  "url": "https://europepmc.org/article/PMC/PMC12228259",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12228259/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "BACKGROUND: Marital relationships, like any other interpersonal bond, encompass both positive and negative dimensions. Central to the success of marriage is the level of satisfaction and commitment experienced by the partners. This study aims to compare the efficacy of cognitive-behavioral couple therapy and schema-based couple therapy in reducing the desire for divorce and marital boredom. METHODS: This experimental study employed a pre-test-post-test design with a control group. The research sample comprised couples experiencing marital issues who sought counseling at various counseling centers in 2023. Sixty couples were randomly assigned to three groups: two intervention groups and one control group. Data were collected using questionnaires assessing desire for divorce (14 questions) and marital boredom (21 questions). The intervention consisted of 10 weekly sessions lasting 90 min each, conducted in group format for the two intervention groups. Questionnaire data were collected prior to the intervention, one week post-intervention, and one month post-intervention. Data analysis involved the use of analysis of variance and repeated measures tests to assess changes over time. RESULTS: The results indicate a significant decrease in the average boredom scores in both the cognitive-behavioral and schema therapy groups following the intervention (P 0.05). Repeated measures analysis revealed a significant difference in the mean boredom scores before the intervention, post-intervention, and one month later in both the cognitive-behavioral and schema therapy groups (P 0.05). Additionally, there was a significant decrease in the average scores of the desire for divorce in both the cognitive-behavioral and schema therapy groups post-intervention (P 0.05). Similar to the boredom scores, repeated measures analysis demonstrated a significant difference in the mean divorce scores across the three assessment points in the intervention groups, whereas scores remained stable in the control group (P > 0.05). CONCLUSION: The findings of this study suggest that both therapy methods are effective in reducing the desire for divorce and marital boredom. These treatment approaches can be valuable tools in family therapy settings aimed at enhancing the commitment of couples.",
+  "raw_path": "01_raw/europepmc_xml/PMC12228259.xml",
+  "text_path": "02_text/europepmc/PMC12228259.txt",
+  "raw_bytes": 88031,
+  "text_chars": 30601,
+  "raw_sha256": "16b3753d802a213b6a1b647439444e02dec6d903922de3c9a6bd287a19c74b96",
+  "text_sha256": "8ddf1449b34bf1206783a5e08d6603be6e5ce7c9d24dab05ce19be0101c922d6",
+  "retrieved_at": "2026-10-25T15:37:58.094126+00:00"
+}

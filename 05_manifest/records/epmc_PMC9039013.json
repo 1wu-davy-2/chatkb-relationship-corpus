@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9039013",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Adult Attachment and Personality as Predictors of Jealousy in Romantic Relationships.",
+  "authors": "Richter M, Schlegel K, Thomas P, Troche SJ.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2022.861481",
+  "pmcid": "PMC9039013",
+  "url": "https://europepmc.org/article/PMC/PMC9039013",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9039013/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Functional relationships between romantic jealousy and traits, such as neuroticism or adult attachment styles, are well-known. For the first time, we conducted a joint analysis of the Big Five traits and attachment dimensions as predictors of jealousy, which considered gender differences as well as differences in infidelity experiences and relationship status. In 847 participants, path modeling showed that higher neuroticism, lower agreeableness, and lower openness predicted higher romantic jealousy. The attachment dimensions \"anxiety\" and \"depend\" partly mediated the effect of neuroticism and fully mediated the effect of agreeableness on romantic jealousy. The direct and indirect relationships did not differ as a function of gender, relationship status, and infidelity experiences. These findings contribute to a better understanding of individual differences in romantic jealousy from a personality perspective.",
+  "raw_path": "01_raw/europepmc_xml/PMC9039013.xml",
+  "text_path": "02_text/europepmc/PMC9039013.txt",
+  "raw_bytes": 148275,
+  "text_chars": 55612,
+  "raw_sha256": "99eb80da63b7ab9b0af82194c65a605c660b5d27966184d54b515c2ae93691d2",
+  "text_sha256": "6fe75ba1e0e36a0cb1bcca978d32f1333c93a60ba7b8ca3ce0be43ea6530fa5b",
+  "retrieved_at": "2026-10-25T15:40:03.746618+00:00"
+}

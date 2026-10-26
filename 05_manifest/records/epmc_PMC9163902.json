@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9163902",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual satisfaction and sexual behaviors during the COVID-19 pandemic: results from the International Sexual Health And REproductive (I-SHARE) health survey in Luxembourg.",
+  "authors": "Fischer VJ, Bravo RG, Brunnet AE, Michielsen K, Tucker JD, Campbell L, Vögele C.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1186/s12889-022-13509-x",
+  "pmcid": "PMC9163902",
+  "url": "https://europepmc.org/article/PMC/PMC9163902",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9163902/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Aim To identify the impact of COVID-19 measures on sexual behaviors and sexual satisfaction in Luxembourg residents. Methods We conducted a cross-sectional online survey of adults (> 18 years of age) residing in Luxembourg, while COVID-19 restrictions were in place. The survey was available from January 15 to February 12, 2021 in four languages (French, German, English and Portuguese). Survey questions focused on masturbation, cuddling, condom use, sex frequency, sexting, cybersex, watching porn, and sexual satisfaction. Results 557 volunteers completed the survey (35.5% men, 64.3% women). Sexual satisfaction and sexual problems variables were assessed on 4-point Likert scales (0 = not at all/never to 3 = very/often). Sexual problems increased during the COVID-19 measures while sexual satisfaction decreased compared to before the introduction of COVID-19 restrictions (assessed retrospectively). Factors associated with increased odds of sexual satisfaction included having a steady relationship before COVID-19 restrictions, engaging in sexting, reporting good mental health and not altering alcohol intake. Conclusions The context of the COVID-19 pandemic and the measures implemented in Luxembourg affected sexual behaviors and sexual satisfaction. Sexual and reproductive health care centers and health professionals in general should take these results into consideration when providing care. Recommendations on the importance of sexual health for general wellbeing and behaviors associated with sexual satisfaction should be offered and possibilities to experience sexuality while reducing contamination risks be discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC9163902.xml",
+  "text_path": "02_text/europepmc/PMC9163902.txt",
+  "raw_bytes": 121924,
+  "text_chars": 25790,
+  "raw_sha256": "aee201fe24279ab2a2cde0de4ee1c13ef22a0a1e07332c4d96e88747c1ab4de8",
+  "text_sha256": "e4b5217a37f2d4c003b884219e0eefbe29a0a1da795e619a1e0a820c3446cc1d",
+  "retrieved_at": "2026-10-26T13:12:19.246835+00:00"
+}

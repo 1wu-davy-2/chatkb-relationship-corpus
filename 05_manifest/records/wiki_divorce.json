@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_divorce",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "离婚",
+  "requested_title": "离婚",
+  "url": "https://zh.wikipedia.org/wiki/%E7%A6%BB%E5%A9%9A",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "divorce",
+    "relationship"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/divorce.json",
+  "text_path": "02_text/zh_wikipedia/divorce.txt",
+  "raw_bytes": 18761,
+  "text_chars": 6666,
+  "text_sha256": "b786841635f92150f56e007c9cae051d060eee5749ad0d46f430120f8d69ae5e",
+  "retrieved_at": "2026-10-25T15:36:13.313519+00:00"
+}

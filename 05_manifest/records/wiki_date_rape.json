@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_date_rape",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "约会强奸",
+  "requested_title": "约会强奸",
+  "url": "https://zh.wikipedia.org/wiki/%E7%BA%A6%E4%BC%9A%E5%BC%BA%E5%A5%B8",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 约会强奸",
+  "topics": [
+    "consent",
+    "safety",
+    "law"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/date_rape.json",
+  "text_path": "02_text/zh_wikipedia/date_rape.txt",
+  "raw_bytes": 18801,
+  "text_chars": 7332,
+  "text_sha256": "5860ccee4b562c6feddf4ee5a155bf278f8914be2b80294132001f47353142c1",
+  "retrieved_at": "2026-10-26T13:42:18.954037+00:00"
+}

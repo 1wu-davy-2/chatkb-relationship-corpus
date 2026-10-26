@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10864872",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Problematic Online Dating Apps Use Scale (PODAUS): Development and evaluation of its psychometric properties.",
+  "authors": "Gori A, Topino E, Griffiths MD.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1016/j.abrep.2024.100533",
+  "pmcid": "PMC10864872",
+  "url": "https://europepmc.org/article/PMC/PMC10864872",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10864872/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "The internet has facilitated significant transformations in interpersonal interactions, and offers new possibilities for finding romantic partners through the use of online dating apps. However, as with other technology-based tools, some individuals can develop problematic patterns of dating apps use, exhibiting symptoms resembling addiction. Consequently, the aim of the present study was the development of a new psychometric instrument to assess problematic dating apps use, the Problematic Online Dating Apps Use Scale (PODAUS), and the examination of its psychometric properties. The sample comprised 384 participants (254 females and 130 males; M age =25.90 years; SD =5.21) who used dating apps daily. They completed an online survey including the PODAUS, Bergen Social Media Addiction Scale, Cyber Pornography Addiction Test, Love Addiction Inventory-Short-Form, and Ten-Item Personality Inventory. The PODAUS showed a one-factor structure with good indications of validity, reliability, and gender measurement invariance. Problematic online dating apps use was significantly associated with problematic social media use, problematic cyberpornography use, love addiction, and three personality traits (i.e., agreeableness, conscientiousness, and openness). The PODAUS is a new and succinct self-report measure that assesses problematic dating apps use, and can be easily used in both research and clinical practice.",
+  "raw_path": "01_raw/europepmc_xml/PMC10864872.xml",
+  "text_path": "02_text/europepmc/PMC10864872.txt",
+  "raw_bytes": 125174,
+  "text_chars": 31431,
+  "raw_sha256": "6552135e687cdf009a58d112a84a5933ead6d612b2cd367a7b006ae6fdd31588",
+  "text_sha256": "66c2d3de60c66a22a0ed6b4112b6e57ae1562d89c891451c92d0c3e27e577f49",
+  "retrieved_at": "2026-10-25T15:42:21.702997+00:00"
+}

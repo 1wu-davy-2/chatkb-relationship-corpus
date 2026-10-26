@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_emotional_intelligence",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "情緒商數",
+  "requested_title": "情绪智力",
+  "url": "https://zh.wikipedia.org/wiki/%E6%83%85%E7%B7%92%E5%95%86%E6%95%B8",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "emotion",
+    "skills"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/emotional_intelligence.json",
+  "text_path": "02_text/zh_wikipedia/emotional_intelligence.txt",
+  "raw_bytes": 6574,
+  "text_chars": 2531,
+  "text_sha256": "384a048169063058b4412dd55bb0465ef0b8dc427e273fa37d046151eded42e2",
+  "retrieved_at": "2026-10-25T15:31:14.622880+00:00"
+}

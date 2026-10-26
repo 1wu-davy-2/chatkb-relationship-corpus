@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_money_laundering",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "洗錢",
+  "requested_title": "洗钱",
+  "url": "https://zh.wikipedia.org/wiki/%E6%B4%97%E9%8C%A2",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "fraud",
+    "money"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/money_laundering.json",
+  "text_path": "02_text/zh_wikipedia/money_laundering.txt",
+  "raw_bytes": 11776,
+  "text_chars": 4255,
+  "text_sha256": "d22c0e00c0d548296a91feb1765fa5465d39afcb4fd3a3ed16817c2b3dde62b9",
+  "retrieved_at": "2026-10-25T15:39:01.025916+00:00"
+}

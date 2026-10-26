@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13219989",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "REVISE Virtual Reality Intervention to Prevent Sexual Harassment in Heterosexual Couples: Protocol for a Randomized Controlled Trial.",
+  "authors": "Saavedra-Roa A, Vallejo-Medina P, Seinfeld S, Bourdin-Kreitz P, Guillén-Riquelme A, Marsa-Sambola F, Medina JC, Pineda-Marin C, Paz C, Angulo-Brunet A, Montesano A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.2196/91993",
+  "pmcid": "PMC13219989",
+  "url": "https://europepmc.org/article/PMC/PMC13219989",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13219989/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_harassment"
+  ],
+  "abstract": "Background A series of studies suggests that immersive virtual reality (IVR) can enhance perspective-taking and behavioral change by simulating real-world scenarios experienced from different points of view. IVR has emerged as a promising tool for the prevention of gender-based violence, including sexual harassment. However, evidence on the effectiveness of first-person embodiment-based interventions in fostering empathy and modifying gender-related attitudes remains limited. Objective This study aims to evaluate the efficacy of REVISE (Realidad Virtual Inmersiva y Sexualidad), an IVR-based intervention designed to influence beliefs related to sexual aggression and related psychosocial mechanisms in heterosexual men through partner identity exchange. Methods Ninety heterosexual couples will be randomly assigned to one of three experimental conditions: (1) IVR with partner identity exchange in a sexual harassment scenario, (2) IVR with partner identity exchange in a neutral scenario, or (3) third-person observation of a sexual harassment scenario. The intervention consists of a single IVR session, with assessments conducted at baseline, postintervention, and at 3-month follow-up. Data will include self-report questionnaires, physiological measures (eye tracking and pupillometry), and semistructured qualitative interviews. The primary outcome is the change in beliefs related to sexual aggression. Secondary outcomes include empathy, gender role attitudes, relationship functioning, and physiological responses. Results At the time of manuscript submission, recruitment had not yet begun. The study is expected to generate quantitative and qualitative data on changes in beliefs related to sexual aggression, empathy, gender-related attitudes, and physiological responses across experimental conditions. Conclusions The REVISE trial will contribute to the evidence base on IVR interventions for the prevention of gender-based violence. By integrating embodiment, behavioral simulation, and multimodal assessment, this study may inform the development of future technology-based interventions aimed at promoting gender-equitable and prosocial behaviors. Trial registration ClinicalTrials.gov NCT06839937; https://clinicaltrials.gov/study/NCT06839937. International registered report identifier (irrid) PRR1-10.2196/91993.",
+  "raw_path": "01_raw/europepmc_xml/PMC13219989.xml",
+  "text_path": "02_text/europepmc/PMC13219989.txt",
+  "raw_bytes": 127212,
+  "text_chars": 45559,
+  "raw_sha256": "df32c2498e107152edbb89b8734e5977bf8d8999ad4d8eb632801e3074a7863c",
+  "text_sha256": "e8d6953a519d3b936f4186d1d37f56a59a583e32318a7f88b34d3ff4d57f8dc9",
+  "retrieved_at": "2026-10-25T15:30:16.503475+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13391538",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Stress and loneliness in marriage: does loneliness moderate the effects of daily stress on marital satisfaction?",
+  "authors": "Frye-Cox N, Yorgason JB.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1871430",
+  "pmcid": "PMC13391538",
+  "url": "https://europepmc.org/article/PMC/PMC13391538",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13391538/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Although stress is widely recognized as a key predictor of marital satisfaction, less is known about how daily experiences of loneliness may shape this association. Loneliness, whether stable or fluctuating, may alter how spouses interpret and respond to daily stressors. Participants were 155 heterosexual married couples who completed daily surveys over seven consecutive days. Using a dyadic intensive longitudinal design, participants reported daily levels of stress, loneliness, and marital satisfaction. Results from dyadic multilevel models revealed that, for wives, average loneliness moderated the between-person association of stress and marital satisfaction, among wives who reported lower loneliness, higher stress was associated with lower marital satisfaction, whereas this association did not reach statistical significance among wives with higher levels of loneliness. For husbands, within-person fluctuations of daily loneliness moderated the within-person association of stress on marital satisfaction, with loneliness amplifying the association between daily stress and marital satisfaction. Both stable and fluctuating experiences of loneliness may alter how stress is associated with marital satisfaction, but these associations may differ for husbands and wives.",
+  "raw_path": "01_raw/europepmc_xml/PMC13391538.xml",
+  "text_path": "02_text/europepmc/PMC13391538.txt",
+  "raw_bytes": 160322,
+  "text_chars": 46992,
+  "raw_sha256": "e685666e7b2630888af0da95ff34dee56986471faf084d56b50b1b2d9a1660c0",
+  "text_sha256": "390d7fb45a96aecb203374e95620e00ad485daef2e2902eafd71f64a8e1c9bbb",
+  "retrieved_at": "2026-10-25T13:50:19.549654+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13601216",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Type D personality, sexual functioning, sexual satisfaction, and risky sexual behaviors among Polish university students: a cross-sectional study",
+  "authors": "Florczyk I, Stokłosa M, Więckiewicz G, Dębski P, Gorczyca P.",
+  "year": "",
+  "journal": "",
+  "doi": "",
+  "pmcid": "PMC13601216",
+  "url": "https://europepmc.org/article/PMC/PMC13601216",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13601216/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "",
+  "raw_path": "01_raw/europepmc_xml/PMC13601216.xml",
+  "text_path": "02_text/europepmc/PMC13601216.txt",
+  "raw_bytes": 207377,
+  "text_chars": 56881,
+  "raw_sha256": "76c6577a73545fcdc558c9cea3179fec21ef11104bbed4e61f007e89e422c446",
+  "text_sha256": "49a391fd1aaf03d297c390a6b21ad972d25d944ba297d15519a48653aac3e7c8",
+  "retrieved_at": "2026-10-26T12:56:21.477481+00:00"
+}

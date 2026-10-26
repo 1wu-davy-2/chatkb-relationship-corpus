@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_anger",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "憤怒",
+  "requested_title": "愤怒",
+  "url": "https://zh.wikipedia.org/wiki/%E6%86%A4%E6%80%92",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 憤怒",
+  "topics": [
+    "emotion"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/anger.json",
+  "text_path": "02_text/zh_wikipedia/anger.txt",
+  "raw_bytes": 6149,
+  "text_chars": 2330,
+  "text_sha256": "bd9d0abedee7734cc26217c00adc116dabedf4083ffe3b0c875e96a296126cd9",
+  "retrieved_at": "2026-10-25T16:24:06.618249+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8360931",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"What Are You Looking For?\" Investigating the Association Between Dating App Use and Sexual Risk Behaviors.",
+  "authors": "Flesia L, Fietta V, Foresta C, Monaro M.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1016/j.esxm.2021.100405",
+  "pmcid": "PMC8360931",
+  "url": "https://europepmc.org/article/PMC/PMC8360931",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8360931/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_apps_safety"
+  ],
+  "abstract": "Introduction Literature on the association between dating app use and sexual risk behaviors is still scant and inconclusive. Aim To investigate the association between dating app use and sexual risk behaviors, considering the role of motives for using them. Methods 1,278 Italian respondents completed an online questionnaire assessing demographics, motives and patterns of dating app use, sexual behaviors and sexually transmitted infections (STIs) diagnoses. One-way ANOVA and Chi-squared analyses were used to investigate differences among the three subsamples (active vs former vs non-users). Multiple linear and logistic regression analyses were run to investigate the role of demographics, motives and patterns of dating app use on sexual risk taking and sexual health. Main outcome measures Number of protected and unprotected full sexual partners in the last year; frequency of hook-ups in the last year; STIs lifetime. Results Active users, even more than former app users, were more likely to report risky behaviors and STI diagnoses than non-users (χ 2 = 26.37, P Conclusion Installing the apps to search for sexual partners, using them at length since first installation and accessing them frequently are significant factors in influencing the association between dating app use and sexual risk behaviors. Flesia L, Fietta V, Foresta C, Monaro M. \"What Are You Looking For?\" Investigating the Association Between Dating App Use and Sexual Risk Behaviors. Sex Med 2021;9:100405.",
+  "raw_path": "01_raw/europepmc_xml/PMC8360931.xml",
+  "text_path": "02_text/europepmc/PMC8360931.txt",
+  "raw_bytes": 135752,
+  "text_chars": 44550,
+  "raw_sha256": "5a3115a8cdf60280ec4b6ab419dfda9f7c481a770d824800302329c93c07afd1",
+  "text_sha256": "c91599a577623fbaaa4b5cd462dc716c474123838407ff2f398863da4da1b38d",
+  "retrieved_at": "2026-10-25T15:27:41.337516+00:00"
+}

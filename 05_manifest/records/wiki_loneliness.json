@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_loneliness",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "孤独",
+  "requested_title": "孤独",
+  "url": "https://zh.wikipedia.org/wiki/%E5%AD%A4%E7%8B%AC",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "loneliness",
+    "emotion"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/loneliness.json",
+  "text_path": "02_text/zh_wikipedia/loneliness.txt",
+  "raw_bytes": 3784,
+  "text_chars": 1531,
+  "text_sha256": "f4578b770a96dddd8de4ee018481fe0a7a5a4d5b6f8a6492b476b9668da02b1d",
+  "retrieved_at": "2026-10-25T15:32:17.132351+00:00"
+}

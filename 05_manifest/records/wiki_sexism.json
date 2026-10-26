@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_sexism",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "性別歧視",
+  "requested_title": "性别歧视",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E6%AD%A7%E8%A6%96",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 性別歧視",
+  "topics": [
+    "gender"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/sexism.json",
+  "text_path": "02_text/zh_wikipedia/sexism.txt",
+  "raw_bytes": 9344,
+  "text_chars": 3553,
+  "text_sha256": "43205b0bf97ff95226e9e8f512661121ddd735578ae6eaea4fd9d7416714584d",
+  "retrieved_at": "2026-10-25T16:29:14.529483+00:00"
+}

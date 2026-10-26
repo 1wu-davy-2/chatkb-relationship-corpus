@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11490099",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Investigating the relationship between internet addiction, domestic violence, and emotional divorce among married women in Tehran.",
+  "authors": "Latifian M, Arshi M, Alipour F, Harouni GG, Islam MSS.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s12888-024-06139-7",
+  "pmcid": "PMC11490099",
+  "url": "https://europepmc.org/article/PMC/PMC11490099",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11490099/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Background Identifying the factors affecting emotional divorce due to the negative consequences of this social problem in women can play an important role in preventing its occurrence. Therefore, the present study aimed to investigate the relationship between internet addiction, domestic violence, and emotional divorce among married women in Tehran. Methods A cross-sectional survey was conducted among married women in Tehran, Iran. Sampling was conducted first through a multi-stage cluster method and then continued using a random method. Tehran was divided into five parts: central, northern, southern, eastern, and western. The sample size was divided by 5, resulting in 80 participants selected from each part. In each part, two regions were selected, and in each region, 40 houses were randomly selected. Researchers visited the selected houses, and the questionnaires were filled out at home by the women. Tools such as Gottman's Emotional Divorce Test, Young's Internet Addiction Test, and the Domestic Violence against Women Survey were used to collect data. Descriptive and inferential statistics were used to analyze the data in SPSS (version 24) software. Results A total of 400 women participated in the study. 46% of all married women suffered emotional divorce. The analysis of these tests showed that are positive and significant relationships between emotional divorce and internet addiction (r = 0.626, p Conclusion Almost half of the married women in this study experienced emotional divorce, internet addiction, and domestic violence. These factors have a direct relationship with emotional divorce. Future studies are needed to understand how internet addiction might be associated with separation, emotional divorce and family problems.",
+  "raw_path": "01_raw/europepmc_xml/PMC11490099.xml",
+  "text_path": "02_text/europepmc/PMC11490099.txt",
+  "raw_bytes": 90551,
+  "text_chars": 31190,
+  "raw_sha256": "1b08911eb9519ff5a210b737ce2a413b371d160b0bb88d8222e9d8d16ab708b2",
+  "text_sha256": "41106030ac7c234c16fae3318c9d3ac0ef83444142720b2a7856fd67f02fd7a8",
+  "retrieved_at": "2026-10-25T15:33:32.996697+00:00"
+}

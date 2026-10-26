@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11825742",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Explaining the prevalence of marital conflict: conceptual bifurcation and sociological explanations.",
+  "authors": "Ho WC.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fsoc.2025.1490385",
+  "pmcid": "PMC11825742",
+  "url": "https://europepmc.org/article/PMC/PMC11825742",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11825742/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair",
+    "marriage_communication"
+  ],
+  "abstract": "Sociologists have investigated extensively marital conflict which is supposedly \"antithesis\" of marriage. However, there is little systematic reflection on how the coexistence of universal marriage and prevalent spousal discord in diverse cultural settings can possibly explained sociologically. This conceptual paper aims to address this issue by first critically reviewing how scholars have assessed the prevalence of marital conflict in human societies. This review is then extended to the conceptual elusiveness in gauging \"marital conflict,\" arguing that the concept has been inadvertently bifurcated as (i) a constituent (oft-represented as a single global continuous measure) of certain critical consequential events within a marriage (e.g., divorce); and (ii) a predisposition (oft-represented in terms of a set of multifarious binary variables) in pair-bonding relationships that increases the likelihood of the occurrence of certain critical consequential events. Such conceptual bifurcation sheds light on two board distinctive approaches-roughly termed contextual and evolutionary-through which the coexistence of marriage formation and martial conflict can be sociologically explained. Implications are briefly discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC11825742.xml",
+  "text_path": "02_text/europepmc/PMC11825742.txt",
+  "raw_bytes": 138669,
+  "text_chars": 45578,
+  "raw_sha256": "141bc52498a11dbb473a173acff5e9d8e9707a2f62da1c6f62d7e36fb806874b",
+  "text_sha256": "6054283077693ab241ba24d5f24826074926abf181d44b4eb39f336b5a7ee563",
+  "retrieved_at": "2026-10-25T14:00:46.990003+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12610924",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Attachment, Power/Influence, Conflict Management Strategies, and Sexual Aggression in Emerging Adult Romantic Relationships.",
+  "authors": "Vicario-Molina I, Fernández-Fuertes AA, Fuertes A, Orgaz-Baz MB.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/sjop.13125",
+  "pmcid": "PMC12610924",
+  "url": "https://europepmc.org/article/PMC/PMC12610924",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12610924/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "Sexual aggression among young people is a public health concern. Although many episodes take place in a couple's relationship, few studies have explored the importance of relational variables in this interpersonal context. Of special interest may be the variables in a couple's functioning related to connectedness, power/influence, and conflict management. This dyadic longitudinal study aimed to examine the relationship between relational variables and sexual aggression in emerging adult romantic relationships. The sample consisted of 133 young heterosexual Spanish couples (mean age = 19.44; SD = 1.41) who completed an online questionnaire. At time 1 (T1), romantic attachment, partner's attempt to influence, perception of actual partner influence, conflict management strategies, and sexual aggression (perpetration and victimization) were assessed; 9 months later (T2), sexual aggression was assessed again. The data were analyzed following the Actor-Partner Interdependence Model (APIM). Males reported higher levels of perpetration than females, and females reported more victimization. Attachment-related anxiety predicted perpetration and victimization in both males and females (T1). In addition, males reported more perpetration when they perceived their partners as attempting to gain power in the relationship (T1) or having more actual influence in the romantic relationship (T2); whereas in females, victimization was more likely when they perceived more partner influence (T1 and T2), and their partners reported more female attempts at influence (T2). Negative conflict management strategies also explained male perpetration (T1 and T2) and female victimization (T1 and T2). These findings suggest the need to develop interventions aimed at promoting equity and relationship skills for emerging adults.",
+  "raw_path": "01_raw/europepmc_xml/PMC12610924.xml",
+  "text_path": "02_text/europepmc/PMC12610924.txt",
+  "raw_bytes": 230396,
+  "text_chars": 59521,
+  "raw_sha256": "bb53142b8d57261dbb30e0a15ac35d00b2e94b7ca5fa6db14ad6d171ba322814",
+  "text_sha256": "707614331bde0a6fc9fd7a8db63b6e49ea1b6d59684765471a21eae4bec4671b",
+  "retrieved_at": "2026-10-25T15:45:15.740138+00:00"
+}

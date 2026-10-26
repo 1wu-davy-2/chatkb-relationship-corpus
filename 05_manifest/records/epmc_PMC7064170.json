@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7064170",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "In the context of romantic attraction, beautification can increase assertiveness in women.",
+  "authors": "Blake KR, Brooks R, Arthur LC, Denson TF.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0229162",
+  "pmcid": "PMC7064170",
+  "url": "https://europepmc.org/article/PMC/PMC7064170",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7064170/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Can beautification empower women to act assertively? Some women report that beautification is an agentic and assertive act, whereas others find beautification to be oppressive and disempowering. To disentangle these effects, in the context of romantic attraction we conducted the first experimental tests of beautification-on psychological and behavioral assertiveness. Experiment 1 (N = 145) utilized a between-subjects design in which women used their own clothing, make-up, and accessories to adjust their appearance as they normally would for a \"hot date\" (beautification condition) or a casual day at home with friends (control condition). We measured implicit, explicit, and behavioral assertiveness, as well as positive affect and sexual motivation. Experiment 2 (N = 40) sought to conceptually replicate Experiment 1 using a within-subject design and different measures of assertiveness. Women completed measures of explicit assertiveness and assertive behavioral intentions in three domains, in whatever clothing they were wearing that day then again after extensively beautifying their appearance. In Experiment 1, we found that women demonstrated higher psychological assertiveness after beautifying their appearance, and that high sexual motivation mediated the effect of beautification on assertive behavior. All effects were independent of positive affect. Experiment 2 partially replicated Experiment 1. These experiments provide novel insight into the effects of women's appearance-enhancing behaviors on assertiveness by providing evidence that beautification may positively affect assertiveness in women under some circumstances.",
+  "raw_path": "01_raw/europepmc_xml/PMC7064170.xml",
+  "text_path": "02_text/europepmc/PMC7064170.txt",
+  "raw_bytes": 182675,
+  "text_chars": 58096,
+  "raw_sha256": "7cc9f8a6de60cd50d5fec7869ec914bc299e66f0ee2181ebd55399be73860aa4",
+  "text_sha256": "b7d18d3484ad4dd45a64ee52e06a84e946a2760c6da3f87eb0390174ae388fc5",
+  "retrieved_at": "2026-10-25T15:45:30.248642+00:00"
+}

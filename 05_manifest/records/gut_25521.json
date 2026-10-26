@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_25521",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "玉梨魂",
+  "gutenberg_id": "25521",
+  "url": "https://www.gutenberg.org/ebooks/25521",
+  "download_url": "https://www.gutenberg.org/cache/epub/25521/pg25521.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/25521.txt",
+  "text_path": "02_text/gutenberg/gut_25521_玉梨魂.txt",
+  "raw_bytes": 342295,
+  "text_chars": 106950,
+  "text_sha256": "a1990d17153f771ae403f66a3edf817ce14f0ea77822cc464444b356a677f78c",
+  "retrieved_at": "2026-10-25T15:51:16.394846+00:00"
+}

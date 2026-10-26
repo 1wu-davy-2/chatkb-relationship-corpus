@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_storytelling",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "說故事",
+  "requested_title": "讲故事",
+  "url": "https://zh.wikipedia.org/wiki/%E8%AA%AA%E6%95%85%E4%BA%8B",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 說故事",
+  "topics": [
+    "skills",
+    "conversation"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/storytelling.json",
+  "text_path": "02_text/zh_wikipedia/storytelling.txt",
+  "raw_bytes": 4685,
+  "text_chars": 2564,
+  "text_sha256": "af22233663a98e5c979a657e39368ff26ceab9b53184a6d7e747388a7d66797d",
+  "retrieved_at": "2026-10-25T16:20:06.355695+00:00"
+}

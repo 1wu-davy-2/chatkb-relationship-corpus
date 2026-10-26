@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12958656",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Beyond the virus: demographic and psychological predictors of marital satisfaction in HPV-infected Iranian women.",
+  "authors": "Galeshi M, Faghani Z, Ahmadzadeh Tori N.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s13104-026-07691-z",
+  "pmcid": "PMC12958656",
+  "url": "https://europepmc.org/article/PMC/PMC12958656",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12958656/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "OBJECTIVE: Human papillomavirus, a common sexually transmitted infection, may negatively affect psychological health and marital relationships. This study aimed to examine individual and psychological predictors of marital satisfaction among married Iranian women diagnosed with human papillomavirus. RESULTS: This descriptive-analytical study included 238 married women with a confirmed diagnosis of human papillomavirus. Most participants reported moderate depression and severe to very severe anxiety, while stress levels were predominantly normal to mild. Nearly all participants reported moderate levels of marital satisfaction. Univariate analyses identified significant associations between marital satisfaction and age, women’s education, spouse’s education, employment status, family income, tobacco use, and psychological variables. Multiple linear regression analyses showed that age, women’s education, spouse’s education, and spouse’s tobacco use were significant predictors of overall marital satisfaction. Anxiety, stress, and women’s tobacco use predicted communication, whereas spouse’s employment status and family income predicted conflict resolution. Age and spouse’s education were associated with idealistic distortion. Among the examined variables, spouse’s education and stress demonstrated the strongest effects in their respective models.",
+  "raw_path": "01_raw/europepmc_xml/PMC12958656.xml",
+  "text_path": "02_text/europepmc/PMC12958656.txt",
+  "raw_bytes": 115462,
+  "text_chars": 32396,
+  "raw_sha256": "23491a7d9f84e101712f2c2e447f6749778507615ddc070aa20b7b13d9c56dd6",
+  "text_sha256": "2ba2d216ca86397395a51a020dd4109f306099c1315575ad430f381619030c39",
+  "retrieved_at": "2026-10-25T15:44:31.002994+00:00"
+}

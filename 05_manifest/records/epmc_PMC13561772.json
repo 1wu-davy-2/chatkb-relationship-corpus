@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13561772",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychological distress, stigma, and intersectional marginalization in lesbian and bisexual cisgender women in Chinese higher education: a thematic analysis guided by minority stress theory.",
+  "authors": "Liu Y.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpubh.2026.1893495",
+  "pmcid": "PMC13561772",
+  "url": "https://europepmc.org/article/PMC/PMC13561772",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13561772/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "china_marriage"
+  ],
+  "abstract": "Background Lesbian and bisexual cisgender women in Chinese higher education institutions (HEIs) face compounded psychological distress at the intersection of gender- and sexuality-based stigma. Despite growing evidence of mental health disparities among LGBTQ populations in China, the mechanisms through which structural marginalization is internalized in educational settings remain poorly understood. Objective To identify how structural stigma is translated into internalized psychological harm among lesbian and bisexual cisgender women in Chinese HEIs, through specific, theoretically specified mechanisms. Methods Using a critical realist, reflexive thematic analysis design, I conducted semi-structured interviews with eight self-identified lesbian, bisexual, or same-sex attracted cisgender women at universities in four province-level regions of China. Analysis followed Braun and Clarke's (2006) six-phase approach, guided by Meyer's (2003) minority stress model, Hatzenbuehler's (2009) psychological mediation framework, and Crenshaw's (1989) intersectionality theory. Researcher positionality was integrated analytically throughout. Results Five themes were identified: (1) awareness of structural inequality as anticipatory anxiety and cognitive vigilance; (2) institutional resource deprivation undermining academic self-efficacy; (3) enacted and internalized stigma and their psychological consequences, including shame, identity concealment, and self-reported depressive symptoms; (4) intersectional invisibility compounding distress; and (5) attenuated outcomes where community and institutional support are present. Three mediation pathways were consistently operative: social-cognitive, emotional regulatory, and interpersonal (Hatzenbuehler, 2009). No diagnostic instrument was administered; all psychological states reported are self-described and interpreted from interview accounts. Discussion Distal stigma, internalized homophobia, culture-specific marriage pressure, and regional pathologization interact in complex ways to shape distress, disrupted identity development, and academic disengagement. I examine the limits of applying Western minority stress frameworks in a collectivist context and propose responses grounded in trauma-informed care, LGBTQ-affirmative services, enumerated non-discrimination policy, and educator anti-stigma training. Conclusion The psychological distress of this underserved population is structurally produced, psychologically mediated, and institutionally addressable. Affirmative mental health infrastructure, enumerated anti-discrimination policy, and LGBTQ-inclusive educator training can meaningfully reduce minority stress and its consequences.",
+  "raw_path": "01_raw/europepmc_xml/PMC13561772.xml",
+  "text_path": "02_text/europepmc/PMC13561772.txt",
+  "raw_bytes": 185427,
+  "text_chars": 101302,
+  "raw_sha256": "cfd52d5663724ccec57c1f72b865d19bb2f0946439bfa162098c3227244ffe2b",
+  "text_sha256": "2f50255b5cfbf78d9bbe32419571f02124906b340f2adf70acadee0af884cb54",
+  "retrieved_at": "2026-10-25T13:47:34.950294+00:00"
+}

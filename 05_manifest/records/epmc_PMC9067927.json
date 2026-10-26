@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9067927",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The effect of mating market dynamics on partner preference and relationship quality among Himba pastoralists.",
+  "authors": "Prall S, Scelza B.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1126/sciadv.abm5629",
+  "pmcid": "PMC9067927",
+  "url": "https://europepmc.org/article/PMC/PMC9067927",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9067927/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction_physical"
+  ],
+  "abstract": "Relative mate value has long been believed to be a critical component of mate choice in humans. However, most empirical work focuses on preferences rather than actual pair formation, and data connecting partner preferences, partnership formation, and relationship quality remain rare. Here, we estimate mate value using >12,000 ratings by opposite-sex, in-group members to understand both hypothetical partnership preferences and actualized relationship dynamics. When evaluating hypothetical partnerships, people generally prefer individuals whose mate value is higher than their own, indicating an aspirational matching strategy. However, mate value comparisons of individuals in marital and nonmarital relationships show a positive correlation, suggesting that individuals tend to pair up with similarly desirable individuals. Furthermore, despite aspirational preferences, couples who are more closely matched reported greater relationship quality, measured through frequency of interactions, reported sexual histories, and partnership length.",
+  "raw_path": "01_raw/europepmc_xml/PMC9067927.xml",
+  "text_path": "02_text/europepmc/PMC9067927.txt",
+  "raw_bytes": 90658,
+  "text_chars": 35969,
+  "raw_sha256": "98674a527b3ec3721f319ab3058bd644967cb39a8c2d3c9558857bebdb2817bd",
+  "text_sha256": "8f13ece8b44017057460742fa30fb313c0531dd44b3842b4a567bb98340772d3",
+  "retrieved_at": "2026-10-25T15:41:19.293086+00:00"
+}

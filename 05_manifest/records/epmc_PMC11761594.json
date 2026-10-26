@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11761594",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Predictors of Young Adult Women's Psychological Well-Being in Romantic Relationships.",
+  "authors": "Yöyen E, Çalık S, Güneri Barış T.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15010082",
+  "pmcid": "PMC11761594",
+  "url": "https://europepmc.org/article/PMC/PMC11761594",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11761594/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy",
+    "romantic_relationship"
+  ],
+  "abstract": "Psychological well-being is the experience of fewer negative emotions, such as feelings of loneliness, depression, and low mood, and more positive emotions, such as taking pride in one's life, being enthusiastic about one's life, and having a highly satisfying purpose in life. In other words, it describes an individual who is happy and free from psychopathology. Psychological well-being in romantic relationships is influenced by several factors, such as empathy, relationship stability, and quality of sex life. This study was conducted to examine the relationship between psychological well-being and empathy, quality of sexual life, love, relationship intimacy, and relationship stability among women in romantic relationships. This study included 415 female participants aged 23-45 who had been in a romantic relationship for at least 12 months. Data were collected using the Sociodemographic Data Form, the Psychological Well-Being Scale (PWBS), the Basic Empathy Scale (BES), the Sexual Quality of Life Scale-Women's Form (SQLS), the Relationship Stability Scale (RSS), the Passionate Love Scale (PLS) and the Romantic Relationship Closeness Scale (RRCS). Independent group t -test, one-way analysis of variance (ANOVA), Pearson correlation analysis, and regression analysis were used to analyse the data. The analyses found that the variables that predicted psychological well-being were the relationship satisfaction sub-dimension of the relationship stability scale, quality of sexual life, empathy, and having children. In addition, correlational analysis revealed that empathy, sexual quality of life, intimacy in romantic relationships, relationship satisfaction, and relationship attachment were significantly positively correlated with psychological well-being. In terms of demographic information, it was found that scores for evaluating options in the relationship increased as education level increased; scores for investing in the relationship increased as education level decreased; passionate love was more common among working women; having children increased psychological well-being but decreased intimacy in romantic relationships; and quality of sexual life increased as seriousness in the relationship increased. The results of this study may be useful to psychologists and psychiatrists in their studies of female clients, to sociologists and public health specialists in their studies of women, and to policy makers in determining public health policies.",
+  "raw_path": "01_raw/europepmc_xml/PMC11761594.xml",
+  "text_path": "02_text/europepmc/PMC11761594.txt",
+  "raw_bytes": 256657,
+  "text_chars": 54955,
+  "raw_sha256": "4c8468fbb23a24602bcc048338b762e4bae737cace5ac40b8752fc2f20d11376",
+  "text_sha256": "73be95deb63c44107c3e1f197d4fc0759054ac6ce12c899c7153b61f2de811dd",
+  "retrieved_at": "2026-10-25T13:58:20.411541+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13597590",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Estimation of Sexual and Gender Diversity Among People Aged 15 Years and Older in Japan: A Descriptive Epidemiological Study Using a Nationwide Cross-Sectional Internet Survey.",
+  "authors": "Minami T, Inoue M, Matsushima M, Yoshioka T, Tabuchi T.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s10508-026-03515-0",
+  "pmcid": "PMC13597590",
+  "url": "https://europepmc.org/article/PMC/PMC13597590",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13597590/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Evidence on the proportion and characteristics of sexual and gender minorities (SGM) in Japan is limited. We aimed to provide nationally calibrated, descriptive estimates of sexual orientation and gender identity (SOGI) distributions and related socioeconomic and health indicators. We analyzed a nationwide web survey conducted in Japan in September-October 2022. SOGI was estimated using a two-step measure of assigned sex at birth and current gender identity, plus a romantic/sexual attraction item for sexual orientation. Gender-diverse (GD) respondents were not reclassified by sexual orientation. We produced population estimates from 27,690 eligible respondents using inverse probability weighting calibrated to the 2019 Comprehensive Survey of Living Conditions. Among the Japanese population aged 15 years and over, 8.6% were estimated to identify as SGM, namely 4.9% as gay/lesbian, 1.1% as bisexual, 1.0% as asexual, and 1.6% as GD. All measures were self-reported and differences were interpreted as weighted distributions rather than causal effects. SGM respondents were more concentrated in younger groups and less often married or partnered than cisgender heterosexual respondents. We also observed disparities in several socioeconomic and health-related indicators, including household income, employment status, and psychological distress, with mixed directions for smoking and drinking. Patterns varied by assigned sex at birth and differed in part from Western reports. These findings provide nationally calibrated descriptive evidence on SOGI subpopulations in Japan and support routine inclusion of SOGI items in administrative and population surveys.",
+  "raw_path": "01_raw/europepmc_xml/PMC13597590.xml",
+  "text_path": "02_text/europepmc/PMC13597590.txt",
+  "raw_bytes": 252830,
+  "text_chars": 46342,
+  "raw_sha256": "172c595e313827f53536d5aee11809259ed74dbb6b1e869c106a4a663a5a1c6d",
+  "text_sha256": "c7f6b62f78371af4ab1a9fab7c1198a87e1dd3a521772540f5267715c1eabe62",
+  "retrieved_at": "2026-10-25T14:02:32.753448+00:00"
+}

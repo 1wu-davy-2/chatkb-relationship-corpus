@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12141049",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Daily perceived stress and sexual health in couples with sexual interest/arousal disorder.",
+  "authors": "Girouard A, Bergeron S, Huberman JS, Rosen NO.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1016/j.ijchp.2025.100582",
+  "pmcid": "PMC12141049",
+  "url": "https://europepmc.org/article/PMC/PMC12141049",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12141049/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_desire_gap"
+  ],
+  "abstract": "Objective Sexual Interest/Arousal Disorder (SIAD) is a common and distressing sexual health concern that may add stress to couple's daily lives and maintain the low sexual desire/arousal. While stress has been linked to lower sexual desire, sexual satisfaction, and higher sexual distress in cross-sectional studies with community couples, dyadic research at the intersection of stress and sexual health is scarce. We examined the daily associations between perceived stress and sexual health among couples coping with SIAD. Methods Women and gender diverse individuals with SIAD, and their partners, ( N = 229, M age = 34.94) completed online validated measures of perceived stress, sexual desire, satisfaction, and distress for 56 days. Data were analyzed with residual dynamic structural equation modeling guided by the Actor-Partner Independence Model. Results On days when individuals with SIAD perceived more stress than usual, they and their partners reported lower sexual satisfaction and desire, and higher sexual distress. On days when partners perceived more stress, they and individuals with SIAD reported lower sexual satisfaction and desire, and partners also reported higher sexual distress. Between-person results across the diary period showed similar patterns, though fewer effects overall. Conclusion Findings highlight dyadic processes in sexual health whereby one partner's daily stress was associated with lower sexual health for both partners. Stress might orient partners away from sensitive support provision and interfere with intimacy, which is crucial to sexual health. Interventions fostering sexual health in couples with SIAD should include a focus on stress management.",
+  "raw_path": "01_raw/europepmc_xml/PMC12141049.xml",
+  "text_path": "02_text/europepmc/PMC12141049.txt",
+  "raw_bytes": 134356,
+  "text_chars": 37522,
+  "raw_sha256": "1170f804d8ab84a8b452e854a92e14c2deb20b6d89ee3aa43bcc47be297a7b9f",
+  "text_sha256": "38f8dd7986b6b5efb1f6ed7246e2549ffcd47d0a71729b3f719fd0d3a516b3ce",
+  "retrieved_at": "2026-10-26T12:55:24.561112+00:00"
+}

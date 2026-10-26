@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12719663",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Assortative Mating Across the Full Spectrum of Mental Disorders: A Nationwide Finnish Register Study.",
+  "authors": "Golovina K, Gutvilig M, Niemi R, Hakulinen C.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1016/j.bpsgos.2025.100642",
+  "pmcid": "PMC12719663",
+  "url": "https://europepmc.org/article/PMC/PMC12719663",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12719663/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "Background Previous research has shown assortative mating across various psychiatric disorders; however, their definitions of partnership have often been limited, and the timing of relationship formation has been imprecise. In this study, we aimed to comprehensively examine assortative mating across the full spectrum of mental disorders using population-wide register data from Finland that include information on the formation of both marriages and cohabiting unions. Methods We used nationwide data on all cohabitations and marriages between 2000 and 2020 from the Finnish Population Register ( n = 1,271,242 partnerships). Broad and specific categories of mental disorder diagnoses were retrieved from both primary and secondary health care registers in Finland. We calculated tetrachoric correlations between partners' mental disorder diagnoses, considering only diagnoses received before the start of cohabitation or marriage. Results Assortative mating was observed across the full spectrum of mental disorders, with the strongest within-disorder correlations for schizophrenia, psychotic disorders, organic mental disorders, and intellectual disabilities ( r > 0.50). Moderate correlations were found for mood and anxiety disorders. Adjusting for birth decade and excluding comorbidities slightly attenuated the associations but did not change the overall patterns. Conclusions This study suggests that assortative mating is prevalent in mental disorders. Assortative mating may contribute to the transmission and clustering of mental disorders within families, highlighting the importance of considering partner selection in mental health research and policy making.",
+  "raw_path": "01_raw/europepmc_xml/PMC12719663.xml",
+  "text_path": "02_text/europepmc/PMC12719663.txt",
+  "raw_bytes": 76757,
+  "text_chars": 29719,
+  "raw_sha256": "9745257a468e8ebadda2bdd987d84259f7fd9fbe0de984c766b0d1aba538eb20",
+  "text_sha256": "5037a17f13bbf7baf4b60b434cdda3aa57303d1af621a96682838de1b418a257",
+  "retrieved_at": "2026-10-25T15:36:50.424553+00:00"
+}

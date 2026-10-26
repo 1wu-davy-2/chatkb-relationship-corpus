@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4915672",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Within-Sulfonylurea-Class Evaluation of Time to Intensification with Insulin (ZODIAC-43).",
+  "authors": "Schrijnders D, Hartog LC, Kleefstra N, Groenier KH, Landman GW, Bilo HJ.",
+  "year": "2016",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0157668",
+  "pmcid": "PMC4915672",
+  "url": "https://europepmc.org/article/PMC/PMC4915672",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4915672/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "astrology_belief"
+  ],
+  "abstract": "Background Previous studies have shown that many within-class differences exist between sulfonylureas (SUs), however, whether differences exist regarding the time it takes between initiating an SU and the need to intensify treatment with insulin is unclear. The aim of this study was investigate the relationships between the three frequently used sulphonylureas, prescribed as dual therapy next to metformin, and the time needed to treatment intensification with either insulin or oral triple therapy in patients with type 2 diabetes mellitus. Methods Zwolle Outpatient Diabetes project Integrating Available Care (ZODIAC) is a prospective observational cohort study set in primary care in the Netherlands. Annually collected data on diabetes medication and clinical variables within ZODIAC are used to evaluate the primary outcome, time to insulin and secondary outcome, time to either insulin or triple oral therapy. For statistical analysis a time-dependent cox proportional hazard model was used. Results 3507 patients were included in the analysis, with a mean age of 61 (SD 11.4) and a median HbA1c of 6.8% [IQR 6.4-7.4] (50.8 mmol/mol [IQR 46.4-57.4]).The hazard ratio (HR) for the primary endpoint was 1.10 (95% CI 0.78-1.54) for metformin/glimepiride and 0.93 (95% CI 0.67-1.30) for metformin/tolbutamide with metformin/gliclazide as reference group. The HR for the secondary outcome was 1.04 (95% CI 0.78-1.40) and 0.85 (95% CI 0.64-1.13), respectively. Conclusion In this large Dutch primary care cohort, new users of neither gliclazide, glimepiride nor tolbutamide as dual therapy with metformin, resulted in differences in the time needed for further treatment intensification.",
+  "raw_path": "01_raw/europepmc_xml/PMC4915672.xml",
+  "text_path": "02_text/europepmc/PMC4915672.txt",
+  "raw_bytes": 48009,
+  "text_chars": 13843,
+  "raw_sha256": "d47f15514051753e72d2e38df477f4fb2ee61d606d253b7651294ff2bfc9adb0",
+  "text_sha256": "7bdbb44023d252b9cfcf59200dcbcfd0ed428630f8465160eaa71ccf2bebf7ed",
+  "retrieved_at": "2026-10-26T13:06:57.440435+00:00"
+}

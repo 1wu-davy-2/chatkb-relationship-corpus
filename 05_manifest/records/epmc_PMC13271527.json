@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC13271527",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Short-Term and Long-Term Mating Strategies Show Distinct Patterns of Attraction to Dominance and Prestige.",
+  "authors": "Witkower Z, Rule NO.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/19485506251386119",
+  "pmcid": "PMC13271527",
+  "url": "https://europepmc.org/article/PMC/PMC13271527",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13271527/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting",
+    "sex_positive_attitudes"
+  ],
+  "abstract": "People generally covet high-rank romantic partners. Yet, the multidimensional strategies of attaining social rank (dominance and prestige) and sociosexuality (long-term and short-term mating orientations) leave open the question of which strategies for attaining social rank are coveted, and by whom. We provide greater resolution into understanding attraction to social rank strategies by demonstrating that people with higher long-term mating orientations show an attraction to prestige strategists, but an aversion to dominance strategists, whereas people with higher short-term mating orientations show increased attraction to people who pursue high rank in the form of both dominance and prestige. These effects emerged for men and women across studies measuring partner preferences through personality traits (Study 1) and facial photographs (Study 2). Mate attraction to social rank strategies thus differs by people's mating orientation and the type of social rank strategy, supporting our preregistered hypotheses.",
+  "raw_path": "01_raw/europepmc_xml/PMC13271527.xml",
+  "text_path": "02_text/europepmc/PMC13271527.txt",
+  "raw_bytes": 96298,
+  "text_chars": 31921,
+  "raw_sha256": "32e8c5007c47027e15135d05a070f5172667d571e40b54175982c26b1633c5c7",
+  "text_sha256": "d6ded7d7005a5d8b6ea9c3cec9a686556752cfd2f27c2dd4f21d39ae693fbaf0",
+  "retrieved_at": "2026-10-25T13:50:46.851466+00:00"
+}

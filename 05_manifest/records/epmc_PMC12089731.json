@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12089731",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Influence of Mating Context on Creativity: Insights from Simulated Dating Scenarios.",
+  "authors": "Galasinska K, Szymkow A, Varella MAC.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/14747049251337983",
+  "pmcid": "PMC12089731",
+  "url": "https://europepmc.org/article/PMC/PMC12089731",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12089731/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction",
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Creativity offers both survival and reproductive benefits, being a desirable trait in potential mates and linked to fertility and sexuality. We investigated whether viewing attractive faces of potential short-term or long-term partners in a simulated dating portal enhances participants' creativity. We also explored possible mediators (arousal, mood, sexual arousal, motivation, and attraction) and moderators (relationship status, satisfaction, mate value, and sociosexual orientation). In Study 1, 483 participants ( M age = 30.06, SD = 6.37; 242 women, 241 men) viewed either four attractive or four unattractive opposite-sex potential partners and wrote self-promotional bios. No significant creativity differences were found between the attractive and unattractive groups. However, men were more flexible and produced more original ideas than women, while women showed greater fluency and self-creativity promotion. In Study 2, 494 participants ( M age = 30.84, SD = 6.06; 258 women, 236 men) viewed profiles of attractive potential partners for either short-term or long-term inclined relationships. Women's fluency and originality were higher in the long-term condition, but sexual arousal negatively impacted both fluency and originality when choosing an attractive partner for a long-term relationship, particularly when a real date desirability with the mate was high. Overall, the results suggest that creativity is influenced by the mating context, though the effects were modest. Future studies should increase sample sizes, geographic diversity, and experimental settings.",
+  "raw_path": "01_raw/europepmc_xml/PMC12089731.xml",
+  "text_path": "02_text/europepmc/PMC12089731.txt",
+  "raw_bytes": 275862,
+  "text_chars": 78509,
+  "raw_sha256": "c330e40266eeaa3623a31c6ba3d70884514130b910d0f283343f3728ba63f6d4",
+  "text_sha256": "2c20bd223236fc81155eec43d5aab817cf4a8248c77670acc0a6029434134efb",
+  "retrieved_at": "2026-10-25T15:37:30.364606+00:00"
+}

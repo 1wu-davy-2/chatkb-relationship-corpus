@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_nonviolent_communication",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "非暴力交流",
+  "requested_title": "非暴力沟通",
+  "url": "https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%9A%B4%E5%8A%9B%E4%BA%A4%E6%B5%81",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "communication",
+    "conflict"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/nonviolent_communication.json",
+  "text_path": "02_text/zh_wikipedia/nonviolent_communication.txt",
+  "raw_bytes": 21226,
+  "text_chars": 7433,
+  "text_sha256": "cff75c5290d815542658b8dd79c569b10033c0d417d51dd44dd21ed8adaaef02",
+  "retrieved_at": "2026-10-25T15:30:27.681549+00:00"
+}

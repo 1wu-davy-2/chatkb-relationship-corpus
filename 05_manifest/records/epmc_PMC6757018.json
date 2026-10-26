@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6757018",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship Context Moderates Couple Congruence in Ratings of Sexual Arousal and Pain During Vaginal Sensations in the Laboratory.",
+  "authors": "Dewitte M, Schepers J.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1007/s10508-019-1452-3",
+  "pmcid": "PMC6757018",
+  "url": "https://europepmc.org/article/PMC/PMC6757018",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6757018/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "responsiveness"
+  ],
+  "abstract": "Genital pain is a social experience that needs to be studied as a dyadic interaction between partners. The present study relied on a sample of 42 heterosexual couples to examine the level of congruence between both partners' ratings of pain and sexual arousal in response to experimentally induced vaginal pressure that served as a simulation of vaginal sensations during penetration. We also inferred the men's ability to estimate their partner's level of pain and sexual arousal. Because the relationship has shown to influence pain estimations, we considered the moderating role of perceived partner responsiveness and relationship satisfaction. We found higher disagreement in pain ratings when vaginal pressure was induced in the context of a sexual film compared to a neutral film, with men overestimating the level of pain in women. Also sexual arousal ratings diverged between partners, with men underestimating their partners' level of sexual arousal during the induction of vaginal pressure, regardless of whether they were watching a sexual or neutral film. Importantly, the level of congruence between actual and estimated ratings of pain and sexual arousal depended on how relationally satisfied men and women were and how validated and supported women felt by their male partner. These results make an important contribution to the growing literature on the social determinants of sexual pain experiences.",
+  "raw_path": "01_raw/europepmc_xml/PMC6757018.xml",
+  "text_path": "02_text/europepmc/PMC6757018.txt",
+  "raw_bytes": 118154,
+  "text_chars": 49356,
+  "raw_sha256": "b01ffd50367c2e07c679ecf294cb0536cae2905ac2c0b1b73b3c0957158cf216",
+  "text_sha256": "960224d073ac1dfe3f2b103b798891a598dd7761daff8b38e1b94087365f7fd7",
+  "retrieved_at": "2026-10-25T15:40:01.110549+00:00"
+}

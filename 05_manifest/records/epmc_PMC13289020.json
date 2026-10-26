@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13289020",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Validation of the Coercive-Composite Abuse Scale (C-CAS) in an Australian sample of women experiencing intimate partner abuse.",
+  "authors": "Hegarty K, Brown C, McLindon E, FitzPatrick KM, Tarzia L.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1136/bmjopen-2025-115748",
+  "pmcid": "PMC13289020",
+  "url": "https://europepmc.org/article/PMC/PMC13289020",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13289020/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Objectives Coercive control is a complex behavioural phenomenon where severity, frequency and patterns need to be examined collectively. However, approaches to measuring coercive control to date have demonstrated limited understanding of these patterns of behaviour by a partner or ex-partner that reflect an individual woman's experience. The aim of this study was to develop a holistic contemporary valid self-report measure of coercive control by partners. Design Standard instrument development, with academic and lived experience feedback and psychometric testing, using secondary data analysis, to develop the Coercive-Composite Abuse Scale (C-CAS). Setting Australian survey of women: feedback from experts. Participants Data for scale development from 854 adult women in Australia, where items assessed 5-year and 12-month abuse frequency. Feedback from five survivors and eight expert researchers. Primary/secondary outcome measures Scale reliability and validity; robustness of subscales; association with fear of a partner. Results Developed from existing scales and informed by academic and lived-experience expertise, the C-CAS factor analysis revealed a four-factor structure accounting for 57% of variance - Psychological Control (13 items, α=0.928), Sexual and Reproductive Coercion (6 items, α=0.887), Severe Coercive Control (8 items, α=0.820) and Technology-Facilitated Threats (3 items, α=0.754), showing excellent internal consistency. Evidence of the scale's face, content and construct validity was demonstrated, with further testing needed to confirm these findings. The factors combined into four key patterns- three of combined abuse and psychological control, which were experienced alone by some women. Our hypotheses asserting distinct patterns of abuse types for individuals, with severe combined patterns eliciting greater fear of a partner/ex-partner, were confirmed. Conclusions The C-CAS, a self-report measure of coercive control experiences among women, has demonstrated initial reliability and validity and is suitable for use in population or clinical studies. Additional validation with diverse samples is required.",
+  "raw_path": "01_raw/europepmc_xml/PMC13289020.xml",
+  "text_path": "02_text/europepmc/PMC13289020.txt",
+  "raw_bytes": 121195,
+  "text_chars": 30823,
+  "raw_sha256": "32cd4ebf6bf41122ec25c75be306fa9ffd60d0a7982584a422ec47926f600f13",
+  "text_sha256": "ee34b82e8920b6eb2ba7e75789b0d0bfd999dceec8f75544878adb17db64d55e",
+  "retrieved_at": "2026-10-25T13:53:21.367695+00:00"
+}

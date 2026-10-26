@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10009487",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Effectiveness of College Dating Violence Prevention Programs: A Meta-Analysis.",
+  "authors": "Wong JS, Bouchard J, Lee C.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/15248380211036058",
+  "pmcid": "PMC10009487",
+  "url": "https://europepmc.org/article/PMC/PMC10009487",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10009487/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "Due in part to their involvement with social activities on campus, college students experience an increased risk of dating violence. Recent legislation such as the Campus SaVE Act (which requires U.S. colleges to offer training on sexual assault, domestic violence, stalking, and sexual harassment to all incoming students) has contributed to the increase in prevention programming offered across postsecondary campuses, as well as subsequent research examining the effectiveness of these prevention efforts. The current study provides a systematic review and meta-analysis of college dating violence prevention programs. A systematic search of 28 databases and numerous gray literature sources identified an initial 14,540 articles of which 315 were deemed potentially eligible for inclusion. Studies were selected if they (1) evaluated a college dating prevention program/campaign, (2) reported one of five outcomes (knowledge, attitudes, or bystander efficacy, intentions, or behavior), (3) had a minimum sample size of 20 in the treatment group, (4) used a pre/post and/or comparison group design, and (5) were published in English or French between January 2000 and October 2020. We calculated 53 effect sizes from 31 studies and conducted separate meta-analyses on various categories of outcome measures. Findings suggest that college dating violence prevention programs are effective at increasing knowledge and attitudes toward dating violence, as well as bystander skills, but are not effective at increasing bystander behaviors. Findings from moderator analyses suggest that several program components influence the strength of treatment effects. Implications for improving the effectiveness of college dating violence prevention programs are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC10009487.xml",
+  "text_path": "02_text/europepmc/PMC10009487.txt",
+  "raw_bytes": 206159,
+  "text_chars": 72646,
+  "raw_sha256": "cf02dcddca94795c33c53e19158a6bcce2505de4cb22360a52703716b60a1cbe",
+  "text_sha256": "28422f443fb814573bb6a78427ad78c6b23cba56322d4d7bdc9944be994d2fa3",
+  "retrieved_at": "2026-10-25T15:41:27.918592+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5742614",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Men Who Compliment a Woman's Appearance Using Metaphorical Language: Associations with Creativity, Masculinity, Intelligence and Attractiveness.",
+  "authors": "Gao Z, Yang Q, Ma X, Becker B, Li K, Zhou F, Kendrick KM.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2017.02185",
+  "pmcid": "PMC5742614",
+  "url": "https://europepmc.org/article/PMC/PMC5742614",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5742614/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "compliments"
+  ],
+  "abstract": "Language may have evolved as a signal of mental fitness. However, it remains unclear what language form and topic men use to covertly signal mate quality. In this study 69 men created compliments to impress unfamiliar women they chose to either date or work with and provided hand scans to compute 2D4D ratio as a proxy for prenatal testosterone exposure and masculinity indicator. Compliments were coded in terms of form (literal vs. metaphorical) and topic (women's appearance vs. non-appearance), with metaphorical ones being subsequently rated by 114 women for psycholinguistic features, indices of intelligence and willingness to have a romantic relationship with the author. Results showed that in a dating context, men produced more metaphorical form compliments targeting appearance compared to the working context and they were associated with men's art creativity and negatively with 2D4D ratio (i.e., positively with masculinity). Women preferred establishing a romantic relationship with a higher proportion of the men producing metaphorical compliments in a dating than a working context. Furthermore, in the dating but not the working context, women perceived men producing such compliments as being more intelligent, and importantly this correlated with the men's actual verbal intelligence. Overall, findings suggest that men may use metaphorical language compliments targeting women's appearance in a dating context to signal covertly their mate quality.",
+  "raw_path": "01_raw/europepmc_xml/PMC5742614.xml",
+  "text_path": "02_text/europepmc/PMC5742614.txt",
+  "raw_bytes": 156522,
+  "text_chars": 48402,
+  "raw_sha256": "eb97309098367a37cafdb3495e6a8afdf4d54a79ddb20486a4c9223bbff5f3eb",
+  "text_sha256": "d59f335b1d838e99c2b3f71f9da0363bb85b5f5af5bf3e60082bd3fdd5e8dc7a",
+  "retrieved_at": "2026-10-25T15:26:38.416701+00:00"
+}

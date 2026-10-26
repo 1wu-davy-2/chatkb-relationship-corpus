@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10303477",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Should I Stay or Should I Go? Behavioral Acts That Negatively Affect Relationships' Prospects.",
+  "authors": "Apostolou M.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/14747049221134220",
+  "pmcid": "PMC10303477",
+  "url": "https://europepmc.org/article/PMC/PMC10303477",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10303477/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "Intimate relationships are not easy to keep as the high rates of divorce and singlehood testify. The current research aimed to examine the behavioral acts which are likely to have a negative effect on people's willingness to continue an intimate relationship. More specifically, by using qualitative research methods on a sample of 269 Greek-speaking participants, Study 1 identified 88 acts that have a negative impact on people's willingness to continue an intimate relationship. Study 2 employed quantitative research methods on a sample of 536 Greek speaking participants, and classified these acts into six broader factors. The one with the most negative impact was rated to be the \"Does not care about me,\" followed by the \"Does not treat well our children,\" and the \"Tries to control me.\" Women and single participants rated the identified factors more negatively than men and participants who were in a relationship or married. Significant main effects of age, sex, relationship status and having children were also found for several factors.",
+  "raw_path": "01_raw/europepmc_xml/PMC10303477.xml",
+  "text_path": "02_text/europepmc/PMC10303477.txt",
+  "raw_bytes": 110471,
+  "text_chars": 38498,
+  "raw_sha256": "5cf6f80331ef388932d900bd35af34454214235607192af9bb0f5a2ca76a5f04",
+  "text_sha256": "44a7d7a47f43a946ef4fc303ae7f54a18945ce4253af55385458f9f19b2af6e3",
+  "retrieved_at": "2026-10-25T15:42:03.104103+00:00"
+}

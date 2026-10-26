@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_sexual_health",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "生殖健康",
+  "requested_title": "性健康",
+  "url": "https://zh.wikipedia.org/wiki/%E7%94%9F%E6%AE%96%E5%81%A5%E5%BA%B7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 生殖健康",
+  "topics": [
+    "sexuality",
+    "health"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/sexual_health.json",
+  "text_path": "02_text/zh_wikipedia/sexual_health.txt",
+  "raw_bytes": 3375,
+  "text_chars": 1462,
+  "text_sha256": "3e1cdee92853cb979a859a63bc89162697bad8b32501d999d4e501494a5d5d53",
+  "retrieved_at": "2026-10-26T12:59:16.881583+00:00"
+}

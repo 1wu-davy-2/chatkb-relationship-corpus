@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11538798",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Prevalence of Sexual Harassment and Bullying Among Norwegian Afghanistan Veterans: Does Workplace Harassment Disproportionately Impact the Mental Health and Life Satisfaction of Female Soldiers?",
+  "authors": "Rønning L, Shor R, Anyan F, Hjemdal O, Jakob Bøe H, Dempsey CL, Espetvedt Nordstrand A.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/08862605241248432",
+  "pmcid": "PMC11538798",
+  "url": "https://europepmc.org/article/PMC/PMC11538798",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11538798/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_harassment"
+  ],
+  "abstract": "Experiencing sexual harassment and bullying during military service can lead to negative consequences for a soldier's mental health and life satisfaction, including increased risk of depression, anxiety, and posttraumatic stress. No studies have to date investigated the prevalence and correlates of sexual harassment and bullying among Norwegian Afghanistan veterans, despite the increased global focus on these topics. In 2020, 6,205 Norwegian Afghanistan veterans (8.3% women) completed an online post-deployment survey, including questions about experiences of sexual harassment, bullying, mental health, and life satisfaction. Compared to their male counterparts, female veterans experienced significantly more sexual harassment and bullying during Afghanistan deployment (3.2% vs. 0.04% for experiencing sexual harassment, and 4.0% vs. 1.0% for bullying) and during other military services (14.3% vs. 0.4% for sexual harassment, and 15.9% vs. 3.7% for bullying). Sexual harassment was associated with younger age and experiencing childhood sexual harassment for both women and men, with men also having longer deployments. Bullying was associated with longer deployments and childhood sexual harassment for women, while men who reported bullying more often had longer deployments, held an officer rank, were less inclined to have a spouse/intimate partner, and reported childhood sexual harassment and bullying. Both sexual harassment and bullying were associated with increased risk of mental health problems and reduced life satisfaction for women, but this was only true for bullying among men. Despite lower reported rates of workplace harassment compared to studies from other cultures, this study demonstrates that sexual harassment and bullying in the military can negatively impact soldiers' mental health and life satisfaction. Notably, female veterans' mental health and life satisfaction appear to be particularly affected by sexual harassment during military service, an association not seen in males. This underscores the need for gender-specific, cultural, and context-sensitive prevention and support for workplace harassment experiences.",
+  "raw_path": "01_raw/europepmc_xml/PMC11538798.xml",
+  "text_path": "02_text/europepmc/PMC11538798.txt",
+  "raw_bytes": 145893,
+  "text_chars": 34931,
+  "raw_sha256": "5cc1c1429b4cb4bc94c4c368f3f29d26ee3d81946855a55c615116c1b5e13052",
+  "text_sha256": "a5f946d4eb4fb609f31ae70d1d38641e54ad9b8cbb168017e844a2332c0a0bde",
+  "retrieved_at": "2026-10-25T15:31:09.007081+00:00"
+}

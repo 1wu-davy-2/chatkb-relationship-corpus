@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11037272",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Cognitive Decline After Divorce and Widowhood: Is Marital Loss Always a Loss?",
+  "authors": "Hanes DW, Clouston SAP.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1093/geroni/igae033",
+  "pmcid": "PMC11037272",
+  "url": "https://europepmc.org/article/PMC/PMC11037272",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11037272/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Background and objectives We used longitudinal data to determine whether the type of marital loss is associated with the rate of cognitive change before and after divorce or widowhood. Previous research found that relationship status was associated with older adults' cognitive performance: married persons performed better on memory assessments and had lower dementia risk than unmarried-cohabitating, never-married, divorced, and widowed persons. However, the end of a marriage may cause distress or reduce distress because a stressor disappears. Questions thus remain about the mechanisms by which marital change affects cognitive outcomes and, specifically, whether termination of marriage can improve cognitive performance for some. Research design and methods Using data from the 1998-2016 waves of the Health and Retirement Study ( N = 23,393), we conducted two analyses. First, we used trajectory analysis to create clusters of participants with similar cognitive trajectories and tested the association between participants' cluster membership and marital loss type. Second, we used multilevel modeling to analyze the relationship between participants' cognitive scores while married and following divorce or widowhood and linked these to marital features. Results Participants who divorced showed no difference in trajectory distribution; widowed participants were more likely to be in the lower-performing and more quickly declining groups. Participants had lower rates of decline following divorce (β = .136, p p p = .028). Discussion and implications We found that the type of marital loss was important, and predicted improvements in cognition for some and decrements for others, with individuals who were divorced performing best while those who were widowed or separated but not divorced performing worse.",
+  "raw_path": "01_raw/europepmc_xml/PMC11037272.xml",
+  "text_path": "02_text/europepmc/PMC11037272.txt",
+  "raw_bytes": 131446,
+  "text_chars": 32402,
+  "raw_sha256": "b8475a14482dc709e1e0fd6c25640d72ed0e0b5e67a7add1aafae7bf0103ce5c",
+  "text_sha256": "f311255d60ade784941cd96fa5819c06365d08d7a5b47dcc010c968a403ccc5b",
+  "retrieved_at": "2026-10-25T15:31:16.415156+00:00"
+}

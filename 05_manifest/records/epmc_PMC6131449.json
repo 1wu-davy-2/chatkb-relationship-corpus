@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6131449",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Social Support Networks and Quality of Life of Rural Men in a Context of Marriage Squeeze in China.",
+  "authors": "Wang S, Yang X, Attané I.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.1177/1557988317753263",
+  "pmcid": "PMC6131449",
+  "url": "https://europepmc.org/article/PMC/PMC6131449",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6131449/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "china_marriage"
+  ],
+  "abstract": "A significant number of rural Chinese men are facing difficulties in finding a spouse and may fail to ever marry due to a relative scarcity of women in the adult population. Research has indicated that marriage squeeze is a stressful event which is harmful to men's quality of life, and also weakens their social support networks. Using data collected in rural Chaohu city, Anhui, China, this study explores the effects of social support networks on quality of life of rural men who experience a marriage squeeze. The results indicate that the size of social contact networks is directly and positively associated with the quality of life of marriage-squeezed men, and moderate the negative effect of age on quality of life. Having no or limited instrumental support network and social contact network are double-edged swords, which have direct negative associations with the quality of life of marriage-squeezed men, and have moderate effects on the relationship between marriage squeeze and quality of life.",
+  "raw_path": "01_raw/europepmc_xml/PMC6131449.xml",
+  "text_path": "02_text/europepmc/PMC6131449.txt",
+  "raw_bytes": 145414,
+  "text_chars": 49101,
+  "raw_sha256": "e422a2931b64be564c7c0297b71344c8346d3d3ecf7804887223578b065c9b47",
+  "text_sha256": "afaab728cd348bde1d09d948f1dd6f6074f6ac3c13d67b6630fedb4a6d519675",
+  "retrieved_at": "2026-10-25T13:55:51.872686+00:00"
+}

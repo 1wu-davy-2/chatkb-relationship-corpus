@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_bride_price",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "聘礼",
+  "requested_title": "彩礼",
+  "url": "https://zh.wikipedia.org/wiki/%E8%81%98%E7%A4%BC",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "marriage",
+    "money",
+    "china"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/bride_price.json",
+  "text_path": "02_text/zh_wikipedia/bride_price.txt",
+  "raw_bytes": 4436,
+  "text_chars": 1618,
+  "text_sha256": "c7b65222845192a26b9939d665b88a0b2ee7bbfa90aaadf58255821838c0aceb",
+  "retrieved_at": "2026-10-25T15:40:17.719771+00:00"
+}

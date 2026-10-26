@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13337705",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "An examination of perceived partner phubbing in romantic relationships across various variables.",
+  "authors": "Soyer M, Ömür Sünbül S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1846877",
+  "pmcid": "PMC13337705",
+  "url": "https://europepmc.org/article/PMC/PMC13337705",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13337705/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "texting"
+  ],
+  "abstract": "Background Partner phubbing, defined as ignoring one's romantic partner by attending to a mobile phone during face-to-face interactions, has become an increasingly important issue in romantic relationships. This study examined perceived partner phubbing across gender, marital status, age, and relationship duration. Methods A correlational survey design was employed with 446 adults currently involved in a romantic relationship. Data were collected using the Partner Phubbing Scale. Independent samples t-tests, one-way analyses of variance (ANOVAs), and multiple linear regression analyses were conducted to examine differences and predictors of perceived partner phubbing. Results Women reported significantly higher levels of perceived partner phubbing than men, and married individuals scored higher than single individuals. Analyses with respect to age indicated that young adults reported lower levels of perceived partner phubbing than older age groups, with perceptions increasing with age. Perceived partner phubbing also differed according to relationship duration, with individuals in relationships lasting 5-10 years reporting the highest levels. Multiple regression analyses revealed that gender and being in a relationship for 5-10 years were significant predictors of perceived partner phubbing. Discussion The findings suggest that demographic and relational characteristics play an important role in shaping perceptions of partner phubbing. These results contribute to the growing literature on technology-related behaviors in romantic relationships and have important implications for couple therapy and digital wellbeing interventions.",
+  "raw_path": "01_raw/europepmc_xml/PMC13337705.xml",
+  "text_path": "02_text/europepmc/PMC13337705.txt",
+  "raw_bytes": 110005,
+  "text_chars": 43676,
+  "raw_sha256": "4b7d6dfe45ae6eb97bd95ea24b1b95a531ac473d2d5a139bc74c6bc78bec7a3f",
+  "text_sha256": "6bf11532ab641c0d3221e4927a185b2e3b9a6215f8e06094b0171d0a96d218c4",
+  "retrieved_at": "2026-10-25T13:47:55.219079+00:00"
+}

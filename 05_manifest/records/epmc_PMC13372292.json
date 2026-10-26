@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13372292",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Evaluation of 24-Month Effects of the Close to Home Program on Youth Sexual and Dating Violence Across 22 Communities in California: Protocol for a Quasi-Experimental Cluster-Matched Control Trial.",
+  "authors": "Jackson EC, Boyce SC, Vera Monroy R, Shakya Baker H, Silverman JG.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.2196/81249",
+  "pmcid": "PMC13372292",
+  "url": "https://europepmc.org/article/PMC/PMC13372292",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13372292/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_harassment"
+  ],
+  "abstract": "Background Sexual violence (SV; any sexual activity where consent is not obtained or freely given) and dating violence (DV; abuse or aggression that occurs in a romantic relationship among youth) are interrelated public health concerns among youth in the United States. Despite its urgency, there is a dearth of comprehensive SV and DV prevention approaches that intervene across multiple social ecology levels (ie, at the individual, interpersonal, community, and societal levels). Therefore, the field of violence prevention has called for the development and evaluation of community-level interventions for prevention. Close to Home (C2H) is a community-driven community mobilization primary prevention program that aims to have community-level effects on reducing SV and DV, as well as improving community connection and social norms related to SV and DV, yet it has never been rigorously evaluated. Objective This research study aimed to rigorously evaluate the C2H model at three levels of the social ecology (individual, interpersonal, and community) in 22 diverse communities in California. Methods This protocol outlines a quasi-experimental cluster-matched control trial to evaluate the 24-month effects of C2H on SV and DV among youth ages 14-24 years. The study used a social network (SN) sampling design to assess the diffusion of intervention effects across youth and their SNs, as well as community-wide school-based data from the California Healthy Kids Survey to provide critical evidence on the effectiveness of community mobilization as a viable community-level approach for SV and DV prevention. Primary outcomes included experiencing SV and DV with a 12-month incidence for youth ages 14-24 years, including sexual assault, in-person and online sexual harassment, and DV. Secondary outcomes included protective social norms rejecting SV and DV and community connection. Further, 11 preselected implementation sites from across California participated in the evaluation and were matched with 11 control program sites based on key demographics and county-level factors related to SV. Results This study was funded in September 2020, and institutional review board approval was obtained in February 2021. Baseline survey data were collected on a rolling basis between October 2021 and June 2023 from 953 participants of the SN sample. Follow-up survey data were collected from September 2023 to November 2025 from 746 participants. Data analysis will be conducted from summer to fall 2026. Study findings will be published in late 2026. Conclusions This study is among the first to rigorously evaluate a community mobilization approach to SV or DV prevention in the United States. The evidence will support community-level approaches to address the high prevalence of SV and DV in US youth populations, and this study was developed in response to the field's call for further investigation of prevention strategies that address prevention at the outer levels of the social ecological model (ie, community and societal-level prevention).",
+  "raw_path": "01_raw/europepmc_xml/PMC13372292.xml",
+  "text_path": "02_text/europepmc/PMC13372292.txt",
+  "raw_bytes": 149984,
+  "text_chars": 73100,
+  "raw_sha256": "996de726dd697e434417aaaa3ee61c8716ad0483652f1ce2249f73decac0b82f",
+  "text_sha256": "025ed2ed1941e9229c597c96243ab810f5c363a23b22aad5fae8aaa0783998b0",
+  "retrieved_at": "2026-10-25T15:32:08.981657+00:00"
+}

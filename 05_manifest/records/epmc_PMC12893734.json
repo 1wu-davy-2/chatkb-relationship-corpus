@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12893734",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Image of the Family and Orienting Image of Attachment: A Psychosemantic Approach.",
+  "authors": "Chursina AV.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.11621/pir.2025.0411",
+  "pmcid": "PMC12893734",
+  "url": "https://europepmc.org/article/PMC/PMC12893734",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12893734/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Background There are genetic, social, and interpersonal factors that determine the relationship between mate preferences and parental figures. Attachment theory offers an explanatory principle about the continuity of relationships with the primary caregiver and romantic partner. Objective To integrate the cultural-historical and attachment approaches, and to examine the contribution of attachment style to the image of the family, as well as to conceptualize the orienting image of attachment. Design 237 heterosexual Russian individuals participated in the study. The Experiences in Close Relationships-Revised (ECR-R) Questionnaire and a Semantic Dif erential Scale were used to assess attachment style, as well as images of self, romantic partner, mother and father, and the family. Results Signiicant dif erences in the image of the family were found depending on attachment style; however, no differences were found in the image of the parental family. Attachment insecurity dimensions are associated with perceptions of the similarity of image of the mother and the romantic partner image in men and women (both dimensions for women and avoidance for men). Characteristics of the mother and father images predict attachment anxiety in women, while the father image predicts attachment avoidance in men. Conclusion The orienting image of attachment was conceptualized as the image of the mother, which is explained by the cultural patterns of upbringing in the Russian sample; however, individual characteristics of parental images act as predictors of attachment insecurity dimensions.",
+  "raw_path": "01_raw/europepmc_xml/PMC12893734.xml",
+  "text_path": "02_text/europepmc/PMC12893734.txt",
+  "raw_bytes": 72278,
+  "text_chars": 36538,
+  "raw_sha256": "2516a2da530ea840a994ca69ab73d33c899cf4f1f01819f1fdb2d87fdccba016",
+  "text_sha256": "a04dd2f65e60038eb9e8b3f4fb6d067b0fc00e842a4a794fcb1c88e2a878c4e7",
+  "retrieved_at": "2026-10-25T13:49:00.544620+00:00"
+}

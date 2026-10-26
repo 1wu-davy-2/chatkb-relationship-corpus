@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_codependency",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "互累症",
+  "requested_title": "共依存症",
+  "url": "https://zh.wikipedia.org/wiki/%E4%BA%92%E7%B4%AF%E7%97%87",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "boundaries",
+    "relationship"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/codependency.json",
+  "text_path": "02_text/zh_wikipedia/codependency.txt",
+  "raw_bytes": 1739,
+  "text_chars": 684,
+  "text_sha256": "0708ce0a8d83880e04ad2dfdb840a92e46cc26048400be8f9519267a7d46f814",
+  "retrieved_at": "2026-10-25T15:37:07.751495+00:00"
+}

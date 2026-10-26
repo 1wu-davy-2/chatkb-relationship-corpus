@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_25146",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "山水情",
+  "gutenberg_id": "25146",
+  "url": "https://www.gutenberg.org/ebooks/25146",
+  "download_url": "https://www.gutenberg.org/cache/epub/25146/pg25146.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/25146.txt",
+  "text_path": "02_text/gutenberg/gut_25146_山水情.txt",
+  "raw_bytes": 340422,
+  "text_chars": 105801,
+  "text_sha256": "ac171b5800b76065ee4ad7c12972bf02acb9dbcbda97a9964b6848b690709e9d",
+  "retrieved_at": "2026-10-25T16:03:55.533359+00:00"
+}

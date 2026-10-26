@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11010543",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Men's Narratives of Sexual Intimate Partner Violence in Urban Mwanza, Northwestern Tanzania.",
+  "authors": "Mchome Z, Mshana G, Malibwa D, Aloyce D, Dwarumpudi A, Peter E, Kapiga S, Stöckl H.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/10790632231213831",
+  "pmcid": "PMC11010543",
+  "url": "https://europepmc.org/article/PMC/PMC11010543",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11010543/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "Engaging men has been established as central in addressing intimate partner violence. Yet few studies on intimate partner violence explored men's perspectives on what constitutes sexual violence in relationships only. To explore how men conceptualize sexual violence, we engaged a qualitative approach to unpack men's narratives of sexual IPV. The study was conducted in Mwanza, Tanzania using in-depth interviews with 30 married men. Men shared a broad spectrum of unacceptable behaviors that clearly or potentially connote sexual violence. Some of the acts were deemed to constitute sexual violence when directed to both men and women, while some were perceived as sexual violence when directed to women or men only. Threatened manhood underpinned men's conceptualization of sexual violence against them by their partners. Although a large part of men's narratives of sexual violence towards women seemed to challenge the common sexual scripts existing in patriarchal societies, some of their accounts indicated the persistence of traditional presumptions of masculine sexual entitlement. Our findings uncover additional dimensions of sexual violence that go beyond what is included in the current global frameworks, underscoring the critical need of giving people a voice in their local contexts in defining what sexual intimate partner violence entails for them. This may increase the likelihood of interventions becoming more acceptable and effective when targeting sexual violence, thereby contributing to reduced levels of sexual intimate partner violence.",
+  "raw_path": "01_raw/europepmc_xml/PMC11010543.xml",
+  "text_path": "02_text/europepmc/PMC11010543.txt",
+  "raw_bytes": 119948,
+  "text_chars": 66652,
+  "raw_sha256": "38fb45dca402987617eef34ad963adae9db5ea1c376acad0d58267ec1316b84a",
+  "text_sha256": "5726ee7d84576457c4a18f1658204b54307f8498623732fb75073762a39ac4c8",
+  "retrieved_at": "2026-10-26T13:13:52.098393+00:00"
+}

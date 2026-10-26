@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12923628",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "'Breaking down a barrier': Autistic young people see virtual reality as a possible social support, but not a substitute for in-person interactions.",
+  "authors": "Caruana N, Goetz T, Nalepka P, Pellicano E.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/13623613251406114",
+  "pmcid": "PMC12923628",
+  "url": "https://europepmc.org/article/PMC/PMC12923628",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12923628/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "first_date"
+  ],
+  "abstract": "Autistic people often face challenges in face-to-face social interactions, especially in unfamiliar or high-stakes situations. Virtual reality has been proposed as a tool to support social connection by offering a more controlled and accessible environment. While previous research has focused on virtual reality-based social skills training, little is known about how autistic people experience social interactions in virtual reality. We interviewed 22 autistic young people (aged 9-22 years, M Age = 14.5) after they engaged in a social interaction with a stranger in immersive virtual reality. Using reflexive thematic analysis, we found that participants generally found virtual reality interactions tolerable, engaging and helpful as a low-pressure first step towards more challenging social situations. Virtual reality was valued for reducing sensory overload, increasing confidence and offering novel social opportunities. However, participants did not view virtual reality as a replacement for in-person interaction, which they saw as essential for building meaningful relationships. These findings highlight the potential of virtual reality to support autistic people by modifying the social environment rather than demanding behavioural change. They also challenge deficit-based assumptions about autistic social motivation, emphasising the importance of aligning technological supports with autistic people's lived experiences and preferences.Lay abstractAutistic young people can find social situations stressful and overwhelming, particularly if meeting strangers in high-stakes settings (e.g. first date, job interview). Virtual reality has been suggested as a tool that might help make these interactions easier. In this study, we asked 22 autistic young people, aged 9-22, to try out a social interaction in virtual reality and then tell us about their experience. We found that most participants enjoyed using virtual reality and felt it made social interactions feel safer and less intimidating. They said virtual reality helped reduce distractions and gave them more control over how they presented themselves. Some even said it made them feel more confident when talking to others. However, young people were clear that virtual reality should not replace real-life interactions. They said that in-person contact is still important for building real connections with others. While virtual reality can be a helpful first step when interacting with new people, especially in situations that feel scary or unfamiliar, it is not a substitute for face-to-face relationships. This research shows that autistic young people value social connection and want tools that support, rather than replace, real-life interaction.",
+  "raw_path": "01_raw/europepmc_xml/PMC12923628.xml",
+  "text_path": "02_text/europepmc/PMC12923628.txt",
+  "raw_bytes": 132493,
+  "text_chars": 60191,
+  "raw_sha256": "fd9b7c39af740745fcdff180d7344534eba86625dce5973825addc9ffa2f0586",
+  "text_sha256": "192a17f7f294d9520cd4c4ee8dce5416df957b993c0a8fd8ebfadc4200e9ce7c",
+  "retrieved_at": "2026-10-25T14:00:00.917777+00:00"
+}

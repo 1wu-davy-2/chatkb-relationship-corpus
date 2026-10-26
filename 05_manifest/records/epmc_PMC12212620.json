@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12212620",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Contraceptive Awareness and Its Usage Practices Among Adults Using Online Dating Apps in Chennai, Tamil Nadu: A Cross-Sectional Study.",
+  "authors": "Joseph J, Viswanath S, G G.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.7759/cureus.85166",
+  "pmcid": "PMC12212620",
+  "url": "https://europepmc.org/article/PMC/PMC12212620",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12212620/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "Introduction Online dating apps have become pivotal for adults to find relationships, explore their sexual desires, and overcome loneliness. These users sometimes indulge in reckless and unsafe sexual practices, which may lead to unplanned pregnancies and sexually transmitted infections (STIs), thus emphasizing the importance of contraceptive use. Methodology This community-based cross-sectional study was conducted among 270 study participants in Chennai, Tamil Nadu. Study participants were selected by the snowball sampling technique. A pretested, semi-structured questionnaire was used to collect data and was analyzed using MS Excel (Microsoft Corporation, Redmond, Washington, United States) and IBM SPSS Statistics for Windows, Version 21 (Released 2012; IBM Corp., Armonk, New York, United States). Results The prevalence of contraceptive usage among online dating app users was found to be 67%. Factors like upper/upper-middle socioeconomic class (adjusted odds ratio (AOR): 2.56; p = 0.048), alcohol consumption (AOR: 1.85; p = 0.026), and consulting healthcare professionals (AOR: 1.96; p = 0.026) were associated with contraceptive use. Also, 36 (13.3%) of the study participants had never been tested for STIs. Conclusion This study highlights that a relatively high prevalence of contraceptive usage and also higher socioeconomic status, alcohol consumption, and consulting healthcare professionals are associated with the use of contraceptives. Though the prevalence of contraceptive usage is high, there are some participants who did not consult healthcare professionals and have never been tested for STIs. These findings can help to plan better awareness programs and sexual health practices.",
+  "raw_path": "01_raw/europepmc_xml/PMC12212620.xml",
+  "text_path": "02_text/europepmc/PMC12212620.txt",
+  "raw_bytes": 91758,
+  "text_chars": 20753,
+  "raw_sha256": "d35293c7c6d9b10404c9d8a30543a129561011e4a81ef70ef205cdb4ac134f56",
+  "text_sha256": "b59a6b93d89809ec947cb7372dd335be55ae3c526440085ee0d94d9a05f1d149",
+  "retrieved_at": "2026-10-25T13:57:51.061014+00:00"
+}

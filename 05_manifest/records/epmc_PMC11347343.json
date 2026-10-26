@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11347343",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A novel framework for ketamine-assisted couple therapy.",
+  "authors": "Khalifian C, Rashkovsky K, Mitchell E, Bismark A, Wagner AC, Knopp KC.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2024.1376646",
+  "pmcid": "PMC11347343",
+  "url": "https://europepmc.org/article/PMC/PMC11347343",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11347343/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "Intimate relationship distress is prevalent and is associated with poorer health, mental health, and mortality outcomes. Evidence-based couple therapies target cognitive, behavioral, and emotional processes that underlie relationship dysfunction. Increasing research and clinical evidence supports the efficacy of ketamine-assisted psychotherapy (KAP) for addressing clinical mental health concerns, including depression, anxiety disorders, posttraumatic stress disorder, and more. The purported mechanisms of KAP are also likely to improve psychosocial and relational functioning for patients and may be useful for supporting change mechanisms in couple therapy. This paper reviews the current evidence for therapeutic ketamine and KAP and outlines how the mechanisms of ketamine therapy may also augment the cognitive, behavioral, and emotional interventions in the most commonly used evidence-based couple therapies. Key mechanisms include increased neuroplasticity, changes in functional connectivity, adaptive dissociation, decreased inhibition, and reduced avoidance. Given the reciprocal interaction between relationship dysfunction and mental health problems, ketamine may also help alleviate relationship distress by directly treating clinical mental health symptoms. We then outline a proposed framework for ketamine-assisted couple therapy, addressing the application of KAP preparation, dosing, and integration to a dyadic intervention framework in a way that can be applied to different couple therapy modalities. This clinical framework for couples' KAP may be useful for clinicians and researchers working to improve the efficacy of couple therapy, particularly when one or both partners has accompanying mental health concerns.",
+  "raw_path": "01_raw/europepmc_xml/PMC11347343.xml",
+  "text_path": "02_text/europepmc/PMC11347343.txt",
+  "raw_bytes": 207675,
+  "text_chars": 65345,
+  "raw_sha256": "b0c91e4c7ad12ba9f4d2a2ba84d1ee11a45513e9076ef9279febb1fb3a6b984f",
+  "text_sha256": "3eb0d2b974dd034223fe4366e62bba8f1b517bc9a1cac36ebfc85b045ce829a1",
+  "retrieved_at": "2026-10-25T15:40:31.880452+00:00"
+}

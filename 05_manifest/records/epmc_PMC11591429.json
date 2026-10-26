@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11591429",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Conflict and Intimacy in Emerging Adults' Romantic Relationships and Depressive Symptoms: The Mediating Role of Identity and Couple Satisfaction.",
+  "authors": "Graziano F, Mastrokoukou S, Cattelino E, Rollè L, Calandri E.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/bs14110977",
+  "pmcid": "PMC11591429",
+  "url": "https://europepmc.org/article/PMC/PMC11591429",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11591429/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "Romantic relationships in emerging adulthood may be associated with depression, but the role of possible mediators of this relationship remains to be explored. The present study tested a serial mediation model where intimacy and conflict in romantic relationships were predictors of depressive symptoms through the mediation of couple satisfaction and identity satisfaction. The study was conducted on a sample of 268 Italian emerging adults, 60% female (Mage = 19, ds = 1.4), all involved in a heterosexual romantic relationship. The results showed that the association between intimacy and depressive symptoms was direct and sequentially mediated through couple satisfaction and identity satisfaction. A single mediation pathway through identity satisfaction alone also emerged. The association between conflict and depressive symptoms was direct and sequentially mediated through couple satisfaction and identity satisfaction. These findings suggest the importance of helping emerging adults develop appropriate skills in managing conflict and intimacy in romantic relationships as useful resources for identity satisfaction and depression prevention.",
+  "raw_path": "01_raw/europepmc_xml/PMC11591429.xml",
+  "text_path": "02_text/europepmc/PMC11591429.txt",
+  "raw_bytes": 103983,
+  "text_chars": 33369,
+  "raw_sha256": "d94d6681b975ef59b38df67f555c280a067ac74e9c7e5a51223911c53a7ad159",
+  "text_sha256": "931839f6555148488654db7d37e549564237097bdf543bf2b3c61461cc09a9f5",
+  "retrieved_at": "2026-10-25T13:57:53.151617+00:00"
+}

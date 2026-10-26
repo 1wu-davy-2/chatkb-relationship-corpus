@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12012395",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Are Dating App Algorithms Making Men Lonely and Does This Present a Public Health Concern?",
+  "authors": "Balki E.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.2196/70594",
+  "pmcid": "PMC12012395",
+  "url": "https://europepmc.org/article/PMC/PMC12012395",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12012395/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "During the pandemic, dating apps emerged as essential platforms connecting users amid social isolation, experiencing rapid growth in engagement and profile creation. This paper examines the evolution of these apps, highlighting their shift from facilitating offline encounters to promoting match accumulation for revenue. In particular, the study investigates gender disparities, addictive behaviors, and algorithmic match throttling that disproportionately impact men's psychological well-being. Drawing on evidence linking dating app use to increased depression and anxiety, the analysis calls for regulatory intervention to eliminate pay-for-advantage models and ensure fair, healthy user experiences, thereby mitigating adverse public health outcomes.",
+  "raw_path": "01_raw/europepmc_xml/PMC12012395.xml",
+  "text_path": "02_text/europepmc/PMC12012395.txt",
+  "raw_bytes": 33343,
+  "text_chars": 7842,
+  "raw_sha256": "375ae3ed427243be31a27870b0cc922134b9e401431257de0dd8cb80fd9dafd7",
+  "text_sha256": "42b25cd081bb347f1d9850d4f5f577200df843167a9dbf31c8362149cb2ef0d1",
+  "retrieved_at": "2026-10-25T14:00:58.838214+00:00"
+}

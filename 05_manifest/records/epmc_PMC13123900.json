@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13123900",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "How parenthood affects the economic consequences of separation for women in same-sex and different-sex couples.",
+  "authors": "van der Vleuten M, Kalmijn M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1073/pnas.2537398123",
+  "pmcid": "PMC13123900",
+  "url": "https://europepmc.org/article/PMC/PMC13123900",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13123900/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Women in different-sex couples experience larger economic losses after separation than men, largely due to unequal divisions of paid and unpaid work. Women in female same-sex couples divide paid and unpaid work more equally, offering a unique opportunity to examine how partner sex, parenthood, and giving birth shape women's economic outcomes after separation. Using Finnish population register data (2002-2020), we analyze 1,157 women in same-sex couples and 67,384 women in different-sex couples experiencing their first separation. Women in same-sex couples experience smaller reductions in equivalized household income than women in different-sex couples. Among childless women, those in same-sex couples lose substantially less income, consistent with their more equal division of labor. Among parents, women in same-sex couples also lose less than women in different-sex couples, but this difference is explained by birth motherhood. In both couple types, birth mothers lose far more income than nonbirth mothers, reflecting the concentration of caregiving and children's residence in the birth mother's household. Women in same-sex couples have the unique possibility to both give birth, and when they do, they experience smaller income declines after separation, indicating that more equally shared caregiving attenuates economic losses. Overall, women in same-sex couples show that more equal divisions of labor can lessen women's losses after separation, but this advantage is overridden when caregiving and children's residence concentrate in one household. These findings highlight the need for policies that support more equal work-care arrangements and reduce the financial costs tied to concentrated caregiving and birth motherhood.",
+  "raw_path": "01_raw/europepmc_xml/PMC13123900.xml",
+  "text_path": "02_text/europepmc/PMC13123900.txt",
+  "raw_bytes": 126417,
+  "text_chars": 43200,
+  "raw_sha256": "2ad6db0b3a30df16d85d51d263b83738309a1d3715299e223b358802a4ae2534",
+  "text_sha256": "7e8f7a696bbecac2125b23a4699b59a08674bd4eb4d00d7a79ddc8cd36bc665a",
+  "retrieved_at": "2026-10-25T15:38:04.933092+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11891985",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Maladaptive personality traits and older adult relationship satisfaction: A co-twin control approach to understanding associations.",
+  "authors": "Yu HH, Freilich CD, Wilson S, McGue M, Roisman GI, Krueger RF.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/jopy.12949",
+  "pmcid": "PMC11891985",
+  "url": "https://europepmc.org/article/PMC/PMC11891985",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11891985/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Objective Maladaptive personality traits have been implicated in romantic relationship dissatisfaction, but the etiology of those links and the degree to which they extend to other types of relationships are unclear. The purpose of this study was to examine associations between maladaptive personality traits and satisfaction in various relationships using a co-twin control design to identify potential environmental contributions. Method The sample consisted of 1340 older adult twin participants from the Minnesota Twin Registry (M age = 70.3) that completed the Personality Inventory for DSM-5 Faceted Brief Form and Network of Relationships Inventory (Revised for Older Adults). Results Several maladaptive personality traits were phenotypically associated with relationship dissatisfaction, with detachment and negative affect having the largest effects. Further, within twin pair differences in detachment and negative affect were associated with greater relationship dissatisfaction, suggesting that observed associations were mediated partly by the unique environment, not solely the result of genetic and familial confounding. Both phenotypic and co-twin associations were strongest overall in the romantic partner relationship. Conclusion These findings support the notion that maladaptive personality traits are implicated in interpersonal dysfunction across multiple domains.",
+  "raw_path": "01_raw/europepmc_xml/PMC11891985.xml",
+  "text_path": "02_text/europepmc/PMC11891985.txt",
+  "raw_bytes": 162523,
+  "text_chars": 43855,
+  "raw_sha256": "e243929c9468460af51ce8d7506293a8f84d5e10a3db61143f3137262903ab0f",
+  "text_sha256": "d11c777a0639711645da9426e3dc25e8207052d34e2af9e6f38658de47c4f561",
+  "retrieved_at": "2026-10-25T15:49:21.341092+00:00"
+}

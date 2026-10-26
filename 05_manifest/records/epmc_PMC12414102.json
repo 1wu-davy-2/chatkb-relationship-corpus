@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12414102",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"I Couldn't Leave the Farm\": Rural Women's Experiences of Intimate Partner Violence and Coercive Control.",
+  "authors": "Wood K, Giesbrecht CJ, Brooks C, Arisman K.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/10778012241279117",
+  "pmcid": "PMC12414102",
+  "url": "https://europepmc.org/article/PMC/PMC12414102",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12414102/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Intimate partner violence (IPV) and coercive control are prevalent across Canada; these experiences are exacerbated by regionality with women in rural areas disproportionately affected. This study explores rural women's experiences of IPV and coercive control, drawing on qualitative interviews with rural women in Saskatchewan who experienced IPV and focus groups with service providers who work with survivors. Our findings suggest rurality magnifies conditions of coercive control through physical elements of normative rurality, such as isolation that restrict women's space for action. Our participants' experiences of coercive control were exacerbated by the geographic reality of living in a rural/remote location.",
+  "raw_path": "01_raw/europepmc_xml/PMC12414102.xml",
+  "text_path": "02_text/europepmc/PMC12414102.txt",
+  "raw_bytes": 119702,
+  "text_chars": 62719,
+  "raw_sha256": "34de90c16e3f25f6450eb3e3bb32482875cb1620d230e233af93b03f57a0b08a",
+  "text_sha256": "0f0222baa226d9150b5c7b9a17b58185439ad5a76c906ad670bf27ac74c04c91",
+  "retrieved_at": "2026-10-25T15:43:58.502386+00:00"
+}

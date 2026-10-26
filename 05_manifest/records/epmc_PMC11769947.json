@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11769947",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Gender differences in oxyhemoglobin (oxy-Hb) changes during drawing interactions in romantic couples: an fNIRS study.",
+  "authors": "Huang X, Bai L, Chen Y, Cui H, Wang L.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fnbeh.2024.1476535",
+  "pmcid": "PMC11769947",
+  "url": "https://europepmc.org/article/PMC/PMC11769947",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11769947/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "Interpersonal interaction is essential to romantic couples. Understanding how gender impacts an individual's brain activities during intimate interaction is crucial. The present study examined gender differences in oxyhemoglobin (oxy-Hb) changes during real-time drawing interactions between members of romantic couples using non-invasive functional near-infrared spectroscopy (fNIRS). We analyzed the oxy-Hb concentrations of romantic couples engaged in interactive (i.e., chase and escape) and non-interactive (i.e., individual) drawing sessions. Our findings indicated that males (vs. females) exhibited more pronounced oxy-Hb concentrations in Broca's area, motor area, sensorimotor cortex, and temporal lobe areas than women in an interactive drawing task, suggesting a heightened goal-oriented engagement in social interaction. Significant positive correlations were found between oxy-Hb volumes of the temporal area and the Quality of Relationship Index (QRI), underscoring the impact of interpersonal dynamics on brain function during interactive tasks. This study deepens the understanding of gender differences in neural mechanisms in social interaction tasks and provides important insights for intimacy research.",
+  "raw_path": "01_raw/europepmc_xml/PMC11769947.xml",
+  "text_path": "02_text/europepmc/PMC11769947.txt",
+  "raw_bytes": 142765,
+  "text_chars": 37829,
+  "raw_sha256": "d3c66bd5ae47df4d595a25b734863f2f00530ae90a4be1f0b82375206a7911f9",
+  "text_sha256": "6270152bc19ed0bf9f529bad4df0dd648e5105d4890751a8f9f972979e428750",
+  "retrieved_at": "2026-10-25T15:41:55.751011+00:00"
+}

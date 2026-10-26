@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12897551",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "From Physique to Feelings: Deciphering the Body-Jealousy Connection in Women's Responses to Feminine Vocal Cues.",
+  "authors": "Guanque C, Xu C, Ji C, Ren X, Lei X, Han C.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1002/pchj.70072",
+  "pmcid": "PMC12897551",
+  "url": "https://europepmc.org/article/PMC/PMC12897551",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12897551/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Jealousy typically emerges when individuals sense that their romantic relationships may be threatened by others who display characteristics indicative of high mate quality. Previous research has found that in contexts of intrasexual competition, feminine female voices indicate high mate value and elicit stronger jealousy responses from other women. However, studies on individual differences in jealousy sensitivity are limited. Body size is an important factor that influences women's mating behavior. In the current study, we investigated the effect of women's height, weight, and body mass index (BMI) on their jealousy sensitivity to other women's vocal femininity. Results showed that women perceived more feminine voices as more jealousy-inducing, and this effect was modulated by body size. Taller women demonstrated heightened sensitivity to vocal changes in pitch and formants, while slimmer women and those with a lower BMI showed increased sensitivity to pitch variations in competitive scenarios. These findings indicate that body size significantly shapes individual differences in jealousy sensitivity during intrasexual competition. Our study supports the mate quality-jealousy hypothesis, highlighting how traits perceived as indicators of higher mate quality amplify jealousy responses. The current research extends the literature on vocal cues and attractiveness by demonstrating how these factors influence emotional reactions such as jealousy.",
+  "raw_path": "01_raw/europepmc_xml/PMC12897551.xml",
+  "text_path": "02_text/europepmc/PMC12897551.txt",
+  "raw_bytes": 113335,
+  "text_chars": 32611,
+  "raw_sha256": "9d10593a7c74993696acfc767def75cf961392e42933d7ee05539969f3a6d437",
+  "text_sha256": "9892b5e67c7775883e9d2bd2c8387e9dea31546f7e9a0a578ac6f6b4b7220cde",
+  "retrieved_at": "2026-10-25T15:27:01.362718+00:00"
+}

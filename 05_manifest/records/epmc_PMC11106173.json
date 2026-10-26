@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11106173",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Symbiosexual Attraction: An Integrated Mixed-Methods Study.",
+  "authors": "Johnston SW.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1007/s10508-024-02857-x",
+  "pmcid": "PMC11106173",
+  "url": "https://europepmc.org/article/PMC/PMC11106173",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11106173/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "validation"
+  ],
+  "abstract": "A recent review of cultural and academic discourse presented evidence that some people experience attraction to two (or more) people in a preexisting relationship. This phenomenon, symbiosexuality, is understudied in the field of sexuality. Lack of recognition and validation for this attraction, including in the polyamorous community, may be negatively impacting those who experience symbiosexual attraction. I conducted an integrated mixed-methods analysis of secondary data from the 2023 The Pleasure Study to learn more about symbiosexual attraction. Findings from this study support the hypothesis that people experience symbiosexual attraction, which they describe as an attraction to the energy, multidimensionality, and power shared between people in relationships. Further, findings from this study indicate that a diverse group of people experience symbiosexual attraction and, while unanticipated, symbiosexual attraction can be a strong, frequent, and/or pervasive experience. These findings push the boundaries of the concepts of desire and sexual orientation in sexuality studies and challenge the ongoing invisibility and invalidation of and stigma and discrimination against such attractions, within both the polyamorous community and our broader mononormative culture.",
+  "raw_path": "01_raw/europepmc_xml/PMC11106173.xml",
+  "text_path": "02_text/europepmc/PMC11106173.txt",
+  "raw_bytes": 164580,
+  "text_chars": 79938,
+  "raw_sha256": "931670efb9e9178049baf8eba1c800b65899b3a050f15c4171a514e2d5cc4c95",
+  "text_sha256": "f9f94e810379c70bf18a7dfa66b8679aa4386764686a386992189a19578398d3",
+  "retrieved_at": "2026-10-25T13:55:31.896488+00:00"
+}

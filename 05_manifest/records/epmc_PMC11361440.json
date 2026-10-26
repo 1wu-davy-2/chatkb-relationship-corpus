@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11361440",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Unveiling Shadows: Investigating women's experience of intimate partner violence in Ghana through the lens of the 2022 Demographic and Health Survey.",
+  "authors": "Dickson KS, Ayebeng C, Okyere J.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0309564",
+  "pmcid": "PMC11361440",
+  "url": "https://europepmc.org/article/PMC/PMC11361440",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11361440/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "Introduction Intimate partner violence (IPV) is a significant public health issue, predominantly among women in sub-Saharan Africa, including Ghana. Existing evidence indicates high rates of IPV perpetration and its associated adverse health outcomes. Despite previous studies, reliance on old data underscores the need for current, nationally representative data to inform policy-making and interventions. Therefore, this study utilizes the 2022 Ghana Demographic and Health Survey (GDHS) to examine IPV experiences and associated factors, aiming to provide updated insights for effective IPV mitigation strategies in Ghana. Methods This is a cross-sectional study of a weighted sample of 3,741 women between the ages of 15-49 years old from the 2022 GDHS. Binary logistic regression analysis was used in predicting the outcome. Results The study found that 36.4 percent of women in Ghana had experienced some form of IPV, primarily emotional violence (31.5%), physical violence (17.3%), and sexual violence (7.6%). Women with higher levels of education had a significantly reduced risk of 60% of experiencing some form of IPV than those with no formal education. Partner domineering behaviours, such as women whose partners often get jealous for seeing them talk with other men [adjusted OR:1.76, 95%CI:1.25,2.48], accusing them of unfaithfulness [adjusted OR:2.59, 95%CI:1.03,2.46], not permitting them to meet female friends [adjusted OR:1.1.59, 95%CI:1.03,2.46], and limiting their contact with family [adjusted OR:5.75, 95%CI:2.27,13.42], were more likely to experience at least one form of IPV. Similarly, women who justified or endorsed wife beating had a higher likelihood [aOR = 1.57, 95%CI = 1.22,2.02] of experiencing at least one form of IPV than those who did not endorse such behaviour. Conclusion Identifying educational attainment, partner dominance, and violence endorsement as IPV predictors underscore targeted interventions. Promoting women's education bolsters empowerment and IPV prevention. Addressing dominance through education, counselling, and legal frameworks is crucial for fostering safer relationships and challenging violence normalization.",
+  "raw_path": "01_raw/europepmc_xml/PMC11361440.xml",
+  "text_path": "02_text/europepmc/PMC11361440.txt",
+  "raw_bytes": 142543,
+  "text_chars": 20792,
+  "raw_sha256": "e530e8c2deff83324f735861a85d31631ee94bd1a158b6dc8cbe938971fe110b",
+  "text_sha256": "090b37bbcc5a0dbe3081b7d921e0471ff3d7746574a75518f0b0e68cad677c6b",
+  "retrieved_at": "2026-10-26T13:13:48.620876+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5859382",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychological Impact of Stalking on Male and Female Health Care Professional Victims of Stalking and Domestic Violence.",
+  "authors": "Acquadro Maran D, Varetto A.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2018.00321",
+  "pmcid": "PMC5859382",
+  "url": "https://europepmc.org/article/PMC/PMC5859382",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5859382/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "The aim of this work was to investigate stalking experiences in a sample of Health Care Professionals, or HCPs, who experienced domestic violence in their previous relationships with an intimate romantic or non-romantic who had become their stalkers. A comparison between males and females was made to highlight the differences among the genders. The findings showed that, for the most part, the victims experienced stalking by a stalker that was not of the same gender. Moreover, the nature of the relationship was romantic, for the most part, for both female and male subjects, suggesting that the principal motivation of stalking is the disruption of an intimate relationship. Regarding domestic violence, females described the phenomenon from a different perspective, indicating verbal, physical, and sexual abuse, while males indicated only verbal abuse. Females tended to amplify, more than the males, depression, and state and trait anxiety. Even if all symptoms were expressed in both females and males, the males exhibited a lack of confidence in their bodies, and the emotional literacy made the expression of distress more difficult. At the same time, the expression of anxiety presented in the women permitted them to become progressively less victimized over time; depression and anxiety allow the recognition of these symptoms as signs of distress and to intervene to reduce them.",
+  "raw_path": "01_raw/europepmc_xml/PMC5859382.xml",
+  "text_path": "02_text/europepmc/PMC5859382.txt",
+  "raw_bytes": 120831,
+  "text_chars": 38249,
+  "raw_sha256": "65cf84c3181e9d3e0fb9e3aee07bb0b0f003d744266f86a60b047257138d4ab4",
+  "text_sha256": "a5a69cd038918a2a13b9ffd452238ee8734ff79efc364d2962c21e22f59f0c07",
+  "retrieved_at": "2026-10-25T15:39:31.976348+00:00"
+}

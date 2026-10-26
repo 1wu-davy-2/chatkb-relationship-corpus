@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7381078",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Usability and Acceptability of a Smartphone App to Assess Partner Communication, Closeness, Mood, and Relationship Satisfaction: Mixed Methods Study.",
+  "authors": "Langer SL, Ghosh N, Todd M, Randall AK, Romano JM, Bricker JB, Bolger N, Burns JW, Hagan RC, Porter LS.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.2196/14161",
+  "pmcid": "PMC7381078",
+  "url": "https://europepmc.org/article/PMC/PMC7381078",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7381078/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "responsiveness"
+  ],
+  "abstract": "Background Interpersonal communication is critical for a healthy romantic relationship. Emotional disclosure, coupled with perceived partner responsiveness, fosters closeness and adjustment (better mood and relationship satisfaction). On the contrary, holding back from disclosure is associated with increased distress and decreased relationship satisfaction. Prior studies assessing these constructs have been cross-sectional and have utilized global retrospective reports of communication. In addition, studies assessing holding back or perceived partner responsiveness have not taken advantage of smartphone ownership for data collection and have instead required website access or use of a study-provided device. Objective This study aimed to examine the (1) usability and acceptability of a smartphone app designed to assess partner communication, closeness, mood, and relationship satisfaction over 14 days and (2) between-person versus within-person variability of key constructs to inform the utility of their capture via ecological momentary assessment using the participants' own handheld devices. Methods Adult community volunteers in a married or cohabiting partnered relationship received 2 smartphone prompts per day, one in the afternoon and one in the evening, for 14 days. In each prompt, participants were asked whether they had conversed with their partner either since awakening (afternoon prompt) or since the last assessment (evening prompt). If yes, a series of items assessed enacted communication, perceived partner communication, closeness, mood, and relationship satisfaction (evening only). Participants were interviewed by phone, 1 week after the end of the 14-day phase, to assess perceptions of the app. Content analysis was employed to identify key themes. Results Participants (N=27; mean age 36, SD 12 years; 24/27, 89% female; 25/27, 93% white and 2/27, 7% Hispanic) responded to 79.2% (555/701) of the total prompts sent and completed 553 (78.9%) of those assessments. Of the responded prompts, 79.3% (440/555) were characterized by a report of having conversed with one's partner. The app was seen as highly convenient (mean 4.15, SD 0.78, scale: 1-5) and easy to use (mean 4.39, SD 0.70, scale: 1-5). Qualitative analyses indicated that participants found the app generally easy to navigate, but the response window too short (45 min) and the random nature of receiving notifications vexing. With regard to the variability of the app-delivered items, intraclass correlation coefficients were generally Conclusions The findings of this study support the usability and acceptability of the app, with valuable user input to modify timing windows in future work. The findings also underscore the utility of an intensive repeated-measures approach, given the meaningful day-to-day variation (greater within-person vs between-person variability) in communication and mood.",
+  "raw_path": "01_raw/europepmc_xml/PMC7381078.xml",
+  "text_path": "02_text/europepmc/PMC7381078.txt",
+  "raw_bytes": 118260,
+  "text_chars": 35986,
+  "raw_sha256": "cee92328dc01275c7a65783d38d165bbc81111db568405c0dde9f3758ec280a7",
+  "text_sha256": "41422c3e8eb986053eecdbb727cd30299814908f096d26aa0fab48c2c77afe91",
+  "retrieved_at": "2026-10-25T15:38:14.280766+00:00"
+}

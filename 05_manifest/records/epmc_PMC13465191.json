@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13465191",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The impact of social media addiction on sexual desire: an observational study.",
+  "authors": "Varaona-Santos A, Serrano-García I, Ferrer-Asension P, Alvarez-Mon MA, Molina-Ruiz RM.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-04914-7",
+  "pmcid": "PMC13465191",
+  "url": "https://europepmc.org/article/PMC/PMC13465191",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13465191/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "Background Excessive social media use has been linked to appearance-related concerns during sexual activity, reduced arousal and desire, orgasm difficulties, and increased sexual dissatisfaction and distress. While most research has examined general effects of social media use on sexual satisfaction, little is known about its specific impact on sexual desire or the role of associated factors. This study examined the relationship between social media addiction and sexual desire in women, and whether age, depressive symptoms, and cohabitation with a partner contributed to this association. Methods In this cross-sectional online study, participants were recruited through convenience and snowball sampling to complete an anonymous survey assessing sociodemographic characteristics, social media use, sexual desire (Female Sexual Function Questionnaire; FSM), depressive symptoms (Patient Health Questionnaire; PHQ-9), and social media addiction (Social Media Addiction Scale-Student Form; SMAS-SF). Results Higher social media addiction scores were associated with lower sexual desire. Age, depressive symptoms, and cohabitation with a partner accounted for a significant proportion of the variance in this association, with age identified as the strongest predictor. Older adults with similar depressive symptoms and addiction levels reported significantly lower sexual desire than younger counterparts (p Conclusions Social media addiction is negatively associated with sexual desire. Age, depressive symptoms, and partner cohabitation contributed to this association. These findings highlight the importance of considering psychological and relational factors when addressing the sexual consequences of social media addiction.",
+  "raw_path": "01_raw/europepmc_xml/PMC13465191.xml",
+  "text_path": "02_text/europepmc/PMC13465191.txt",
+  "raw_bytes": 119569,
+  "text_chars": 45891,
+  "raw_sha256": "11f640dd78937aeedb0bf30a1689270cad0ff96df732b1a8c22530497e219cf4",
+  "text_sha256": "38bdc08ceb65e8d01cb1127fdfb5a11f2f6b0c08ebbc97477ca96c3a4e46a217",
+  "retrieved_at": "2026-10-26T13:05:51.569967+00:00"
+}

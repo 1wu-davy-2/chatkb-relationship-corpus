@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4911849",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The neuroendocrinology of love.",
+  "authors": "Seshadri KG.",
+  "year": "2016",
+  "journal": "",
+  "doi": "10.4103/2230-8210.183479",
+  "pmcid": "PMC4911849",
+  "url": "https://europepmc.org/article/PMC/PMC4911849",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4911849/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Romantic love could be considered as a collection of activities associated with the acquisition and retention of emotions needed to survive and reproduce. These emotions change the individual's behavioural strategies in a way that will increase the likelihood of achieving these goals. Love may be defined as an emergent property of an ancient cocktail of neuropeptides and neurotransmitters. It appears that lust, attachment and attraction appear to be distinct but intertwined processes in the brain each mediated by its own neurotransmitters and circuits. These circuits feed on and reinforce each other. Sexual craving is mediated by testosterone and oestrogen and has the amygdala as an important centre. Attraction is mediated by hormones of stress and reward including dopamine, norepinephrine cortisol and the serotinergic system and has the nucleus accumbens the ventral tegmental area as key mediators.",
+  "raw_path": "01_raw/europepmc_xml/PMC4911849.xml",
+  "text_path": "02_text/europepmc/PMC4911849.txt",
+  "raw_bytes": 60092,
+  "text_chars": 21461,
+  "raw_sha256": "9fc51f0d5ea7ca9726fc86b7b259371bec01d85aedf919d05be522d44abd0dd8",
+  "text_sha256": "86a379d9580f23cfc1027b2bdb7714ee200c107dda1aaaf4ec2b883858065a2c",
+  "retrieved_at": "2026-10-25T15:49:42.474883+00:00"
+}

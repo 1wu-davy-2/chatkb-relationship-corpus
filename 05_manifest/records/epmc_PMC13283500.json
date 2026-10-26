@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC13283500",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Effectiveness of Affirmative Sexual Consent Cues.",
+  "authors": "Upadhyay K, Lavis T, Proeve M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/08862605251343200",
+  "pmcid": "PMC13283500",
+  "url": "https://europepmc.org/article/PMC/PMC13283500",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13283500/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types",
+    "sexual_scripts"
+  ],
+  "abstract": "Despite the growing literature related to sexual consent, most research has focused on female victims, indicating a significant need for more research focusing on consent and victim blame with male victims. The current study investigated whether male victims are blamed for sexual assault where the perpetrator is a female, using traditional sexual script theory as a framework. The study investigated whether participants could clearly differentiate between consent and non-consent scenarios when ambiguous nonverbal cues were presented. Participants ( N = 167) were randomly assigned to one of three vignettes in a between-subjects experimental design: (a) A neutral control condition with no clear cues, (b) implicit nonverbal non-consent cues, and (c) explicit nonverbal non-consent cues. Participants were asked to rate consent and victim blame. Overall, the findings indicated that male participants placed more blame on victims and rated all scenarios (regardless of implicit or explicit cues) as more consensual than female participants. Furthermore, the findings of this study suggest that participants can identify non-consent, if any sort of cue (implicit or explicit) is presented. Nonetheless, participants believe that explicit cues, rather than implicit cues, would be the most effective method of communicating non-consent. These findings suggest that education campaigns may benefit from incorporating ambiguous non-consent cues in discussions about how consent is communicated.",
+  "raw_path": "01_raw/europepmc_xml/PMC13283500.xml",
+  "text_path": "02_text/europepmc/PMC13283500.txt",
+  "raw_bytes": 82738,
+  "text_chars": 32346,
+  "raw_sha256": "1fbbe5cddd86a9bc95844f08b342067b90ce02729208a44a7efc0cbb60599880",
+  "text_sha256": "402a3dfe0f62dbae3a325d01cfee813cad2290abf7f32b8fce0953590f67b10f",
+  "retrieved_at": "2026-10-26T13:08:35.897926+00:00"
+}

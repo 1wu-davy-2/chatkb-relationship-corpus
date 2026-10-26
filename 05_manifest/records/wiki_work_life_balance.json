@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_work_life_balance",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "勞逸平衡",
+  "requested_title": "工作生活平衡",
+  "url": "https://zh.wikipedia.org/wiki/%E5%8B%9E%E9%80%B8%E5%B9%B3%E8%A1%A1",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 勞逸平衡",
+  "topics": [
+    "lifestyle",
+    "career"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/work_life_balance.json",
+  "text_path": "02_text/zh_wikipedia/work_life_balance.txt",
+  "raw_bytes": 1616,
+  "text_chars": 1035,
+  "text_sha256": "020e7d978b89d44a2d971e61f0f91b2cdbc29ee49b38ea29a5e7b469aed9033a",
+  "retrieved_at": "2026-10-25T16:28:14.055165+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11849325",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sex differences in romantic love: an evolutionary perspective.",
+  "authors": "Bode A, Luoto S, Kavanagh PS.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s13293-025-00698-4",
+  "pmcid": "PMC11849325",
+  "url": "https://europepmc.org/article/PMC/PMC11849325",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11849325/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "commitment",
+    "romantic_relationship"
+  ],
+  "abstract": "Background Evolutionary selection pressures, most notably sexual selection, have created (and continue to sustain) many psychobehavioral differences between females and males. One such domain where psychobehavioral sex differences may be prominent is romantic love. The ways in which females and males may experience and express romantic love differently has been studied in psychology as well as in the arts down the ages; however, no studies have focused specifically on romantic love (i.e., passionate love) using validated measures of romantic love solely in people who are currently experiencing this form of love. Methods This study investigated sex differences in features and aspects of romantic love among 808 young adults experiencing romantic love. Univariate and multivariate analyses were conducted to measure sex differences in the number of times participants had fallen in love, when they fell in love relative to when they started their romantic relationship (love progression), intensity of romantic love, obsessive thinking about a loved one, and commitment. Additional univariate comparisons were made for sex differences in Passionate Love Scale scores. Results Univariate analyses showed that males had fallen in love a greater number of times than females. Males had also fallen in love more quickly than females. Females had higher intensity of romantic love, higher commitment, and higher obsessive thinking about a loved one than males. These findings remained robust in multivariate analyses, controlling for several variables believed to influence romantic love, with the exception of commitment, which was no longer significant when other variables were controlled for. Conclusions The findings are considered with reference to the evolutionary theory of sexual selection. We suggest that the specific adaptive challenges faced by females and males in the evolutionary history of romantic love may contribute to sex differences in romantic love. The findings shed light on contemporary sex differences in romantic love, as well as the possible evolutionary history and evolutionary functions of romantic love.",
+  "raw_path": "01_raw/europepmc_xml/PMC11849325.xml",
+  "text_path": "02_text/europepmc/PMC11849325.txt",
+  "raw_bytes": 243464,
+  "text_chars": 72984,
+  "raw_sha256": "dda747ca33344885fcb1d7481183b9d9b80772655dcfe1d4f00c19c047570854",
+  "text_sha256": "eb2411bd2e29717ebbff93ac748f92b233e5a9397bf046be21e4b5412249ec2d",
+  "retrieved_at": "2026-10-25T13:55:14.386304+00:00"
+}

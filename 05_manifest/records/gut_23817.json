@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_23817",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "閱微草堂筆記",
+  "gutenberg_id": "23817",
+  "url": "https://www.gutenberg.org/ebooks/23817",
+  "download_url": "https://www.gutenberg.org/cache/epub/23817/pg23817.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/23817.txt",
+  "text_path": "02_text/gutenberg/gut_23817_閱微草堂筆記.txt",
+  "raw_bytes": 1180506,
+  "text_chars": 385373,
+  "text_sha256": "5384fc6c33c142d6946e4f7689b67ecbd91e3d1c90939bf01a150f9eb9202116",
+  "retrieved_at": "2026-10-25T16:04:41.710490+00:00"
+}

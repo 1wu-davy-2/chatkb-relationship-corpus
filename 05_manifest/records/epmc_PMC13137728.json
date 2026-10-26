@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13137728",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Gun violence in intimate partner violence: insights from social media.",
+  "authors": "Mei Y, Kothari A, Upchurch J, Kim S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12889-026-27059-z",
+  "pmcid": "PMC13137728",
+  "url": "https://europepmc.org/article/PMC/PMC13137728",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13137728/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "BACKGROUND: This study analyzed publicly available Reddit data to characterize gun violence in intimate partner violence (IPV) via quantitative content analysis. METHODS: We examined 105 Reddit posts detailing firsthand and vicarious accounts of firearm-related IPV authored by self-identified survivors (94%) and bystanders (6%), including non-fatal shooting. We extracted data on forms and tactics of IPV, survivors’ needs, firearm-related behaviors, and consequences of these experiences. RESULTS: We found that Reddit posts contained rich information about firearm use against intimate partners, most often describing non-fatal incidents. Victims whose partners used firearms to threaten or intimidate them were more likely to report experiencing the threat of physical and sexual violence, physical injury, and ongoing safety concerns. CONCLUSIONS: Social media data collected in real-time, anonymously, and unobtrusively can better inform the circumstances around gun violence in IPV and help develop prevention strategies.",
+  "raw_path": "01_raw/europepmc_xml/PMC13137728.xml",
+  "text_path": "02_text/europepmc/PMC13137728.txt",
+  "raw_bytes": 123589,
+  "text_chars": 39290,
+  "raw_sha256": "81b7c4441f59ac5194090078e92f5cdaf74ddf3856a59e08035ba464738a0ac3",
+  "text_sha256": "2d0fa15c6978089563f90d619124a14445df19247d10d4b15c8bf8e6cf2e8231",
+  "retrieved_at": "2026-10-25T15:46:56.187862+00:00"
+}

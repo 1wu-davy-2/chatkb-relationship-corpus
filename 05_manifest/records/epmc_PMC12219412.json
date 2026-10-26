@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12219412",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Cross-cultural data on romantic love and mate preferences from 117,293 participants across 175 countries.",
+  "authors": "Kowal M, Sorokowski P, Gjoneska B, Pisanski K, Pfuhl G, Aguilar L, Janssen SMJ, Gelbart B, Arriaga P, Antfolk J, Zvončáková K, Lidborg LH, Contreras-Garduño J, Kozlov MV, Milfont TL, Varella MAC, Križanić V, Boussena M, Kavčič T, da Silva DR, Hamdaoui B, Sahli FZ, Massar K, Deschrijver E, Ishii T, Cetinkaya H, Senyk O, Guemaz F, Ponnet K, Don Y, Šakan D, Yoo G, Nussinson R, Ungaretti J, Can AR, Duyar I, Čeněk J, Carneiro J, Meskó N, Kozma L, Nyhus EK, Vintila M, Zerhouni O, Pazhoohi F, Zupančič M, Söylemez S, Wang AH, Papadatou-Pastou M, Banai IP, Prokop P, Omar Fauzee MS, Afhami R, Natividade JC, Baiocco R, Morelli M, Aavik T, Toplu-Demirtaş E, Tulyakul S, Wlodarczyk A, Chegeni R, Santos AC, Grigoryev D, Dubrov D, Chubinidze D, Ikizer G, Burduli N, Czamanski-Cohen J, Amin R, Roussos P, Hristova E, Sargautytė R, Pirtskhalava E, Avirmed T, Najmussaqib A, Charyate A, Batool S, Volkodav T, Kunisato Y, Yamada Y, Toyama A, Perun M, Dural S, Mandzyk T, Studzinska A, Spasovski O, García FE, Grano C, Boğa M, Koyuncu M, Singh S, Park JH, Atamtürk D, Lins S, Pírko M, Lacko D, Aczel B, Kocsor F, Putz Á, Otterbring T, Kačmár P, Manunta E, Besson T, Moharrampour NG, Solak Ç, Dinić BM, Estevan I, Bulut MT, Kervyn N, Mebarak M, Lu JG, Plohl N, Musil B, Samekin A, Miroshnik KG, Cornec C, Giammusso I, Reips UD, Miccoli MR, Parise M, Stöckli S, Marot T, Aquino SD, Londero-Santos A, Chirumbolo A, Memisoglu-Sanli A, Valentova JV, Karaarslan C, Hromatko I, Kertechian KS, Çoker O, Ribeiro MF, Batres C, Dalgar I, Eder SJ, Mišetić K, Argyrides M, Mikuličiūtė V, Mari S, Oberzaucher E, Masuch K, Mattiassi ADA, Omar SS, Piccinelli E, Caglar EE, Lamela D, Frederick DA, Kobylarek A, Pacquing MCT, Reyes MES, Zumárraga-Espinosa M, Fekih-Romdhane F, Yepes TG, Etchezahar E, Galasinska K, Röer JP, Şahin A, Landa-Blanco M, Ndukaihe ILG, Urbanek A, Tan CS, Castro R, Cunichina K, Krasnodębska A, Conroy-Beam D, Ostaszewski F, Chałatkiewicz I, Abad-Villaverde B, Trémolière B, Arvanitis A, Topanova GT, Chopik WJ, Akello G, Pagani AF, Donato S, Fedor P, Frackowiak T, Ozer S, Mayorga-Lascano M, Khan F, Fisher ML, Maturan PLG, Semenovskikh T, Dutt S, Tamayo-Agudelo W, Ismukhanova G, Ismukhanova G, Al-Shawaf L, Angelucci L, Bode A, Balım S, Dacanay JC, Atama CS, Campbell KADM, Simões TA, Özener B, Błauciak P, Prazeres F.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1038/s41597-025-05365-2",
+  "pmcid": "PMC12219412",
+  "url": "https://europepmc.org/article/PMC/PMC12219412",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12219412/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction_physical"
+  ],
+  "abstract": "Psychological studies on close relationships have often overlooked cultural diversity, dynamic processes, and potentially universal principles that shape intimate partnerships. To address the limited generalizability of previous research and advance our understanding of romantic love experiences, mate preferences, and physical attractiveness, we conducted a large-scale cross-cultural survey study on these topics. A total of 404 researchers collected data in 45 languages from April to August 2021, involving 117,293 participants from 175 countries. Aside from standard demographic questions, the survey included valuable information on variables relevant to romantic relationships: intimate, passionate, and committed love within romantic relationships, physical-attractiveness enhancing behaviors, gender equality endorsement, collectivistic attitudes, personal history of pathogenic diseases, relationship quality, jealousy, personal involvement in sexual and/or emotional infidelity, relational mobility, mate preferences, and acceptance of sugar relationships. The resulting dataset provides a rich resource for investigating patterns within, and associations across, a broad range of variables relevant to romantic relationships, with extensive opportunities to analyze individual experiences worldwide.",
+  "raw_path": "01_raw/europepmc_xml/PMC12219412.xml",
+  "text_path": "02_text/europepmc/PMC12219412.txt",
+  "raw_bytes": 134111,
+  "text_chars": 26995,
+  "raw_sha256": "335d639f5beb51aba43648ec2c7c9cdd925a7f9707a16c8daed5edf0f3ac8ba0",
+  "text_sha256": "bdf41a77a4cea83bd0414bd1c24121de9cb47732a38aed3f6fe0d72053640f95",
+  "retrieved_at": "2026-10-25T15:29:31.088504+00:00"
+}

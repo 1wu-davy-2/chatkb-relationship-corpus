@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12082881",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Association between partner violence, and the appearance of symptoms of sexually transmitted infections, and reproductive tract infections among Afghan refugee women in Iran: a cross-sectional study.",
+  "authors": "Delkhosh M, Ardalan A, Rahimiforoushani A, Salehpoor-Emran M, Merghati-Khoei E.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s12889-024-21239-5",
+  "pmcid": "PMC12082881",
+  "url": "https://europepmc.org/article/PMC/PMC12082881",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12082881/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "safer_sex_communication"
+  ],
+  "abstract": "Background Partner violence suffered by refugee women is a topic of debate. Symptoms of sexually transmitted infections (STIs) and reproductive tract infections (RTIs) may be a consequence of this violence. This study aimed to determine the possible associations between partner violence and the appearance of symptoms of STIs/RTIs among Afghan women in Iran. Methods This cross-sectional population-based household survey was conducted with 188 reproductive-age Afghan refugee women residing in a refugee settlement in a selected city of Iran in 2016-17. Data were collected using four self-report instruments: A Socio-demographic characteristics form, the Assessment of Intimate Partner Violence, Women's self-reported STIs/RTIs-associated symptoms, and the Multi-Country Study on Women's Health and Domestic Violence against Women. The SPSS software version 22 was used for data analysis and comparisons between variables, and the significance level was established at P Results Most women reported at least one symptom related to STIs/RTIs (70.7%) during the last year. 'No condom use' (P = 0.015) (OR = 3.25; 95% CI = 1.26-8.39) and 'having unusual sex' (P = 0.009) (OR = 3.75; 95% CI = 1.26-15.49) were found to be a statistically related significant relationship with the reported STIs/RTIs-associated symptoms. Most women (66.9%) neither sought help for their STI/RTI symptoms by healthcare nor received treatment. IPV was positively associated with STIs/RTIs-associated symptoms (P Conclusions Based on the results, self-perception of the presence of STIs/RTIs-associated symptoms among the Afghan refugee population is considerable. Moreover, the high prevalence of IPV and its strong links with the self-perception of the presence of STIs/RTIs-associated symptoms underline the urgent need for developing, testing, and implementing appropriate and timely interventions for managing STIs/RTIs and IPV simultaneously in refugee camps/settlements to tackle both violence and STIs/RTIs among refugee couples.",
+  "raw_path": "01_raw/europepmc_xml/PMC12082881.xml",
+  "text_path": "02_text/europepmc/PMC12082881.txt",
+  "raw_bytes": 144330,
+  "text_chars": 38546,
+  "raw_sha256": "2f852ba86ab3ee5ae67f228de3513b51ec9b5fc59cce216971dbc501bbc72aa1",
+  "text_sha256": "4f3e8383ae493286f2a9c2e317c920629fec1e14f39b885275228bac3bd6a76e",
+  "retrieved_at": "2026-10-26T12:57:27.768732+00:00"
+}

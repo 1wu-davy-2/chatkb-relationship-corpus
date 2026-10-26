@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5908259",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Chemsex Among Men Who Have Sex With Men: a Sexualized Drug Use Survey Among Clients of the Sexually Transmitted Infection Outpatient Clinic and Users of a Gay Dating App in Amsterdam, the Netherlands.",
+  "authors": "Drückler S, van Rooijen MS, de Vries HJC.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.1097/olq.0000000000000753",
+  "pmcid": "PMC5908259",
+  "url": "https://europepmc.org/article/PMC/PMC5908259",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5908259/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_apps_safety"
+  ],
+  "abstract": "Objectives Chemsex (i.e., drug use during sex) is practiced by some men who have sex with men (MSM) and is associated with high-risk behavior. In a cross-sectional study at the sexually transmitted infection (STI) clinic of Amsterdam, we explored chemsex practices, risk behavior, and STI prevalence. Method A survey on chemsex (γ-hydroxybutyrate, crystal methamphetamine, and/or mephedrone) was offered to clinic clients during routine STI screening and to Amsterdam users of a gay online dating app. Associations were assed using χ test and multivariable regression. Results Chemsex in the past 6 months was practiced by 866 (17.6%) of 4925 MSM clients and by 159 (1.5%) of 10857 non-MSM clients. Among gay dating app users, the proportion that reported chemsex engagement was higher than among MSM visiting the STI clinic (29.3% [537/1832] vs. 17.6%; P Conclusions In Amsterdam, chemsex is frequently practiced and significantly associated with bacterial STI in HIV-negative MSM but not in HIV-positive MSM. Future prevention strategies to reduce STI incidence should especially target HIV-negative MSM engaging in chemsex.",
+  "raw_path": "01_raw/europepmc_xml/PMC5908259.xml",
+  "text_path": "02_text/europepmc/PMC5908259.txt",
+  "raw_bytes": 51836,
+  "text_chars": 19898,
+  "raw_sha256": "29b33134a08bfcbdc8bf8ff8fbb5328b3a351cdc21586c33338c227551ffc0ba",
+  "text_sha256": "342799b5acae717b1b7e82c848d864d1e12257e3bd928c91a7c01e9b734f6c72",
+  "retrieved_at": "2026-10-25T15:30:26.300220+00:00"
+}

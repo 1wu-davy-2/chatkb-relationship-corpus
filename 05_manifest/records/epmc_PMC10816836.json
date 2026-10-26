@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10816836",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Well-Being, Self-Esteem and Temporal Perspective in Incels: An Italian Study.",
+  "authors": "Scaffidi Abbate C, Rapacciuolo F, Miceli S.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/jcm13020358",
+  "pmcid": "PMC10816836",
+  "url": "https://europepmc.org/article/PMC/PMC10816836",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10816836/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "asexuality_celibacy"
+  ],
+  "abstract": "The global scholarly attention has shifted toward the phenomenon of inceldom (involuntary celibacy) due to violent incidents involving self-identified incels. There is a growing number of platforms promoting the proliferation of these ideologies, and cases of violence are becoming increasingly severe. This research constitutes one of the limited empirical investigations within an Italian context. This study aims to examine the mental well-being and its associations with self-esteem and temporal perspectives among individuals identifying as incels. Fifty-eighth male subjects aged between 18 and 45 years old participated in the study. Participants, recruited through online communication channels, completed three questionnaires focused on assessing mental well-being, self-esteem, and temporal orientation. The results reveal that incel subjects exhibit low self-esteem and are inclined toward a hedonistic present-focused perspective aimed at immediate gratification rather than future planning. Of note are the data related to the future temporal perspective, which does not show any predictive value on the well-being of incel subjects. Their ability to plan for the long term, defer immediate gratification, and control behavior through the anticipation and evaluation of possible consequences appears diminished. This study discusses the implications of developing targeted intervention programs, given that the incel phenomenon is becoming increasingly widespread. It is, therefore, crucial not to underestimate the potential threat that inceldom could pose in the future.",
+  "raw_path": "01_raw/europepmc_xml/PMC10816836.xml",
+  "text_path": "02_text/europepmc/PMC10816836.txt",
+  "raw_bytes": 148398,
+  "text_chars": 37809,
+  "raw_sha256": "8c7a8bd95a75e8d0240bbc3e425fce05b1fbdbd1a4b77151ce670fb65489bea8",
+  "text_sha256": "6d75463ca7269275b32951ce1919ea9fd40e815b2b3da953b41b024fb59afa84",
+  "retrieved_at": "2026-10-26T13:06:27.236006+00:00"
+}

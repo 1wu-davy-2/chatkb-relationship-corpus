@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7459695",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Mixed-Methods Systematic Review: Infidelity, Romantic Jealousy and Intimate Partner Violence against Women.",
+  "authors": "Pichon M, Treves-Kagan S, Stern E, Kyegombe N, Stöckl H, Buller AM.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.3390/ijerph17165682",
+  "pmcid": "PMC7459695",
+  "url": "https://europepmc.org/article/PMC/PMC7459695",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7459695/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Infidelity and romantic jealousy (RJ) are commonly cited relational level drivers of intimate partner violence (IPV) but remain undertheorized and underutilized in IPV research and prevention. This global systematic review aims to characterize the existing research on real or suspected infidelity and RJ in relation to IPV and inform future research and programming. We systematically searched 11 databases for peer-reviewed research, published between April 2009 and 2019, that provided data on the prevalence or a measure of association (quantitative), or pathway (qualitative), between real or suspected infidelity or RJ, and IPV. Fifty-one papers from 28 countries were included and the evidence showed a consistent association between real or suspected infidelity, RJ and IPV. Our findings identify three overarching mechanisms and six pathways between infidelity, RJ and IPV. These provide support for prominent theories in the field related to patriarchal culture, threatened masculinities and femininities and a lack of emotional regulation and conflict resolution skills, but not evolutionary theories. Our findings suggest that researchers should use standardized measurement tools that make the distinction between RJ and suspected, confirmed and accusations of infidelity. Policy and programming should aim to transform traditional gender roles, accounting for infidelity and RJ and improving couple's communication and trust.",
+  "raw_path": "01_raw/europepmc_xml/PMC7459695.xml",
+  "text_path": "02_text/europepmc/PMC7459695.txt",
+  "raw_bytes": 358978,
+  "text_chars": 70184,
+  "raw_sha256": "ca4941b39e99880bb1f13eae75b4197d3680b000bbea17b6b06e319af6022a17",
+  "text_sha256": "dc92ea2c880c153450c185e3e3a413632b77712c0392f64613992b2df08bc629",
+  "retrieved_at": "2026-10-25T15:39:16.807732+00:00"
+}

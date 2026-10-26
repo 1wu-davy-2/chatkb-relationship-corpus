@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11897499",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship of body image with sexual dysfunction and dyadic adjustment in individuals diagnosed with bipolar disorder in Türkiye.",
+  "authors": "Yazar ER, İzci F.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2025.1515677",
+  "pmcid": "PMC11897499",
+  "url": "https://europepmc.org/article/PMC/PMC11897499",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11897499/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction"
+  ],
+  "abstract": "Introduction The objective of this study is to evaluate the relationship of body image (BI) with sexual dysfunction (SD) and dyadic adjustment (DA) in individuals diagnosed with Bipolar Disorder (BD). Dyadic adjustment has been defined as a dynamic process determined by variables such as relationship differences, interpersonal tensions and personal concerns, relationship satisfaction, and couple consensus. In this context, it was specifically aimed to determine the link between these factors and quality of life (QoL) in individuals with BD based on the effects of BI on sexual function and marital adjustment. Methods This study was conducted in a psychiatric hospital in Turkiye. The population of this cross-sectional, single-center study consisted of 110 individuals who applied to the outpatient clinics of Istanbul Erenköy Mental Health and Neurological Diseases Training and Research Hospital between March 2020 and August 2020. The Structured Clinical Interview for the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5)Disorders-Clinician Version (SCID-5-CV), sociodemographic and clinical data form, Young Mania Rating Scale (YMRS), Hamilton Depression Rating Scale (HAM-D), Golombok-Rust Inventory of Sexual Satisfaction (GRISS), Dyadic Adjustment Scale (DAS), Body Image Scale (BIS) and the Brief Quality of Life in Bipolar Disorder (Brief QoL.BD) Questionnaire were used to collect the research data. Results The study sample consisted of 80 individuals, 50 females and 30 males, who were diagnosed with BD and were in remission. The rate of SD in individuals with BD was found to be 55%. The most common SD was vaginismus in female individuals with BD and premature ejaculation in male individuals with BD. It has been observed that SD negatively affected DA in individuals with BD. On the other hand, no significant relationship was found between body mass index (BMI) and BI or between BI and SD in individuals with BD. However, increased satisfaction with BI positively affected DA and QoL. Discussion The study's findings indicated a significant relationship between sexual satisfaction, marital adjustment, BI, and QoL in individuals with BD. While no significant change was observed in DA in male individuals with BD, it was found that sexual satisfaction decreased as DA deteriorated in female individuals with BD. Additionally, it was found that BI affected DA in individuals with BD but not sexual satisfaction. Lastly, no significant relationship was observed between BMI and BI, DA, or QoL.",
+  "raw_path": "01_raw/europepmc_xml/PMC11897499.xml",
+  "text_path": "02_text/europepmc/PMC11897499.txt",
+  "raw_bytes": 146176,
+  "text_chars": 34506,
+  "raw_sha256": "34fa7c4d43cbe627e2b7a4775a41be577b550967366f857b7bac342769703eaf",
+  "text_sha256": "5a93d487a7ab2cd662fefdee303de50d7cd9e94fd83925ca908c91c20ff7c4fb",
+  "retrieved_at": "2026-10-25T15:33:12.359554+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12662942",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"I Felt Like a Burden\": An Exploration Into the Experience of Romantic Relationships for People With ADHD.",
+  "authors": "O'Brien M, Kini-Seery C, Kelly C, Kilbride K, Wrigley M, Nearchou F, Bramham J.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jmft.70097",
+  "pmcid": "PMC12662942",
+  "url": "https://europepmc.org/article/PMC/PMC12662942",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12662942/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Romantic relationships can have additional complexities for individuals with Attention-Deficit/Hyperactivity Disorder (ADHD). The present study employed Reflexive Thematic Analysis (RTA) to explore what challenges adults with ADHD have experienced in their romantic relationships. Adults with ADHD (N = 355) answered an open-ended survey question asking if and how their ADHD had negatively impacted their romantic relationships. RTA resulted in four overarching themes and seven subthemes. Too Much and Never Enough: The Emotional Rollercoaster of Rejection Sensitivity and The Struggle for Stability: ADHD's Battle Between Passion and Distraction, encapsulated the relational challenges individuals with ADHD face associated with their ADHD traits. Between Partner and Caregiver: The Emotional and Practical Strain in ADHD Relationships highlighted the sometimes-unbalanced dynamic in relationships. From Chaos to Clarity: The Role of Self-Understanding in Love explored the detriments of lacking self-insight and the transformative impact of self-awareness. Findings underscore the complicated interplay between ADHD traits, self-perception, and romantic relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC12662942.xml",
+  "text_path": "02_text/europepmc/PMC12662942.txt",
+  "raw_bytes": 141575,
+  "text_chars": 68139,
+  "raw_sha256": "60aa64268a855c195d6518d7883d8d771a85da897cb7f24a448b8c44b107727c",
+  "text_sha256": "35847419238ae81ba39127fbf8dc007713eee3b280e4ffd46e8734ac876a5a7a",
+  "retrieved_at": "2026-10-25T13:50:45.557738+00:00"
+}

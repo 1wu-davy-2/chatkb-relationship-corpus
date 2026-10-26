@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10775632",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Improving the reproductive health literacy of couples on the verge of marriage through the FOCUS-PDCA model: Mixed-method study.",
+  "authors": "Dabiri F, Hajian S, Zayeri F, Hosseini Teshnizi S, Abbasi Fashami M.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1002/hsr2.1809",
+  "pmcid": "PMC10775632",
+  "url": "https://europepmc.org/article/PMC/PMC10775632",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10775632/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Background & aims Education and counseling during marriage is an opportunity to raise some issues needed by couples on the verge of marriage. This study was conducted with the aim of improving reproductive and sexual health literacy of couples on the verge of marriage. Methods This study was a mixed-methods participatory action research conducted based on the Find, Organize, Clarify, Understand, Select-Plan, Do, Check, Act (FOCUS-PDCA) model in nine steps during 2019-2020 in the city of Bandar Abbas. The Reproductive Health Literacy Scale and the Service Quality (SERVQUAL) Questionnaire were used to evaluate the interventions. Data were analyzed by SPSS version 26. A significance level of less than 0.05 was considered. Results The mean age of women and men participating in the quantitative part of the study was 21 ± 5 and 25.84 ± 3.9 years, respectively, which was similar to their counterparts in this part of the study, and the difference in the mean scores of reproductive health literacy before and after the changes in the program showed a significant difference ( p > 0.001). The study results showed that, except for the understanding dimension, most participants were at an insufficient level in other dimensions of reproductive health literacy. The result of measuring the satisfaction of service recipients indicated good satisfaction in the two dimensions of warranty and accountability, and there was a gap in empathy, assurance, and tangibility dimensions, which the biggest gap was related to the empathy dimension. Conclusion The changes made in improving the reproductive health literacy of couples were effective, which can be taken into consideration based on the added items in the current program of providing educational services in marriage preparation classes for couples.",
+  "raw_path": "01_raw/europepmc_xml/PMC10775632.xml",
+  "text_path": "02_text/europepmc/PMC10775632.txt",
+  "raw_bytes": 104553,
+  "text_chars": 31086,
+  "raw_sha256": "648ba6a31610d0d5ca4eb5f29ce565026d40a1f52277b86de68ff31b58314b32",
+  "text_sha256": "f15e6fd70fd6ccf0a3e9ab8fe6902716e4cbef21bfc88bbfc2cfbbeb035479db",
+  "retrieved_at": "2026-10-25T15:44:12.688839+00:00"
+}

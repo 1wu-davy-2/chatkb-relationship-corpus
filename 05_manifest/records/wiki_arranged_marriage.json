@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_arranged_marriage",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "包办婚姻",
+  "requested_title": "包办婚姻",
+  "url": "https://zh.wikipedia.org/wiki/%E5%8C%85%E5%8A%9E%E5%A9%9A%E5%A7%BB",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 包办婚姻",
+  "topics": [
+    "marriage",
+    "culture"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/arranged_marriage.json",
+  "text_path": "02_text/zh_wikipedia/arranged_marriage.txt",
+  "raw_bytes": 2720,
+  "text_chars": 1181,
+  "text_sha256": "32bb0a621b44931ef445bcc93c24c0fc71bfdaa577701e823200ecfeb419e869",
+  "retrieved_at": "2026-10-25T16:27:11.248865+00:00"
+}

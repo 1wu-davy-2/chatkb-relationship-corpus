@@ -1,0 +1,24 @@
+{
+  "doc_id": "zh_mca_marriage_stats",
+  "source": "zh_official",
+  "source_type": "official_media",
+  "title": "2024年全国婚姻登记数据（结婚登记610.6万对）",
+  "page_title": "2024年民政部门依法办理结婚登记610.6万对_央广网",
+  "url": "https://news.cnr.cn/native/gd/20250730/t20250730_527291791.shtml",
+  "requested_url": "https://news.cctv.com/2025-02-10/ARTIx9vWgrr6q1QYCmWpL6Ja250210.shtml",
+  "language": "zh",
+  "license": "copyrighted_excerpt_personal_research",
+  "license_url": "",
+  "topics": [
+    "marriage",
+    "divorce",
+    "statistics"
+  ],
+  "excerpt_only": true,
+  "raw_path": "01_raw/zh_official/mca_marriage_stats.html",
+  "text_path": "02_text/zh_official/mca_marriage_stats.txt",
+  "raw_bytes": 17086,
+  "text_chars": 937,
+  "text_sha256": "7a655fc7d8fa5eb514ba66acb77d296d4a242fc9820612ce97d05a531e7a9825",
+  "retrieved_at": "2026-10-25T15:55:36.346793+00:00"
+}

@@ -1,0 +1,190 @@
+TITLE: Self-neglect and self-esteem among older adults receiving home care: a cross-sectional study.
+AUTHORS: Yanık V, Alagöz E.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1186/s12877-026-07283-3
+PMCID: PMC12980917
+LICENSE: cc by-nc-nd
+LICENSE_URL: https://creativecommons.org/licenses/by-nc-nd/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC12980917
+TOPICS: self_esteem
+
+---
+
+ABSTRACT
+AbstractBackgroundThe aging adult population faces increasing challenges, including self-neglect and declining self-esteem, that significantly affect quality of life and psychosocial well-being. Addressing these issues has become a public health priority. Despite the topic’s importance, limited research has examined the relationship between self-neglect and self-esteem in the context of home care services. This study aimed to determine the relationship between self-neglect and self-esteem among older adults receiving home care services in Istanbul, Turkey.MethodsThis cross-sectional descriptive study was conducted from January to April 2024 among 148 older adults (≥ 65 years) enrolled in the Beşiktaş Municipality home-care program. Participants were selected using convenience sampling. Data were collected through face-to-face home visits by trained researchers, using the Personal Information Form, the Elderly Self-Neglect Scale (ESNS), and the Rosenberg Self-Esteem Scale (RSES). Statistical analyses included descriptive statistics, t-tests, ANOVA, Mann–Whitney U, Kruskal–Wallis H, and Spearman’s rank correlation (rho) tests, performed in SPSS version 26 at a significance level of p < .05.ResultsA low but statistically significant association was observed between higher self-neglect scores and lower self-esteem (Spearman’s rho = 0.257, p < .05). Men, individuals living alone, and those reporting social support had significantly higher self-neglect scores. Self-esteem was significantly associated with marital status, education level, and social activity, but not with gender or chronic illness.ConclusionsThe study indicates that lower self-esteem is linked to higher levels of self-neglect among older adults receiving home care. Interventions to enhance self-esteem and reduce self-neglect should focus on educational programs, psychological support, and increased social participation. Further studies with diverse populations are recommended.Keywords: Self-esteem, Self-neglect, Home care, Older adult
+
+BODY
+Introduction
+
+Old age is accompanied by concurrent physical, psychological, and social transitions that may challenge independence and everyday self-care. As functional capacity declines and social networks change, older adults may experience reduced engagement in self-care and diminished self-esteem, both of which are closely linked to well-being in later life [1, 2]. Social isolation and limited resources may further increase vulnerability to adverse outcomes in community settings [3, 4]. In municipal home-care programs, identifying psychosocial correlates of self-neglect is critical for early detection and targeted nursing interventions.
+
+Self-neglect is increasingly recognized as a major public health concern among community-dwelling older adults and has been associated with substantial prevalence across different contexts [1, 3, 5]. Conceptual work frames self-neglect as a self-care deficiency syndrome shaped not only by health-related limitations but also by psychosocial factors such as unmet needs, reduced motivation for self-care, and diminished sense of purpose [6, 7]. Risk-oriented assessment approaches also emphasize that self-neglect vulnerability may manifest across social, physical, environmental, and psychological domains [7, 8].
+
+Self-esteem, defined as an individual’s global evaluation of self-worth, is an important psychosocial resource in later life and is shaped by life experiences, social relationships, and health [9, 10]. Prior studies have shown that lower self-esteem is associated with loneliness, reduced social participation, and poorer psychosocial outcomes among older adults [11–13]. These vulnerabilities are also frequently discussed as correlates of self-neglect risk, suggesting that self-esteem may be meaningfully intertwined with self-neglect tendencies through shared social and psychological pathways [3, 4].
+
+Home care services provide an important service context in which these mechanisms may converge. In-home assessments, medical follow-up, medication management, and support with daily activities are intended to help older adults maintain functioning and subjective well-being [12]. However, evidence on how home care interacts with self-neglect and psychosocial resources such as self-esteem remains limited and inconsistent, and studies directly examining the association between self-neglect and self-esteem specifically within home-care populations are still scarce [11, 13, 14]. In Turkey, home-based care and home healthcare services have expanded and are increasingly relevant in large urban settings such as Istanbul, underscoring the need for context-specific evidence [15].
+
+Importantly, cultural and family structures may shape self-care, autonomy, and the meaning of “support” in later life. In family-oriented societies, intergenerational expectations and caregiving norms may influence older adults’ autonomy and self-initiated self-care behaviors in ways that differ from Western contexts [3]. The autonomy relatedness framework suggests that autonomy and close family ties can co-exist, but the balance between them may vary by sociocultural context, potentially affecting how support is experienced and how self-care is maintained [16]. In municipal home-care settings, perceived “social support” may therefore sometimes reflect increased care needs rather than functioning solely as a protective factor [3, 11].
+
+To our knowledge, no study has specifically examined the relationship between self-neglect and self-esteem among older adults receiving municipal home care services in Turkey. Accordingly, this study examined the relationship between self-neglect and self-esteem among older adults receiving municipal home care services in Istanbul, Turkey, and explored whether this relationship varied by key sociodemographic characteristics (gender, marital status, education level, and social support).
+
+Methods
+
+Study design and objectives
+
+This descriptive and correlational study examined the relationship between self-neglect and self-esteem among older adults receiving home care services and explored how this relationship varies by gender, marital status, education level, and perceived social support. The study was conducted between January and April 2024 in the Beşiktaş Municipality in Istanbul, with participants selected from the official home care service registry using a convenience sampling method. Data were collected through face-to-face home visits by trained researchers in collaboration with municipal home-care nurses.
+
+Population and sample
+
+The study population comprised older adults (≥ 65 years) receiving home care services in a municipality in Istanbul. Participants were recruited through convenience sampling in collaboration with home care nurses.
+
+Sample size determination. The a priori power analysis was conducted in G* Power 3. 3.1 for the study’s primary analysis, which involved a two-tailed correlation analysis between self-neglect and self-esteem. Following conventional guidance (Cohen, 1988) and recent literature on older adults, we assumed a medium effect size of r = 0. 30, with α = 0.05 and power (1–β) =0.95. Based on these parameters, the minimum required sample size was n = 134. To account for potential ineligible cases and nonresponse, we added a 10% safety margin (≈ 14 participants), resulting in a target minimum of n = 148. The final sample met this requirement [17]. Given the descriptive, cross-sectional design and the single-district home-care registry frame, the sampling strategy focused on feasibility within municipal operations. Although the achieved sample (n = 148) met the a priori power target for the primary correlation, we recognize that a larger, multi- site probability sample would improve generalizability. The chosen medium effect size (r = .30) is also supported by recent studies on self-esteem, loneliness, and psychosocial outcomes among older adults, which report correlation coefficients ranging from 0.25 to 0.35 [18–20]. Participants were identified from the municipality’s official home-care registry. Home-care nurses screened all individuals aged 65 years or older who were actively receiving services and met the study’s inclusion criteria. Eligible individuals were then approached during routine scheduled home visits. During these visits, nurses introduced the study, members of the research team provided detailed information, obtained written informed consent, and collected data from those who agreed to participate. Because participants were approached during ongoing home- care visits rather than through a formal invitation list, an exact response rate could not be calculated. However, all individuals who met the inclusion criteria and were available at the time of contact were invited to participate. We acknowledge that this recruitment approach may introduce selection bias, as individuals who are more compliant, more engaged with home- care services, or have stronger relationships with care providers may have been more likely to participate. Conversely, older adults experiencing the most severe forms of self- neglect may have been underrepresented in the sample.
+
+Inclusion criteria
+
+No visual or hearing impairments (This criterion was applied to ensure participants could reliably participate in the face-to-face, interview-based questionnaire process without communication difficulties that might affect data accuracy).
+
+Age 65 or older.
+
+Located within Beşiktaş Municipality.
+
+Registered in the home care service system for at least six months.
+
+Having at least partial ability to perform ADL/IADL tasks (i.e., not fully dependent), as documented in routine municipal home-care nursing records; no standardized ADL/IADL scale was administered in this study.
+
+Exclusion criteria
+
+Diagnosed with Alzheimer’s disease or dementia (the presence of Alzheimer’s disease or dementia was determined from existing medical records and home-care nurse documentation; no additional cognitive screening test was administered during data collection).
+
+Experiencing severe psychiatric or medical crises during data collection,
+
+Incomplete or inconsistent responses on the questionnaires.
+
+Data collection and procedure
+
+After obtaining ethical approval from the university’s ethics committee (Approval No. 2023/10–11) and institutional permission from the provincial health directorate, trained researchers visited participants at home. The researchers explained the study’s purpose, obtained written informed consent, and administered the questionnaires through face-to-face interviews lasting approximately 20–25 min. Data collection was conducted in collaboration with home-care nurses, including one member of the research team. This facilitated coordination with patient registration lists and ensured that participant recruitment complied with ethical and institutional protocols. Information on participants’ functional ability in activities of daily living (ADL) and instrumental activities of daily living (IADL) was obtained from routine municipal home-care nursing records. This information was used solely to determine eligibility and was not treated as a study variable or outcome.
+
+Data were collected between January and April 2024. Participants were identified from the official home care service registry lists of the Beşiktaş Municipality and contacted via home visits, using a convenience sampling approach. All individuals who met the inclusion criteria and agreed to participate were included in the study. Because of the open recruitment process, the response rate could not be precisely calculated.
+
+Personal information form
+
+A form prepared by the researchers, containing demographic information such as gender, marital status, and other personal characteristics of the participants.
+
+Elderly Self-Neglect Scale (ESNS)
+
+Developed by Iris et al. [21], this scale was designed to provide a conceptual model for professionals working with older adults. The original scale comprises 73 items and six factors. The Turkish adaptation, conducted by Özmete et al. [22], includes 60 items and four subscales (social network, physical health, environmental health, and psychological health). The ecological health factor is divided into sub-factors (physical living conditions, financial problems, and personal living conditions). In contrast, the psychological health factor comprises two sub-factors (personal risk and psychological health). The total score ranges from 60 to 300, with higher scores indicating a greater risk of self-neglect in older adults. Although the ESNS was developed as a risk-oriented instrument, higher scores are also interpreted as reflecting greater vulnerability to or likelihood of self-neglect–related conditions. Therefore, in this study, ESNS scores were used as indicators of elevated self-neglect tendencies rather than direct behavioral neglect.
+
+Rosenberg Self-Esteem Scale (RSES)
+
+Çuhadaroğlu [23] conducted the Turkish adaptation of the Rosenberg Self-Esteem Scale (RSES). Contrary to the previous description, the RSES is widely recognized as a unidimensional scale of 10 items that assess overall self-esteem. The so-called “12 subcategories” mentioned in Çuhadaroğlu’s thesis refer to additional exploratory factors used for adolescent clinical assessment and do not represent the standard RSES structure.
+
+In this study, we used the standard 10-item global self-esteem measure, which is the validated core component of the Turkish adaptation. Scores range from 0 to 6, with lower scores indicating higher self-esteem and higher scores indicating lower self-esteem. This approach was selected to minimize participant burden in an older adults home-care population and because these 10 items constitute the validated global self-esteem construct in the Turkish literature.
+
+Data analysis
+
+Data were analyzed using IBM SPSS Statistics version 26. Descriptive statistics (mean, standard deviation, skewness, and kurtosis) summarized the variables. Normality was assessed using the Kolmogorov–Smirnov and Shapiro–Wilk tests, along with visual inspection of histograms and Q–Q plots. The ESNS scores did not significantly deviate from normality (p > .05), whereas the RSES scores showed a significant deviation from normality (p < .05).
+
+The ESNS showed an approximately normal distribution, whereas the RSES exhibited positive skewness, indicating a deviation from full normality. Therefore, parametric tests (independent-samples t-test and one-way ANOVA) were applied only to variables that met normality assumptions, whereas nonparametric tests (Mann–Whitney U and Kruskal–Wallis H) were used when assumptions were not met. Given the non-normal distribution of the RSES, the association between ESNS and RSES was examined using Spearman’s rho, which provides a more robust estimate for skewed data. Statistical significance was set at p < .05.
+
+In this study, the Elderly Self-Neglect Scale (ESNS) served as the dependent variable, and the Rosenberg Self-Esteem Scale (RSES) was the primary independent variable. Demographic factors, including gender, marital status, education level, living arrangement, chronic disease, and social support, were treated as categorical grouping variables to compare ESNS and RSES scores using appropriate statistical tests. No control variables (covariates) were included in the correlation analysis or in any multivariate models, as the study employed a descriptive, cross-sectional design focused on bivariate associations rather than predictive modeling.
+
+Results
+
+Most participants were women (50.3%). The majority were married (52%), and in terms of education, the largest group had completed high school (39.2%), followed by university graduates (38.6%). A significant portion of participants lived with family members (76%). Most received regular home care visits from municipal nurses for medical follow-up, medication management, and assistance with daily activities. The rate of those not participating in social activities was 63.7%, and most had chronic illnesses (85.4%). Additionally, 80.7% reported receiving social support. The average age of participants was 73.38 ± 6.8 years.
+
+The mean ESNS score was 165.0 (SD = 21.7), and the mean RSES score was 0.77 (SD = 0.6). A low but statistically significant positive association was observed between ESNS and RSES scores (Spearman’s rho = 0.257, p < .05). This finding indicates that higher self-neglect scores were associated with lower self-esteem. Both scales showed acceptable psychometric properties. The ESNS demonstrated high reliability (Cronbach’s α = 0.88). At the same time, the RSES showed moderate internal consistency (Cronbach’s α = 0.64). The distributions of both scales were approximately normal, with skewness and kurtosis values within acceptable limits (Table 1).
+
+Mean, Correlation, Normal Distribution, and Reliability Findings of the Variables
+
+p < .05, X: Mean; SD: Standard Deviation; ESNS: Elderly Self-Neglect Scale; RSES: Rosenberg Self-Esteem Scale ‘Self-Esteem Subscale’
+
+When ESNS scores among older adults were examined by personal characteristics, significant differences were found for several variables. In terms of gender, males had significantly higher ESNS scores (M = 169.7) than females (M = 160.4) (p < .05). Regarding living arrangements, individuals living alone (M = 174) had higher self-neglect scores than those living with family members (M = 162.1) (p < .05). A significant difference was also observed in chronic disease status: individuals without a chronic disease (M = 176.1) had higher self-neglect scores than those with a chronic disease (M = 163.1) (p < .05). In addition, participants receiving social support (M = 181.8) had significantly higher ESNS scores than those not receiving social support (M = 161.0) (p < .05). (Figure 1 and 2).
+
+Histogram of RSES scores. The distribution shows a slight right skew, consistent with skewness (1.035) and kurtosis (1.187) values
+
+Q-Q plot of RSES scores. Most data points align with the reference line, indicating approximate normality
+
+Male participants and those living alone exhibited significantly higher levels of self-neglect. The Rosenberg Self-Esteem Scale (RSES) scores were analyzed by participants’ personal characteristics to determine whether significant group differences were present. Regarding marital status, a significant difference was observed among married (M = 0.6, SD = 0.2), single (M = 0.7, SD = 0.3), and widowed (M = 1.1, SD = 0.8) participants (KW = 35.934, p < .001); widowed individuals had the lowest self-esteem scores. A significant difference was also observed by education level (F = 11.635, p = .001), with primary school graduates (M = 1.1, SD = 0.8) showing lower self-esteem than high school (M = 0.7, SD = 0.5) and university graduates (M = 0.6, SD = 0.3). Concerning social support status, a significant difference was found between those receiving social support (M = 0.6, SD = 0.2) and those not receiving support (M = 0.9, SD = 0.7) (t = -3.829, p = .001). Participants who did not receive social support had lower self-esteem (i.e., higher RSES scores) (Table 2). Although the overall ANOVA for RSES scores by education level was statistically significant, post-hoc pairwise comparisons were not conducted. Therefore, this finding should be interpreted as indicating the presence of an overall group difference rather than specific between-group contrasts.
+
+Comparison of Older Adult Self-Neglect (ESNS) and Self-Esteem (RSES) Scores by Sociodemographic Characteristics
+
+A statistically significant positive correlation was found between age and the Rosenberg Self-Esteem Scale (RSES) scores (r = .367, p < .05). This result suggested that self-esteem decreased with increasing age (Table 3). Only age was assessed for correlation with self-esteem and self-neglect because it was a continuous demographic variable that met the normality assumption, whereas other categorical variables were analyzed using group comparisons.
+
+The Relationship between Age, ESNS, and RSES
+
+Discussion
+
+Main finding and interpretation
+
+This study examined the association between self-neglect and self-esteem among older adults receiving municipal home-care services. We found a low but statistically significant association, indicating that higher self-neglect tendencies co-occurred with lower self-esteem. This pattern is consistent with conceptualizations of self-neglect as a multidimensional self-care deficiency shaped by psychosocial vulnerabilities such as loneliness, reduced motivation, and depressive symptoms [6, 7, 24]. Cognitive and psychological difficulties may further limit everyday self-care capacity and reinforce this vulnerability profile [7, 25, 26].
+
+Self-neglect patterns by sociodemographic characteristics (ESNS)
+
+Self-neglect scores were higher among men and those living alone. This finding aligns with evidence that older adults living alone may have weaker everyday support structures and fewer social resources to sustain self-care routines [27]. Living without a partner may increase loneliness and depressive symptoms, both commonly linked to self-neglect risk [6, 24]. Although self-neglect scores were numerically higher among participants without chronic illness, this pattern should be interpreted cautiously and considered exploratory, as perceived good health may sometimes reduce preventive self-care engagement in certain older populations [9]. Moreover, men may experience shifts in social roles in later life that contribute to distress and reduced self-care motivation, potentially increasing self-neglect vulnerability [25].
+
+Self-esteem patterns by sociodemographic characteristics (RSES)
+
+Self-esteem differed by marital status, education, social participation, and age. The loss of a spouse was associated with lower self-esteem, consistent with evidence that widowhood is linked to social isolation and reduced psychosocial resources in older age [12, 20, 21]. Education level appeared to support self-esteem, in line with findings suggesting that educational attainment can strengthen perceived competence and personal accomplishment across the life course [18]. Social participation was also positively related to self-esteem, echoing studies indicating that engagement in social activities buffers loneliness and supports emotional well-being [4, 22, 23]. In addition, self-esteem decreased with increasing age, which is compatible with lifespan perspectives describing changes in self-evaluations across later adulthood, influenced by health decline and role transitions [9, 13, 24, 27].
+
+Cultural context and the “social support” finding
+
+Interestingly, participants reporting social support also had higher self-neglect scores. Although counterintuitive, this may reflect the municipal home-care context in which individuals with greater needs are more likely to receive support from family members or formal services. In such settings, social support may function as a marker of vulnerability rather than a protective factor. In family-centered, collectivist contexts, dependence on close relatives may inadvertently reduce autonomy and self-initiated self-care behaviors, and support may not always be autonomy-supportive. Therefore, in Turkish municipal home-care settings, caregiving norms and intergenerational expectations may shape how “support” is experienced and how self-care is maintained [1, 9]. Future research using longitudinal designs and more detailed measures of support type and intensity is needed to clarify these mechanisms.
+
+Methodological considerations
+
+The internal consistency of the Rosenberg Self-Esteem Scale in this study was modest (Cronbach’s α = 0.64), and therefore self-esteem-related findings should be interpreted with caution. In addition, the ESNS captures risk indicators and contextual vulnerabilities rather than confirmed behavioral neglect alone; thus, higher ESNS scores should be interpreted as increased vulnerability to self-neglect [7]. Finally, the cross-sectional design limits causal inference, and future studies should consider longitudinal and mixed-method approaches to better capture directionality and contextual meaning.
+
+Limitations of the Study
+
+The results of this study are limited to the selected sample and cannot be generalized to the broader population. The findings are also subject to the measurement capabilities of the data collection tools. In particular, the relatively low internal consistency of the Rosenberg Self-Esteem Scale (α = 0.64) may have affected the precision of the self-esteem assessment, limiting the robustness of the observed correlations. Additionally, because only the Self-Esteem subscale of the Rosenberg Self-Esteem Scale was used, the study may not capture the multidimensional structure of self-esteem, thereby limiting construct validity to some extent. Additionally, because the study used a descriptive and cross-sectional design, causal relationships between self-esteem and self-neglect cannot be established. In addition, post-hoc analyses were not performed for the significant ANOVA results, which limits the ability to determine specific group-level differences. Data were obtained through self-reports, which may be affected by social desirability bias. Moreover, participants were recruited exclusively from older adults registered in a municipal home care program, which introduces a risk of selection bias. Individuals who are more engaged with home care services or more accessible during routine visits may have been more likely to participate, whereas those experiencing more severe self-neglect may have been underrepresented. Moreover, as the sample consisted solely of older individuals receiving municipal home care services in a single district of Istanbul, it may not be representative of the broader older population in Turkey or other sociocultural contexts. Future studies should include larger, more diverse samples and employ longitudinal or mixed-methods approaches to explore these relationships in depth. Additionally, using only the 10-item global self-esteem component of the Turkish RSES adaptation represents a measurement limitation. Although these items reflect the core construct of self-esteem, this approach may not fully capture the scale’s established psychometric structure in older adults. The relatively modest internal consistency observed in this sample (α = 0.64) further indicates that self-esteem may not have been measured optimally, and related findings should be interpreted with caution.
+
+Conclusion
+
+The findings of this study indicate that self-esteem and self-neglect are closely linked among older adults receiving home care services. Rather than proposing direct interventions, this study underscores the importance of identifying psychosocial risk factors associated with low self-esteem and self-neglect. Healthcare professionals working with the older adult should identify and monitor individuals at risk, particularly those who live alone or have low levels of education.
+
+Given the study’s descriptive nature, the findings suggest that psychosocial support, family engagement, and opportunities for social participation should be emphasized within existing home care programs. Local governments can play a facilitating role by ensuring that older individuals have access to social support systems and community-based resources.
+
+Future research should employ longitudinal or mixed-method designs to further clarify the directionality of the relationship between self-esteem and self-neglect and to explore how cultural and contextual factors shape these patterns. Strengthening self-esteem through education, social connectedness, and supportive care environments may ultimately improve the overall well-being and quality of life of older adults. These recommendations were refined to reflect the specific demographic patterns and paradoxical findings observed in this study, including the higher self-neglect scores among individuals without chronic illness and those receiving social support.
+
+Acknowledgements
+
+We want to thank all older people receiving home care services who helped us collect data. This is a Master’s Thesis.
+
+Authors’ contributions
+
+E.A. and V.Y. designed the study, conducted data collection, performed the statistical analyses, and drafted the main manuscript. E.A. and V.Y. provided supervision throughout the study, contributed to the study design and the interpretation of results, and critically revised the manuscript. All authors reviewed and approved the final version of the manuscript.
+
+Funding
+
+There was no funding support to report.
+
+Data availability
+
+The dataset includes sensitive health information collected from a municipal home-care service registry and is protected by institutional policies and national data protection regulations. The ethics approval and participant consent obtained for this study did not allow public data deposition or open sharing. Therefore, the data cannot be made publicly available. De-identified data may be provided upon reasonable request to the corresponding author, subject to (i) a data-use agreement, and (ii) approval by the relevant ethics committee and the municipal authorities.
+
+Declarations
+
+Ethics approval and consent to participate
+
+This study was reviewed and approved by the Ethics Committee of Istanbul Arel University on 17.11.2023 (Meeting No: 2023/1). Permission to use the scales was obtained, and institutional approval was granted by Istanbul Beşiktaş Municipality. All procedures adhered to scientific ethical principles. Participants’ identities were kept anonymous and were not disclosed in the study findings. Informed consent was obtained from all participants before their inclusion in the study.
+
+Consent for publication
+
+Not applicable.
+
+Competing interests
+
+The authors declare no competing interests.
+
+Footnotes
+
+Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+References
+
+Associated Data
+
+Data Availability Statement

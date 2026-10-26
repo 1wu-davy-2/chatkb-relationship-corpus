@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_kinsey_report",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "金赛报告",
+  "requested_title": "金赛报告",
+  "url": "https://zh.wikipedia.org/wiki/%E9%87%91%E8%B5%9B%E6%8A%A5%E5%91%8A",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 金赛报告",
+  "topics": [
+    "sexuality",
+    "research"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/kinsey_report.json",
+  "text_path": "02_text/zh_wikipedia/kinsey_report.txt",
+  "raw_bytes": 9241,
+  "text_chars": 3749,
+  "text_sha256": "c12d2170810a2ab6281ddf1dde1db0f7e6bcdea7fdbbf9d801315a2d645e21ef",
+  "retrieved_at": "2026-10-26T13:01:30.800183+00:00"
+}

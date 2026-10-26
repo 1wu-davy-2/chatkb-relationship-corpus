@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_pseudoscience",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "伪科学",
+  "requested_title": "伪科学",
+  "url": "https://zh.wikipedia.org/wiki/%E4%BC%AA%E7%A7%91%E5%AD%A6",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 伪科学",
+  "topics": [
+    "skepticism",
+    "science"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/pseudoscience.json",
+  "text_path": "02_text/zh_wikipedia/pseudoscience.txt",
+  "raw_bytes": 32121,
+  "text_chars": 11301,
+  "text_sha256": "5fecc01589fdbbf82d2bd11c8c86c30d9b0c51840f3566525553327c9a8f7af2",
+  "retrieved_at": "2026-10-26T13:04:12.191941+00:00"
+}

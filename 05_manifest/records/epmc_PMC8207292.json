@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8207292",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Toxicity and Femininity in Love Island: How Reality Dating Shows Perpetuate Sexist Attitudes Towards Women.",
+  "authors": "Denby A.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fsoc.2021.641216",
+  "pmcid": "PMC8207292",
+  "url": "https://europepmc.org/article/PMC/PMC8207292",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8207292/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "Using episodes of ITV2's Love Island (2016-2020) as a case study, this paper explores the extent to which reality dating shows perpetuate sexist attitudes towards women through a heteronormative focus. Examining the operation of gender roles in Love Island , in the context of emotional intimacy and physical intimacy, this paper proposes that the performance and portrayal of heteronormative ideals disadvantage women. Specifically, by presenting female contestants as overly emotional and irrational, outdated stereotypes surrounding emotionality and hysteria are reproduced within Love Island . Moreover, the stigmatization of sex-positive women in Love Island demonstrates the existence of a sexual double standard wherein male contestants are celebrated for their sexual prowess, while female contestants are shamed and deemed unruly, by virtue of their sexual dominance. Fundamentally, this paper contributes to research on contemporary sexualities by demonstrating how, despite the cultural shift towards greater gender equality, traditional gendered ideals continue to exist in heterosexual relationships, which serve to disadvantage women.",
+  "raw_path": "01_raw/europepmc_xml/PMC8207292.xml",
+  "text_path": "02_text/europepmc/PMC8207292.txt",
+  "raw_bytes": 74745,
+  "text_chars": 36262,
+  "raw_sha256": "8ed6c2f6d012dea405cb361c5110499626efde6376abafbabee7e8fde308ddf8",
+  "text_sha256": "8c7ac5664de963ea542311fbaccd5112486d77f90d95e0fc245bcca163d5393a",
+  "retrieved_at": "2026-10-26T13:14:37.748200+00:00"
+}

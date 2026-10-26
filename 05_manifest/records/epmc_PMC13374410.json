@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13374410",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Associations between intimacy and health behaviours among older adults in romantic relationships: a cross-sectional survey conducted in the mid-Atlantic USA.",
+  "authors": "Pillay T, Moss JL.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1136/bmjph-2025-002616",
+  "pmcid": "PMC13374410",
+  "url": "https://europepmc.org/article/PMC/PMC13374410",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13374410/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "midlife_older"
+  ],
+  "abstract": "Introduction Being in a romantic relationship can be associated with positive health outcomes. However, little is known about how characteristics of these relationships influence health among older adults. Methods Adults (aged 50+ years) from seven mid-Atlantic US states completed an online survey, which included measures of emotional, intellectual and sexual intimacy from the Personal Assessment of Intimacy in Relationships Inventory. We conducted logistic regression analyses of relationship intimacy scores and health behaviours (having a recent healthcare check-up, current smoking and recent binge drinking). Results Overall, 1774 participants were in an intimate partner relationship. Adjusting for demographic characteristics, all three relationship intimacy scores were associated with having a recent check-up (emotional: adjusted OR (aOR) 1.04, 95% CI 1.01 to 1.06; intellectual: aOR 1.04, 95% CI 1.02 to 1.07; sexual: aOR 1.04, 95% CI 1.01 to 1.07). Intimacy scores were not associated with current smoking but were negatively associated with binge drinking (emotional: aOR 0.96, 95% CI 0.94 to 0.99; intellectual: aOR 0.95, 95% CI 0.92 to 0.98). Associations between intimacy and binge drinking were stronger for male than female participants. Conclusions Intimacy in romantic relationships may positively impact health behaviours among adults aged 50+ years particularly for males. Improving relationship intimacy may benefit health particularly for older male adults.",
+  "raw_path": "01_raw/europepmc_xml/PMC13374410.xml",
+  "text_path": "02_text/europepmc/PMC13374410.txt",
+  "raw_bytes": 108556,
+  "text_chars": 26517,
+  "raw_sha256": "59683a0d4c7bb10606302d2b01945bf98380a211a62079a8ba0093eddbe93d90",
+  "text_sha256": "0acf10deb012f9f127ace49cfba3c686aedd669ef4ec3b698cc7b612a37921e0",
+  "retrieved_at": "2026-10-25T13:48:02.834624+00:00"
+}

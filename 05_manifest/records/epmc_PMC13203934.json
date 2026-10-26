@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13203934",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "New Values, New Lives, and Emerging Dating Violence: Insights on Detection and Intervention from Health Sciences Students.",
+  "authors": "Sanchez-Balcells S, Sánchez-Ortega MA, Prats-Arimon M, Giménez-Bonafé P, Vergés Bosch N, Puig-Llobet M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/bs16050630",
+  "pmcid": "PMC13203934",
+  "url": "https://europepmc.org/article/PMC/PMC13203934",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13203934/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "social_media"
+  ],
+  "abstract": "Gender-based violence in dating relationships is a multifaceted issue that encompasses diverse forms. In university settings, high prevalence rates have been reported, with psychological violence being the most common. New forms of digital violence, such as cyberbullying, control through social media, and digital aesthetic pressure, further complicate the phenomenon. Purpose This study aimed to explore Health Sciences students' perceptions of gender-based violence in dating relationships to identify key dimensions for understanding and intervention. Methods A qualitative design was employed using focus groups with ten participants, analyzed through Interpretative Phenomenological Analysis (IPA). Results Four main themes emerged: characteristics of gender-based violence in dating relationships, types of violence identified, aesthetic pressure within affective relationships, and strategies for detecting and responding to violence. Conclusions Findings emphasize the importance of incorporating students' voices into prevention strategies and propose educational interventions that address both offline and online dynamics of gender-based violence in dating relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC13203934.xml",
+  "text_path": "02_text/europepmc/PMC13203934.txt",
+  "raw_bytes": 116809,
+  "text_chars": 62284,
+  "raw_sha256": "ea7fdb42b230da251fd3ae3b0ecd3a151ebddf6f448afd0eb78be4c3fdc9d683",
+  "text_sha256": "cbd7cf35ed5b1b82b0b616e40376fa50fec2ddecbebac68ce6db4d5c4502cde8",
+  "retrieved_at": "2026-10-25T15:31:46.571960+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11939199",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Religiosity, Sexual Double Standard, and Intimate Partner Coercive Victimization in Dating Relationships: An Explanatory Model and Psychometric Evidence.",
+  "authors": "Alfaro-Urquiola AL, Pérez B, Rodríguez-Díaz FJ, Herrero Diez FJ.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15030294",
+  "pmcid": "PMC11939199",
+  "url": "https://europepmc.org/article/PMC/PMC11939199",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11939199/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "The literature identifies coercive violence in dating relationships as one of the most prevalent forms of violence and a precursor to more severe types of abuse. While the relationship between the sexual double standard (SDS) and religion with intimate partner violence has been studied, there is a lack of research exploring the direct and indirect influence of religiosity through the promotion of the SDS. This gap is particularly evident when considering measurement invariance by gender, despite these variables being shaped by gender norms. Using a sample of Chilean university students, this study examined the structure and factorial invariance by gender of the Sexual Double Standard Scale (DSS) ( N = 909) and the Relationship Control Factor Subscale (RCFS) ( N = 855). Additionally, the study analyzed, for each gender, the impact of religiosity on experiences of coercive victimization within relationships, considering the mediating role of the SDS ( N = 781). Both instruments revealed different structures by gender, leading to the development of independent models for men ( N = 278) and women ( N = 500). Religiosity emerged as a risk factor for victimization in both study groups. However, it also exhibited a protective effect specifically for women.",
+  "raw_path": "01_raw/europepmc_xml/PMC11939199.xml",
+  "text_path": "02_text/europepmc/PMC11939199.txt",
+  "raw_bytes": 257957,
+  "text_chars": 54640,
+  "raw_sha256": "57e3a10b65365701dd589bce371f63d228ab2e744675c481a83fab5854c8554a",
+  "text_sha256": "60dda1a0b2897fb4df2852b588df177859fa196203bf1e97d1e797946c314635",
+  "retrieved_at": "2026-10-26T12:56:23.632475+00:00"
+}

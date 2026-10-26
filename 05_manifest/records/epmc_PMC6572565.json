@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6572565",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "(Don't) Look at Me! How the Assumed Consensual or Non-Consensual Distribution Affects Perception and Evaluation of Sexting Images.",
+  "authors": "Dekker A, Daubmann A, Pinnschmidt HO, Briken P.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.3390/jcm8050706",
+  "pmcid": "PMC6572565",
+  "url": "https://europepmc.org/article/PMC/PMC6572565",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6572565/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "The non-consensual sharing of an intimate image is a serious breach of a person's right to privacy and can lead to severe psychosocial consequences. However, little research has been conducted on the reasons for consuming intimate pictures that have been shared non-consensually. This study aims to investigate how the supposed consensual or non-consensual distribution of sexting images affects the perception and evaluation of these images. Participants were randomly assigned to one of two groups. The same intimate images were shown to all participants. However, one group assumed that the photos were shared voluntarily, whereas the other group were told that the photos were distributed non-consensually. While the participants completed several tasks such as rating the sexual attractiveness of the depicted person, their eye-movements were being tracked. The results from this study show that viewing behavior and the evaluation of sexting images are influenced by the supposed way of distribution. In line with objectification theory men who assumed that the pictures were distributed non-consensually spent more time looking at the body of the depicted person. This so-called 'objectifying gaze' was also more pronounced in participants with higher tendencies to accept myths about sexual aggression or general tendencies to objectify others. In conclusion, these results suggest that prevention campaigns promoting 'sexting abstinence' and thus attributing responsibility for non-consensual distribution of such images to the depicted persons are insufficient. Rather, it is necessary to emphasize the illegitimacy of the non-consensual distribution of sexting images, especially among male consumers of the material.",
+  "raw_path": "01_raw/europepmc_xml/PMC6572565.xml",
+  "text_path": "02_text/europepmc/PMC6572565.txt",
+  "raw_bytes": 115226,
+  "text_chars": 26508,
+  "raw_sha256": "879709ba9687119c31285d913dbf8c0cb08eff72332079ea96fbad67d7f85c79",
+  "text_sha256": "edbe53e1e3ce63385ea277c8bdf1c3c743cbe1174f26988a35946ad28b35e0ec",
+  "retrieved_at": "2026-10-26T13:12:46.545752+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_gender_identity",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "性別認同",
+  "requested_title": "性别认同",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 性別認同",
+  "topics": [
+    "gender",
+    "identity"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/gender_identity.json",
+  "text_path": "02_text/zh_wikipedia/gender_identity.txt",
+  "raw_bytes": 18858,
+  "text_chars": 6881,
+  "text_sha256": "bee2d462382527846143ba461abafc75c4eaea8c0c6775d30d2070bba3264d98",
+  "retrieved_at": "2026-10-26T13:59:01.757093+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13618452",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Couple Relationship Skills Inventory: Is There Added Benefit of Partner's Report?",
+  "authors": "Wei-Wise M, McGill J, Adler-Baeder F, Futris T.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jmft.70181",
+  "pmcid": "PMC13618452",
+  "url": "https://europepmc.org/article/PMC/PMC13618452",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13618452/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "Although many established measures assess individuals' relationship skills, relatively few incorporate reports from both partners to predict relationship functioning at the individual and couple levels. The Couple Relationship Skills Inventory (CRSI) is a multidimensional measure of seven relationship skill domains developed using a racially and economically diverse sample. The current study extended the CRSI by incorporating partner-reports of the focal individual's relationship skills and evaluated whether the self- and partner-report version (CRSI-SP) improved prediction of relationship quality. Using a large community sample (N = 2785), Bayesian confirmatory factor analysis supported the 45-item, 13-factor measure. The CRSI-SP demonstrated good psychometric properties, including reliability, discriminant validity, and measurement invariance across gender and relationship status. The CRSI-SP explained more variance in individual- and couple-level relationship quality than the original CRSI, supporting improved predictive utility. The CRSI-SP can provide researchers and practitioners with a practical measure for assessing relationship skills and evaluating couple-focused interventions.",
+  "raw_path": "01_raw/europepmc_xml/PMC13618452.xml",
+  "text_path": "02_text/europepmc/PMC13618452.txt",
+  "raw_bytes": 103430,
+  "text_chars": 50145,
+  "raw_sha256": "31ea24af0d71f38d99065409d0fe8046467c4a952d65b8cda1e5df82fed8f5a8",
+  "text_sha256": "00336d8397e97731494e8cb4d47766aca0240ec7b805e2e0d3b1470436f61367",
+  "retrieved_at": "2026-10-25T13:47:32.853002+00:00"
+}

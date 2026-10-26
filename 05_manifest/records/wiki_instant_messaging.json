@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_instant_messaging",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "即時通訊",
+  "requested_title": "即时通讯",
+  "url": "https://zh.wikipedia.org/wiki/%E5%8D%B3%E6%99%82%E9%80%9A%E8%A8%8A",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "technology",
+    "communication"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/instant_messaging.json",
+  "text_path": "02_text/zh_wikipedia/instant_messaging.txt",
+  "raw_bytes": 6928,
+  "text_chars": 2746,
+  "text_sha256": "6ea110fd39913460b177a9613202e6582ee81de87945a81a77c03a71241fc791",
+  "retrieved_at": "2026-10-25T15:44:05.402909+00:00"
+}

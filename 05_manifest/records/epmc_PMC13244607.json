@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13244607",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The validation, reliability, and measurement invariance of the relationship sabotage scale in Chinese college students.",
+  "authors": "Feng W, Zhang M, Wang C, Bu Y.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-04546-x",
+  "pmcid": "PMC13244607",
+  "url": "https://europepmc.org/article/PMC/PMC13244607",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13244607/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "Background Relationship self-sabotage has been primarily examined in Western contexts, and its measurement in Chinese populations remains limited. This study aimed to evaluate the psychometric properties of the Relationship Sabotage Scale (RSS) among Chinese college students. Methods Two independent samples of Chinese college students with prior romantic experience were recruited from four universities in Jiangsu Province in 2024 (Sample 1: n = 550; Sample 2: n = 568). Confirmatory factor analysis was conducted to examine the factor structure. Measurement invariance was tested across gender, only-child status, migration experience, left-behind experience, and family residence. Reliability and multiple forms of validity, including convergent, discriminant, and known-groups validity, were assessed. Results A three-factor structure-Defensiveness, Trust Difficulty, and Lack of Relationship Skills-was generally supported, with acceptable model fit overall (χ 2 /df = 3.81, RMSEA = 0.070, CFI = 0.951, TLI = 0.930), although model fit in Sample 1 was marginal. Measurement invariance was supported at the configural, metric, and scalar levels across the examined groups. The scale demonstrated acceptable internal consistency (α = 0.79-0.95), although corrected item-total correlations indicated variability across items, consistent with the multidimensional structure. Convergent validity was supported by positive associations with attachment avoidance and anxiety, whereas discriminant validity was indicated by negative associations with relationship satisfaction and self-esteem. Known-groups validity was partially supported, with some group differences observed across gender and family residence. Conclusions These findings provide preliminary evidence supporting the reliability and validity of the RSS in a Chinese context. However, given the marginal model fit in one sample and variability in item-level performance, further validation in more diverse and representative samples is warranted. The scale may serve as a useful tool for assessing self-sabotaging tendencies in romantic relationships among Chinese college students.",
+  "raw_path": "01_raw/europepmc_xml/PMC13244607.xml",
+  "text_path": "02_text/europepmc/PMC13244607.txt",
+  "raw_bytes": 141127,
+  "text_chars": 47124,
+  "raw_sha256": "10548570968961c945c2066308eabcf735ec99f577b691627971b4717a8dd1b9",
+  "text_sha256": "099bd300c044880cec35138c4df239537a153f7895a290ebee964506466aed84",
+  "retrieved_at": "2026-10-25T13:56:48.705319+00:00"
+}

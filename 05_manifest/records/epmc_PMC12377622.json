@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12377622",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychometric properties and qualitative evaluation of a Swedish translation of the New Sexual Satisfaction Scale-Short (NSSS-S).",
+  "authors": "Klysing A, Steij Stålbrand I, Sánchez-Sánchez LDC, Lundberg T.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0330353",
+  "pmcid": "PMC12377622",
+  "url": "https://europepmc.org/article/PMC/PMC12377622",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12377622/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "Objectives Sexual satisfaction is a crucial part of sexual health and is positively related to well-being and quality of life. However, there are at present no composite measures of sexual satisfaction available in Swedish. The New Sexual Satisfaction Scale - Short form (NSSS-S) is a measure of sexual satisfaction that has been validated in multiple languages, and the aim of the present study is to evaluate the psychometric properties and intelligibility of a Swedish version of the NSSS-S. Methods A convenience sample (N = 479) responded to an online survey including the Swedish NSSS-S and a single-item measure of sexual satisfaction. Qualitative evaluation of the translation was done within 20 semi-structured interviews where respondents gave open answers to the NSSS-S items. Results Results showed that a two-factor solution, matching the subscales Ego-Centred and Partner/Activity-Centred sexual satisfaction, showed good to acceptable fit to the data. However, removal of the item \"Partner's ability to orgasm\" increased model fit significantly. Internal reliability for the full scale was high and NSSS-S scores correlated strongly with the single-item measure of sexual satisfaction. Qualitative evaluation showed no issues with comprehension of the translated items or with the semantic and cultural validity of the translated measure, but revealed additional aspects of measuring sexual satisfaction not captured by a scale such as the NSSS-S. Conclusions The Swedish NSSS-S displayed the expected bi-dimensional factor structure, high convergent validity in relation to the other available measure of sexual satisfaction and can be used with both partnered and single respondents. Qualitative evaluation indicated that the NSSS-S is generally seen to capture important elements of measuring sexual satisfaction but that it may not adequately capture experiences of situational and temporal variability in sexual satisfaction. The Swedish NSSS-S thus showed comparable psychometric and semantic properties to the original version and can be used to measure sexual satisfaction in a Swedish speaking population.",
+  "raw_path": "01_raw/europepmc_xml/PMC12377622.xml",
+  "text_path": "02_text/europepmc/PMC12377622.txt",
+  "raw_bytes": 179694,
+  "text_chars": 59667,
+  "raw_sha256": "3d7fb5db009ca58f27f1c1b0b252b32a0c8cc1ae7fe853048c632fd178908e65",
+  "text_sha256": "934e838c8c77efcb2eb68a40d2d00cf1f855ba8caa700edcf6ae0915e02aaa54",
+  "retrieved_at": "2026-10-26T13:08:56.773153+00:00"
+}

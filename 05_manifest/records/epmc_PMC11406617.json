@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11406617",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Kindness or Intelligence? Angry Men are Perceived as Less Intelligent by Their Female Romantic Partners.",
+  "authors": "Górniak J, Zajenkowski M, Szymaniak K, Jonason PK.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/14747049241275706",
+  "pmcid": "PMC11406617",
+  "url": "https://europepmc.org/article/PMC/PMC11406617",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11406617/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "We were interested in how people in a romantic relationship would perceive the intelligence of their partners who have high or low trait anger. Specifically, we referred to the tension between compassion (low anger) and competence (high intelligence) in mate choice. Some evolutionary theories suggest that mating might be considered a bargaining process between these two higher-order attributes. Our study involved 148 heterosexual couples in romantic relationships. We measured the relationship between relationship satisfaction, trait anger, objective intelligence, self-assessed intelligence, and subjectively assessed partners' intelligence. We found that angrier men were less satisfied in their romantic relationship than those men who were less angry, and their partners were also less satisfied in the relationship. Additionally, women perceived angrier men as less intelligent, an effect that remained after controlling for men's objective intelligence. Lastly, we found that women's perception of their partner's intelligence mediated the link between men's anger and relationship satisfaction for both sexes. Our findings suggest that both anger and intelligence play important roles in romantic relationship functioning, consistent with evolutionary theories that emphasize the value of competence (i.e., intelligence) and compassion (i.e., low anger) in romantic partners. Furthermore, our study highlights the importance of women's perception of their partner's intelligence in determining the quality of the relationship.",
+  "raw_path": "01_raw/europepmc_xml/PMC11406617.xml",
+  "text_path": "02_text/europepmc/PMC11406617.txt",
+  "raw_bytes": 118474,
+  "text_chars": 26587,
+  "raw_sha256": "b1424cd3c95832115805e369bb9837818c5bbe25bc293a59ef49bf14453fa273",
+  "text_sha256": "55ab5481fefdcc337913e9b2b1b58b6dfab1abca59d9565b321f042b3e37a9cb",
+  "retrieved_at": "2026-10-25T15:34:57.346862+00:00"
+}

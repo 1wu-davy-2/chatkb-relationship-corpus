@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC6439209",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Unforgiveness Motivations in Romantic Relationships Experiencing Infidelity: Negative Affect and Anxious Attachment to the Partner as Predictors.",
+  "authors": "Beltrán-Morillas AM, Valor-Segura I, Expósito F.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2019.00434",
+  "pmcid": "PMC6439209",
+  "url": "https://europepmc.org/article/PMC/PMC6439209",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6439209/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity",
+    "infidelity_sex"
+  ],
+  "abstract": "Infidelity is considered an unforgivable betrayal. However, not all behaviors considered unfaithful affect the person who suffers them in the same way. Therefore, to have a better understanding of unforgiveness according to different extradyadic behaviors, two studies were designed. Study 1 ( N = 240) explored which extradyadic behaviors are considered as more indicative of infidelity. The results revealed that sexual behaviors were considered more unfaithful when compared with technological, emotional/affective, and solitary behaviors. Study 2 ( N = 378) examined the influence of experienced extradyadic behaviors on unforgiveness, negative affect, and anxious attachment to the partner. The results showed that (a) sexual and technological behaviors were less frequently forgiven and promoted a more intense negative affect, (b) anxious attachment was predictive of unforgiveness for sexual and technological behaviors, and (c) negative affect mediated the relationship between anxious attachment and unforgiveness for sexual and technological behaviors. These findings and their possible implications for romantic relationships are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC6439209.xml",
+  "text_path": "02_text/europepmc/PMC6439209.txt",
+  "raw_bytes": 236313,
+  "text_chars": 71882,
+  "raw_sha256": "9514d795331761d9ee3b5ec2da7f00d7bd2b55093e197fe501a716ec241b1962",
+  "text_sha256": "399c7eb9f903a474ac2bd888a1757c7dad6b94ff85439ef7a63a49c26be45553",
+  "retrieved_at": "2026-10-25T15:36:02.681434+00:00"
+}

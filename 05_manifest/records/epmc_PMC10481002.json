@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10481002",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mate-choice copying in single and coupled women: the influence of mate acceptance and mate rejection decisions of other women.",
+  "authors": "Deng Y, Zheng Y.",
+  "year": "2015",
+  "journal": "",
+  "doi": "",
+  "pmcid": "PMC10481002",
+  "url": "https://europepmc.org/article/PMC/PMC10481002",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10481002/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Studies of humans and non-human animals indicate that females tend to change the likelihood of choosing a potential mate based on the decisions of other females; this is known as mate-choice copying. In a sample of both single and coupled women, we examined the influence of other women's (model) mate-choice decisions, including mate acceptance and mate rejection, on participants' attractiveness ratings of men (target) and willingness of mate selection. We also examined whether different types of relationships between the target men and the model women affected mate-choice copying. We found that both the single and coupled women showed mate-choice copying, but their response patterns differed. The significant effects for single women were dependent on a decrease in attractiveness ratings when they perceived the models' mate rejection. However, the significant findings for coupled women relied on an increase in attractiveness ratings when they observed the models' mate acceptance. Furthermore, the relationship status between the target men and the model women affected the magnitude of mate-choice copying effects for the single women. Specifically, they showed less mate-choice copying when the targets and models were in a committed romantic relationship than when in a temporary relationship.",
+  "raw_path": "01_raw/europepmc_xml/PMC10481002.xml",
+  "text_path": "02_text/europepmc/PMC10481002.txt",
+  "raw_bytes": 94323,
+  "text_chars": 41393,
+  "raw_sha256": "dcc78afcf04cd9dac351f98a4956781781239cd823659d307c6ec3800ad8cb6d",
+  "text_sha256": "8ef55e33786232b8a1d3336a66959b9dca4253a2e814827dea99ca998d1d2e31",
+  "retrieved_at": "2026-10-25T15:43:17.308337+00:00"
+}

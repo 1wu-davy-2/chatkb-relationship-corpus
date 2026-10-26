@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7920442",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Commitment, Dominance, and Mate Value: Power Bases in Long-Term Heterosexual Couples.",
+  "authors": "Lindová J, Habešová T, Klapilová K, Havlíček J.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3390/ijerph18041914",
+  "pmcid": "PMC7920442",
+  "url": "https://europepmc.org/article/PMC/PMC7920442",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7920442/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "assertiveness_boundaries"
+  ],
+  "abstract": "We assessed the relative contribution of economic, personal, and affective power bases to perceived relationship power. Based on evolutionary studies, we predicted that personality dominance and mate value should represent alternative personal power bases. Our sample was comprised of 84 Czech heterosexual couples. We measured the economic power base using self-report scales assessing education, income and work status. Personal power bases were assessed using self-report measures of personality dominance (International Personality Item Pool Dominance and Assertiveness subscale from NEO Personality Inventory-Revised Extraversion scale), and partner-report measures of mate value (Trait-Specific Dependence Inventory, factors 2-6). The first factor of Trait-Specific Dependence Inventory, which measures agreeableness/commitment was used to assess the affective power base. Our results show that perceived relationship power is associated with a perception of partner's high agreeableness/commitment. Moreover, women's personality dominance and mate value are also linked with perceived relationship power, which supports our evolutionary prediction of dominance and mate value working as power bases for women. The stronger effect of women's than men's power bases may be due to gender differences in investment into relationships and/or due to transition to more equal relationships currently sought by women in the Czech Republic.",
+  "raw_path": "01_raw/europepmc_xml/PMC7920442.xml",
+  "text_path": "02_text/europepmc/PMC7920442.txt",
+  "raw_bytes": 133075,
+  "text_chars": 41822,
+  "raw_sha256": "084da877980ab9bd8f43a54f3f23ac78b5d513871a6103bc26e11eecb7823f95",
+  "text_sha256": "f969287affad5d0ce0e3c01a44898d4935f8f410ac6cfd19ca83161b1288e5d8",
+  "retrieved_at": "2026-10-25T15:33:45.430951+00:00"
+}

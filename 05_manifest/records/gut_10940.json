@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_10940",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Manners, Customs, and Dress During the Middle Ages and During the Renaissance Period",
+  "gutenberg_id": "10940",
+  "url": "https://www.gutenberg.org/ebooks/10940",
+  "download_url": "https://www.gutenberg.org/cache/epub/10940/pg10940.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "manners"
+  ],
+  "raw_path": "01_raw/gutenberg/10940.txt",
+  "text_path": "02_text/gutenberg/gut_10940_manners_customs_and_dress_during_the_mid.txt",
+  "raw_bytes": 987083,
+  "text_chars": 947247,
+  "text_sha256": "9fa1d4944e272da3156c7f9203ff610e047f1b7ad48927c683bd65ade6debf20",
+  "retrieved_at": "2026-10-26T12:55:55.771190+00:00"
+}

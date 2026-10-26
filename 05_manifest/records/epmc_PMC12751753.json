@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12751753",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The moderating role of gender in the effect of gender perceptions on the sexual satisfaction of married individuals.",
+  "authors": "Bezgin S, Aşkan ES, Aktuğ Y, Örün M, Tatlı M.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40359-025-03736-3",
+  "pmcid": "PMC12751753",
+  "url": "https://europepmc.org/article/PMC/PMC12751753",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12751753/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "Background Turkish society is characterized by a dominant traditional and patriarchal cultural structure. As a result, sexuality is generally considered taboo, and sexual matters are not openly discussed. The aim of this research was to examine the moderating role of gender in the effect of the gender perceptions of married individuals on their sexual satisfaction. Methods The current research employed a cross-sectional survey. The Demographic Information Form, Gender Perception Scale, and New Sexual Satisfaction Scale were used as data collection tools. A total of 527 validly completed instruments were used for the data analysis. The moderating effect was assessed using the PROCESS macro created by Hayes [97] for SPSS. Results Gender perception and gender had positive and significant effects on sexual satisfaction. It was determined that the moderating effect of gender perception and gender variables on the sexual satisfaction variable was significant. Conclusions The study revealed that the impact of gender perception on sexual satisfaction was insignificant for women but significant for men. This finding indicates that gender plays a moderating role in the relationship between gender perception and sexual satisfaction.",
+  "raw_path": "01_raw/europepmc_xml/PMC12751753.xml",
+  "text_path": "02_text/europepmc/PMC12751753.txt",
+  "raw_bytes": 176159,
+  "text_chars": 30422,
+  "raw_sha256": "25faed9d6181f8c667cc681febe49960d2fc042b27a1c18d8f2d627bb2853f7b",
+  "text_sha256": "2edb443531566c6379c98ce6b448c7294d0c5be08f7da49f33c1268e2b8c8b97",
+  "retrieved_at": "2026-10-26T13:07:01.357094+00:00"
+}

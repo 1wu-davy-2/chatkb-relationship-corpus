@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_24050",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "菜根譚",
+  "gutenberg_id": "24050",
+  "url": "https://www.gutenberg.org/ebooks/24050",
+  "download_url": "https://www.gutenberg.org/cache/epub/24050/pg24050.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/24050.txt",
+  "text_path": "02_text/gutenberg/gut_24050_菜根譚.txt",
+  "raw_bytes": 48137,
+  "text_chars": 9944,
+  "text_sha256": "d055d5f3e5138bc87592b0d63085900028f98cd3ef774b68833e73b4f9404160",
+  "retrieved_at": "2026-10-25T15:46:00.207097+00:00"
+}

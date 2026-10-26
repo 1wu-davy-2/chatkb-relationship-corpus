@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10350551",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Female Genital Mutilation, Sexual Quality of Life and Marital Relationship: A Case-Control Study From Iran.",
+  "authors": "Shafaati Laleh S, Soltani F, Roshanaei G.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.18502/jfrh.v16i4.11357",
+  "pmcid": "PMC10350551",
+  "url": "https://europepmc.org/article/PMC/PMC10350551",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10350551/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "Objective Studies on the sexual consequences of female genital mutilation is mostly related to sexual function, while sexual quality of life is a more objective criterion for studying the effects of genital mutilation on the women's sexual life. The purpose of this study was to compare the sexual quality of life and marital relationship in the mutilated women with other women living in the Kurd region of Mahabad (Iran). Materials and methods In a case-control study, 600 married women (300 mutilated and 300 non-mutilated women) who referred to the health centers completed the sexual quality of life questionnaire (SQOL-F) as well as demographic questionnaires. Data analyzed using chi-square, independent t-test, and linear regression model with stepwise method at 95% confidence level. Results The mean total score of sexual quality of life in the mutilated group (40.28±16.76) was significantly lower than the control group (45.29±19.16). The chance of having a higher score of sexual quality of life in the mutilated group was 0.13 times lower than the control group. This value was 0.16 times for self-worthlessness area, 0.10 for sexual repression, 0.12 for psycho-sexual feeling, and 0.32 for sexual and marital satisfaction areas (p Conclusion Female genital mutilation can decrease the sexual quality of life and increase the chance of negative consequences such as spouse violence, infidelity, and intercourse reduction.",
+  "raw_path": "01_raw/europepmc_xml/PMC10350551.xml",
+  "text_path": "02_text/europepmc/PMC10350551.txt",
+  "raw_bytes": 91236,
+  "text_chars": 20450,
+  "raw_sha256": "ac7ef8afea0444ed38aeb7ec24e7af6c7c39118c05cc0f2c7f01d58922be898b",
+  "text_sha256": "c1549c9fe8a8dbe8baa6bb8246652fd9f3438ceef5e6dfc5a717a3c87e6caa64",
+  "retrieved_at": "2026-10-25T15:38:37.191495+00:00"
+}

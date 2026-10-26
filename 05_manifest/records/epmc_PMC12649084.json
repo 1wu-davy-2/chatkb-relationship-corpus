@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12649084",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Experience of intimate-partner controlling behaviours among women in Ghana: a novel three step latent class analysis approach with survey-weighted fractional-logit regression.",
+  "authors": "Aheto JMK, Wellington PO, Amponsah IKV.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s12905-025-04144-w",
+  "pmcid": "PMC12649084",
+  "url": "https://europepmc.org/article/PMC/PMC12649084",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12649084/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "Background Intimate partner controlling behavior manifesting as jealousy, accusations of infidelity, social restrictions, and monitoring, undermines women's autonomy, well-being, and poses a critical public health issue, yet its heterogeneity remains underexplored in Ghana. Objective To identify distinct classes of controlling behaviors among Ghanaian women and to examine how key sociodemographic factors predict membership in each class. Methods We analyzed data from 5,137 ever-married women in the 2022 Ghana Demographic and Health Survey's domestic-violence module. Five binary indicators of partner control (jealousy, accusations of unfaithfulness, social isolation, family contact restrictions, and whereabouts monitoring) were subjected to latent class analysis (LCA) using unweighted generalized structural equation modeling. Model fit was compared across 2-4 class solutions using the Bayesian Information Criterion (BIC), with a four-class model selected. We then computed each woman's posterior class-membership probabilities and regressed these fractional outcomes on age, education, residence, region, religion, ethnicity, wealth, media exposure, partner education, partner alcohol use, and employment status via survey-weighted fractional-logit generalized linear model. Results Four distinct classes emerged: (1) Minimal Monitoring (59.2%) (2), Multi-Domain Surveillance (11.2%) (3), Jealousy and Location Monitoring (22.2%), and (4) Pervasive High-Severity Control (7.4%). Younger age (20-34 years) and partner alcohol use were strongly associated with higher probabilities of membership in Classes 2-4, while secondary or higher education conferred protection, especially against Class 4 (adjusted odds ratio 0.42; 95% CI 0.21-0.83). Regional disparities were also evident, with women in the northern and Savannah regions facing two- to six-fold greater odds of severe control. Conclusions Partner controlling behaviors in Ghana are heterogeneous and disproportionately affect young, less-educated women and those with alcohol-consuming partners. Interventions should include early recognition of controlling acts, empowerment through education, and community dialogue to challenge patriarchal norms. Addressing these patterns may prevent escalation to physical and sexual IPV and reduce the substantial public health burden of coercive control.",
+  "raw_path": "01_raw/europepmc_xml/PMC12649084.xml",
+  "text_path": "02_text/europepmc/PMC12649084.txt",
+  "raw_bytes": 199371,
+  "text_chars": 65363,
+  "raw_sha256": "a02f29dd036b244e5137fab376d98073db8f9a329eed45eabb5e8ebbc97ba260",
+  "text_sha256": "a2dfd7fb86dae29fa412aa9875e2becb579c0ab6551316efe72cd3ad83fff16e",
+  "retrieved_at": "2026-10-26T13:08:21.154876+00:00"
+}

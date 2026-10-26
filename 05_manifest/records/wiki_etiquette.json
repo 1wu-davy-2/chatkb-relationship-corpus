@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_etiquette",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "禮儀",
+  "requested_title": "礼仪",
+  "url": "https://zh.wikipedia.org/wiki/%E7%A6%AE%E5%84%80",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "manners",
+    "culture"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/etiquette.json",
+  "text_path": "02_text/zh_wikipedia/etiquette.txt",
+  "raw_bytes": 4913,
+  "text_chars": 1774,
+  "text_sha256": "56a2044fc80ae1d7424e47b2262f6b6ff5f8fffc50e0a3f72949b35a7360fc37",
+  "retrieved_at": "2026-10-25T16:00:15.965846+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9363330",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Benevolent Sexism and the Traditional Sexual Script as Predictors of Sexual Dissatisfaction in Heterosexual Women from the U.S.",
+  "authors": "Bonell S, Lee H, Pearson S, Harris E, Barlow FK.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1007/s10508-022-02318-3",
+  "pmcid": "PMC9363330",
+  "url": "https://europepmc.org/article/PMC/PMC9363330",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9363330/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "Women report lower sexual satisfaction than men. Given that sexual dissatisfaction adversely impacts health and well-being, it is imperative that we investigate why women are sexually dissatisfied. In the present study, we explored whether women's benevolently sexist attitudes might predict their sexual dissatisfaction. In a sample of 308 (M age = 38.09) heterosexual American women who had previously had sex with a man, we hypothesized that women's benevolent sexism would be associated with an increased adoption of the traditional sexual script (i.e., an increased propensity for submissiveness and passivity during sex) and that this, in turn, would be associated with increased sexual dissatisfaction. We also hypothesized that the relationship between the adoption of the traditional sexual script and sexual dissatisfaction would be moderated by the degree to which participants enjoy submissiveness. Overall, we did not find support for our model: benevolent sexism did not predict sexual dissatisfaction. However, we did find that adopting the traditional sexual script was predictive of sexual dissatisfaction for women who do not enjoy submissiveness. These findings contribute to an emerging literature pertaining to women's sexual health. Specifically, results suggest that benevolent sexism does not contribute to women's experiences of sexual dissatisfaction. Instead, they suggest that sexual dissatisfaction in women may (in part) be driven by their engagement in sexual roles that do not align with their sexual preferences. Theoretical and clinical implications for these findings are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC9363330.xml",
+  "text_path": "02_text/europepmc/PMC9363330.txt",
+  "raw_bytes": 73272,
+  "text_chars": 28076,
+  "raw_sha256": "49fb6b22a9807d2688a7ac34af5f8d035f75d892d91458b774a209f38802c24e",
+  "text_sha256": "718169cba0b6dae53eb068d51fe96eb605fe05b8e13b91c727de8605447b6f16",
+  "retrieved_at": "2026-10-26T13:09:26.933786+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_involuntary_celibacy",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "非自願單身",
+  "requested_title": "非自愿单身",
+  "url": "https://zh.wikipedia.org/wiki/%E9%9D%9E%E8%87%AA%E9%A1%98%E5%96%AE%E8%BA%AB",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 非自願單身",
+  "topics": [
+    "subculture",
+    "gender"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/involuntary_celibacy.json",
+  "text_path": "02_text/zh_wikipedia/involuntary_celibacy.txt",
+  "raw_bytes": 2848,
+  "text_chars": 1321,
+  "text_sha256": "2482d5cd45b39ea1f1acf8a66f38247ca69e05c8e2293af06b23a8a59cde8674",
+  "retrieved_at": "2026-10-25T16:29:04.959909+00:00"
+}

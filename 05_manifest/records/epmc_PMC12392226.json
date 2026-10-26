@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12392226",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring the impact of the first rule of Functional Analytic Psychotherapy on fear of intimacy, vulnerability, and responsiveness: An analog process analysis.",
+  "authors": "Maitland DWM, Davis CL, Farren EJ, Cunningham A, Zirbel C, Muñoz-Martínez AM.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1016/j.jcbs.2024.100778",
+  "pmcid": "PMC12392226",
+  "url": "https://europepmc.org/article/PMC/PMC12392226",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12392226/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_anxiety"
+  ],
+  "abstract": "Functional Analytic Psychotherapy (FAP) is an efficacious but complex treatment. Despite a solid empirical foundation, research on the treatment is limited. While five process-focused rules guide the treatment, developers made an early statement that they believed only the first rule of FAP, watching for the occurrence of daily life problems occurring in the therapy session, was needed to guide treatment effectively. The current study was designed to assess this claim through the use of a FAP analog procedure in hopes of increasing the accessibility of the treatment and thus facilitating implementation efforts. In this study, 81 undergraduate participants engaged in a closeness-generating class in which they were randomized into two groups. In the experimental condition, research assistants had access to a self-report measure regularly used to inform clinicians about potential daily life problems that may occur in the therapy room. No such information was available to the research assistants in the control condition. Findings indicated that while fear of intimacy, a core construct in FAP, decreased on average following the procedure, the experimental condition had no impact on this change. Further, when research assistants had access to the daily life problem information, participants found them less effective at responding to disclosures. These findings suggest the importance of a nuanced case conceptualization, the limitations of the first rule of FAP, and the strengths and limitations of the use of an analog paradigm to study FAP.",
+  "raw_path": "01_raw/europepmc_xml/PMC12392226.xml",
+  "text_path": "02_text/europepmc/PMC12392226.txt",
+  "raw_bytes": 98945,
+  "text_chars": 41563,
+  "raw_sha256": "9cb125b56830a613b67a2bba1f1db31578b86947aeeff01661f9902a3774894e",
+  "text_sha256": "0cb1d75844cd67900103d556850f412aa8feca885ccf5dfb952cfa147b33ef52",
+  "retrieved_at": "2026-10-25T13:54:02.935660+00:00"
+}

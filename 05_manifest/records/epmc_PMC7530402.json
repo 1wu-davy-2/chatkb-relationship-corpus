@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7530402",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marriage, a way to achieve relaxing evolution: A grounded theory investigation.",
+  "authors": "Tavakol Z, Moghadam ZB, Nasrabadi AN.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.4103/jehp.jehp_386_20",
+  "pmcid": "PMC7530402",
+  "url": "https://europepmc.org/article/PMC/PMC7530402",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7530402/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "forgiveness"
+  ],
+  "abstract": "Background Marital satisfaction is a complex of feelings, which includes pleasure, satisfaction, and pleasure experienced by the husband or wife in all aspects of marriage, and it is an important part of individual health, especially mental health. This qualitative study was conducted to understand marital satisfaction using grounded theory on couples. Materials and methods This qualitative study was implemented using grounded theory based on Corbin and Strauss, 2008, to investigate the process of marital satisfaction formation among couples from 2014 to 2016. The sampling was started as purposeful and continued as theoretical. The data were obtained using semi-structured interviews. 28 interviews were taken from 25 participants; MAXQDA software was used to facilitate the organization of classes and subclasses. Results The central variable of this study was called \"toward a relaxing evolution.\" On that account, the main classes included \"supportive companionship\" and \"responsible love,\" and variables of \"personality traits,\" \"interactive relationships,\" \"economic status,\" \"passage of time,\" and \"present resources in society\" provided the basis for the formation of marital satisfaction. Conclusion To achieve marital satisfaction, couples should set their family's ultimate goal toward achieving a relaxing evolution for the entire family, and they should accompany each other in order to achieve that goal. This sometimes requires sacrifice and forgiveness to achieve the ultimate goal of the family.",
+  "raw_path": "01_raw/europepmc_xml/PMC7530402.xml",
+  "text_path": "02_text/europepmc/PMC7530402.txt",
+  "raw_bytes": 68974,
+  "text_chars": 28811,
+  "raw_sha256": "dc72bdb2ffc07d6fd34f8f478ff38087882dacb4216f006fba16b6d4e6ede6d5",
+  "text_sha256": "0aacc61595e6e52b05222dea615bdc59088d7110b8063334b50b0215f31626e9",
+  "retrieved_at": "2026-10-25T13:58:33.637966+00:00"
+}

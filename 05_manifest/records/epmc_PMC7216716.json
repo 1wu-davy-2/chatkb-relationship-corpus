@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7216716",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Jealousy in women with migraine: a cross-sectional case-control study.",
+  "authors": "van Casteren DS, van Willigenburg FAC, MaassenVanDenBrink A, Terwindt GM.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1186/s10194-020-01114-5",
+  "pmcid": "PMC7216716",
+  "url": "https://europepmc.org/article/PMC/PMC7216716",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7216716/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Background Estrogen influences susceptibility to migraine attacks and it has been suggested to affect jealousy in romantic relationships in women. Therefore, we hypothesized that migraine women may be more jealous. Methods Jealousy levels and hormonal status were determined based on a cross-sectional, web-based, questionnaire study among female migraine patients and controls. A random sample of participants was selected from a validated migraine database. Participants with a serious and intimate monogamous relationship were included (n = 498) and divided into the following subgroups: menstrual migraine (n = 167), non-menstrual migraine (n = 103), postmenopausal migraine (n = 117), and premenopausal (n = 57) and postmenopausal (n = 54) controls. The primary outcome was the difference in mean jealousy levels between patients with menstrual migraine, non-menstrual migraine and premenopausal controls. Results were analyzed with a generalized linear model adjusting for age, relationship duration and hormonal status (including oral contraceptive use). Additionally, the difference in jealousy levels between postmenopausal migraine patients and controls was assessed. Previous research was replicated by evaluating the effect of combined oral contraceptives on jealousy. Results Jealousy levels were higher in menstrual migraine patients compared to controls (mean difference ± SE: 3.87 ± 1.09, p = 0.001), and non-menstrual migraine patients compared to controls (4.98 ± 1.18, p Conclusion Young women with migraine are more jealous within a romantic partnership.",
+  "raw_path": "01_raw/europepmc_xml/PMC7216716.xml",
+  "text_path": "02_text/europepmc/PMC7216716.txt",
+  "raw_bytes": 77437,
+  "text_chars": 24995,
+  "raw_sha256": "14f29a940f309d9af659b855de64598c3e88c3a0380c5ea79e4c224f4854c538",
+  "text_sha256": "3df938f478d544290fb1f4c2c336a9d4713ab33ba94e1c84e2c1b049a145c0a4",
+  "retrieved_at": "2026-10-25T15:44:57.537517+00:00"
+}

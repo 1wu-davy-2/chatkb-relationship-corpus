@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13514597",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Neuropsychological Predictors of Treatment Dropout Among Intimate Partner Violence Perpetrators.",
+  "authors": "Romero-Martínez Á, Sarrate-Costa C, Lila M, Moya-Albiol L.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/jintelligence14080164",
+  "pmcid": "PMC13514597",
+  "url": "https://europepmc.org/article/PMC/PMC13514597",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13514597/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Background : The interplay between intervention dropout and increased recidivism among men convicted of intimate partner violence (IPV) underscores the need for a model that investigates the underlying variables associated with IPV perpetrator dropout. While sociodemographic factors are traditional predictors of dropout, the potential role of cognitive functioning remains insufficiently researched. This study examined whether certain neuropsychological domains, previously signaled by the scientific literature, including general intelligence, cognitive flexibility, planning abilities, verbal fluency, attention, and working memory, were associated with treatment attrition among IPV perpetrators. Methods : Participants ( n = 309) underwent a comprehensive neuropsychological battery (K-BIT, WCST, BADS, CPT-III, and WAIS-III) prior to a court-mandated program. Results : The final regression model indicated that higher perseverative errors (WCST), lower nonverbal IQ, impaired planning abilities (Key Search Test), and a higher number of omissions in the CPT-III were significantly associated with dropout while controlling for alcohol misuse and sociodemographic variables. The overall predictive power of the neuropsychological model was moderate, offering a valuable, although complementary, framework to traditional models that only focus on sociodemographic variables. Conclusions : Early screening of neuropsychological variables could potentially help predict which individuals are at high risk of dropout. While these observational findings require external validation, integrating cognitive considerations into intervention planning warrants further investigation to understand their association with treatment adherence.",
+  "raw_path": "01_raw/europepmc_xml/PMC13514597.xml",
+  "text_path": "02_text/europepmc/PMC13514597.txt",
+  "raw_bytes": 120117,
+  "text_chars": 38429,
+  "raw_sha256": "c593b6b086296fde279f991f3b78f2c15840b33c8db74f7fabcd617b23443c64",
+  "text_sha256": "d308178fc0d5343c58b8fddc51fa3d9f5218a73060cfa3df9a82f212b77321c1",
+  "retrieved_at": "2026-10-25T15:41:48.836015+00:00"
+}

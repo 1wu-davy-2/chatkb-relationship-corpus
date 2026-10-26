@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13597437",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Affinal parenthood after divorce: a socio-legal study of stepparent visitation rights in Peruvian blended families.",
+  "authors": "Castilla-Cabezudo JL, Zegarra-Castañeda R, Zegarra-Castañeda G, Díaz-Arias CC, Salcedo-Tenemas CJM.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fsoc.2026.1870230",
+  "pmcid": "PMC13597437",
+  "url": "https://europepmc.org/article/PMC/PMC13597437",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13597437/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Introduction Blended families challenge legal systems that continue to organize parental status primarily through formal categories such as filiation, adoption, parental authority, custody, and legally recognized family status. This study examines how Peruvian judicial, legal, prosecutorial, public-defense, and psychosocial professionals interpret the possibility of granting post-divorce visitation rights to stepparents in blended families. It does not propose automatic legal parenthood for stepparents but analyzes whether affinal status, when accompanied by evidence of social or functional parenthood, may provide a basis for judicial assessment under the best interests of the child. Methods An exploratory qualitative socio-legal design was employed, combining analysis of Peruvian constitutional, civil, and child-protection law with eleven structured expert interviews. Participants included two family judges, four lawyers, two public defenders, one family prosecutor, and two psychologists in Ica, Peru. Data were analyzed through directed thematic analysis using deductive and inductive coding, coder comparison, and analytic triangulation across interviews, legal materials, jurisprudence, doctrine, and socio-legal literature. Results Six interrelated themes were identified: formal affinity as a procedural gateway rather than a complete legal basis; the best interests of the child as a structured judicial inquiry; socio-affective bonds as an evidentiary threshold; non-displacement of biological or legal parents; the relevance of interdisciplinary and psychosocial evidence; and uncertainty arising from judicial discretion. Participants generally considered affinity insufficient by itself and emphasized evidence of caregiving, emotional continuity, and the child's welfare. Discussion The findings indicate that Peruvian law provides interpretive mechanisms for assessing post-divorce stepparent visitation despite the absence of a specific statutory regime. Affinal status may make a claim legally cognizable, but continued contact should depend on evidence that the relationship acquired social or functional parental significance and that visitation serves the child's best interests without displacing the rights and duties of legal parents. The study contributes a Latin American perspective to broader socio-legal debates on social parenthood, functional parenthood, socio-affective kinship, family diversity, and judicial discretion.",
+  "raw_path": "01_raw/europepmc_xml/PMC13597437.xml",
+  "text_path": "02_text/europepmc/PMC13597437.txt",
+  "raw_bytes": 87376,
+  "text_chars": 43497,
+  "raw_sha256": "218d5c82f279a25b02066d73a7de4b691402c3b1c0a0cfc8d8f9838bd6f27964",
+  "text_sha256": "1c8a24f9571d4cd2f5d8666e10dfd34d61ec023d451f61d6f397627858983d7e",
+  "retrieved_at": "2026-10-25T13:53:52.026121+00:00"
+}

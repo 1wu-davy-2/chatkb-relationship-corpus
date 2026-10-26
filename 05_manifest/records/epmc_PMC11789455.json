@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11789455",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Can I tolerate that kind of behaviour? Self-esteem, expected benefits, risk perceptions and risk tolerance in romantic relationships.",
+  "authors": "Lamarche VM, Rolison JJ.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/bjso.12860",
+  "pmcid": "PMC11789455",
+  "url": "https://europepmc.org/article/PMC/PMC11789455",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11789455/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "Previous research has relied on characteristics of relationship behaviours (e.g., choosing/avoiding intimacy) as evidence of prioritising potential rewards over the perceived risks (i.e., interpersonal risk tolerance). Across four studies (N total = 1422), we drew from psychological risk-reward models of decision-making to test whether perceived risks, benefits, and/or risk tolerance were associated with relationship goals and behaviours. Self-esteem was positively associated with expecting greater benefits and perceiving less risk in relationship behaviours but not with differences in risk tolerance (i.e., tolerance of risks perceived; Studies 1 & 2). Furthermore, greater expected benefits were associated with connection goals and engaging in those behaviours, whereas greater perceived risk was associated with self-protection goals and less engagement (Studies 3 & 4). Our findings suggest that people with high self-esteem are not necessarily tolerant of interpersonal risk but instead differ in their perceptions of interpersonal risks and benefits, and consequently engage in behaviours they expect to confer benefits and avoid ones they anticipate will be costly.",
+  "raw_path": "01_raw/europepmc_xml/PMC11789455.xml",
+  "text_path": "02_text/europepmc/PMC11789455.txt",
+  "raw_bytes": 171060,
+  "text_chars": 65061,
+  "raw_sha256": "77938e7f9fd609255d9cdc5801b578c576c7acc6d68e71c7b785ee220c65ba7a",
+  "text_sha256": "8e223b547a5fd93aeb8c92bd5d67c4f828206f083bac7c209a1da684cf30050f",
+  "retrieved_at": "2026-10-25T15:40:09.467882+00:00"
+}

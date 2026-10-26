@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7812630",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Body sway predicts romantic interest in speed dating.",
+  "authors": "Chang A, Kragness HE, Tsou W, Bosnyak DJ, Thiede A, Trainor LJ.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1093/scan/nsaa093",
+  "pmcid": "PMC7812630",
+  "url": "https://europepmc.org/article/PMC/PMC7812630",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7812630/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction_physical"
+  ],
+  "abstract": "Social bonding is fundamental to human society, and romantic interest involves an important type of bonding. Speed dating research paradigms offer both high external validity and experimental control for studying romantic interest in real-world settings. While previous studies focused on the effect of social and personality factors on romantic interest, the role of non-verbal interaction has been little studied in initial romantic interest, despite being commonly viewed as a crucial factor. The present study investigated whether romantic interest can be predicted by non-verbal dyadic interactive body sway, and enhanced by movement-promoting ('groovy') background music. Participants' body sway trajectories were recorded during speed dating. Directional (predictive) body sway coupling, but not body sway similarity, predicted interest in a long-term relationship above and beyond rated physical attractiveness. In addition, presence of groovy background music promoted interest in meeting a dating partner again. Overall, we demonstrate that romantic interest is reflected by non-verbal body sway in dyads in a real-world dating setting. This novel approach could potentially be applied to investigate non-verbal aspects of social bonding in other dynamic interpersonal interactions such as between infants and parents and in non-verbal populations including those with communication disorders.",
+  "raw_path": "01_raw/europepmc_xml/PMC7812630.xml",
+  "text_path": "02_text/europepmc/PMC7812630.txt",
+  "raw_bytes": 85645,
+  "text_chars": 34039,
+  "raw_sha256": "c34cc75cf8708e65bb82d8f8f61ffbaf45cc34290ea163f45f71ccdd337a7624",
+  "text_sha256": "3ba50a90071ed876d5bf04f887ea18ae2e71c4eb47156aae70967297ea003d38",
+  "retrieved_at": "2026-10-25T15:35:11.949803+00:00"
+}

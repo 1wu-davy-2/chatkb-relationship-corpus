@@ -1,0 +1,20 @@
+{
+  "doc_id": "wiki_communication",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "沟通",
+  "url": "https://zh.wikipedia.org/wiki/%E6%B2%9F%E9%80%9A",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "communication",
+    "skills"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/communication.json",
+  "text_path": "02_text/zh_wikipedia/communication.txt",
+  "raw_bytes": 76414,
+  "text_chars": 13465,
+  "text_sha256": "1cdab64a9b90100d836d073e80597e841e61a35a58b275365330b43793ea1680",
+  "retrieved_at": "2026-10-25T13:58:13.354523+00:00"
+}

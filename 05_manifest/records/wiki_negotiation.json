@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_negotiation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "談判",
+  "requested_title": "谈判",
+  "url": "https://zh.wikipedia.org/wiki/%E8%AB%87%E5%88%A4",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "communication",
+    "conflict"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/negotiation.json",
+  "text_path": "02_text/zh_wikipedia/negotiation.txt",
+  "raw_bytes": 2910,
+  "text_chars": 1128,
+  "text_sha256": "e15fab66ab675a2985203e0df29405f8d4f28a0af60a21ab1948c22758ad4cfb",
+  "retrieved_at": "2026-10-25T15:30:39.105244+00:00"
+}

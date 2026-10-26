@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5414251",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Creating beauty: creativity compensates for low physical attractiveness when individuals assess the attractiveness of social and romantic partners.",
+  "authors": "Watkins CD.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.1098/rsos.160955",
+  "pmcid": "PMC5414251",
+  "url": "https://europepmc.org/article/PMC/PMC5414251",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5414251/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction_physical"
+  ],
+  "abstract": "Although creativity is attractive in a potential mate, it is unclear (i) whether the effects of creativity on attractiveness generalize to other social contexts and (ii) whether creativity has equivalent effects on men's and women's attractiveness. As social knowledge of creativity may either enhance or 'offset' the appeal of social partners who differ in physical attractiveness, three repeated measures experiments were conducted to directly address these issues. Here, participants rated a series of face-text pairs for attractiveness on trials that differed in one of four combinations of facial attractiveness (attractive and less attractive) and creativity (creative and less creative), rating story-tellers in two experiments (short interpretations of an identical painting) and creative ideas in a further experiment (alternative uses for an everyday object). Regardless of the sex of the judge, creativity and facial attractiveness had independent effects on men's overall attractiveness (initial experiment) and, in further experiments, more substantial effects on the attractiveness of men with less attractive faces than men with attractive faces (when using a different measure of creativity) and specific effects on the attractiveness of individuals with less attractive faces (when using different face stimuli). Collectively, across three experiments, these findings suggest that creativity may compensate for putative cues to lower biological 'quality' and that the benefits of creativity to social groups more generally enhance attraction to creative men (in two experiments) and creative men and women (one experiment). More broadly, the data suggest that species can integrate knowledge of cognitive intelligence with visual cues to biological 'quality' to facilitate mate and/or ally choice.",
+  "raw_path": "01_raw/europepmc_xml/PMC5414251.xml",
+  "text_path": "02_text/europepmc/PMC5414251.txt",
+  "raw_bytes": 98713,
+  "text_chars": 35579,
+  "raw_sha256": "183ffea8a94c8425b9c788abceacc62758766431ae71c5910adffa14ed1c6436",
+  "text_sha256": "edae6af59094f961ee504806640e0a7baef79ea884a375999cc4ce32c467d0d5",
+  "retrieved_at": "2026-10-25T15:40:20.143578+00:00"
+}

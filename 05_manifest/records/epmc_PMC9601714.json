@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9601714",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Do Discrimination and Negative Interactions with Family Explain the Relationship between Interracial Relationship Status and Mental Disorder?",
+  "authors": "Irby-Shasanmi A, Erving CL.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/23780231221124852",
+  "pmcid": "PMC9601714",
+  "url": "https://europepmc.org/article/PMC/PMC9601714",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9601714/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "intercultural"
+  ],
+  "abstract": "Using the stress process model, the authors investigate whether individuals in interracial relationships experience greater risk for past-year mood and anxiety disorder compared with their same-race relationship counterparts. The authors also assess interracial relationship status differences in external stressors (i.e., discrimination and negative interactions with family) and whether stress exposure explains mental disorder differences between individuals in interracial versus same-race romantic partnerships. Data are from the National Survey of American Life (2001-2003). Results show that individuals in interracial relationships are at greater risk for anxiety disorder (but not mood disorder) relative to those in same-race relationships. Interracially partnered individuals also report more discrimination from the public and greater negative interactions with family. External stressors partially explain the higher risk for anxiety disorder among individuals in interracial partnerships. This study addresses a void in the literature on discrimination, family relationships, and health for the growing population of individuals in interracial unions.",
+  "raw_path": "01_raw/europepmc_xml/PMC9601714.xml",
+  "text_path": "02_text/europepmc/PMC9601714.txt",
+  "raw_bytes": 187619,
+  "text_chars": 59115,
+  "raw_sha256": "eabba49b06407fbb9d8bd444850e8331327cf269e0664c62232ddfd6bbe2c9a5",
+  "text_sha256": "54cc52a2d21c5530d39c509747564d8c5a24ae6ea77a7277b601c44c9f3780eb",
+  "retrieved_at": "2026-10-25T15:27:12.598945+00:00"
+}

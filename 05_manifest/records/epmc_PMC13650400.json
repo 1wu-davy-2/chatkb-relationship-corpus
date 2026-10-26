@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13650400",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Effectiveness of Cognitive Behavioral Couples Therapy on Increasing the Happiness and Marital Satisfaction of Infertile Couples: A Randomized Controlled Trial",
+  "authors": "Deharab M, Shahverdi J, Goodarzi E, Ardeh A, Ahmadi S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "",
+  "pmcid": "PMC13650400",
+  "url": "https://europepmc.org/article/PMC/PMC13650400",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13650400/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "",
+  "raw_path": "01_raw/europepmc_xml/PMC13650400.xml",
+  "text_path": "02_text/europepmc/PMC13650400.txt",
+  "raw_bytes": 101974,
+  "text_chars": 32435,
+  "raw_sha256": "4a7402985e38a5834786190d83fa3aab4528c7f48d0d906d4a4c99f359eb54e7",
+  "text_sha256": "2eebbf0151e3045c7d4979ef038b4a832afc3402c34515001f17980e0ab3526b",
+  "retrieved_at": "2026-10-25T15:27:33.016451+00:00"
+}

@@ -1,0 +1,280 @@
+TITLE: A survey on the reasons why victims of stalking did not exhibit help-seeking behavior: a text-mining analysis.
+AUTHORS: Suzuki T.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1186/s40359-024-02035-7
+PMCID: PMC11439278
+LICENSE: cc by-nc-nd
+LICENSE_URL: https://creativecommons.org/licenses/by-nc-nd/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC11439278
+TOPICS: stalking
+
+---
+
+ABSTRACT
+AbstractBackgroundStalking can escalate into violent acts such as threatening and inflicting physical harm, posing a serious threat to personal safety. To prevent exacerbating stalking victimization, victims must seek help and report incidents to the police or relevant authorities. However, victims, in general, underreport these incidents to public institutions. Moreover, there is insufficient understanding of why victims of stalking, especially men, refrain from seeking help. Therefore, this study used text mining to explore the reasons victims of stalking in Japan do not seek help while considering the severity of victimization and analyzing data separately for men and women.MethodsAmong 908 Japanese individuals who reported experiencing repeated stalking behavior from a former intimate partner in the past five years, 253 men and 321 women who did not consult public authorities were included in this study. Participants provided their experiences of being stalked by former romantic partners and were classified into stalking-only, threatened, and physical aggression victim groups based on their self-reported experiences in an online survey. Reasons for not seeking help were collected through open-ended questions and analyzed using text mining.ResultsA co-occurrence network analysis revealed that among men in the threatened victim group, the reason for not seeking help was the belief that their complaints would not be taken seriously. The physical aggression victim group did not seek help due to the perception that a female perpetrator does not pose a danger. Among women in the physical aggression victim group, concerns about provoking the perpetrator or worsening the situation by seeking help, as well as feelings of embarrassment, were reasons for not seeking assistance.ConclusionsThe identification of gender stereotype-related reasons among male victims was a valuable insight that could only be obtained through comparison with female victims. However, the study was limited to addressing the individual characteristics of the cases, thus providing only hypothetical insights into general trends. In future research, it will be necessary to generate hypotheses from the findings of this study and accumulate hypothesis-testing research to develop effective strategies for promoting help-seeking behavior among stalking victims.Supplementary InformationThe online version contains supplementary material available at 10.1186/s40359-024-02035-7.Keywords: Stalking, Victimization, Help-seeking behavior, Threat, Physical aggression, Text mining
+
+BODY
+Background
+
+Stalking is a serious problem that can have psychological, physical, and social impacts on victims. It not only induces feelings of anxiety, depression, and fear in victims but also often leads them to make lifestyle changes to avoid the stalker [1–6]. For instance, relocating, limiting social activities and outings, or changing jobs, schools, or careers have been reported as common responses to stalking [1–3, 5, 7].
+
+Under the Anti-Stalking Act in Japan, stalking is defined as “repeatedly engaging in acts such as following, waiting, or monitoring with the purpose of satisfying feelings of resentment toward the same person for unfulfilled romantic or other favorable emotions, directed at the target of romantic feelings or their spouse, etc.” The number of complaints received by the Japanese police regarding stalking cases has increased annually since the enactment of the Anti-Stalking Act in 2000, reaching approximately 20,000 cases per year in recent years [8]. Furthermore, more than half of the stalking cases prosecuted by the Japanese police involve other criminal offenses under the Penal Code, such as intimidation, assault, or injury, indicating the potential escalation of stalking into violent acts. Since stalking escalates over time, it is a serious concern for personal safety [6].
+
+Early intervention by the police and relevant agencies is crucial to prevent an increase in stalking victimization. However, crime victims generally underutilize public agencies such as the police [9–11]. This is pointed out to be due to distrust that the police will not respond appropriately and fear of the disclosure of their victimization [12, 13]. Similarly, approximately half of the victims of stalking do not seek support [14]. Moreover, in Japan, a significant portion of reported cases involve perpetrators who are former romantic partners. As a result, it has been reported that victims often hesitate to file a complaint or seek police intervention owing to concerns about worsening their relationship with the perpetrator or fear of retaliation [15]. Delayed reporting to public agencies such as the police or judiciary can exacerbate the situation and increase the risk of threats or injuries. Therefore, efforts to encourage victims to seek help from public agencies such as the police are essential for early intervention in stalking cases and preventing escalation.
+
+Help-seeking behavior of victims of crime
+
+Numerous studies have examined the help-seeking behavior of victims of crime, particularly the factors predicting their requests for assistance. One such factor is the severity of victimization [16, 17]. For instance, victims are more likely to contact the police if a weapon was used during the assault [10, 18] or if the crime caused extreme fear and physical injury [19]. While there is limited research on help-seeking behaviors of victims of stalking, similar findings have been reported. For example, studies have shown that the stronger the fear experienced by victims of stalking or the more severe the victimization, the more likely they are to report it to the police [17, 20, 21].
+
+However, studies in the U.S. show that approximately half of female stalking victims do not seek support from anyone [14]. Furthermore, when considering both genders, 29% of victims do not seek support from public agencies [17]. In a Japanese survey, the proportion of stalking victims who did not consult the police was very high at 92.5%, indicating a generally high tendency not to seek consultation [22]. Additionally, it has been reported that in Japan, there are victims who refuse support even in cases where police intervention is necessary [23]. Therefore, understanding why victims do not seek help despite the severity of their victimization is important. However, previous studies have primarily focused on statistical analyses of help-seeking behaviors and other factors, with a limited examination of the psychological backgrounds of victims of stalking who do not seek help. While qualitative studies have investigated the reasons why victims of crime or trauma survivors do not seek help [12, 13, 24, 25], many have focused on female victims. Therefore, the barriers to help-seeking behavior among male victims must be explored [16], because male perspectives, particularly in the context of stalking victimization, remain insufficiently understood. Moreover, empirical research on the help-seeking behavior of victims of stalking in Japan is scarce, causing a lack of data to devise strategies to encourage help-seeking behavior. Clarifying why stalking victims do not seek help from public institutions is expected to contribute to developing strategies that encourage them to seek consultation with the police and related agencies. Therefore, this study aims to collect qualitative data from both men and women on why stalking victims in Japan did not seek assistance, and to explore the barriers to help-seeking behavior and the gender differences in these barriers.
+
+Text-mining analysis
+
+Text mining analysis is useful for analyzing qualitative data on why individuals do not seek help. The process involves extracting words and phrases from free-text responses using morphological analysis and quantitatively analyzing the relevance of these terms based on their frequency of occurrence. It helps capture the content and themes in qualitative data based on their relevance, making it valuable for revealing the constituent elements and structures of unknown concepts in a bottom-up manner. Text mining is characterized by its objective procedural nature and ability to analyze the generality of concepts by simultaneously handling large amounts of data. Therefore, it allows quantitative and objective examination of the reasons and psychological backgrounds of victims of stalking who do not seek help.
+
+Additionally, conducting a co-occurrence network analysis during text mining enables the examination of why victims of threats or physical attacks do not seek help from public agencies, even in severe cases. This approach can contribute to understanding the emotions of victims who do not seek help from public agencies despite the severity of their experiences. Thus, in this study, we used text mining to explore the reasons victims of stalking do not seek help, considering their association with severe victimization.
+
+Purpose of the study
+
+Using text mining, this study investigated why victims of stalking in Japan do not seek help from public institutions. Furthermore, in stalking cases, perpetrators who are former romantic partners are more likely to engage in threats or violence compared to those who are strangers or acquaintances [26–29]. Therefore, to examine relatively severe cases, individuals who were stalked by former romantic partners were surveyed.
+
+In this study, stalking victimization was defined based on Japan’s Anti-Stalking Act. This law defines 10 acts, the repetition of which implies stalking, without mentioning threats or physical attacks. Therefore, individuals who reported experiencing any one of the 10 specified acts two or more times were considered victims in this study. Additionally, experiences of threats and physical attacks were surveyed, and the victims were categorized into those who experienced physical attacks, threats but not physical attacks, and neither, allowing for an analysis based on the severity levels.
+
+Methods
+
+Participants and procedures
+
+A survey was conducted using CrowdWorks, an outsourced survey service via the Internet (crowdsourcing). Following the approach of Shimada [23], individuals who had experienced any of the following behaviors from former romantic partners: “being stalked or ambushed, having someone forcibly enter their home or workplace,” “being requested to meet, date, or reconcile despite expressing reluctance,” “receiving a large number of emails or continuous phone calls despite expressing reluctance,” and “receiving gifts or having information about themselves posted online despite expressing reluctance” were recruited as participants. It was explained before the survey that only those who met these conditions should respond. Additionally, to reduce memory bias, only those who had experienced the above behaviors in the past five years were instructed to respond. In the web survey, all questions were mandatory to prevent missing responses. Furthermore, to identify participants with inappropriate responses, an instruction item was included that stated, ”Please select ‘Does not apply at all’ for this question.” Those who did not respond correctly to the instruction item were excluded from the analysis. The participants were informed that their responses would be anonymized, data would be securely managed, and privacy would be protected. They were also assured that there would be no disadvantage to discontinuing participation. Before data collection began, informed consent was obtained, and the survey proceeded only if participants checked the “I agree” box to indicate their agreement with the study terms.
+
+Data were collected from 987 participants of whom 79 did not correctly answer the instruction item and were excluded from the analysis. Ultimately, valid responses from 908 participants (men: n = 377, mean age = 36.40, SD = 8.93; women: n = 531, mean age = 33.57, SD = 7.53) were analyzed. This study was approved by the Research Ethics Committee of the University of Toyama (Approval No.: 031).
+
+Measures
+
+The questionnaire requested respondents to answer the questions regarding their experiences of being stalked by former romantic partners and to select and respond regarding the most memorable experience if they had multiple occurrences.
+
+Stalking victimization
+
+The scale for stalking victimization was developed based on Japan’s Anti-Stalking Act (see Additional file 1). In accordance with the Act, respondents were asked to report the frequency of victimization for each of the 10 specified stalking behaviors (i.e., following, ambushing, intruding into home or workplace; informing surveillance; demanding meetings or relationships; using abusive language or behavior; making silent or continuous calls, faxes, emails, social media message, or written communication after being rejected; sending filthy materials; defamation; invasion of sexual privacy; obtaining location information using GPS devices; installing GPS devices) using a five-point scale (0 times = 0, 1 time = 1, 2–3 times = 2, 4–9 times = 3, 10 times or more = 4). Similarly, respondents were asked about experiences of threats (threats that made you scared or anxious) and physical aggression (inflicting physical violence). Individuals who reported experiencing any of the 10 stalking behaviors two or more times were classified as victims of stalking. Subsequently, they were categorized as follows: experienced physical aggression = physical aggression victim group; experienced threats = threatened victim group; and others = stalking-only victim group.
+
+Help-seeking behavior toward public institutions
+
+The scale for help-seeking from public institutions was developed (see Additional file 2). Respondents were asked whether they had ever consulted public institutions in Japan that handle stalking-related inquiries or provide support (e.g., police, spousal violence counseling and support centers or gender equality centers, legal affairs bureaus, and other public institutions such as government offices or public health centers) about their stalking victimization experiences (yes/no). Those who had not consulted any public institutions were asked to provide free-text responses regarding the reasons for not seeking assistance or reporting stalking victimization to public institutions. They were encouraged to provide as specific and detailed a response as possible and to list all reasons that they remembered if they could think of multiple reasons.
+
+Data analysis
+
+The KH Coder [30, 31], specifically tailored for text mining and capable of handling Japanese text data, was employed for the analysis. This software utilizes the ChaSen Morphological Analyzer and integrates it into the R statistical software environment. The KH Coder has been widely utilized in research, both domestically and internationally, and cited in over 6,800 research papers [32].
+
+Initially, the occurrence patterns of the terms in the data were examined using morphological analysis to extract the utilized terms. Subsequently, a hierarchical cluster analysis was performed using Ward’s method to determine the data content. Hierarchical cluster analysis sequentially groups the closest data and gradually reduces the number of clusters. Jaccard coefficients were computed to determine the degree of appearance between terms, and Ward’s method was employed to hierarchically stack the combinations with the highest coefficients. Ward’s method is a technique for hierarchical clustering, in which clusters are combined and hierarchically organized to minimize the variance of the Jaccard coefficients. The final number of clusters was determined by examining and selecting the number of clusters that allowed for better interpretation based on the analysis results. Each generated cluster was interpreted based on its characteristic terms. Additionally, Key Word in Context (KWIC) concordance, a software feature, was used to confirm the specific use of related terms, aiding interpretation.
+
+In addition, for each cluster, the average frequency of term occurrences within that cluster was calculated. This average value indicates the tendency for each cluster to be more commonly used. These averages were then compared across clusters to identify which clusters were more frequently used. This analysis was conducted using SPSS Statistics ver. 29.0.1.0.
+
+Next, to examine the relationship between the terms in these clusters and the severity of victimization, a co-occurrence network analysis was performed. Co-occurrence network analysis visualizes a network of terms (nodes) connected by lines (edges), representing strong co-occurrence patterns among the terms. Moreover, by introducing external variables, the networks that link these variables with highly-related terms can be explored. In this study, the severity of victimization (physical aggression, threatening, and stalking-only) was introduced as an external variable to explore the terms associated with each group. The term characteristics of each group were focused on, and their relationships were interpreted based on their meanings and parent clusters.
+
+To avoid complexity in the interpretation, the analysis was adjusted to include only approximately the top 50 most frequent terms [31]. Additionally, the original free-text data were referenced during analysis [31] to understand the specific contexts and meanings of the terms used. Concrete examples of how the terms were used were considered, and the results were interpreted accordingly.
+
+Results
+
+Excluding three individuals with a total stalking victimization score of less than two, 905 individuals were identified as victims. Of them, 331 (36.6%) sought help from public agencies, resulting in 253 men and 321 women who did not seek help for further analysis.
+
+To explore the sample characteristics, the average total score and average number of victimization types were calculated. For men, the average total score was 9.94 (SD = 5.57, range 2–30) and the average number of victimization types was 4.39 (SD = 2.17, range 1–12). Women reported an average total score of 9.83 (SD = 5.93, range 2–32) and an average number of victimization types of 4.27 (SD = 2.11, range 1–12).
+
+Next, based on the severity, the groups were formed as follows: physical aggression victim: 27 men and 37 women; threatened victim: 82 men and 92 women; and stalking-only victim: 144 men and 192 women.
+
+Subsequently, basic information regarding the reasons for not seeking help is presented. For men, 312 sentences with 5,170 extracted words, 1,785 analysis-target words (excluding common words such as particles and auxiliary verbs), 680 unique words (types of words), and 519 analysis-target unique words were obtained. For women, 427 sentences, with 7,880 extracted words, 2,726 analysis-target words, 847 unique words, and 658 analysis target unique words were obtained. The author translated the results from Japanese into English.
+
+Hierarchical cluster analysis of reasons for not seeking help
+
+Table 1 presents the hierarchical cluster analysis results of the reasons for not seeking assistance, according to gender.
+
+Results of hierarchical cluster analysis of reasons for not seeking help and average frequency of term occurrences
+
+Note. The words in parentheses represent the Japanese words from the original text. The author translated terms from Japanese to English for the purpose of this report. Mean and SD indicate the average frequency and standard deviation of term occurrences for each cluster
+
+Male participants
+
+Considering interpretability, nine clusters were adopted for men. In Cluster 1, “break up” and “phone” exhibited diverse usage patterns. Prominent examples of the use of “judge” indicated the perception that the perpetrator’s behavior was temporary or not severe, leading to the judgment of a low risk of stalking victimization, hence the decision to not seek help. Furthermore, “possible” was used to convey that there was no risk of further harm, judging the risk to be low. Therefore, Cluster 1 was interpreted as not seeking assistance as the stalking incidents were judged as not serious and with no possibility of further harm.
+
+In Cluster 2, “response” and “man” were the characteristic terms. “Response” was predominantly used in the context of “thought they wouldn’t respond even if I consulted,” and “man” in the context of “because I am a man, I thought they wouldn’t respond even if I consulted.” Therefore, Cluster 2 was interpreted as not seeking help because of the perception that men would not receive help even if they reported the victimization.
+
+Cluster 3 included only “big” and “matter,” which were mostly used in the context of not wanting to magnify the significance of the matter. Therefore, Cluster 3 was interpreted as not seeking help to avoid magnifying the significance of the matter.
+
+In Cluster 4, “danger” and “woman” were the characteristic terms. “Danger” was mostly used in the context of not perceiving stalking behaviors as dangerous, and “woman” in the context of “the perpetrator being a woman, so not dangerous” or “if it is a woman, I can overpower her physically if necessary.” Therefore, Cluster 4 was interpreted as not seeking assistance because no danger was perceived as the perpetrator was a woman.
+
+In Cluster 5, “time” and “work” were the notable terms. These terms were frequently used in the context of not having time or being too busy with work to find time to seek consultations. Consequently, Cluster 5 was interpreted as not seeking help due to a lack of time.
+
+Cluster 6 was characterized by the frequent use of “myself” and “resolve” together, often in the context of intending to resolve problems by oneself. Additionally, “problem” and “unnecessary” were used in the context of not wanting to magnify problems unnecessarily. Therefore, Cluster 6 was interpreted as not seeking help to prevent problems from escalating unnecessarily and opted instead to resolve them by themselves.
+
+Cluster 7 comprised three main themes. First, “trust” was predominantly used in the context of not trusting public institutions. Therefore, it was interpreted as not seeking help because of distrust in public institutions. From the usage examples of “escalate,” “need,” and “a little,” these terms were interpreted as “since stalking behaviors had not escalated yet, I thought I would wait a little longer, or I felt there was no need to consult.” Additionally, “embarrassed” was mostly used in the context of feeling embarrassed to seek help, which hindered help-seeking behavior. The reasons for this embarrassment included discussions on private matters and visiting public institutions. Some expressed, “I felt embarrassed, so I did not feel the need to consult.”
+
+In Cluster 8, “violence,” “big deal,” and “troublesome” were prominent. “Violence” was used in the context of “the perpetrator was not violent.” “Big deal” and “troublesome” were often used together, indicating “it is troublesome to make a big deal out of it by consulting.” From this, Cluster 8 was interpreted as not seeking help as the perpetrators were nonviolent and consulting would make it more troublesome.
+
+Two main themes were identified in Cluster 9. First, “know” and “be exposed” were used in the context of “the perpetrator would know if consulted” or “the fact that consultation took place would be exposed to the perpetrator.” Furthermore, from the association between these words and “scary,” “anxiety,” and “exaggeration,” these terms were interpreted as not seeking help for being anxious that the perpetrator may become aware about the consultation, which may provoke them, or because they did not want to exaggerate the situation. Second, “seem” and “third party” were used in the context of “it did not seem like consulting with a third party would lead to a resolution.” Therefore, these terms were interpreted as not seeking help for this reason.
+
+Female participants
+
+In Cluster 1, “harm” and “inflict” were used in the context of “not being inflicted with harm.” Therefore, Cluster 1 was interpreted as not seeking help because of no direct harm.
+
+In Cluster 2, “danger” and “physical” were often used together in the context of “not feeling physical danger.” Therefore, Cluster 2 was interpreted as not seeking help because they did not perceive physical danger.
+
+In Cluster 3, “myself,” “resolve,” and “big deal” were characteristic terms, and similar to men, women used these in the context of “wanting to resolve by myself” and “not wanting to make it a big deal.” Consequently, Cluster 3 was interpreted as not seeking help to avoid magnifying the significance of the matter and rather resolving it themselves.
+
+In Cluster 4, the terms “inconvenience,” “around,” and “workplace” were used in the context of “not wanting to cause inconvenience to workplace or around.” Additionally, “big” was mostly used in the context of “not wanting to make the problem big.” Therefore, Cluster 4 was interpreted as not seeking help to avoid causing inconvenience to the people around them, including those in the workplace.
+
+Cluster 5 was characterized by the terms “actually,” “victim,” and “violence.” Consequently, Cluster 5 was interpreted as not seeking help because of believing that they were not actually victims or that the perpetrator did not use violence.
+
+Cluster 6 depicted three main themes. First, “actual harm” was used in the context of “no actual harm” and “need” was used to express “no need to consult.” These terms were interpreted as not seeking help because no actual harm was perceived that would need consultation. Second, “take action” was used in the context of “public institutions such as the police would not take action,” which was interpreted as not seeking help because of not expecting action from the police. Finally, women used “embarrassed” in similar contexts as men did, and it was interpreted as feeling embarrassed to seek help. The reasons for embarrassment included publicly sharing private matters, involving third parties, the issue becoming significant, and feeling incapable of handling it.
+
+Cluster 7 was characterized by terms such as “sure,” “listen,” “respond,” and “response.” These terms were often used in the context of uncertainty regarding whether public institutions would listen to conversations or respond appropriately. Therefore, Cluster 7 was interpreted as not seeking help for these reasons.
+
+In Cluster 8, the terms “be exposed” and “know” were often used in the context of “having the perpetrator know about the consultation,” while “revenge” was used in the context of “being subjected to revenge by the perpetrator upon consultation.” Additionally, “scary,” “worry,” and “anxiety” were used to indicate anxiety about such situations. Therefore, Cluster 8 was interpreted as not seeking help because of being scared or anxious about retaliation from the perpetrator upon knowing about the consultation.
+
+Differences in term occurrence frequency between clusters
+
+The average frequency of term occurrences included in each cluster was shown in Table 1. First, to confirm the homogeneity of variance of the average frequencies of each cluster, Levene’s test was conducted. The results indicated significant differences in variances for both men and women (male, F(6,32) = 6.488, p < .05; female, F(7,40) = 3.565, p < .05), rejecting the assumption of homogeneity of variance. Therefore, Welch’s test was used to examine the differences in average frequencies between clusters. The results showed no significant differences for both men and women (male, F(8,9.302) = 1.427, p = .30; female, F(7,9.189) = 1.634, p = .24).
+
+Co-occurrence network analysis of reasons for not seeking help
+
+To examine the relationship between the reasons for not seeking help and the severity of the harm, a co-occurrence network analysis was conducted separately for men and women (Figs. 1 and 2). In this analysis, we focused on the terms specific to each group and interpreted them based on the clusters and meanings of the terms identified earlier.
+
+Results of the co-occurrence network analysis of reasons male victims did not seek help and severity of victimization
+
+Results of a co-occurrence network analysis of reasons female victims did not seek help and severity of victimization
+
+Male victims in the stalking-only victim group showed the highest association with terms from Cluster 1 (“judge,” “break up,” and “phone”), followed by those from Cluster 2 (“victim” and “response”), and Cluster 7 (“a little” and “need”). Considering the meaning of these terms and clusters, it was interpreted that male victims in this group judged the crime as not severe enough to seek help; hence, they chose not to seek help.
+
+The threatened victim group showed the highest association with terms from Cluster 9 (“anxiety” and “seem”). Therefore, it was interpreted that male victims who experienced stalking and subsequent threats did not seek help because they thought consulting with a public agency would not resolve the problem or because they feared it might provoke the perpetrator. Additionally, from the association with “male,” it was interpreted that male victims did not seek help because they believed that they would not be taken seriously.
+
+The physical aggression victim group showed the highest association with terms from Cluster 9 (“exaggeration,” “dislike,” and “third party”). Therefore, men who experienced physical aggression did not seek help because they disliked the idea of exaggerating the situation by involving third parties. Additionally, they had some association with terms from Cluster 8 (“violence” and “end”), with “violence” being mostly used to say that the perpetrator was nonviolent. Furthermore, considering the association with “woman,” men did not perceive the perpetrator as violent or dangerous, despite experiencing physical aggression, because the perpetrator was a woman, leading them to believe that there was no danger, hence not seeking help.
+
+Women in the stalking-only victim group showed the highest association with terms from Cluster 1 (“harm” and “inflict”). Additionally, they also had an association with “violence.” Therefore, women who experienced stalking did not perceive direct harm and the perpetrator as violent; therefore, they did not seek help.
+
+Women in the threatened victim group had a strong association with terms from Cluster 8 (“revenge” and “anxiety”). This was interpreted as feeling anxious that seeking help might provoke the perpetrator to take revenge; thus, they did not seek help.
+
+Women in the physical aggression victim group showed the highest association with terms from Cluster 8 (“worry” and “severe”) and Cluster 6 (“embarrassed” and “problem”). Thus, it was interpreted that they were worried that seeking help would exacerbate the problem and lead to more severe consequences or that they were embarrassed to seek help.
+
+Discussion
+
+This study used text mining to analyze qualitative data and elucidate why both men and women victims of stalking did not seek help from public institutions. The average total scores for stalking victimization (men: 9.94, women: 9.83) and the number of types of victimization (men: 4.39, women: 4.27) suggested that both men and women experienced stalking behaviors of four types and nine times on average. Hence, it can be inferred that the participants in this study had experienced a certain degree of stalking victimization and should have sought assistance or reported to authorities such as the police.
+
+No significant differences were found in the average frequency of term occurrences among the identified clusters. This suggests that the reasons for not seeking help are not dominated by any particular reason; rather, all reasons may occur with similar frequency. Each reason can equally act as a barrier to help-seeking behavior. When considering countermeasures, it may be effective for each organization to start with the most manageable issues. In the following section, the reasons why victims did not seek help were organized by the identified factors, and necessary measures and efforts for the future were discussed.
+
+Perception of low risk
+
+A hierarchical cluster analysis showed that for men, Cluster 1 indicates “not seeking help because they judged the stalking incidents as not serious,” suggesting a low-risk perception of the incidents. Additionally, Cluster 8 implied that “the perpetrator was not violent,” supporting the low perception of risk. Similar clusters indicating low-risk perceptions were also found among women. Clusters 1, 2, 3, and 6 indicated that the victims thought that they were not actually harmed or did not perceive the perpetrator as violent. From these findings, a reason for not seeking help in stalking victimization could be low-risk perception. Factors predicting help-seeking behaviors of crime victims include the severity of victimization [17], with a higher likelihood of contacting the police in cases of physical injury [19]. Consistent with these findings, men and women in the stalking-only victim group showed associations with terms from Cluster 1, suggesting that they may have underestimated the risk and did not seek help when incidents did not involve violence, such as physical aggression or threats. However, it should be noted that while the data in this study were self-reported, the respondents may have experienced stalking incidents that were in the scope of Japan’s Anti-Stalking Act; therefore, the risk may not be low. Furthermore, in the case of male victims, the association between the physical aggression victim group and “violence” in Cluster 8 suggests that despite experiencing physical aggression, they may not perceive the perpetrator as violent. This could be attributed to the fact that for male victims, the perpetrators are predominantly female, making them less likely to be perceived as dangerous. A study conducting scenario experiments to assess the risk of virtual stalking incidents revealed a tendency to estimate cases involving male victims as less severe compared to those involving female victims, and cases involving female perpetrators as less severe than those involving male perpetrators [33]. This cognitive bias is attributed to the influence of gender role stereotypes [34], where men are perceived as dominant and women as weaker, leading to the perception that men are capable of preventing harm and do not need external assistance. Consequently, in the event of experiencing stalking, male victims might perceive female perpetrators as less threatening and believe they can handle the situation on their own. However, it is not uncommon for stalking-related incidents to escalate into serious offenses, such as assaults or injuries [8]. This underscores the need to raise awareness about the potential escalation of minor acts of aggression and encourage seeking help for early intervention.
+
+Seeking an amicable resolution
+
+Regarding male victims, Cluster 3, 6, and 8 suggested a desire to avoid exaggerating the situation. This indicates the desire to resolve the situation amicably. Similarly, among women, Cluster 3 expressed the desire to avoid magnifying the significance of the matter, and Cluster 4 indicated the reluctance to cause inconvenience to others by making the issue larger. These findings suggest that victims refrained from seeking help from public institutions because they wanted to resolve the situation amicably and avoid exaggerating it.
+
+Furthermore, Cluster 6 for men and Cluster 3 for women included content indicating a desire to resolve the issue themselves without relying on public institutions. This may stem from the perception that stalking victimization is a personal issue between the victim and perpetrator. Studies have suggested that women victimized by intimate partners such as spouses or boyfriends are less likely to report crimes to the police than those victimized by strangers [11, 18, 19, 35]. These results imply that when stalking victimization is perceived as a personal issue, victims may attempt to handle it privately rather than consider it a criminal matter and seek help from public institutions.
+
+The victims may not have fully understood that stalking victimization was under the purview of the Anti-Stalking Act, which regulates criminal offenses. Therefore, it is essential to raise awareness about the importance of seeking help from specialized agencies, such as the police, rather than attempting to resolve the issue independently, especially in stalking victimization.
+
+Distrust and concerns regarding the response of public institutions
+
+For men, Cluster 7 indicated a lack of trust in public institutions, whereas Cluster 9 suggested a disbelief that the issue could be resolved by consulting a third party. This indicates a sense of distrust and concern regarding the responses of public institutions as potential confidants. Similarly, for women, Cluster 6 expressed doubts about whether public institutions would act, and Cluster 7 indicated uncertainty about whether the police would respond. These findings suggest that the victims did not seek help due to the belief that public institutions would not respond appropriately.
+
+Female victims of intimate partner violence (IPV) express concerns about police not arresting the perpetrator [13], which may hinder their help-seeking behavior. In our study, participants often reported “I have heard that the police would not respond even if victims sought help.” In 2000, an incident occurred in which a female university student was subjected to malicious and persistent harassment by her former partner, including repeated phone calls, intrusions at her home, and the posting of defamatory flyers, eventually leading to her murder. It was revealed that the police officers who had received consultations from the victim had responded inappropriately and passively [36]. This incident caused a significant shock to the public at the time and led to the establishment of Japan’s first anti-stalking law. Although this law clarified appropriate responses, a lingering distrust among the public may persist, as they still feel that the police do not take these matters seriously. In Japan, besides legal measures, such as issuing restraining orders against perpetrators, the police offer various response options, including utilizing a reporting system for immediate responses in emergencies or covering accommodation expenses for temporary shelters. Police are expected to provide flexible responses beyond intervening with the perpetrator. Educating police officers on such response strategies is crucial.
+
+Concerns about problem escalation
+
+Another reason for not seeking help was the fear that doing so would exacerbate the problem. Cluster 9 for men and Cluster 8 for women indicated that they did not seek help from public institutions because they feared that the perpetrator would be provoked or seek revenge upon knowing about the consultation. Concerns about the worsening of problems due to seeking help were associated with both men and women in the physical aggression and threatened victim groups. While it is generally reported that the severity of victimization increases the likelihood of seeking help [17], cases have been suggested in which victims, fearing retaliation or further harm, refrained from seeking help despite experiencing more severe forms of victimization than stalking. This implies that victims of threats may hesitate to seek help out of fear of facing physical violence upon consultation, and even if the situation escalates to violence, they may still refrain from seeking help to avoid further harm. Reasons for not seeking help from the police cited by victims of domestic violence or rape trauma include fear of retaliation from the perpetrator [13, 24, 25]. While these studies mainly focused on female victims, this study indicates that men also fear retaliation and refrain from seeking assistance. Some victims may perceive seeking help from the police as an immediate intervention against the perpetrator, leading them to hesitate to seek help. To promptly address dangerous situations, it is essential to prioritize connecting victims with support organizations. Therefore, raising awareness of options beyond intervention with the perpetrator, such as the aforementioned reporting system, is crucial to ensure that victims feel safe seeking help.
+
+Feelings of embarrassment
+
+Cluster 7 for men and Cluster 6 for women indicated that embarrassment was a reason for not seeking help from public institutions. For women, embarrassment was associated with the physical aggression victim group, and reasons for embarrassment included discussing private matters publicly, involving third parties, the issue becoming significant, and being unable to handle it independently. This suggests that victims felt embarrassed not only about discussing the details of their victimization but also about involving third parties, making the issue significant, and feeling incapable of handling it themselves. Embarrassment has been identified as a barrier perceived by victims of crime to report it to the police [16], which is believed to stem from the fear of having their victimization made public and being stigmatized as a crime victim [13]. In a stalking incident in 2014, it was discovered that police had read aloud the victim’s name and address when issuing an arrest warrant to the perpetrator, which raised concerns [36]. Subsequently, there was a review of how victims’ personal information is handled, but anxiety among the public about information leaks may persist. Therefore, victims may feel embarrassed or fearful of being exposed and labeled as victims, which could lead them to hesitate to seek help. It is necessary to more strongly communicate to the public that privacy is protected when seeking help.
+
+Additionally, feeling embarrassed about being unable to handle a situation suggests that victims may perceive it as a personal issue, even if victimization escalates to violence. As has been repeatedly emphasized, the cases examined in this study may fall within the purview of the Anti-Stalking Act, and the physical aggression victim group may have experienced more severe cases. Therefore, especially in these groups, the issues are not to be resolved individually but require intervention by public institutions as crimes. It is necessary to educate the public that such incidents are serious and cannot be resolved easily by the parties involved.
+
+Lack of time to seek help
+
+In men, Cluster 5 indicating a lack of time to seek help was identified, possibly because of factors such as busy work schedules. While some individuals may not have perceived the situation as serious enough to dedicate time from their work schedules to seek help, this highlights an important issue regarding the accessibility of seeking help. Some organizations accept telephone or email consultations regarding victimization; however, they may not be widely known. Although this information is available on the organizations’ websites, it may not be broadly disseminated. Additionally, although not yet widespread in Japan, establishing a system for consulting the police or other authorities via live chat could reduce the time and costs associated with seeking help from public institutions. Given that the time required to seek help inhibits help-seeking behavior, it is necessary to restructure the environment.
+
+Concerns specific to male victims and optimism regarding female perpetrators
+
+Reasons with gender-based terms such as “man” and “woman” were found only in men. “Man” primarily indicated a belief that male victims would not receive support even if they consulted, and this was associated with the threatened victim group. Typical cases of sexual assault are more likely to be reported to the police [37, 38], suggesting that the typicality of cases is associated with help-seeking behaviors. In stalking cases, male perpetrators and female victims are considered typical [39]. An overwhelming majority of stalking cases in Japan involve male perpetrators (79.8%) and female victims (87.0%) [8], indicating the typicality. Therefore, male victims did not consult because it was not typical, leading them to believe that they would not be taken seriously if they sought help. It is particularly noteworthy that male victims hesitated to seek help because of their sex, even when experiencing threats from perpetrators, which is a dangerous factor. Regardless of the gender of the perpetrator or victim, there is a risk of violence escalating or worsening the victim’s mental health, even in same-sex cases [40–43]. Thus, although the number of cases involving male victims may be small, it should not be disregarded.
+
+Additionally, “woman” indicated a perception of male victims that there was no danger because the perpetrator was a woman, and they believed they could physically overpower a woman if necessary, reflecting an optimistic view of the harm perpetrated by females. However, while there is no consistent evidence regarding gender differences in stalkers’ violent tendencies [43–46], some studies have reported that women are more likely than men to cause physical harm [47], highlighting the risk posed by female perpetrators.
+
+As male victims held gender-related stereotypes, they may have refrained from consulting with public institutions. As mentioned above, the gender role stereotype that men are strong and women are weak may lead them to believe that female perpetrators are not dangerous and that men should not seek help.
+
+Traditional Japanese thinking may influence the formation of such stereotypes. In 1898, the patriarchal system was institutionalized in Japan. This system entrusted the management of land and ancestral worship to the eldest son while excluding other children from the household. It also allowed husbands to control their wives’ property, creating a system where men dominated women [48]. Although this system was abolished in 1947, such traditional thinking is believed to persist among the Japanese population. Additionally, Japanese people have been strongly influenced by Confucian ideals, which dictate that women should obey their fathers before marriage, their husbands after marriage, and their children after their husbands’ death. This traditional thinking is said to influence the formation of stereotypes that place men above women [48].
+
+Moreover, Japanese research on gender role stereotypes has found that “strong” is associated with men and “dependent” with women [49], suggesting the influence of traditional thinking. These findings indicate that contemporary Japanese people still hold gender role stereotypes that men are stronger and women are more dependent and weaker. Consequently, men may believe they must be strong and that relying on others is unmanly, leading male victims to hesitate to seek help from public institutions even if they experience stalking. Additionally, owing to a consciousness of hierarchical relationships between men and women similar to the patriarchal system, male victims may perceive themselves as being in a stronger position, especially when the perpetrator is a woman, and thus may be prone to underestimating the risk.
+
+Therefore, it is necessary to focus on addressing these issues to encourage help-seeking behaviors. For example, emphasizing that men are also vulnerable to victimization and that the police will respond impartially regardless of the victim’s gender. Additionally, it may be beneficial to raise awareness that female perpetrators pose similar risks as male perpetrators and may use weapons, such as knives, to cause physical harm. Given that gender-related stereotypes are commonly observed in the general population [33], it is essential to include education aimed at dispelling these stereotypes during the training of new police officers to ensure fair treatment.
+
+Limitations
+
+This study had several limitations. This study aimed to identify barriers to help-seeking behavior; therefore, it only investigated reasons why stalking victims did not seek help from public institutions and did not address reasons for seeking help. By clarifying the reasons for seeking help, it could potentially provide a clearer understanding of the motivations of stalking victims in seeking assistance and their specific needs from relevant agencies. This remains a topic for future research.
+
+The text mining method used in this study analyzed data based on frequently occurring terms, focusing on representative terms and specific examples without considering the context of all cases. In other words, individual cases beyond commonly used words could not be analyzed in detail. In addition, because the analysis was based on frequently occurring terms, instances expressed differently were excluded. Therefore, the detailed individual characteristics of the cases were not addressed, and the findings only provided hypothetical insights into broad trends.
+
+Furthermore, because the interpretation was based on the relevance of frequently occurring terms, the fragmented interpretation might not have completely grasped why victims did not consult public institutions. To fully understand the overall picture and process of reasons for not consulting, it is necessary to break down the elements involved and seek responses for each in a free-text format, for example, through chronological categorization. To promote help-seeking behavior among stalking victims and devise effective measures to prevent further harm, it is necessary to generate hypotheses from the current findings and conduct hypothesis-testing research in the future.
+
+Conclusion
+
+This study aimed to understand why stalking victims do not consult public institutions. A quantitative analysis of the qualitative data, obtained through free-text responses, was conducted using text mining and hierarchical cluster analysis to capture their content. Furthermore, we examined how the severity of victimization was related to various factors using a co-occurrence network analysis. The common reasons that emerged for both men and women included low-risk perception, desire for an amicable resolution, distrust of public institutions, concerns about worsening the situation through consultation, and embarrassment about seeking help. Additionally, among male victims, in addition to a lack of time, concerns about not being taken seriously even if they were consulted, and a perception that a female perpetrator was not dangerous were identified, suggesting reasons stemming from gender stereotypes. While previous studies examining factors influencing help-seeking behaviors of victims of crime often focused on sexual victimization or IPV for female victims, this study highlights the reasons why victims who were only stalked or stalked with threats and physical attacks did not consult, revealing different reasons associated with these victimization types. Moreover, the identification of gender stereotype-related reasons among male victims, which would have been impossible without comparing men and women, provides valuable insights.
+
+Electronic supplementary material
+
+Below is the link to the electronic supplementary material.
+
+Supplementary Material 1
+
+Supplementary Material 2
+
+Acknowledgements
+
+I would like to thank Editage (www.editage.com) for English language editing and journal submission support.
+
+Abbreviations
+
+Intimate partner violence
+
+Key Word in Context
+
+Standard deviation
+
+Global positioning system
+
+Author contributions
+
+TS performed the conceptualization and design of the research; data collection and analysis; and writing and editing of the manuscript.
+
+Funding
+
+This study was supported by JSPS KAKENHI (Grant Number: 24K16832). The funding agency had no role in the conceptualization, design, data collection, analysis, decision to publish, or preparation of the manuscript.
+
+Data availability
+
+The datasets generated and/or analyzed during this study are not publicly available due to the inclusion of specific free-text responses but are available from the corresponding author on reasonable request.
+
+Declarations
+
+Ethics approval and consent to participate
+
+This study was approved by the Research Ethics Committee of the University of Toyama (Approval No.: 031). Informed consent was obtained from all participants involved in the study.
+
+Consent for publication
+
+Not applicable.
+
+Competing interests
+
+The authors declare no competing interests.
+
+Footnotes
+
+Publisher’s note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+References
+
+Associated Data
+
+Supplementary Materials
+
+Data Availability Statement

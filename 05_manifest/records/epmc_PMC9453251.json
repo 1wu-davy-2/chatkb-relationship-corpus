@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9453251",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Darwin's sexual selection hypothesis revisited: Musicality increases sexual attraction in both sexes.",
+  "authors": "Marin MM, Rathgeber I.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2022.971988",
+  "pmcid": "PMC9453251",
+  "url": "https://europepmc.org/article/PMC/PMC9453251",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9453251/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "A number of theories about the origins of musicality have incorporated biological and social perspectives. Darwin argued that musicality evolved by sexual selection, functioning as a courtship display in reproductive partner choice. Darwin did not regard musicality as a sexually dimorphic trait, paralleling evidence that both sexes produce and enjoy music. A novel research strand examines the effect of musicality on sexual attraction by acknowledging the importance of facial attractiveness. We previously demonstrated that music varying in emotional content increases the perceived attractiveness and dating desirability of opposite-sex faces only in females, compared to a silent control condition. Here, we built upon this approach by presenting the person depicted (target) as the performer of the music (prime), thus establishing a direct link. We hypothesized that musical priming would increase sexual attraction, with high-arousing music inducing the largest effect. Musical primes (25 s, piano solo music) varied in arousal and pleasantness, and targets were photos of other-sex faces of average attractiveness and with neutral expressions (2 s). Participants were 35 females and 23 males (heterosexual psychology students, single, and no hormonal contraception use) matched for musical background, mood, and liking for the music used in the experiment. After musical priming, females' ratings of attractiveness and dating desirability increased significantly. In males, only dating desirability was significantly increased by musical priming. No specific effects of music-induced pleasantness and arousal were observed. Our results, together with other recent empirical evidence, corroborate the sexual selection hypothesis for the evolution of human musicality.",
+  "raw_path": "01_raw/europepmc_xml/PMC9453251.xml",
+  "text_path": "02_text/europepmc/PMC9453251.txt",
+  "raw_bytes": 153249,
+  "text_chars": 54682,
+  "raw_sha256": "0483d40a3bd0ab92524ed5a2e4bf6fc3f42db3637e4c43eb1eb1c923ad5375c0",
+  "text_sha256": "b1cd0993fa888a7707b293e9d1bd35c62195dfc3309a8ad211fc587bd6100f42",
+  "retrieved_at": "2026-10-25T15:40:49.244601+00:00"
+}

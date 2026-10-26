@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13002858",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mind over matter? The cognitive styles of scientific scepticism and paranormal belief.",
+  "authors": "Dagnall N, Denovan A, Murphy-Morgan C, Drinkwater KG, Powell D, Neave N.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1699045",
+  "pmcid": "PMC13002858",
+  "url": "https://europepmc.org/article/PMC/PMC13002858",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13002858/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "paranormal_belief"
+  ],
+  "abstract": "Scientific scepticism, as an epistemic orientation, remains under-researched. This study investigated the interplay between belief in science, supernatural credence, and cognitive processing styles in a sample of 300 participants ( M age = 45.95, SD = 14.32). Traditional (TPB) and New Age (NAP) paranormal beliefs correlated positively with intuitive-experiential measures and negatively with analytical-rational processing indices. Belief in Science showed the inverse pattern of relationships. Latent Profile Analysis (LPA) identified two distinct subgroups: Higher Evidence-based Thinking (HET; 55%), defined by high scientific and low paranormal belief, and Lower Evidence-based Thinking (LET; 45%), characterized by low scientific and high paranormal belief. HET (vs. LET) participants demonstrated significantly greater analytical-rational and lower intuitive-experiential processing. Cognitive rigidity (dogmatism and need for closure) did not differentiate between profiles, suggesting these are belief-neutral characteristics of strongly held convictions. Findings indicated that scientific and paranormal beliefs represent oppositional worldviews associated with distinct, preferred modes of information processing.",
+  "raw_path": "01_raw/europepmc_xml/PMC13002858.xml",
+  "text_path": "02_text/europepmc/PMC13002858.txt",
+  "raw_bytes": 156775,
+  "text_chars": 49797,
+  "raw_sha256": "bb2f972d34e9cfc9803db90051fd8ac88a1302d28b6ff806597fdf1f8b8a2df6",
+  "text_sha256": "f35400e1d44a84dbb1094c9f7ac6a27257bb86b3f91d48e2d5e608940b0c5d8f",
+  "retrieved_at": "2026-10-26T13:26:57.535727+00:00"
+}

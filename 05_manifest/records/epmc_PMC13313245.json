@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13313245",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship satisfaction change among UK service personnel: Associations with socio-demographics, military factors, and mental health.",
+  "authors": "Scalco G, Fear NT, Burdett H, Gribble R.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1080/08995605.2025.2527440",
+  "pmcid": "PMC13313245",
+  "url": "https://europepmc.org/article/PMC/PMC13313245",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13313245/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "The unique demands of military life can adversely impact romantic relationships; however, research has mainly focused on these adverse outcomes at one-time point, overlooking changes over time or potential positive outcomes. Using a subsample of 3,845 male and female military personnel and veterans from a large UK dataset, this study examined positive and negative changes in relationship satisfaction between two-time points (2007-2009; 2014-2016). Most participants reported no change in their relationship satisfaction, suggesting stability - 8% reported a positive change and 10% a negative change. Positive change was associated with being in a long-term relationship, alcohol misuse remission, and persistent alcohol misuse. Negative change was associated with the onset of mental health problems (probable PTSD, CMD, or alcohol misuse) and having children under 18. Some factors, like increasing age, childhood family relationship adversity, and mental health problems, were associated with both positive and negative changes in relationship satisfaction. This study highlights the complexity of factors associated with relationship satisfaction among military personnel and veterans, with some experiencing positive changes, as well as negative changes over time.",
+  "raw_path": "01_raw/europepmc_xml/PMC13313245.xml",
+  "text_path": "02_text/europepmc/PMC13313245.txt",
+  "raw_bytes": 155738,
+  "text_chars": 39696,
+  "raw_sha256": "4d4d92849e657f8c4802ab425e93722453a615e237ee77f1dbe9b9dac4759cfe",
+  "text_sha256": "fe3d09405db160b5664998c2277260450fb355890ba52749f342421568010280",
+  "retrieved_at": "2026-10-25T15:45:56.312929+00:00"
+}

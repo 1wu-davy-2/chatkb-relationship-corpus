@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12058819",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Nature, Taxonomy, and Contingencies of Intimate Relationship Problems.",
+  "authors": "Apostolou M, Katsaris L, Kagialis A, Constantinidou L.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s12110-025-09489-7",
+  "pmcid": "PMC12058819",
+  "url": "https://europepmc.org/article/PMC/PMC12058819",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12058819/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "Intimate relationships are frequently characterized by problems, which the current research aimed to identify. We first proposed an evolutionary theoretical framework to understand the nature of intimate relationship problems. Subsequently, we employed a mixed-methods approach to identify these problems. In particular, Study 1 used a combination of qualitative research methods on a sample of 258 Greek-speaking participants and identified 153 relationship problems. Study 2 used quantitative research methods on a sample of 783 Greek-speaking participants and classified them into 14 broader categories. The most common problems were a poor sex life, followed by incompatibility and neglect. Other common problems included a partner's bad character, fear of abandonment, and lack of shared fun and recreation. Lack of loyalty and respect, disagreement over family planning, and privacy invasion were the least common problems in our sample. Both sexes reported similar problems, while the length of the relationship was not significantly associated with the presence of different relationship problems. Additionally, participants' age, children, cohabitation, and relationship status were associated with some of the identified relationship problems.",
+  "raw_path": "01_raw/europepmc_xml/PMC12058819.xml",
+  "text_path": "02_text/europepmc/PMC12058819.txt",
+  "raw_bytes": 133022,
+  "text_chars": 53574,
+  "raw_sha256": "d0fc0e7c40f25a36a4b6dd516e82f2669b13215298f3ed52e69c604ba3249998",
+  "text_sha256": "2f4bd6f499f155f6309e03d43858b79b47d93a56f529fd6fa16c9ff9cf22333c",
+  "retrieved_at": "2026-10-25T15:40:24.705297+00:00"
+}

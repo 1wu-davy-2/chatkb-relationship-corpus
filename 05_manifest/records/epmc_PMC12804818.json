@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12804818",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Smelling the romantic partner's natural body odor increases psychological and autonomic but not cortisol stress responses.",
+  "authors": "Spengler FB, Doerflinger JT, Noel JA, Ditzen B, Freiherr J, Heinrichs M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1038/s41598-025-27639-w",
+  "pmcid": "PMC12804818",
+  "url": "https://europepmc.org/article/PMC/PMC12804818",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12804818/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "While social support from romantic partners is known to ameliorate stress responses, it remains unclear whether perceiving a partner’s body odor can elicit similar stress-buffering effects. In this study, 179 participants living in heterosexual romantic relationships underwent either the Trier Social Stress Test (TSST) or a non-stressful control condition while being exposed to their partner’s body odor (collected under standardized conditions over five consecutive nights) or a neutral, non-social control odor presented via an olfactometer. The partner’s odor had no effect on cortisol release. However, contrary to previous findings, subconsciously smelling one’s own partner increased subjective stress and heart rates. Potential underlying mechanisms include the causal misattribution of attraction-related, arousal-induced heart rate increases to the stressful experimental situation, or an evolutionarily adaptive mechanism that amplifies stress responses when a loved one is potentially involved in the threatening situation.",
+  "raw_path": "01_raw/europepmc_xml/PMC12804818.xml",
+  "text_path": "02_text/europepmc/PMC12804818.txt",
+  "raw_bytes": 145025,
+  "text_chars": 53120,
+  "raw_sha256": "43ca00c6e53f96c76779a0b0d7c3296e510c6dd2cc80b17427bd9785fa95a882",
+  "text_sha256": "c80aadd27e28213b052a7db28048f4fa334f2fa3edd04f1c3a23d6394b0fc2b8",
+  "retrieved_at": "2026-10-25T13:56:13.452511+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5459277",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Predictors of intention to marriage based on theory of planned behavior among university students in Iran.",
+  "authors": "Shahrabadi R, Karimi-Shahanjarini A, Dashti S, Soltanian A, Garmaroudi G.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.19082/4090",
+  "pmcid": "PMC5459277",
+  "url": "https://europepmc.org/article/PMC/PMC5459277",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5459277/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_attitudes"
+  ],
+  "abstract": "Introduction Marriage is a social capital in society, so that makes the behavioral and social stability of parents and children in a generation, productive. Various factors can affect the intention of marriage, including individual, economic, social and cultural factors. The present study aimed to determine predictors of university students' intention to marriage based on the theory of planned behavior (TPB). Methods This cross-sectional study was performed among 192 single students (Master and PhD students with five to seven years of dentistry and medicine) in Hamadan, in 2014. The samples in this study were selected through convenient sampling. The data collection tools were demographic and TPB questionnaires. A questionnaire based on the TPB model was used in order to assess attitude toward behavior, subjective norms, perceived behavioral control, and intention. Data were analyzed by using SPSS16 and descriptive indexes, independent-samples t-test, One-way ANOVA and multivariate linear regression at 95% significant level. Results The results showed that attitudes toward marriage (β=0.217; p=0.001), subjective norms (β=0.366; p Conclusion Results indicated that strategies to improve the intention of marriage can include: expression of psychological needs such as having a companion, the importance of responsibility, society attitude of marriage, parents and marriage, the importance of the decision-making power and job position.",
+  "raw_path": "01_raw/europepmc_xml/PMC5459277.xml",
+  "text_path": "02_text/europepmc/PMC5459277.txt",
+  "raw_bytes": 58758,
+  "text_chars": 15245,
+  "raw_sha256": "e9d10dba960443ceb11912c5503d00d1344b3ce123926bea59386b55bc8cab86",
+  "text_sha256": "52fcb4c56cd0a5f9aa4ecea4987b85be5783ea665dfcd5caf7446026b3e86709",
+  "retrieved_at": "2026-10-25T15:37:48.843667+00:00"
+}

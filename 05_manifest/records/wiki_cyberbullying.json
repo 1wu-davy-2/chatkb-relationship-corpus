@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_cyberbullying",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "網路霸凌",
+  "requested_title": "网络霸凌",
+  "url": "https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E9%9C%B8%E5%87%8C",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 網路霸凌",
+  "topics": [
+    "safety",
+    "online"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/cyberbullying.json",
+  "text_path": "02_text/zh_wikipedia/cyberbullying.txt",
+  "raw_bytes": 8417,
+  "text_chars": 3194,
+  "text_sha256": "789d71036ecef120400a022325a4b973bcda260f146b1d9dfda7a699fe9c56b1",
+  "retrieved_at": "2026-10-25T16:30:32.221552+00:00"
+}

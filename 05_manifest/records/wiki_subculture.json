@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_subculture",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "次文化",
+  "requested_title": "亚文化",
+  "url": "https://zh.wikipedia.org/wiki/%E6%AC%A1%E6%96%87%E5%8C%96",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 次文化",
+  "topics": [
+    "culture"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/subculture.json",
+  "text_path": "02_text/zh_wikipedia/subculture.txt",
+  "raw_bytes": 14193,
+  "text_chars": 5411,
+  "text_sha256": "1746e0834a946e20714fe4ebc1b5af20d31301c04083a3bf6c80511d8061e2cd",
+  "retrieved_at": "2026-10-25T16:28:23.450222+00:00"
+}

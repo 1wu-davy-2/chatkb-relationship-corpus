@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10367382",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Social participation, psychological resilience and depression among widowed older adults in China.",
+  "authors": "Li X, Ge T, Dong Q, Jiang Q.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1186/s12877-023-04168-7",
+  "pmcid": "PMC10367382",
+  "url": "https://europepmc.org/article/PMC/PMC10367382",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10367382/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Background Depression has become a challenging public health problem, and the loss of a spouse is one of the main causes of depression in older adults. Social participation and psychological resilience are protective factors that reduce depressive symptoms in adults. The purpose of this study was to explore the influences of social participation and psychological resilience on the depression of Chinese widowed older adults. Methods We carried out a cross-sectional study on 790 community-dwelling widowed older adults in Shaanxi, China, in 2019. A structured face-to-face interview was used to collect data. We used the ordinary least squares model (OLS), the generalized propensity score matching (GPSM) and the mediation model to test the relationship between social participation, psychological resilience and depression. Results We find a U-shaped relationship between social participation and depression, with the increase in social participation scores, the average depression level decreased and then increased. The psychological resilience of the widowed older adults was negatively associated with depression. The higher their psychological resilience, the lower their depression level. Among the four factors of psychological resilience, factor 2 (optimism and positive acceptance of change) and factor 3 (secure relationships and tolerance of negative affect) of psychological resilience were protective factors for depression after adjusting for demographic variables and physical health conditions. Psychological resilience plays a mediating role, as evident in factor 2 and factor 3 mediating the relationship between social participation and depression. Conclusion An appropriate level of social participation will relieve the depression of widowed older adults. Social participation can reduce the depression level of widowed older adults by improving their psychological resilience. Community and family could reduce depression by intervening in the social participation of widowed older adults. Active social participation is crucial because it has a protective and resilient impact, which can help people recover from the stress of losing a spouse.",
+  "raw_path": "01_raw/europepmc_xml/PMC10367382.xml",
+  "text_path": "02_text/europepmc/PMC10367382.txt",
+  "raw_bytes": 145752,
+  "text_chars": 33322,
+  "raw_sha256": "a45c058d5fec2eccaace33529cdf3347f6ce5eb551ce45406857c99ce3f875c5",
+  "text_sha256": "9dd1e4060661223a9daf4f826d3ea9f8ee9bfee320342c054be3d2afcca58c17",
+  "retrieved_at": "2026-10-25T15:42:17.834088+00:00"
+}

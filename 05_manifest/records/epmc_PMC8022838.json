@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8022838",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Role of Relational Entitlement, Self-Disclosure and Perceived Partner Responsiveness in Predicting Couple Satisfaction: A Daily-Diary Study.",
+  "authors": "Candel OS, Turliuc MN.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2021.609232",
+  "pmcid": "PMC8022838",
+  "url": "https://europepmc.org/article/PMC/PMC8022838",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8022838/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_disclosure"
+  ],
+  "abstract": "Recent research has investigated how the sense of relational entitlement (SRE, the extent to which a person expects that his/her needs and wishes will be fulfilled by the romantic partner) diminishes couple satisfaction, but little is known about how SRE affects the daily quality of close, romantic relationships. Moreover, the evidence on how SRE interacts with other features of a satisfying relationship (such as the variables of the interpersonal process model of relationships-self-disclosure, perceived partner disclosure, and perceived partner responsiveness) is scarce. Using an electronic daily diary, we examined 99 couples (198 participants) for 7 days, with two daily measurements for each partner. We used a dyadic double intercept multilevel model, which simultaneously computes effects for men and women. We tested a model where one partner's daily couple satisfaction was predicted by their overall levels of SRE (excessive, restricted, and assertive) and by their daily and overall levels of self-disclosure, perceived partner self-disclosure, and perceived partner responsiveness. The model also included person-level interactions and cross-level interactions between the SRE types and variables of the interpersonal process model of relationships for each gender. The analysis indicated that person-level excessive SRE lowers couple satisfaction. Also, day and person-level perceived partner responsiveness and person-level self-disclosure are related to couple satisfaction, but the latter association is significant only for men. Finally, we found some significant person-level interactions that account for changes in couple satisfaction. For men, the links between couple satisfaction, excessive and restricted SRE were moderated by self-disclosure and perceived partner responsiveness, respectively, perceived partner self-disclosure and perceived partner responsiveness. For women, the associations between couple satisfaction, restricted and assertive SRE were moderated by self-disclosure, respectively, perceived partner self-disclosure. This study advances our understanding of the general implications of SRE in the dynamics of couple relationships. More specifically, it shows how SRE interacts with other couple-specific variables in shaping day-to-day couple satisfaction. The theoretical and clinical implications for couple therapy are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC8022838.xml",
+  "text_path": "02_text/europepmc/PMC8022838.txt",
+  "raw_bytes": 172736,
+  "text_chars": 58625,
+  "raw_sha256": "7ee61cd16e5e785981f041d88b38b96d21f32167c14ed5fcf934207f3cc47be3",
+  "text_sha256": "5d633f2168dbe337f617ed4b9c29d5984b2ebea7de6366b1150d32b42e3adff1",
+  "retrieved_at": "2026-10-25T14:01:54.130343+00:00"
+}

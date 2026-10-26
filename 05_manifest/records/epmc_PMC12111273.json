@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12111273",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Attachment Type, Relationship Characteristics, and Sexual Function of Women: Insights from a Cross-Sectional Analysis.",
+  "authors": "Kokka I, Sotiropoulou P, Mourikis I.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/ijerph22050794",
+  "pmcid": "PMC12111273",
+  "url": "https://europepmc.org/article/PMC/PMC12111273",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12111273/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_function_dysfunction"
+  ],
+  "abstract": "Background Research has underscored that the attachment type could explain the association between sexual behavior and relational satisfaction. This study aimed to explore the relationship between attachment type, sexual function, and relationship characteristics of adult women. Methods This cross-sectional study included an a priori calculated sample of 304 women, who completed the Female Sexual Function Index, the Relationship Assessment Scale, and the Experiences in Close Relationships-Revised Scale. Results Women with anxious attachment types reported higher levels of sexual arousal, orgasm, and satisfaction compared to other types, suggesting that emotional insecurity may intensify sexual intimacy within relationships. Overall, relational satisfaction was positively associated with various aspects of sexual function, particularly arousal and orgasmic function. Specifically, anxious attachment was associated with higher levels of sexual arousal, orgasm, and overall satisfaction, emphasizing the impact of relational dynamics on sexual well-being. Conclusions The findings of this study highlight the significant role of attachment patterns and relational satisfaction in shaping women's sexual function and experiences. The results suggest that therapeutic interventions aiming at the improvement of women's sexual health should consider both attachment type and relational satisfaction as these factors are integral to the quality of sexual experience.",
+  "raw_path": "01_raw/europepmc_xml/PMC12111273.xml",
+  "text_path": "02_text/europepmc/PMC12111273.txt",
+  "raw_bytes": 158878,
+  "text_chars": 31095,
+  "raw_sha256": "0c1196cbfff35db1987dd9b951df838675feebce85d578ec914437fb1165ba72",
+  "text_sha256": "fae925af20804dcf2f5697ef1eeefc8c344cd4f9e58c6b4afad57b19e5799085",
+  "retrieved_at": "2026-10-26T13:05:38.265663+00:00"
+}

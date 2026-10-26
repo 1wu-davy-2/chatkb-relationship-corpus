@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11719992",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Opening Pandora's Box: Exploring Body Image Perceptions and Influencing Factors in Women-An Interpretative Phenomenological Analysis.",
+  "authors": "Adamidou K, Tragantzopoulou P.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/healthcare13010015",
+  "pmcid": "PMC11719992",
+  "url": "https://europepmc.org/article/PMC/PMC11719992",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11719992/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "body_image"
+  ],
+  "abstract": "Background/Objectives : Body dissatisfaction among women has been on the rise, prompting an urgent need to understand the underlying factors influencing their body image. This study explores the perceptions and influencing factors of body image among women in Greek society. Methods : Six in-depth interviews were conducted and analyzed using Interpretative Phenomenological Analysis. Results : The findings reveal that negative comments from parents and romantic partners, pregnancy, and peer influences are key factors affecting women's perceptions about their body. Body dissatisfaction was primarily driven by social media and a desire to feel attractive to the opposite gender, leading to extreme behaviors such as excessive exercise, low-calorie intake, and surgical procedures. The aspiration to undergo cosmetic surgeries was significantly influenced by social media portrayals of beauty. On the one hand, the ideal physique for women was characterized by curves and toned muscles, but on the other hand, women described the ideal self as being reconciled with their bodies and less self-critical. Conclusions : This study highlights the complex interplay of personal relationships and societal pressures in shaping women's body image and underscores the need for more qualitative research in this area. Understanding these dynamics is crucial for developing interventions to mitigate the negative physical and mental health repercussions associated with body dissatisfaction.",
+  "raw_path": "01_raw/europepmc_xml/PMC11719992.xml",
+  "text_path": "02_text/europepmc/PMC11719992.txt",
+  "raw_bytes": 152359,
+  "text_chars": 60958,
+  "raw_sha256": "f02c5c225f275db6f5e5c9b4aca98fc2a8e8944a290f239029e3b9b5d053d23a",
+  "text_sha256": "e1bbcc300ded15cf0b4b576389f29ae2210a7f017a4b8220b902f0e5d2a6c2ab",
+  "retrieved_at": "2026-10-25T15:32:11.543416+00:00"
+}

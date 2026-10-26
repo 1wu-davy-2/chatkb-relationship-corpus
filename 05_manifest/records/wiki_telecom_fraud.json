@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_telecom_fraud",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "电信诈骗",
+  "requested_title": "电信诈骗",
+  "url": "https://zh.wikipedia.org/wiki/%E7%94%B5%E4%BF%A1%E8%AF%88%E9%AA%97",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "scam",
+    "fraud"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/telecom_fraud.json",
+  "text_path": "02_text/zh_wikipedia/telecom_fraud.txt",
+  "raw_bytes": 11125,
+  "text_chars": 3989,
+  "text_sha256": "b09093eebcb8c43c93bf83cc73522e54d183c0c29dafce24c8d7b46ab6460b67",
+  "retrieved_at": "2026-10-25T15:38:16.831007+00:00"
+}

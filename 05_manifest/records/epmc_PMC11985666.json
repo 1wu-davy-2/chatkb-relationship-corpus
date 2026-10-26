@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11985666",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marriage and Steady Relationships with Women in Men Who Have Sex with Men in Sub-Saharan Africa: A Mixed-Method Systematic Review and Meta-analyses.",
+  "authors": "Fiorentino M, Gravier-Dumonceau Mazelier R, Yanwou N, Eubanks A, Roux P, Laurent C, Spire B.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10461-024-04517-6",
+  "pmcid": "PMC11985666",
+  "url": "https://europepmc.org/article/PMC/PMC11985666",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11985666/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "family_pressure"
+  ],
+  "abstract": "High HIV prevalence in Sub-Saharan African (SSA) in men who have sex with men (MSM) leads to greater risk for their wives and other steady female partners because of prolonged exposure. To provide insights into the context possibly contributing to the risk of HIV transmission from MSM to women, our mixed-method synthesis about MSM' marriage and steady relationships with cisgender women aimed to: (i) assess the extent of engagement in steady relationships with women and in risky behaviors with these women across SSA's four regions; (ii) explore the underlying dynamics within these relationships by gathering qualitative information. We used quantitative and qualitative data specifically pertaining to related to marriage or other steady relationships with women from a systematic review on men who have sex with both men and women (MSMW) in SSA (PROSPERO-CRD42021237836). Meta-analyses were performed on quantitative data for each region. Pooled proportions were calculated using random-effects models. Qualitative data were analyzed using thematic synthesis. Data were selected from 125 studies. For Southern, East and West Africa, the estimated pooled proportions of married MSM were 4% (95% CI 2-8%; n = 10 studies; 4183 MSM), 8% (6-11%; 19; 7070), and 7% (6-9%; 13; 4705). In Southern Africa, 29% (11-56%; 5; 1667) of MSM had steady female partners. In East Africa, 34% (14-61%; 5; 2003) were currently or previously married to women. Motives to marry women included a desire to have children, and to conform to heteronormative social norms and family pressure. Marriage was seen as a means to discontinue homosexual behaviors or, conversely, a way to secretly continue same-sex behaviors more freely. Procreative intentions and a desire for secrecy often deterred MSM from using HIV prevention methods with their wives. For some MSM, steady relationships with women provided them with mutual support. However, these relationships could also lead to stressful and conflict-ridden situations, potentially resulting in psychosocial and HIV-related risks for the MSM as well as their male and steady female partners. Steady relationships with women are common in MSM in SSA. Sexuality concealment strategies with steady female partners depend on the circumstances that lead MSM to enter into these relationships, and have various implications on sexual behaviors with both male and female partners. Community-based support, HIV research, prevention, and care programs should be adapted to MSM's different life situations to reduce direct HIV transmission risk to steady female partners.",
+  "raw_path": "01_raw/europepmc_xml/PMC11985666.xml",
+  "text_path": "02_text/europepmc/PMC11985666.txt",
+  "raw_bytes": 525530,
+  "text_chars": 89223,
+  "raw_sha256": "955258c5e186bd47e967ea937a71542638aa6dd5291e8ccab7dadcf743458a67",
+  "text_sha256": "0d58faf633a27743a4efac9f975a210bf0130fdb80b90a1fd4268b24e5be46ce",
+  "retrieved_at": "2026-10-25T13:49:59.709016+00:00"
+}

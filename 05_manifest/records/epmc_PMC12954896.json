@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12954896",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Well-being in romantic relationships: the role of motivation and conflict engagement.",
+  "authors": "Gallo M, Liga F, Cuzzocrea F, Gugliandolo MC.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-04103-6",
+  "pmcid": "PMC12954896",
+  "url": "https://europepmc.org/article/PMC/PMC12954896",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12954896/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "Relationship science emphasises that most people desire romantic relationships. Self-determination theory provides a theoretical approach that can capture the variety of motivations potentially underlying the pursuit of romantic relationships. Within this framework, couple and sexual motivations can help us to understand why people are in relationships, what motivates them to stay together and what can increase the risk of conflict. Indeed, how couples manage conflict can explain personal and couples' well-being within close relationships. Grounded in self-determination theory, a Structural Equation Model was tested to investigate the role of couple and sexual motivation by both partners in associating couple and individual well-being by both. We also examined whether conflict engagement played an intervening role in associations of motivation with well-being. 402 heterosexual young adult couples, aged 20 to 30, who had been in a stable relationship for between 1 and 5 years, participated in the study via a snowball recruitment technique. Using the Actor Partner Interdependence Model (APIM), results showed that couple motivation in both partners is positively related to their own couple and individual well-being. Female sexual motivation is positively related to their own individual well-being. An indirect association is found in both partners between couple motivation and individual well-being through the mediation of conflict engagement. In line with SDT, motivation emerges as a critical factor in the promotion of both individual and couple well-being and in the adoption of functional conflict resolution strategies. The theoretical and practical implications of the findings for future research and interventions are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC12954896.xml",
+  "text_path": "02_text/europepmc/PMC12954896.txt",
+  "raw_bytes": 178205,
+  "text_chars": 60016,
+  "raw_sha256": "df44447b95e1aa02d16c27aafbd60141c260c94b413da48c411c890e7958f30c",
+  "text_sha256": "15b602e0d7415bb1aff1328b1c1bc969fa3bf62441b11a70c3fb395126691be3",
+  "retrieved_at": "2026-10-25T13:47:22.862542+00:00"
+}

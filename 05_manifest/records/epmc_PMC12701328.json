@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12701328",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"You lose the person; they're still there but you don't recognize them\": A qualitative study examining the consequences of conspiracy beliefs for romantic partners.",
+  "authors": "Kamitz LC, Green R, Rowden C, Toribio-Flórez D, Biddlestone M, Douglas KM.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/bjso.70033",
+  "pmcid": "PMC12701328",
+  "url": "https://europepmc.org/article/PMC/PMC12701328",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12701328/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "This study examined how conspiracy beliefs influence romantic relationships. We conducted semi-structured interviews with 17 partners (or ex-partners) of conspiracy believers, asking questions about their experiences in their relationships. A thematic analysis generated several key themes. Specifically, participants described how their partner's beliefs led to relational strain in the form of conflict and communication breakdown, which was tied to the psychosocial death of the partner and the relationship. There were several negative effects on participants, as their partner's beliefs not only affected their relationship dynamic but also took a psychological and physical toll on the participants themselves. Sense-making became important as participants tried to understand their partner's beliefs. Ultimately, most relationships deteriorated, and many ended, though some remained intact due to financial or emotional barriers. During this process, participants reported seeking support and started to navigate endings in the case of relationship dissolution. These findings extend current knowledge on the consequences of conspiracy theories for interpersonal relationships, suggesting that they pose significant barriers to successful romantic attachments.",
+  "raw_path": "01_raw/europepmc_xml/PMC12701328.xml",
+  "text_path": "02_text/europepmc/PMC12701328.txt",
+  "raw_bytes": 164165,
+  "text_chars": 69067,
+  "raw_sha256": "eeaf9d5e474d08959d1f78cf9bcd8067d60d326a2910d8e1b166bf6bd08c17d5",
+  "text_sha256": "af383b0f6ffef00bbf43556b45ac494773712ca9d837d7160e48160828820336",
+  "retrieved_at": "2026-10-25T15:39:48.281501+00:00"
+}

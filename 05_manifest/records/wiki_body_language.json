@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_body_language",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "肢体语言",
+  "requested_title": "肢体语言",
+  "url": "https://zh.wikipedia.org/wiki/%E8%82%A2%E4%BD%93%E8%AF%AD%E8%A8%80",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "nonverbal",
+    "communication"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/body_language.json",
+  "text_path": "02_text/zh_wikipedia/body_language.txt",
+  "raw_bytes": 4006,
+  "text_chars": 1479,
+  "text_sha256": "914fd54bc39a74d4cda1c7fc80ed355838dde42c4586b99f72bbd846b00b1672",
+  "retrieved_at": "2026-10-25T15:30:33.042304+00:00"
+}

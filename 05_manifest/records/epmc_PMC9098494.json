@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9098494",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Rapid evolution of an adaptive taste polymorphism disrupts courtship behavior.",
+  "authors": "Wada-Katsumata A, Hatano E, McPherson S, Silverman J, Schal C.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1038/s42003-022-03415-8",
+  "pmcid": "PMC9098494",
+  "url": "https://europepmc.org/article/PMC/PMC9098494",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9098494/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "The evolution of adaptive behavior often requires changes in sensory systems. However, rapid adaptive changes in sensory traits can adversely affect other fitness-related behaviors. In the German cockroach, a gustatory polymorphism, 'glucose-aversion (GA)', supports greater survivorship under selection with glucose-containing insecticide baits and promotes the evolution of behavioral resistance. Yet, sugars are prominent components of the male's nuptial gift and play an essential role in courtship. Behavioral and chemical analyses revealed that the saliva of GA females rapidly degrades nuptial gift sugars into glucose, and the inversion of a tasty nuptial gift to an aversive stimulus often causes GA females to reject courting males. Thus, the rapid emergence of an adaptive change in the gustatory system supports foraging, but it interferes with courtship. The trade-off between natural and sexual selection under human-imposed selection can lead to directional selection on courtship behavior that favors the GA genotype.",
+  "raw_path": "01_raw/europepmc_xml/PMC9098494.xml",
+  "text_path": "02_text/europepmc/PMC9098494.txt",
+  "raw_bytes": 105801,
+  "text_chars": 57468,
+  "raw_sha256": "fc0b204fa1453bb38d1450958096b99b6b9a9ed69f7ddb7079eb25483e9b614f",
+  "text_sha256": "41eeb517383d1a878be4e323cab93953d1e45e7aa41287f9804925c65185263a",
+  "retrieved_at": "2026-10-25T15:43:55.248650+00:00"
+}

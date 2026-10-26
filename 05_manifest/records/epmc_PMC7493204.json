@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7493204",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Jealousy as a Function of Rival Characteristics: Two Large Replication Studies and Meta-Analyses Support Gender Differences in Reactions to Rival Attractiveness But Not Dominance.",
+  "authors": "Pollet TV, Saxton TK.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1177/0146167220904512",
+  "pmcid": "PMC7493204",
+  "url": "https://europepmc.org/article/PMC/PMC7493204",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7493204/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Jealousy is a key emotion studied in the context of romantic relationships. One seminal study (Dijkstra, P., & Buunk, B. (1998). Jealousy as a function of rival characteristics: An evolutionary perspective. Personality and Social Psychology Bulletin, 24 (11), 1158-1166. https://doi.org/10.1177/01461672982411003) investigated the interactions between a participant's gender and their reactions to the attractiveness or dominance of a romantic rival. In a vignette-based study, it was found that women's jealousy was more responsive than men's to a rival's attractiveness, whereas in contrast, the rival's dominance evoked more jealousy from men than from women. Here, we attempt to replicate these interactions in two samples ( N = 339 and N = 456) and present subsequent meta-analyses (combined N s = 5,899 and 4,038, respectively). These meta-analyses showed a small, significant effect of gender on jealousy provoked by rival attractiveness, but no such response to rival dominance. We discuss the potential reasons for these findings and future directions for research on jealousy and rival characteristics.",
+  "raw_path": "01_raw/europepmc_xml/PMC7493204.xml",
+  "text_path": "02_text/europepmc/PMC7493204.txt",
+  "raw_bytes": 152555,
+  "text_chars": 51293,
+  "raw_sha256": "4c3844e065da0ade4538c8399e4ef85313642ef8e2e72f653dddd0d25c31d310",
+  "text_sha256": "9117ed872b950f782fc055934272a5eb9451b5e5664182b2dcb387152b07493b",
+  "retrieved_at": "2026-10-25T15:46:42.732338+00:00"
+}

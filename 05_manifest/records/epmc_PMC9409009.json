@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9409009",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Behavioral, Neural, and Molecular Mechanisms of Conditioned Mate Preference: The Role of Opioids and First Experiences of Sexual Reward.",
+  "authors": "Quintana GR, Mac Cionnaith CE, Pfaus JG.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3390/ijms23168928",
+  "pmcid": "PMC9409009",
+  "url": "https://europepmc.org/article/PMC/PMC9409009",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9409009/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction_physical"
+  ],
+  "abstract": "Although mechanisms of mate preference are thought to be relatively hard-wired, experience with appetitive and consummatory sexual reward has been shown to condition preferences for partner related cues and even objects that predict sexual reward. Here, we reviewed evidence from laboratory species and humans on sexually conditioned place, partner, and ejaculatory preferences in males and females, as well as the neurochemical, molecular, and epigenetic mechanisms putatively responsible. From a comprehensive review of the available data, we concluded that opioid transmission at μ opioid receptors forms the basis of sexual pleasure and reward, which then sensitizes dopamine, oxytocin, and vasopressin systems responsible for attention, arousal, and bonding, leading to cortical activation that creates awareness of attraction and desire. First experiences with sexual reward states follow a pattern of sexual imprinting, during which partner- and/or object-related cues become crystallized by conditioning into idiosyncratic \"types\" that are found sexually attractive and arousing. These mechanisms tie reward and reproduction together, blending proximate and ultimate causality in the maintenance of variability within a species.",
+  "raw_path": "01_raw/europepmc_xml/PMC9409009.xml",
+  "text_path": "02_text/europepmc/PMC9409009.txt",
+  "raw_bytes": 324734,
+  "text_chars": 72676,
+  "raw_sha256": "1cc2b0e3f6fa961688f7967ac18f661828e2c01ea622d00f3f123d68b71da06a",
+  "text_sha256": "672d189077244ca9f5fe2b612b6f70de5da3679ff2b883f353b9ba7583b07db1",
+  "retrieved_at": "2026-10-25T15:38:34.122608+00:00"
+}

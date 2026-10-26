@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_flirting",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "調情",
+  "requested_title": "调情",
+  "url": "https://zh.wikipedia.org/wiki/%E8%AA%BF%E6%83%85",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 調情",
+  "topics": [
+    "dating",
+    "communication"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/flirting.json",
+  "text_path": "02_text/zh_wikipedia/flirting.txt",
+  "raw_bytes": 2737,
+  "text_chars": 1187,
+  "text_sha256": "f816065a2152653181ef1064411810068d91d0d1ee01ed54c36b2c2fb5d99e50",
+  "retrieved_at": "2026-10-25T16:20:09.876304+00:00"
+}

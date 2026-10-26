@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13026653",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Meeting Prevention Beyond Awareness: A Qualitative Study Exploring Attitudes and Beliefs Towards Dating Violence and Prevention Among Emerging Adults.",
+  "authors": "Saial AC, Faria L, Portugal A, Gouveia ÉR, Campos M, Relvas AP.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/ijerph23030294",
+  "pmcid": "PMC13026653",
+  "url": "https://europepmc.org/article/PMC/PMC13026653",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13026653/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "social_media"
+  ],
+  "abstract": "Dating violence (DV) is an increasingly prevalent phenomenon among emerging adults (aged 18-25 years), and the relationship between awareness and behavior remains poorly understood. This study explores emerging adults' attitudes and beliefs toward DV and summarizes recommendations for designing prevention programs. A qualitative study using three focus groups (n = 16 emerging adults aged 18-25; 56% female) was conducted. Data were collected via semi-structured interviews and analyzed using thematic analysis. Three main themes emerged: (1) gender roles, (2) healthy intimate relationships, and (3) dating violence. Participants demonstrated high awareness of DV types, severity, and prevalence. However, they also exhibited an attitude-behavior inconsistency, reflected in the normalization and excusing of violence, and difficulty recognizing violent situations in their own relationships. Myths of romantic love and cognitive dissonance between general knowledge and personal experience create barriers to recognizing abuse-particularly psychological abuse, which is often confused with concern. Participants suggested integrating prevention strategies into schools and communities, with interventions tailored to their interests and realities (e.g., mobile applications, games and social media awareness campaigns). This study reveals that awareness and knowledge alone are insufficient for prevention. Efforts should shift from a knowledge-focused to a behavior-change approach, promoting emotional regulation, interpersonal skills, and addressing social and gender norms. Relevant implications for practice and preventive intervention design are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC13026653.xml",
+  "text_path": "02_text/europepmc/PMC13026653.txt",
+  "raw_bytes": 199358,
+  "text_chars": 64029,
+  "raw_sha256": "13e41131fd154331a02be6fb6c605faadfe5cb01380d1b3359135c3fe25d1688",
+  "text_sha256": "8f2ba5e38de52af31ede4a0d4c5ddc014b0397545f99d1dbb8d612645b7fb60f",
+  "retrieved_at": "2026-10-25T13:52:44.534233+00:00"
+}

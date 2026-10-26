@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_7029",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Book of Etiquette, Volume II",
+  "gutenberg_id": "7029",
+  "url": "https://www.gutenberg.org/ebooks/7029",
+  "download_url": "https://www.gutenberg.org/cache/epub/7029/pg7029.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/7029.txt",
+  "text_path": "02_text/gutenberg/gut_7029_book_of_etiquette_volume_ii.txt",
+  "raw_bytes": 442531,
+  "text_chars": 411588,
+  "text_sha256": "069cc596ec9705a372acfc330ec6dfdc99de33c261da1a1328dfbbac53c2328b",
+  "retrieved_at": "2026-10-25T15:54:17.600699+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13117519",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Oligosaccharyltransferase Catalytic Subunit PsSTT3B Is Required for Asexual Development and Pathogenicity in &lt;i&gt;Phytophthora sojae&lt;/i&gt;.",
+  "authors": "Ma Q, Zhang B, Cui T, Chen S, Geng S, Zhang F, Zhang C, Liu X.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/jof12040274",
+  "pmcid": "PMC13117519",
+  "url": "https://europepmc.org/article/PMC/PMC13117519",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13117519/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "asexuality_celibacy"
+  ],
+  "abstract": "N -glycosylation is a fundamental post-translational modification that contributes to protein folding, stability, and secretion in eukaryotes. The catalytic subunit STT3 of the oligosaccharyltransferase complex mediates the transfer of preassembled oligosaccharides to nascent polypeptides in the endoplasmic reticulum. Here, we identified and functionally characterized PsSTT3B , one of the STT3 paralogs in Phytophthora sojae ( P. sojae ). PsSTT3B plays an important role in the growth, development, and pathogenicity of P. sojae. CRISPR/Cas9-mediated deletion of PsSTT3B resulted in reduced vegetative growth, sporangia production, and zoospore production in P. sojae . PsSTT3B deletion mutants demonstrated significantly reduced virulence on soybean leaves and etiolated seedlings. Importantly, PsSTT3B deletion mutants also exhibited reduced zoospore germination and diminished chemotaxis toward soybean isoflavones. Moreover, deletion of PsSTT3B increased sensitivity to tunicamycin and dithiothreitol and influenced the ConA-binding glycoprotein profile. Our findings show that PsSTT3B is associated with asexual development, virulence, and sensitivity to ER stress-related conditions of P. sojae . Our study suggests that PsSTT3B represents a potential candidate gene for the prevention and control of P. sojae .",
+  "raw_path": "01_raw/europepmc_xml/PMC13117519.xml",
+  "text_path": "02_text/europepmc/PMC13117519.txt",
+  "raw_bytes": 144039,
+  "text_chars": 44263,
+  "raw_sha256": "1f1ff4d8a02eef448dae9466ce2b1a4afb3f12c650cf600a5ba62d15008fa500",
+  "text_sha256": "bfff72cc45c69947b599468509784559b16c5c26877cc35f9e68326022279d0c",
+  "retrieved_at": "2026-10-26T13:13:15.895239+00:00"
+}

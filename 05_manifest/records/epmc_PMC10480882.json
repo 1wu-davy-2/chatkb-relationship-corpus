@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10480882",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Blind dates and mate preferences: an analysis of newspaper matchmaking columns.",
+  "authors": "Kelley JM, Malouf RA.",
+  "year": "2013",
+  "journal": "",
+  "doi": "10.1556/jep.11.2013.1.1",
+  "pmcid": "PMC10480882",
+  "url": "https://europepmc.org/article/PMC/PMC10480882",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10480882/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "arranged_marriage"
+  ],
+  "abstract": "Parental investment theory and sexual strategies theory predict that women and men should differ on many of the criteria by which they choose mates. These theories posit a gender selectivity effect, such that women should be more selective than men in their mating choices. The theories also posit an age differential effect, such that women should seek older mates, and men should seek younger mates. These two hypotheses have been supported by self-report surveys, speed-dating studies, analysis of on-line and newspaper personal ads, and laboratory analog studies. However, each of these data sources has limitations. Therefore, a new source of data may provide a valuable additional test of the robustness of these effects. The current study examined two independent sources of data involving blind dates arranged and paid for by newspapers. Consistent with the first hypothesis, we found women to be more selective than men. We also found that matchmakers tended to pair older men with younger women, consistent with the second hypothesis. However, contrary to the second hypothesis, we found no evidence that the age differential between members of a couple influenced their ratings of the date. The implications of these findings are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC10480882.xml",
+  "text_path": "02_text/europepmc/PMC10480882.txt",
+  "raw_bytes": 47600,
+  "text_chars": 20152,
+  "raw_sha256": "bc118f1e0fbf3ef5c45b38b8c99a23d382acd9035155127d05d1b0a29e697134",
+  "text_sha256": "abc68d44d30414496b4a0e6d80ba070f957605be12fd531903679738bf4fd004",
+  "retrieved_at": "2026-10-25T15:33:35.897715+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8990491",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Can third-party observers detect attraction in others based on subtle nonverbal cues?",
+  "authors": "Samara I, Roth TS, Nikolic M, Prochazkova E, Kret ME.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1007/s12144-022-02927-0",
+  "pmcid": "PMC8990491",
+  "url": "https://europepmc.org/article/PMC/PMC8990491",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8990491/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "In a series of three studies, we examined whether third-party observers can detect attraction in others based on subtle nonverbal cues. We employed video segments of dates collected from a speed-dating experiment, in which daters went on a brief (approx. 4 min) blind-date and indicated whether they would like to go on another date with their brief interaction partner or not. We asked participants to view these stimuli and indicate whether or not each couple member is attracted to their partner. Our results show that participants could not reliably detect attraction, and this ability was not influenced by the age of the observer, video segment location (beginning or middle of the date), video duration, or general emotion recognition capacity. Contrary to previous research findings, our findings suggest that third-party observers cannot reliably detect attraction in others. However, there was one exception: Recognition rose above chance level when the daters were both interested in their partners compared to when they were not interested. Supplementary information The online version contains supplementary material available at 10.1007/s12144-022-02927-0.",
+  "raw_path": "01_raw/europepmc_xml/PMC8990491.xml",
+  "text_path": "02_text/europepmc/PMC8990491.txt",
+  "raw_bytes": 133303,
+  "text_chars": 54268,
+  "raw_sha256": "c096c81348c67c9420e4b3a9e7f8d3e7b40ee0fb7e43025a3f6efeceda6006d6",
+  "text_sha256": "f369af8ff2fb1143fdf90fc0e013a9df10982f1c0fdd1e75e8a3b071a1c4b877",
+  "retrieved_at": "2026-10-25T15:41:09.286444+00:00"
+}

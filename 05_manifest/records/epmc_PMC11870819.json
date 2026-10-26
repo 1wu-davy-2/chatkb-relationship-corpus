@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11870819",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Moderating Effect of Interpersonal Mindfulness Between Marital Conflict and Marital Intimacy Among Iranian Married Individuals.",
+  "authors": "Dehghanidowlatabadi S, Pallathadka H, Ismail SM, Abdullaev D, Ibrahim FM, Prasad K.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1002/brb3.70392",
+  "pmcid": "PMC11870819",
+  "url": "https://europepmc.org/article/PMC/PMC11870819",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11870819/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "Purpose Marital intimacy is one of the significant factors determining life quality, which, along with interpersonal mindfulness, enables married individuals to experience greater levels of marital satisfaction. This study aimed to elucidate and confirm the moderating effects of interpersonal mindfulness in the relationship between marital conflict and marital intimacy. Method The participants of this study comprised 207 Iranian married individuals (ages 19 to 45 years, mean age: 30, SD: ±4.54). Participants completed online questionnaires which assess interpersonal mindfulness, marital conflict and marital intimacy needs questionnaire. Finding The results from structural equation modeling indicated that marital conflict negatively predicted marital intimacy (β = -0.484, t = 6.74, p Conclusions The results of this study showed that interpersonal mindfulness as a moderator reduces the negative effects of marital conflict and increases marital intimacy among Iranian married individuals.",
+  "raw_path": "01_raw/europepmc_xml/PMC11870819.xml",
+  "text_path": "02_text/europepmc/PMC11870819.txt",
+  "raw_bytes": 84372,
+  "text_chars": 29555,
+  "raw_sha256": "09733e80f4c1dd3940323b4b983dd7989033a35672b7b59f1e5a6ac8107fcd93",
+  "text_sha256": "48648bd94a602d6a4becc8464ff4ffa2e1165924468b2d18d088d8981576e8bb",
+  "retrieved_at": "2026-10-25T15:43:14.098240+00:00"
+}

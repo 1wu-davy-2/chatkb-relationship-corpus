@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7063032",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Extradyadic Behaviors and Gender: How Do They Relate With Sexual Desire, Relationship Quality, and Attractiveness.",
+  "authors": "Arantes J, Barros F, Oliveira HM.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2019.02554",
+  "pmcid": "PMC7063032",
+  "url": "https://europepmc.org/article/PMC/PMC7063032",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7063032/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "Recent years have seen an increasing number of studies on relationship extradyadic behaviors (Pinto and Arantes, 2016; Pazhoohi et al., 2017; Silva et al., 2017; Fisher, 2018). However, much is still to learn about the impact of these extradyadic behaviors on subsequent relationships that an individual may have. Our main goal was to study the association between past extradyadic behaviors - inflicted and suffered - and current relationship quality, sexual desire and attractiveness. Specifically, we aimed to: (i) Understand if past extradyadic behaviors are related to current relationship quality, sexual desire, and self-perceived and partner's attractiveness; (ii) Identify possible gender differences in these variables. For that, 364 participants (251 females and 113 males) were recruited through personal and institutional e-mails, online social networks (e.g., Facebook), and the website of the Evolutionary Psychology Group from the University of Minho. All participants completed a demographic and relationship questionnaire, followed by questions related to extradyadic behaviors and self-perceived attractiveness, the Perceived Relationship Quality Components (PRQC) Inventory, the Sex Drive Scale (SDQ), and the Importance of Partner's Physical Attractiveness Scale (IPPAS). For those currently involved in a relationship, results suggested that extradyadic behaviors (both suffered or inflicted) are linked with current low relationship quality and high sexual desire in the present. In addition, individuals who perceived themselves as being more attractive tended to have a higher sexual desire and higher relationship quality. Overall, men reported higher levels of extradyadic behaviors and sexual desire, gave more importance to physical attractiveness, and perceived their current relationship as having less quality than women. These results add to the literature by focusing on different variables that play an important role in romantic relationships, and have important implications.",
+  "raw_path": "01_raw/europepmc_xml/PMC7063032.xml",
+  "text_path": "02_text/europepmc/PMC7063032.txt",
+  "raw_bytes": 168657,
+  "text_chars": 49130,
+  "raw_sha256": "2b5e351687be39a29a3fe9f1b10b5c8309036b65bcf998c3111b42650d307653",
+  "text_sha256": "51ffc01258525ec6c9382056025c0d5df64256ca8c9339f4958380fd22ea0654",
+  "retrieved_at": "2026-10-26T13:11:26.140966+00:00"
+}

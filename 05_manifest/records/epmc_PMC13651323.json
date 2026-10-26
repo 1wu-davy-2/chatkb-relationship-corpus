@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13651323",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Disability and intimate partner violence in England: gender stratified analyses of a probability sample survey.",
+  "authors": "Hashemi L, Manzur H, Bunce A, McManus S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12889-026-28489-5",
+  "pmcid": "PMC13651323",
+  "url": "https://europepmc.org/article/PMC/PMC13651323",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13651323/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Background Few prior random probability sample survey spans experience of all forms of intimate partner violence (IPV) among people with different types of impairment in England. This study aimed to compare the 12-month prevalence of four types of IPV (physical, sexual, psychological, and economic abuse) for people with and without four types of impairment (physical, sensory, learning impairments, and experiencing difficulties with activities of daily living (ADLs)), taking account of variations by gender. Methods This study used data from the 2014 Adult Psychiatric Morbidity Survey, a cross-sectional survey that covered the household population of England aged 16 years and older. Data was analysed on 7546 respondents (4488 women and 3058 men). Logistic regression was conducted and adjusted odds ratios (AORs) were reported separately for men and women. Results Disabled women reported significantly higher rates of psychological (AOR = 1.98, 95% CI = 1.31-2.98) and sexual IPV (AOR = 2.46, 95% CI = 1.55-3.91) than non-disabled women. No significant association was found for physical IPV. Women with a learning impairment reported the highest prevalence for almost all types of IPV. Women reporting restricted ADLs were at higher risk of experiencing economic abuse (AOR = 2.88, 95% CI = 1.33-6.23). Disabled men did not have a higher risk of experiencing any forms of IPV compared with non-disabled men. Conclusion While violence may contribute to the onset of some forms of disability, our findings suggest that disability may also enhance the risk of IPV for disabled women, particularly for women with a learning impairment. Investment in targeted violence prevention programs specifically for disabled women is warranted.",
+  "raw_path": "01_raw/europepmc_xml/PMC13651323.xml",
+  "text_path": "02_text/europepmc/PMC13651323.txt",
+  "raw_bytes": 142485,
+  "text_chars": 42446,
+  "raw_sha256": "81c767de60a68d553ab083232abd87f8e2ca75e3ae9739ec51934237963dbcbf",
+  "text_sha256": "13de172ae5aac7bf6817e19a199d89cb9d09251f14ae81f67bb2738ca870bec1",
+  "retrieved_at": "2026-10-25T15:45:25.017764+00:00"
+}

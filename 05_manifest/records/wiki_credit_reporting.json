@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_credit_reporting",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "徵信",
+  "requested_title": "征信",
+  "url": "https://zh.wikipedia.org/wiki/%E5%BE%B5%E4%BF%A1",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 徵信",
+  "topics": [
+    "money",
+    "law"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/credit_reporting.json",
+  "text_path": "02_text/zh_wikipedia/credit_reporting.txt",
+  "raw_bytes": 3146,
+  "text_chars": 1434,
+  "text_sha256": "d4fb4f4c978b12d1d91200e0e69a2716c4502a82347b20a34b0bb3a5c72fc69f",
+  "retrieved_at": "2026-10-25T16:30:28.565682+00:00"
+}

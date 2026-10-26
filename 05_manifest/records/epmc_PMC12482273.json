@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12482273",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Effectiveness of digital interventions on relationship satisfaction among couples: a systematic review and meta-analysis.",
+  "authors": "Kernová L, Halamová J, Deriglazov D.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40359-025-03444-y",
+  "pmcid": "PMC12482273",
+  "url": "https://europepmc.org/article/PMC/PMC12482273",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12482273/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "Relationship satisfaction not only contributes to overall life satisfaction and well-being but also has a positive impact on both physical and mental health. The benefits of online interventions for couples include the circumvention of key barriers to traditional therapy. Therefore, the aim of this systematic review is to evaluate randomized controlled trials to determine the effectiveness of digital technology-based interventions in improving romantic relationship satisfaction. The aim of the meta-analysis is to quantify the effectiveness of these interventions on relationship satisfaction. Most of the 15 eligible studies reviewed obtained significant results in improving relationship satisfaction, and these effects were often sustained at follow-up. A meta-analysis of six studies revealed a significant, moderate effect size. However, the detected heterogeneity points to variability in intervention effectiveness, which may be attributable to differences in program design, participant population, and delivery method. Digital-based interventions are particularly promising for enhancing relationship satisfaction in couples.",
+  "raw_path": "01_raw/europepmc_xml/PMC12482273.xml",
+  "text_path": "02_text/europepmc/PMC12482273.txt",
+  "raw_bytes": 205034,
+  "text_chars": 75630,
+  "raw_sha256": "9d71f5c01e788f11813d454ee3a2ff3bd6c7afcf3e756a6d95eb1e64e3095c57",
+  "text_sha256": "93785a7201167daca818fd306314c7e9cf70f377a0b0606c840a5e3814233920",
+  "retrieved_at": "2026-10-25T15:36:30.613671+00:00"
+}

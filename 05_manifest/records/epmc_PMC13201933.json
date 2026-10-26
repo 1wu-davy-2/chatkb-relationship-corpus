@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13201933",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Building Relationships and Families Among PLHIV in Low-and Middle-Income Countries: Overcoming Stigma and Leveraging Recent Advances.",
+  "authors": "Ishak AS, Auwal AR, Adamu Maikifi S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/23259582261440718",
+  "pmcid": "PMC13201933",
+  "url": "https://europepmc.org/article/PMC/PMC13201933",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13201933/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "People living with human immunodeficiency virus (PLHIV) face significant challenges, particularly stigma, which impacts their ability to build and maintain family or seek relationships. This is especially prevalent in low-and middle-income countries (LMICs), where awareness is limited. Stigma leads to societal rejection, internalized shame, and emotional distress, affecting both single and married PLHIV. Singles experience rejection, loneliness, and fear of disclosure, while sero-discordant couples face transmission fears, conception issues, and emotional strain. Even sero-concordant couples, despite sharing the same human immunodeficiency virus (HIV) status, struggle with stigma and conception challenges. This narrative review examines the effects of stigma on relationships and building families among PLHIV using a literature search across major electronic databases. It also highlights advancements such as online dating platforms, highly active antiretroviral therapy, preexposure prophylaxis, and assisted reproductive technologies, which help mitigate transmission risks and improve relationship dynamics. Overall, addressing HIV-related stigma through public education campaigns, psychosocial interventions, and policy-level interventions, as well as capitalizing on recent advances, is essential to improving relationship formation, intimacy, and quality of life among PLHIV.",
+  "raw_path": "01_raw/europepmc_xml/PMC13201933.xml",
+  "text_path": "02_text/europepmc/PMC13201933.txt",
+  "raw_bytes": 121708,
+  "text_chars": 30704,
+  "raw_sha256": "e9b435c6d2769098ef6d2ebf192ed29b04bd4457e96528d19dcb60e54a3f94d5",
+  "text_sha256": "35c537c4aae7b2b9e41d629e69f6288c55a2a206175247ad4bd23600deb95898",
+  "retrieved_at": "2026-10-25T13:55:43.712801+00:00"
+}

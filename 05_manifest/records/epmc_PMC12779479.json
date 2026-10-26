@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12779479",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The effects of marital status, partner drinking, and sex differences on the likelihood of remission from alcohol use disorder.",
+  "authors": "Garasky C, Duncan A, Dong F, Pandey G, Zhao J, Balbona J, Chan G, Kuang W, Kamarajan C, Plawecki M, Hesselbrock V, Kuperman S, Porjesz B, Anokhin A, Johnson E, Agrawal A, Salvatore J, Kuo S, Bucholz K, McCutcheon V.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1093/alcalc/agaf085",
+  "pmcid": "PMC12779479",
+  "url": "https://europepmc.org/article/PMC/PMC12779479",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12779479/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "Objective Marriage is associated with improved health and alcohol outcomes, yet prior research has often combined diverse non-marital relationships, obscuring whether benefits are unique to marriage or a result of strong interpersonal relationships. This study examines whether marriage, compared to cohabitation, exclusive dating, or being single, is associated with alcohol use disorder (AUD) remission and whether this varies by sex and partner drinking. Method Participants were adults from the Collaborative Study on the Genetics of Alcoholism Lifespan Study (n = 1494; 54.4% female) who met criteria for lifetime DSM-5 AUD. Multivariate logistic regression models examined the association between marital status and remission. Subsequent models tested interactions among marital status, partner drinking, and sex. Predicted remission prevalence was estimated using marginal standardization and compared across groups on an additive scale using prevalence differences (PD). Results Married individuals had greater predicted prevalence of remission, particularly compared to those who were exclusively dating (PD = 9.2, P = .020). Married females whose partners were average alcohol consumers (PD = 12.20, q = .049) or abstinent (PD = 17.98, q = .017), and married males whose partners had above average alcohol consumption (PD = 25.30, q = .049) had greater predicted prevalence of remission compared to their counterparts who were in non-marital committed relationships. Conclusion The findings suggest differences in marital status and relationship factors may indicate increased risk and challenges in sustaining remission and highlight potential caveats of marital status as a protective factor. This emphasizes the need to consider these factors in designing treatment strategies.",
+  "raw_path": "01_raw/europepmc_xml/PMC12779479.xml",
+  "text_path": "02_text/europepmc/PMC12779479.txt",
+  "raw_bytes": 104038,
+  "text_chars": 37215,
+  "raw_sha256": "3dcefe9021055f79464de8a9aaa81b397a9d2a2a7f76f2a1af035eb15dad23ba",
+  "text_sha256": "ffa34c9bd1bbaa2c5b45905cd05589795a76ac9c4831274797ba4c2a2dca8fad",
+  "retrieved_at": "2026-10-25T15:34:30.932695+00:00"
+}

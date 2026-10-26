@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11465595",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Associations Between Pornography Use Frequency and Intimate Partner Violence Perpetration Among Young Adult Couples: A 2-Year Longitudinal Study.",
+  "authors": "Vasquez M, Daspe MÈ, Bőthe B, Brassard A, Lussier Y, Vaillancourt-Morel MP.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/08862605241234656",
+  "pmcid": "PMC11465595",
+  "url": "https://europepmc.org/article/PMC/PMC11465595",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11465595/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control",
+    "sexual_coercion"
+  ],
+  "abstract": "Pornography use is a common sexual activity for many individuals including those in a romantic relationship. Some studies have shown that violent content depicted in pornography is a risk factor for perpetration of violence in real life. Even if most of these studies examined perpetration of violent behaviors in general, not specifically toward the intimate partner, some studies have shown that pornography use frequency is related to a greater perpetration of intimate partner violence (IPV), while other studies have found that it is not significantly related. However, most previous studies were cross-sectional, sampled individuals rather than couples, and did not include separately forms of IPV (e.g., physical, psychological, and sexual). The present study examined the associations between pornography use frequency and the perpetration of physical and psychological IPV, and sexual coercion among young adult couples. A convenience sample of 113 couples aged between 16 and 29 years old completed self-reported online questionnaires two times over a 2-year period. The results of autoregressive cross-lagged models showed that a person's pornography use frequency at Time 1 was related to their own higher sexual coercion perpetration 2 years later and that a person's sexual coercion perpetration was related to their partner's lower pornography use frequency 2 years later. However, no significant association between pornography use frequency and physical and psychological IPV emerged. In line with previous studies, our results suggest that pornography use represents an important risk factor for the perpetration of sexual coercion. Findings support the need to include education around pornography use in sexual violence prevention programs to avoid that young adults reproduce pornographic scripts in their sexuality.",
+  "raw_path": "01_raw/europepmc_xml/PMC11465595.xml",
+  "text_path": "02_text/europepmc/PMC11465595.txt",
+  "raw_bytes": 151620,
+  "text_chars": 45945,
+  "raw_sha256": "4d7e622582adf2af625b2000b408b504a4369e46a46aabb9f7c774471cb94389",
+  "text_sha256": "d961ae19eb90b3836fd00ecd9e5531e0126ed9321f7846a39a51cc290b990d6b",
+  "retrieved_at": "2026-10-25T15:43:24.116249+00:00"
+}

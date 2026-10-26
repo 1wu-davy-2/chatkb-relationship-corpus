@@ -1,0 +1,482 @@
+TITLE: The PornLoS Treatment Program: Study protocol of a new psychotherapeutic approach for treating pornography use disorder.
+AUTHORS: Stark R, Markert C, Golder S, Psarros R, Discher JP, Khatib S, Metzger J, Palmer S, Rechmann J, Storz F, Walter B, Allard S, Antons S, Bledzka M, Brand M, Dörrenbächer S, Englisch J, Friehs T, Da Cunha Gonçalves K, Haberkamp A, Hall M, Kananian S, Kemmerer P, Klingelhöfer D, Lutz W, Melzig CA, Michael T, Neumann A, Neusser S, Niemann A, Odenthal M, Rubel J, Schlierenkamp S, Speckemeier C, Ünlü L, Vogt R, Wölfling K, Zachariassen W, Zur Hausen G, Heinz C.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1556/2006.2024.00046
+PMCID: PMC11457022
+LICENSE: cc by-nc
+LICENSE_URL: https://creativecommons.org/licenses/by-nc/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC11457022
+TOPICS: porn_and_relationship
+
+---
+
+ABSTRACT
+AbstractBackgroundThe introduction of Compulsive Sexual Behavior Disorder (CSBD) into the 11th International Classification of Diseases has raised expectations for better treatment options for CSBD. Furthermore, the treatment demand has increased, particularly for pornography use disorder (PUD), a subtype of CSBD. Presumably due to the easy access to Internet pornography an increasing prevalence of PUD is observed. Consequently, providing tailored and effective treatment is essential.MethodsThis article provides an overview of the manualized short-term PornLoS Treatment Program (Pornografienutzungsstörung effektiv behandeln– Leben ohne Suchtdruck; translation: Treating pornography use disorder effectively - life without craving). The program combines 24 individual and 6 group psychotherapy sessions with an interdisciplinary approach by offering a novel treatment framework. This includes, e.g., a mobile app, establishment of self-help groups, and access to other social services such as couple counseling. The cognitive-behavioral treatment program contains interventions addressing psychoeducation, cue exposure, impulse control, cognitive restructuring, emotional regulation, and relapse management.We here also describe the study protocol of an ongoing four-arm randomized controlled trial. The aim is to test two variants of the PornLoS Treatment Program differing with respect to their treatment goal (abstinence or reduced pornography use) against cognitive-behavioral treatment as usual and against a waitlist control group. The primary outcome is the absence of a PUD diagnosis at the end of therapy. The total target sample size will comprise n = 316 patients with PUD across eight study sites.ResultsThe results will be presented at international conferences and published in a scientific peer-reviewed journal.Keywords: behavioral addiction, cognitive behavioral therapy, compulsive sexual behavior disorder, pornography addiction, pornography use disorder
+
+BODY
+Introduction
+
+Internet pornography is easily accessible while affordable and providing perceived anonymity for users. These conditions and the inherent reward potential of pornography contribute to its addictive potential (Alarcón, La Iglesia, Casado, & Montejo, 2019; Chen et al., 2022; Price, Patterson, Regnerus, & Walley, 2016). While problematic sexual behavior has already been observed and described in 1890 (Krafft-Ebing, 1893), the phenomenon of problematic pornography use became more prevalent in the last two decades with technological advancements such as the Internet and smartphones (Cooper, 1998; Doering, 2009; Lewczuk, Wójcik, & Gola, 2022).
+
+This development has also led to various approaches to helping people with problematic pornography use. As there are very few high-quality studies on the effects of psychotherapeutic interventions to treat this mental health condition (Antons et al., 2022), this article presents a new approach to the treatment of problematic pornography use and describes the protocol of the corresponding evaluation study.
+
+For many years, researchers have discussed the question of how to conceptualize problematic pornography use and other problematic sexual behaviors. Amongst others, it has been suggested to subsume problematic pornography use under behavioral addictions (Blinka, Ševčíková, Dreier, Škařupová, & Wölfling, 2022; Brand et al., 2020; Duffy, Dawson, & das Nair, 2016), hypersexual disorders (Kafka, 2010), or impulse control disorders (Barth & Kinder, 1987).
+
+The inclusion of compulsive sexual behavior disorder (CSBD) as an impulse control disorder in the 11th revision of the International Classification of Diseases (ICD, World Health Organization, 2019, code 6C72) was a milestone. While many researchers and clinicians argue that a classification as another specified disorder due to addictive behaviors (ICD-11, World Health Organization, 2019, code 6C5Y) would be more adequate (Brand et al., 2020), others point out that more research is needed before CSBD can be categorized as a behavioral addiction (Sassover & Weinstein, 2022).
+
+Regardless of its final classification, the disorder is characterized by impaired control over the sexual behavior, increasing priority given to sexual behaviors, continuation or escalation of the sexual behavior despite negative consequences and functional impairment in important areas of daily life and/or marked distress (World Health Organization, 2019). Among the compulsive sexual behaviors, problematic pornography use accounts for the largest share, approximately 80% (Reid, Carpenter, et al., 2012). We use the term “Pornography Use Disorder” (PUD) as shorthand of “Compulsive Sexual Behavior Disorder with primarily or exclusively problematic pornography use” to clarify that pornography use is the problematic behavior of a disorder which is defined by the criteria of CSBD. Epidemiological studies reported CSBD/PUD prevalence rates of 3–11% in men and 0–3% in women (Briken et al., 2022; Grubbs, Kraus, & Perry, 2019; Markert et al., 2023), but these diagnoses were based on varying criteria without in-depth clinical interviews.
+
+With the inclusion of CSBD in the ICD-11 interest in treatment options of this disorder and especially of PUD has increased. Pharmaceutical options include, in particular, the use of selective serotonin reuptake inhibitors or opioid antagonists in non-forensic patients (Briken et al., 2024). Although some studies show promising results (Lew-Starowicz et al., 2022; Savard et al., 2020), other studies cast doubt on the medium-term and long-term benefits of medication (Gola & Potenza, 2016; Scanavino et al., 2023). As there are only a few studies on the drug treatment of CSBD and the results are contradictory (Turner et al., 2022), the PornLoS Treatment Program focuses on psychotherapeutic treatment.
+
+Recently, reviews summarized the current knowledge of the effectiveness of psychotherapeutic treatment approaches (Antons et al., 2022; Goslar, Leibetseder, Muench, Hofmann, & Laireiter, 2020; Turner et al., 2022). These reviews showed that studies on PUD are rare and there are hardly any randomized controlled trials (RCT) published (Antons et al., 2022). Most of the few studies on the treatment of PUD focused on cognitive behavioral modules including psychoeducation (Bőthe, Baumgartner, Schaub, Demetrovics, & Orosz, 2021; Hall, Dix, & Cartin, 2020; Wilson & Fischer, 2018), self-regulation (Bőthe, Baumgartner, et al., 2021; Hallberg, Kaldo, Arver, Dhejne, & Oberg, 2017), mindfulness (Hallberg et al., 2020; Holas, Draps, Kowalewska, Lewczuk, & Gola, 2020), exposure (Hallberg et al., 2017), problem solving (Hallberg et al., 2019; Orzack, Voluse, Wolf, & Hennen, 2006), cognitive restructuring (Bőthe, Baumgartner, et al., 2021; Hardy, Ruchty, Hull, & Hyde, 2010), cognitive defusion (Levin, Heninger, Pierce, & Twohig, 2017), acceptance (Crosby & Twohig, 2016; Levin et al., 2017), and relapse prevention (Bőthe, Baumgartner, et al., 2021; Twohig & Crosby, 2010; Wilson & Fischer, 2018). There are some difficulties in evaluating these treatment studies, because most of them were pilot studies with only a few patients and missing control groups. However, these studies can provide hints for promising therapeutic methods.
+
+In addiction research, there has been a long-standing debate about the most effective and realistic therapeutic goal for addiction treatment. Two paradigms compete with each other: abstinence versus harm reduction (e.g., controlled drinking: Marlatt, 1983; Sobell & Sobell, 1995; Sinclair et al., 2021). Harm reduction might be a reasonable goal in PUD treatment, considering that it might be very difficult for people to stop using pornography for good as it is related to the natural sexual need. This factor might explain high dropout rates as they have been presented in the RCT by Bőthe, Baumgartner, et al. (2021) who evaluated an online treatment program.
+
+The current state of research shows 1) a high prevalence of CSBD/PUD, 2) a lack of gold standard for treatment approaches, but mixed results on the efficacy of different interventions, and 3) dominance of cognitive-behavior therapy studies in this field. The PornLoS treatment approach aims to combine treatment components that have proven successful in previous studies within the framework of cognitive behavioural therapy, regardless of whether the components were originally planned as CBT modules (e.g. partner counselling, involvement of self-help groups).
+
+Guiding rationale behind the PornLoS Treatment Program
+
+Therapy supporting etiological model
+
+Psychotherapy outcome research shows that patients need insights into the etiology of their disorder by motivational clarification (Wucherpfennig, Boyle, Rubel, Weinmann-Lutz, & Lutz, 2020). For PUD, a suitable etiological model is the Interaction of Person-Affect-Cognition-Execution (I-PACE) model (Brand, Young, Laier, Wölfling, & Potenza, 2016) and its update (Brand et al., 2019). The I-PACE model originally focused on the etiology of Internet use disorders. With the update it has been applied to behavioral addictions more generally. It may also be (in parts) applicable for the etiology of substance-related addictions as well as impulse control disorders, because it integrates important concepts such as cue reactivity, craving, positive and negative reinforcement learning, biological vulnerability, biased decision making, and impaired impulse control. In the PornLoS Treatment Program, we use the I-PACE model to explain why two central aspects must be addressed in therapy: On the one hand, an understanding of the functionality of the pornography use must be achieved by considering person characteristics and biographical experiences. On the other hand, the self-reinforcing behavior must be interrupted by regaining impulse control or self-control over desires and compulsive motivations more broadly (Brand, 2022).
+
+Intensive focused outpatient treatment
+
+Almost all prior treatment studies were conducted in an outpatient setting (Antons et al., 2022; Turner et al., 2022) with either individual therapy (Bőthe, Baumgartner, et al., 2021; Crosby & Twohig, 2016; Kjellgren, 2019) or group-therapy (Hall et al., 2020; Hallberg et al., 2019; Wilson & Fischer, 2018). Some of these studies used online formats (Bőthe, Baumgartner, et al., 2021; Hardy et al., 2010), but most of them were face-to-face therapies (Holas et al., 2020; Kjellgren, 2019; Twohig & Crosby, 2010). In the PornLoS Treatment Program we combine individual-therapy with group-therapy in an outpatient setting, because we argue that psychoeducation can be done best in a group setting as patients can learn from each other and may experience a de-stigmatization, and a one-on-one setting facilitates individualized therapy. Further, a web-based application is used for monitoring the addictive behavior and to better master potential relapse situations in daily life.
+
+Multidisciplinary approach
+
+A qualitative interview study (Palazzolo & Bettman, 2020) revealed that PUD can result in sexual dysfunction and relationship problems besides many other negative mental, somatic or social consequences (Turner et al., 2022). Therefore, we decided that the individual psychotherapists are supported by coordination centers (co-centers), which orchestrate the collaboration with other professionals such as social workers, medical doctors, or couple counselors.
+
+Structured modular psychotherapy
+
+Prior treatment studies included modules covering important themes such as psychoeducation about PUD, emotion regulation, impulse control, and relapse prevention (Bőthe, Baumgartner, et al., 2021; Hallberg et al., 2017; Hardy et al., 2010; Orzack et al., 2006; Wan, Finlayson, & Rowles, 2000). In the PornLoS Treatment Program, we use a highly structured program including modules on psychoeducation, stimulus control, cognitive reconstructing, impulse control, skills training, cue exposure, mindfulness-based interventions, emotion regulation, and relapse prevention. Additionally, we discuss the benefits of self-help groups and support the establishment of self-help groups as well as the contact to such groups.
+
+Debate of reasonable therapeutic goals
+
+Since there is no empirical evidence that the therapeutic goal abstinence is superior to the therapeutic goal harm reduction through reduced pornography use (Antons et al., 2022), we decided to implement the PornLoS Treatment Program in two variants: “Abstinence” and “Reduced Use”. In an RCT the efficacy of these two variants will be investigated (see below).
+
+Part 1: The PornLoS Treatment Program
+
+We have developed the PornLoS Treatment Program as a highly structured, modular psychotherapeutic approach that integrates promising psychotherapeutic interventions and modules from previous studies, which have been applied unsystematically in our outpatient clinic in Giessen over the past decade. The central features of PornLoS are:
+
+6-month intensive outpatient therapy program
+
+Combination of individual psychotherapy and group psychotherapy
+
+Co-centers as supporting institutions
+
+Use of a PornLoS App with diary, feedback, and emergency functions
+
+Interdisciplinary cooperation with couple counseling centers
+
+In the following sections, the entire PornLoS Treatment Program is described.
+
+The PornLoS Treatment Program has been developed as a short-term therapy program that consists of 24 individual therapy sessions (50 min) combined with 6 group therapy sessions (200 min per session). In group psychotherapy, important psychoeducational aspects are addressed which are then explored in greater depth in the individual psychotherapy. The program is outlined for a duration of 6 months, while prior diagnostic sessions, periods of illness, or vacation might extend the total treatment period to up to 9 months.
+
+In an international comparison, the treatment program may appear extensive, but for Germany we expect it to be cost-effective compared to treatment as usual. Despite this national specificity, we hope that components of the therapy program can also be integrated into the care situation in other countries.
+
+Individual psychotherapy
+
+The individual psychotherapy lasts 6 months with one or two sessions per week. The psychotherapists of the individual therapy are licensed therapists for cognitive behavior therapy (CBT) or advanced clinical training candidates, who have been specially trained in the PornLoS Treatment Program in 20h workshops. The individual therapy is highly structured as depicted in Table 1. Prior to therapy, four diagnostic sessions are scheduled, in which the psychotherapist explores the patient's biography and establishes a reliable therapeutic relationship. Further, a sexual anamnesis is conducted to gain a comprehensive understanding of the patient's pornography use, (dysfunctional) cognitions regarding sexual norms, and its impact on patient's sexuality and daily life. Instructed homework complements the psychotherapy between the psychotherapeutic sessions.
+
+Overview of topics and interventions for the 24 individual therapy sessions and 6 group therapy sessions. The group sessions complement the individual sessions and should take place close to the corresponding individual sessions
+
+1Brand, Young, Laier, Wölfling, and Potenza (2016) and Brand et al. (2019).
+
+A detailed description of the individual therapy can be found in the supplement.
+
+Group psychotherapy
+
+The psychoeducational topics of the PornLoS Treatment Program are addressed in the group setting. The psychotherapists of the group therapy are licensed CBT therapists or advanced training candidates, who have been specifically trained in the PornLoS Treatment Program in 20h workshops. Reasons for the complementary group therapy are the cost-effectiveness and the fact that group members can learn to overcome their shame by realizing that others are similarly affected. The group therapy is also highly structured and should be timed to coincide with corresponding sessions of the individual psychotherapy (see Table 1). Each of the six sessions lasts 200min. A detailed description of the group therapy can be found in the supplement.
+
+The two variants of the PornLoS Treatment Program: “Abstinence” and “Reduced Use”
+
+The two variants of the PornLoS Treatment Program differ only in terms of the treatment goal – abstinence from pornography use or reduced pornography use. The narrative of the Abstinence goal is based on the traditional idea of substance-related addiction. Due to conditioning effects and the associated memory traces, a risk of relapse always remains for those affected. Therefore, a lifelong abstinence helps to reduce craving over time and thus prevents relapses. In contrast, the goal Reduced Use is based on the observation that many of those affected by PUD are not capable to stop consuming pornography completely. The aim of the Reduced Use variant of the PornLoS Treatment Program is therefore to identify areas in which pornography use causes high personal costs. These costs must be determined individually for each person – examples are: relationship problems or underperformance at work (due to constant thoughts of the next opportunity to consume pornography). In the individual therapy session 10, the individual goals of reduced use of pornography (e.g., using pornography during the weekend only to avoid being late for work) are defined and any dangerous dysfunctional thoughts trivializing the use of pornography are addressed. This allows evaluating goal attainment at the end of therapy.
+
+Function of the co-centers
+
+An innovative approach of the PornLoS Treatment Program is that the psychotherapists of the individual therapy receive support by co-centers. Sometimes, individuals suffering from PUD need interdisciplinary support, which cannot be entirely covered by resident psychotherapists. Eight psychotherapeutic university outpatient clinics serve as co-centers in the PornLoS Evaluation Study. In the future, co-centers can also be appropriately equipped psychotherapeutic practices that are paid by the health insurance companies for their supportive services. The co-centers are responsible for the following processes of the PornLoS Treatment Program:
+
+Initial diagnosis of PUD. Initial diagnostics (4–5h) are carried out in the co-centers and the indication for psychotherapy is checked. If necessary, they offer advice or, in the case of non-indication, refer the patient to other care structures (e.g., specialized addiction clinics).
+
+Psychoeducation and group therapy. Central task of the co-centers is the implementation of the psychoeducational group therapy in block sessions which accompanies the new intensive individual therapies.
+
+Support of psychotherapists. The psychotherapists are supported by the co-centers through training and intervision/supervision. At the beginning, psychotherapists are trained to carry out the new therapies. During the therapy, regular intervisions/supervisions of the therapists take place in order to optimally combine the individual and group therapies.
+
+Organization of interdisciplinary contact points. The co-centers organize interdisciplinary cooperation with other professional groups, e.g., couple counselors, physicians, but also occupational therapists or social workers. Depending on the patient's individual needs, these professional contact points are integrated into the therapy as additional services. For couple counseling, cooperation with external counseling experts are recommended.
+
+Assistance with utilizing the digital app. The co-centers coach and supervise psychotherapists and patients in the use of an innovative digital application accompanying the therapy. The app documents the course of symptoms and provides support in high-risk situations.
+
+The resident psychotherapists are in regular contact with the psychotherapists of the co-centers who carry out the accompanying group therapy. For this purpose, ideally, three sessions of 45 min each are scheduled for each patient. During these contacts, the course of therapy and optional additional offers for the patient (e.g., couple counseling) are discussed. Figure 1 shows the responsibilities of the co-centers and the individual therapists in the PornLoS Treatment Program.
+
+Interlocking of resident psychotherapists and coordination centers (co-centers) with their different functions. While the psychotherapists in private practice carry out individual psychotherapy, the co-centers perform additional tasks to relieve the psychotherapists in private practice. The co-centers conduct the intensive PUD diagnostic, help with problems with the mobile app, coordinate interdisciplinary cooperation (if necessary) and organize group psychotherapy
+
+The PornLoS app
+
+A digital app has been developed specifically for the PornLoS Treatment Program. At the start of individual psychotherapy the PornLoS app is installed on the patients' smartphone. If a patient does not have a smartphone, they will be provided with one for the duration of the therapy. From the start of therapy, the patient is asked to answer questions about their pornography consumption every morning and every evening using the PornLoS app. The collected data is displayed graphically so that the experiences of the past week can be discussed with the psychotherapist at the beginning of each individual session (“What went well last week, what went badly?”).
+
+The PornLoS app includes three main functions designed to support the treatment:
+
+1.Diary function
+
+Diary function
+
+The first function provides an everyday assessment of pornography use behavior and contextual factors of high-risk situations. As part of the assessment, patients receive push notifications on their cell phones to remind them to complete the questionnaires. The daily questionnaires take about one minute and should be completed in the morning and evening. In addition, a weekly questionnaire with a duration of two to three minutes has to be completed. Questions about craving, emotions/thoughts/behaviors, trigger stimuli, context, frequency and time of relapse are asked daily. The weekly questionnaire assesses overall mood, well-being, level of functioning, and self-care activities. Further, the app registers when the surveys have been completed. By the diary function, the app can ideally improve patients' self-efficacy.
+
+2.Feedback function
+
+Feedback function
+
+Patients receive a graphical summary of their questionnaire data after each completed measuring point. This includes an overview of craving over time, frequency of critical situations in which the emergency button was pressed, and an overview of triggering stimuli, emotions/thoughts/behaviors, and situational contexts associated with a critical situation. This feedback can also be accessed by their therapists. Each therapist can only view the data of his/her patients. This information can be used in the context of treatment for a better understanding of the patient's individual problem constellations.
+
+3.Emergency function
+
+Emergency function
+
+If patients press the emergency button in the app in a high-risk situation, they are provided with various coping options as part of an emergency kit. This contains individual content that is patient-specific and general content that is available to every patient.
+
+The individual content can be designed by patients in consultation with their therapists. Patients can upload an image or audio file that helps them not to use pornography. This individual content is only stored on the cell phone and is not transferred to a server. In addition, patients can choose between relaxation exercises (e.g., a guided meditation) or distracting games (e.g., Tetris, car racing, etc.). This selection is intended to account for the high degree of heterogeneity between patients and to enable an individualized use of the app. In addition, the app collects the frequency and timing of pressing the emergency button as well as duration and type of emergency interventions used.
+
+Couple counseling
+
+Because problems in partnerships are frequently co-occurring in the context PUD, the PornLoS Treatment Program provides couple counseling by external experts. In the PornLoS Evaluation Study experts from pro familia e.V. (an association with a widespread counseling network in Germany) are involved.
+
+Part 2: The PornLoS Evaluation Study
+
+Objectives and hypotheses
+
+The PornLoS Evaluation Study will investigate whether the PornLoS Treatment Program is better suited to treating PUD than current treatment options. In addition, we evaluate two types of the PornLoS Treatment Program: 1) with the goal of complete abstinence (PornLoS Treatment Program Abstinence), and 2) with the goal of reduced use (PornLoS Treatment Program Reduced Use). If the program proves to be superior, the funding organization wants it to become the standard treatment for PUD in Germany in order to improve the care situation for patients with PUD. Therefore, the PornLoS Treatment Program will be evaluated within a randomized controlled trial (RCT). It is expected that those who suffer from PUD can be treated more effectively and efficiently with the PornLoS Treatment Program than with cognitive-behavioral treatment as usual (TAU). In addition, the PornLoS Evaluation Study aims to evaluate the various elements of the PornLoS Treatment Program such as the digital PornLoS app as part of a qualitative process evaluation with regard to the satisfaction of patients and therapists.
+
+The effectiveness and cost-effectiveness of the PornLoS Treatment Program will be tested at two levels:
+
+1.Treatment approach: Variants of the PornLoS Treatment Program vs. TAU vs. waitlist control group (WCG)
+
+Treatment approach: Variants of the PornLoS Treatment Program vs. TAU vs. waitlist control group (WCG)
+
+The 6-months (+3 months for diagnostic sessions and administration), highly specific, intensive PornLoS Treatment Program, consisting of combined psychotherapeutic individual and group therapy, will be compared with TAU (up to 18 months) and a 9-months WCG with regard to their effectiveness and cost-effectiveness.
+
+Both variants of the PornLoS Treatment Program (“PornLoS Abstinence”, “PornLoS Reduced Use”) are expected to result in higher rates of PUD recovery based on a clinical interview assessing the presence of PUD using the ICD-11 criteria at the end of treatment and at 6-month follow up compared to TAU or WCG. Considering secondary endpoints, the two variants of the PornLoS Treatment Program are expected to be beneficial (compared to TAU and WCG) with regard to pornography use and symptom severity of CSBD and PUD, psychological distress, well-being and quality of life at the end of treatment and 6-moths follow up. Furthermore, the two variants of the PornLoS Treatment Program will be evaluated with regard to side effects of therapy, cost-effectiveness from the statutory health insurance as well as from the societal perspective, expecting the PornLoS Treatment Program being more cost-effective compared to TAU. TAU will be conducted by resident cognitive-behavioral psychotherapists.
+
+2.PornLoS Treatment Program Abstinence vs. PornLoS Treatment Program Reduced Use
+
+PornLoS Treatment Program Abstinence vs. PornLoS Treatment Program Reduced Use
+
+The two variants of the PornLoS Treatment Program differ in their therapeutic goal abstinence from and reduced use of pornography and are compared in terms of their effectiveness in the PornLoS Evaluation Study. If the PornLoS Treatment Program Reduced Use proves to be effective (e.g., higher success rate than TAU at end of therapy and follow-up), this may also be a future therapeutic goal for those for whom the therapy goal abstinence appears unachievable. The PornLoS Treatment Program with its highly specific components is expected to significantly reduce the risk of relapse and thus the costs of care.
+
+Participants
+
+A total of 316 patients will be enrolled in the study with 79 patients in each group (“PornLoS Abstinence”, “PornLoS Reduced Use”, TAU, WCG). Therapy-related discontinuations are assessed as non-response and are highly relevant for the future treatment of PUD. A total of 15% therapy-related and non-therapy-related discontinuations are anticipated. From previous studies, one would expect higher drop-out rates due to a lack of adherence to treatment (Bőthe, Baumgartner, et al., 2021; Scanavino et al., 2023). However, based on our own pilot studies, 15% drop-out rate seems to be a reasonable estimate.
+
+Recruitment takes place at eight co-centers in Germany (Giessen, Marburg, Kassel, Frankfurt, Mainz, Landau, Trier, Saarbrücken).
+
+In order to participate in the study, participants must fulfill the following criteria: A diagnosis of CSBD with primarily or exclusively problematic pornography use must be present, which we abbreviate with pornography use disorder (PUD). Participants must be between 18 and 70 years of age and they must have given their written informed consent to participate in the study. As a structured clinical interview for ICD-11 is not yet available, the Structured Clinical Interview for DSM-5 (SCID-5; First, Williams, Karg, & Spitzer, 2016) was used to validly diagnose comorbidities. Since personality disorders are a frequent comorbidity of PUD (Ballester-Arnal, Castro-Calvo, Giménez-García, Gil-Juliá, & Gil-Llario, 2020; Black, 2000), also, personality disorders were diagnosed by SCID-5.
+
+According the ICD-11 the following requirements must be fulfilled for the diagnosis CSBD (World Health Organization, 2019):
+
+A persistent pattern of failure to control intense, repetitive sexual impulses or urges resulting in repetitive sexual behavior, manifested in one or more of the following:○Engaging in repetitive sexual behavior has become a central focus of the individual's life to the point of neglecting health and personal care or other interests, activities and responsibilities.○The individual has made numerous unsuccessful efforts to control or significantly reduce the repetitive sexual behavior.○The individual continues to engage in repetitive sexual behavior despite adverse consequences (e.g., marital conflict due to sexual behavior, financial or legal consequences, negative impact on health).○The person continues to engage in repetitive sexual behavior even when the individual derives little or no satisfaction from it.
+
+○Engaging in repetitive sexual behavior has become a central focus of the individual's life to the point of neglecting health and personal care or other interests, activities and responsibilities.
+
+Engaging in repetitive sexual behavior has become a central focus of the individual's life to the point of neglecting health and personal care or other interests, activities and responsibilities.
+
+○The individual has made numerous unsuccessful efforts to control or significantly reduce the repetitive sexual behavior.
+
+The individual has made numerous unsuccessful efforts to control or significantly reduce the repetitive sexual behavior.
+
+○The individual continues to engage in repetitive sexual behavior despite adverse consequences (e.g., marital conflict due to sexual behavior, financial or legal consequences, negative impact on health).
+
+The individual continues to engage in repetitive sexual behavior despite adverse consequences (e.g., marital conflict due to sexual behavior, financial or legal consequences, negative impact on health).
+
+○The person continues to engage in repetitive sexual behavior even when the individual derives little or no satisfaction from it.
+
+The person continues to engage in repetitive sexual behavior even when the individual derives little or no satisfaction from it.
+
+The pattern of failure to control intense, repetitive sexual impulses or urges and resulting repetitive sexual behavior is manifested over an extended period of time (e.g., 6 months or more).
+
+The pattern of failure to control intense, repetitive sexual impulses or urges and resulting repetitive sexual behavior is not better accounted for by another mental disorder or other medical condition and is not due to the effects of a substance or medication.
+
+The pattern of repetitive sexual behavior results in marked distress or significant impairment in personal, family, social, educational, occupational, or other important areas of functioning. Distress that is entirely related to moral judgments and disapproval about sexual impulses, urges, or behaviors is not sufficient to meet this requirement.
+
+Exclusion criteria are insufficient German language skills, acute suicidality, acute psychosis, acute substance dependence (with the exception of nicotine), and self-reported use of pedophile pornography. Assessment of eligibility criteria is part of the clinical interview. Concomitant pharmacological treatment is not an exclusion criterion.
+
+Randomization will be performed online using the REDCap system (Harris et al., 2019) implemented by the independent Coordinating Center for Clinical Trials Marburg using block randomization. After the screening period, eligible patients will be randomized to one of the three treatment groups or to the WCG.
+
+Patients who want to become abstinent at the beginning of the study and are assigned to the “Reduced Use” therapy group do not have to give up their abstinence goal. Instead, they are supported in their personal abstinence goal.
+
+The treatment costs are covered by the patient's statutory health insurance in all treatment groups.
+
+Ethical and regulatory aspects
+
+The study will be conducted in compliance with the Declaration of Helsinki. According to the Declaration of Helsinki, written informed consent must be obtained from patients prior to study participation. The patients will confirm their willingness to participate in the study, after a designated investigator provided written and verbal information of all aspects of the study that are relevant to the patient's decision to participate. In doing so, the wording used will be chosen so that the information can be fully and readily understood by laypersons. Before informed consent is obtained, the investigator has to provide enough time and opportunity for the patient to inquire about details of the study and to decide whether or not to participate. Only psychologists and psychotherapists may inform the patients and obtain their consent. An information sheet will be provided for the purpose of obtaining informed consent. It will be revised and forwarded to the patient whenever important new information is available that may be relevant to their willingness to continue participation in the study. The patients will receive a copy of the signed and dated consent form updates and a copy of any amendments to the written information. Patients will be informed that they are free to withdraw from the study at any time at their own discretion without giving reasons and without any prejudice. The study was approved by the Ethics Committee of the Department of Psychology at the Justus-Liebig University of Giessen (reference number: 2023-0024). Any substantial amendments to the study protocol will be submitted to the Ethics Committee. Study suspensions or interruptions will be reported to the Ethics Committees, giving the reasons for suspension or interruption.
+
+Study design
+
+The PornLoS Evaluation Study is planned as a 4-arm multi-center randomized, controlled, prospective, open trial RCT comprising two newly developed variants of the PornLoS Treatment Program with either the therapeutic goal “Abstinence” (PornLoS Abstinence) or “Reduced Use” (PornLoS Reduced Use), a TAU, and a WCG. Eligible patients will be randomly assigned to one of the four study arms. Also, resident psychotherapists willing to participate in the study will be randomly assigned to one of the three treatment groups. After a 9-month waiting period, WCG patients are treated by psychotherapists who are trained in the PornLoS Treatment Program. The WCG was added to compare the two variants of the PornLoS Treatment Program with both an active treatment (TAU) and a passive control condition (WCL). This allows also an evaluation of the effectiveness of TAU by comparison with WCG. Data on primary outcomes and secondary outcomes will be collected prior to initiation, at the end of treatment, and as a follow-up measure six months after the end of treatment; costs additionally every 3 month. After the end of therapy, side effects of the therapy are assessed. The end-of-therapy diagnostics and the 6-month follow-up diagnostics at the individual co-centers are carried out by psychotherapists from other co-centers. This ensures that the diagnosticians are blind to the respective therapy variant.
+
+Figure 2 provides an overview of the study process.
+
+PornLoS Evaluation Study overview. After the baseline assessment, all eligible patients are randomly assigned to the four treatment conditions: PornLoS Abstinence, PornLoS Reduced Use, cognitive-behavioral treatment as usual (TAU), waitlist control group (WCG)
+
+The trial is preregistered at the German Clinical Trial Register (DRKS00033084).
+
+Assessments and outcome measures
+
+Baseline assessment
+
+Patients who are interested in PUD treatment can register for the study via a website (www.pornlos.de), which is promoted through broad public relations work. Afterwards, they are invited by the nearest co-center for a 5-h diagnostic session. The SCID-5 interview and the clinical PUD interview (see below) are used to determine whether or not a PUD diagnosis can be made on the basis of the ICD-11 criteria (primary endpoint). If a PUD is confirmed, the patient is randomly assigned to one of the four treatment arms. During this first diagnostic session characteristics of the pornography use (e.g., frequency of pornography use), symptoms of PUD/CSBD, psychological distress, general well-being, quality of life, and costs are also assessed by appropriate questionnaires (secondary endpoints, see below). Afterwards the allocation to resident psychotherapists is realized.
+
+End of treatment assessment and follow-up assessment
+
+After the therapy and waiting period, respectively, again the primary endpoint and the secondary endpoints are measured in a second diagnostic session and after 6 month follow-up in a third diagnostic session in the co-centers.
+
+Primary endpoint
+
+The primary endpoint is the absence of a PUD diagnosis (dichotomous measure) based on a specific clinical interview, which is the same interview used to ensure the presence of a PUD at the beginning of treatment. The interview is conducted at the end of therapy, i.e., 9 months after inclusion in the two variants of the PornLoS Treatment Program, in the standard treatment TAU after the individual end of therapy (up to 18 months after inclusion), and in the WCG 9 months after inclusion. The interviews are conducted by specially trained psychotherapists in the co-centers, interviewing only patients they do not know. This procedure ensures that patients are diagnosed by blinded observers.
+
+To verify the presence of a CSBD/PUD diagnosis according to ICD-11, we developed a clinical structural interview, which is based on the Assessment of Internet and Computer Game Addiction (Wölfling et al., 2019). This was originally developed for computer game addiction, but was adapted to pornography use disorder as part of the DFG research group “Affective and cognitive mechanisms of specific Internet-use disorders (ACSID)” (FOR 2974, Brand, Stark, & Klucken, 2021). For this purpose, a detailed standard operating procedure as well as training materials have been developed.
+
+Thus, our clinical interview is orientated towards Assessment of Internet and Computer Game Addiction (Wölfling et al., 2019), but uses the ICD-11 criteria for CSBD/PUD.
+
+In addition to the ICD-11 diagnostic criteria, we will also adapt the nine criteria for gaming disorder proposed in the DSM-5 (American Psychiatric Association, 2013) to PUD and explore their presence in our sample. This could help to optimize the diagnostic criteria for PUD in future ICD versions.
+
+Secondary endpoints
+
+Pornography use
+
+Questions about the use of pornography use cover consumption duration and abstinence days during the last four weeks.
+
+Craving and self-control
+
+Craving and self-control are measured daily with the PornLoS app. The corresponding measures can be used as mediators and moderators in secondary analyses.
+
+Symptoms of CSBD in general and specific symptoms of PUD
+
+Symptoms of CSBD are assessed by the CSBD-19 (Bőthe et al., 2020). This questionnaire consists of 19 questions concerning sexual behavior as well as thoughts and feelings about sex regarding the last four weeks. Items are rated on a 4-point Likert scale, ranging from “totally disagree” to “totally agree”. Symptoms of PUD are assessed by the PPCS-6 (Bőthe, Toth-Kiraly, Demetrovics, & Orosz, 2021) measuring the significance and the consequences of pornography use with six items, rated on a 7-point Likert scale, ranging from “never” to “always” over the last four weeks. Consequences of PUD are assessed using the Hypersexual Behavior Consequences Scale (HBCS; Reid, Garos, & Fong, 2012) modified for pornography use. This instrument asks about the occurrence of 19 negative consequences on a 5-point Likert type scale ranging from “Hasn't happened and is unlikely to happen” to “Has happened several times”.
+
+Psychological distress
+
+Psychological distress is assessed by the Brief Symptom Check List (BSCL, Franke, 2017). The BSCL records a person's subjectively perceived impairment due to 53 physical and psychological symptoms within the last seven days and offers a multidimensional evaluation with the option of repeated measurements. Mental stress is measured using nine scales (aggressiveness/hostility, anxiety, depression, paranoid thinking, phobic anxiety, psychoticism, somatization, insecurity in social contact, compulsiveness) and three global indicators (global severity index, positive symptoms total, positive symptoms distress index). All items are rated on a 5-point Likert scale ranging from “not at all” to “very much”.
+
+General well-being
+
+General well-being is estimated using The World Health Organization – Five Well-Being Index (WHO-5, Topp, Østergaard, Søndergaard, & Bech, 2015). This questionnaire consists of five questions concerning well-being within the last two weeks. The 6-point Likert scales are ranging from “the whole time” to “never”.
+
+Quality of life
+
+Quality of life is recorded via the Short Version of the World Health Organization Quality-of-Life Scale, which consists of 26 questions with a 5-point response format (WHOQOL-BREF, Gunzelmann & Brähler, 2002).
+
+Costs
+
+Costs are assessed through a self-developed Health Economics Questionnaire, partly based on modified predeveloped instruments (Grupp, König, Riedel-Heller, & Konnopka, 2018; Seidl et al., 2015). This questionnaire records the consumption of health care and societal resources by the patients concerned, such as medication, outpatient physician contacts, hospital stays, remedies, rehabilitation measures, nursing care and low-threshold support services. In addition, days of incapacity for work as well as partial and total reduction in working capacity are recorded.
+
+Procedures
+
+Resident psychotherapists willing to participate in the study will be randomly assigned to one of the three therapy arms (“PornLoS Abstinence”, “PornLoS Reduced Use”, TAU). A psychotherapist can only represent one therapy variant during the study period. The psychotherapists of the variants of the PornLoS Treatment Program are intensively trained in a 20h training course. These resident psychotherapists are supported by co-centers. Within the PornLoS Evaluation Study, a group therapist is only allowed to represent one variant of the two intensive therapies (“PornLoS Abstinence” or “PornLoS Reduced Use”) in order to ensure treatment adherence. Therefore, at least two group therapists are required per co-center.
+
+Within the TAU group, these offers do not exist in a structured way. Thus, there are no further appointments between the co-centers and the TAU patients until the end of their individual therapies or until the maximum of 18 months of treatment has been reached. This is followed by the final diagnostics by the co-center. The resident psychotherapists of the TAU group are not trained for PUD therapy and carry out their treatments according to their level of knowledge about PUD. It is therefore expected that these therapies will not differ from today's care situation. If the psychotherapists in the TAU group are interested, they will be trained in the PornLoS Treatment Program after completing the TAU therapies.
+
+Patients of the WCG are guaranteed therapy after the waiting period by trained resident psychotherapists, who already treated patients with the PornLoS Treatment Program. However, there are no restrictions for the therapy of the WCG (e.g., therapy duration is not limited to 6 months, therapeutic goal is not defined in advance), but no add-ons of the PornLoS Treatment Program (no co-center support, no PornLoS app) are provided. The validation of the outcome of the treatment of the WCG is not part of the PornLoS Evaluation Study. Patients of the WCG are asked to refrain from other professional interventions during the 9-month waiting period. During this period, patients are contacted every three months by the co-center to ensure continued therapy abstinence and adherence to the WCG.
+
+Table 2 provides an overview of the data collection for a participant at a co-center based on their group affiliation.
+
+Data collection at the co-centers for variants of the PornLoS Treatment Program, treatment as usual (TAU), and waitlist control group (WCG)
+
+* If therapy ends prematurely, the following study visits for data collection will be conducted as primarily scheduled: V1 at time point of (intended) 24th session, V2 6 months after V1. The premature end of therapy assessment is carried out additionally.
+
+** The following study visits will be conducted as primarily scheduled: V2 6 months after regular/premature end of therapy.
+
++ Additionally every three months.
+
+Clinical statistical design and analysis
+
+Sample size calculation
+
+The power analyses were conducted by the independent Coordination Centre for Clinical Trials at the Philipps University of Marburg.
+
+In absence of published data in the context of PUD therapy, the calculation of the sample size is based on own responder rates that are considered clinically relevant. The PornLoS Treatment Program is considered successful if the proportion of patients who do no longer meet PUD criteria in the clinical interview at the end of therapy is 30 percentage points higher than in TAU. The comparisons of interest are (1) PornLoS Abstinence vs. TAU and (2) PornLoS Reduced Use vs. TAU.
+
+A responder rate of 35% is expected for TAU. The significance level for each test is set to alpha = 0.025 by Bonferroni correction as is necessary on closed test procedure's higher-order test level. In order to prove the difference mentioned above using a two-sided chi-square test with a power of 90%, n = 67 patients per therapy group are required. Also, for the WCG, n = 67 patients are appropriate as a sparse rate of non-existence of PUD is assumed after 6 months. Power simulations conducted with the software “R” (version 1.3.959 library “stats”) revealed that based on this sample size a Fisher's exact test will have sufficient power for comparisons with any other treatment arm when a spontaneous remission rate of 5% in the WCG is assumed. Considering a drop-out rate of 15%, it is necessary to recruit a total of N = 316 patients (n = 79 per group) in a 1:1:1:1 ratio.
+
+Data analyses
+
+The analysis of the primary and secondary outcome data is performed by the independent Coordination Center for Clinical Trials at the Philipps-University in Marburg (KKS). Supplementary questions will be addressed by the coordinating investigator in collaboration with the co-centers. Primary statistical analysis is performed using the closed test procedure (Horn & Vollandt, 1995). The elementary hypotheses and the individual hypotheses at a higher level, which represent relevant subsets, as well as the corresponding statistical tests are listed below. As in the WCG a low rate of responders is expected statistical assumptions for the Chi-square test might not be met. Hence, for single comparisons with the WCG the Fisher's exact test is planned. The following null hypotheses will be tested (notation for study arms: 1 = PornLoS Abstinence, 2 = PornLoS Reduced Use, 3 = TAU, 4 = WCG):
+
+H1234: p1 = p2 = p3 = p4, i.e. equal rate of patients not meeting PUD criteria at end of treatment (V1) (responder rate) in all four group. For statistical testing a two-sided Chi-square test at a significance level of alpha = 0.05 is conducted.
+
+H123: p1 = p2 = p3, i.e. equal responder rate in therapy „PornLoS Abstinence”, „PornLoS Reduced Use”, and TAU. For statistical testing a two-sided Chi-square test at a significance level of alpha = 0.05 is conducted.
+
+H124: p1 = p2 = p4, i.e. equal responder rate in therapy „PornLoS Abstinence”, „PornLoS Reduced Use”, and WCG. For statistical testing a two-sided Chi-square test at a significance level of alpha = 0.05 is conducted.
+
+H134: p1 = p3 = p4, i.e. equal responder rate in therapy „PornLoS Abstinence”, TAU, and WCG. For statistical testing a two-sided Chi-square test at a significance level of alpha = 0.05 is conducted.
+
+H234: p2 = p3 = p4, i.e. equal responder rate in therapy „PornLoS Reduced Use”, TAU, and WCG. For statistical testing a two-sided Chi-square test at a significance level of alpha = 0.05 is conducted.
+
+H13H24: p1 = p3 and p2 = p4, i.e. equal responder rate in therapy „PornLoS Abstinence” and TAU and equal responder rate in therapy „reduced use” and WCG. For statistical testing of H13 a two-sided Chi-square test is conducted, while for H24 a two-sided Fisher's exact test is used. As per Bonferroni-correction a significance level of alpha = 0.025 will be applied for each of the tests. The hypothesis will be rejected if at least one of the two tests is significant.
+
+H14H23: p1 = p4 and p2 = p3, i.e. equal responder rate in therapy „PornLoS Abstinence” and WCG and equal responder rate in therapy „PornLoS Reduced Use” and TAU. For statistical testing of H14 a two-sided Fisher's exact test is conducted, while for H23 a two-sided Chi-square test is used. As per Bonferroni-correction a significance level of alpha = 0.025 will be applied for each of the tests. The hypothesis will be rejected if at least one of the two tests is significant.
+
+H12H34: p1 = p2 and p3 = p4, i.e. equal responder rate in therapies „PornLoS Abstinence” and „PornLoS Reduced Use”1 and equal responder rate in TAU and WCG. For statistical testing of H12 a two-sided Chi-square test is conducted, while for H34 a two-sided Fisher's exact test is used. As per Bonferroni-correction a significance level of alpha = 0.025 will be applied for each of the tests. The hypothesis will be rejected if at least one of the two tests is significant.
+
+H13: p1 = p3, i.e. equal responder rate in therapy „PornLoS Abstinence” and TAU. For statistical testing a two-sided Chi-square test at a significance level of alpha = 0.05 is conducted. The elementary hypothesis will be rejected if its test is significant and H1234, H123, H13H24, H134 are rejected.
+
+H23: p2 = p3, i.e. equal responder rate in therapy „PornLoS Reduced Use” and TAU. For statistical testing a two-sided Chi-square test at a significance level of alpha = 0.05 is conducted. The elementary hypothesis will be rejected if its test is significant and H1234, H123, H14H23, H234 are rejected.
+
+H14: p1 = p4, i.e. equal responder rate in therapy „PornLoS Abstinence” and WCG. For statistical testing a two-sided Fisher's exact test at a significance level of alpha = 0.05 is conducted. The elementary hypothesis will be rejected if its test is significant and H1234, H124, H14H23, H134 are rejected.
+
+H24: p2 = p4, i.e. equal responder rate in therapy „PornLoS Reduced Use” and WCG. For statistical testing a two-sided Fisher's exact test at a significance level of alpha = 0.05 is conducted. The elementary hypothesis will be rejected if its test is significant and H1234, H124, H13H24, H234 are rejected.
+
+H34: p3 = p4, i.e. equal responder rate in TAU and WCG. For statistical testing a two-sided Fisher's exact test at a significance level of alpha = 0.05 is conducted. The elementary hypothesis will be rejected if its test is significant and H1234, H134, H12H34, H234 are rejected.
+
+Intention-to-treat and per-protocol analyses
+
+Patients with missing values in the primary variable, i.e. without a clinical interview to assess PUD at the end of therapy (V1), are considered non-responders. The analysis of the primary endpoint is performed in the intention-to-treat (ITT) population. The ITT population includes all included and randomized patients. Patients are analyzed in the treatment group assigned by randomization, regardless of what happens after assignment. In addition, the same statistical analysis is performed in the per-protocol (PP) population. Patients who were not treated according to protocol are excluded from this analysis. Serious deviations from the study protocol that exclude patients from per-protocol analyses in the variants of the PornLoS Treatment Program are:
+
+Less than 2 group therapy sessions (days) attended
+
+Less than 20 individual therapy sessions attended
+
+Less than 50% of the app surveys completed
+
+In TAU, no defined treatment is prescribed and therefore no deviations from the protocol can be defined.
+
+The primary variable will also be analyzed in a secondary analysis using a logistic mixed regression model with therapy group and time as fixed effects and a therapy group x time interaction. Due to the repeated-measures design, a patient effect is included in the model as a random effect. For the effect estimates (odds ratios), p-values are explored and a 95% confidence interval is given. All secondary endpoints will be evaluated exploratory.
+
+Statistical handling of different treatment durations in the intervention groups and the TAU group
+
+By definition, the treatments to be compared in the study differ in their durations: Intervention groups are scheduled for 6 months, while TAU may last 6–18 months depending on the individual's course of therapy. A matching on the basis of treatment duration is therefore not possible and it does not seem necessary to control for treatment duration, since the study question is if the intervention groups differ from the TAU group at the end of therapy and 6 months after therapy. The outcome at a priori fixed time point (e.g., 6 months after initiation of therapy) is not inquired. Additional diagnosis 6 months after start of therapy in the TAU group, in order to compare rates of change over a defined period, is technically possible but not permissible, as such interim survey is not part of therapy as usual.
+
+Side effect assessment
+
+Potential side effects of psychotherapy are recorded with the Negative Effects Questionnaire (NEQ, Rozental et al., 2019) and evaluated exploratively. Possible serious adverse events comprise suicide, other event leading to death, suicide attempt, serious self-harm, third-party injury, acute life-threatening event (i.e. study participant's life is in acute danger), event that leads to significant physical disability.
+
+Serious adverse events are documented and reported to the study management promptly after becoming known and discussed and evaluated within the consortium. These will be reported and compared separately for the treatment groups.
+
+Measures against risk of bias
+
+Blinded intervention are not entirely feasible because the four treatments (PornLoS Abstinence, PornLoS Reduced Use, TAU, waiting group) are so different that both psychotherapists and patients know which group they are in. However, those engaged in the assessing of the outcomes at different time points are of course blind to the specific therapy condition under which the patients are being treated. Additionally, several treatment fidelity strategies have been employed to address the risk of bias (Bellg et al., 2004). Firstly, we have standardized the training for psychotherapists in the conditions of PornLoS Abstinence and PornLoS Reduced Consumption and these psychotherapists receive continuous supervision during the project. Since we are interested in the effectiveness of the PornLoS treatments compared to TAU, psychotherapists of the TAU condition do not receive additional training. Additionally, treatment adherence will be assessed throughout the study by audio recordings of the individual treatment sessions. Further, to ensure treatment adherence, a psychotherapist of the PornLoS Treatment Program can offer only one variant of the program. In addition, we aim to reduce the risk of bias by randomizing not only the patients but also the psychotherapists into the different groups. Finally, biases in the statistical analyses are avoided by the fact that the study and statistical analyses are preregistered and analyses carried out by independent statisticians of the Coordination Center for Clinical Trials at the Philipps-University in Marburg.
+
+Health economic evaluation
+
+The health economic evaluation is conducted by the Institute for Health Care Management and Research at the University of Duisburg-Essen as a cost-effectiveness analysis from a statutory health insurance perspective and societal perspective. The PornLoS Treatment Program is compared with TAU. As in the randomized trial, the proportion of patients who no longer meet the criteria for PUD serves as the outcome parameter. The following costs are included: The costs identifiable in the administrative claims data of the included insured persons of the participating health insurances as well as the intervention costs. For this purpose, the clinical data are merged with the administrative claims data of the included patients who are insured by the participating statutory health insurance companies via a trust center that is separated in terms of space and personnel. The merged data are available to the evaluators of the Institute for Medical Management and Research in pseudonymized form.
+
+Administrative claims data from statutory health insurances participating in the project as consortium partners and collaborators will be considered 12 months before and after the start of the intervention, with total costs included in the analysis. Data included are medication, outpatient physician contacts, hospitalisation, rehabilitation measures, and sickness benefits. Relevant to study design is the up to 9-month delay in administrative claims data delivery with respect to outpatient-physician data, which must be considered in the time for analysis. Because of this data lag, only patients whose follow-up diagnosis is completed by Sept. 30, 2025, will be included in the administrative claims data analysis.
+
+The participating health insurers together cover around 22.8 million people, which corresponds to around 27% of the German population. In the event that the database of participating health insurers is insufficient for a health economic evaluation due to a small number of included patients insured by them, a parallel health economic questionnaire will be included in the study to survey resource use in order to determine costs from the statutory health insurance perspective.
+
+Intervention costs will be collected as part of the study. The expenses for the PornLoS Treatment Program compared to TAU are incorporated into the analysis. These include material and personnel costs e.g., costs for staff training.
+
+In addition, the data assessed by the health economic questionnaire will be included in the analysis from the social perspective with data on temporary or permanent work absence.
+
+The comparison is presented in each case as an incremental cost-effectiveness ratio (ICER), which is determined using a difference-in-differences approach:
+
+To account for uncertainty, sensitivity analyses will be performed to evaluate the impact of changes in input parameters on the analysis results.
+
+Process evaluation
+
+The process evaluation will be carried out by the Essener Forschungsinstitut für Medizinmanagement (EsFoMed) GmbH. In a first step, patients and service providers will be asked about the acceptance, satisfaction and practicability of the PornLoS Treatment Program using structured interviews. Questions about access to care, the design of individual care elements and the necessary conditions for dissemination of the PornLoS Treatment Program will be addressed. It is aimed to identify requirements for the implementation of the PornLoS Treatment Program at a technical, organizational and structural level. Recruitment will take into account regional factors, provider practice characteristics and patient demographics. A total of 10 expert interviews of about 30 min are planned. These will be conducted by telephone or video call, recorded and then transcribed. The transcripts will be analyzed with MAXQDA (Verbi Software GmbH, Berlin, Germany) using qualitative content analysis (Mayring, 2015). Based on the findings, EsFoMed will develop a concept for transfer into standard care and then present it to all project partners in a workshop. The concept will take into account both technical and economic aspects, such as mapping in the collective remuneration systems and the establishment of a sufficient nationwide accessible training and further education systems. Where appropriate, comments from the workshop will be incorporated into the final transfer concept.
+
+Obstacles and challenges
+
+The project is ambitious and therefore harbors certain risks. One problem could be that the sample of 316 test subjects will not be reached. However, this is unlikely, as we are recruiting in 3 federal states, which, given the expected prevalence figures, suggests that there are enough patients eligible for inclusion. Further, financial resources are also available to promote the PornLoS project via press releases, social media channels, and radio adverts.
+
+Due to the complexity of the research plan, a number of measures are required to ensure that all the requirements of the protocol are met. These include intensive training of all employees at the various sites, an Internet-based wiki with all the continuously updated important information, the continuous supervision of all psychotherapists in the PornLoS Treatment Program, and ongoing plausibility checks of incoming data.
+
+Conclusion
+
+The PornLoS Treatment Program provides a novel treatment framework for PUD in the German healthcare system. It can be assumed that parts of the treatment program are applicable to healthcare systems in other countries. It can potentially fill a treatment gap if incorporated into standardized care. The program goes beyond a treatment manual as it includes additional features, such as multi-centric connections of outpatient treatment facilities with psychotherapists in their own practice as well as other social services, and a digital app. Furthermore, it combines individual and group therapy and supports the development of independent self-help groups. The manual itself has been developed based on theoretical considerations: the disorder model and several interventions, strategies, or tools derive from the I-PACE model (Brand et al., 2016, 2019). Other interventions are based on established CBT treatment manuals for (behavioral) addictions and tested for its efficacy in a multi-center RCT (Wölfling et al., 2019). PornLoS sheds light on the treatment of vulnerable groups, which are often neglected due to prejudices and lack of knowledge. In addition, the treatment program may act as a precursor for other behavioral addictions that could potentially be addressed by a similar treatment framework.
+
+Supplementary data
+
+Funding sources: The project was funded by the innovation fund of the Joint Federal Committee (Gemeinsamer Bundesausschuss) with grant number 01NVF22111 and was supported by the DYNAMIC Center funded by the LOEWE program of the Hessian Ministry of Science and Arts (Grant Number: LOEWE1/16/519/03/09.001(0009)/98), by ‘The Adaptive Mind’, funded by the Excellence Program of the Hessian Ministry of Science and Arts, and by the Research Unit ACSID, FOR2974, funded by the German Research Foundation (DFG) – 411232260 (DFG grant numbers: STA 475/22-1).
+
+Authors' contribution: RS developed the treatment program together with RP, KW, CM, FS and SG in recent years. They planned and conducted the pilot studies and were involved in the preparation of the manuscript. CH provided the biometrical concept. All other authors were involved in the planning of the PornLoS Evaluation Study. All authors had full access to all data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis.
+
+Conflict of interest: Stephanie Antons and Matthias Brand are associate editors of the Journal of Behavioral Addictions. The other authors declare no conflict of interest.
+
+No power calculation for this groups' comparison conducted.
+
+Contributor Information
+
+Rudolf Stark, Email: rudolf.stark@psychol.uni-giessen.de.
+
+Charlotte Markert, Email: charlotte.markert@psychol.uni-giessen.de.
+
+Sarah Golder, Email: sarah.golder@psychol.uni-giessen.de.
+
+Rhea Psarros, Email: rhea.psarros@psychol.uni-giessen.de.
+
+Julian P. Discher, Email: julian.p.discher@psychol.uni-giessen.de.
+
+Said Khatib, Email: said.khatib@psychol.uni-giessen.de.
+
+Julia Metzger, Email: julia.metzger@psychol.uni-giessen.de.
+
+Sebastian Palmer, Email: sebastian.palmer@psychol.uni-giessen.de.
+
+Johanna Rechmann, Email: johanna.rechmann@psychol.uni-giessen.de.
+
+Florian Storz, Email: florian.storz@psychol.uni-giessen.de.
+
+Bertram Walter, Email: bertram.walter@psychol.uni-giessen.de.
+
+Sarah Allard, Email: allard@psych.uni-frankfurt.de.
+
+Stephanie Antons, Email: stephanie.antons@uni-due.de.
+
+Marta Bledzka, Email: m.bledzka@awkv.de.
+
+Matthias Brand, Email: matthias.brand@uni-due.de.
+
+Sandra Dörrenbächer, Email: sandra.doerrenbaecher@uni-saarland.de.
+
+Julia Englisch, Email: julia.englisch@tk.de.
+
+Thilo Friehs, Email: thilo.friehs@rptu.de.
+
+Katja Da Cunha Gonçalves, Email: katja.goncalves@uni-osnabrueck.de.
+
+Anke Haberkamp, Email: anke.haberkamp@staff.uni-marburg.de.
+
+Mila Hall, Email: hall@uni-trier.de.
+
+Schahryar Kananian, Email: kananian@psych.uni-frankfurt.de.
+
+Pascal Kemmerer, Email: pascal.kemmerer@unimedizin-mainz.de.
+
+Doerthe Klingelhöfer, Email: gf@awkv.de.
+
+Wolfgang Lutz, Email: lutzw@uni-trier.de.
+
+Christiane A. Melzig, Email: melzig@uni-marburg.de.
+
+Tanja Michael, Email: t.michael@mx.uni-saarland.de.
+
+Anja Neumann, Email: anja.neumann@medman.uni-due.de.
+
+Silke Neusser, Email: silke.neusser@medman.uni-due.de.
+
+Anja Niemann, Email: anja.niemann@medman.uni-due.de.
+
+Michael Odenthal, Email: michael.odenthal@uni-marburg.de.
+
+Julian Rubel, Email: julian.rubel@uni-osnabrueck.de.
+
+Sarah Schlierenkamp, Email: sarah.schlierenkamp@esfomed.de.
+
+Christian Speckemeier, Email: christian.speckemeier@esfomed.de.
+
+Luisa Ünlü, Email: uenlue@psych.uni-frankfurt.de.
+
+Rabea Vogt, Email: rabea.vogt@rptu.de.
+
+Klaus Wölfling, Email: woelfling@uni-mainz.de.
+
+Wiebke Zachariassen, Email: wiebke.zachariassen@dak.de.
+
+Gerrit zur Hausen, Email: gerrit.zurhausen@kks.uni-marburg.de.
+
+Christine Heinz, Email: christine.heinz@kks.uni-marburg.de.
+
+References

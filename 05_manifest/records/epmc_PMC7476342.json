@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7476342",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexting and Substance Use among Women Arrested for Domestic Violence: A Brief Report.",
+  "authors": "Florimbio AR, Brem MJ, Grigorian HL, Garner AR, Stuart GL.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1177/1178221820946332",
+  "pmcid": "PMC7476342",
+  "url": "https://europepmc.org/article/PMC/PMC7476342",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7476342/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Background Advances in technology provide opportunities for communication using electronic mediums. Sexting is one form of electronic communication and includes the sending of explicit sexual content (e.g., photos, text) through electronic mediums. Previous research demonstrated a positive association between sexting and behaviors such as substance use. Moreover, substance use increases the risk for intimate partner violence and is also associated with risky behaviors. Objectives The aim of the present study was to examine the prevalence of sexting in a sample of 84 women mandated to attend batterer intervention programs following arrest for domestic violence. The associations between sexting, substance use, and intimate partner violence were also examined. Method Participants completed self-report questionnaires that assessed sexting, intimate partner violence, and alcohol and drug use symptoms. Results Fifty-four percent of participants reported being asked to send a sext, 35.1% reported sending a sext, and 32.0% reported requesting a sext. Drug use symptoms were positively associated with some forms of sexting and intimate partner violence. There was a significant difference in drug use symptoms, such that women who received a request to send a sext had significantly more symptoms relative to women who had not received a request to send a sext. Conclusion This is the first examination of sexting in a sample of women arrested for domestic violence. Findings indicate an association between drug use symptoms, sexting, and intimate partner violence, warranting continued research in this domain.",
+  "raw_path": "01_raw/europepmc_xml/PMC7476342.xml",
+  "text_path": "02_text/europepmc/PMC7476342.txt",
+  "raw_bytes": 34945,
+  "text_chars": 12081,
+  "raw_sha256": "c0624232a60ba31e593e36146365ab00c3e6555fc351faf942d70985e9b3d487",
+  "text_sha256": "3dcff53183eeab8726faf52dffd790e1ab42d8739368319acd56808a79a911c8",
+  "retrieved_at": "2026-10-26T13:10:28.822297+00:00"
+}

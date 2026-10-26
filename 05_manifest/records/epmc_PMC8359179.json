@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8359179",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Satisfying and stable couple relationships: Attachment similarity across partners can partially buffer the negative effects of attachment insecurity.",
+  "authors": "Conradi HJ, Noordhof A, Kamphuis JH.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1111/jmft.12477",
+  "pmcid": "PMC8359179",
+  "url": "https://europepmc.org/article/PMC/PMC8359179",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8359179/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "apology_repair"
+  ],
+  "abstract": "Insecure attachment in couples is negatively associated with relationship functioning. Similarity of partner attachment on the other hand might attenuate such relationship outcomes. We tested the opposing insecurity and similarity hypotheses by examining associations of attachment with relationship satisfaction and instability in a representative community sample of couples (N = 1,014). We expected: (a) negative effects of insecure attachment (main effects of actor and partner avoidance and anxiety, and interaction effects consistent with fearful-avoidance and demand-withdraw patterns); and (b) positive effects of similarity in avoidance and anxiety. Actor-Partner-Interdependence Models showed clear support for the insecurity hypothesis. Main effects of avoidance and anxiety, explained 46.2% of the variance of satisfaction, and 17.9% of instability. We conclude that reducing insecurity of attachment, in particular avoidance, must be a central target in couple therapy. Interestingly, similarity of attachment can partially buffer the negative effects of attachment insecurity. Clinical implications are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC8359179.xml",
+  "text_path": "02_text/europepmc/PMC8359179.txt",
+  "raw_bytes": 120209,
+  "text_chars": 45300,
+  "raw_sha256": "81f6a6ad5aef16b73a7e658cb0a0261f2f4ae645c3765831f2c5a4ee13a1bf8e",
+  "text_sha256": "857efc5fa8ff6794d959a24b4994f4af308b673d5b2402acda3bccc0aa0b22d9",
+  "retrieved_at": "2026-10-25T15:27:00.278121+00:00"
+}

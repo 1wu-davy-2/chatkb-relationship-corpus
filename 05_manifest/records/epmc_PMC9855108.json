@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9855108",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Is There a Male-Breadwinner Norm? The Hazards of Inferring Preferences from Marriage Market Outcomes.",
+  "authors": "Binder AJ, Lam D.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3368/jhr.58.2.0320-10803r1",
+  "pmcid": "PMC9855108",
+  "url": "https://europepmc.org/article/PMC/PMC9855108",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9855108/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_market"
+  ],
+  "abstract": "This paper argues that distributions of spousal earnings gaps provide no identifying information for the male breadwinner norm, nor such a norm's consequences for gender inequality. First, we show that simple marital matching models-without norm-related assumptions-closely replicate U.S. distributions of wife-husband earnings gaps. Second, we show that the discontinuity in this distribution as wives start to out-earn husbands reflects not breadwinner norms, but rather a point mass of equal-earning couples. We conclude by arguing that the point mass may also threaten other tests of the male breadwinner hypothesis, and proposing several robustness checks that future research should utilize.",
+  "raw_path": "01_raw/europepmc_xml/PMC9855108.xml",
+  "text_path": "02_text/europepmc/PMC9855108.txt",
+  "raw_bytes": 159270,
+  "text_chars": 59530,
+  "raw_sha256": "3319acd96a63ec08778a9e382381cf1692bcfd07d936ca6d7f22a146dd484ef3",
+  "text_sha256": "532f50a0ad0b961e3b1e84321f29a75d1d45925d531ebbb51bdc1f995cd8c4ee",
+  "retrieved_at": "2026-10-25T15:36:11.261670+00:00"
+}

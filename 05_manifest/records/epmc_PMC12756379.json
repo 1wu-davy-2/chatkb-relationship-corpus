@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12756379",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Are we doing good? Perceived emotion regulation success and relationship quality in couples.",
+  "authors": "Li Y, Kunzmann U, Kanske P, Rohr MK.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1683846",
+  "pmcid": "PMC12756379",
+  "url": "https://europepmc.org/article/PMC/PMC12756379",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12756379/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "emotion_regulation"
+  ],
+  "abstract": "Introduction Emotion regulation (ER) plays a central role in shaping relationship quality and stability. However, little is known about how individuals' perceptions of their own ER success (as regulators), their partner's ER success (as targets), and the similarity of these perceptions relate to relationship quality across gender and age groups. Methods The study investigated these associations in a dyadic sample of 37 younger couples ( M age = 24.33) and 41 older couples ( M age = 70.27). Both partners reported their perceived ER success and relationship quality. Bayesian structural equation modeling (BSEM) was used to examine actor, partner, and similarity effects across gender and age. Results Higher perceived ER success was associated with greater relationship quality. This association was particularly evident among women and older ones. Among men, similarity between their perceived success as regulators and targets emerged as a unique predictor of their higher relationship quality. Discussion These findings advance the understanding of gender- and age-specific emotional processes in romantic relationships and suggest that fostering women's emotional self-awareness-especially in later life-and enhancing mutual emotional understanding among men can strengthen relationship quality.",
+  "raw_path": "01_raw/europepmc_xml/PMC12756379.xml",
+  "text_path": "02_text/europepmc/PMC12756379.txt",
+  "raw_bytes": 157983,
+  "text_chars": 45399,
+  "raw_sha256": "adb2dc5ba251329b313c81e75058b5a655fd3a3b0c7f94d4c5fd799737cfe7f6",
+  "text_sha256": "dbd1987aaeb7d9f1faa5b910cf5583be4c51fac628c35d38a0c31c1dd830156c",
+  "retrieved_at": "2026-10-25T15:33:47.479404+00:00"
+}

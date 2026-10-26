@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12062546",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Self-regulatory Sex Motives Scale in Online Dating: Exploratory Factor Analysis and Internal Consistency.",
+  "authors": "Fereidooni F, Daniels JK, Lommen MJJ.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/10778012241243048",
+  "pmcid": "PMC12062546",
+  "url": "https://europepmc.org/article/PMC/PMC12062546",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12062546/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "first_date",
+    "infidelity_sex"
+  ],
+  "abstract": "Risky sex behavior is common among online dating users. Understanding the motives behind risky sex behavior might help identify suitable targets for prevention. We developed the Self-regulatory Sex Motives Scale in Online Dating (SSOD) to assess sex motives for casual sex in online dating users. This study evaluated the psychometric properties of the SSOD and examined the relationship between sex motives indexed by the SSOD and risky sex behavior. The new scale showed high internal consistency. Exploratory factor analysis suggested a one-factor solution. Sex motives were related to a higher frequency of having sex on the first date.",
+  "raw_path": "01_raw/europepmc_xml/PMC12062546.xml",
+  "text_path": "02_text/europepmc/PMC12062546.txt",
+  "raw_bytes": 99183,
+  "text_chars": 27449,
+  "raw_sha256": "2ad0353865f402303dc7406114073be61a761998ddcbd205a2576da0ce4a6797",
+  "text_sha256": "143dda6f456dc70901954f015140cceb0480a90bea6a5607aa4d5a14a948cbdd",
+  "retrieved_at": "2026-10-25T13:58:52.508202+00:00"
+}

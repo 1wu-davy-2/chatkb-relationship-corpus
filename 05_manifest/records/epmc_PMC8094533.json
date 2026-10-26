@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8094533",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Neural and Molecular Contributions to Pathological Jealousy and a Potential Therapeutic Role for Intranasal Oxytocin.",
+  "authors": "Zheng X, Kendrick KM.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fphar.2021.652473",
+  "pmcid": "PMC8094533",
+  "url": "https://europepmc.org/article/PMC/PMC8094533",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8094533/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "Romantic jealousy, especially in its pathological form, is a significant contributor to both domestic abuse, including partner sexual coercion and even murder, although relatively little research has been conducted on it. Both obsessive and delusional forms have been identified although only the latter is currently recognized as a pathological disorder. Studies in both clinical and healthy populations have identified altered fronto-striatal responsivity as being associated primarily with romantic jealousy and to date drug based treatments have targeted both dopaminergic and serotonergic systems. However, there is increasing interest in a potential role for the neuropeptide oxytocin, which can also modulate dopaminergic and serotonin systems in the brain and has been shown to altered in other psychotic conditions, such as schizophrenia and obsessive compulsive disorder. Recent studies in healthy populations have reported that when oxytocin is administered intranasally it can influence the brain to promote strengthening of romantic bonds and reduce romantic jealousy in both men and women evoked in either imagined or real contexts. These findings indicate a possible therapeutic use of intranasal oxytocin administration in pathological jealousy.",
+  "raw_path": "01_raw/europepmc_xml/PMC8094533.xml",
+  "text_path": "02_text/europepmc/PMC8094533.txt",
+  "raw_bytes": 122350,
+  "text_chars": 26059,
+  "raw_sha256": "955227889cac2c8069c82629e12dea559920e0cc955fbf768e5a5af21a535be1",
+  "text_sha256": "d452fdf988003e786b76c8ea00c03997ae2fcb575b6134b11235075d1a3ffc8e",
+  "retrieved_at": "2026-10-26T13:14:12.460941+00:00"
+}

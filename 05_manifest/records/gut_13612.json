@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_13612",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_sexuality_science",
+  "title": "Studies in the Psychology of Sex, Volume 3",
+  "gutenberg_id": "13612",
+  "url": "https://www.gutenberg.org/ebooks/13612",
+  "download_url": "https://www.gutenberg.org/cache/epub/13612/pg13612.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "sexuality",
+    "psychology",
+    "public_domain",
+    "psychology of sex"
+  ],
+  "raw_path": "01_raw/gutenberg/13612.txt",
+  "text_path": "02_text/gutenberg/gut_13612_studies_in_the_psychology_of_sex_volume.txt",
+  "raw_bytes": 979851,
+  "text_chars": 904863,
+  "text_sha256": "2c5de8c8540260c825fb8b3f846542acd6ebaba5fcd9d6496210fcd6b2e2c819",
+  "retrieved_at": "2026-10-26T13:00:53.271944+00:00"
+}

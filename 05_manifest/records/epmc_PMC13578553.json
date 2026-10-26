@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13578553",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Core Processes in Emotionally Focused Couple Therapy: Testing Hypothesized Associations in Two Independent Samples.",
+  "authors": "Conradi HJ, Jonker S, Noordhof A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/famp.70191",
+  "pmcid": "PMC13578553",
+  "url": "https://europepmc.org/article/PMC/PMC13578553",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13578553/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "Emotionally Focused Couple Therapy (EFCT) is a widely used, evidence-based treatment with established effectiveness, and several underlying mechanisms have been examined. However, the assumptions of the full EFCT model have not yet been tested. The basic model proposes four interrelated layers within and between partners: (1) relationship satisfaction depends on (2) need fulfillment, which results from (3) support-giving, and is moderated by (4) attachment, emotional awareness/clarity, and conflict styles. We tested these associations using Structural Equation Modeling in AMOS with Actor-Partner Interdependence Modeling in two independent Dutch samples (N = 848 and N = 938 partners). We found strong support for the basic model and successfully replicated this result: relationship satisfaction was explained for 60%-71% by the underlying layers, need fulfillment for 88%-89%, and support giving for 51%-53%. Extending layer (4) with emotion regulation and repair added little more explained variance, whereas extending it with validation did. The pivotal EFCT interaction, support-seeking and support-giving, was primarily explained by attachment and validation, with validation emerging as an important novel finding. This suggests a specific implication for clinical practice: reducing insecure attachment, particularly avoidance, and enhancing validation of each other's emotions and needs may be key therapeutic targets.",
+  "raw_path": "01_raw/europepmc_xml/PMC13578553.xml",
+  "text_path": "02_text/europepmc/PMC13578553.txt",
+  "raw_bytes": 169012,
+  "text_chars": 57929,
+  "raw_sha256": "e74ef684e08945be9508c5483260ffcf2ef596611266a7cdff4c4b5c1c5c6ab2",
+  "text_sha256": "a152a9513de00bf40af1bfed794b92da8ea751b7c6fa12f5a9be4227742bc676",
+  "retrieved_at": "2026-10-25T14:01:07.482177+00:00"
+}

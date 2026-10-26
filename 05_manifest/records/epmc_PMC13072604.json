@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13072604",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Forty years on one pillow: an examination of long-term marital dynamics.",
+  "authors": "Pala ZK, Güler ÇY.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-04135-y",
+  "pmcid": "PMC13072604",
+  "url": "https://europepmc.org/article/PMC/PMC13072604",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13072604/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "commitment"
+  ],
+  "abstract": "In this study, the views of individuals who have been married for a long period of time on their marital life were analyzed. The research was conducted with 14 individuals whose marriage duration ranged between 15 and 31. The research data were obtained from semistructured interviews with the participants. In the interviews, 23 questions were asked about demographic information, marital status and thoughts. The interviews lasted approximately 40–50 min. The data obtained from the interviews were content analyzed. In line with the views of the participants, the answers were classified into six main categories. These categories are as follows: sense of being a family and togetherness; communication; emotional dynamics; roles and responsibilities, spending time together; and boundaries. The findings show that, long-term marital dynamics indicate that spouses are satisfied with their marriage, feel safe and peaceful, and have emotional dynamics that include feelings such as respect, love, commitment, trust, gratitude, and thankfulness. Considering the relationship styles of the spouses, they were happy to spend time together and tried to fulfill their roles and responsibilities effectively.",
+  "raw_path": "01_raw/europepmc_xml/PMC13072604.xml",
+  "text_path": "02_text/europepmc/PMC13072604.txt",
+  "raw_bytes": 115146,
+  "text_chars": 50610,
+  "raw_sha256": "3f443f943c37b4bab26ef640b376d9694745bf3c3da43124161d81824dd1d64d",
+  "text_sha256": "53d5e74a854217e2db39735ecbc3437f6482a05d47d57c1fb5b5955b2289a759",
+  "retrieved_at": "2026-10-25T13:53:45.318512+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_feng_shui",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "風水",
+  "requested_title": "风水",
+  "url": "https://zh.wikipedia.org/wiki/%E9%A2%A8%E6%B0%B4",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 風水",
+  "topics": [
+    "superstition",
+    "china",
+    "culture"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/feng_shui.json",
+  "text_path": "02_text/zh_wikipedia/feng_shui.txt",
+  "raw_bytes": 18372,
+  "text_chars": 6508,
+  "text_sha256": "c078b427b27c47891f3abce8b37c9d6033381e77623e1e1548cc3073c5f5f439",
+  "retrieved_at": "2026-10-26T13:04:03.748796+00:00"
+}

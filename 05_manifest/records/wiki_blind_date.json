@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_blind_date",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "相亲",
+  "requested_title": "相亲",
+  "url": "https://zh.wikipedia.org/wiki/%E7%9B%B8%E4%BA%B2",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "dating",
+    "china",
+    "matchmaking"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/blind_date.json",
+  "text_path": "02_text/zh_wikipedia/blind_date.txt",
+  "raw_bytes": 2571,
+  "text_chars": 957,
+  "text_sha256": "e23566ce6d9bba6088e59efb86bacdb7ee539e4e31b2afff8b6d2908cfb7cad7",
+  "retrieved_at": "2026-10-25T15:41:01.137879+00:00"
+}

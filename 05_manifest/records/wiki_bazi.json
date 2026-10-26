@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_bazi",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "八字",
+  "requested_title": "八字",
+  "url": "https://zh.wikipedia.org/wiki/%E5%85%AB%E5%AD%97",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 八字",
+  "topics": [
+    "divination",
+    "china",
+    "culture"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/bazi.json",
+  "text_path": "02_text/zh_wikipedia/bazi.txt",
+  "raw_bytes": 4414,
+  "text_chars": 1837,
+  "text_sha256": "e259c30a59bbca507de3ffb8b215a6735c7ad019ab54742ff41156bf3f1eb3e0",
+  "retrieved_at": "2026-10-26T13:03:59.611681+00:00"
+}

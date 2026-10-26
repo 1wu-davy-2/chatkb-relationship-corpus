@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10507330",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Jealousy, sexism, and romantic love myths: the role of beliefs in online dating violence.",
+  "authors": "Ramírez-Carrasco D, Ferrer-Urbina R, Ponce-Correa F.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2023.1212737",
+  "pmcid": "PMC10507330",
+  "url": "https://europepmc.org/article/PMC/PMC10507330",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10507330/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "With the massification of the Internet and social networks, a new form of dating violence called cyber-violence has emerged, which involves behaviors of control, humiliation, intimidation and threats towards the partner or ex-partner. Using a non-probabilistic sample of 1,001 participants aged 18 to 25 years, the present study used an ex post facto , retrospective, cross-sectional, single-group design to analyze the joint effects that beliefs associated with dating violence such as romantic love myths, jealousy, and sexism have on the victimization and perpetration of cyber-violence. The results evidenced that jealousy is involved in both Cyber-victimization and Cyber-harassment perpetrated, while sexist beliefs are only involved in perpetration. In the discussion section, it is postulated that cyber-violence is a phenomenon that is more related to the probability of aggression, but not to the probability of being a victim. Finally, limitations and implications for future research are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC10507330.xml",
+  "text_path": "02_text/europepmc/PMC10507330.txt",
+  "raw_bytes": 114227,
+  "text_chars": 27113,
+  "raw_sha256": "40ec8d446a175a68b50c24a35928fe8233551cc8d9178e74107e113804af5193",
+  "text_sha256": "92e6b69550dadf9a980da079ed14fcc3312e426103624dc7e1e78585854282f9",
+  "retrieved_at": "2026-10-25T15:36:46.845019+00:00"
+}

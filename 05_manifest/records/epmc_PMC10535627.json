@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10535627",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Cyber dating abuse and ghosting behaviours: personality and gender roles in romantic relationships.",
+  "authors": "Biolcati R, Pupi V, Mancini G.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.5114/cipp.2021.108289",
+  "pmcid": "PMC10535627",
+  "url": "https://europepmc.org/article/PMC/PMC10535627",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10535627/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "ghosting"
+  ],
+  "abstract": "Background Cyber dating abuse (CDA) refers to physical, verbal, and psychological violence perpetrated towards a romantic partner via technology and social media. Another emerging form of online abuse is ghosting, a silent strategy to dissolve undesired relationships without openly having to break them up. The aims of the current study were (i) to explore the relationship between CDA and ghosting behaviours in romantic relationships and (ii) to investigate the roles of gender and personality traits (conscientiousness, agreeableness, extraversion, emotional stability, openness) in prediction of CDA (perpetration and victimization). Participants and procedure A sample of 409 participants (64.8% females), aged between 18 and 53 years ( M age = 26.40, SD = 6.06), took part in the study. Results CDA and ghosting behaviours are interrelated, and women were more prone than men were to use ghosting strategies, such as stopping messages abruptly and punishing the partner through silence. Moreover, gender and personality traits differently predicted direct aggression and control/monitoring perpetration and direct aggression victimization, but they were not significant predictors of control/ monitoring victimization. Conclusions The findings are discussed in light of gender differences to improve our understanding of the psychological factors involved in cyber dating violence.",
+  "raw_path": "01_raw/europepmc_xml/PMC10535627.xml",
+  "text_path": "02_text/europepmc/PMC10535627.txt",
+  "raw_bytes": 119359,
+  "text_chars": 38773,
+  "raw_sha256": "a81917286ecfd54e767829bc8e0f7f42525d92d33f4662d7705ff18301900535",
+  "text_sha256": "ea7d1fcb0a6a9a5e5fd61d0be4f6c6619611b5dcbbd41dbc1d03df5882720bf8",
+  "retrieved_at": "2026-10-25T13:52:00.671435+00:00"
+}

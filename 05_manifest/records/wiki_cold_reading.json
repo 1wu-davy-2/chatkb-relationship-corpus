@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_cold_reading",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "冷讀法",
+  "requested_title": "冷读术",
+  "url": "https://zh.wikipedia.org/wiki/%E5%86%B7%E8%AE%80%E6%B3%95",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 冷讀法",
+  "topics": [
+    "influence",
+    "psychology",
+    "skepticism"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/cold_reading.json",
+  "text_path": "02_text/zh_wikipedia/cold_reading.txt",
+  "raw_bytes": 3796,
+  "text_chars": 1577,
+  "text_sha256": "6729a1a3743d58b7232d5b066310d759ed68347513145ce67a887a407cb17a53",
+  "retrieved_at": "2026-10-26T13:02:59.520492+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6667403",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mind the \"Happiness\" Gap: The Relationship Between Cohabitation, Marriage, and Subjective Well-being in the United Kingdom, Australia, Germany, and Norway.",
+  "authors": "Perelli-Harris B, Hoherz S, Lappegård T, Evans A.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1007/s13524-019-00792-4",
+  "pmcid": "PMC6667403",
+  "url": "https://europepmc.org/article/PMC/PMC6667403",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6667403/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "Many studies have found that married people have higher subjective well-being than those who are not married. Yet the increase in cohabitation raises questions as to whether only marriage has beneficial effects. In this study, we examine differences in subjective well-being between cohabiting and married men and women in midlife, comparing the United Kingdom, Australia, Germany, and Norway. We apply propensity score-weighted regression analyses to examine selection processes into marriage and differential treatment bias. We find no differences between cohabitation and marriage for men in the United Kingdom and Norway, and women in Germany. However, we do find significant differences for men in Australia and women in Norway. The differences disappear after we control for selection in Australia, but they unexpectedly persist for Norwegian women, disappearing only when we account for relationship satisfaction. For German men and British and Australian women, those with a lower propensity to marry would benefit from marriage. Controls eliminate differences for German men, although not for U.K. women, but relationship satisfaction reduces differences. Overall, our study indicates that especially after selection and relationship satisfaction are taken into account, differences between marriage and cohabitation disappear in all countries. Marriage does not lead to higher subjective well-being; instead, cohabitation is a symptom of economic and emotional strain.",
+  "raw_path": "01_raw/europepmc_xml/PMC6667403.xml",
+  "text_path": "02_text/europepmc/PMC6667403.txt",
+  "raw_bytes": 209734,
+  "text_chars": 59100,
+  "raw_sha256": "a8092754ff2c52ab7346f1137df3c42860d2820e1840885f0e67da5eea3c8ed8",
+  "text_sha256": "2be39d65bf3b166ed372aa1572a99732307a0b552d284808ebe6731bcdc1c8fa",
+  "retrieved_at": "2026-10-25T15:44:21.512673+00:00"
+}

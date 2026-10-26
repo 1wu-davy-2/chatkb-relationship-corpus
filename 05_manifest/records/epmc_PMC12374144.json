@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12374144",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Peer Support Specialist-Delivered Sexual and Intimate Partner Violence Prevention Program for Women in Substance Use Treatment: Protocol for a Single-Arm Trial.",
+  "authors": "Zinzow HM, Pericot-Valverde I, Smalls L, Brancato MG, Chapman G, Smith A, Thompson A, Greco C, Shank M, Eichelberger KY, Smith K, Litwin AH.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.2196/68673",
+  "pmcid": "PMC12374144",
+  "url": "https://europepmc.org/article/PMC/PMC12374144",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12374144/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Background Women in substance use treatment are disproportionately affected by violence. Both a history of violence and substance use place women at risk for cumulative exposure to violence and adverse outcomes, including mental and physical health problems. Interventions are urgently needed to reduce these health disparities by preventing initial and repeated exposure to sexual and intimate partner violence among women with substance use disorders (SUDs). The Healthy Relationships and Interpersonal Violence Education (THRIVE) program adapts evidence-based strategies for this population and is informed by the information, motivation, behavioral skills theoretical model. Topics include the intersection of substance use and violence, consent, risk detection, protective behavioral strategies, and help seeking. THRIVE uses a novel approach by delivering the program via peer support specialists (PSSs), trained advocates in recovery from SUDs who can help overcome barriers to care, including stigma and accessibility. Objective The first objective is to determine program acceptability and feasibility. The second objective is to determine the preliminary effectiveness of THRIVE, including its effect on violence-related knowledge and attitudes, protective behaviors, exposure to sexual and intimate partner violence, substance use, and mental health. Methods The study entailed a single-arm trial of THRIVE with 71 women in behavioral and medication-assisted substance use treatment, recruited from 3 outpatient and residential treatment sites. Interview data assessing intervention acceptability and feasibility were collected from participants and PSSs. Participants completed assessments at 4 time points over 3 months (baseline, after the intervention, and 1- and 3-month follow-ups). Self-report questionnaires assessed (1) violence prevention knowledge, attitudes, and behaviors; (2) exposure to sexual and intimate partner violence; and (3) substance use and mental health. To determine acceptability and feasibility, both quantitative and qualitative data were collected on feasibility (recruitment and retention), adherence, and acceptability (engagement, perceived usefulness, barriers and facilitators to participation and adoption, and working alliance with PSSs). Results Of the 92 women recruited and enrolled, 71 (77%) completed the intervention, 58 (63%) completed the 1-month follow-up, and 44 (48%) completed the 3-month follow-up between June 2024 and March 2025. The mean age of enrolled participants was 35 (SD 9.87) years, and the majority were White (n=79, 86%), followed by Black (n=4, 4%) and other racial and ethnic identities (n=7, 8%). Conclusions THRIVE will address critical gaps in the field by (1) expanding violence prevention strategies to SUD treatment settings, (2) integrating sexual and intimate partner violence prevention, (3) incorporating a focus on illicit substance use, and (4) engaging PSSs to overcome barriers to care. The long-term objective of this project is to develop an accessible, scalable, and efficacious prevention program that reduces the incidence of exposure to sexual and intimate partner violence, substance use, and violence-related mental health disorders for women in substance use treatment. Trial registration ClinicalTrials.gov NCT06608979; https://clinicaltrials.gov/study/NCT06608979. International registered report identifier (irrid) DERR1-10.2196/68673.",
+  "raw_path": "01_raw/europepmc_xml/PMC12374144.xml",
+  "text_path": "02_text/europepmc/PMC12374144.txt",
+  "raw_bytes": 190093,
+  "text_chars": 51047,
+  "raw_sha256": "eab07568aba101ed12583f5ee34ee3c318c3960a0492c0f081cd672a55724b28",
+  "text_sha256": "fcac782b5116c79b357ca28e660f19964951983134e947b2bef5ace39f582dd2",
+  "retrieved_at": "2026-10-25T15:48:03.104071+00:00"
+}

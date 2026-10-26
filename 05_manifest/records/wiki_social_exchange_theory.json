@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_social_exchange_theory",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "社会交换论",
+  "requested_title": "社会交换理论",
+  "url": "https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E4%BA%A4%E6%8D%A2%E8%AE%BA",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 社会交换论",
+  "topics": [
+    "sociology",
+    "relationship",
+    "money"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/social_exchange_theory.json",
+  "text_path": "02_text/zh_wikipedia/social_exchange_theory.txt",
+  "raw_bytes": 11776,
+  "text_chars": 4287,
+  "text_sha256": "c5d894b79d5381a466137c6ddd5ddf1c8b65b9e3113c040b0c250c5abd49b351",
+  "retrieved_at": "2026-10-25T16:10:01.458475+00:00"
+}

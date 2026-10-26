@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12465870",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Attitudes toward marriage among university students enrolled in a family counseling course: a comparative study.",
+  "authors": "Altarawneh RT.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40359-025-03343-2",
+  "pmcid": "PMC12465870",
+  "url": "https://europepmc.org/article/PMC/PMC12465870",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12465870/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_attitudes"
+  ],
+  "abstract": "Background Attitudes toward marriage (ATM) refers to an individual's perceptions, and expectations of marital relationships, influenced by their cultural background, psychosocial factors, family of origin, and experiences in university life. This study aimed to validate the marital attitude scale (MAS) in Arabic by conducting validity and reliability tests. It also aimed to explore the levels of ATM among university students. Moreover, it compared two groups (group 1: enrolled in a family counseling course vs. group 2: did not enroll in a family counseling course) based on several demographic factors of gender, marital status, age, and type of school. Methods This is a cross-sectional design among 450 university students in Amman-Jordan (102 participants enrolled in a family counseling course vs. 348 participants who did not enroll in this course). Data was collected from two public universities via online Google Forms from 10 September 2022 to 10 December 2022. Results Results indicated that the Arabic version of MAS is valid and reliable by achieving all the criteria levels. More than 65% of Jordanian university students have a positive ATM. Students who enrolled in a family counseling course have better ATM than students who have not enrolled in this course (p Conclusions The findings could inform educational policy and encourage universities to include family counseling courses in the curriculum of different schools. Pre-marital counseling sessions should be implemented for prospective spouses to develop their competencies in managing life stressors effectively.",
+  "raw_path": "01_raw/europepmc_xml/PMC12465870.xml",
+  "text_path": "02_text/europepmc/PMC12465870.txt",
+  "raw_bytes": 100934,
+  "text_chars": 29366,
+  "raw_sha256": "2464a2ef7398431bb209635b159d8c7888839e1a709916327f6c0e10b71d2b2e",
+  "text_sha256": "467a945cd1680a5039a2d357c09d88726ff14e5d2f010b8ba5924a60b8d18f88",
+  "retrieved_at": "2026-10-25T15:31:01.383455+00:00"
+}

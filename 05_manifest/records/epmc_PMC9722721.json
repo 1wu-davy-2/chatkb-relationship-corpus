@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9722721",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "What factors influence MOOC course completion? An investigation of course completion and workplace benefits from interpersonal attraction theory perspective.",
+  "authors": "Zhang G, Kim DW, Qi J, Zhao C.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2022.1055108",
+  "pmcid": "PMC9722721",
+  "url": "https://europepmc.org/article/PMC/PMC9722721",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9722721/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "MOOCs have attracted millions of learners worldwide by providing the public with convenient access to learning and quality educational resources, but the high dropout rate in MOOCs is still an urgent problem. Drawing upon Situation-Organism-Behavior-Consequence framework and interpersonal attraction theory, this study investigates the relationship between instructor attractiveness and MOOC course completion and further analyzes the impact of MOOC course completion on their career development. The results reveal that knowledge attractiveness and communication attractiveness significantly influence learners' thirst for knowledge. Communication attractiveness and physical attractiveness significantly influence learners' parasocial relationships. The thirst for knowledge and parasocial relationships are important antecedents of course completion for in-service learners and in-service learners' completion of MOOC courses positively affects their workplace benefits. The findings provide new perspectives for the research domain of online education.",
+  "raw_path": "01_raw/europepmc_xml/PMC9722721.xml",
+  "text_path": "02_text/europepmc/PMC9722721.txt",
+  "raw_bytes": 125039,
+  "text_chars": 37680,
+  "raw_sha256": "60f35696da6fa90800e94203f931cc390e9e8d2b3f244ddfceb26fa1f974b21a",
+  "text_sha256": "3331ae284d7c4eca10c54300989413f0f5e295539259c6783ba82814eb544144",
+  "retrieved_at": "2026-10-25T15:39:14.693551+00:00"
+}

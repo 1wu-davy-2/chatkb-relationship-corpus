@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11804577",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "No gender differences in attraction to young partners: A study of 4500 blind dates.",
+  "authors": "Eastwick PW, Finkel EJ, Meza EM, Ammerman K.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1073/pnas.2416984122",
+  "pmcid": "PMC11804577",
+  "url": "https://europepmc.org/article/PMC/PMC11804577",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11804577/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "In mixed-gender couples, men are older than women on average. Scholars and laypeople presume that this arrangement reflects mirrored preferences such that men desire younger partners and women desire older partners. Nevertheless, relevant published data on in-person romantic evaluations-that is, studies where adults interact in person and report their initial attraction to each other-are nearly nonexistent. We examined the association of a partner's age with romantic desire ( N = 9,084 dyadic reports) among N = 6,262 blind daters who used a matchmaking service in hopes of finding a long-term partner. Preregistered tests revealed that people were (slightly) attracted to younger partners on average-and this association did not differ by gender. Conclusions were identical if we examined a) age difference from one's own age, and b) a dataset limited to women 40-and-under and mixed-gender dates. Furthermore, participant's self-reported \"upper-age limits\" played no meaningful role: Participants had a modest preference for youth overall, but it did not matter whether the partner's age fell below or above this personal maximum. We discuss the implications of the nonexistent initial-attraction gender difference for the age difference in mixed-gender couples.",
+  "raw_path": "01_raw/europepmc_xml/PMC11804577.xml",
+  "text_path": "02_text/europepmc/PMC11804577.txt",
+  "raw_bytes": 102756,
+  "text_chars": 40008,
+  "raw_sha256": "1b2507d8db7aa9ec935e73e41f9f5fbed698ab5572bdf318ba17012bba8730b1",
+  "text_sha256": "17dbf4c4bff79afc7f92ce25ab35d304d4eaa028201188ae7e7410614e831683",
+  "retrieved_at": "2026-10-25T13:59:31.257264+00:00"
+}

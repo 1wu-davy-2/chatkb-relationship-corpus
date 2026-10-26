@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11379231",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The story of 'us' is the story of 'me': A cross-sectional test of the influence of insecure attachment on narratives of romantic transgressions and high points.",
+  "authors": "Lamarche VM, Blackie LER, McLean KC.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0306838",
+  "pmcid": "PMC11379231",
+  "url": "https://europepmc.org/article/PMC/PMC11379231",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11379231/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Narratives play an important role in the development of the self-identity. Romantic relationships offer a powerful context in which to develop these narratives about the self through the good and the bad experiences people have with their partners. However, the stories we tell can also be colored by how we already see ourselves. In a secondary analysis, using a prospective longitudinal study of people in established romantic relationships (N = 402), we tested pre-registered hypotheses regarding how attachment anxiety and avoidance lead people to develop narratives about their relationship high-points and transgressions, and whether these narratives influence their relationship satisfaction over time. Relatively higher avoidance, but not anxiety, was related to narrative construction. Those relatively higher in avoidance made more negative event connections about themselves in their transgression narratives, and more positive event connections about themselves in their relationship high-point narratives. Narrative content, however, did not mediate the association between attachment anxiety and avoidance and relationship satisfaction. Despite the lack of support for some of our pre-registered hypotheses, these findings provide valuable insights into how insecure attachment influences the stories people tell about their relationships, and how they link these events back to the self.",
+  "raw_path": "01_raw/europepmc_xml/PMC11379231.xml",
+  "text_path": "02_text/europepmc/PMC11379231.txt",
+  "raw_bytes": 158272,
+  "text_chars": 55951,
+  "raw_sha256": "895067b11a9b345fd74784155ed2b17e29ac49eea47d2a3a516c179f9311686f",
+  "text_sha256": "81e5b6810e56aed64b6be1f7db994f3a509e646dcd797d94bf8a2c633eb4b1c1",
+  "retrieved_at": "2026-10-25T15:47:55.333115+00:00"
+}

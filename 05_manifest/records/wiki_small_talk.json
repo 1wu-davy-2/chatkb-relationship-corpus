@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_small_talk",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "闲聊",
+  "requested_title": "闲聊",
+  "url": "https://zh.wikipedia.org/wiki/%E9%97%B2%E8%81%8A",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "conversation",
+    "skills"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/small_talk.json",
+  "text_path": "02_text/zh_wikipedia/small_talk.txt",
+  "raw_bytes": 8754,
+  "text_chars": 3207,
+  "text_sha256": "bf679e2b23260ffc08fcec02eebe9215bb3d7640dd2b3ee5cad15acea6887edb",
+  "retrieved_at": "2026-10-25T16:00:03.826514+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11798675",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring sexual and romantic functioning as early risk factors of schizophrenia: a narrative review.",
+  "authors": "Dospělová P, Šustová P, Zakreski E, Androvičová R.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1093/sexmed/qfaf002",
+  "pmcid": "PMC11798675",
+  "url": "https://europepmc.org/article/PMC/PMC11798675",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11798675/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy",
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Background Patients with schizophrenia frequently encounter challenges related to sexuality and intimacy; however, the underlying causes of these difficulties remain unknown and unexplored. Aim This narrative review aims to explore how the biological/hormonal and psychological/behavioral developmental trajectories in schizophrenia patients deviate from the normal course and to examine their connection to difficulties in sexual and romantic functioning. Methods A comprehensive literature search was conducted using PubMed and Google Scholar, with key terms related to schizophrenia and sexual development without restriction on publication year. Articles discussing behavioral, sexual, or psychological/behavioral development before the onset of schizophrenia were included. Articles were divided into biological/hormonal and psychological/behavioral precursor categories. Additional searches were conducted to explore the broader sociocognitive context of schizophrenia, such as deficits in empathy, emotional processing, and theory of mind. Outcomes The review highlights deviations in both biological/hormonal and psychological/behavioral development in schizophrenia that contribute to difficulties in romantic and sexual relationships. Results This narrative review addresses the extent to which biological, psychological, and social factors in schizophrenia may be closely intertwined. Abnormalities in the hypothalamic-pituitary-gonadal and hypothalamic-pituitary-adrenal axes have been documented in individuals with schizophrenia, potentially impairing sociosexual competencies and leading to behavioral challenges in forming sexual relationships. Deficits in theory of mind, emotional processing, and empathy may further hinder the ability to form and sustain intimate relationships, amplifying the social difficulties associated with schizophrenia. Additionally, early life traumas, especially sexual abuse, can contribute to sexual difficulties and worsen the disorder. Clinical translation Understanding the deviations from the normal developmental course in schizophrenia patients may offer valuable insights for potential intervention strategies and remediation approaches and contribute to improvements in sexual/romantic functioning and overall sexual health in schizophrenia patients. Strengths and limitations This review provides an overview of the developmental precursors of schizophrenia-related sexual/romantic difficulties. Further research is needed to elucidate the specific mechanisms underlying these difficulties, particularly in determining the emotional and motivational salience of sexual stimuli and the capacity to engage in and maintain communication of sexual interest. The reader should bear in mind that narrative reviews lack systematic methods for selecting and evaluating studies, which can lead to author bias in choosing or interpreting sources. Conclusion The narrative review identified deviations in the biological/hormonal and psychological/behavioral developmental trajectories of schizophrenia patients, linking these abnormalities to difficulties in sexual and romantic functioning, and highlighting the need for sexological remediation strategies to improve sociosexual competencies and overall sexual health.",
+  "raw_path": "01_raw/europepmc_xml/PMC11798675.xml",
+  "text_path": "02_text/europepmc/PMC11798675.txt",
+  "raw_bytes": 173538,
+  "text_chars": 35984,
+  "raw_sha256": "eafa09bbf30c16015ee630c377ae5f3ebd1a3578d893f812878acad86ba21833",
+  "text_sha256": "1049b746e500199530688aa308f35ed97cbe12a5b9fb9c85676ea5a762a70139",
+  "retrieved_at": "2026-10-25T15:48:59.411865+00:00"
+}

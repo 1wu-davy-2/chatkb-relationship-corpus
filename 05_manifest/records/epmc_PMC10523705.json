@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10523705",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Measuring dysfunctional interpersonal beliefs: validation of the Interpersonal Cognitive Distortions Scale among a heterogeneous German-speaking sample.",
+  "authors": "Kirchner L, Kloft M, Arias Martín B, Berg M, Anjedanimoghadamaraghi P, Schäfer L, Rief W.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1186/s12888-023-05155-3",
+  "pmcid": "PMC10523705",
+  "url": "https://europepmc.org/article/PMC/PMC10523705",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10523705/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection_sensitivity"
+  ],
+  "abstract": "Backround Dysfunctional interpersonal beliefs (DIBs) are a key symptom domain in numerous mental disorders. Because DIBs exert a strong influence on social experience and behavior, they play an important role in a mental disorder's development and progression. To date, only the Interpersonal Cognitive Distortions Scale (ICDS) captures DIBs independently of specific disorders, populations, or contexts. The present study's aim was to psychometrically evaluate and validate a German translation of the ICDS. Methods The ICDS was administered along with indicators of convergent (rejection sensitivity, depressive expectations, interpersonal trust, interpersonal problems, perceived social support), discriminant (self-efficacy, perseverative negative thinking, optimism), and clinical validity (psychopathology, perceived stress, well-being) to a pooled sample incorporating non-clinical (N = 114) and clinical (N = 94) participants. Results An exploratory factor analysis (EFA) suggested a five-factor solution (factor loadings: .44 to .85). Correlational analyses demonstrated acceptable convergent (ρ = -.29 to -.35, ρ = .27 to .59), suboptimal discriminant (ρ = -.27 to -.38, ρ = .52), and acceptable clinical validity (ρ = -.21, ρ = .36 to .44) at the total-scale level. However, results at the subscale level were mixed and required nuanced interpretation. Likewise, internal consistency was acceptable at the total-scale level (α = .76), but ranged from good to poor at the subscale level (α = .61 to .80). DIBs mediated the negative relationship between mental disorder onset and psychopathology levels. Discussion Our results imply DIBs' relevance to mental health and related outcomes. When working with the ICDS's German version, we recommend employing only the \"insecurity\" subscale, as this was the only scale revealing acceptable psychometric properties. Future studies should improve the construct validity of the ICDS (and its subscales), e.g., by adding more items to the respective subscales and further classes of DIBs.",
+  "raw_path": "01_raw/europepmc_xml/PMC10523705.xml",
+  "text_path": "02_text/europepmc/PMC10523705.txt",
+  "raw_bytes": 191940,
+  "text_chars": 48808,
+  "raw_sha256": "8f5364f1ea463a21d8cd4d7fbf5887093355495730517277a8cf1a5435426f06",
+  "text_sha256": "5c9930d9f921a364c73761bff8499b7b4431646608d20feb138d9169230a9d9a",
+  "retrieved_at": "2026-10-25T15:29:23.421473+00:00"
+}

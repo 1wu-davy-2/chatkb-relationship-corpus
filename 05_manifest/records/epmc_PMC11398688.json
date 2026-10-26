@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11398688",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Romantic relationship configurations and their correlates among LGBTQ+ persons: A latent class analysis.",
+  "authors": "Cannas Aghedu F, Blais M, Séguin LJ, Côté I.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0309954",
+  "pmcid": "PMC11398688",
+  "url": "https://europepmc.org/article/PMC/PMC11398688",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11398688/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation",
+    "infidelity_sex"
+  ],
+  "abstract": "Research comparing monogamous and non-monogamous relationships on well-being indicators across diverse populations have yielded inconsistent findings. The present study investigates sociodemographic characteristics, as well as personal and relational outcomes, across different relationship configurations. Data were drawn from an online community-based sample of 1,528 LGBTQ+ persons aged 18 years and older in Quebec, Canada. A latent class analysis was performed based on legal relationship status, relationship agreement, cohabitation status, and the seeking of extradyadic sexual and romantic partners on the internet. Class differences on sociodemographic characteristics and well-being and relationship quality indicators were examined. A five-class solution best fit the data, highlighting five distinct relationship configurations: Formalized monogamy (59%), Free monogamy (20%), Formalized open relationship (11%), Monogamous considering alternatives (7%) and Free consensual non-monogamies (3%). Cisgender women were more likely to engage in monogamous relationships than cisgender men, who were overrepresented in open relationships. Lower levels of perceived partner support were observed in both free monogamous and consensually non-monogamous relationships, the latter of which also showed lower levels of well-being. Consensual non-monogamy researchers exploring relationship outcomes should examine relationship facets that go beyond relationship structure or agreement. Variations in monogamies and non-monogamies, both consensual and non-consensual, may be present within each broad relationship configuration, as reflected in different personal and relational needs, which can then translate to better or poorer outcomes.",
+  "raw_path": "01_raw/europepmc_xml/PMC11398688.xml",
+  "text_path": "02_text/europepmc/PMC11398688.txt",
+  "raw_bytes": 217460,
+  "text_chars": 40184,
+  "raw_sha256": "638c4b1b8636ade2a21fb08c4de7910904c23ee3ec7dcbb85cc7148a5f943824",
+  "text_sha256": "d3a234b83e6b1e56b4cacf2c64c3b8be59ecfa0a027db8cc4ca681dcedbef28d",
+  "retrieved_at": "2026-10-25T15:45:40.335315+00:00"
+}

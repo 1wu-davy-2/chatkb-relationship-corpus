@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5708731",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Measuring couple relationship quality in a rural African population: Validation of a Couple Functionality Assessment Tool in Malawi.",
+  "authors": "Ruark A, Chase R, Hembling J, Davis VR, Perrin PC, Brewster-Lee D.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0188561",
+  "pmcid": "PMC5708731",
+  "url": "https://europepmc.org/article/PMC/PMC5708731",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5708731/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_styles"
+  ],
+  "abstract": "Available data suggest that individual and family well-being are linked to the quality of women's and men's couple relationships, but few tools exist to assess couple relationship functioning in low- and middle-income countries. In response to this gap, Catholic Relief Services has developed a Couple Functionality Assessment Tool (CFAT) to capture valid and reliable data on various domains of relationship quality. This tool is designed to be used by interventions which aim to improve couple and family well-being as a means of measuring the effectiveness of these interventions, particularly related to couple relationship quality. We carried out a validation study of the CFAT among 401 married and cohabiting adults (203 women and 198 men) in rural Chikhwawa District, Malawi. Using psychometric scales, the CFAT addressed six domains of couple relationship quality (intimacy, partner support, sexual satisfaction, gender roles, decision-making, and communication and conflict management), and included questions on intimate partner violence. We used exploratory factor analysis to assess scale performance of each domain and produce a shortened Relationship Quality Index (RQI) composed of items from five relationship quality domains. This article reports the performance of the RQI. Internal reliability and validity of the RQI were found to be good. Regression analyses examined the relationship of the RQI to outcomes important to health and development: intra-household cooperation, positive health behaviors, intimate partner violence, and gender-equitable norms. We found many significant correlations between RQI scores and these couple- and family-level development issues. There is a need to further validate the tool with use in other populations as well as to continue to explore whether the observed linkages between couple functionality and development outcomes are causal relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC5708731.xml",
+  "text_path": "02_text/europepmc/PMC5708731.txt",
+  "raw_bytes": 149358,
+  "text_chars": 50193,
+  "raw_sha256": "d782c853df12748212652386096a6a3b2eaba33a764d33c7e22cc977a5cb5a73",
+  "text_sha256": "df417199713cb3af977215f84c599459d0fefde6155a97b9c0ebf7f45c10c264",
+  "retrieved_at": "2026-10-25T15:33:17.198088+00:00"
+}

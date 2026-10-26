@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5871941",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Matchmaking in Bioinformatics.",
+  "authors": "Mathé E, Busby B, Piontkivska H, Team of Developers.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.12688/f1000research.13705.1",
+  "pmcid": "PMC5871941",
+  "url": "https://europepmc.org/article/PMC/PMC5871941",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5871941/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "arranged_marriage"
+  ],
+  "abstract": "Ever return from a meeting feeling elated by all those exciting talks, yet unsure how all those presented glamorous and/or exciting tools can be useful in your research? Or do you have a great piece of software you want to share, yet only a handful of people visited your poster? We have all been there, and that is why we organized the Matchmaking for Computational and Experimental Biologists Session at the latest ISCB/GLBIO'2017 meeting in Chicago (May 15-17, 2017). The session exemplifies a novel approach, mimicking \"matchmaking\", to encouraging communication, making connections and fostering collaborations between computational and non-computational biologists. More specifically, the session facilitates face-to-face communication between researchers with similar or differing research interests, which we feel are critical for promoting productive discussions and collaborations. To accomplish this, three short scheduled talks were delivered, focusing on RNA-seq, integration of clinical and genomic data, and chromatin accessibility analyses. Next, small-table developer-led discussions, modeled after speed-dating, enabled each developer (including the speakers) to introduce a specific tool and to engage potential users or other developers around the table. Notably, we asked the audience whether any other tool developers would want to showcase their tool and we thus added four developers as moderators of these small-table discussions. Given the positive feedback from the tool developers, we feel that this type of session is an effective approach for promoting valuable scientific discussion, and is particularly helpful in the context of conferences where the number of participants and activities could hamper such interactions.",
+  "raw_path": "01_raw/europepmc_xml/PMC5871941.xml",
+  "text_path": "02_text/europepmc/PMC5871941.txt",
+  "raw_bytes": 56409,
+  "text_chars": 18042,
+  "raw_sha256": "875d6f114026ae8cc1fb51579ab421ca42dc0f79a2412bd04728a8ea9aa61516",
+  "text_sha256": "3aafa2026a0894bdb4c170a9dfb1140e25d62dd9b0344e8af0ff7727fe557f0d",
+  "retrieved_at": "2026-10-25T15:31:44.708055+00:00"
+}

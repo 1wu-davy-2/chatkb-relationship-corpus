@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_25124",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "老殘遊記",
+  "gutenberg_id": "25124",
+  "url": "https://www.gutenberg.org/ebooks/25124",
+  "download_url": "https://www.gutenberg.org/cache/epub/25124/pg25124.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/25124.txt",
+  "text_path": "02_text/gutenberg/gut_25124_老殘遊記.txt",
+  "raw_bytes": 355283,
+  "text_chars": 113090,
+  "text_sha256": "3152c90e8a7ca9e747dbb6e718b1fb2402462608a1309ede6685bbb81ebc2ebb",
+  "retrieved_at": "2026-10-25T15:50:36.515710+00:00"
+}

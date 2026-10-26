@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10277654",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Paths towards parenthood after repeated treatment failures: a comparative study on predictors of psychological health outcomes in infertile couples persisting in treatments or opting for adoption.",
+  "authors": "Zurlo MC, Cattaneo Della Volta MF, Vallone F.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2023.1147926",
+  "pmcid": "PMC10277654",
+  "url": "https://europepmc.org/article/PMC/PMC10277654",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10277654/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "childfree"
+  ],
+  "abstract": "Introduction Infertility literature suggests widespread recourse to long-term medical treatments despite evidence of high stress, costs, and adverse effects of repeated treatment failures. However, there is a lack of research comparing predictors of stress and psychological health outcomes between members of infertile couples who - after repeated failures - persist in pursuing medical treatments (PT) with those who opted for quitting treatments and adopting (QTA). Basing on a transactional and multidimensional approach to infertility-related stress and health, the present study aims at exploring individual (socio-demographics; coping strategies) and situational (infertility-related parameters; infertility-related stressors; couple's dyadic adjustment dimensions) predictors of state-anxiety and depression in male and female partners of PT-infertile couples and of QTA-infertile couples. Methods Participants were both members of 176 couples with duration of infertility and a history of medical treatments for at least 3 years (76 PT-infertile couples, 100 QTA-infertile couples). The study variables were compared by study group across genders. Structural equation models (SEM) were used to test main and moderating effects of study variables on state-anxiety and depression by study group and across genders. Results Members of infertile couples quitting treatments and adopting (QTA) reported significantly lower levels of state-anxiety and depression, higher stress related to need for parenthood and rejection of childfree-lifestyle and lower stress related to social and couple's relationship concerns than those who persist in pursuing medical treatments (PT). Members of infertile couples quitting treatments and adopting (QTA) recurred to a greater extent to active coping strategies (problem-solving/social-support) and to a lower extent to passive coping strategies (avoiding/turning-to-religion), and they reported higher levels of dyadic adjustment. Specificities in main and moderating factors related to state-anxiety and depression by study group and across genders were found. Conclusion Findings should be addressed to provide a comprehensive assessment of both members of infertile couples facing repeated treatment failures to identify risks and resources and develop tailored evidence-based interventions.",
+  "raw_path": "01_raw/europepmc_xml/PMC10277654.xml",
+  "text_path": "02_text/europepmc/PMC10277654.txt",
+  "raw_bytes": 235022,
+  "text_chars": 63032,
+  "raw_sha256": "32ec9d165a1026431fb8ea26f870453afcc7606c2ab4022ce6e25c60c7374518",
+  "text_sha256": "03ed1211ccfa302feaeac3a7121cb7da0e66b2b33af18c44b45ed674e6ad2a2f",
+  "retrieved_at": "2026-10-25T15:28:34.719784+00:00"
+}

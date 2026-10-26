@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12419591",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Predictors of sexual satisfaction among Social Security and National Insurance Trust pensioners in the Greater Accra Region of Ghana.",
+  "authors": "Ongoh M, Abekah-Carter K, A-Iyeh E, Oti-Boadi M, Agyemang-Duah W.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0331747",
+  "pmcid": "PMC12419591",
+  "url": "https://europepmc.org/article/PMC/PMC12419591",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12419591/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "The population of pensioners remains on the rise in Ghana coupled with an intrinsic need for sexual activity and satisfaction. However, data on factors associated with sexual satisfaction among pensioners are limited in Ghana. The aim of this study was to examine the predictors of sexual satisfaction among Social Security and National Insurance Trust pensioners in the Greater Accra Region of Ghana. We employed a cross-sectional survey design in this study. Participants were recruited using cluster and stratified sampling techniques. Our analytical sample was 410 participants. Ordinal logistic regressions were employed to determine predictors of sexual satisfaction among the participants. The significance of the test was set at a p-value ≤ 0.05. The results showed that participants who were household head (AOR: 1.874, 95% CI: 1.037-3.388), who did not incur any expenditure on their household in a month (AOR: 6.290, 95% CI: 1.758-22.511) and those who undertake daily exercises were significantly (AOR: 1.981, 95% CI: 1.276-3.075) more likely to fall in one of the higher categories of sexual satisfaction compared to their counterparts. Also, the study revealed that those with secondary education (AOR:.503, 95% CI:.253-.0.999), who were in the public sector (AOR:.449, 95% CI:.237 -.850), who were very dissatisfied with health service access/use (AOR:.032, 95% CI:.002-.421) and not able to determine whether they were satisfied or dissatisfied with their health status (AOR:.518, 95% CI:.329-.816) were significantly less likely to fall in one of the higher categories of sexual satisfaction. Findings of this study suggest that household headship, education level, employment sector, expenditure on household, satisfaction with health services/use, daily exercises intake and satisfaction with health status were associated with sexual satisfaction among the participants. In relation to our findings, the implications for policy, practice and future research have been discussed for the attention of policy makers and researchers.",
+  "raw_path": "01_raw/europepmc_xml/PMC12419591.xml",
+  "text_path": "02_text/europepmc/PMC12419591.txt",
+  "raw_bytes": 152631,
+  "text_chars": 32308,
+  "raw_sha256": "dd1422a6a01270dc06547cc93e828398325bb35a49e40c452aab2a089307e4f9",
+  "text_sha256": "540c4d9de3dbb6af088891e5e190ef137f49f73a3368517fb84538d5e8327abe",
+  "retrieved_at": "2026-10-26T13:13:00.103553+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13342129",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship between intimate partner violence and alexithymia in women of reproductive age and affecting variables: A cross-sectional study.",
+  "authors": "Başaran F.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s11845-026-04356-5",
+  "pmcid": "PMC13342129",
+  "url": "https://europepmc.org/article/PMC/PMC13342129",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13342129/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "alexithymia"
+  ],
+  "abstract": "",
+  "raw_path": "01_raw/europepmc_xml/PMC13342129.xml",
+  "text_path": "02_text/europepmc/PMC13342129.txt",
+  "raw_bytes": 73282,
+  "text_chars": 23963,
+  "raw_sha256": "58f8fccc29e2d6daaff827c60fd0ccde1cd3a37f86c24850e9c449cb61fc48da",
+  "text_sha256": "9fcb25e00adb8977c2875db39320c3818733ff870f263034a00127adaad7e890",
+  "retrieved_at": "2026-10-25T15:28:20.165330+00:00"
+}

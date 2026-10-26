@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12242379",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Gender, Marital Histories, and Cognitive Impairment in Later Life: Does Remarriage Disadvantage Women?",
+  "authors": "Kang H, Lee H, Choi KW, Kim J.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1093/geroni/igaf043",
+  "pmcid": "PMC12242379",
+  "url": "https://europepmc.org/article/PMC/PMC12242379",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12242379/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "midlife_older"
+  ],
+  "abstract": "Background and objectives Although marital status influences cognitive health, limited research has examined the effects of diverse marital histories, particularly regarding remarriage. This study investigates the relationship between remarriage, marital histories, and cognitive impairment with a focus on gender differences. Building on the stress and marital resource models, we examine whether this relationship operates through economic and health-related factors. Research design and methods Using the Health and Retirement Study (2004-2020; N = 11,406), we constructed 8 mutually exclusive categories based on current marital status and previous transitions, including divorce, widowhood, and multiple disruptions. We fit discrete-time hazard models to assess cognitive impairment risk across these marital trajectories. The bootstrap resampling method was used to conduct a formal mediation test. Results Remarriage was associated with higher risks of cognitive impairment for women, but not for men, even after controlling for economic and health-related factors. Specifically, remarried women following widowhood or multiple disruptions had 39% and 32% higher risks of cognitive impairment, respectively, compared to continuously married women. The formal mediation test revealed that remarriage after multiple disruptions has adverse impacts on cognitive impairment, in part, through unhealthy behaviors and poor health status. However, when comparing remarried and unmarried groups, remarriage was associated with lower risks of cognitive impairment for men, whereas remarried women continued to show higher risks of cognitive impairment compared to their unmarried counterparts. Discussion and implications This study is among the first to examine gender differences in how lifetime marital histories affect cognitive impairment risk. Remarriage, particularly following widowhood or multiple disruptions may put women at higher risks of cognitive impairment compared to those in their first marriage or those who remain single. These findings underscore the importance of considering detailed marital histories, beyond simple married/unmarried classification, when evaluating the role of social conditions in shaping cognitive impairment risk in practice settings.",
+  "raw_path": "01_raw/europepmc_xml/PMC12242379.xml",
+  "text_path": "02_text/europepmc/PMC12242379.txt",
+  "raw_bytes": 143720,
+  "text_chars": 51255,
+  "raw_sha256": "4663ce3923fa9a05a8f60da26a9644e907eab1cf51634116b4ddce8baaca50fa",
+  "text_sha256": "c77862f7cdafdc39d11540062c630ddb3afac3ad964bf4ae668da385da348814",
+  "retrieved_at": "2026-10-25T13:52:28.697021+00:00"
+}

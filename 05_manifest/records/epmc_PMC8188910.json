@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8188910",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Effect of Internet addiction on marital life.",
+  "authors": "Chattopadhyay S, Kumar M, Singh OP, Talukdar P.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.4103/ipj.ipj_76_19",
+  "pmcid": "PMC8188910",
+  "url": "https://europepmc.org/article/PMC/PMC8188910",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8188910/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Context Certain behaviors exceed to an extent such that control becomes difficult and tolerance, dependence, and withdrawal are evident, it is regarded as behavior addiction. Internet addiction is defined as \"the forced and excessive use of the Internet and the irritation that occurs when the Internet is deprived.\" Internet connects people to the World Wide Web and provides an easy escape for people from their immediate environment and people tend to move away from their intimate relations. Aims We intend to find the effect of Internet addiction on marital life. Settings and design It was a cross-sectional study with purposive sampling from the community. Subjects and methods Standardized instruments were used for the assessment of Internet addiction and marital satisfaction. The correlation was estimated and the level of significance was calculated. The marriage quality scale by Shah was used as an instrument for marital satisfaction. Youngs Internet addiction test was used for checking for the presence of Internet addiction. Statistical analysis used The mean, standard deviation, and correlation were estimated and the level of significance calculated. Results Regular users of the Internet had a relative risk of 52.5% with 1.5% showing severe addiction. Trust, dominance, and dissolution potential did not show a significant correlation. Conclusions The risk of Internet addiction was high among regular internet users. The level of psychological comorbidity was also high. It affected marital satisfaction adversely. However, trust, dominance, and dissolution potential were least affected. In the case of marital disharmony, Internet addiction needs to be looked at as an etiological factor.",
+  "raw_path": "01_raw/europepmc_xml/PMC8188910.xml",
+  "text_path": "02_text/europepmc/PMC8188910.txt",
+  "raw_bytes": 46987,
+  "text_chars": 12825,
+  "raw_sha256": "cb2a855fa92abf489c5a72b25b0c8db5baea0378596a56745ddfc9b87b98d039",
+  "text_sha256": "46cafcbe87f5bba10a66c2c21e946bbdb4ff28e63445c07d702f7e4574eb4e53",
+  "retrieved_at": "2026-10-25T15:41:57.972185+00:00"
+}

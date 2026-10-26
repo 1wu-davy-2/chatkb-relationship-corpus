@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_25192",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "浮生六記",
+  "gutenberg_id": "25192",
+  "url": "https://www.gutenberg.org/ebooks/25192",
+  "download_url": "https://www.gutenberg.org/cache/epub/25192/pg25192.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/25192.txt",
+  "text_path": "02_text/gutenberg/gut_25192_浮生六記.txt",
+  "raw_bytes": 131313,
+  "text_chars": 38121,
+  "text_sha256": "465ec1beea4c8bbca3dbf05faec258328401d2372a4db150a87ecedd6839c52b",
+  "retrieved_at": "2026-10-25T15:50:52.484500+00:00"
+}

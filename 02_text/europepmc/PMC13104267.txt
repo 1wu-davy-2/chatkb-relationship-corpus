@@ -1,0 +1,386 @@
+TITLE: Helping with Outcomes for Low Desire (HOLD): Study protocol for a randomized clinical trial assessing a cognitive-behavioral couple therapy for sexual interest/arousal disorder.
+AUTHORS: Shimizu JPK, Bouchard KN, Bergeron S, Girouard A, Popova N, Rosen NO.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1186/s13063-026-09619-1
+PMCID: PMC13104267
+LICENSE: cc by-nc-nd
+LICENSE_URL: https://creativecommons.org/licenses/by-nc-nd/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC13104267
+TOPICS: emotion_regulation
+
+---
+
+ABSTRACT
+AbstractBackgroundA strong, satisfying sexual relationship—for which sexual desire and arousal can be key components—is often important for maintaining well-being in long-term romantic relationships. However, sexual interest/arousal disorder, defined by persistently low and distressing levels of sexual desire and/or arousal, is the most common sexual problem among women and gender-diverse people and is associated with psychological (e.g., depressive symptoms) and relational (e.g., lower relationship satisfaction) consequences. Partners of individuals with sexual interest/arousal disorder have also reported lower sexual and relationship satisfaction, higher sexual distress, and poorer sexual function compared to partners of people without this disorder. Prominent clinical and theoretical models emphasize that sexual interest and arousal are strongly influenced by interpersonal factors, and emerging dyadic studies support these conceptualizations. Although couple-based sex therapy is recommended, no studies have examined the efficacy of an evidence-based couple therapy for sexual interest/arousal disorder, nor its mechanisms of change. The current randomized clinical trial (RCT) aims to address these gaps by evaluating the efficacy of a novel cognitive-behavioral couple therapy for sexual interest/arousal disorder.MethodsWe aim to recruit women and gender-diverse people with sexual interest/arousal disorder and their partners (N = 170 couples), who will be randomly assigned to either an intervention or waitlist control condition. The intervention is a cognitive-behavioral couple therapy consisting of 16, 60-min (first session 90 min) manualized therapy sessions delivered over 18 weeks by a supervised therapist trained in clinical psychology. Participants will complete validated measures at baseline, during the treatment period, post-treatment, and at a 6-month follow-up. Conditions will be compared on primary outcomes of sexual desire and distress and secondary sexual and psychological outcomes using an intention-to-treat approach and multilevel modeling. Emotion regulation will be analyzed as a potential mediator of treatment benefits.DiscussionThis study is the first to evaluate the efficacy of cognitive-behavioral couple therapy for sexual interest/arousal disorder, which has yet to be tested in a large RCT. Findings aim to provide clinicians with an evidence-based treatment to better support couples coping with sexual interest/arousal disorder and to identify a key mechanism for treatment benefits.Trial registrationThis study was registered 15 January, 2025 on ClinicalTrials.gov (identifier: NCT06777277).Supplementary InformationThe online version contains supplementary material available at 10.1186/s13063-026-09619-1.Keywords: Randomized clinical trial, Sexual interest/arousal disorder, Cognitive behavioral couple therapy, Sexual desire, Sexual distress, Couples, Sexual dysfunction
+
+BODY
+Administrative information
+
+Note: the numbers in curly brackets in this protocol refer to SPIRIT checklist item numbers. The order of the items has been modified to group similar items (see http://www.equator-network.org/reporting-guidelines/spirit-2013-statement-defining-standard-protocol-items-for-clinical-trials/).
+
+ClinicalTrials.gov: NCT06777277
+
+Date of registration: 15 January, 2025
+
+Secondary identifying numbers: 2024-7379, 496676
+
+Source of monetary or material: Canadian Institutes of Health Research
+
+Primary sponsor: Natalie Rosen
+
+Contact for public queries: NR [Natalie.Rosen@dal.ca]
+
+Contact for scientific queries: NR [Natalie.Rosen@dal.ca]
+
+Public and scientific title: Helping with Outcomes for Low Desire: A Randomized Clinical Trial Assessing Cognitive-Behavioral Couple Therapy for Sexual Interest/Arousal Disorder
+
+Countries of recruitment: Canada
+
+Health condition or problem studied: Sexual interest/arousal disorder
+
+Interventions: Active treatment, cognitive-behavioral couple therapy (16 sessions over 18-weeks). Control, waitlist control.
+
+Key inclusion and exclusion criteria:
+
+Inclusion: Both couple members are interested in participating; ≥ 18 years; understand written and spoken French or English; living together for at least 1 year; plan to live together for the next 12 months; live in British Columbia, Québec, Nova Scotia, or New Brunswick; one partner identifies as a woman or gender diverse person assigned female at birth and meets criteria for sexual interest/arousal disorder.
+
+Exclusion: History of genital or pelvic surgery impacting sexual desire/arousal; one partner is pregnant or plans to become pregnant within 12 months, is actively breast-feeding, or given birth within the last year; either partner has no previous sexual experience; currently receiving treatment for sexual interest/arousal disorder; unmanaged physical or mental health problem impacting daily functioning.
+
+Study type: Interventional, randomized, parallel assignment, masking (study coordinators and data analysts).
+
+Date of first enrolment: January 2025
+
+Target sample size: 170 couples
+
+Recruitment status: Recruiting
+
+Primary outcomes: 1. Sexual desire; Dyadic Sexual Desire sub-scale; post-treatment and 6-month follow-up. 2. Sexual distress; Sexual Distress Scale-Short Form; post-treatment and 6-month follow-up.
+
+Key secondary outcomes: 1. Sexual satisfaction; Global Measure of Sexual Satisfaction; post-treatment and 6-month follow-up. 2. Relationship satisfaction; Couples Satisfaction Index; post-treatment and 6-month follow-up. 3. Psychological adjustment; Hospital Anxiety and Depression Scale; post-treatment and 6-month follow-up.
+
+Dalhousie University
+
+IWK Health Centre
+
+Université de Montréal
+
+University of British Columbia
+
+Natalie O. Rosen
+
+Email Natalie.Rosen@dal.ca
+
+Phone: (902) 494–4044
+
+Introduction
+
+Background and rationale {6a}
+
+A strong, satisfying sexual relationship—for which sexual desire and arousal can be key components—is an important part of many long-term romantic relationships. Indeed, a positive sexual relationship has been associated with better physical, psychological, and relational health and well-being [1, 2]. However, sexual problems are extremely common. Low sexual desire and/or arousal that is distressing and persistent—sexual interest/arousal disorder (SIAD)1—is the most common sexual problem among women and is one of the most frequent reasons for seeking couple therapy [3]. Population-based studies suggest that 8% to 23% of cisgender women report symptoms of SIAD, with similar rates among transgender women [4–6]. SIAD can have significant and wide-ranging consequences. Women and gender-diverse individuals with SIAD have reported more depression and anxiety, lower relationship and sexual satisfaction, and lower quality of life compared to people without SIAD [7–10]. Individuals with SIAD have also reported medical expenses that are 28% higher in the year prior to diagnosis and 20% higher in the year post-diagnosis, suggesting a significant economic burden associated with this condition [11].
+
+Research also suggests that the partners of individuals with SIAD experience consequences; they report lower sexual and relationship satisfaction, poorer sexual functioning (e.g., more erectile and orgasm difficulties), and higher sexual distress compared to partners of people without sexual dysfunction [10]. Notably, women with low sexual desire who are partnered are almost five times more likely to report sexual distress, and therefore, meet diagnostic criteria for SIAD, highlighting the interpersonal nature of this disorder [12]. Theoretical and clinical models emphasize interpersonal factors (e.g., relationship dissatisfaction) as critical to the development and maintenance of SIAD symptoms [13–15]. In fact, sexual desire is thought to be rooted in, and influenced by interpersonal factors [16]. Moreover, interpersonal factors are better predictors of low sexual desire in women than are biological factors (e.g., low testosterone) [17, 18]. More recent research has identified several interpersonal factors, such as emotion regulation, sexual rejection, and partner responsiveness, that are linked to the severity of SIAD symptoms and are associated with both partners’ sexual and relationship outcomes, consistent with dyadic approaches to SIAD [19–21]. Given its dyadic nature, couple-based sex therapy is recommended as a treatment for individuals with SIAD and their partners [22, 23]. However, to date, no studies have examined the efficacy of a theoretically informed, evidence-based couple therapy for SIAD, nor its mechanisms of change.
+
+Existing treatments for SIAD tend to focus on biomedical factors such as pharmacological agents, which have demonstrated some efficacy for improving primary symptoms but pose a risk for adverse side effects (e.g., nausea, headaches), and a significant portion of treatment benefits may be attributable to a placebo response [24, 25]. Additionally, these interventions frequently neglect the interpersonal nature of SIAD, leaving women bearing the burden of treatment for the couple’s sexual difficulties. In contrast, preliminary evidence for psychological interventions for SIAD appears more promising as they can address the intersecting biopsychosocial factors associated with the disorder, while minimizing the risk of adverse side effects [25–28]. Psychological treatments have also been identified as a research priority among women and gender-diverse people with SIAD and their partner [29].
+
+Meta-analyses examining the efficacy of psychological interventions for sexual dysfunctions found medium to large effect sizes for reducing symptom severity in women with low sexual desire [25, 30]. Notably, one study evaluating orgasm consistency training randomly assigned women with hypoactive sexual desire disorder2to a woman-only, couples-only, or a waitlist control group [31]. At 6-month follow-up, women in the couples-only group demonstrated significant improvements in sexual compatibility, esteem, desire, fantasy, satisfaction, and assertiveness compared to the women-only group and the waitlist control group [31]. A prospective single cohort study found that after 16h of group couple therapy, participants (N = 45 couples) reported improvements in satisfaction with intensity of sexual arousal, sexual creativity, frequency, functioning, partners’ sexual availability, and initiation of sexual activity from pre- to post-intervention, and at 6-month follow-up, among couples experiencing distressing low sexual desire or sexual desire discrepancies [32]. Likewise, Trudel and colleagues [33] found that compared to a waitlist control group (n = 36 couples), 28% of women with hypoactive sexual desire disorder who completed 12 weekly group couple (n = 38) sex therapy reported no longer experiencing any symptoms. This proportion increased to 31% at 3 months and 38% after 1-year [33]. Moreover, an RCT testing a cognitive-behavioral couple therapy (CBCT) for the treatment of genito-pelvic pain, a sexual dysfunction associated with low sexual desire in women, found CBCT to be efficacious in improving pain and both sexual and psychological outcomes relative to a medical treatment [34]. Together, these findings suggest that a couples’ approach may be beneficial in the treatment of sexual dysfunction within a dyadic context.
+
+However, existing studies specifically assessing couple-based psychological interventions for women with low sexual desire have been limited by small sample sizes and analyses that did not account for the interdependence of couple members. In addition, these studies have largely neglected the assessment of mechanisms underlying treatment outcome and were not manualized, threatening replicability. Furthermore, treatments were conducted in person, limiting their accessibility to those in rural communities or with mobility constraints. Critically, existing studies did not include randomization to condition, weekly therapist supervision, validated sexual outcomes for both partners, monitoring of treatment fidelity, masking of investigators, or an intent-to-treat analytic approach. This lack of evidence-based psychological treatments for couples coping with SIAD imposes significant personal, relational, and financial costs to affected couples and the healthcare system [11, 14, 35].
+
+In response to these research gaps, we developed the first evidence-based, manualized, online-delivered CBCT designed to treat couples wherein a woman or gender-diverse person is diagnosed with SIAD. In addition to targeting unhelpful thoughts and behaviors, CBCT expands on traditional cognitive-behavioral approaches by helping couples manage intra- and interpersonal challenges (e.g., difficulties with emotional experiences) at the dyadic level [36]. Our CBCT for SIAD is grounded in the Interpersonal Emotion Regulation Model of Women’s Sexual Dysfunction. This theoretical model suggests that interpersonal factors influence a couple’s abilities to regulate their emotions associated with sexual challenges, which in turn negatively affects their sexual, relational, and psychological functioning [14]. Results from a pilot study of 19 couples revealed that this novel intervention is feasible and provided preliminary support for the CBCT to improve symptoms (sexual desire and distress) among couples coping with SIAD and warrants further testing in a RCT [37].
+
+Objectives {36}
+
+The primary objective of this three-center RCT is to test the prediction that a novel CBCT delivered by clinicians via virtual care will yield significantly greater improvements in primary outcomes of sexual desire for women and gender-diverse people with SIAD, and sexual distress for both those with SIAD and their partners, post-treatment and 6 months later, compared to a waitlist control group. The secondary objective is to test the prediction that couples receiving CBCT will report greater improvements in secondary sexuality, relationship, and psychological outcomes relative to the control group. Finally, our third objective is to test the prediction that improvements in emotion regulation will mediate the beneficial effects of CBCT compared with the control group.
+
+Trial design {38}
+
+This study is a two-arm, parallel group, superiority RCT comparing the efficacy of the CBCT intervention to a waitlist control group, using 1:1 allocation.
+
+Methods: participants, interventions, and outcomes
+
+Study setting {38}
+
+The study will be conducted across three centers located in three Canadian provinces: British Columbia, Québec, and Nova Scotia. Interventions will take place on a secure videoconferencing platform.
+
+Eligibility criteria {10}
+
+This study will recruit couples coping with SIAD. Specifically, the inclusion criteria for participants include: (i) both members of the couple must be interested in participating; (ii) be at least 18 years old; (iii) understand written and spoken English or French (Québec only); (iv) be living together as a couple for at least 1 year; (v) plan to live together for the next 12 months; (vi) live in British Columbia, Québec, Nova Scotia, or New Brunswick; (vii) and at least one member of the couple, who identifies as a woman (cisgender or transgender) or a gender-diverse person assigned female at birth, must meet the DSM-5-TR diagnostic criteria for SIAD [39]. A SIAD diagnosis requires that the low desire/arousal is not better explained by: (a) a medication, substance use, or health condition, (b) a specific event or context (e.g., severe relationship distress, trauma), (c) a discrepancy in desire between partners as the primary problem, or (d) is secondary to genito-pelvic pain [39]. Exclusion criteria include: (i) the person with SIAD has a history of genital or pelvic surgery (e.g., hysterectomy) that has affected sexual desire/arousal; (ii) either partner is pregnant or plans to become pregnant within the next 12 months, is breast-feeding, gave birth less than a year ago, or is undergoing medically assisted reproduction; (iii) either or both partners have had no previous sexual experience; (iv) currently undergoing treatment (e.g., pharmacological or psychotherapeutic) for SIAD, couple therapy, or planning to start treatment during the study period; or (v) have a self-reported, unmanaged physical or mental health problem that impacts daily functioning.
+
+Therapists administering the intervention will be registered psychologists in supervised or autonomous practice in their province of residence (i.e., British Columbia, Québec, Nova Scotia, and New Brunswick) or PhD-level clinical psychology residents (i.e., last year of their doctoral training). Senior doctoral students in clinical psychology may offer the CBCT to couples in the waitlist control group after the study period ends, under the supervision of registered psychologists. The therapists will receive approximately 20 h of training in the delivery of the treatment manual by the supervising psychologists (2nd, 3rd, and last authors) [40]. Training includes readings about SIAD, sex therapy, and CBCT, detailed review of the treatment manual [40], as well as review and discussion of video-recorded sessions from the feasibility study of this treatment [37]. Throughout the intervention, all study therapists will take part in weekly clinical supervision, regardless of registration status, with the supervising psychologist at each site, who are registered psychologists with advanced training in sex and couple therapy and who developed the treatment manual together.
+
+Who will take informed consent? {26a}
+
+Eligibility screening will occur across three stages. First, interested participants will complete an initial eligibility screening telephone call with a research assistant. Second, potentially eligible individuals with low sexual desire/arousal will be scheduled to complete a clinical interview either via Zoom or telephone conducted by a PhD student in clinical psychology and under the supervision of each site’s supervising psychologist, to diagnose SIAD. Prior to the clinical interview, participants with distressing low sexual desire/arousal will be e-mailed a link to the study consent form via Qualtrics, which includes consent for the two subsequent eligibility steps, the clinical interview, and the initial (baseline) survey, as well as for the full RCT. After the clinical interview, if the participant with distressing low sexual desire/arousal meets criteria for SIAD, both partners will receive individualized links to the initial online survey via Qualtrics. Partners without SIAD will receive the informed consent form as the first page of this survey. Stage three of eligibility involves a research assistant reviewing survey responses to measures of depression, anxiety, intimate partner violence (IPV), and relationship satisfaction. If a participant reports severe depressive or anxiety symptoms and/or severe relationship conflict or distress (i.e., very low relationship satisfaction or the presence of physical violence, sexual coercion, and/or psychological abuse), then the research assistant will notify the doctoral student who conducted their clinical interview and the supervising psychologist. Although couple-based therapies designed to address IPV appear promising [41], and some couples excluded from clinical trials for IPV have reported increased relationship satisfaction (but no change in IPV) with subsequent couple therapy [42], the current intervention is not designed to address IPV. Given that IPV has well-established negative effects on sexual well-being and may act as a confounding variable in the current RCT [43], couples who self-report IPV will be deemed ineligible and referred to relevant services, consistent with prior research [44]. Eligibility related to elevated, uncontrolled depressive or anxiety symptoms, and significant relationship dissatisfaction is determined via discussion with the clinical team; the interviewer may conduct a follow-up call with the participant to gather further information to assess whether the CBCT for SIAD is an appropriate treatment modality for their challenges.
+
+In line with professional practice, the study therapists will obtain consent for the CBCT with participants randomized to the intervention condition at the beginning of their first session. Each study therapist, in consultation with the supervising psychologist, will continuously monitor participants in the intervention condition for any changes that may impede a participant’s capacity to consent to treatment. Moreover, each post-treatment and 6-month follow-up survey will include a link to the original consent form and ask for their continued consent for participation. One of the response options to this question will allow participants to indicate that they are not sure if they can provide ongoing consent (e.g., because they have experienced significant changes to their physical and mental health since the last survey) and they would like to speak to a research team member about it. The research team member who completed the clinical interview will schedule a telephone call with the participant to determine whether ongoing informed consent is possible or if the couple must discontinue the study.
+
+Additional consent provisions for collection and use of participant data and biological specimens {26b}
+
+Participants will be asked to provide additional consent within the study consent form for use of their data in future studies.
+
+Interventions
+
+Explanation for the choice of comparators {6b}
+
+The investigators selected a waitlist control condition as the most appropriate comparator for this initial trial, as to our knowledge, no empirically validated couple-based treatments for SIAD currently exist. The use of a waitlist control allows for a clear evaluation of CBCT’s effects compared to participants who are not actively receiving treatment, thus controlling for changes that may occur due to the passage of time. This approach also ethically ensures that all couples participating will have the opportunity to receive the CBCT during or after the study.
+
+Intervention description {11a}
+
+Cognitive behavioral couple therapy
+
+Participants randomized to the intervention condition will begin treatment within 2 weeks of randomization. The CBCT intervention will be delivered in 16, 60-min sessions (first session 90 min) over an 18-week period (last two sessions spaced out every 2 weeks). CBCT will be conducted by a therapist on a secure videoconference platform (Zoom Pro). The CBCT is a manualized treatment informed by a CBCT treatment manual for couples with genito-pelvic pain, a sexual dysfunction linked to low sexual desire and arousal [34, 45]. We adapted and expanded the manual to focus on empirically supported interpersonal factors relevant to SIAD, guided by the Interpersonal Emotion Regulation Model of Women’s Sexual Dysfunction [14]. The goals of the CBCT are to: (i) re-conceptualize low sexual desire/arousal as multidimensional in which both partners are affected by the SIAD symptoms; (ii) modify and/or accept those factors that are associated with low sexual desire and/or arousal to increase adaptive coping, facilitate sexual desire and/or arousal, and reduce sexual distress; (iii) improve couple interactions related to sexuality (e.g., communication, intimacy) via enhanced emotion regulation; and (iv) consolidate skills. The CBCT intervention includes psychoeducation (e.g., nature of sexual desire/arousal, models of sexual response), discussions, in-session exercises (e.g., communication, cognitive reappraisal, and emotion regulation skills), and home practice (e.g., relational self-expansion activities, sensate focus, declining sexual activity). An outline of each session within the CBCT can be found in the Supplementary Table 1. With the consent of each participant, all therapy sessions will be audio and video recorded for clinical supervision and to assess the extent to which therapists adhere to the treatment manual.
+
+Waitlist control
+
+Participants assigned to the waitlist control group will remain on a waitlist for CBCT until the end of the 6-month follow-up period. At the end of the 6-month follow-up, waitlist couples will be offered CBCT free of charge.
+
+Criteria for discontinuing or modifying allocated interventions {11b}
+
+Participants will be discontinued from the trial if instances of IPV or relationship dissolution occur or are identified during the course of the study. The study therapists are trained to monitor and address any adverse effects of CBCT (e.g., increase in relationship conflict) and are supervised by the primary investigator at each site. As emotional distress is an anticipated and common aspect of therapy, each therapist will address it during the intervention. However, couples’ participation will not be discontinued in this scenario as it would be unethical to revoke the expected treatment or disrupt the manualized course of treatment. If a participant indicates that they are unsure if they can provide ongoing consent within any of the post-treatment or 6-month follow-up surveys, then the research team member who conducted their clinical interview will schedule a telephone call with the participant to establish whether discontinuation is required. However, participants have the right to withdraw their consent at any time and discontinue their participation.
+
+Strategies to improve adherence to interventions {11c}
+
+Inclusion of the partner will be an integral part of minimizing the risk of dropouts. In our previous RCT comparing CBCT for genito-pelvic pain to a medical treatment, 88% of couples completed the treatment, and 91% completed the post-treatment and follow-up assessments [34]. In our pilot study (N = 19 couples), only one couple dropped out mid-treatment (94.7% retention) [37]. Treatment adherence will be measured by monitoring attendance to CBCT sessions. Therapy attendance and homework are standard aspects of CBCT, addressed actively by the therapist at each session. Missed sessions will be rescheduled at the convenience of participants.
+
+Relevant concomitant care permitted or prohibited during the trial {11d}
+
+As a psychotherapy, there are no concomitant care requirements relevant to this RCT. However, participants in either condition are asked to refrain from participating in additional treatment for SIAD or additional couple therapy throughout the course of the study; this requirement is detailed in the consent process. We will monitor for participation in other treatments/therapy via a question in the post-treatment and 6-month follow-up surveys. Participants will not be removed from the study if they participate in another treatment, but we may statistically control for this within our analyses.
+
+Provisions for post-trial care {30}
+
+The anticipated risks to participants are minimal. Participants may experience discomfort during the therapy sessions, which will necessarily raise sensitive subjects. Moreover, participants may be told that their symptoms are consistent with a diagnosis of SIAD for the first time, which may cause distress. The therapists in the study will address this distress directly as part of the treatment and will be under the direct supervision of a registered psychologist. After the study period, couples will be provided with a list of local resources should they wish to seek further sex and couple therapy.
+
+Outcomes {12}
+
+Participants will independently complete a survey including measures of demographics, primary outcomes (sexual desire and sexual distress), and secondary outcomes (sexual satisfaction, relationship satisfaction, and psychological adjustment) at pre-randomization (i.e., baseline survey). Once randomized, participants in the intervention condition will complete shortened in-study measures of all outcomes, including a measure of emotion regulation, every four treatment sessions, post-treatment (i.e., after 16 treatment sessions over 18 weeks), and 6 months later. Participants randomized to the waitlist control condition will complete the same measures on the same timeline (i.e., approximately every 4 weeks after enrollment and approximately 4.5 months and 10.5 months, respectively, after enrollment; see Fig. 1).
+
+SPIRIT participant timeline, schedule of enrollment, interventions, and assessments. Note. CBCT = cognitive-behavioral couple therapy
+
+Demographics
+
+Pre-treatment measures include age, sexual orientation, sex, gender, income, race/ethnicity, education, relationship status and duration, menopausal status, medical history, contraceptive use, and duration of SIAD symptoms. At post-treatment and 6-month follow-up, we will ask about recent medical history, relationship status, and pregnancy to assess ongoing eligibility.
+
+Primary outcomes
+
+Sexual desire
+
+Sexual desire will be measured using the 7-item Dyadic Sexual Desire subscale (men α = 0.80; women α = 0.88) [46] of the Sexual Desire Inventory-2 (SDI-2) [47]. The Dyadic Sexual Desire sub-scale assesses the frequency (e.g., 0 = Not at all, to 7 = More than once a day) and strength (e.g., 0 = No desire, to 8 = Strong desire) of interest in sexual activity with a partner. Items are summed to obtain a total subscale score, with higher total scores indicating greater sexual desire for one’s partner. For in-study surveys (i.e., every four sessions or 4 weeks), a 4-item version of the SDI-2 will be used to minimize participant burden. This version has been used in previous research and demonstrated excellent psychometric properties [48]. For our primary aim, the outcome metric will be change in Dyadic SDI-2 subscale total score from baseline to post-treatment and from baseline to 6-month follow-up (i.e., the slopes). Scores will be aggregated as group mean values for each time point.
+
+Sexual distress
+
+Sexual distress will be assessed with the Sexual Distress Scale-Short Form (SDS-SF; Ω = 0.88 for women and 0.93 for men) [49]. Using a 5-point scale, participants rate how frequently (e.g., 0 = Never, to 4 = Always) they experience negative emotions about their sex lives, with higher scores indicating greater sexual distress. To minimize participant burden, in-study surveys will include the 3-item version of the SDS-SF which has been used in previous research with good psychometric properties [50]. For our primary aim, the outcome metric will be change in SDS-SF total scores from baseline to post-treatment and from baseline to 6-month follow-up. Scores will be aggregated as group mean values for each time point.
+
+Secondary outcomes
+
+Sexual satisfaction
+
+The Global Measure of Sexual Satisfaction (GMSEX) will be used to assess overall sexual satisfaction [51]. This measure assesses subjective evaluations of sexual satisfaction across five dimensions: good vs. bad, pleasant vs. unpleasant, positive vs. negative, satisfying vs. unsatisfying, and valuable vs. worthless, on a 7-point scale (e.g., 1 = Very bad; 7 = Very good;; α = 0.86) with higher scores indicating greater sexual satisfaction [51]. In-study surveys will include a 1-item version that has shown adequate psychometric properties in previous research [52]. For our secondary aim, the outcome metric will be change in GMSEX total scores from baseline to post-treatment and from baseline to 6-month follow-up. Scores will be aggregated as group mean values for each time-point.
+
+Relationship satisfaction
+
+Relationship satisfaction will be assessed using the 16-item Couples Satisfaction Index (α = 0.98) [53]. Participants rate their relationship across a dimension of factors (e.g., how happy they are with their relationship) on 6-point (e.g., 0 = Never; 5 = All the Time) and 7-point (0 = Extremely Unhappy; 6 = Perfect) scales, with higher scores indicating greater relationship satisfaction. For in-study surveys, participants will complete a 4-item version, which has been used in previous research [53]. For our secondary aim, the outcome metric will be change in relationship satisfaction total scores from baseline to post-treatment and from baseline to 6-month follow-up. Scores will be aggregated as group mean values for each time point.
+
+Psychological adjustment
+
+Psychological adjustment will be measured using the Hospital Anxiety and Depression Scale [54]. This 14-item measure includes two subscales: depression (7-items; α = 0.83) and anxiety (7-items; α = 0.82) [54]. Participants rate each item on a 4-point scale (0 = Not at all; 3 = Most of the time), with higher scores indicating greater symptom severity within the last week. For our secondary aim, the outcome metric will be change in psychological adjustment total scores for the anxiety and depression subscales from baseline to post-treatment and from baseline to 6-month follow-up. Scores will be aggregated as group mean values for each time point.
+
+Mediator variable
+
+Emotion regulation
+
+The Emotion Regulation Questionnaire will be used to measure individual differences in the use of suppression (4 items; e.g., I keep my emotions to myself) and reappraisal (6 items; e.g., I control my emotions by changing the way I think about the situation) [55]. Participants rate each item on a 7-point scale (1 = Strongly disagree; 7 = Strongly agree). We have previously adapted the instructions to refer to the sexual relationship (α = 0.89 for reappraisal; α = 0.77 for suppression) [20]. For our third aim, the mediator will be each participant’s slope of emotion regulation across the 18-week treatment period (assessed every four sessions in the CBCT group or every 4 weeks in the waitlist control), estimated using multilevel growth modeling. This person-specific slope, representing change in emotion regulation over the 18-week period, will be used to examine our third aim, which tests whether improvements in emotion regulation (in CBCT vs the waitlist control) will predict changes in primary and secondary outcomes from baseline to post-treatment and from baseline to 6-month follow-up.
+
+Participant timeline {13}
+
+Figure 1 includes a SPIRIT participant timeline.
+
+Sample size {14}
+
+Analyses will be conducted at the individual level rather than the couple level, as each member of the couple will provide their own assessment for all variables. Sample size calculations were conducted using Monte Carlo simulations [56, 57] in Mplus based on the primary aim of the study, examining individual-level outcomes for individuals with SIAD. Specifically, estimates were informed by: (i) effect sizes and mean sexual desire and distress improvements for individuals with SIAD in our feasibility study for CBCT [37]; (ii) previous clinical trials and SIAD research [34, 58] and; (iii) correlations from another study examining emotion regulation difficulties and sexual distress in couples with SIAD [20]. This estimation resulted in a sample size of 170. A sample of 170 couples yielded power of more than 90% to detect medium size group differences at post-treatment at p < 0.05, using two groups, three time points, and a moderate correlation between repeated measures, and between 80% and 85% power to detect small to medium size group differences at 6-month follow-up for the primary outcomes with an estimated attrition rate of 12% at the 6-month follow-up [34]. This sample size also produces 76%–91% power to answer our third objective to detect a significant indirect effect of treatment on the primary outcomes via emotion regulation. This sample size calculation is conservative given that the effect sizes for the primary outcomes obtained in our feasibility study varied from medium to large [37].
+
+Recruitment {15}
+
+Participants will be recruited via the clinical networks of the researchers (e.g., waitlist for sex therapy), online advertisements (e.g., social media), print posters, and past participant pools from each center who have previously consented to being contacted for research opportunities. We have successfully applied these recruitment strategies in previous RCTs and SIAD research [21, 34, 37]. Each center is responsible for recruiting 1/3 of the sample to facilitate and accelerate the recruitment process, diversity of participants across demographics, and treatment delivery by minimizing the length of time between randomization and treatment, which reduces the risk of dropout. We will follow best practices for promoting the diversity of our sample (e.g., gender-diverse, race/ethnicity) [48, 59].
+
+Assignment of interventions: allocation
+
+Sequence generation {16a} and concealment mechanism {16b}
+
+Participants will be randomly assigned to one of the study conditions using a stratified method, within each of the treatment sites. The research coordinator at each site will remain unblinded and implement participant assignment using free randomization software (www.studyrandomizer.com). Within each stratum, allocation will be computer-generated randomly using permuted blocks to maintain equilibrium between the treatment and control conditions. This procedure ensures that all other study staff remain unaware of the participant conditions and that the principal investigators will not influence the randomization process.
+
+Implementation {16c}
+
+The research coordinator at each site enrolls study participants once all eligibility criteria have been met. The unblinded research coordinator at each site will contact participants via telephone or Zoom to inform them of their group allocation. At this time, participants allocated to the CBCT condition will be informed of their study therapist’s name and the research coordinator will coordinate the scheduling of their first therapy appointment.
+
+Assignment of interventions: blinding
+
+Who will be blinded {17a}
+
+Research assistants (including those who conduct screening and clinical interviews) and data analysts will be blinded until the end of all analyses. Participants will be instructed not to reveal the condition they were assigned to any study staff. The study coordinators (who conduct the randomization and inform couples of their assignment), therapists, and supervising psychologists will have contact with participants throughout the duration of the study; thus, blinding is not possible. Notably, the principal investigators at each site will be blinded until after randomization so as to not bias this process, at which point they can no longer be blind to condition assignment given that they also serve as the supervising psychologists.
+
+Procedure for unblinding if needed {17b}
+
+The anticipated risks of the intervention are minimal. The study therapists are trained to monitor and address any adverse effects of the therapy (e.g., increase in relationship conflict) in session and are under the supervision of the site-principal investigators, who are registered psychologists with extensive experience in sex and couple therapy, including having developed the current intervention. As such, unblinding will not be permissible.
+
+Data collection and management
+
+Plans for assessment and collection of outcomes {18a}
+
+Participants in the CBCT and waitlist conditions will follow the same schedule for online longitudinal surveys. Upon enrollment and prior to randomization, participants will complete the baseline survey. After randomization, participants in the CBCT condition will complete in-study surveys after every fourth treatment session, while participants in the waitlist condition will complete surveys every four weeks for the same period of time. Participants will complete the post-treatment survey following the final week of treatment (CBCT condition) or four and a half months after randomization (waitlist condition), and a follow-up survey 6 months after treatment ends (CBCT condition) or 10.5 months after randomization (waitlist condition).
+
+Plans to promote participant retention and complete follow-up {18b}
+
+All participants will receive a reminder email 48 h prior to receiving the pre-treatment, in-treatment, post-treatment, and the 6-month follow-up surveys to facilitate compliance with completing surveys. If participants have not completed a survey within 24 h, then a research assistant will make a reminder telephone call to the participant.
+
+Data management {19} and confidentiality {27}
+
+Upon enrolling in the study, participants will be assigned a couple identification number to enable the electronic data across time points to be linked. No formal data entry is required as all data is collected through the online platform Qualtrics. All de-identified raw survey data will be stored on secure Qualtrics servers; downloaded data will then be stored on a password-protected secure server of the principal investigator. A file linking participant names, telephone numbers, and email addresses with their couple identification numbers will be password protected and stored separately from their data on the secure server. The purpose of keeping this file is to link data between partners, contact if significant distress is identified, and to contact participants via email for compensation. The study data itself will not include any identifying information, except for the video recordings of the therapy session, which will not be anonymized, but deidentified to the best of our ability (e.g., stored without references to contact information). However, we will encourage couples to minimize potentially identifying personal information in the sessions and will only identify recordings by their couple identification number. Seven years following the end of the study, we will destroy the linking file and all contact information (i.e., phone numbers and email addresses) unless the participant has provided consent to be contacted about future studies.
+
+Plans for collection, laboratory evaluation, and storage of biological specimens for genetic or molecular analysis in this trial/future use {33}
+
+Not applicable as no biological specimens will be collected.
+
+Statistical methods
+
+Statistical methods for primary and secondary outcomes {20a}
+
+We will perform association tests (χ2, analysis of variance) between baseline demographics (i.e., age, sexual orientation, sex, gender, income, race/ethnicity, education, relationship status and duration, menopausal status, medical history, contraceptive use, and duration of SIAD symptoms) and outcomes; any that are significantly associated with the outcomes will be included as covariates. In accordance with the intent-to-treat design, we will include all participants in their randomized group for all analyses [38].
+
+Primary aim
+
+We will use a multilevel modeling approach to compare the effect of CBCT vs. waitlist control on the primary outcomes of sexual desire and distress for individuals with SIAD [60]. Separate models will be examined for each outcome. To model change over time, at the lower level, the outcome variable will be regressed on two dummy variables indicating whether the measurement of the variable is done at post-treatment or 6-month follow-up, respectively. The outcome measured at pre-treatment will be used as a reference. To examine the effect of treatment, the slope for each of the two dummy variables from the lower level will be regressed on the group membership variable (1 = CBCT; 0 = control) at the upper level. Significant slopes for the group variable will indicate group differences in change in the outcome from pre-treatment to post-treatment and 6-month follow-up, respectively.
+
+Secondary aims
+
+A similar strategy will be used to assess the effects at post-treatment and 6-month follow-up on both partners’ secondary outcomes with one modification. As both partners’ outcomes will be assessed at each time point, we will employ a multivariate multilevel model in which both partners’ outcomes will be modeled concurrently as a function of the two dummy variables at the lower level [61]. At the upper level, both partners’ slopes will be regressed on the group variable. This approach will allow us to model interdependency in partners’ residuals and change over time.
+
+Third aim
+
+We will use a three-level multilevel modeling approach to test the prediction that improvements in emotion regulation will mediate the beneficial effects of treatment. In the lowest level, change in the measures of emotion regulation will be modeled as a function of time with week representing the time unit. Time will be scaled such that 0 and 1 represent the values of weeks 0 and 18, respectively, with the intervening 16 weeks equally spaced in between. The slope for time indicates the total change in emotion regulation over treatment. Change in outcomes, modeled in the middle level, will be assessed using the approach described above. Mediation will be examined at the upper level using path analyses [62]. The slope for the time effect from the lower level, the mediator, will be regressed on the group membership variable, the predictor (path a). The dependent variables, change in outcomes from pre- to post-treatment and pre-treatment to 6-month follow-up, respectively, will be regressed on the mediator variable (path b) and predictor (path c’). We will also use our data for theory-testing and conducting exploratory analyses examining the extent to which changes in partner emotion regulation predict changes in primary outcomes.
+
+Interim analyses {21b}
+
+No interim analyses will be conducted. The trial will be terminated once the intended sample size is reached.
+
+Methods for additional analyses (subgroup analyses) {20b}
+
+To examine gender and sex as a potential treatment moderator for each primary outcome, we will enter the interaction between treatment and gender or sex (in separate models) as a predictor of the slope for each of the dummy variables from the lower level (for primary and secondary aims). Moderation by gender and sex of each path in the mediation models will be examined by entering the interactions between the predictor and mediator, respectively.
+
+Methods in analysis to handle protocol non-adherence and any statistical methods to handle missing data {20c}
+
+Treatment adherence will be measured by monitoring attendance to CBCT sessions. As per our prior RCTs, participants who attend less than 75% of sessions and do less than 50% of homework will be considered non-adherent [34, 63]. However, consistent with an intention-to-treat approach, all participants who had been randomized will be included in all analyses [38]. To examine each therapist’s adherence to the treatment manual, independent raters will view and code a random sample of 25% of the CBCT recorded sessions. Missing data will be handled using the Full-Information Maximum Likelihood [64]. We will conduct Little’s [65] test to evaluate whether the data are missing completely at random. If data are not missing at random, then sensitivity analyses will be conducted to evaluate the potential impact on results.
+
+Plans to give access to the full protocol, participant level-data, and statistical code {31c}
+
+For the purposes of research transparency, verifiability, and reproducibility, the study protocol and data collected will be shared on the Open Science Framework. The data will be de-identified and password-protected and will be accessible only to authorized researchers who request access.
+
+Oversight and monitoring
+
+Composition of the coordinating center and trial steering committee {5d}
+
+The RCT is overseen by three principal investigators (one per site). Additionally, each study site has a dedicated research coordinator responsible for daily maintenance of the study, performing the randomization procedures, facilitating introductions with study therapists for participants in the CBCT condition, and sending reminder emails and telephone calls prior to each survey. Research coordinators from the three sites will meet on a weekly basis to share study updates, troubleshoot problems, and ensure consistency across sites. Moreover, undergraduate students at each site will be responsible for conducting eligibility screening, and graduate students in clinical psychology and a postdoctoral fellow will be responsible for conducting the clinical interviews, overseeing recruitment, and assisting with data analyses and manuscript development. Each site will meet with their respective team on a weekly basis.
+
+Composition of the data monitoring committee, its role, and reporting structure {21a}
+
+The anticipated risks associated with participating in the study and the CBCT are considered minimal. Given the low likelihood of adverse events, a data monitoring committee is not required.
+
+Adverse event reporting and harms {22}
+
+Adverse events will be monitored systematically using an author-developed adverse events questionnaire administered every 4 weeks, at post-treatment, and at 6-month follow-up, and additionally based on spontaneous reports from the participants to their therapist. Although existing literature on adverse events for couple therapy is scarce, anticipated adverse events for this trial may include increased couple conflict and SIAD symptom exacerbation. Consistent with classifications outlined in a review of adverse event reporting in RCTs for psychotherapies [66], adverse events will be classified as either a therapy-specific adverse event (i.e., a negative change reported in couple conflict or SIAD symptoms) or a serious adverse event (i.e., life threatening, medical event, requires hospitalization, long-term impairment, death). If serious adverse events are reported, then therapists will consult with the study-site supervisor on how to address the event, with consideration of participant preference, including the possibility of discontinuing treatment. All adverse events identified during the trial will be reported, regardless of classification.
+
+Frequency and plans for auditing trial conduct {23}
+
+Not applicable. An independent audit committee is not required, as the anticipated risk to participants is considered minimal. Oversight will be provided by the principal investigators (one per site) in conjunction with the research ethics committees at each of the three centers.
+
+Plans for communicating important protocol amendments to relevant parties (e.g., trial participants, ethical committees) {25}
+
+All protocol modifications will require submission of an ethics amendment to the research ethics committees at each of the three centers. Upon approval, the research coordinator at each site will immediately communicate protocol changes to participants via email.
+
+Dissemination plans {31a}
+
+At the end of the study, we plan to share our findings in a variety of means, including publication of scientific articles and book chapters, doctoral theses, presentations and workshops at scientific and clinical conferences, and to relevant healthcare professionals, print media, and the development of infographics shared via our social media platforms and directly with participants via email. Moreover, we intend to publish the manual to make it available to sex and couple therapists to ensure access to this novel intervention.
+
+Discussion
+
+The current study is the first RCT to evaluate the efficacy of a novel manualized CBCT for the treatment of SIAD. Key strengths of this study include its large sample size, rigorous design with manualized treatment, weekly clinical supervision for therapists, coding for therapist adherence to the treatment manual, and dyadic data analyses. Moreover, given the high costs associated with mental health care and scarcity of available services in rural areas, offering participants access to a free intervention delivered via virtual care will help improve accessibility to psychological treatment for marginalized communities [67]. However, this protocol has some notable limitations.
+
+First, the field of psychology has a significant history of causing harm to minority populations, which has justifiably contributed to mistrust and hesitation to participate in research [68–70]. As such, combined with ongoing discrimination, clinical trials have historically underrepresented minority populations; thus, many RCTs for psychological interventions are not generalizable to these groups [71–73]. Consistent with these findings, our feasibility study for CBCT included cisgender women with SIAD who were primarily in mixed gender/sex relationships, highly educated, and of European and/or North American background [37]. Although we plan to recruit a diverse sample through targeted recruitment strategies, it is plausible that the generalizability of our findings to racialized, sexually, and gender/sex diverse populations will be limited.
+
+Second, psychological research has primarily excluded sexuality and gender/sex diverse participants [74, 75], and the research on which the treatment manual was based primarily included mixed-gender/sex couples. Although our treatment manual was developed to be inclusive of diverse sexualities, genders, and sexes, and therapists are encouraged to tailor the treatment to the specific needs of each client, some aspects of the treatment may be perceived as heteronormative, impacting the efficacy of the treatment for sexual and/or gender/sex diverse participants. To address this concern, we will conduct an additional qualitative study to evaluate sexually and gender/sex diverse participants’ experiences of inclusivity with the intervention to inform future revisions to enhance its inclusivity.
+
+Despite these limitations, this study aims to provide evidence for the efficacy of CBCT in the treatment of SIAD. The results of this RCT will build upon our feasibility study by establishing whether CBCT for SIAD is efficacious compared to a waitlist control group. Moreover, this study intends to provide insight into a key mechanism accounting for treatment improvements through mediation analysis, which is an important aspect of treatment development and clinical practice [76]. Together, these findings will be critical for informing both theoretical and clinical models, while providing clinicians and couples with an accessible, evidence-based dyadic treatment for SIAD.
+
+Trial status
+
+This study was registered on January 15th, 2025, at ClinicalTrials.gov identifier: NCT06777277. Protocol version number 1.0. January 14th, 2025. Recruitment began in December 2024, and the anticipated end of the study is January 2029.
+
+Supplementary Information
+
+Supplementary Material 1.
+
+Acknowledgements
+
+We thank Mylene Desrosiers, Kate Hunker, Gillian Hyslop, members of the Couples and the Sexual Health Laboratory, the Sexual Health Laboratory, and the Psychology, Health, and Sexuality Laboratory, for their assistance with this project as well as the couples who will be participating in this research.
+
+Abbreviations
+
+Cognitive-behavioral couple therapy
+
+Diagnostic and Statistical Manual of Mental Disorders, 5th Edition, Text Revision
+
+Global Measure of Sexual Satisfaction
+
+Intimate partner violence
+
+Randomized clinical trial
+
+Sexual Desire Inventory-2
+
+Sexual Distress Scale-Short Form
+
+Sexual interest/arousal disorder
+
+Authors’ contributions {31b}
+
+JPKS contributed to the design of the work and writing of the original manuscript. NOR, SB, and KB are the primary investigators; each conceived the study, acquired funding, contributed to the design of the work, and reviewed and edited the manuscript. AG and NP contributed to the design of the work and reviewed and edited the manuscript. Authorship for all future publications arising from this trial will be determined in accordance with the International Committee of Medical Journal Editors guidelines [77].
+
+Funding {4}
+
+This research is funded by the Canadian Institutes of Health Research, award number: 202303PJT-496676-PB1-CHAA-183196. The funding body will have no role in the design of the study, collection, analysis, and interpretation of data, or writing of the manuscript.
+
+Data availability {29}
+
+All principal investigators will be given access to the final trial datasets. Datasets will be stored on the password-protected server located at Dalhousie University.
+
+Declarations
+
+Ethics approval and consent to participate {24}
+
+This study was approved by the University of British Columbia’s Behavioural Research Ethics Board (#H24-02217), the University of Montreal’s Research Ethics Committee in Education and Psychology (#2024-5832), and the Dalhousie University Health Sciences Research Ethics Board (#2024-7379). Written, informed consent will be obtained from all participants.
+
+Consent for publication {32}
+
+Not applicable. No identifying details, images, or videos relating to an individual person and/or couple will be included in the protocol, nor in the publication of study results. Model consent forms are available from the corresponding author upon request.
+
+Competing interests {28}
+
+The authors declare no competing interests.
+
+Footnotes
+
+The Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR) diagnosis is female sexual interest/arousal disorder [3]. Women who were not assigned female at birth (e.g., transgender women, intersex individuals) and gender diverse individuals assigned female at birth (e.g., non-binary people) can also experience symptoms of SIAD. Consistent with best practices for inclusive research, we omitted “female” from the diagnostic label and refer to participants as women and gender-diverse individuals with SIAD [4].
+
+Hypoactive sexual desire disorder was the previous diagnosis for low sexual desire in women in the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition [33].
+
+Publisher's Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+References
+
+Associated Data
+
+Supplementary Materials
+
+Data Availability Statement

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8814485",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The effect of counseling for interpersonal relationship using myers-briggs type indicator.",
+  "authors": "Jang SS, Kim BJ, Ju YT, Woo HO, Han JH, Cho GJ, Hong SC.",
+  "year": "2011",
+  "journal": "",
+  "doi": "10.3946/kjme.2011.23.1.15",
+  "pmcid": "PMC8814485",
+  "url": "https://europepmc.org/article/PMC/PMC8814485",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8814485/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "mbti"
+  ],
+  "abstract": "Purpose There are large differences between medical school curricula and those of other disciplines and graduate schools. Counseling program is designed to help participants understand their innate tendencies and have indirect experiences with the 16 Myers-Briggs Type Indicator (MBTI) types, which can lead to better interpersonal relationships. Methods The experimental and control groups, which were sampled randomly, comprised 34 students each. Each group was consisted of 17 females and 17 males. We implemented a counseling program (understanding oneself, understanding others) only to the experimental group, not the control group. The effects of the program were analyzed by t-test and analysis of covariance (ANCOVA). The data were analyzed using SPSS 17.0 Window. Results For the Human relationship scale as a whole, the experimental group showed an increase from 3.641 to 3.846 (p=0.001). With regard to the subcategories, satisfaction increased from 3.705 to 4.022 (p=0.000), trust increased from 3.480 to 3.715 (p=0.015), intimacy increased from 3.833 to 4.019 (p=0.007), and openness increased from 3.435 to 3.700 (p=0.006). Conclusion This program improved interpersonal relationships by helping new students understand each other, build a rapport, and understand their personalities well with open minded attitudes. Their relationships gradually became more intimate than awkward through this program.",
+  "raw_path": "01_raw/europepmc_xml/PMC8814485.xml",
+  "text_path": "02_text/europepmc/PMC8814485.txt",
+  "raw_bytes": 94902,
+  "text_chars": 8006,
+  "raw_sha256": "b4eed7dc8d5473fe6f0e099cbc328731664a006abb3d45f6ff85e20f486c912e",
+  "text_sha256": "e61aec0299d6068e1f6155c4bc53656b324601bdf640bbacdbf94091a6807245",
+  "retrieved_at": "2026-10-25T15:27:59.473547+00:00"
+}

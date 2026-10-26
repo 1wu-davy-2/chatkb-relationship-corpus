@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11253252",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Reduction mammoplasty, self-esteem, and sexual desire: A pre-post intervention study.",
+  "authors": "Berenguel-Pérez AI, Cortés-Rodríguez AE.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1016/j.ijchp.2024.100477",
+  "pmcid": "PMC11253252",
+  "url": "https://europepmc.org/article/PMC/PMC11253252",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11253252/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_self_disclosure"
+  ],
+  "abstract": "Background/objective Sexuality plays a significant role in social relationships and overall development. For women, the breasts hold considerable importance in sexual expression. Deviation from societal norms regarding breast size can lead to mental and sexual health issues. This study aimed to examine the impact of breast reduction surgery on self-esteem, body image, and sexual desire in women undergoing the procedure. Methods A descriptive correlational study was conducted, involving 50 women who underwent reduction mammoplasty. Results Regarding pre- and post-surgical measurements, breast reduction surgery was associated with improvements in body image perception, as indicated by the BREASTQ reduction module, and both dyadic and solitary sexual desire. However, self-esteem remained unaffected by the intervention. Correlational analysis demonstrated a positive relationship between psychosocial well-being and other dimensions of body image, as well as sexual desire. Sexual well-being also correlated with breast and nipple satisfaction, along with dyadic sexual desire. Notably, age and self-esteem did not exhibit significant correlations with the variables studied. Conclusion These findings suggest that breast reduction surgery can improve body image and sexual desire in women, but further research is needed to explore the long-term effects and the specific factors that contribute to these outcomes.",
+  "raw_path": "01_raw/europepmc_xml/PMC11253252.xml",
+  "text_path": "02_text/europepmc/PMC11253252.txt",
+  "raw_bytes": 130390,
+  "text_chars": 40156,
+  "raw_sha256": "821194e7c84907b69afb78773190441b53883108bb5510543331ea05616dad73",
+  "text_sha256": "e1dd5f8bbd3ea226ca5dcdd329f076874bd79a2a29a545e5d8348e2ed83ae106",
+  "retrieved_at": "2026-10-26T13:08:11.205709+00:00"
+}

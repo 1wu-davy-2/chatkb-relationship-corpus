@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12006887",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Age disparity in couples and the sexual and general health of the male partner.",
+  "authors": "Sparano C, Rastrelli G, Corona G, Vignozzi L, Vignoli D, Maggi M.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/andr.13738",
+  "pmcid": "PMC12006887",
+  "url": "https://europepmc.org/article/PMC/PMC12006887",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12006887/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_desire_gap"
+  ],
+  "abstract": "Introduction Several robust epidemiological studies suggest that men are often engaged in sexual relationships with younger women with a variable, age-dependent age difference. However, the ageing process determines a significant worsening of the andrological status, which favors the onset of erectile dysfunction and hypogonadism. Objectives To analyze the effects of differences in age between the partners [delta (Δ) age (M - F)] on patients referring to the Andrology Unit of Careggi University Hospital for male sexual dysfunction. Materials and methods A monocentre cohort of 4055 male subjects was evaluated by SIEDY structured interview. The cross-sectional analysis assessed the psychobiological and relational correlates. The rate of forthcoming major cardiovascular events (MACE) was investigated in the longitudinal analysis. All the models have been adjusted for age, education, lifestyle, and chronic disease score. Results ∆ age (M-F) shows a stepwise increase, according to the increasing age bands of the male partner. ∆ age (M-F) was associated with a greater number of children, at the cost of more conflictual relationships within the family. The phenotype of these relationships is characterized by the report of a partner with a higher sexual desire and a higher ability to reach climax. Men seeking a younger partner show more often a histrionic personality (p = 0.023) and higher testosterone levels (p = 0.032). However, having a younger partner doesn't improve the ability to obtain a full erection. Kaplan-Maier analysis of a longitudinal subgroup of patients followed longitudinally (N = 1402) for 4.3 ± 2,59 years, showed that patients in the fourth quartile had a higher rate of forthcoming MACE versus those in the first quartile (p = 0.005). Discussion and conclusion In subjects with sexual dysfunctions (as in the general population) age-different relationships increase as a function of male ageing. A greater Δ age (M-F) is associated with specific men and relationship features and a higher risk of MACE.",
+  "raw_path": "01_raw/europepmc_xml/PMC12006887.xml",
+  "text_path": "02_text/europepmc/PMC12006887.txt",
+  "raw_bytes": 129218,
+  "text_chars": 32101,
+  "raw_sha256": "f18bfc2263785d23688e23d8b4edf0a66453e17af36225d7cf11eaf40abf615b",
+  "text_sha256": "423942c130e29a88003c83ac9e1714eecd5e8bd1fe62d7abcd92be000852b208",
+  "retrieved_at": "2026-10-26T12:57:51.735848+00:00"
+}

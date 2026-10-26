@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6657529",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Automatic Inattention to Attractive Alternative Partners Helps Male Heterosexual Chinese College Students Maintain Romantic Relationships.",
+  "authors": "Ma Y, Xue W, Tu S.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2019.01687",
+  "pmcid": "PMC6657529",
+  "url": "https://europepmc.org/article/PMC/PMC6657529",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6657529/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "Heterosexual individuals may possess evolved psychological mechanisms that help protect their ongoing romantic relationships against external threats from other attractive individuals. The current study used love priming and a dot-probe task to examine the attentional bias associated with long-term relationship maintenance by comparing between 52 single heterosexual men and 57 heterosexual men in exclusive romantic relationships, in the Chinese context. The results showed that single men responded to love priming with greatly increased attention to and difficulty disengaging from attractive women, whereas committed men were largely inattentive to attractive alternatives irrespective of the situation. The present findings provide evidence on the domain of relationship maintenance from a Chinese cultural context, and suggest that Chinese men protect an ongoing relationship by being automatically inattentive in early-stage attentional processing to attractive women who could serve as attractive alternatives.",
+  "raw_path": "01_raw/europepmc_xml/PMC6657529.xml",
+  "text_path": "02_text/europepmc/PMC6657529.txt",
+  "raw_bytes": 114328,
+  "text_chars": 34568,
+  "raw_sha256": "e9a0c22c2beae0602423bf537dfe03c01ab9ac49fed47c41d85a6fa27a92c2d7",
+  "text_sha256": "060695f4623b558a224366aaabc075106ffa07cc118b7cd3288e950e2ed05788",
+  "retrieved_at": "2026-10-25T15:43:38.326290+00:00"
+}

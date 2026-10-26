@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12366465",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual distress with partnered face-to-face sexual activity: an exploratory qualitative study with heterosexual cis people who seek and do not seek professional help.",
+  "authors": "Pascoal PM, Andersson G, Fischer VJ, Manão AA, Oliveira C, Raposo CF, Rosa PJ, Roberto MS, Santos G, Tomada N, Giraldi A.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1553893",
+  "pmcid": "PMC12366465",
+  "url": "https://europepmc.org/article/PMC/PMC12366465",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12366465/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_frequency",
+    "sexual_pleasure_gender"
+  ],
+  "abstract": "Introduction Sexual distress is interrelated with mental health and relationship quality and is fundamental for establishing a diagnosis of sexual dysfunction, even though it also affects people who do not seek professional clinical help. Research on sexual distress related to partnered sexual activity is limited, and no comprehensive model exists to guide research or clinical interventions. We conducted an online cross-sectional qualitative study to: 1) explore the reasons why people experiencing sexual distress in partnered face-to-face sexual activity do not seek professional clinical help; 2) analyze the experiences of participants' of sexual distress in partnered sexual activity; 3) reflexively compare the experiences reported by participants who seek and do not seek professional help; and 4) reflexively compare experiences across genders. Methods We performed reflexive thematic analysis on 438 heterosexual people answers ( M age = 41.06, SD = 12.19), including 306 women (69.7%) and 132 men (30.1%). Results Most participants (54.1%) had not sought professional clinical help but wanted to do so. Some participants (13.2%) expressed a desire for clinical consultations but reported financial or time constraints. Using the reflexive thematic analysis on the qualitative data provided, we created three themes: (1) Sexual (dys)function (It's the function), which focuses on sexual function and lack of pleasure; (2) Intimacy dynamics (It's us!), which discusses relationship challenges; (3) Intrapersonal struggles (It's me!), which highlight individual factors, some influenced by social messages. Comparison across groups revealed that people who sought professional clinical help emphasise genital function and negative emotions, and women highlighted experiencing sexual pain, while men emphasised desire discrepancies and erectile disorder. Discussion Our results demonstrate that difficulties related to sexual pleasure and with penetrative sex are important sources of distress in partnered sexual activity, which is in line with DSM and ICD frameworks of sexual dysfunction. Participants' accounts show that pre-existing psychological characteristics, partnered communication, cognitive, and emotional factors are key factors to shape the experience of sexual distress related to sexual dysfunctions. This has implications for clinical work as interventions should target transdiagnostic individual factors that may not be sexual specific (e.g., repetitive negative thinking) as well as couple-level factors (e.g., communication). Internet-based integrative therapies directed at these factors may be a promising venue for those who experience sexual distress with partnered sexual activity and are reluctant to seek in-person sexual healthcare.",
+  "raw_path": "01_raw/europepmc_xml/PMC12366465.xml",
+  "text_path": "02_text/europepmc/PMC12366465.txt",
+  "raw_bytes": 165227,
+  "text_chars": 60319,
+  "raw_sha256": "37505442143c11d8e54d7861775769d5c4adbcffc6310921047e894eb193b05d",
+  "text_sha256": "f4309bebfa6bf2d1b25582281a9272431b1b3104e4f0c1a4763ed32267860141",
+  "retrieved_at": "2026-10-26T12:54:20.024134+00:00"
+}

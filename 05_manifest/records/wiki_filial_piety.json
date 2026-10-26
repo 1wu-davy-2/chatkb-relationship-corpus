@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_filial_piety",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "孝",
+  "requested_title": "孝道",
+  "url": "https://zh.wikipedia.org/wiki/%E5%AD%9D",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "culture",
+    "family"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/filial_piety.json",
+  "text_path": "02_text/zh_wikipedia/filial_piety.txt",
+  "raw_bytes": 6310,
+  "text_chars": 2219,
+  "text_sha256": "d1f8b86cd4e5910f0bfb672d20b119aceffb35014a6d4a55c06ec0f88e3ab930",
+  "retrieved_at": "2026-10-25T15:41:10.126529+00:00"
+}

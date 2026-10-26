@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10303471",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Jealousy Mediates the Link Between Women's Upward Physical Appearance Comparison and Mate Retention Behavior.",
+  "authors": "Arnocky S, Locke A.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1177/1474704920973990",
+  "pmcid": "PMC10303471",
+  "url": "https://europepmc.org/article/PMC/PMC10303471",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10303471/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Previous research has demonstrated that men's lower mate value predicts increased perpetration of mate retention, especially with respect to cost inflicting behaviors. It is less clear if lower mate value women, including those who perceive themselves as being less physically attractive than their intrasexual rivals, also perpetrate more mate retention. Moreover, it is presently unclear whether romantic jealousy, which has been proposed to motivate compensatory behavior in response to evidence that a valued mating relationship is threatened, might mediate this link. The present study addressed this gap in knowledge by examining whether women's overall self-perceived mate value and upward physical appearance comparisons predicted their cost inflicting and benefit provisioning mate retention, as well as whether jealousy mediated these relationships. In a sample of 167 heterosexual undergraduate women, results found self-perceived mate value predicted greater benefit provisioning mate retention, but not romantic jealousy. In contrast, jealousy mediated the relationship between women's upward physical appearance comparisons and both their cost-inflicting and benefit-provisioning mate retention, supporting the hypothesis that jealousy in the face of unfavorable social comparisons on important mate value traits can promote action aimed at retaining a mate.",
+  "raw_path": "01_raw/europepmc_xml/PMC10303471.xml",
+  "text_path": "02_text/europepmc/PMC10303471.txt",
+  "raw_bytes": 98055,
+  "text_chars": 35834,
+  "raw_sha256": "730200cb4391285efffcb45d0aa350f7c3d91328ebad958d003d467d3d799a63",
+  "text_sha256": "5ac0c92f0576a6ac6caf6ef458d811bb5706198d8b2f106cf3c88d205c91d506",
+  "retrieved_at": "2026-10-25T15:43:39.728711+00:00"
+}

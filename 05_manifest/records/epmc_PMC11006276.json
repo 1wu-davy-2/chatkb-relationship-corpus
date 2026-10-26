@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11006276",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "What Women Want? The State of the Art regarding the Treatment of Young Women with Hypoactive Sexual Desire Disorder.",
+  "authors": "de Oliveira L, Vignozzi L, Giraldi A, Varod S, Corona G, Reisman Y.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1159/000535587",
+  "pmcid": "PMC11006276",
+  "url": "https://europepmc.org/article/PMC/PMC11006276",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11006276/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "Background Hypoactive sexual desire disorder (HSDD) in premenopausal women involves biological, psychological, and social aspects. In the European Society for Sexual Medicine meeting in Rotterdam in February 2023, several leading experts in the field discussed the multifaceted nature of this disorder and the state of the art regarding treatment at a round table. This review reflects the information discussed at this event and further discusses current controversies. Summary HSDD is the most prevalent female-estimated sexual disorder reported by 28% of the 40% premenopausal women with sexual dysfunction. Flibanserin and bremelanotide are the only approved medications to treat HSDD in the USA, and none are approved in Europe. Lybrido, Lybridos, and Lorexys are under development. There are several psychological factors with impact in sexual desire, including depression and sexual abuse. Feminine sexual scripts, the pleasure gap, and structural inequalities also affect sexual desire. Evidence strongly supports the value of combining medical and psychological approaches in the treatment of HSDD, but there is ongoing controversy regarding the pharmacological treatment of young women with HSDD. However, some women seem open and would like to have access to drug treatment. Key messages The treatment of HSDD in young women requires a mixed treatment approach that addresses the disorder's complexity. Despite clinicians seeming to be divided between using pharmacological and/or psychosocial approaches, some women might respond better to one type of intervention over the others. This calls for the development of tools that assess the best approach for each person, including their will and informed choice.",
+  "raw_path": "01_raw/europepmc_xml/PMC11006276.xml",
+  "text_path": "02_text/europepmc/PMC11006276.txt",
+  "raw_bytes": 100933,
+  "text_chars": 21862,
+  "raw_sha256": "29b27c7c1700e12ef9d6c1b0c20bd62ff2bce5af2a90b0684cbc7025ac95d076",
+  "text_sha256": "7162417461df2066454266d6ee02841f407a85f22cdfc4f1bdc8391ea3e0b87d",
+  "retrieved_at": "2026-10-26T13:13:11.577679+00:00"
+}

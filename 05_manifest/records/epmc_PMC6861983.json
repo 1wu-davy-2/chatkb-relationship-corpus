@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6861983",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Romantic Love and Reproductive Hormones in Women.",
+  "authors": "Sorokowski P, Żelaźniewicz A, Nowak J, Groyecka A, Kaleta M, Lech W, Samorek S, Stachowska K, Bocian K, Pulcer A, Sorokowska A, Kowal M, Pisanski K.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.3390/ijerph16214224",
+  "pmcid": "PMC6861983",
+  "url": "https://europepmc.org/article/PMC/PMC6861983",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6861983/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "Increased reproductive success is among the most commonly proposed adaptive functions of romantic love. Here, we tested if hormonal changes associated with falling in love may co-vary with hormonal profiles that predict increased fecundity in women. We compared blood serum levels of estradiol (E2, E2/T), luteinizing hormone (LH), follicle-stimulating hormone (FSH), prolactin (PRL), free testosterone (fT), and cortisol (CT), measured in the early follicular phase of the menstrual cycle in single women ( N = 69) and in women at the beginning of a romantic heterosexual relationship who reported being in love with their partner ( N = 47). Participants were healthy, regularly cycling women aged 24 to 33 who did not use hormonal contraception. We found that women in love had higher levels of gonadotropins (FSH, LH) and lower testosterone levels compared to single women who were not in love. These groups of women did not, however, differ in terms of estradiol, prolactin, or cortisol levels.",
+  "raw_path": "01_raw/europepmc_xml/PMC6861983.xml",
+  "text_path": "02_text/europepmc/PMC6861983.txt",
+  "raw_bytes": 100961,
+  "text_chars": 24360,
+  "raw_sha256": "a736b0ded6090a452caa82094b7de0c46391c4e0c78aed5925c4e3f1b15524ab",
+  "text_sha256": "5a62d68a1b54829728fa48863dc0736c343189426cb47be4dd852644f2eb5b23",
+  "retrieved_at": "2026-10-25T15:42:47.353766+00:00"
+}

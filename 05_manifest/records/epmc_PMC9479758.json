@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9479758",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A match made in heaven - \"Indian matchmaking\" in contemporary times.",
+  "authors": "Ghosh D.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fsoc.2022.684994",
+  "pmcid": "PMC9479758",
+  "url": "https://europepmc.org/article/PMC/PMC9479758",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9479758/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "arranged_marriage"
+  ],
+  "abstract": "The Indian subcontinent is ubiquitous with some social factors such as caste, gender (discrimination), poverty. One particular factor that has taken up the imaginations of the Netflix-watching audience of late is the practice of arranged marriages. A series called Indian Matchmaking catapulted the notion of arranged marriages into the drawing rooms of both people who are highly aware of the notion (probably having been through it themselves), as well as people who have a very vague idea about it. Nevertheless, it has become a highly talked about television show across the Anglophone world. A little before its release, another English-language reality show, What the Love! with Karan Johar was released by Netflix. This explores the world of romantic connections with a few chosen people from India. While placing itself on the opposite side of the spectrum when compared to Indian Matchmaking , in many ways, it lends itself to similar tropes, albeit under a progressive garb. This paper delves into the portrayal of people from India or of Indian origin in the reality shows Indian Matchmaking and What the Love! with Karan Johar . I examine the two shows through the lens of postfeminism and how, while raising several social issues that plague Indian society, both citizens and the diaspora, they inadvertently propagate a certain self-policing and conservatism that people, particularly women, are expected to adhere to.",
+  "raw_path": "01_raw/europepmc_xml/PMC9479758.xml",
+  "text_path": "02_text/europepmc/PMC9479758.txt",
+  "raw_bytes": 96967,
+  "text_chars": 65210,
+  "raw_sha256": "089d9cb7b3b3aef27b454f7247789bf741cbea8c6d8dfc0b0723e2e355cbde8a",
+  "text_sha256": "f3b51cd298cee5939c6916c6dd436b9df7509fe2422c5a48fbda6175d6b44ae0",
+  "retrieved_at": "2026-10-25T13:58:30.313855+00:00"
+}

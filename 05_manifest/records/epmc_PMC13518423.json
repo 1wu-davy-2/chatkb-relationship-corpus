@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13518423",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Self-Esteem, Lover-Centeredness, and Social Networking Site Use as Mediators Between Resilience and Cyberbullying Victimization.",
+  "authors": "Kurnaz MF, Koçtürk N.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s11126-025-10154-6",
+  "pmcid": "PMC13518423",
+  "url": "https://europepmc.org/article/PMC/PMC13518423",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13518423/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_esteem"
+  ],
+  "abstract": "Individual factors play a crucial role in shaping the strength of the relationship between resilience and cyberbullying victimization. This study examines the mediating roles of self-esteem, lover-centeredness, and social networking site use in this relationship through a serial mediation model. A total of 597 adults (460 females, mean age: 22.25) participated in the study, meeting G*Power's sample size recommendations. Preliminary analyses were conducted using SPSS 27.0 and JASP, while the serial mediation model was tested using the SPSS PROCESS Macro. Additionally, a multi-group analysis was performed using SmartPLS 3 to explore differences in the serial mediation model based on participants' relationship status. The findings indicated that resilience does not significantly predict cyberbullying victimization. However, self-esteem and social networking site use were found to mediate this relationship both individually and jointly, whereas lover-centeredness did not emerge as a significant mediator. Moreover, self-esteem, lover-centeredness, and social networking site use demonstrated a significant combined mediating effect on the relationship between resilience and cyberbullying victimization. The multi-group analysis revealed that resilience significantly predicts lover-centeredness among individuals in a romantic relationship, but this prediction was not significant for those without a lover. These results offer valuable insights into the interplay between resilience, intimate relationships, and cyberbullying victimization.",
+  "raw_path": "01_raw/europepmc_xml/PMC13518423.xml",
+  "text_path": "02_text/europepmc/PMC13518423.txt",
+  "raw_bytes": 165367,
+  "text_chars": 37197,
+  "raw_sha256": "41b61b1c737eabea0e12e622244fc6b1786aa2e5ac4de266f6c9433d8c7a5afa",
+  "text_sha256": "cb33da60407608a31096a63db9f36da0f5ba84ee8781e7260e6ca7018f6a275b",
+  "retrieved_at": "2026-10-25T15:33:10.943926+00:00"
+}

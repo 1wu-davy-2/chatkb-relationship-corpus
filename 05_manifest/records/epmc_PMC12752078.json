@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12752078",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Romantic relationship satisfaction and marriage attitudes in young adults: the mediating role of cognitive flexibility.",
+  "authors": "Ekinci B, Canpolat M.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40359-025-03901-8",
+  "pmcid": "PMC12752078",
+  "url": "https://europepmc.org/article/PMC/PMC12752078",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12752078/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "BACKGROUND AND OBJECTIVES: This study examined the mediating role of cognitive flexibility in the relationship between romantic relationship satisfaction and attitudes toward marriage in young adulthood. Within this scope, a model incorporating the mediating role of cognitive flexibility was tested. METHODS: The study included 436 young adults (240 women, 196 men) living in Türkiye who had experience in romantic relationships. Data were collected using the Personal Information Form, Relationship Satisfaction Scale, Inonu Marriage Attitudes Scale, and Cognitive Flexibility Scale. The established model was analyzed using structural equation modeling via the AMOS 24 program, and the significance of the mediating effect was assessed using the bootstrapping method. RESULTS: Romantic relationship satisfaction positively predicts both marital attitude and cognitive flexibility; cognitive flexibility also significantly predicts marital attitude. Mediational analysis revealed that cognitive flexibility played a significant partial mediating role in the relationship between romantic relationship satisfaction and marital attitude. CONCLUSION: The findings of the study indicate that increased romantic relationship satisfaction has direct and indirect positive effects on young adults’ attitudes toward marriage. Based on the results obtained, various recommendations have been made to practitioners and researchers.",
+  "raw_path": "01_raw/europepmc_xml/PMC12752078.xml",
+  "text_path": "02_text/europepmc/PMC12752078.txt",
+  "raw_bytes": 112097,
+  "text_chars": 58957,
+  "raw_sha256": "21e4a30a56bfcedd4cb587e4240472d3f0739af57f3bd6d257b82355a4c8f839",
+  "text_sha256": "8a9d8df8427f17a3c3c141ae345602ac1fd7b9e16c06f97738990f84eb925eb4",
+  "retrieved_at": "2026-10-25T13:59:10.007527+00:00"
+}

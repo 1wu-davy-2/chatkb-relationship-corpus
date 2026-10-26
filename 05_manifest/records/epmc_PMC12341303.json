@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12341303",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Spatial variation of intimate partner violence and its public health implication: a cross-sectional study.",
+  "authors": "Babatope AE, Ibirongbe DO, Adewumi IP, Ajisafe DO, Fadipe OA, Popoola GO, Adepoju KO, Okunlola OA.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s12889-025-24123-y",
+  "pmcid": "PMC12341303",
+  "url": "https://europepmc.org/article/PMC/PMC12341303",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12341303/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Background/aim Intimate partner violence has a significant impact on people as individuals, as families, and as communities. The ripple effects extend beyond the immediate victims, straining healthcare systems, stifling economic productivity, and hindering social progress. The study aims to present the spatial distribution of intimate partner violence prevalence, identify socio-demographic and contextual predictors, and establish associations with public health indicators. Methods This is a secondary data analysis, using a nationally representative demographic and health survey (DHS) conducted in Nigeria. A two-stage stratified random sampling was employed in the standard DHS survey and 10,678 women of childbearing age were randomly selected for the intimate partner violence module. A Research Proforma of the selected variables from DHS was used to extract the data required for the study. Descriptive and inferential analyses were carried out on the data using Microsoft Excel dashboards, spatial map and random-intercept logistic regression. Results The study found the prevalence of intimate partner violence across the country to be 33.9%. Region and place of residence had significant association with intimate partner violence (p Conclusion The study identified communities in Nigeria with higher probability of intimate partner violence (IPV). These communities should be priortised for targeted intervention, also it is recommended that laws on IPV should be strengthened at national and regional levels.",
+  "raw_path": "01_raw/europepmc_xml/PMC12341303.xml",
+  "text_path": "02_text/europepmc/PMC12341303.txt",
+  "raw_bytes": 129331,
+  "text_chars": 37953,
+  "raw_sha256": "d9ef07120419a29fba5586e3346b50bb956471520eb87d419acc1e418274685a",
+  "text_sha256": "6c5126a0dc45a77487261bca418b4996cdafc1827a5ad626d44caf4f26972bb8",
+  "retrieved_at": "2026-10-25T15:44:45.610490+00:00"
+}

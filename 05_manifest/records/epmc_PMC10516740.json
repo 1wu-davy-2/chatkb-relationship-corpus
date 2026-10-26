@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10516740",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Understanding the Links Between Perceiving Gratitude and Romantic Relationship Satisfaction Using an Accuracy and Bias Framework.",
+  "authors": "Tissera H, Visserman ML, Impett EA, Muise A, Lydon JE.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/19485506221137958",
+  "pmcid": "PMC10516740",
+  "url": "https://europepmc.org/article/PMC/PMC10516740",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10516740/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Perceiving a partner's gratitude has several benefits for romantic relationships. We aimed to better understand these associations by decomposing perceptions into accuracy and bias. Specifically, we examined whether accuracy and bias in perceiving a partner's experience (Study 1: N dyads = 205) and expression (Study 2: N dyads = 309) of gratitude were associated with romantic relationship satisfaction. Using the Truth and Bias Model of Judgment, we found that perceivers generally underestimated their partner's gratitude, and lower perceptions of gratitude were related to lower perceiver satisfaction. Perceivers reported greater satisfaction when they assumed their partner's gratitude was similar to their own. Partners reported greater satisfaction when perceivers accurately gauged their partners' gratitude experience (but not expression) and lower satisfaction when perceivers underestimated their gratitude expression (but not experience). Overall, by decomposing gratitude perceptions into accuracy and bias, we provide insight into how these components differentially relate to relationship satisfaction.",
+  "raw_path": "01_raw/europepmc_xml/PMC10516740.xml",
+  "text_path": "02_text/europepmc/PMC10516740.txt",
+  "raw_bytes": 138934,
+  "text_chars": 38898,
+  "raw_sha256": "ed7b8d9db1eb97a67933d0cf4b7a8bc5a1923111fa4e417d3c3a6f0dfe9cc516",
+  "text_sha256": "57814a43a251b9aaa903050bfa24a99d6f3db1a9fa1440359f952bf0e6844c4f",
+  "retrieved_at": "2026-10-25T15:47:44.048728+00:00"
+}

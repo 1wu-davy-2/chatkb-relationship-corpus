@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11088127",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Predictors of male loneliness across life stages: an Australian study of longitudinal data.",
+  "authors": "Botha F, Bower M.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s12889-024-18770-w",
+  "pmcid": "PMC11088127",
+  "url": "https://europepmc.org/article/PMC/PMC11088127",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11088127/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gender_roles",
+    "loneliness"
+  ],
+  "abstract": "Background Despite growing recognition of loneliness as a global public health concern, research on its occurrence and precipitants among men across different life stages remains limited and inconclusive. This study aims to address this gap by investigating the prevalence and predictors of loneliness among a large, representative data set of Australian adult men. Methods The study used longitudinal data from waves 2-21 of the Household, Income and Labour Dynamics in Australia (HILDA) Survey, including men aged 15-98. Estimating linear fixed effects regressions that account for unobserved time-invariant individual heterogeneity, a single-item measure of loneliness was regressed on a set of selected explanatory variables over different parts of the life course. Results Increased social isolation, romantic partnership dissolution, having a long-term disability, and stronger beliefs that the man, rather than the woman, should be the breadwinner of the household, are associated with greater loneliness. Frequent social connection, having a romantic partner, and high neighbourhood satisfaction are protective against loneliness. The findings also reveal several differences in the predictors of loneliness over the life course. Job security is especially important for younger men, whereas for older men volunteering and less conservative gender role attitudes are important factors that can decrease loneliness. Conclusions The results emphasise the need to consider age-specific factors and societal expectations in understanding and addressing loneliness amongst men. Additionally, the findings underscore the importance of raising awareness about the impact of societal norms and expectations on men's mental health. The results offer valuable insights for policymakers, healthcare providers, and researchers to develop effective strategies and support systems to combat loneliness and promote well-being among men.",
+  "raw_path": "01_raw/europepmc_xml/PMC11088127.xml",
+  "text_path": "02_text/europepmc/PMC11088127.txt",
+  "raw_bytes": 121359,
+  "text_chars": 41626,
+  "raw_sha256": "91599b2e3834ea47c94f8f25202ef01cfd18dee21beee3457361bcc477a81010",
+  "text_sha256": "1de05d66083111c1959836a8851f0027cf3ee75a76384eedf7687f88579b7940",
+  "retrieved_at": "2026-10-25T13:59:39.549457+00:00"
+}

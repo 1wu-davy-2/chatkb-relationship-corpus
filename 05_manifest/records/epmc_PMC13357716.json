@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13357716",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The mediating role of alexithymia on the relationship between parental attachment style and romantic social interest in young adults.",
+  "authors": "De Silva SD, Chong SL.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1038/s41598-026-51432-y",
+  "pmcid": "PMC13357716",
+  "url": "https://europepmc.org/article/PMC/PMC13357716",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13357716/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Parental attachment plays a crucial role in shaping internal working models that foster a sense of security for navigating romantic relationships in adulthood. Alexithymia is a personality trait characterised by difficulties in identifying, describing, and processing one's emotions, which may hinder an individual's engagement in romantic relationships. The present study investigated whether alexithymia mediates the relationship between parental attachment and romantic social interest, with mother and father attachment examined separately. Using a cross-sectional design, data were collected from 305 young adults in Sri Lanka through self-report questionnaires. Mediation analyses conducted using PROCESS Macro indicated that alexithymia has significant indirect effects on the relationship between both mother and father attachment and romantic social interest. These findings contribute to the understanding of how emotional processing mechanisms link early attachment experiences to prosocial tendencies in romantic contexts, particularly within an Asian cultural setting, which is understudied.",
+  "raw_path": "01_raw/europepmc_xml/PMC13357716.xml",
+  "text_path": "02_text/europepmc/PMC13357716.txt",
+  "raw_bytes": 134353,
+  "text_chars": 45092,
+  "raw_sha256": "b15379aab16ae12f552495c9964025a20cecffc74d9caf0e1dfc8c7e40fc2325",
+  "text_sha256": "738bfe238cb8c851a9e53e9113a85985e4c623e407ed41df15aa39a7e2ab9c93",
+  "retrieved_at": "2026-10-25T13:56:32.225870+00:00"
+}

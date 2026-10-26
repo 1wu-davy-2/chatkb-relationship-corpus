@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10704318",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Integrated Alcohol Use and Sexual Assault Prevention Program for College Men Who Engage in Heavy Drinking: Randomized Pilot Study.",
+  "authors": "Orchowski LM, Merrill JE, Oesterle DW, Barnett NP, Borsari B, Zlotnick C, Haikalis MP, Bekowitz AD.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.2196/47354",
+  "pmcid": "PMC10704318",
+  "url": "https://europepmc.org/article/PMC/PMC10704318",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10704318/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "Background Sexual assault is prevalent on college campuses and most commonly is perpetrated by men. Problematically, there is a dearth of evidence-based prevention programs targeting men as perpetrators of sexual aggression. The Sexual Assault and Alcohol Feedback and Education (SAFE) program is an integrated alcohol and sexual assault prevention intervention for college men who engage in heavy drinking that aims to address sexual aggression proclivity and alcohol use outcomes by incorporating social norms theory, bystander intervention, and motivational interviewing. Objective This study aims to examine the initial feasibility-, acceptability-, and efficacy-related outcomes of a randomized pilot trial of an integrated alcohol and sexual assault prevention program for college men who engage in heavy drinking. Methods This study included 115 college men who engaged in heavy drinking, who were randomly assigned to the SAFE program or a mindfulness-based control condition (MBCC). The feasibility of implementation, adequacy of participant retention, fidelity and competency of program administration, and satisfaction and utility of the intervention were evaluated. The primary outcomes of alcohol use and sexual aggression were evaluated at 2 and 6 months after baseline. The secondary outcomes of perceived peer norms, risks for sexual aggression, and bystander intervention were also assessed. The extent to which the motivational interviewing session with personalized normative feedback facilitated changes in the proximal outcomes of drinking intentions, motivation to change, and self-efficacy was also examined. Results The study procedures resulted in high program completion and retention (>80%), high fidelity to the program manual (>80% of the content included), high competency in program administration, and high ratings of satisfaction and program utility in addressing sexual relationships and alcohol use. Both groups reported declines in the number of drinks per week and number of heavy drinking days. Compared with the MBCC participants, the SAFE participants reported higher motivation to change alcohol use after the program, as well as greater use of alcohol protective behavioral strategies at 6 months. Compared with the MBCC participants, the SAFE participants also reported lower perceived peer engagement in sexual coercion, perceived peer comfort with sexism, and peer drinking norms at 2 and 6 months. However, no group differences were observed in sexual aggression severity, rape myth acceptance, or the labeling of sexual consent. Results regarding bystander intervention intentions were mixed, with the MBCC group showing decreased intentions at 2 months and the SAFE group reporting increased intentions at both 2 and 6 months. Conclusions The findings provide promising evidence for the feasibility, acceptability, utility, and preliminary efficacy of the SAFE program in reducing alcohol use and positively influencing perceived peer norms and intentions for bystander intervention among college men who drink. Trial registration ClinicalTrials.gov NCT05773027; https://clinicaltrials.gov/study/NCT05773027.",
+  "raw_path": "01_raw/europepmc_xml/PMC10704318.xml",
+  "text_path": "02_text/europepmc/PMC10704318.txt",
+  "raw_bytes": 244073,
+  "text_chars": 65944,
+  "raw_sha256": "43fb98e7d0a93e8eeb3020d7115124c756641aa3759ca87527a6dce47fa054af",
+  "text_sha256": "f0049623a0e17a9fb45f978d8b8393b22f1347d58240ede08a02975b13131df5",
+  "retrieved_at": "2026-10-26T13:14:30.627128+00:00"
+}

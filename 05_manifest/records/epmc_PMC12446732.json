@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12446732",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationships on a Pedestal: The Associations Between Relationship Pedestal Beliefs, Fear of Being Single, and Life Satisfaction in Single and Coupled Individuals.",
+  "authors": "Dennett BE, Girme YU.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/01461672241239122",
+  "pmcid": "PMC12446732",
+  "url": "https://europepmc.org/article/PMC/PMC12446732",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12446732/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "The fear of being single can put people at risk for worse personal and relational well-being. The current research moves beyond individual-deficit models by exploring whether endorsement of relationship pedestal beliefs-the belief that people need to be in a relationship to be truly happy-is associated with greater fear of being single. Across four studies ( N = 641 single individuals and 256 coupled individuals), single individuals' endorsement of relationship pedestal beliefs was associated with greater fear of being single, and greater fear of being single was associated with lower daily life satisfaction (Studies 1-4). Coupled individuals' endorsement of relationship pedestal beliefs was also associated with greater fear of being single, and greater fear of being single was associated with lower daily life and relationship satisfaction (Study 4). These findings highlight how people's endorsement of societal beliefs that place relationships on a pedestal may contribute to fears about singlehood.",
+  "raw_path": "01_raw/europepmc_xml/PMC12446732.xml",
+  "text_path": "02_text/europepmc/PMC12446732.txt",
+  "raw_bytes": 181701,
+  "text_chars": 62372,
+  "raw_sha256": "eae87b20673983ae8203a0f6366147b9b0b5ac87314bed671317f661376ee88b",
+  "text_sha256": "20832e688581b9257fe0b0ed58dae23bf2ce82154faf8d0e8438dd29f270d6fe",
+  "retrieved_at": "2026-10-25T14:00:49.260675+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_shyness",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "羞怯",
+  "requested_title": "害羞",
+  "url": "https://zh.wikipedia.org/wiki/%E7%BE%9E%E6%80%AF",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "personality",
+    "social_anxiety"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/shyness.json",
+  "text_path": "02_text/zh_wikipedia/shyness.txt",
+  "raw_bytes": 2096,
+  "text_chars": 1207,
+  "text_sha256": "b35245ac3d000536ba6d7f64ef9481ecf9543c8b4777791cde5ab9ea0692ab4d",
+  "retrieved_at": "2026-10-25T15:32:11.342381+00:00"
+}

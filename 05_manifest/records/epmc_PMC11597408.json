@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11597408",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Day-to-day associations between testosterone, sexual desire and courtship efforts in young men.",
+  "authors": "Catena T, Crewther BT, Eisenbruch AB, Grillot RL, Maestripieri D, Roney JR.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1098/rspb.2024.1508",
+  "pmcid": "PMC11597408",
+  "url": "https://europepmc.org/article/PMC/PMC11597408",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11597408/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting",
+    "sexual_satisfaction"
+  ],
+  "abstract": "Testosterone plays important roles in reproductive behaviour in many species. Despite a common belief that testosterone regulates fluctuations in human sexual desire, there is little direct evidence that relates within-person changes in natural testosterone production to within-person changes in sexual desire. Here, we measured daily salivary testosterone concentrations from 41 adult men for one month, along with daily self-reports of sexual desire ( n = 759 observations for the main analyses). We analysed concurrent relationships between within-person changes in testosterone and desire, and also lagged relationships that were analysed using a continuous-time modelling framework. We found no evidence for significant, positive relationships between testosterone and desire, which argues against the notion that day-to-day changes in eugonadal men's baseline testosterone regulates changes in their sexual desire. However, additional analyses provided preliminary evidence for a positive relationship between testosterone and self-reported courtship effort, particularly on days when single participants interacted with potential romantic partners. Our findings add original evidence regarding day-to-day associations between testosterone and desire, and suggest that testosterone above minimum threshold concentrations does not increase sexual desire. We propose that the evolved functions of testosterone in human males are more closely associated with courtship efforts than with sexual desire.",
+  "raw_path": "01_raw/europepmc_xml/PMC11597408.xml",
+  "text_path": "02_text/europepmc/PMC11597408.txt",
+  "raw_bytes": 133851,
+  "text_chars": 48743,
+  "raw_sha256": "051ff25ffa8e25a44b665f5e8050763c16675aef137a82ea6493fab3e320efdb",
+  "text_sha256": "b8bbd88f6bb7a963a7fe5c06d09609f2ab25b1567e6f452202308b7b888981e8",
+  "retrieved_at": "2026-10-25T13:53:15.313227+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13236238",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship between alexithymia and quality of life in intensive care worker: a correlational study.",
+  "authors": "Anam A, Yahya M, Ahmad BB, Aqeel B, Khan I, Shafee WF, Fatima S, Khalid M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1097/ms9.0000000000005024",
+  "pmcid": "PMC13236238",
+  "url": "https://europepmc.org/article/PMC/PMC13236238",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13236238/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "alexithymia"
+  ],
+  "abstract": "Objectives The purpose of this study is to establish the prevalence of alexithymia among intensive care unit doctors and nurses, as well as to investigate the relationship between alexithymia and quality of life. It also looks at how demographic variables, including age, gender, occupation, career, health difficulties, marital status, and quality of life, affect the occurrence of alexithymia. Methods The study used a cross-sectional, multicenter design with intensive care unit (ICU) healthcare workers from multiple centers. To determine the existence of alexithymia, participants completed the 20-item Toronto Alexithymia Scale (TAS-20) questionnaire. To assess quality of life, the World Health Organization's abbreviated version questionnaire, which contains 26 items, was used. The full questionnaire's 100 items were not used in this study. Two of the 26 elements of the abbreviated version were generic in character, while the other 24 things were divided into four domains. Results According to the study, physicians exhibited a higher prevalence of alexithymia compared to nurses; 22% of the physicians were diagnosed with alexithymia, while it was 0% in nurses. No significant associations were found between alexithymia and gender ( P = 0.198), age ( P = 0.347), or marital status ( P = 0.103). Although Alexithymia showed statistically significant associations with certain reported health issues (seasonal illness, GIT disorders, stress, anxiety, headache, and psychological issues), it was overall more frequent in individuals who perceived themselves as generally healthy (18%) than in those who reported being ill (2%). Alexithymia showed significantly negative correlation with all the four subscales of quality of life (i.e., physical health, psychological health, social relations, and environmental quality). However, no significant association was observed with single item overall quality-of-life measure. Furthermore, there was no significant correlation between quality of life and the three subscales of alexithymia (i.e., identifying feelings, describing feelings, and externally oriented thinking). Conclusion The results of this study demonstrate a notable prevalence of alexithymia among ICU healthcare workers, with a higher frequency among physicians compared to nurses. Alexithymia was not significantly associated with marital status. More individuals with alexithymia reported being generally healthy, suggesting that the absence of physical illness does not rule out emotional processing difficulties. Although alexithymia was not significantly correlated with overall quality of life, it showed significant negative associations with four domain-specific aspects. These findings suggest that emotional processing difficulties may be associated with specific dimensions of well-being among ICU healthcare workers, highlighting the need for further research on emotional awareness, quality of life, psychological well-being, and occupational stress in healthcare settings.",
+  "raw_path": "01_raw/europepmc_xml/PMC13236238.xml",
+  "text_path": "02_text/europepmc/PMC13236238.txt",
+  "raw_bytes": 89510,
+  "text_chars": 24487,
+  "raw_sha256": "4ae7d7c94d1d238c1490077d5136c52185145b8ed8c91bb0c4123837a7f3252a",
+  "text_sha256": "46dcdc4a24ed96232183e146e2c11b733d924a58989aea6ca0263d72a2925c59",
+  "retrieved_at": "2026-10-25T15:26:50.987644+00:00"
+}

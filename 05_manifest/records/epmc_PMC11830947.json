@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11830947",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Alcohol Misuse, Marital Functioning and Marital Instability: An Evidence-Based Review on Intimate Partner Violence, Marital Satisfaction and Divorce.",
+  "authors": "Kulak JA, Heavey SC, Marsack LF, Leonard KE.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.2147/sar.s462382",
+  "pmcid": "PMC11830947",
+  "url": "https://europepmc.org/article/PMC/PMC11830947",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11830947/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Alcohol use is a primarily social behavior, and marriage is an important aspect of social relationships. This article reviews alcohol use and its impact on several facets of the marital relationship, including the impact of alcohol use on intimate partner violence (IPV), marital satisfaction, marital functioning, and divorce. There is considerable evidence of the role alcohol plays in IPV and recent research identifies moderators of the alcohol-IPV relationship. These include personality constructs, social pressure, marital satisfaction, and traits, such as hostility and impulsivity. Marital satisfaction and alcohol use demonstrate bidirectional causality, whereas marital satisfaction predicts alcohol use behaviors, and alcohol use also predicts marital satisfaction. Longitudinal studies provide evidence that divorce is temporally associated with alcohol use, including Alcohol Use Disorder. Finally, there are a number of causative factors that interplay in the dissolution of marriage; alcohol use is one of these factors. Excessive alcohol consumption is a common reason for divorce among many couples. Across all associations between alcohol use and IPV, marital satisfaction, marital functioning, and divorce, sex and gender consistently appear as a moderator in these relationships. Another consistent finding is in respect to concordant drinking, such that marital partners who have similar patterns of alcohol consumption fare better than those with discrepant patterns of consumption. Future research should focus on greater inclusion of same-sex, LGBTQQ+, and socio-culturally diverse couples. Additionally, future studies should use Actor-Partner Interdependence Modeling (APIM) to effectively examine non-independent partner data.",
+  "raw_path": "01_raw/europepmc_xml/PMC11830947.xml",
+  "text_path": "02_text/europepmc/PMC11830947.txt",
+  "raw_bytes": 171292,
+  "text_chars": 52684,
+  "raw_sha256": "4eaabbe6928e448cf410f47438fbdb8ea3957e2e182d2ad3a0c63c4c9a3c59b2",
+  "text_sha256": "efcd69d0019f25c843f9a201e07a112c914bcc399caac78617e21724e02f4602",
+  "retrieved_at": "2026-10-25T15:35:04.147420+00:00"
+}

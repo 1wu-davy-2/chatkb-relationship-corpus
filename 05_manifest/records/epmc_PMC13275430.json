@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13275430",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Approaches to ketamine-assisted couple therapy.",
+  "authors": "Avruch DO.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1843151",
+  "pmcid": "PMC13275430",
+  "url": "https://europepmc.org/article/PMC/PMC13275430",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13275430/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "Ketamine-assisted psychotherapy (KAP) is moving from the periphery toward the mainstream of mental healthcare. Research on the use of KAP in the context of couple therapy, however, remains limited. This phenomenological analysis sought data from psychotherapists ( n = 9), representing four different modalities of couple therapy, who are incorporating ketamine into their work with dyads. Qualitative interviews revealed substantial diversity with respect to how and why respondents are using ketamine to facilitate attachment processes. Study respondents described ketamine's ability to help couples reduce fearfulness, deepen emotional expression, communicate frankly, enhance trust, gain perspective on relational dysfunction, and address issues related to trauma. Strategies around preparation, dosing, and integration were explored. Data also revealed how different modalities of couple therapy conceptualize the use of ketamine in unique ways. This study, though limited due to its small sample size, contributes to the development of the nascent, emergent subfield of psychedelic-assisted couple therapy.",
+  "raw_path": "01_raw/europepmc_xml/PMC13275430.xml",
+  "text_path": "02_text/europepmc/PMC13275430.txt",
+  "raw_bytes": 136192,
+  "text_chars": 66000,
+  "raw_sha256": "0d6a4ace9a3e5dedab028c1c667e8b35c54722aa172130031585eb1ba7ca198a",
+  "text_sha256": "e0ffcab9ecb077f7141ad3272cb86fe1b3dc1c4df76cf9738ca4a6a12bb1c7e6",
+  "retrieved_at": "2026-10-25T15:28:59.774693+00:00"
+}

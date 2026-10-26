@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13272133",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Predictors of romantic relationship addiction: attachment styles, mindfulness, and separation anxiety.",
+  "authors": "Incekara HI, Ulaş E.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1778771",
+  "pmcid": "PMC13272133",
+  "url": "https://europepmc.org/article/PMC/PMC13272133",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13272133/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Romantic relationship addiction is often conceptualized as maladaptive relational dependence with addiction-like characteristics. This study tested an integrated model that focused on attachment styles, mindfulness in romantic relationships, and adult separation anxiety. The sample included 420 emerging adults (18-30) who were currently in a romantic relationship. Participants completed measures of maladaptive relational dependence (operationalized via the Spann-Fischer Codependency Scale), anxious and avoidant attachment, mindfulness in romantic relationships, and adult separation anxiety. We analyzed the data using correlations, multiple regression, and structural equation modeling (SEM). Anxious and avoidant attachment showed positive links with relationship addiction. Mindfulness showed a negative link. Separation anxiety also showed a negative link. In the SEM, mindfulness predicted lower anxious and avoidant attachment. It also predicted higher separation anxiety. In turn, anxious and avoidant attachment predicted higher relationship addiction, whereas separation anxiety predicted lower relationship addiction. The overall model showed good fit. These results point to the combined role of attachment-related vulnerability and mindfulness in romantic relationship addiction during emerging adulthood. They also support the use of attachment-informed and mindfulness-based approaches when working with maladaptive dependency in romantic relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC13272133.xml",
+  "text_path": "02_text/europepmc/PMC13272133.txt",
+  "raw_bytes": 124305,
+  "text_chars": 44797,
+  "raw_sha256": "7a5e9831a127a5ee0de6bf5f4a997becb63f4f4777bb95b8528c170593594606",
+  "text_sha256": "3b795f0aad7cb236f97361f0e5ad590ab88bc2ccc997c738ccdcc486146846f6",
+  "retrieved_at": "2026-10-25T13:46:08.973340+00:00"
+}

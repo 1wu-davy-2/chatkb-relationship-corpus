@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC9780135",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Involuntary Celibacy: A Review of Incel Ideology and Experiences with Dating, Rejection, and Associated Mental Health and Emotional Sequelae.",
+  "authors": "Sparks B, Zidenberg AM, Olver ME.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1007/s11920-022-01382-9",
+  "pmcid": "PMC9780135",
+  "url": "https://europepmc.org/article/PMC/PMC9780135",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9780135/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "asexuality_celibacy",
+    "rejection"
+  ],
+  "abstract": "Purpose of review Incels (involuntary celibates) have recently garnered media attention for seemingly random attacks of violence. Much attention has centered around the misogynistic and violent discourse that has taken place in online incel forums as well as manifestos written by incels who have perpetrated deadly attacks. Such work overlooks the experiences and issues faced by incels themselves, the majority of which have not engaged in any violent behavior. Recent findings A small number of studies have recruited incels. Results from these studies highlight the nuanced nature of the incel identity. It is also apparent that incels suffer from high levels of romantic rejection and a greater degree of depressive and anxious symptoms, insecure attachment, fear of being single, and loneliness. Incels report significant issues pertaining to their mental, social, and relational well-being and may seek support from forums that often feature misogynistic and violent content.",
+  "raw_path": "01_raw/europepmc_xml/PMC9780135.xml",
+  "text_path": "02_text/europepmc/PMC9780135.txt",
+  "raw_bytes": 91944,
+  "text_chars": 38351,
+  "raw_sha256": "d7f06e80221a690aec9614dfe7599f91c58869a7662cb5fcdc891aee1be5cadf",
+  "text_sha256": "fbe7eb1303a60d21bfb5e0c2d138ff822c55c7fa482dfb662bcc28653c2835aa",
+  "retrieved_at": "2026-10-25T15:35:38.914486+00:00"
+}

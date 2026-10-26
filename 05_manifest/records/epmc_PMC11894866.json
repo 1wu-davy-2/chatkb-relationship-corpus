@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11894866",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Comparing Foodie Calls in Poland, the United Kingdom, and the United States: A Registered Replication Report.",
+  "authors": "Orhan MA, Collisson B, Howell JL, Kowal M, Pollet TV.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/00332941231164079",
+  "pmcid": "PMC11894866",
+  "url": "https://europepmc.org/article/PMC/PMC11894866",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11894866/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gender_roles"
+  ],
+  "abstract": "Collisson et al. (2020) found Dark Triad traits and gender role beliefs predicted \"foodie calls,\" a phenomenon where people go on a date with others, to whom they are not attracted, for a free meal. Because gender roles and dating norms differ across cultures, we conducted a registered replication across different cultures by surveying 1838 heterosexual women from Poland, the United Kingdom (UK), and the United States (US). Relying on the structural equation modeling, as conducted in the original study, our findings revealed gender role beliefs best predicted foodie calls and their perceived acceptability, whereas the Dark Triad's general factor was nonsignificant. Analyses at the country level yielded mixed results. The original findings were replicated in the UK and Poland, but not in the US, where only narcissism predicted foodie calls. In the US, gender role beliefs predicted foodie call acceptability, but the Dark Triad general factor did not. Potential reasons for why traditional gender roles, but not the Dark Triad, predicted foodie calls in the US are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC11894866.xml",
+  "text_path": "02_text/europepmc/PMC11894866.txt",
+  "raw_bytes": 139415,
+  "text_chars": 39802,
+  "raw_sha256": "346b9e8490f8c5d693587d4832aed2a0b5a4d98a48130fdf02ca32f890bac1f4",
+  "text_sha256": "99c6d5f228b33154ef16b2f986921858b67422f0f1b1537b3c220036a2682bac",
+  "retrieved_at": "2026-10-25T14:00:43.095303+00:00"
+}

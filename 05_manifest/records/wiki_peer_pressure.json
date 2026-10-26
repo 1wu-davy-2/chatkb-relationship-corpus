@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_peer_pressure",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "同儕壓力",
+  "requested_title": "同侪压力",
+  "url": "https://zh.wikipedia.org/wiki/%E5%90%8C%E5%84%95%E5%A3%93%E5%8A%9B",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 同儕壓力",
+  "topics": [
+    "psychology",
+    "social"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/peer_pressure.json",
+  "text_path": "02_text/zh_wikipedia/peer_pressure.txt",
+  "raw_bytes": 6001,
+  "text_chars": 2272,
+  "text_sha256": "0e952b51aaf75bbfb3fbfd7736266b5cb3cd291212c498c9e0621185dce1b675",
+  "retrieved_at": "2026-10-25T16:09:05.317389+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13139689",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Characteristics and Consequences of Intimate and Non-Intimate Partner Stalking in Lithuania.",
+  "authors": "Jarutienė L, Laurinaitytė I, Michailovič I, Burk WJ.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/08862605251336364",
+  "pmcid": "PMC13139689",
+  "url": "https://europepmc.org/article/PMC/PMC13139689",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13139689/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "It is widely acknowledged that intimate partner violence can occur in various disturbing forms, including stalking behaviors. However, until recently, intimate partner stalking remained an understudied phenomenon in Lithuania. This study investigated the characteristics of intimate partner (IP) stalking, victims' emotional reactions, and their coping strategies in a Lithuanian sample. A representative sample of 1,517 Lithuanian adults ( M age = 47.59 years, SD = 16.42) responded to an online survey. Of these, a total of 265 (18%) reported being stalked at least once during their lifetime, of which 102 reported being stalked by their current or former IP, of which 21 reported the IP stalking included physical violence. In contrast to victims of non-IP stalkers, victims of IP stalkers indicated that the perpetrators were more likely to make suicide threats, check the victim's text messages via electronic devices, act aggressively upon seeing the victim out with others, and engage in both physical and sexual violence. Compared to victims of non-IP and nonviolent IP stalkers, victims of violent IP stalkers reported higher levels of anxiety, depression, fear, and helplessness. However, there were no significant differences between the victims of violent IP stalking, nonviolent IP stalking, and non-IP stalking in their coping strategies; moving away from the stalker was reported to be the most common coping strategy regardless of the victim type. The results of this study provide valuable insights about the characteristics of IP and non-IP stalking in Lithuania and reveal the consequences the stalking phenomenon might have on the victims' physical and mental health.",
+  "raw_path": "01_raw/europepmc_xml/PMC13139689.xml",
+  "text_path": "02_text/europepmc/PMC13139689.txt",
+  "raw_bytes": 136747,
+  "text_chars": 43211,
+  "raw_sha256": "45682614c3039e843b244734a39c558e9a1a8e02b9f4543aa0d72e513e5ac35f",
+  "text_sha256": "19c6f7658b75218de1c8630edd48cc22cd75e2c567d120fa576675f2b76e913a",
+  "retrieved_at": "2026-10-25T15:27:20.652749+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13373271",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Intimate partner violence and the dual burden of anxiety and depression among women in Zambia: Spatial inequalities and implications for the sustainable development goals.",
+  "authors": "Miah MS, Uddin MS.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1017/gmh.2026.10261",
+  "pmcid": "PMC13373271",
+  "url": "https://europepmc.org/article/PMC/PMC13373271",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13373271/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "This study evaluated the association between Intimate Partner Violence (IPV) and mental health indicators, providing evidence to inform maternal health policy. This study used the first nationally representative cross-sectional data on mental health symptoms from the 2024 Zambia Demographic and Health Survey (ZDHS), including 13,951 women aged 15-49 years. Anxiety and depression were assessed using the GAD-7 and PHQ-9 scales, with a score of ≥10 indicating the presence of symptoms. Stepwise, survey-weighted multivariable logistic regression was employed to examine the associations of mental health indicators and various dimensions of IPV, reporting adjusted odds ratios (aORs) and 95% confidence intervals (CIs). Physical IPV was significantly associated with higher odds of Depression aOR= 3.89; 95% CI: 2.16-6.95; p < 0.001), while Emotional IPV was also associated with higher odds of Depression aOR = 3.50; 95% CI: 2.09-5.86; p < 0.001). Similarly, Any IPV was associated with substantial higher odds with Depression aOR = 2.90; 95% CI: 1.80-4.67, p < 0.001) and Anxiety aOR = 2.05; 95% CI: 1.20-3.50, p = 0.008). These findings provide evidence-based, actionable insights for policymakers to integrate mental health and IPV prevention in high-burden provinces to meet the targets of SDG 3 and SDG 5.",
+  "raw_path": "01_raw/europepmc_xml/PMC13373271.xml",
+  "text_path": "02_text/europepmc/PMC13373271.txt",
+  "raw_bytes": 326617,
+  "text_chars": 50619,
+  "raw_sha256": "175b9c302e6d047a1d6e5290be825ae89fbc7a56046b08f6e09105fbed516f39",
+  "text_sha256": "e1de36c7752a3e1c2fe06e94e3f9e7966eba7b0a36cd82c394d0e4ac3f2d0e7c",
+  "retrieved_at": "2026-10-25T15:47:41.025691+00:00"
+}

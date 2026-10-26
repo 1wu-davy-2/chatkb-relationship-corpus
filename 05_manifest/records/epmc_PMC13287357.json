@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13287357",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Perceived Emotional Invalidation, Psychological Distress and Relationship Satisfaction in Couples: An Actor-Partner Interdependence Mediation Analysis.",
+  "authors": "Brandão T.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/00332941241279372",
+  "pmcid": "PMC13287357",
+  "url": "https://europepmc.org/article/PMC/PMC13287357",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13287357/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "validation"
+  ],
+  "abstract": "Research has demonstrated a clear link between perceived emotional invalidation and increased psychological distress. However, available studies have predominantly focused on individual data, and leave the impact on relationship satisfaction largely unexplored. Considering the systemic-transactional model, our study aimed to examine the association between perceived emotional invalidation, psychological distress, and couple relationship satisfaction from a dyadic perspective. We conducted a cross-sectional study involving 240 mixed-gender couples from Portugal employing the Actor-Partner Interdependence Mediational Model to analyse the data to examine actor and partner direct and indirect effects. Results showed that, for both women and men, own perceived emotional invalidation was associated with own psychological distress but not with own relationship satisfaction. Also, own psychological distress was associated with own relationship satisfaction but only for women. Finally, one actor and one partner indirect effects were found. Women perceived emotional invalidation was associated with their own psychological distress which in turn contributed to lower levels of relationship satisfaction for both them and their partners. This study contributes to a deeper understanding of the dyadic effects of perceived emotional invalidation on psychological distress and relationship satisfaction within romantic relationships identifying interpersonal emotional dynamics as an important target of interventions.",
+  "raw_path": "01_raw/europepmc_xml/PMC13287357.xml",
+  "text_path": "02_text/europepmc/PMC13287357.txt",
+  "raw_bytes": 123385,
+  "text_chars": 46355,
+  "raw_sha256": "791c161785b643c9bf46bf77b866e82280ed54b158e3d49407c8ba6385d98bf7",
+  "text_sha256": "4d4e09f7e135946546b8f8c8fb286d8b9bfde70d75abcff73a539eeae8d5b67d",
+  "retrieved_at": "2026-10-25T13:46:03.445497+00:00"
+}

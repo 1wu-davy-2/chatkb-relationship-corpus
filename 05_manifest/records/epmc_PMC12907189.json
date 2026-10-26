@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12907189",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Moving beyond attraction, compassion, and competence: evidence for compatibility as a distinct component of mate preferences.",
+  "authors": "Jonason PK, March E.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1725609",
+  "pmcid": "PMC12907189",
+  "url": "https://europepmc.org/article/PMC/PMC12907189",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12907189/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Introduction Considerable research suggests there may be three primary qualities desired in romantic/sexual partners: physical attractiveness, interpersonal warmth, and social status. However, they might not capture the full range of needs served by what people seek in their partners; one omission may be compatibility. Methods In one volunteer ( N = 339, 26% male, Aged = 18-70 years, M = 30.36 years) and one Prolific ( N = 309, 51% male, Aged = 18-79 years, M = 26.74 years) dataset, we assessed the relative importance of physicality (e.g., height, attractiveness), compassion (e.g., kindness, generosity), competence (e.g., social status, intelligence), and compatibility (e.g., interpersonal coordination) in mate preferences as a function of sex differences, context effects, and people's pace of life, mating strategies, and social strategies. Results We replicated several established effects like physicality was valued in men strongly in the short-term context, and that more psychopathic and narcissistic people chose physicality more often in their long-term mates. Uniquely here, compatibility was more valued in the long-term context especially for women extending more parenting effort when considering short-term relationships and men who were less psychopathic when considering short-term relationships. Discussion Importantly, our research begins to carve out a unique space for considering compatibility as a further higher-order trait worthy of consideration in mating research.",
+  "raw_path": "01_raw/europepmc_xml/PMC12907189.xml",
+  "text_path": "02_text/europepmc/PMC12907189.txt",
+  "raw_bytes": 136131,
+  "text_chars": 43757,
+  "raw_sha256": "d4e189b83bbd7c5a952ef4dbbc73767bf90b32fb9393f2649118bc46f8b062af",
+  "text_sha256": "bb1e9c06b71deb953ea26d8869a91b59785bae397dd51869b1d34c3b860875c9",
+  "retrieved_at": "2026-10-25T13:55:11.207976+00:00"
+}

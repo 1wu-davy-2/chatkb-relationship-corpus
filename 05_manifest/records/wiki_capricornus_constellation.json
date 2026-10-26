@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_capricornus_constellation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "摩羯座",
+  "requested_title": "摩羯座",
+  "url": "https://zh.wikipedia.org/wiki/%E6%91%A9%E7%BE%AF%E5%BA%A7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 摩羯座",
+  "topics": [
+    "zodiac",
+    "astronomy"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/capricornus_constellation.json",
+  "text_path": "02_text/zh_wikipedia/capricornus_constellation.txt",
+  "raw_bytes": 4062,
+  "text_chars": 1743,
+  "text_sha256": "c665731b29764e532a2e6a59406f543bcdb8fd91a4df1d26e5f297335bd5287c",
+  "retrieved_at": "2026-10-26T13:05:21.941518+00:00"
+}

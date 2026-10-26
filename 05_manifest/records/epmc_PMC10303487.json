@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10303487",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Examining the Sexual Double Standards and Hypocrisy in Partner Suitability Appraisals Within a Norwegian Sample.",
+  "authors": "Kennair LEO, Thomas AG, Buss DM, Bendixen M.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/14747049231165687",
+  "pmcid": "PMC10303487",
+  "url": "https://europepmc.org/article/PMC/PMC10303487",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10303487/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "Sexual double standards are social norms that impose greater social opprobrium on women versus men or that permit one sex greater sexual freedom than the other. This study examined sexual double standards when choosing a mate based on their sexual history. Using a novel approach, participants (N = 923, 64% women) were randomly assigned to make evaluations in long-term or short-term mating contexts and asked how a prospective partner's sexual history would influence their own likelihood of having sex (short-term) or entering a relationship (long-term) with them. They were then asked how the same factors would influence the appraisal they would make of male and female friends in a similar position. We found no evidence of traditional sexual double standards for promiscuous or sexually undesirable behavior. There was some evidence for small sexual double standard for self-stimulation, but this was in the opposite direction to that predicted. There was greater evidence for sexual hypocrisy as sexual history tended to have a greater negative impact on suitor assessments for the self rather than for same-sex friends. Sexual hypocrisy effects were more prominent in women, though the direction of the effects was the same for both sexes. Overall, men were more positive about women's self-stimulation than women wee, particularly in short-term contexts. Socially undesirable sexual behavior (unfaithfulness, mate poaching, and jealous/controlling) had a large negative impact on appraisals of a potential suitor across all contexts and for both sexes. Effects of religiosity, disgust, sociosexuality, and question order effects are considered.",
+  "raw_path": "01_raw/europepmc_xml/PMC10303487.xml",
+  "text_path": "02_text/europepmc/PMC10303487.txt",
+  "raw_bytes": 136545,
+  "text_chars": 48577,
+  "raw_sha256": "f9b1e3653ebad477b13283dda82db03cb56f67b0c3eb32c064d7a1d424e5f45b",
+  "text_sha256": "b7534cdd4c45eca01deeda4cc0e2718fa8bff465cdbc41c0ada8aa85a273e2cb",
+  "retrieved_at": "2026-10-26T13:14:20.653431+00:00"
+}

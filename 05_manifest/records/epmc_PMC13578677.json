@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13578677",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Defining Gaslighting in Gender-Based Violence: A Mixed-Methods Systematic Review.",
+  "authors": "Adair J.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/15248380251344316",
+  "pmcid": "PMC13578677",
+  "url": "https://europepmc.org/article/PMC/PMC13578677",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13578677/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "In both public and academic discourse, gaslighting has gained increased attention, especially regarding psychological abuse, power imbalance, and gender-based violence (GBV). However, the term gaslighting is often inconsistently defined and conflated with broader forms of manipulation. It is also largely examined in the context of intimate partner violence (IPV), which ignores its occurrence in other forms of GBV. The present study presents a systematic review that synthesizes interdisciplinary academic literature to create a comprehensive framework of gaslighting. This framework includes the specific tactics that are used by perpetrators of gaslighting, the social-psychological outcomes experienced by survivors, and the role of systemic inequalities and social power dynamics. A search across multiple databases identified 96 records that discussed gaslighting in relation to GBV. Thematic analysis revealed a two-part framework for understanding gaslighting: (a) gaslighting tactics, which were categorized into cognitive and perceptual manipulation, emotional and psychological abuse, power dynamics and control, and additional forms of manipulation and (b) survivor outcomes, including disruptions to perception and memory, emotional distress, social isolation, and resistance strategies. The findings show that gaslighting is more than just an interpersonal act; it is sustained within social structures, where perpetrators use identity factors and forms of marginalization to exploit survivors. Overall, this review presents a comprehensive definition of gaslighting that illustrates its epistemic nature and its intersection with systemic oppression. It is suggested that future research studies gaslighting in GBV contexts beyond IPV, while practice and policy efforts should seek to enhance recognition and support for survivors.",
+  "raw_path": "01_raw/europepmc_xml/PMC13578677.xml",
+  "text_path": "02_text/europepmc/PMC13578677.txt",
+  "raw_bytes": 174720,
+  "text_chars": 49164,
+  "raw_sha256": "145d045c3f648f2e58cf5bfd792abd8c84a6e47cc91c5090afc7b686125fbbd6",
+  "text_sha256": "7d5d3c60b9908404b32f9d301c197bfc1190d88e2b11b9723de5013962f2e13a",
+  "retrieved_at": "2026-10-25T14:01:14.871347+00:00"
+}

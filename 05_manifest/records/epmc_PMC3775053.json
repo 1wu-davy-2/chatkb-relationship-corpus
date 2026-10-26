@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC3775053",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship of personality dimensions and aggression in romantic relationship among youth.",
+  "authors": "Sharma MK, Raju M.",
+  "year": "2013",
+  "journal": "",
+  "doi": "10.4103/0253-7176.116255",
+  "pmcid": "PMC3775053",
+  "url": "https://europepmc.org/article/PMC/PMC3775053",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3775053/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Background Aggression in romantic relationships is a continuing factor for breakups, physical assault, kidnapping, rape and even murder. It is also associated with adjustment difficulties including peer rejection, depression and maladaptive personality features. The present study aims to explore the personality correlates of aggression in romantic relationship. Materials and methods The sample consisted of 110 male and female participants in the age range of 18-32 years. The Socio-demographic schedule, General Health Questionnaire Relationship Satisfaction Scale NEO Five Factor Inventory, The Revised Conflict Tactics Scale and Checklist for Psychological Aggression were administered. Results Personality characteristics like openness, agreeableness and conscientiousness were negatively correlated with all forms of aggression. Men and women had significant differences with respect to aggression in romantic relationships. The relationship satisfaction has negative association with neuroticism. Conclusions It has implications in understanding pattern of aggression in romantic relationships and thus may help in developing intervention programs for the same.",
+  "raw_path": "01_raw/europepmc_xml/PMC3775053.xml",
+  "text_path": "02_text/europepmc/PMC3775053.txt",
+  "raw_bytes": 54524,
+  "text_chars": 21177,
+  "raw_sha256": "c1cec33c181a282ce47c4fec53998d4c39dd19f5c8300e8dd21841cc449ebd14",
+  "text_sha256": "f2726f635151f9998ddcb4ea3e07e7cffbf1f7650874d45e824938aa30a7c2aa",
+  "retrieved_at": "2026-10-25T15:42:24.686854+00:00"
+}

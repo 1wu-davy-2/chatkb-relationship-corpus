@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11446673",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Extradyadic stress as a barrier to sexual activity in couples? A dyadic response surface analysis.",
+  "authors": "Landolt SA, Impett EA, Weitkamp K, Roth M, Bernecker K, Bodenmann G.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/02654075241255910",
+  "pmcid": "PMC11446673",
+  "url": "https://europepmc.org/article/PMC/PMC11446673",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11446673/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_frequency"
+  ],
+  "abstract": "Sexuality is integral to most romantic relationships. Through stress spillover, however, factors such as individually experienced stress outside of the relationship (i.e., extradyadic stress) can negatively impact sexuality. In this study, we explored how a possible (mis)matching of both partners' levels of extradyadic stress is related to sexual activity and tested for gender differences. Analyzing 316 mixed-gender couples from Switzerland, we employed Dyadic Response Surface Analysis to assess how extradyadic stress is associated with sexual activity. Our results showed that extradyadic stress was positively linked to sexual activity for women (in general) and men (in the case of matching stress levels). As this result was surprising, we conducted additional exploratory analyses and split the measure of sexual activity into (1) exchange of affection and (2) eroticism (petting, oral sex, and intercourse) and controlled for age. Results from this second set of analyses showed that for women, matching stress levels were associated with higher exchange of affection, whereas men's exchange of affection was higher if men reported higher stress levels than women. Notably, after accounting for age, the link between stress and eroticism dissipated. Our findings suggest that exchange of affection may serve as a coping mechanism for stress, with gender influencing this dynamic. However, future research investigating stress and sexual activity should consider additional factors such as age, relationship satisfaction, stressor type, and stress severity.",
+  "raw_path": "01_raw/europepmc_xml/PMC11446673.xml",
+  "text_path": "02_text/europepmc/PMC11446673.txt",
+  "raw_bytes": 162118,
+  "text_chars": 47394,
+  "raw_sha256": "3f6de0a783c4d58a30624df5bcaddce872cb613237379873c4fe2f5371dc7e59",
+  "text_sha256": "86606cd3fca7a3b4732aeb2985baad2ca4e88ccaaefc25ff2e52fd4d2f4466fa",
+  "retrieved_at": "2026-10-26T13:07:37.944017+00:00"
+}

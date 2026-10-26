@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_gift",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "禮物",
+  "requested_title": "礼物",
+  "url": "https://zh.wikipedia.org/wiki/%E7%A6%AE%E7%89%A9",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "money",
+    "relationship"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/gift.json",
+  "text_path": "02_text/zh_wikipedia/gift.txt",
+  "raw_bytes": 5162,
+  "text_chars": 1860,
+  "text_sha256": "5f4fdf669c15d5ce547ca78e54d2cd0005bed0784029dcfbdb5cf3ce0baaabfe",
+  "retrieved_at": "2026-10-25T15:43:04.868529+00:00"
+}

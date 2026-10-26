@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_ostracism",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "社会排斥",
+  "requested_title": "社会排斥",
+  "url": "https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E6%8E%92%E6%96%A5",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 社会排斥",
+  "topics": [
+    "social",
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/ostracism.json",
+  "text_path": "02_text/zh_wikipedia/ostracism.txt",
+  "raw_bytes": 23874,
+  "text_chars": 8484,
+  "text_sha256": "22ca21f768a5e6cb54a36721ccf25a2110996d4e13640f29834a6fb5c3c62bc1",
+  "retrieved_at": "2026-10-26T14:02:06.416622+00:00"
+}

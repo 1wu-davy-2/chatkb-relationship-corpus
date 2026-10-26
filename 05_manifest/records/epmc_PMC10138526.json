@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10138526",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual Desire and Erotic Fantasies Questionnaire: The Development and Validation of the Erotic Fantasy Use Scale (SDEF2) on Experience, Attitudes, and Sharing Issues.",
+  "authors": "Nimbi FM, Galizia R, Limoncin E, Levy T, Jannini EA, Simonelli C, Tambelli R.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3390/healthcare11081159",
+  "pmcid": "PMC10138526",
+  "url": "https://europepmc.org/article/PMC/PMC10138526",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10138526/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_therapy_interventions"
+  ],
+  "abstract": "Background The investigation of sexual fantasies is a delicate issue within sex research. Most studies have focused on the content of these fantasies, rather than on use, experiences, attitudes, and sharing issues, which are fundamental aspects within sexual therapy. The main aim of the present study was to develop and validate the \"Sexual Desire and Erotic Fantasies questionnaire-Part 2. Use of Erotic Fantasies (SDEF2)\". Methods The SDEF2 was completed by 1773 Italian participants (1105 women, 645 men, and 23 other genders). Results The final 21-item version presented a five-factor structure (fantasies frequency, fantasies normality, fantasies importance, negative emotions, and sharing and experiencing). The SDEF2 showed good psychometric properties, internal reliability, construct, and discriminant validity, appearing to be able to differentiate between sexually clinical and functional women and men (based on the FSFI and IIEF cut-off scores). Conclusions The possibility of assessing fantasies frequency, attitudes, and emotions may be extremely useful both for research and clinical purposes. The current study seems to validate that the SDEF2 is a useful measure of assessing the different aspects related to a fantasizing activity, which was shown to be associated with sexual functioning and satisfaction.",
+  "raw_path": "01_raw/europepmc_xml/PMC10138526.xml",
+  "text_path": "02_text/europepmc/PMC10138526.txt",
+  "raw_bytes": 212640,
+  "text_chars": 42795,
+  "raw_sha256": "ff6db6c39c39cd7d396f6772ce709da82cd987b178d02bcd8673255763f779f4",
+  "text_sha256": "f78e58b0ffba612dbd545cef5bfe5d93e6826af43fbd9ec524896b868400065d",
+  "retrieved_at": "2026-10-26T13:09:55.827067+00:00"
+}

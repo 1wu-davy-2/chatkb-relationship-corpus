@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_25246",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "琵琶記",
+  "gutenberg_id": "25246",
+  "url": "https://www.gutenberg.org/ebooks/25246",
+  "download_url": "https://www.gutenberg.org/cache/epub/25246/pg25246.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/25246.txt",
+  "text_path": "02_text/gutenberg/gut_25246_琵琶記.txt",
+  "raw_bytes": 237557,
+  "text_chars": 71924,
+  "text_sha256": "c642414056f6d66d79db0639e2a5d6228de7ff39dbc759f2b440b6c3fe66629e",
+  "retrieved_at": "2026-10-25T16:04:07.667142+00:00"
+}

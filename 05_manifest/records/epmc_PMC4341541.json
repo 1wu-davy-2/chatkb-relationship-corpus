@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4341541",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Elevated romantic love and jealousy if relationship status is declared on Facebook.",
+  "authors": "Orosz G, Szekeres Á, Kiss ZG, Farkas P, Roland-Lévy C.",
+  "year": "2015",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2015.00214",
+  "pmcid": "PMC4341541",
+  "url": "https://europepmc.org/article/PMC/PMC4341541",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4341541/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Declared relationship status on Facebook can serve as a public commitment and as an extra layer of a couple's security. However, the question arises: do those who report the relationship status feel stronger romantic love and jealousy toward their partners than those who do not share such information publicly? To test this assumption, profile information and questionnaire data of romantic love and jealousy were gathered from 292, 230 females) respondents that were in a relationship. Our results suggest that announcing the relationship status is associated with elevated romantic love and jealousy. Therefore, being \"Facebook official\" can be interpreted as a tie-sign indicating that the couple is \"out of the market,\" and can promote their unity as a \"digital wedding ring.\"",
+  "raw_path": "01_raw/europepmc_xml/PMC4341541.xml",
+  "text_path": "02_text/europepmc/PMC4341541.txt",
+  "raw_bytes": 73667,
+  "text_chars": 30780,
+  "raw_sha256": "4e7d73fd7291ebf511c66ac24eb761ec905fc2cc20207e06ee62bf9ef5914d6a",
+  "text_sha256": "3171aa519337212ce6c7b18da8a8035cd113bf5385ed80be2461f5052d5a8036",
+  "retrieved_at": "2026-10-25T15:47:06.517764+00:00"
+}

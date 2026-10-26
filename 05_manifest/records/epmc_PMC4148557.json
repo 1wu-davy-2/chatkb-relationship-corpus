@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4148557",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Is marital status associated with quality of life?",
+  "authors": "Han KT, Park EC, Kim JH, Kim SJ, Park S.",
+  "year": "2014",
+  "journal": "",
+  "doi": "10.1186/s12955-014-0109-0",
+  "pmcid": "PMC4148557",
+  "url": "https://europepmc.org/article/PMC/PMC4148557",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4148557/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "Background The divorce rate has been increasing rapidly in Korea; the single rate and trends in divorce are also changing rapidly. This study aimed to examine the relationship between marital status and quality of life (QOL) in an attempt to understand these changes. We also investigated the relationship between QOL and marital status by age group. Methods We used data from the Community Health Survey (2008: n = 200,800; 2009: n = 227,700; 2010: n = 229,229) administered by the Korean Centers for Disease Control and Prevention. After excluding 63,527 participants with incomplete information on QOL and/or marital status, the final analysis involved 594,202 participants. The analysis used t-tests and Chi-square tests to compare demographic variables between men and women, and ANOVA to compare QOL scores among comparison groups. We also performed a multilevel analysis on the relationship between QOL and marital status while accounting for the provincial differences. Results The multilevel analysis by marital status showed that single men had significantly worse QOL (both EQ-VAS and EQ-5D) than married men. On the other hand, the QOL measured by EQ-VAS was better in single women than in married, and separated or divorced women. When QOL was assessed using EQ-5D, single and separated or divorced women had worse scores than married women. In the analysis by age group, the QOL of married men under the age of 30 years was lower than that of single men or men with marriage problems as measured by EQ-VAS. However, among 40-69-year-old men, married men had the highest QOL values. Similarly, for women in their 30s, single women had the highest EQ-VAS values, but for 40-69-year-old women, single women had lower EQ-VAS scores than married women. Conclusion There was significant relationship between marital status and QOL, and this relationship appeared to differ by gender and age.",
+  "raw_path": "01_raw/europepmc_xml/PMC4148557.xml",
+  "text_path": "02_text/europepmc/PMC4148557.txt",
+  "raw_bytes": 95922,
+  "text_chars": 25970,
+  "raw_sha256": "a878b6e3243f298b0fd1799e10d52b09b9491646407a7ff0feaaada6d04a5b95",
+  "text_sha256": "3c5da40a065e2a19da29125df2191782b289c1a9340fbe385c778b0f9cb7ca51",
+  "retrieved_at": "2026-10-25T15:47:04.766678+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13012117",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Partner preferences for resources adapt to income and gender economic inequality.",
+  "authors": "Murphy M, Harmon-Jones SK, Harrington AG, Brooks RC, Blake KR.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1073/pnas.2527295123",
+  "pmcid": "PMC13012117",
+  "url": "https://europepmc.org/article/PMC/PMC13012117",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13012117/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction_physical"
+  ],
+  "abstract": "For over three decades, scholars have contested whether sex differences in ideal partner preferences for age, resources, and physical attractiveness result chiefly from evolution or cultural gender inequality. Here, we test a perspective compatible with each of these competing views: partner preferences for resources adapt strategically, such that they become stronger for the sex that is poorer and individuals who are poorer, as such preferences are more useful to these individuals. Our preregistered experiment placed 602 people from five countries in one of 45 virtual ecologies, varying participants' personal income and their local gender economic inequality. Results show that people exhibit stronger ideal partner preferences for resources when they are poorer and when their sex is poorer. This pattern was evident in three different measures of stated partner preferences for resources, namely, ranked preferences and rated preferences for resource-relevant traits (e.g., whether a potential partner has a good job), and importance placed on dating or marrying up, financially. Preferences regarding age gaps were, surprisingly, unaffected, even though older age is associated with access to resources in naturally varying populations. Consistent with our theoretical perspective, which expects ideal partner preferences will adapt primarily to environmental variables that alter the fitness of those preferences, sex differences in stated preferences for physical attractiveness in romantic partners were largely unaffected. These results are discussed in the context of behavioral ecology, which offers a framework to interpret both our results and the mixed findings of past literature.",
+  "raw_path": "01_raw/europepmc_xml/PMC13012117.xml",
+  "text_path": "02_text/europepmc/PMC13012117.txt",
+  "raw_bytes": 131210,
+  "text_chars": 55891,
+  "raw_sha256": "d44ce5bb5dc027c570e6a054faf4c2eaf12581b2e90485b40f78a05c506dd74a",
+  "text_sha256": "ef5da271f9b51c97860bfe62d1c7c28c310037e1cd1941860864600e01c62799",
+  "retrieved_at": "2026-10-25T15:31:50.892988+00:00"
+}

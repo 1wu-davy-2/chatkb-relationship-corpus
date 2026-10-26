@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6406521",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Brief Report of Sexual Violence among Universities with NCAA Division I Athletic Programs.",
+  "authors": "Wiersma-Mosley JD, Jozkowski KN.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.3390/bs9020017",
+  "pmcid": "PMC6406521",
+  "url": "https://europepmc.org/article/PMC/PMC6406521",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6406521/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "Violence against women on college campuses continues to be a pervasive public health problem with approximately one in five women experiencing sexual assault and one in nine women experiencing rape while in college. The current study examined relationship and sexual violence among National Collegiate Athletic Association (NCAA) Division I universities. Based on previous research, Division I universities seem to report higher rates of sexual assault, but within-group differences have yet to be examined. The data include 1422 four-year private and public institutions with at least 1000 students who submitted Clery data (2014) on rape, domestic and dating violence, and stalking. Division I campuses reported significantly higher reports of violence against women compared to Division II, III, and universities with no athletic programs. There were no differences in violence reported across the three subdivisions within Division I, however, certain conferences reported significantly higher relationship and sexual violence within the football bowl and football championship subdivisions. These findings have important implications for targeting higher risk campuses, such as the Big 10, Big 12, Ivy League, Pac-12, and SEC with much needed sexual assault prevention programs.",
+  "raw_path": "01_raw/europepmc_xml/PMC6406521.xml",
+  "text_path": "02_text/europepmc/PMC6406521.txt",
+  "raw_bytes": 76294,
+  "text_chars": 17469,
+  "raw_sha256": "c48d00eec0715944c3a024d817764917e327a57603104125b381aa2b593a800d",
+  "text_sha256": "4fc3ab2d02f816127c9e904681c4ab7a7b12fae54df9e0f9ef47394417017aa0",
+  "retrieved_at": "2026-10-25T15:45:01.958184+00:00"
+}

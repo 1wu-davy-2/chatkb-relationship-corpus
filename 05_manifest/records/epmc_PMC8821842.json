@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8821842",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Love in the Time of Corona: Predicting Willingness to Engage in Sexting During the First COVID-19-Related Lockdown.",
+  "authors": "Thomas MF, Binder A, Matthes J.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1007/s10508-022-02292-w",
+  "pmcid": "PMC8821842",
+  "url": "https://europepmc.org/article/PMC/PMC8821842",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8821842/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "When the COVID-19 pandemic began, in early 2020, lockdowns limited the options for physical intimacy and many resorted to technology-mediated forms of intimacy such as sexting. However, it is unclear what predicted willingness to engage in sexting during the lockdown. The present study filled this gap by investigating COVID-19-related social isolation, privacy concerns, age, and gender as predictors of willingness to engage in sexting. We further examined an interaction of COVID-19-related social isolation and privacy concerns on willingness to engage in sexting. We conducted online surveys with 494 young adults (Study 1) and with a quota-based sample of 437 adults (Study 2) in Austria. In both studies, negative binomial regressions revealed a positive effect of COVID-19-related social isolation on willingness to engage in sexting. Privacy concerns hindered young adults in Study 1 from engaging in sexting but not relatively older adults in Study 2. However, in neither study did privacy concerns moderate the effect of COVID-19-related social isolation on willingness to engage in sexting: Even individuals with high privacy concerns were more willing to sext under conditions of social isolation, suggesting that the need for intimacy outweighed the need for privacy protection. Gender had no effect in either study, indicating that men and women used sexting to cope with the unprecedented COVID-19-related situation.",
+  "raw_path": "01_raw/europepmc_xml/PMC8821842.xml",
+  "text_path": "02_text/europepmc/PMC8821842.txt",
+  "raw_bytes": 152334,
+  "text_chars": 47595,
+  "raw_sha256": "556662b34dc158efa953363ad8778f623f7a3e36f3b520b515883ea7ff6e6655",
+  "text_sha256": "c6b14828a80a7a561e15f06c107801a47377328c7c68f134a2088e5091cc6936",
+  "retrieved_at": "2026-10-26T13:07:11.860946+00:00"
+}

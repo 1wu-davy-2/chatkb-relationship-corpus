@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11830452",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring User Experience and the Therapeutic Relationship of Short-Term Avatar-Based Psychotherapy: Qualitative Pilot Study.",
+  "authors": "Jang B, Yuh C, Lee H, Shin YB, Lee HJ, Kang EK, Heo J, Cho CH.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.2196/66158",
+  "pmcid": "PMC11830452",
+  "url": "https://europepmc.org/article/PMC/PMC11830452",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11830452/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_disclosure"
+  ],
+  "abstract": "Background The rapid advancement of telehealth has led to the emergence of avatar-based psychotherapy (ABP), which combines the benefits of anonymity with nonverbal communication. With the adoption of remote mental health services, understanding the efficacy and user experience of ABP has become increasingly important. Objective This study aimed to explore the user experience and therapeutic relationship formation in short-term ABP environments, focusing on psychological effects, user satisfaction, and critical factors for implementation. Methods This qualitative study involved 18 adult participants (8 women and 10 men). Participants engaged in two short-term ABP sessions (approximately 50 minutes per session) over 2 weeks, using an ABP metaverse system prototype. Semistructured in-depth interviews were conducted with both the participants and therapists before and after the ABP sessions. The interviews were conducted via an online platform, with each interview lasting approximately 30 minutes. The key topics included the sense of intimacy, communication effectiveness of avatar expressions, emotions toward one's avatar, concentration during sessions, and perceived important aspects of the ABP. Data were analyzed using thematic analysis. Results The analysis revealed 3 main themes with 8 subthemes: (1) reduction of psychological barriers through avatar use (subthemes: anonymity, ease of access, self-objectification, and potential for self-disclosure); (2) importance of the avatar-self-connection in therapeutic relationship formation (subthemes: avatar self-relevance and avatar-self-connection fostering intimacy and trust); and (3) importance of nonverbal communication (subthemes: significance of nonverbal expressions and formation of empathy and trust through nonverbal expressions). Participants reported enhanced comfort and self-disclosure owing to the anonymity provided by avatars, while emphasizing the importance of avatar customization and the role of nonverbal cues in facilitating communication and building rapport. Conclusions This pilot study provides valuable insights into the short-term ABP user experience and therapeutic relationship formation. Our findings suggest that ABP has the potential to reduce barriers to therapy through anonymity, ease of access, and potential for self-disclosure, while allowing for meaningful nonverbal communication. The avatar-self-connection emerged as a crucial factor in the effectiveness of ABP, highlighting the importance of avatar customization in enhancing user engagement and therapeutic outcomes. Future research and development in ABP should focus on improving avatar customization options, enhancing the fidelity of nonverbal cues, and investigating the long-term effectiveness of ABP compared with traditional face-to-face therapy.",
+  "raw_path": "01_raw/europepmc_xml/PMC11830452.xml",
+  "text_path": "02_text/europepmc/PMC11830452.txt",
+  "raw_bytes": 51341,
+  "text_chars": 19575,
+  "raw_sha256": "6d234fda2447717b863eff4d62789551a3749fbf3579a929b85733cd227f7f1e",
+  "text_sha256": "ba48110cea10d753e12d74508806940296f9ce633ef3424de6959640b6806958",
+  "retrieved_at": "2026-10-25T13:55:33.149445+00:00"
+}

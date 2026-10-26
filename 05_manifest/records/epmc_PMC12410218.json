@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12410218",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Role of Personality in the Capacity to Love.",
+  "authors": "Fonte C, Pires S, Ferreira MJ.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.21500/20112084.6843",
+  "pmcid": "PMC12410218",
+  "url": "https://europepmc.org/article/PMC/PMC12410218",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12410218/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Introduction The main objective of this study was to analyze the role of the Big Five personality traits (extraversion, agreeableness, conscientiousness, neuroticism, andopenness to experience) in the capacity to love. The capacity to love involves the ability to engage in, invest in, and sustain a committed romantic relationship, arising from complex developmental processes beginning in childhood and evolving throughout life. Although it may appear as a dispositional attribute, limited evidence exists regarding its association with personality traits. Method A total of 839 participants aged 18 to 74 were included. Data were gathered using a Sociodemographic Questionnaire, the Big Five Inventory (BFI), and the Capacity to Love Inventory (CTL-I). These instruments were adapted for digital formats and disseminated online. Results A positive association was found between the personality traits and the CTL dimensions. Four traits -agreeableness, openness to experience, extraversion, and emotional stability- showed a modest contribution to predicting the CTL, with agreeableness emerging as the strongest predictor and most correlated trait. Statistically significant differences also appeared in all the sociodemographic variables examined. Conclusions These findings indicate a relationship between personality and the capacity to love, thereby enhancing our understanding of personal functioning systems and certain individual difficulties. The results underscore practical implications for tailoring personalized interventions in relationship counseling, emotional regulation, and the development of social skills and empathy, ultimately promoting individual mental health and healthier relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC12410218.xml",
+  "text_path": "02_text/europepmc/PMC12410218.txt",
+  "raw_bytes": 145996,
+  "text_chars": 46318,
+  "raw_sha256": "35e04db493085e8f1c95c0ee70c75305c847eee52c41603017c85c8fced509c8",
+  "text_sha256": "bbcc38fcf3eaa71f86c392b20f37abf056e457023e0e23ec870213d9376cf72c",
+  "retrieved_at": "2026-10-25T13:51:05.170891+00:00"
+}

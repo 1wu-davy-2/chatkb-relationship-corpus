@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7908503",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dyadic Invariance of the Positive Sexuality Scale in Chilean Heterosexual Couples.",
+  "authors": "Casu G, Guzmán-González M, Espinoza-Tapia R, Garrido-Rojas L, Barrientos J, Gómez F.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3390/ijerph18031190",
+  "pmcid": "PMC7908503",
+  "url": "https://europepmc.org/article/PMC/PMC7908503",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7908503/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_self_disclosure"
+  ],
+  "abstract": "Gender differences in sexuality-related dimensions have long been investigated in close relationship research. An important assumption when comparing values across gender in dyadic research is that both partners conceptualize the construct under investigation in the same way. Thus, issues of measurement invariance should be considered when working with dyadic data. The aim of the present study was to test the dyadic invariance of the Positive Sexuality Scale (PSS) to assess an individual's sense of happiness and fulfillment with his/her sexual expression. The PSS was completed by 166 Chilean heterosexual couples, and measurement invariance was tested using confirmatory factor analysis within a dyadic framework. Configural, metric, scalar, and partial strict measurement invariance were supported for the PSS original one-factor model. No between-partner difference was found in the PSS latent factor mean. The functioning of the PSS and the meaning attributed to positive sexuality were the same for both partners. Hence, variations in the PSS levels between both partners in heterosexual couples can be interpreted as true mean differences rather than measurement artifacts.",
+  "raw_path": "01_raw/europepmc_xml/PMC7908503.xml",
+  "text_path": "02_text/europepmc/PMC7908503.txt",
+  "raw_bytes": 62870,
+  "text_chars": 19861,
+  "raw_sha256": "302aa6a7b2d30089fd298583a981d931b8cf646ac7aa53db43ccb33ff6cd3d67",
+  "text_sha256": "a224d103efddd16565e78b265e373b555e887d155d8bcd0906133b72eb239a21",
+  "retrieved_at": "2026-10-26T13:09:01.932363+00:00"
+}

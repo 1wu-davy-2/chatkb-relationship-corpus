@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_physiognomy",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "面相學",
+  "requested_title": "面相学",
+  "url": "https://zh.wikipedia.org/wiki/%E9%9D%A2%E7%9B%B8%E5%AD%B8",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 面相學",
+  "topics": [
+    "belief",
+    "fortune_telling",
+    "culture"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/physiognomy.json",
+  "text_path": "02_text/zh_wikipedia/physiognomy.txt",
+  "raw_bytes": 5704,
+  "text_chars": 2234,
+  "text_sha256": "12402a3d647eafc76af29de687dff2a9528b16ee87f97ae5bd01c720d154a710",
+  "retrieved_at": "2026-10-26T13:42:06.876178+00:00"
+}

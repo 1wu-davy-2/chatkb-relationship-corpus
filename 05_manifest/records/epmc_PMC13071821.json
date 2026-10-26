@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13071821",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "How emotional labor shapes marital intentions: a moderated mediation model of discrepancy feelings and self-esteem in young adults.",
+  "authors": "Sun L, Wei Y, Luo Y, Kang Y, Ye Y, Xu W.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1798124",
+  "pmcid": "PMC13071821",
+  "url": "https://europepmc.org/article/PMC/PMC13071821",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13071821/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "emotional_labor"
+  ],
+  "abstract": "Introduction Against the global backdrop of delayed marriage and declining marital intentions among young adults, the psychological mechanisms underlying the link between daily emotional experiences and marital decision-making remain insufficiently explored. This study proposes a moderated mediation model to investigate the indirect effect of emotional labor (EL) on marital intentions (MI) through discrepancy feelings (DF), as well as the moderating role of self-esteem (SE) in this mediating process. Methods A cross-sectional survey was conducted among 1,036 young adults aged 18-35 years, where standardized scales were employed to measure EL, DF, SE, and MI, respectively. Results The results revealed that EL negatively predicted MI, and this relationship was partially mediated by DF. For young adults with low SE, the negative impact of EL on MI is more pronounced; in contrast, high SE can buffer the adverse direct effect of EL on MI. Notably, the mediating effect of DF between EL and MI remains stable across different SE levels, indicating that SE only adjusts the direct association between EL and MI without interfering with the emotional transmission mechanism through DF. Discussion These findings clarify the psychological pathway and boundary condition through which EL exerts an impact on young adults' MI, thereby providing empirical evidence to inform interventions aimed at fostering positive marital attitudes among this demographic.",
+  "raw_path": "01_raw/europepmc_xml/PMC13071821.xml",
+  "text_path": "02_text/europepmc/PMC13071821.txt",
+  "raw_bytes": 161524,
+  "text_chars": 52240,
+  "raw_sha256": "8386fdd2344046f18815f0caf6d0c74bdf4aed28af8c42a6969a8672bcb14d5e",
+  "text_sha256": "6b43d24693d5dfd19b354967775ec43338d6de14322c662c7ea37364d66c75ef",
+  "retrieved_at": "2026-10-25T15:26:45.940965+00:00"
+}

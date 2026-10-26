@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7184208",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexting and other risky sexual behaviour among female students in a Nigerian academic institution.",
+  "authors": "Ayinmoro AD, Uzobo E, Teibowei BJ, Fred JB.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1016/j.jtumed.2020.02.007",
+  "pmcid": "PMC7184208",
+  "url": "https://europepmc.org/article/PMC/PMC7184208",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7184208/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Objectives The increase in the use of social media has led to a concurrent rise in the prevalence of sexting, which has, in turn, resulted in risky sexual behaviour. This study aims to investigate the role of sexting in risky sexual behaviour among female students who own smartphones for social and educational purposes. Methods A cross-sectional study was conducted on 200 undergraduate students of the Niger Delta University using a pre-tested and validated structured questionnaire. Data for the study were analysed using descriptive statistics to describe the socio-demographic characteristics and trends in sexting and risky sexual behaviour. In addition, inferential statistics (logistic regression) was used in testing the association between the dependent and independent variables. IBM SPSS version 21.0 was used for data analysis. Results The results from the study indicated that those who had ever-sent nude pictures to their partners (OR = 2.504, p p Conclusion This study confirmed the string influence of sexting on high-risk sexual behaviour caused by sexting. In light of this, academic institutions are advised to discourage the licentious use of smartphones.",
+  "raw_path": "01_raw/europepmc_xml/PMC7184208.xml",
+  "text_path": "02_text/europepmc/PMC7184208.txt",
+  "raw_bytes": 61778,
+  "text_chars": 20218,
+  "raw_sha256": "ab7903385533884c7df92763dc964575411b16853538cfdc784c1f913dacf8fc",
+  "text_sha256": "c43860050e3dddf324e75f6604f8e348ea1edc3fca1092a0b75d664f3b2b67cc",
+  "retrieved_at": "2026-10-26T13:11:39.673732+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13003512",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "What leads to prejudice against homosexuality in China?-familism, filial piety, and gender role attitudes in a Confucian cultural context.",
+  "authors": "Zhang H, Ouyang Y, Deng X, Zhong S, Luo C, Yang C.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpubh.2026.1749610",
+  "pmcid": "PMC13003512",
+  "url": "https://europepmc.org/article/PMC/PMC13003512",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13003512/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gender_roles"
+  ],
+  "abstract": "Background From a cultural perspective on research into homosexual identity, existing studies argue that the cultural foundations of Chinese attitudes toward homosexuality are deeply embedded in Confucian ethics, the family system, and a patriarchal gender order. Building on this foundation, this study adopts \"family-based moral regulation\" as its core explanatory framework, focusing on value domains such as marriage, reproduction, gender, and intergenerational obligations. It proposes and operationalizes three measurable value dimensions at the levels of the individual, the couple, and the family: premarital sexual attitudes, gender role beliefs, and conceptions of filial piety. This study examines how these dimensions are associated with contemporary Chinese public attitudes toward homosexuality. Method Using data from the Chinese sample of the seventh wave of the World Values Survey (WVS), this study explores how three dimensions of Confucian gender ideology relate to attitudes toward homosexuality. It also examines how gender and gender role beliefs interact with views on filial piety and sexual behavior. Result The study finds that in a Confucian cultural context, negative attitudes toward homosexuality are driven not by biological sex, but by the degree of adherence to traditional gender role norms. Among the three dimensions of Confucian gender ideology, more permissive premarital sexual attitudes are positively associated with acceptance of homosexuality, while traditional gender role beliefs and stronger filial piety are significantly negatively associated. Finally, by distinguishing the effects of sex and gender role beliefs, the study shows that gender role beliefs significantly amplify the negative impact of sexual attitudes and filial piety on views toward homosexuality, whereas biological sex has no significant effect. Conclusion In the Confucian cultural context, negative evaluations of homosexuality are shaped less by biological sex and more by individuals' adherence to traditional gender norms. Compared to biological identity, homophobic attitudes in Chinese society are more strongly linked to values that uphold the gender order. This study frames Confucian tradition as a key cultural foundation for shaping family ethics and offers a differentiated analysis of family-centered moral values, providing new individual-level empirical evidence for understanding attitudes toward homosexuality in non-Western contexts.",
+  "raw_path": "01_raw/europepmc_xml/PMC13003512.xml",
+  "text_path": "02_text/europepmc/PMC13003512.txt",
+  "raw_bytes": 172550,
+  "text_chars": 62584,
+  "raw_sha256": "8b485bfb4f41820676fe867b519199e9566b4ea400a7406b3adf0f724557120f",
+  "text_sha256": "ed5e8bdfbc078b1c1cb1273bd17d040248d52dc389f9a28bc3102179f392e060",
+  "retrieved_at": "2026-10-25T13:51:27.836486+00:00"
+}

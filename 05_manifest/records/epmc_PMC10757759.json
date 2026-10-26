@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10757759",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Understanding Hypoactive Sexual Desire Disorder (HSDD) in Women: Etiology, Diagnosis, and Treatment.",
+  "authors": "Ronghe V, Pannase K, Gomase KP, Mahakalkar MG.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.7759/cureus.49690",
+  "pmcid": "PMC10757759",
+  "url": "https://europepmc.org/article/PMC/PMC10757759",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10757759/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_desire_gap"
+  ],
+  "abstract": "Hypoactive Sexual Desire Disorder (HSDD) is a complex and multifaceted condition that significantly impacts the sexual well-being and overall quality of life of women. This comprehensive review aims to provide a holistic understanding of HSDD by exploring its etiology, diagnostic criteria, treatment approaches, and broader societal implications. The review delves into the intricate interplay of biological factors, including hormonal changes and neurotransmitter imbalances, that contribute to HSDD. Psychological factors, such as relationship issues, body image, and stress, are examined with sociocultural factors like societal norms, cultural influences, and media portrayals of sexuality. Diagnostic criteria and assessment methods, including The Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition criteria, and self-report questionnaires, are explored to facilitate accurate identification of HSDD and differentiation from other sexual disorders. The impact of HSDD on women's quality of life and relationships is examined, highlighting the emotional strain and interpersonal challenges associated with the disorder. Societal and personal consequences of untreated HSDD underscore the need for increased awareness and support. Treatment approaches encompass non-pharmacological interventions such as cognitive-behavioral therapy, sex therapy, and couples therapy and pharmacological interventions like hormone therapy and selective serotonin reuptake inhibitors. Novel treatments like bremelanotide, flibanserin, and integrative strategies combining psychotherapy and lifestyle changes are discussed. Challenges and controversies surrounding HSDD, including the lack of consensus on diagnostic criteria, debates about the medicalization of sexuality, ethical concerns regarding pharmaceutical interventions, and cultural considerations, are addressed. Future directions in research, including advances in neurobiological understanding, personalized medicine, long-term treatment studies, and destigmatization initiatives, offer promising pathways for enhancing the management of HSDD.",
+  "raw_path": "01_raw/europepmc_xml/PMC10757759.xml",
+  "text_path": "02_text/europepmc/PMC10757759.txt",
+  "raw_bytes": 66301,
+  "text_chars": 29192,
+  "raw_sha256": "cec7d12566e324a93ba33379c75cf7bdd650d579d9cb5d20fa49ff699135c08b",
+  "text_sha256": "270b0d30450b2ee4e21dd599bfa9255b39f11236b588cc58e5890e36eb3ab947",
+  "retrieved_at": "2026-10-26T13:05:27.525188+00:00"
+}

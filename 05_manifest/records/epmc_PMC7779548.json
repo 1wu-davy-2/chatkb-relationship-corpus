@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7779548",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Dyadic Test of the Association Between Trait Self-Control and Romantic Relationship Satisfaction.",
+  "authors": "Zuo PY, Karremans JC, Scheres A, Kluwer ES, Burk WJ, Kappen G, Ter Kuile H.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2020.594476",
+  "pmcid": "PMC7779548",
+  "url": "https://europepmc.org/article/PMC/PMC7779548",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7779548/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Previous research has demonstrated that trait self-control is related to a range of positive romantic relationship processes, suggesting that trait self-control should be positively and robustly linked to relationship satisfaction in both partners in a romantic relationship. However, the existing empirical evidence is limited and mixed, especially regarding partner effects (i.e., the effect of one's self-control on the partner's relationship satisfaction). With three datasets of heterosexual couples (S1: N = 195 newlyweds, longitudinal; S2: N = 249 couples who transition into first parenthood, longitudinal; S3: N = 929 couples, cross-sectional), the present pre-registered studies examined: (1) the dyadic associations between trait self-control and relationship satisfaction both cross-sectionally and longitudinally, and (2) whether these effects hold when controlling for both partners' relationship commitment. The results indicated a cross-sectional positive actor effect, some support for a positive cross-sectional partner effect, and only little support for a longitudinal actor (but not partner) effect. After controlling for relationship commitment, all effects of trait self-control on satisfaction diminished except for a longitudinal actor effect among women in Study 2. Potential explanations for the current results, and implications for theory and practice, are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC7779548.xml",
+  "text_path": "02_text/europepmc/PMC7779548.txt",
+  "raw_bytes": 159535,
+  "text_chars": 52886,
+  "raw_sha256": "fcc19ce25372e6498232076bc400bdbac5cf2b78b8aeacca80128821ff927384",
+  "text_sha256": "efbd2c0b811a137c8d6bc956e0601a537f0b813d4889f6daab3d0b90f314aa05",
+  "retrieved_at": "2026-10-25T15:47:25.438222+00:00"
+}

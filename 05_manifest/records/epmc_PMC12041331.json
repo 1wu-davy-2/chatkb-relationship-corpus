@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12041331",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Partner traits of women in arranged and self-choice marriages.",
+  "authors": "Snopkowski K, Hasnain AM.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1017/ehs.2025.11",
+  "pmcid": "PMC12041331",
+  "url": "https://europepmc.org/article/PMC/PMC12041331",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12041331/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "arranged_marriage"
+  ],
+  "abstract": "Survey results have shown that the traits women seek in a partner are different from the traits parents seek in a son-in-law. These differences have been attributed to parent-offspring conflict, where parents prefer mates for their offspring who provide benefits to the entire family group, but adult women prefer traits in a potential partner that indicate heritable fitness (e.g. creativity, exciting personality). We compare the characteristics of husbands of women in self-choice and arranged marriages using data from the longitudinal Indonesia Family Life Survey (IFLS) which surveyed families between 1993 and 2015. Results show that the husbands of women in arranged marriages had lower levels of completed education than those from self-choice marriages, counter to predictions. There were no significant differences in the husband's wealth prior to marriage or the proportion of couples who were of the same religion. An examination of personality traits showed little difference based on arranged marriage status. The only prediction that had significant support was that couples in arranged marriages were more likely to share an ethnic background than couples in self-choice marriages. These results suggest that the characteristics of husbands vary little by arranged versus self-choice marriage status, contrary to previous survey findings.",
+  "raw_path": "01_raw/europepmc_xml/PMC12041331.xml",
+  "text_path": "02_text/europepmc/PMC12041331.txt",
+  "raw_bytes": 152100,
+  "text_chars": 49006,
+  "raw_sha256": "e9f8acad022f1c3fe540194f65ff1fd3b143050dd46ef6bfe8f54c2534c9f1c0",
+  "text_sha256": "c57fcc893d828d7cdf59ca2d5979d1a6359ab7d41f261653e9936a233e7f4994",
+  "retrieved_at": "2026-10-25T13:52:43.014898+00:00"
+}

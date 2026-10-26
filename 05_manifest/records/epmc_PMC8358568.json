@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8358568",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Singlehood and Attunement of Self-Esteem to Friendships.",
+  "authors": "Fisher AN, Stinson DA, Wood JV, Holmes JG, Cameron JJ.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1177/1948550620988460",
+  "pmcid": "PMC8358568",
+  "url": "https://europepmc.org/article/PMC/PMC8358568",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8358568/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "Romantic relationships activate a process of psychological attunement whereby self-esteem becomes responsive to the romantic bond, thereby potentially benefitting relationship quality and bolstering self-esteem. Yet some people are romantically single, raising the question: Do single people also exhibit psychological attunement? In a 2-year longitudinal study of young adults ( N = 279), we test whether singles psychologically attune to their friendships. Multilevel modeling revealed that within-person fluctuations in friendship quality predicted within-person fluctuations in self-esteem, and this association was stronger for singles than for partnered people. A cross-sectional mediation analysis also revealed that singles invested more in their friendships than partnered people, and greater friendship investment predicted greater friendship quality and self-esteem later on. Finally, singles maintain their friendship quality over time while partnered people experience declines. Taken together, these results suggest that singles are psychologically attuned to their friendships, and such attunement may benefit their belongingness and self-esteem.",
+  "raw_path": "01_raw/europepmc_xml/PMC8358568.xml",
+  "text_path": "02_text/europepmc/PMC8358568.txt",
+  "raw_bytes": 98769,
+  "text_chars": 36653,
+  "raw_sha256": "4c8fd79986fd91212a9b4e609a3e5372de9683f441b0ea0628cc1b7f10b3f3f4",
+  "text_sha256": "e1835b55de67c45efabb299537ed4841e1a723196bb8d0420e50991254b8fade",
+  "retrieved_at": "2026-10-25T15:40:18.543646+00:00"
+}

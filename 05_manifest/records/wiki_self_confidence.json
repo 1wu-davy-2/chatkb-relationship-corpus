@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_self_confidence",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "自信",
+  "requested_title": "自信",
+  "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E4%BF%A1",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "self_esteem",
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/self_confidence.json",
+  "text_path": "02_text/zh_wikipedia/self_confidence.txt",
+  "raw_bytes": 1548,
+  "text_chars": 645,
+  "text_sha256": "a70b35de5bc90c7b1680f09f8453cc41cb223404464a2d65ebcd2662bc2cbd42",
+  "retrieved_at": "2026-10-25T15:32:07.110966+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12895264",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Predicting and Preventing Intimate Partner Homicide: Learning from Perpetrators and Survivors.",
+  "authors": "Umuziga PM, Mukeshimana M, Nyiringango G, Bagweneza V, Kanazayire C, Kayiranga D.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.4314/rjmhs.v8i3.13",
+  "pmcid": "PMC12895264",
+  "url": "https://europepmc.org/article/PMC/PMC12895264",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12895264/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Background Intimate partner homicide (IPH) has emerged as a significant public health and social concern globally, with women disproportionately affected. In Rwanda, despite significant progress in addressing intimate partner violence (IPV) through various national strategies, IPV continues to pose serious challenges, sometimes escalating to IPH. This study seeks to explore the risk factors associated with IPH and identify effective strategies for its prevention. Methodology A qualitative research design employing a phenomenological approach was used to gain deep insights into participants' lived experiences. Data were collected from 22 participants through in-depth interviews and were analysed thematically, supported by the use of Atlas. ti software for coding and data management. Results The major themes that emerged from the analysis included: Participants' perspectives on (1) warning signs and predictors of intimate partner homicide, which included reunions following a partner's imprisonment, jealousy or perceived infidelity, communication avoidance, polygamy, financial irresponsibility, and sexual denial; and (2) alternative actions that perpetrators or survivors could take to prevent IPH, along with their proposed strategies for reducing or eliminating its occurrence. These strategies included early identification of relationship conflicts, engagement in preventive counseling, fostering open communication, ensuring financial autonomy, abstaining from alcohol, and, in high-risk situations, considering pre-emptive divorce. Conclusion Early intervention, preventive counselling, and financial empowerment are essential in mitigating the risk of intimate partner homicide. Policymakers and researchers should prioritize these strategies in designing comprehensive prevention programs that address both individual and relational factors of IPH.",
+  "raw_path": "01_raw/europepmc_xml/PMC12895264.xml",
+  "text_path": "02_text/europepmc/PMC12895264.txt",
+  "raw_bytes": 66254,
+  "text_chars": 36769,
+  "raw_sha256": "c56a00eb306b4cef612e2407d08804bd4f8ade14890a4dd601847447ffa8dfe3",
+  "text_sha256": "37214a5f5932ae9f790e16f34882c2c9990393a7497585cb41e99fffb676a613",
+  "retrieved_at": "2026-10-25T15:44:17.008488+00:00"
+}

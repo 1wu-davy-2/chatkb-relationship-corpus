@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13036988",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Interparental conflict, not divorce, is linked to less positive marital attitudes among Chinese emerging adults.",
+  "authors": "Xu H, He Y.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-04232-y",
+  "pmcid": "PMC13036988",
+  "url": "https://europepmc.org/article/PMC/PMC13036988",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13036988/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "BACKGROUND: Interparental relationship quality and attachment are theorized to be associated with young adults’ marital attitudes, yet evidence in Chinese cultural contexts is mixed. We tested whether interparental conflict versus divorce differentially relates to marital attitudes and whether meaning in life adds explanatory value. METHODS: Participants were 398 Chinese university students (mean age = 20.8 years; 40.6% male) who completed measures of parental marital status/conflict (harmonious; high conflict without divorce; divorced; bereaved), adult attachment, meaning in life, and marital attitudes (higher scores = more positive). We reported descriptives and correlations, then ran hierarchical regressions and tested mediation/moderation by meaning in life. RESULTS: Attachment avoidance was negatively associated with marital attitudes, whereas meaning in life was positively associated. Men reported more positive marital attitudes than women. Compared with respondents from harmonious intact families, those from high-conflict (non-divorced) families reported more negative marital attitudes; no difference emerged between divorced and harmonious families. Mediation and moderation tests showed that meaning in life neither explained nor buffered the association between avoidance and marital attitudes. CONCLUSIONS: Findings underscore the salience of interparental conflict—rather than divorce per se—and attachment avoidance in predicting Chinese emerging adults’ marital attitudes. Meaning in life showed concurrent positive links with attitudes but no indirect or buffering role.",
+  "raw_path": "01_raw/europepmc_xml/PMC13036988.xml",
+  "text_path": "02_text/europepmc/PMC13036988.txt",
+  "raw_bytes": 86084,
+  "text_chars": 26580,
+  "raw_sha256": "f66af93d53df109c42e429f71dd5bb8cc0ce857ca6b13aef9c82c4c08011d972",
+  "text_sha256": "e7a80351a45baf8aabf6ffdb3f7c92af64aa8535978bdb9ffaa830eedb382f69",
+  "retrieved_at": "2026-10-25T13:58:53.696260+00:00"
+}

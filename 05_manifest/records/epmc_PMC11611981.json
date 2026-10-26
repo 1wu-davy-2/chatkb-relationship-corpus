@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11611981",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Positive Outcomes of Long-Term Relationship Satisfaction Trajectories in Stable Romantic Couples: A 10-Year Longitudinal Study.",
+  "authors": "Roth M, Landolt SA, Nussbeck FW, Weitkamp K, Bodenmann G.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s41042-024-00201-1",
+  "pmcid": "PMC11611981",
+  "url": "https://europepmc.org/article/PMC/PMC11611981",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11611981/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "Growing evidence challenges the longstanding assumption of a universal decline in relationship satisfaction for all couples by demonstrating variability in the change. However, knowledge about how differential long-term trajectories of relationship satisfaction are associated with positive individual functioning is lacking. Using dyadic latent class growth analysis, we studied long-term trajectories of relationship satisfaction of N = 300 mixed-gender couples over 10 years and examined positive outcomes in latent subgroups. At the final assessment, partners reported on positive outcomes, specifically affect, mental health, and life satisfaction. Depending on their subgroup membership, couples systematically differed: Couples in the subgroup with high initial and relatively stable relationship satisfaction reported the most favorable outcomes-more positive affect, better mental health, and higher life satisfaction-as compared to subgroups with declining and/or lower relationship satisfaction. The findings show the importance of considering the variability in long-term relationship satisfaction trajectories and point to their relevance for positive functioning. Supplementary information The online version contains supplementary material available at 10.1007/s41042-024-00201-1.",
+  "raw_path": "01_raw/europepmc_xml/PMC11611981.xml",
+  "text_path": "02_text/europepmc/PMC11611981.txt",
+  "raw_bytes": 158861,
+  "text_chars": 49342,
+  "raw_sha256": "d0f6075e61af024b8e36d41c0b084d0e0628b3b3c3abdb4e5d47b197de23d40e",
+  "text_sha256": "9f532e438bf542b5c9ec0259301599303847a91d5bba9857df3a963df2144713",
+  "retrieved_at": "2026-10-25T15:49:16.716848+00:00"
+}

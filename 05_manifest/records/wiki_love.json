@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_love",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "愛情",
+  "requested_title": "爱情",
+  "url": "https://zh.wikipedia.org/wiki/%E6%84%9B%E6%83%85",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "love",
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/love.json",
+  "text_path": "02_text/zh_wikipedia/love.txt",
+  "raw_bytes": 9276,
+  "text_chars": 3623,
+  "text_sha256": "d950f76b1b1d15dcef3740502545c20fc4659a365cb93aac4dacfb71ce717c45",
+  "retrieved_at": "2026-10-25T15:34:01.137358+00:00"
+}

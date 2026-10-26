@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11194507",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Collaborative imagination synchronizes representations of the future and fosters social connection in the present.",
+  "authors": "Fowler Z, Palombo DJ, Madan CR, O'Connor BB.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1073/pnas.2318292121",
+  "pmcid": "PMC11194507",
+  "url": "https://europepmc.org/article/PMC/PMC11194507",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11194507/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "first_date"
+  ],
+  "abstract": "From close friends to people on a first date, imagining a shared future appears fundamental to relationships. Yet, no previous research has conceptualized the act of imagination as a socially constructed process that affects how connected we feel to others. The present studies provide a framework for investigating imagination as a collaborative process in which individuals cocreate shared representations of hypothetical events-what we call collaborative imagination. Across two preregistered studies ( N = 244), we provide evidence that collaborative imagination of a shared future fosters social connection in novel dyads-beyond imagining a shared future individually or shared experience in general. Subjective ratings and natural language processing of participants' imagined narratives illuminate the representational features of imagined events shaped by collaborative imagination. Together, the present findings have the potential to shift how we view the structure and function of imagination with implications for better understanding interpersonal relationships and collective cognition.",
+  "raw_path": "01_raw/europepmc_xml/PMC11194507.xml",
+  "text_path": "02_text/europepmc/PMC11194507.txt",
+  "raw_bytes": 176154,
+  "text_chars": 72833,
+  "raw_sha256": "68ab52cf392700b86be2e614412184e694957a2b4d61ef34fe51d1db6dbfe7b7",
+  "text_sha256": "c46a49067254e69afaa13a3f9372f72c485f07d36b9cf9995cc6e5c796d56ffe",
+  "retrieved_at": "2026-10-25T14:02:03.908112+00:00"
+}

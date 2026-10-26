@@ -1,0 +1,368 @@
+TITLE: Protocol for a parallel-group superiority randomized controlled trial comparing Sage- a couple psychotherapy- to supportive individual psychotherapy for borderline personality disorder.
+AUTHORS: Fitzpatrick S, Arunagiri V, Traynor JM, Fredborg BK, Daros AR, Crenshaw AO, Fitzpatrick D, McMain SF, Monson CM, Courey L, Liebman RE.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1186/s12888-026-08374-6
+PMCID: PMC13678913
+LICENSE: cc by-nc-nd
+LICENSE_URL: https://creativecommons.org/licenses/by-nc-nd/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC13678913
+TOPICS: conflict_repair
+
+---
+
+ABSTRACT
+AbstractBackgroundAlthough borderline personality disorder (BPD) is associated with substantial mortality and morbidity, frontline BPD interventions are difficult to access and have suboptimal efficacy. Therefore, there is a pressing need to develop and test brief, optimized BPD interventions. BPD is associated with disrupted intimate relationships, and recent theoretical models suggest that such disruptions may play a central role in driving BPD pathology. This led to the development of Sage, a protocolized, conjoint psychotherapeutic intervention delivered to people with BPD and their intimate partners to treat BPD and simultaneously improve relationship conflict and intimate partner’s mental health. While preliminary research supports the efficacy of Sage, a key next step is identifying whether Sage is more efficacious compared to standard care in improving its targets. This manuscript outlines the study protocol for a single-blind, parallel two-arm randomized controlled trial (RCT) comparing Sage to a supportive psychotherapy that is delivered separately to people with BPD and their intimate partners.MethodsCouples wherein one member has BPD (target N = 152 couples) are actively being recruited. After eligibility and baseline assessments are complete, couples are randomized to Sage or Supportive Individual Psychotherapy. Weekly supervision meetings are held for both conditions by independent supervisors to ensure intervention adherence and prevent drift. Primary (BPD symptoms), secondary (relationship conflict, partner mental health), and exploratory outcomes (e.g. people with BPD’s emotion dysregulation, suicidal ideation, suicidal and self-injurious behaviors, relationship satisfaction) are assessed by masked assessors at baseline, mid-intervention, post-intervention, and at a one-, three, and six-month follow-up. Generalized mixed linear models using an intent-to-treat philosophy will be conducted to examine differences between study outcomes across conditions.DiscussionResults will illuminate whether Sage is an efficacious means of treating BPD and expanding intervention outcomes to include relationship conflict and partner mental health in a short timeframe.Trial registrationClinicalTrials.gov (ID NCT06458933, registered on June 12, 2024).Supplementary InformationThe online version contains supplementary material available at https://doi.org/10.1186/s12888-026-08374-6.Keywords: Borderline personality disorder, Couple psychotherapy, Randomised controlled trial, Emotion dysregulation, Humanistic psychotherapy, Behavioral psychotherapy
+
+BODY
+Background
+
+Borderline personality disorder (BPD) is linked with considerable mortality and morbidity, with up to 90% of people with BPD having engaged in suicidal or self-injurious acts, and 6% dying by suicide. [1, 2] Frontline BPD interventions are difficult to access in part because they are typically long (i.e., 1+ years), costly, and often involve multiple components (e.g., individual therapy, group therapy, and 24/7 therapist access by phone. [3, 4] Therefore, there is a pressing need to develop and test brief, optimized BPD interventions.
+
+Individuals with BPD tend to have relationships that are characterized by elevated distress, violence, dissolution, and lower satisfaction [5–11]. However, individual BPD treatments do not directly target the functioning of these relationships. Perhaps accordingly, the significant others with whom people with BPD are in relationships report elevations in burden, grief, anxiety, and depression [12]. The significant others of people with BPD are also undertreated, with nearly two thirds reporting an inability to access desired mental health support [13].
+
+Although relationship problems are a valid clinical target in and of themselves, they may also exacerbate other BPD symptoms. Seminal theory asserts that emotion dysregulation (i.e., frequent, intense, long-lasting emotions and difficulties regulating them) is the hallmark experience of people with BPD [4]. However, people with BPD are particularly likely to exhibit emotion dysregulation in response to interpersonal stressors such as conflict or rejection. [14, 15] Moreover, 76% of the most lethal suicide attempts in BPD are precipitated by interpersonal stressors, and the presence of a stable intimate relationship predicts a greater likelihood of BPD remission longitudinally [16, 17]. Accordingly, members of this research group advanced the Borderline Interpersonal and Affective Systems (BIAS) model, which suggests that a sensitivity to signs of interpersonal threat (e.g., rejection, abandonment) leads to both emotion dysregulation and communication difficulties in BPD. It also asserts that the thoughts, emotions, and behaviors of those with BPD and their significant others interact to maintain emotion dysregulation, communication, conflict, and, ultimately, destructive behaviors such as suicide attempts or self-injury [18].
+
+The BIAS model implies that expanding treatment outcomes beyond the individual patient with BPD to include relationship functioning and significant other mental health may fill current gaps in care and synergistically enhance individual BPD treatment outcomes. This may be especially important in the context of people with BPD’s intimate relationships, as dysfunction in intimate relationships is particularly characteristic of BPD [6]. However, few interventions for BPD routinely incorporate intimate partners and jointly target emotion dysregulation, relationship dysfunction, and intimate partners’ mental health [19].
+
+Consequently, members of this research team developed Sage. Named after a plant that is interdependent with its surrounding ecosystem, Sage is a protocolized, conjoint psychotherapeutic intervention for people with BPD and their intimate partners designed to target BPD symptoms, relationship dysfunction, and intimate partner’s mental health [20]. The Sage protocol is comprised of 12 sessions that systematically target BIAS model elements across three phases: Orientation and Safety, Communication and Emotion Regulation, and Beliefs and Planning for the Future [21]. To date, two formal tests of Sage have been completed in couples wherein one member had BPD and either high suicidal ideation or recurrent suicidal or self-injurious behavior [22, 23]. First, in a case series of five couples, four couples completed the intervention, with high reports of intervention satisfaction and generally favourable outcomes [22]. Second, an uncontrolled trial of 16 couples found large effect size improvements at a three-month follow-up in self-reported BPD symptoms, suicidal ideation, and emotion dysregulation (gs range from 0.79 to 1.24) and small to moderate effect size improvements for informant-reported versions of these outcomes (gs = 0.38-0.43). Moreover, people with BPD exhibited statistically significant reductions in suicidal and self-injurious behaviours at follow-up. However, there were no statistically significant changes in reported relationship satisfaction or conflict. Reasons for this finding are unclear, although it may be attributable to ceiling effects [23]. Fully probing the impact of Sage on relationship outcomes requires examining its efficacy in a larger sample size.
+
+Although these studies provide promising initial support, a fulsome understanding of the efficacy of Sage requires testing it in a larger sample, against a control condition, and with a longer follow-up period. Best practices in intervention development and testing suggest that comparing a novel intervention to standard care is the next step in determining efficacy [24, 25]. Comparing Sage to a generic couple therapy that is not focused on BPD, however, would be inappropriate because it is inconsistent with the existing standard of care for treatment-seeking couples with BPD. This is because the standard treatment for people with BPD is to receive individual psychotherapy, and BPD and associated issues (e.g., suicide risk) are often considered rule-outs for couple therapies [26–32]. It would also be inappropriate to compare Sage to frontline individual BPD interventions (e.g., dialectical behavior therapy), as the efficacy of Sage relative to standard care must be established before committing the resources required to compare it with active interventions. We therefore elected to compare Sage to supportive individual psychotherapy (SIP), a nondirective, common factors psychotherapy delivered separately to both members of the couple. SIP approximates a control condition for psychotherapy contact in past BPD treatment trials and services that couples with BPD may receive in the community [33].
+
+This manuscript outlines the study protocol for a randomized controlled trial (RCT) comparing Sage to SIP in couples wherein one member has BPD. Primary (BPD symptoms), secondary (relationship conflict, partner mental health), and exploratory outcomes (e.g., people with BPD’s emotion dysregulation and comorbid conditions, relationship satisfaction) are assessed at baseline, mid-intervention, post-intervention, and at a one-, three-, and six-month follow-up.
+
+Methods/Design
+
+The study is a single-blind, parallel, two-arm superiority RCT (target N = 152 couples; see Fig. 1 for study flow and Table 1 for structured study summary consistent with WHO trial registration data set) [41]. All study elements are conducted virtually through online data collection methods and secure videoconferencing. All procedures were approved by the York University (Toronto, protocol number e2024-261) and McLean Hospital (Boston, protocol number 2024P003372), research ethics boards and are conducted in accordance with the Tricouncil Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2). All research participants provided written informed consent for study procedures. Additional oversight is provided from a Data Safety Monitoring Board consisting of individuals who are arms-length from the study Nominated Principal Investigator with expertise in research related to BPD, clinical trials, biostatistics, and couple psychotherapy1. The Data Safety Monitoring Board meets at least twice annually to review information about study procedures, safety, and adverse events and advise the research team concerning continuation, modification, or termination of the study based on its observed beneficial effects or adverse events. This study has also been preregistered at ClinicalTrials.gov (ID NCT06458933, registered on June 12, 2024).
+
+Overview of participant flow through study. Note: BPD = borderline personality disorder. BPD+ = participant with BPD; BPD - = participant without BPD
+
+World health Organization trial registration dataset Information
+
+Treating and Understanding Life-threatening behavior and Posttraumatic stress (TULiP) laboratory coordinator
+
+Department of Psychology,
+
+Room 375, Behavioral Science Building,
+
+York University
+
+Village at York University, Campus Walk, Toronto, ON, Canada, M3J 1P3
+
+treatbpd@yorku.ca
+
+Skye Fitzpatrick, Associate Professor
+
+Room 238, Behavioral Science Building,
+
+skyefitz@yorku.ca
+
+Sage: A 12-session, structured, skills-focused, conjoint psychotherapy delivered to people with borderline personality disorder and their intimate partners together
+
+Supportive Individual Psychotherapy: A 12-session, non-directive, common factors-driven psychotherapy delivered separately to people with borderline personality disorder and their intimate partners
+
+Key inclusion criteria:
+
+• One member of the couple meets DSM-5-TR diagnostic criteria for BPD
+
+• Both members consent to study participation
+
+Key exclusion criteria:
+
+• Both members of the couple meet DSM-5-TR diagnostic criteria for BPD
+
+• Either partner endorses severe, past-year intimate partner violence as indicated by the severe physical and sexual items on the Conflict Tactics Scale-2 [34]
+
+• Either member meets DSM-5-TR [35] criteria A and B of schizophrenia, not better accounted for by BPD
+
+• Either member has had a past-year hospitalization for a manic episode, or a manic episode in the past three months
+
+• Either member has a substance/alcohol use disorder that is likely to require medical intervention (e.g., detoxification) to reduce use
+
+• BPD+ partners are currently receiving an empirically-supported BPD treatment and unwilling to pause it during the study active treatment phase
+
+• The couple is currently receiving couple therapy and unwilling to pause it during the study active treatment phase
+
+• Either member has a medical condition that is likely to require hospitalization within the next year
+
+Type of study: Interventional
+
+Method of allocation: Randomized
+
+Masking: Single-masked (assessors are masked to assignment)
+
+Assignment: Parallel
+
+Purpose: Efficacy
+
+Phase: II
+
+Allocation concealment mechanism and sequence generation: Urn randomization determined by a computer algorithm programmed by arms-length quantitative expert. Couple randomized after baseline assessment through entry into computer program by study coordinator.
+
+Outcome name: Borderline personality disorder severity
+
+Metric/method of measurement: Zanarini Rating Scale for BPD [34]
+
+Timepoint: Baseline and 6, 12, 16, 24, and 36 weeks from treatment start/baseline
+
+Outcome name: Relationship conflict
+
+Metric/method of measurement: Conflict Resolution Scale [35]
+
+Outcome name: BPD- partner depression severity
+
+Metric/method of measurement: Depression, Anxiety, and Stress Scales - Depression Subscale (Short-Form Version) [36, 37]
+
+Outcome name: BPD- partner anxiety severity
+
+Metric/method of measurement: Generalized Anxiety Disorder 740
+
+Outcome name: BPD- partner emotion dysregulation
+
+Metric/method of measurement: Difficulties in Emotion Regulation Scale (DERS) [38]
+
+Outcome name: BPD- partner general psychiatric distress
+
+Metric/method of measurement: Kessler Psychological Distress Scale [39]
+
+Outcome name: BPD- partner alcohol and substance use
+
+Metric/method of measurement: Addiction Severity Index [40]
+
+Status: Approved
+
+Date of first approval: October 23, 2024
+
+Name and contact details of ethics committees: York University Research Ethics Board (ore@yorku.ca); Mass General Brigham Institutional Review Board (IRB@partners.org)
+
+Plan to share: yes
+
+Plan description: De-identified data will be posted on a public, online data repository after publication of primary and secondary outcomes. Demographic data will be shared only in grouped form for the entire sample (e.g., the average age of the sample, the frequencies of various racial/ethnic groups in the sample) except for participant’s gender, which will be posted at the individual, rather than group, level. We will also post data analytic code for primary study outcome analyses to this registry.
+
+Participants
+
+Participants are recruited through referrals, advertisements, and word of mouth. Table 2 presents a list of study inclusion and exclusion criteria. Exclusion criteria are deliberately minimal and focused on excluding participants who may have psychological or medical conditions that would interfere with study participation or understanding (criteria #s 3–6, 10); whose safety may be compromised by engaging in a couple therapy (criterion #2); who are in BPD or couple interventions that would contaminate study findings (criteria #s 8, 9); or who may be fraudulent given the online nature of the study (criterion #7). Couples wherein both members meet diagnostic criteria for BPD are also excluded (criterion #1) as Sage has not yet been tested in this context.
+
+Full study inclusion and exclusion criteria
+
+Note: BPD = borderline personality disorder; BPD+ = partner with BPD
+
+Participants are only eligible if they reside in Ontario Canada because that is where members of the investigative team are licensed to provide psychological services
+
+Interested couples are emailed a brief online pre-screen that assesses for inclusion and exclusion criteria. The online pre-screen includes the McLean Screening Instrument for Borderline Personality Disorder [44] to identify possible BPD and the severe intimate partner violence items from the Conflict Tactics Scale–2 [45]. Potentially eligible participants are then invited to attend secure videoconferencing appointments with study staff/assessors for informed consent procedures and eligibility assessments. These assessments occur separately for both members of the couple. If members of the couple are potentially eligible, they are invited to complete the baseline assessment. Once both members of the couple are determined to be eligible and baseline assessments are finished, the couple proceeds to the randomization stage.
+
+Measures
+
+Eligibility assessment
+
+During the assessment interview stage, diagnostic criteria for BPD are assessed using the Structured Clinical Interview for DSM-5 Disorders, BPD module (SCID-5-PD) [46]; a reliable and valid diagnostic interview for BPD. The Test of Premorbid Functioning is administered as a screen for below average intelligence or traumatic brain injury [43]. Remaining exclusion criteria, including DSM-5 Criterion A and B of schizophrenia, as well as exclusion criteria pertaining to mania and substance/alcohol use disorders are assessed using the Diagnostic Assessment and Research Tool (DART) [47]. The DART is a semi-structured interview assessing DSM-5 disorders with high sensitivity and predictive validity in clinical samples [48]. Additional DART modules (e.g., mood, anxiety, eating, obsessive-compulsive, trauma-related disorders, attention-deficit/hyperactivity disorder) are administered as part of the baseline assessment to characterize the sample.
+
+Outcome measures
+
+See Table 3 for outcomes assessed for each partner. The primary outcome of BPD symptom severity is measured via the clinician-administered Zanarini Rating Scale for BPD (ZAN-BPD) interview [34]. The severity of each BPD symptom over the past two weeks is rated by interviewers on a 5-point scale ranging from 0 to 4. Prior findings demonstrate it has high internal consistency (e.g., α = 0.85) convergent validity with other BPD measures (e.g., α = 0.80 with self-report BPD measures), and sensitivity to change across time [34].
+
+List of study outcomes and measures, assessment administration timings, and method of assessment
+
+Note: I = interview; Q = questionnaire; O = other
+
+Note: The version administered to BPD- partners comprised the secondary outcomes, whereas the version administered to BPD+ partners comprised the exploratory outcomes
+
+Note: Administered to BPD+ partner at all timepoints, administered to BPD- partner only at pre-treatment
+
+Note: Administered at the beginning of the first and last psychotherapy session in the Sage condition only
+
+Note: Administered at the point of dropout only if a participant terminates/drops out from treatment early
+
+The secondary outcome measures assess both partners’ self-report of relationship conflict (Conflict Resolution Scale, prior published α = 0.92-0.94) [35] as well as the person without BPD’s (i.e., BPD- partners) mental health. The latter includes self-report assessments of depression severity (Depression, Anxiety, and Stress Scale-21 Depression subscale [36, 37]; published α range = 0.78-0.90) [87], anxiety severity (Generalized Anxiety Disorder-7 [52]; published α = 0.91) [88], emotion dysregulation (Difficulties with Emotion Regulation Scale [38], published α = 0.94) [89], problematic alcohol/substance use (Addiction Severity Index [40] published α for alcohol and drug use composite scores = 0.92 and 0.83, respectively) [90], and general psychiatric distress (Kessler Psychological Distress Scale, published α = 0.93).[91]
+
+In addition, exploratory outcomes that are associated with BPD and directly or indirectly targeted in Sage are assessed in the partner with BPD (i.e., BPD+ partners), including measures noted above in addition to measures of suicidal ideation (Columbia Suicide Severity Rating Scale – Suicidal Ideation Module) [55] and suicidal and self-injurious behavior (Lifetime Suicide and Self-Injury Count Interview) [51]. Exploratory measures include several relationship functioning measures administered to both members of the couple.
+
+Outcome assessments in both conditions occur at baseline, mid-intervention (i.e., between sessions 6 and 7), post-intervention (i.e., ideally within one week of session 12, up to one month), and at 1-, 3-, and 6-months after treatment termination. Assessment interview data is inputted into a secure, encrypted, electronic data collection platform that is also used to collect questionnaire data. Interview and questionnaire data is de-identified and linked to a participant identification number, with a secure database accessibly only to members of the research team used to link identifying information with the identification number. Study team members check assessment interview data for quality on an ongoing basis. Assessment timepoints for those who drop out or withdraw from their intervention are held at the times that they would have been scheduled in the event of intervention completion (e.g., six and 12 weeks from session 1 for the mid-treatment and post-treatment, respectively).
+
+Assessment of adverse events
+
+In this study, an adverse event related to the engagement of suicidal or self-injurious behavior is defined as a behavior with a lethality rating of 4 or higher on the Lifetime Suicide and Self-Injury Count Interview [39]. An adverse event related to the occurrence of suicidal ideation is defined as one in which the study team involves other official personnel (e.g., medical responders, police), or hospitalization occurs, to manage the suicidal ideation. An adverse event related to intimate partner violence is defined as an act of severe intimate partner violence, consistent with the severe physical or sexual abuse items on the Conflict Tactics Scale-2 [45]. Adverse events also include breaches to confidentiality and any other unexpected, negative event that has significant implications for participants. Events related to the engagement of suicidal or self-injurious behavior are assessed systematically in BPD+ participants via the administration of the Lifetime Suicide and Self-Injury Count Interview [39] at assessment timepoints. They are also assessed unsystematically, along with all other adverse events, in response to spontaneous participant disclosure. When an adverse event is disclosed, study team members manage risk related to it as indicated, and assess the extent to which it is study-related. Adverse events are disclosed in a timely fashion to the research ethics board and reported as part of quarterly or bi-annual reports to the Data Safety Monitoring Board. If adverse events are study-related, they are reported to the Data Safety Monitoring Board immediately.
+
+Assessor training, reliability, and masking
+
+Assessment interviews are administered by rigorously trained graduate student assessors working under the supervision of a licensed clinical psychologist on the investigative team. The training protocol focuses on a review of assessment manuals and record forms, administration procedures, scoring criteria, clinical skills, and study-specific policies (e.g., importance of masking, definitions of adverse events). Prior to conducting assessments, all assessors engage in assessment role plays and receive comprehensive feedback from their supervisor (JT). Assessors must also achieve an average of 80% agreement with gold-standard ratings across sets of three interviews of each of the SCID-5-PD BPD module, ZAN-BPD, Lifetime Suicide and Self-Injury Count Interview, and DART interviews. If 80% agreement is not achieved on any set of three interviews, assessors must code two more interviews and achieve 75% agreement across all five interviews.
+
+To ensure ongoing assessor reliability, ratings on the primary diagnostic measure (SCID-5-PD BPD module) and primary outcome measure (ZAN-BPD) are regularly calibrated. Specifically, a randomly selected interview is identified monthly and coded by the assessment supervisor (a licensed psychologist (JT) with extensive BPD assessment experience) and a different trial assessor. Discrepancies are reviewed in a group meeting with all assessors.
+
+All assessors and their supervisor are masked to randomization outcome and are independent from study treatment operations. For any assessments that occur after randomization, assessors are required to document breaches to masking and guess participants’ randomization status after the assessment. Compromises to study masking and its likely effectiveness will be reported when disseminating study findings.
+
+Randomization
+
+Couples are randomized 1:1 using Study Randomizer [92] programmed by the investigative teams’ independent quantitative expert (AOC). Randomization is stratified on relationship distress (Couples Satisfaction Inventory-16 < 51.5) [62] given that baseline relationship satisfaction is predictive of outcomes in couple psychotherapies [93]. The study uses urn randomization, which is an adaptive randomization scheme that alters allocation probabilities based on the existing distribution of participants across conditions, balancing goals of equal allocation while avoiding deterministic assignment [94]. Randomization status is revealed immediately to study administrators once the couple is input into the study randomization software. Once randomized, study administrators relays randomization status to couples who are then scheduled for intervention sessions.
+
+Treatment conditions
+
+Sage
+
+Fitzpatrick et al. [21] provide a detailed description of Sage. In brief, Sage is delivered conjointly to couples and lasts for 12 sessions [21]. Sessions are 75 minutes and scheduled weekly, although the first session is 90 minutes long and may occur in the same week as the second if rapid attention to safety concerns is needed.
+
+Sage includes three consecutive phases: Phase 1 (typically sessions 1 to 3) introduces couples to the intervention and provides psychoeducation on ways in which emotion dysregulation and relationship dysfunction maintain BPD. This phase also focuses on skills to manage suicide and self-injury risk, de-escalate conflict, and decrease intense emotions. Phase 2 (typically sessions 4 to 8) teaches couples to identify, experience, and express emotions effectively. Couples further learn communication skills to facilitate the regulation of their own and each other’s emotions, intimacy, and communication, and to identify and alter individual and dyadic patterns that promote emotional avoidance. Phase 3 (typically sessions 9 to 12) introduces dyadic skills to challenge beliefs about emotions, oneself, and other people that are theorized to maintain interpersonal threat sensitivity, emotion dysregulation, and relationship dysfunction. Phase 3 also includes relapse prevention and consolidation of skills learned to prepare the couple for termination.
+
+Progression through phases is not automatic; couples proceed from one phase to the next if the couple has demonstrated sufficient acquisition of previously taught skills. If further skill strengthening is required, the therapist and couple may agree to remain in the previous phase for further skill development. If couples are clearly demonstrating unwillingness to attempt skills use after multiple intervention attempts, the intervention may be terminated.
+
+Supportive individual psychotherapy (SIP)
+
+SIP is a non-directive, client-centered individual treatment delivered separately to each partner, with individual confidentiality maintained. Its manual was developed for the present study by drawing on client-centered approaches and conditions that control for individual therapeutic contact in past BPD treatment trials [33, 95, 96]. Session length, treatment length, and dosing were designed to match that of Sage.
+
+In alignment with principles of humanistic psychotherapy, SIP therapists assume that, given the right environment, people have a natural tendency to grow and self-actualize [95]. SIP therapists work within a framework of three overlapping principles. First, therapists use collaboration to listen reflectively, work in the here-and-now, convey empathy, and allow the clients to guide the session focus. Second, therapists remain client-centered and embody Carl Rogers’ stance of unconditional positive regard to accept their client completely, without judgment, regardless of their behaviors or actions [95]. Therapists are actively curious, empathic, and genuine when reflecting the client’s experiences. Third, the therapist focuses on present awareness and growth, though may discuss early life experiences to understand how they shape the client’s current experience as they arise.
+
+Table 4 provides a comparison of Sage and SIP. Consistent with conditions that control for individual therapeutic contact in past BPD treatment trials, SIP is differentiated from Sage and bona fide BPD treatments as it is delivered individually and nondirective [33]. In contrast to Sage, case formulations are not provided, therapists do not impose an agenda or planned session content, and clients are not required to focus on any specific topic. Moreover, teaching skills and assigning homework practice is prohibited in SIP. When indicated, SIP therapists may incorporate standard suicide risk management practices such as assessing suicide risk, safety planning, and involving supports. As SIP reaches its conclusion, therapists also discuss termination and may offer referrals or suggest relevant resources.
+
+Summary of characteristics and components of the two interventions in this RCT
+
+12 sessions (75 minutes each) completed within 14 weeks
+
+First session is 90 minutes
+
+Linehan’s Biosocial Model [4]
+
+Fitzpatrick et al. Borderline Interpersonal Affective Systems Model [18]
+
+Monson and Fredman (2012) Cognitive Behavioral Conjoint Therapy for Posttraumatic Stress Disorder [97]
+
+Cognitive Behavioral Couple Therapy [96]
+
+Systems Theory [98]
+
+At the termination of treatment, participants are provided with referrals as indicated and desired for mental healthcare. They are also provided with a resource list after each assessment appointment with mental healthcare resources and referrals.
+
+Therapist training and adherence
+
+Therapists are unique across treatment conditions but, in both conditions, are members of the investigative team, postdoctoral fellows, and/or graduate students. Before seeing clients, therapists are required to attend workshops on the delivery of their treatment condition. Sage therapists must also actively watch a Sage intervention case and SIP therapists must submit roleplays for supervisor review. All therapy sessions are recorded, and therapists attend weekly supervision held separately for each treatment. Supervision meetings include review of session recordings and discussions of cases. Therapist supervision is overseen by members of the investigative team who are licensed clinical psychologists and developed the manual for their relevant treatment condition (SF/RL for Sage, ARD/BF for SIP). For SIP, supervision is held separately for therapists treating BPD+ partners and BPD- partners, to avoid conflicts of interest in client care.
+
+Sage and SIP fidelity measures have been developed and are being piloted and refined throughout this first year of data collection. These measures include assessments of adherence and competence in delivering intervention elements, as well as engagement of prohibited behaviors (e.g., active skills training in SIP). During the active treatment phase of the trial, they are used informally to promote fidelity. Following the active treatment phase, independent raters will use these measures to code fidelity for 10% of randomly selected sessions for each therapist-client(s) pairing. Raters will meet monthly to calibrate ratings and prevent drift.
+
+Intervention dropout
+
+In either condition, intervention dropout is defined as clients: (1) not scheduling a session within two weeks and/or not holding their first intervention session within one month of randomization; (2) no-showing or canceling sessions with <24-hours notice more than three times; and/or (3) not completeing the intervention within 14 weeks of starting it.
+
+Consistent with real-world practices, if participants enrolled in Sage terminate their relationship during treatment, Sage will be discontinued. However, couples enrolled in SIP are allowed to continue their individually-delivered interventions in such a circumstance. In addition, in SIP only, if one member of the couple drops out, the other may still continue in their individual intervention. Participants who are withdrawn or drop out of the intervention will still be invited to complete research-related assessments.
+
+Data analytic strategy
+
+Sample size and power analysis
+
+The study is powered to detect a standardized mean difference (SMD) between Sage and SIP of 0.45 on the primary outcome of BPD symptom severity. Comparing within-group pre-post effect sizes for treatment as usual (TAU) from a BPD trial (d = 0.33) [99] with pre-post SMDs from the two Sage pilot trials (d = 0.78) [22, 23] yields an estimated SMD of 0.45. This value is slightly more conservative than a meta-analytic SMD of 0.59 comparing specialized BPD treatments with nonspecialized treatments for reducing BPD severity and thus was deemed an appropriate and realistic target.[100]
+
+The power analysis and analytic plan are based on an intent-to-treat (ITT) approach. Based on the pilot trials, we conservatively assumed that 13% of participants would provide no data for estimating change. [22, 23] Power analysis was conducted using Monte Carlo simulation (10,000 iterations) of the planned multilevel growth model (not including power benefits of planned covariates, to be conservative) targeting a between-group SMD = 0.45, 0.80 power, α = 0.05 (two-tailed). Simulations indicated N = 152 couples are needed after accounting for the estimated missing data (N = 132 before dropout).
+
+Primary analyses
+
+Analyses will be conducted with an ITT approach by an independent quantitative expert who is masked to treatment condition (AC). One set of interim analyses are planned at approximately the mid-point of the study. Analyses will use generalized linear mixed models in the R packages lme4 (for continuous outcomes) [101] and glmmTMB (for other outcomes). [102] A piecewise model with separate linear slopes during treatment and follow-up phases will be used, with alternate models (e.g., nonlinear change) tested via likelihood ratio tests for nested models and Bayesian Information Criteria for non-nested models. Outcomes assessed for both partners will use two-level dual-intercept models [103]. Covariates in all models will include the stratification variable, baseline ZAN-BPD [104], and baseline scores of the dependent variable for each model. Missing baseline covariate scores will be imputed using the missing indicator method [105].
+
+Healthcare utilization (i.e., emergency room and hospital visits) and suicide and self-injurious behaviour outcomes are typically nonnormal, with positively skewed integer responses clustered at 0 [106, 107]. These outcomes will be modeled using a multilevel random effects Poisson regression, and necessity of a zero-inflated model or simpler models without linear assumptions (e.g., multilevel ANCOVA) will be tested using model selection procedures. For models with collapsible summary measures, covariate adjustment will mimic that for continuous outcomes; adjustment in the non-collapsible case will be done using standardization [108]. The primary tests of interest for each outcome are the covariate-adjusted, model-estimated between-group differences in change from baseline to post-treatment and marginal mean contrasts from baseline to the 6-month follow-up.
+
+Multilevel models use a maximum likelihood estimator for missing data, which produces unbiased estimates under the missing at random assumption [109]. Demographic characteristics and baseline values on primary and secondary outcomes will be tested as potential predictors of assessment dropout, with significant predictors added as covariates for sensitivity analyses. We will also conduct pattern mixture models to test for evidence of bias if data were missing not at random and, if so, model estimates will be adjusted according to recommendations [109].
+
+Discussion
+
+This manuscript detailed the protocol of a novel RCT comparing Sage—a disorder-specific couple psychotherapy designed to target BPD, relationship conflict, and partner mental health—to supportive individual psychotherapy contact. The brief nature of Sage overcomes resource-related problems of existing BPD treatments that limit accessibility, offering the potential to expand access to treatment on a wider scale. Moreover, Sage offers the potential of expanding intervention outcomes to include relationship functioning and a focus on the mental health of people with BPD’s partners. However, determining whether this potential can be realized requires testing if Sage is more efficacious than non-BPD specialist psychotherapies that people with BPD may receive if seeking care in the community (i.e., SIP). This RCT therefore represents a vital next step in testing the efficacy of Sage. Given the high potential impact of these findings, we have developed a multi-pronged dissemination plan for study results including the publication of manuscripts in peer-reviewed journals, presenting results at scientific meetings, delivering free online webinars, and sharing findings online through accessible, visually-appealing one-page infographics.
+
+As we embark on this RCT, we are also aware of its potential limitations. First, given that the presence of a stable intimate relationship predicts BPD remission over time it is possible that those with BPD who are in intimate relationships and thus eligible for this study are meaningfully distinct in severity, presentation, and treatment response than those with BPD who are not. [17] Results may therefore reflect a treatment response for a particular variant of BPD associated with the effective retention of an intimate relationship. Moreover, and most critically, although the choice of comparator controls for non-specific individual psychotherapy contact, it cannot control for potential therapeutic contact in a couple (rather than an individual) psychotherapy format. Indeed, controlling for the mode of delivery would require comparing Sage to another couple psychotherapy. People who struggle with suicidal thoughts and behaviors or have BPD are often excluded from couple therapies,e.g., [26–32] and we therefore reasoned that such a couple psychotherapy is unlikely to reflect a real-world offering. Moreover, given the high conflict associated with BPD and the tendency for couple psychotherapy to make relational issues salient, we were concerned that a nondirective, inactive couple psychotherapy had the potential to be iatrogenic [8, 10]. However, comparing Sage to an active, bona fide couple psychotherapy (e.g., emotion-focused couples therapy) would require a larger sample size and additional resources, which would be inappropriate given the early stage of testing that Sage is in [24, 25, 110, 111]. If results support the efficacy of Sage in the current trial, then subsequent research efforts will focus on comparing Sage to existing gold-standard BPD (e.g., dialectical behavior therapy) and couple intervention offerings [4, 100]. The present RCT reflects an important, but not final, step in determining whether Sage holds promise as a means of providing vitally needed care to people with BPD and their loved ones.
+
+Electronic supplementary material
+
+Below is the link to the electronic supplementary material.
+
+Supplementary Material 1
+
+Acknowledgements
+
+Not applicable.
+
+Abbreviations
+
+Analyses of covariance
+
+Borderline Interpersonal and Affective Systems model
+
+Borderline personality disorder
+
+Partners without BPD
+
+Partners with BPD
+
+Canadian Institutes for Health Research
+
+Diagnostic Assessment and Research Tool
+
+Difficulties in Emotion Regulation Scale
+
+Diagnostic and Statistical Manual of Mental Disorders- 5th Edition
+
+interview
+
+Intent-to-treat
+
+Other
+
+Questionnaire
+
+Randomized controlled trial
+
+Structured Clinical Interview for DSM-5 Disorders
+
+Supportive individual psychotherapy
+
+Standardized mean difference
+
+Tricouncil Policy Statement Ethical Conduct for Research Involving Humans
+
+Test of Roles and Reactions in Dyads
+
+University of California- Los Angeles
+
+World Health Organization
+
+Zanarini Rating Scale for BPD
+
+Author contributions
+
+SF, JMT, AOC, SFM, CMM, and REL obtained funding for the work and conceptualized the study. SF oversees all study elements. VA, JMT, BKF, ARD, DF, SFM, CMM, and REL support data collection and management. AOC oversees data analytic plans, randomization, and implementation. LC provides guidance from lived experience. SF, VA, JMT, BKF, ARD, AOC, DF, and REL wrote the manuscript. All authors reviewed and edited the manuscript.
+
+Funding
+
+This study is funded by a peer-reviewed Canadian Institutes of Health Research project grant (Nominated Principal Applicant: Fitzpatrick; Funding reference number: PJT 192037). Other than approving it for funding including undergoing scholarly review, this funder does not have influence over the study design or data collection, management, analysis, interpretation, or dissemination.
+
+Data availability
+
+No datasets were generated or analysed during the current study.
+
+Declarations
+
+Ethics approval and consent to participate
+
+All procedures were approved by the York University (Toronto, protocol number e2024-261) and McLean Hospital (Boston, protocol number 2024P003372), research ethics boards and are conducted in accordance with the Tricouncil Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2). All research participants provided written informed consent for study procedures. Protocol amendments are reviewed by these ethics boards and disclosed to the Data Safety Monitoring Board.
+
+Consent for publication
+
+Protocol version date
+
+Version 8 (Amendment #7, May 13, 2026).
+
+Author information
+
+Competing interests
+
+SF and RL are in the process of developing a Sage manual in conjunction with Guilford Press and receive funds for clinical workshops focused on Sage and related areas.
+
+Footnotes
+
+[1]Data Safety Monitoring Board Members: Dr. Jeremiah Schumm, Dr. Shannon Sauer-Zavala, Dr. Alexander Chapman. Data Safety Monitoring Board Terms of Reference available from the corresponding author upon request
+
+Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+References
+
+Associated Data
+
+Supplementary Materials
+
+Data Availability Statement

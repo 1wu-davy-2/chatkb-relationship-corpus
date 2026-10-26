@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_13610",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_sexuality_science",
+  "title": "Studies in the Psychology of Sex, Volume 1",
+  "gutenberg_id": "13610",
+  "url": "https://www.gutenberg.org/ebooks/13610",
+  "download_url": "https://www.gutenberg.org/cache/epub/13610/pg13610.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "sexuality",
+    "psychology",
+    "public_domain",
+    "psychology of sex"
+  ],
+  "raw_path": "01_raw/gutenberg/13610.txt",
+  "text_path": "02_text/gutenberg/gut_13610_studies_in_the_psychology_of_sex_volume.txt",
+  "raw_bytes": 907596,
+  "text_chars": 849709,
+  "text_sha256": "887b4fa8243afb5f117f90df0af4f84bfbff386c8958f39a66b494c0beb7a158",
+  "retrieved_at": "2026-10-26T13:00:36.881343+00:00"
+}

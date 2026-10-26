@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12024349",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Comparative Analysis of Stress Relief, Life Satisfaction, and Quality of Life Based on Marriage Status and Gender Among Members of Society Participating in Exercise.",
+  "authors": "Yang JH, Jung S, Yang H, Choi C, Bum CH.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15040453",
+  "pmcid": "PMC12024349",
+  "url": "https://europepmc.org/article/PMC/PMC12024349",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12024349/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Modern members of society tend to feel stressed in their workplace and at home, but exercising has been shown to effectively reduce stress and increase quality of life and satisfaction. This study aimed to investigate and compare stress relief, life satisfaction, and quality of life based on marriage status and gender among members of society who participate in exercise. We used a questionnaire survey with 311 participants, and the data were analyzed using descriptive statistics, validity and reliability, a multivariate analysis of variance (MANOVA), and a post hoc analysis. The study results showed that the single groups demonstrated higher mean scores in stress relief than the married groups. Conversely, the married groups showed higher mean scores in life satisfaction and quality of life compared with the single groups, and there were no gender differences in any of the results. In conclusion, it seems that these results were affected by the single groups' high autonomy and the married groups' sense of stability in the family.",
+  "raw_path": "01_raw/europepmc_xml/PMC12024349.xml",
+  "text_path": "02_text/europepmc/PMC12024349.txt",
+  "raw_bytes": 146999,
+  "text_chars": 33883,
+  "raw_sha256": "b96793288e1badd1587fd80eec8079f9969fb4ef9736fb9fd5a537844c8cbb6b",
+  "text_sha256": "5b0830a1d54e782d5818a78fb8f2db72d3574cef56b2fc2af5a63bef17823d6a",
+  "retrieved_at": "2026-10-25T15:37:38.013868+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_25128",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "孽海花",
+  "gutenberg_id": "25128",
+  "url": "https://www.gutenberg.org/ebooks/25128",
+  "download_url": "https://www.gutenberg.org/cache/epub/25128/pg25128.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/25128.txt",
+  "text_path": "02_text/gutenberg/gut_25128_孽海花.txt",
+  "raw_bytes": 791557,
+  "text_chars": 257591,
+  "text_sha256": "e4f69987aabb0bd0b22d29fa03ab4402c73b126db5c997ca9da6b977eeff052f",
+  "retrieved_at": "2026-10-25T16:06:04.528819+00:00"
+}

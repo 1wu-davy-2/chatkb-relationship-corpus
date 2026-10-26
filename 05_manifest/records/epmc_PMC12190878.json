@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12190878",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Heterosexual Intimate Partner Femicide: A Narrative Review of Victim and Perpetrator Characteristics.",
+  "authors": "Koureta A, Gaganakis M, Georgiadou E, Bozikas VP, Agorastos A.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/brainsci15060589",
+  "pmcid": "PMC12190878",
+  "url": "https://europepmc.org/article/PMC/PMC12190878",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12190878/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "Background: Intimate partner femicide (IPF) is the most common form of femicide and a severe expression of gender-based violence, highlighting persistent gender inequality worldwide. Addressing this major public health concern requires a comprehensive synthesis of existing evidence to inform prevention strategies. This review aims to identify risk factors for IPF and explore the demographic, behavioral, and psychosocial characteristics of victims and perpetrators. Methods: A narrative review was conducted using a systematic literature search in Scopus, Web of Science, and PubMed, following PRISMA guidelines. Studies were selected based on predefined inclusion and exclusion criteria. Out of 1200 identified records, 51 met the criteria and were included. Data extraction and analysis were conducted independently by two reviewers. Findings are presented narratively. Results: The review identified multiple risk factors for IPF. Victims were more likely to be married, with a history of psychological and physical abuse as well as substance use. Perpetrators were typically older, with higher rates of unemployment, psychiatric disorders, and substance use. Common precipitating factors included jealousy, separation, and recurrent conflicts. Weapon use-particularly knives and firearms-and \"overkill\" were frequent. Perpetrators often exhibited stalking behaviors and a history of intimate partner violence. Compared to other homicide offenders, IPF perpetrators were generally older, more often employed, and less likely to have a criminal background, but more likely to engage in intimate partner violence and hold patriarchal beliefs. Conclusions: IPF is not an unpredictable act. Despite the heterogeneity among perpetrators, identifiable risk indicators can inform effective prevention and intervention efforts.",
+  "raw_path": "01_raw/europepmc_xml/PMC12190878.xml",
+  "text_path": "02_text/europepmc/PMC12190878.txt",
+  "raw_bytes": 211549,
+  "text_chars": 42654,
+  "raw_sha256": "4984e0ca1e993bcf73d1a027afa2faac221f0e12ddfec7d3fb42372e113be53e",
+  "text_sha256": "5829c325c373c1b59e42940984abff74f57540d076f227539fc65e16c38784f0",
+  "retrieved_at": "2026-10-25T15:33:57.941038+00:00"
+}

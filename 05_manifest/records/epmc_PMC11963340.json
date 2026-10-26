@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11963340",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Investigating the impact of armed conflict, cultural factors, and demographic characteristics on access to family planning services in Northwest Syria: a cross-sectional study.",
+  "authors": "Doghim O, Daif A, Ekzayez A, Meagher K, Patel P.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s12913-025-12600-4",
+  "pmcid": "PMC11963340",
+  "url": "https://europepmc.org/article/PMC/PMC11963340",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11963340/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Against the backdrop of a protracted conflict, northwest Syria faces significant challenges in delivering sexual and reproductive health and rights (SRHR) services. The conflict, which began in 2011, has severely impacted maternal and child health, women's wellbeing, and agency. This disruption has been exacerbated by widespread displacement, infrastructure damage, and interruptions in reproductive healthcare provision. Addressing these challenges is crucial for advancing family planning and empowering women in the region. This study investigates the factors influencing family planning service accessibility in northwest Syria, considering the intricate interplay of cultural norms, beliefs, and the backdrop of armed conflict. The study employed a cross sectional-methods approach incorporating structured surveys with a sample size of 2175 women, representing diverse demographics across the region.38% of the 2175 participants were in early marriages, defined as any formal marriage or informal union between a child under the age of 18 and an adult or another child (UNICEF India, Child marriage, 2017). Among them, 58% reported current contraceptive use. Analysis by age groups revealed that individuals aged 26-35 exhibited the highest proportion of contraceptive usage at 41.5%, while the under-18 age group showed the lowest at 7.7%. Predominantly, oral contraceptive pills were the most used contraceptive method (40%), followed by intrauterine devices (IUDs) (31%), condoms (7%), and injectables (5%). Of contraceptive users, 29% reported experiencing side effects, with bleeding between periods or spotting being the most prevalent (26%), followed by irregular periods (21%). Despite 75.5% of participants being internally displaced persons (IDPs), there was no significant difference in usage between IDPs and residents (p = 0.337), although IDPs residing in camps showed the highest usage at 67%. Attending awareness sessions on family planning was associated with increased contraceptive usage, with 67% of attendees reporting usage compared to 44% of non-attendees. Education level and family monthly income strongly influenced usage, with higher education and income correlating with increased usage (p < 0.001 for both). Moreover, the number of children significantly impacted usage, with higher rates observed among women with more children (p < 0.001). Logistic regression analysis further demonstrated that awareness of family planning methods significantly influenced usage (OR: 2.39, p < 0.001).Our findings underscore the pronounced influence of cultural beliefs on individuals' attitudes towards family planning. Displacement, infrastructure damage, and interruptions in healthcare delivery pose formidable barriers, further marginalising vulnerable populations. Community engagement and resilient healthcare infrastructure emerge as critical facilitators, fostering trust and service utilisation. Conversely, stigma, misinformation, and resource constraints hinder access, underscoring the need for targeted interventions.This research illuminates the complex dynamics surrounding family planning practices in northwest Syria. Holistic strategies are needed to ensure equitable access to family planning services in northwest Syria and similar contexts globally. By addressing the intersecting challenges of culture and conflict, efforts can be directed towards meeting the reproductive health needs of populations enduring humanitarian crises.",
+  "raw_path": "01_raw/europepmc_xml/PMC11963340.xml",
+  "text_path": "02_text/europepmc/PMC11963340.txt",
+  "raw_bytes": 124399,
+  "text_chars": 55826,
+  "raw_sha256": "f28dd6c8ce3c0ef48b9e8189dd748f6c1547c5a20e4695b292dbe610e1c0ff77",
+  "text_sha256": "c785290ed3beb31d897c1ca5948410d856a271d600a217fcd5a06dd8c6e6a347",
+  "retrieved_at": "2026-10-25T15:32:39.267265+00:00"
+}

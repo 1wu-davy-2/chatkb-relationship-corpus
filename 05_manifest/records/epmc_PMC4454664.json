@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4454664",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Assortative mating and the reversal of gender inequality in education in europe: an agent-based model.",
+  "authors": "Grow A, Van Bavel J.",
+  "year": "2015",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0127806",
+  "pmcid": "PMC4454664",
+  "url": "https://europepmc.org/article/PMC/PMC4454664",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4454664/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_market"
+  ],
+  "abstract": "While men have always received more education than women in the past, this gender imbalance in education has turned around in large parts of the world. In many countries, women now excel men in terms of participation and success in higher education. This implies that, for the first time in history, there are more highly educated women than men reaching the reproductive ages and looking for a partner. We develop an agent-based computational model that explicates the mechanisms that may have linked the reversal of gender inequality in education with observed changes in educational assortative mating. Our model builds on the notion that individuals search for spouses in a marriage market and evaluate potential candidates based on preferences. Based on insights from earlier research, we assume that men and women prefer partners with similar educational attainment and high earnings prospects, that women tend to prefer men who are somewhat older than themselves, and that men prefer women who are in their mid-twenties. We also incorporate the insight that the educational system structures meeting opportunities on the marriage market. We assess the explanatory power of our model with systematic computational experiments, in which we simulate marriage market dynamics in 12 European countries among individuals born between 1921 and 2012. In these experiments, we make use of realistic agent populations in terms of educational attainment and earnings prospects and validate model outcomes with data from the European Social Survey. We demonstrate that the observed changes in educational assortative mating can be explained without any change in male or female preferences. We argue that our model provides a useful computational laboratory to explore and quantify the implications of scenarios for the future.",
+  "raw_path": "01_raw/europepmc_xml/PMC4454664.xml",
+  "text_path": "02_text/europepmc/PMC4454664.txt",
+  "raw_bytes": 204003,
+  "text_chars": 70577,
+  "raw_sha256": "2e7309388674063d446d1932bbac23264d57b1142ec6bd2e63942615c1bf3327",
+  "text_sha256": "3cf77ff76003df51889be223f369c696f87f139a25bea4dd8dc39c8fe4e15cc7",
+  "retrieved_at": "2026-10-25T15:38:41.628821+00:00"
+}

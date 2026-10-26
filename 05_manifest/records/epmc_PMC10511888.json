@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10511888",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mating in the cold. Prolonged sperm storage provides opportunities for forced copulation by male bats during winter.",
+  "authors": "Sato T, Sugiyama T, Sekijima T.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fphys.2023.1241470",
+  "pmcid": "PMC10511888",
+  "url": "https://europepmc.org/article/PMC/PMC10511888",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10511888/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "In a wide range of heterothermic mammals, hibernation interrupts the reproductive cycle by forcing reproductive delays. In hibernating bats with delayed fertilization, an opportunity for sperm competition is enhanced by extending a time-window between copulations and fertilization. In order to achieve greater fertilization success, males are expected to show adaptations for sperm competition by increasing their opportunities for mating over an extended period. We aimed to clarify the physiological and behavioral characteristics of male bats experiencing increased risks of sperm competition. We investigated the characteristics of the reproductive cycle of the little horseshoe bat ( Rhinolophus cornutus ), and examined whether males retain reproductive physiology related to sexual behavior, and attempt to copulate with females even during the hibernation period. Field observations and histological examinations of the reproductive cycle confirmed that females, having mated in the autumn, store spermatozoa in the uterus during hibernation and give birth in the early summer to just one offspring per year, thus males face a low certainty of successful fertilization. Although their testes regressed rapidly and their testosterone levels were lower during winter than in autumn, males stored motile spermatozoa in their cauda epididymides from autumn throughout the winter. During hibernation, we found that males occasionally aroused from torpor and attempted to mate forcibly with torpid females. Forced copulations appear to increase a male's chances of obtaining a mate while avoiding pre-copulatory female choice. Epididymal sperm storage could be advantageous for males in allowing them to extend their potential mating period even though their testes have regressed. We also found that some hibernating nulliparous females were ready for fertilization in spring after hibernation, whereas few parous females appeared in the same roost. In contrast to males, forced copulations would be maladaptive for females because they cannot opt for higher-quality males while in torpor. Females that have experienced sexual coercion when young may subsequently avoid hibernacula where adult males are present.",
+  "raw_path": "01_raw/europepmc_xml/PMC10511888.xml",
+  "text_path": "02_text/europepmc/PMC10511888.txt",
+  "raw_bytes": 150275,
+  "text_chars": 52487,
+  "raw_sha256": "61b7dd8044d50db74d8c224114aae66c1c559ab9e239926ad60685eeb9d6ed0d",
+  "text_sha256": "6dcfe2ac85631ae5ba09e2f86adb6eeee57da9a63d4081b4d7619965d30ee1bb",
+  "retrieved_at": "2026-10-26T13:12:37.615392+00:00"
+}

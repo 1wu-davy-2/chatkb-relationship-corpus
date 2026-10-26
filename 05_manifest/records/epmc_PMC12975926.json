@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12975926",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Gender differences in emotional disconnection and emotional loneliness in romantic couples: a 3-day ecological momentary assessment study.",
+  "authors": "Xiao X.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1787426",
+  "pmcid": "PMC12975926",
+  "url": "https://europepmc.org/article/PMC/PMC12975926",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12975926/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness",
+    "sexual_pleasure_gender"
+  ],
+  "abstract": "Background Emotional disconnection and loneliness significantly impact romantic relationship quality and individual well-being. Despite the established links between relationship quality and mental health outcomes, research utilizing real-time assessment methods remains limited. This study employed ecological momentary assessment (EMA) to examine gender differences in momentary emotional disconnection and loneliness among romantic couples. Methods One hundred romantic couples (100 females, 100 males) in South Korea participated in a 3-day intensive EMA protocol. Participants received six semi-randomized prompts daily to assess emotional disconnection and emotional loneliness in real time. Multilevel modeling with an Actor-Partner Interdependence Model (APIM) framework was used to analyze the hierarchical data structure (prompts nested within individuals, nested within couples). Results Similarly, females exhibited higher emotional loneliness (M = 3.38, SD = 1.42) than males (M = 2.98, SD = 1.24; t(198) = 2.67, p = 0.008, d = 0.38) did. Strong positive correlations emerged between emotional disconnection and loneliness for both females ( r = 0.68, p r = 0.62, p p = 0.047). Conclusion This study provides evidence of gender differences in momentary emotional experiences within romantic relationships, with women consistently reporting heightened sensitivity to emotional disconnection and loneliness. These findings suggest that clinicians should attend to potential gender-differentiated emotional experiences when providing couple therapy.",
+  "raw_path": "01_raw/europepmc_xml/PMC12975926.xml",
+  "text_path": "02_text/europepmc/PMC12975926.txt",
+  "raw_bytes": 100632,
+  "text_chars": 47444,
+  "raw_sha256": "183a7b92a88f0d04551bc061666bbda625e613ca956f8bf3321c2739d6cbf55f",
+  "text_sha256": "82387258d0b0ad8354d9e522b9c2010d09dc7c1b8821e6553db695e933c131dd",
+  "retrieved_at": "2026-10-25T13:52:13.614761+00:00"
+}

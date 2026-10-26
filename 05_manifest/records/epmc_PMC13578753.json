@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13578753",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Socioeconomic and partner-related determinants of different forms of sexual violence against women in Türkiye.",
+  "authors": "Candemir ML, Özmen K, Doğan H, Dönmez İ, Alkan Ö, Serçemeli C, Küçükali A, Genç E.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1038/s41598-026-63250-3",
+  "pmcid": "PMC13578753",
+  "url": "https://europepmc.org/article/PMC/PMC13578753",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13578753/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "Sexual violence against women is a major public health and human rights issue with severe psychological, social, and economic consequences. Although previous studies have extensively examined intimate partner violence, most have treated sexual violence as a single homogeneous outcome and have not separately investigated the determinants of different forms of sexual violence within the same analytical framework. In particular, limited evidence exists on whether forced sexual intercourse, sexual intercourse due to fear of the partner, and coercion into degrading sexual acts are associated with distinct sociodemographic and relational risk factors in Türkiye. This study aimed to identify the determinants of these three different forms of sexual violence against women in Türkiye. The study used data from the 2014 National Research on Domestic Violence Against Women in Türkiye conducted by the Hacettepe University Institute of Population Studies. The analysis included 6458 women aged 15-59 who had ever been married or in a relationship. Weighted binary logistic regression models and average marginal effects were employed to examine sociodemographic, household, and partner-related determinants. The findings showed that partner-related violence variables were consistently associated with all forms of sexual violence. The findings showed that partner-related violence factors were consistently associated with all forms of sexual violence. Emotional violence, physical violence, partner infidelity, economic violence, fear of the partner, and prior exposure to sexual violence emerged as significant correlates across the models. Conversely, higher educational attainment and greater household welfare were generally associated with lower risks of sexual victimisation. Conversely, university education and higher household welfare levels were negatively associated with sexual violence. The findings demonstrate that different forms of sexual violence are associated with distinct but overlapping relational and socioeconomic determinants, highlighting the need for multidimensional prevention policies addressing multiple forms of violence simultaneously in Türkiye.",
+  "raw_path": "01_raw/europepmc_xml/PMC13578753.xml",
+  "text_path": "02_text/europepmc/PMC13578753.txt",
+  "raw_bytes": 240863,
+  "text_chars": 69826,
+  "raw_sha256": "adfe1e35eac6d371652324dbfd4611bf6de37298983be795d4c604f48767344e",
+  "text_sha256": "bb577547155054d699a8b31aef434b535fae0569429de716dcbcc626edeff546",
+  "retrieved_at": "2026-10-25T15:31:59.338405+00:00"
+}

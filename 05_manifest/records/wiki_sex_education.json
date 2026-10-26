@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_sex_education",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "性教育",
+  "requested_title": "性教育",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E6%95%99%E8%82%B2",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 性教育",
+  "topics": [
+    "sexuality",
+    "education"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/sex_education.json",
+  "text_path": "02_text/zh_wikipedia/sex_education.txt",
+  "raw_bytes": 15564,
+  "text_chars": 5800,
+  "text_sha256": "a3c09c004f8f019ba862d9968efa43917147fad73e6f5e7950a76a18bec0a9d4",
+  "retrieved_at": "2026-10-26T13:01:23.399736+00:00"
+}

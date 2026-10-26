@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9938347",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Validation of the Korean Version of Culturally Responsive Experiences in Close Relationships-Short Form.",
+  "authors": "Lee JY, Kim YK, Shin YJ.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1007/s10447-023-09503-6",
+  "pmcid": "PMC9938347",
+  "url": "https://europepmc.org/article/PMC/PMC9938347",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9938347/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_anxiety"
+  ],
+  "abstract": "The authors developed and validated the Korean version of the Experiences in Close Relationships-Short Form (K-ECRR-SF) with the goal of developing a culturally responsive scale. In study 1, a Rasch analysis was conducted on the 36 original items in the ECR-Revised (ECR-R) to select items that best represent anxiety and avoidance subscales by considering cultural equivalence. In study 2, confirmatory factor analysis (CFA) was conducted for the selected 12 items with a different sample. The factor structures of the ECR-R and K-ECRR-SF through CFA were then compared through CFA. In addition, the K-ECRR-SF items were tested for related constructs (i.e., reassurance and support seeking, loneliness, dyadic satisfaction, depression, anxiety, and fear of intimacy) to its criterion evidence. The newly developed K-ECRR-SF is confirmed to be valid and culturally responsive scale in measuring attachment in Korea.",
+  "raw_path": "01_raw/europepmc_xml/PMC9938347.xml",
+  "text_path": "02_text/europepmc/PMC9938347.txt",
+  "raw_bytes": 179848,
+  "text_chars": 38053,
+  "raw_sha256": "f9d1778cb9f50dea50e48f932539837a1a62158cad61550813314d9c56257b85",
+  "text_sha256": "9764ac8387b16e429dafc6038eef193ab758eb81785cca48953d9db98f5ee0a8",
+  "retrieved_at": "2026-10-25T13:58:32.416898+00:00"
+}

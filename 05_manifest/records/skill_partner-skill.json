@@ -1,0 +1,24 @@
+{
+  "doc_id": "skill_partner-skill",
+  "source": "github_skill",
+  "source_type": "ai_skill",
+  "title": "NatalieCao323/partner-skill",
+  "repo": "NatalieCao323/partner-skill",
+  "url": "https://github.com/NatalieCao323/partner-skill",
+  "language": "zh",
+  "license": "MIT",
+  "license_url": "https://api.github.com/licenses/mit",
+  "topics": [
+    "skill",
+    "structure",
+    "relationship_metrics"
+  ],
+  "excerpt_only": false,
+  "raw_path": "01_raw/skills/partner-skill",
+  "text_path": "02_text/skills/partner-skill.md",
+  "raw_bytes": 121279,
+  "text_chars": 95018,
+  "policy_dropped_files": [],
+  "skipped_plumbing_files": 7,
+  "retrieved_at": "2026-10-26T12:30:07.925832+00:00"
+}

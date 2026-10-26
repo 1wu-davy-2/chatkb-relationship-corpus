@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5845926",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Traits associated with internet addiction in young adults: Potential risk factors.",
+  "authors": "Lyvers M, Karantonis J, Edwards MS, Edwards MS, Thorberg FA.",
+  "year": "2016",
+  "journal": "",
+  "doi": "10.1016/j.abrep.2016.04.001",
+  "pmcid": "PMC5845926",
+  "url": "https://europepmc.org/article/PMC/PMC5845926",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5845926/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_anxiety"
+  ],
+  "abstract": "The present study sought to determine whether certain personality traits associated with problematic substance use may also characterize young adults who report problematic internet use. An index of internet addiction as well as measures of traits previously linked to problematic substance use were administered to a sample of 86 young adults aged 18-30 years. Measures included the Internet Addiction Test (IAT), Sensitivity to Punishment and Sensitivity to Reward Questionnaire (SPSRQ), Depression Anxiety and Stress Scales (DASS-21), Toronto Alexithymia Scale (TAS-20), and the Fear of Intimacy Scale (FIS). Results indicated that IAT scores were significantly positively correlated with TAS-20, DASS-21, SPSRQ and FIS scores, as predicted. When age, gender and negative mood were controlled in a hierarchical regression, sensitivity to punishment (SP), sensitivity to reward (SR) and FIS significantly contributed to variance in IAT in the final model. SP partially mediated the relationship between TAS-20 and IAT, whereas no such mediation was indicated for SR or FIS. Present findings suggest that alexithymia and reward sensitivity may be important risk factors for internet addiction as for problematic substance use, whereas sensitivity to punishment may account for at least part of the association between alexithymia and problematic use of the internet.",
+  "raw_path": "01_raw/europepmc_xml/PMC5845926.xml",
+  "text_path": "02_text/europepmc/PMC5845926.txt",
+  "raw_bytes": 77271,
+  "text_chars": 24742,
+  "raw_sha256": "a1d60afe2a8b866eb5c3a807eca43ba72f3f17378a61e53540c6d8b3349f6b54",
+  "text_sha256": "ed603991c186fd0ce9334c6b442f3d27761326f4eed57dc6e7561a1364ab1b30",
+  "retrieved_at": "2026-10-25T14:00:45.581840+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8296372",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring Sexting and Online Sexual Victimization during the COVID-19 Pandemic Lockdown.",
+  "authors": "Gassó AM, Mueller-Johnson K, Agustina JR, Gómez-Durán EL.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3390/ijerph18126662",
+  "pmcid": "PMC8296372",
+  "url": "https://europepmc.org/article/PMC/PMC8296372",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8296372/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "The COVID-19 pandemic lockdown has impacted daily routines, forcing people to stop socializing in person and changing the way people express their feelings and their romantic or sexual interactions. Social distancing has changed the way people behave online, and we expect that engagement in sexting and online sexual victimization behaviors have increased during lockdown. The aim of this paper is to study the prevalence of sexting and online sexual victimization behaviors during the COVID-19 lockdown in Spanish adults in order to explore how social distancing has affected these behaviors. The sample comprised 293 Spanish adults (mean age = 30.3; 66.2% female) who took part in an online survey about their engagement in sexting behaviors and online sexual victimization experiences. Overall results were apparently not supportive of our main hypothesis, showing that both sexting engagement and online sexual victimization decreased during lockdown despite the increase in internet use. Apart from differences in time period of reference, some alternative hypotheses relate to the increased presence of capable guardians according to the routine activities theory and to forced distance as a demotivation to sext. Possible explanations and hypotheses for these results are discussed further in the paper.",
+  "raw_path": "01_raw/europepmc_xml/PMC8296372.xml",
+  "text_path": "02_text/europepmc/PMC8296372.txt",
+  "raw_bytes": 80664,
+  "text_chars": 23965,
+  "raw_sha256": "cf23793253ba7bcfdb65d9c6ddc712acab25c06f2e407de49674889f19780e89",
+  "text_sha256": "b2271576be16b0a2e1a5463ea4b1b4a83d8746edaf92553bb7c7c10db11e7ac4",
+  "retrieved_at": "2026-10-26T13:09:05.699944+00:00"
+}

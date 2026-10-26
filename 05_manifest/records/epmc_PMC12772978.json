@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12772978",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Effects of Cognitive-Behavioral Consultation on Sexual Satisfaction and Quality of Life in Postmenopausal Women: A Randomized Clinical Trial.",
+  "authors": "Heydarpour S, Khoshandam S, Jalali A, Salari N.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1002/hsr2.71722",
+  "pmcid": "PMC12772978",
+  "url": "https://europepmc.org/article/PMC/PMC12772978",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12772978/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "Background and aim Ensuring a high quality of life during menopause is a critical aspect of women's health. This study aimed to evaluate the effects of cognitive-behavioral consultation on sexual satisfaction and quality of life in postmenopausal women. Method This randomized controlled trial included 70 postmenopausal women recruited from healthcare centers in Kermanshah, western Iran. Participants were randomly assigned to either an experimental group ( n = 35) or a control group ( n = 35) using a simple randomization method. The experimental group participated in 8 weekly sessions of group cognitive-behavioral consultation, each lasting 70-90 min. Both groups completed the Menopause-Specific Quality of Life and Women's Sexual Satisfaction Scale before and 1 month after the intervention. Recruitment took place between June and October 2018, and 70 participants completed the study. Data were analyzed using the Mann-Whitney test, paired t -test, and independent t -test with SPSS (25), and significance was set at p Results Before the intervention, no significant differences were observed between the groups in mean sexual satisfaction scores ( p = 0.71) or quality of life mean scores ( p = 0.128). However, post-intervention, the experimental group demonstrated a statistically significant improvement in both sexual satisfaction ( p = 0.001) and quality of life ( p = 0.001) compared to the control group. No significant adverse events or side effects were reported. Conclusion The findings suggest that group cognitive-behavioral consultation can effectively improve sexual satisfaction and quality of life among postmenopausal women. These results underscore its potential as a valuable therapeutic approach to address challenges associated with menopause and enhance overall well-being in this population. Trial registration clinical trials Iranian Registery of clinical trials-Beta version, https://irct.behdasht.gov.ir/trial/14006. ( IRCT2017052814333N75 ) registered (06-04-2017).",
+  "raw_path": "01_raw/europepmc_xml/PMC12772978.xml",
+  "text_path": "02_text/europepmc/PMC12772978.txt",
+  "raw_bytes": 112018,
+  "text_chars": 38242,
+  "raw_sha256": "1be2a9f937abca94099ca8fceb02005777bc8be1e8ed8b7d5a979bd6fe225d0a",
+  "text_sha256": "876196a375b0a286cf6d4bc0e5a548050bab579c16eabe4415021dd041a5b4fc",
+  "retrieved_at": "2026-10-26T13:09:38.509082+00:00"
+}

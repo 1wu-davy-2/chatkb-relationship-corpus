@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13236673",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Unseen intimate partner violence: regional differences in controlling behaviours.",
+  "authors": "Özgenç Osmanoğlu E, Alkan Ö.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2026.1837243",
+  "pmcid": "PMC13236673",
+  "url": "https://europepmc.org/article/PMC/PMC13236673",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13236673/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Introduction Controlling behaviour is considered a form of emotional abuse and restricts an individual's autonomy. This study aims to determine the factors associated with women's exposure to controlling behaviour by their spouse/partner in the last year, as of the time the survey was conducted, by place of residence in Türkiye. Methods This study utilised microdata obtained from the National Research on Domestic Violence against Women in Türkiye. Binary logistic regression analysis was employed to determine the factors associated with women's exposure to controlling behaviour by their spouse/partner. Results The results of the study showed that age, educational level, the woman's greater contribution to household income, suicidal thoughts, previous pregnancies, the educational level of the spouse/partner, whether or not the man beating his wife is considered acceptable, the educational level of the spouse/partner, fear of the spouse/partner, the spouse/partner fighting with the man in a way that involves physical violence, the spouse/partner experiencing physical violence from their own family, exposure to other types of violence by the spouse/partner, knowledge of preventive measures against violence, and household size were found to be associated with exposure to controlling behaviour. Discussion The study found that the significance and effect of variables related to exposure to controlling behaviour also differed by women's place of residence. According to the study, appropriate strategies to reduce controlling behaviour should be developed, taking into account public health programmes to raise awareness of controlling behaviour towards women, based on their place of residence, and considering the determinants that influence exposure to controlling behaviour.",
+  "raw_path": "01_raw/europepmc_xml/PMC13236673.xml",
+  "text_path": "02_text/europepmc/PMC13236673.txt",
+  "raw_bytes": 250250,
+  "text_chars": 65897,
+  "raw_sha256": "3f3346ce11e1c2e407a470e8634b0fb6f0876ba42defe4b896af256279cf6d6e",
+  "text_sha256": "e5f5c5ee55c16571217b492f185c1f93813507fbe56a1eb414cf6775e116682f",
+  "retrieved_at": "2026-10-25T14:02:16.767966+00:00"
+}

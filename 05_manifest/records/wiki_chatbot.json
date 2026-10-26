@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_chatbot",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "聊天機器人",
+  "requested_title": "聊天机器人",
+  "url": "https://zh.wikipedia.org/wiki/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "technology",
+    "ai"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/chatbot.json",
+  "text_path": "02_text/zh_wikipedia/chatbot.txt",
+  "raw_bytes": 9452,
+  "text_chars": 3761,
+  "text_sha256": "b41a509c760945b4d7048387323127230bb94ca0cf0828c6f30e9b86b327cbbc",
+  "retrieved_at": "2026-10-25T15:44:16.133903+00:00"
+}

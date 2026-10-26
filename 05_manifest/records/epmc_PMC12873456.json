@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12873456",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Loneliness and Its Associations With Personality Functioning: Evidence From Longitudinal Inpatient Psychotherapy Programs in Germany.",
+  "authors": "Kunz JI, Barton BB, Wolfrum N, Wolf J, Merz K, Musil R, Goerigk S, Jobst A, Bertsch K, Padberg F, Reinhard MA.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/nyas.70215",
+  "pmcid": "PMC12873456",
+  "url": "https://europepmc.org/article/PMC/PMC12873456",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12873456/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "Loneliness is an aversive state that occurs at elevated rates among individuals with mental health disorders and may reciprocally exacerbate psychopathological processes. Individuals with personality disorders (PDs) appear particularly susceptible; however, knowledge regarding the relationship between loneliness and facets of personality functioning (PF) remains limited. Greater conceptual and empirical clarity is needed to elucidate the mechanisms linking loneliness with maladaptive self- and interpersonal functioning and to inform clinical practice. We examined the association between loneliness and PF in a longitudinal cohort of 87 inpatients undergoing psychotherapy programs. Loneliness was measured with the UCLA Loneliness Scale. PF was evaluated with the Semi-Structured Interview for Personality Functioning and the Level of Personality Functioning Scale. Baseline loneliness scores were positively associated with self-direction and intimacy, and changes in loneliness were correlated with changes in identity and intimacy. During treatment, significant changes were observed for loneliness and PF, particularly self-functioning, based on self- and clinician ratings. These findings indicate that loneliness is associated with dimensions of self- and interpersonal functioning cross-sectionally and longitudinally. Larger longitudinal studies are needed to elucidate how components of loneliness and PF are interconnected and to identify underlying mechanisms that may inform interventions aimed at reducing loneliness in individuals with PDs.",
+  "raw_path": "01_raw/europepmc_xml/PMC12873456.xml",
+  "text_path": "02_text/europepmc/PMC12873456.txt",
+  "raw_bytes": 172539,
+  "text_chars": 49721,
+  "raw_sha256": "f309491430501f4e0c9b4e90f0c726e9bc6eb44cae3a4d81d51c2ac71b7b9451",
+  "text_sha256": "593a58bb7541c1697183c1e66ad4a5688ccfd24ee369f23b519089fcc77c3478",
+  "retrieved_at": "2026-10-25T15:46:37.197604+00:00"
+}

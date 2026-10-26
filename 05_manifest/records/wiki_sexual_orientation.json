@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_sexual_orientation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "性取向",
+  "requested_title": "性取向",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E5%8F%96%E5%90%91",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 性取向",
+  "topics": [
+    "sexuality",
+    "identity"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/sexual_orientation.json",
+  "text_path": "02_text/zh_wikipedia/sexual_orientation.txt",
+  "raw_bytes": 47903,
+  "text_chars": 17340,
+  "text_sha256": "3a744a9aa263394bb3e86d2f61655d3b0d1663016fced3172df32d7b164a171d",
+  "retrieved_at": "2026-10-26T13:00:30.289307+00:00"
+}

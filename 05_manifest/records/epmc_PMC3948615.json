@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC3948615",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marriage Squeeze, Never-Married Proportion, and Mean Age at First Marriage in China.",
+  "authors": "Jiang Q, Feldman MW, Li S.",
+  "year": "2014",
+  "journal": "",
+  "doi": "10.1007/s11113-013-9283-8",
+  "pmcid": "PMC3948615",
+  "url": "https://europepmc.org/article/PMC/PMC3948615",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3948615/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "china_marriage"
+  ],
+  "abstract": "China's sex ratio imbalance and the surplus of males have received a great deal of attention, but measures of the extent of the marriage squeeze do not take into account the marital status of population. In this paper, we devise an index of the marriage squeeze for the never-married population and use it to project the male marriage squeeze from 2000 to 2060. From the predicted population and nuptiality tables, we estimate trends in the proportion of men that never marry by age 50 and the mean age at first marriage. We find that the marriage squeeze is much more intense if only the never-married population is considered, rather than including all people without distinguishing their marital status. As the lifelong never-married proportion increases, mean age at first marriage rises first and then declines.",
+  "raw_path": "01_raw/europepmc_xml/PMC3948615.xml",
+  "text_path": "02_text/europepmc/PMC3948615.txt",
+  "raw_bytes": 144198,
+  "text_chars": 45529,
+  "raw_sha256": "0143ee30270585bd86029dd1cd8dcc16fde2f4d4e8be0850c1dacccff925cb92",
+  "text_sha256": "72520ca38cb47ed55a3b17ae70013407fdf78b170761091778a50eeae9de02aa",
+  "retrieved_at": "2026-10-25T15:34:53.726261+00:00"
+}

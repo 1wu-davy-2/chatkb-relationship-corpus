@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_gambling",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "赌博",
+  "requested_title": "赌博",
+  "url": "https://zh.wikipedia.org/wiki/%E8%B5%8C%E5%8D%9A",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 赌博",
+  "topics": [
+    "risk",
+    "money"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/gambling.json",
+  "text_path": "02_text/zh_wikipedia/gambling.txt",
+  "raw_bytes": 17394,
+  "text_chars": 6382,
+  "text_sha256": "2a54bbe691346e34303678e66628771f21bf2c2db154b01724a08ab54188f61d",
+  "retrieved_at": "2026-10-25T16:30:10.236378+00:00"
+}

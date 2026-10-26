@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11939442",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual and Agency Norms: Effect on Young Women's Self-Perception and Attitude Toward Sexual Consent.",
+  "authors": "Sánchez-Fuentes MDM, Hidalgo-Muñoz AR, Moyano N, Gómez-Berrocal C.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15030250",
+  "pmcid": "PMC11939442",
+  "url": "https://europepmc.org/article/PMC/PMC11939442",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11939442/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types",
+    "sexual_scripts"
+  ],
+  "abstract": "Background The sexual double standard (SDS) governs behaviors related to sexual activity and abstinence, promoting negative evaluations of sexually assertive women. Conversely, the sexual agency norm encourages young women to express their sexuality freely. This study explores how this complex normative context, combining SDS and sexual agency norms, impacts young women's self-concept and attitudes toward sexual consent. Methods A total of 154 Spanish university women ( M age = 19.69 years; SD = 2.23) participated in a 2 × 2 quasi-experimental design [Personal Reputation Threat: Sexual Activity vs. Sexual Abstinence × Agency Belief Affirmation: High vs. Low]. Participants completed a self-perception measure and the Spanish Adaptation of the Sexual Consent Scale-Revised. Results Personal Reputation Threat influenced positive self-evaluation, with higher scores in the Sexual Activity (vs. Abstinence) condition. Agency Belief Affirmation also affected self-evaluation, with higher scores in the low-agency (vs. high-agency) condition. An interaction effect emerged on attitudes favoring sexual consent: participants showed greater support for sexual consent when devalued for sexual assertiveness rather than abstinence, but only under low-agency belief affirmation. These findings highlight identity conflicts and inconsistent sexual attitudes that young women may experience within the complex normative frameworks of contemporary Western societies.",
+  "raw_path": "01_raw/europepmc_xml/PMC11939442.xml",
+  "text_path": "02_text/europepmc/PMC11939442.txt",
+  "raw_bytes": 139429,
+  "text_chars": 48784,
+  "raw_sha256": "2b066867743509371b86cc13753c90d716f9db29658584ec483dc7b4db050308",
+  "text_sha256": "b295a78625572454ce50857e8f074a8c589b3a38c5eeaabf02bb7697c810c006",
+  "retrieved_at": "2026-10-26T13:11:07.965996+00:00"
+}

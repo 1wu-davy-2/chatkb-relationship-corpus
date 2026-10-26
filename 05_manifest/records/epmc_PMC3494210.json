@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC3494210",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Life expectancy at birth in rural areas based on corrected data of the Iranian vital horoscope.",
+  "authors": "Motlagh M, Safari R, Karami M, Khosravi A.",
+  "year": "2012",
+  "journal": "",
+  "doi": "",
+  "pmcid": "PMC3494210",
+  "url": "https://europepmc.org/article/PMC/PMC3494210",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3494210/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "astrology_belief"
+  ],
+  "abstract": "Background Life expectancy at birth as an alternative summary measure of mortality represents number of years which a newborn will be alive based on the current age specific death rates. As it summarizes death rates across all age range in a given population is the most common summary measure of mortality. The aim of this study was to correct death rates for underreport and estimate life expectancy at birth in rural population of Iran in 2008. In addition, this study aimed to assess the Vital Horoscope system's data quality. Methods Data were obtained from all Health Houses in Iranian villages in 2008. In order to adjust over 5 years old death rates for underreport, we used Brass Growth Balance method. Since this method is not applicable to under 5 years old, we used child mortality rates projected based on the Iranian Demographic and Health survey 2000 to correct death rates. Results Adjusted life expectancy at birth for males was 71.5 year and for females was 74.4 year. Completeness of the death data was 88% for males and 79% for females. Adjusted child (under 5) mortality rate by sex in males and females was 25.9 and 23.8 per 1000 live births respectively. Adult mortality for males was 167.2 and 98.3 for females per 1000. Conclusion Data based on Vital Horoscope system are a suitable source to estimate life expectancy and other mortality statistics. Also has an acceptable completeness on death registration. Further studies to investigate accuracy of data from the Vital Horoscope system are suggested.",
+  "raw_path": "01_raw/europepmc_xml/PMC3494210.xml",
+  "text_path": "02_text/europepmc/PMC3494210.txt",
+  "raw_bytes": 81945,
+  "text_chars": 14697,
+  "raw_sha256": "a19140bfb874d295e736522c38e50a4e52fed044412593954928ec2023266e8b",
+  "text_sha256": "83d9505a3b8a416ea0eb2b37eebb90e3407d75e0f3bbc2f459773bf90d88a1ef",
+  "retrieved_at": "2026-10-26T13:07:29.113996+00:00"
+}

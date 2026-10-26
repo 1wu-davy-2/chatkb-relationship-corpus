@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13220898",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Development and validation of Thai version of female sexual function index for a Thai population.",
+  "authors": "Homsangpradit K, Charoenphan C, Chanajarunwit O.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1093/sexmed/qfag037",
+  "pmcid": "PMC13220898",
+  "url": "https://europepmc.org/article/PMC/PMC13220898",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13220898/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_function_dysfunction"
+  ],
+  "abstract": "Background The lack of a valid and reliable Thai version of the Female Sexual Function Index (FSFI) applicable across relationship statuses and sexual orientations represents an important gap in Thailand. Aim This study aimed to develop and validate a Thai version of the FSFI (FSFI-TH) for use among Thai women with varied marital statuses and sexual orientations. Methods A total of 243 women aged 18-66 years (mean age 31.96 ± 9.78 years) participated in the study. The FSFI-TH was developed through forward translation, back translation, expert committee review, and a pilot study. Reliability was assessed using Cronbach's alpha coefficients and test-retest reliability with intraclass correlation coefficients. Validity was evaluated on aspects of content and construct validity. Outcomes The primary outcomes were the psychometric reliability and validity of the FSFI-TH. Results Item-Objective Congruence demonstrated good content validity, with linguistic refinements informed by the pilot study. The FSFI-TH showed strong internal consistency, with Cronbach's alpha values above .80 for the total scale and most domains. Construct validity assessed using principal component analysis revealed a five-factor structure, with the Desire and Arousal domains loading onto a single factor. Clinical implications The FSFI-TH is a valid and reliable instrument for assessing sexual function among Thai women. Strengths and limitations A key strength of this study is the inclusive applicability of the FSFI-TH across diverse relationship statuses and sexual orientations. However, the limited representation of postmenopausal women means that its applicability in this group should be interpreted with caution. Conclusion The FSFI-TH is a valid and reliable instrument for measuring multidimensional aspects of sexual function in Thai women.",
+  "raw_path": "01_raw/europepmc_xml/PMC13220898.xml",
+  "text_path": "02_text/europepmc/PMC13220898.txt",
+  "raw_bytes": 74119,
+  "text_chars": 22700,
+  "raw_sha256": "2bc35808857147e35069a692534c228c67f70b868a26bf2867169c4245b7a1e0",
+  "text_sha256": "81a54dd847997286b0e96289f2152cd1420dab140de85ddb4e73f3718f0eef15",
+  "retrieved_at": "2026-10-26T13:06:21.696859+00:00"
+}

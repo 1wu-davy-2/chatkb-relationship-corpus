@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10900636",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Practitioner perspectives on the use of acceptance and commitment therapy for bereavement support: a qualitative study.",
+  "authors": "Willi N, Pancoast A, Drikaki I, Gu X, Gillanders D, Finucane A.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s12904-024-01390-x",
+  "pmcid": "PMC10900636",
+  "url": "https://europepmc.org/article/PMC/PMC10900636",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10900636/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Background There is currently a high demand for bereavement support coupled with inconclusive findings as to the efficacy of existing approaches. Acceptance and Commitment Therapy (ACT) aims to improve human functioning and has shown efficacy across a wide range of conditions. ACT may be a promising means of supporting bereaved people, yet evidence on the use of ACT for bereavement support is lacking. The aim of this study is to explore how ACT is currently used for bereavement support and practitioner perspectives of how it helps following bereavement. Methods Semi-structured interviews were conducted online via MS Teams with practitioners experienced in using ACT for bereavement support. Data were analysed thematically guided by a framework approach. Results Nine participants were recruited. Three themes were identified: (i) creating psychological space around grief; (ii) using psychological space for value-directed action in the midst of grieving, and (iii) adapting ACT for bereavement support. Practitioners indicated that ACT improves clients' relationship with distressing internal experiences. Metaphors and mindfulness techniques were used to encourage acceptance of grief responses, taking perspective on distressing thoughts and images, and contact with the present moment. Better relationships with distressing experiences were regarded as less psychologically taxing, improving coping and well-being, while providing the psychological space to engage in value-directed action. Values exploration, sometimes using metaphors and exercises, was seen as supporting the bereaved person to rediscover a sense of purpose and engage in meaningful activities alongside their grief. Practitioners used ACT flexibly, integrating other interventions, and adapted ACT to the perceived sensitivities of bereaved people, and age-related and developmental factors. Conclusion ACT is used to support people who have been bereaved to live effectively with the difficult thoughts and feelings associated with grieving and to enable them to gradually identify, reconnect with, and act in line with their values after loss.",
+  "raw_path": "01_raw/europepmc_xml/PMC10900636.xml",
+  "text_path": "02_text/europepmc/PMC10900636.txt",
+  "raw_bytes": 110162,
+  "text_chars": 55686,
+  "raw_sha256": "563d825d8a0a2812bd747a88f26df6cb4a3c9e7d3234d4988e51656eae94d620",
+  "text_sha256": "94be9abf176a7f1ac7b076bf32f9713626a3ea5039be03e15a9aadaf13421d6f",
+  "retrieved_at": "2026-10-25T15:43:45.765875+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12143106",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Partner phubbing and quality of romantic relationship in emerging adults: testing the mediation role of perceived partner responsiveness and moderation role of received social support.",
+  "authors": "Wang X, Su M, Ren L, Xu H, Lai X, He J, Du M, Zhao C, Zhang G, Yang X.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40359-025-02942-3",
+  "pmcid": "PMC12143106",
+  "url": "https://europepmc.org/article/PMC/PMC12143106",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12143106/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "responsiveness"
+  ],
+  "abstract": "Background and aims The association between partner phubbing and the quality of romantic relationships (QR) is inconsistent in previous studies. Furthermore, the mechanisms underlying such an association are still unclear. The current study examined the association between partner phubbing and QR, the potential mediating role of perceived partner responsiveness (PPR), and the moderation effects of received social support (RSS) and gender in this association among emerging adults. Methods An online cross-sectional survey was conducted among 772 Chinese young adults with regular romantic partners (mean age = 21.54). Results The moderated mediation model showed that PPR mediated the negative association between partner phubbing and QR among females but not for males (indirect effect = -0.17, 95% CI [-0.24, -0.10], PM = 70.8%). RSS significantly moderated the positive association between PPR and QR in both females and males. In males, RSS significantly moderated the negative association between partner phubbing and QR and between partner phubbing and PPR. Conclusions This is the first study to test both PPR and RSS as potential mechanisms in the association between partner phubbing and QR, which underlines the potential interpersonal implications of partner phubbing among young couples. The results highlight the different associations and paths from partner phubbing to QR in males and females. Clinical trial number Not applicable.",
+  "raw_path": "01_raw/europepmc_xml/PMC12143106.xml",
+  "text_path": "02_text/europepmc/PMC12143106.txt",
+  "raw_bytes": 109022,
+  "text_chars": 32937,
+  "raw_sha256": "ef74275240d35767da630584685310520f85e989d1863db79eea3896801a323f",
+  "text_sha256": "3b28ebb331d60966cd9fa10658cb7a2e343190bdd310c49ac6e5f350f1ab6d42",
+  "retrieved_at": "2026-10-25T13:50:59.550353+00:00"
+}

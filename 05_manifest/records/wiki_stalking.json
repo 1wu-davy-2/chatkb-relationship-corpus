@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_stalking",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "纏擾",
+  "requested_title": "跟踪骚扰",
+  "url": "https://zh.wikipedia.org/wiki/%E7%BA%8F%E6%93%BE",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "safety",
+    "harassment"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/stalking.json",
+  "text_path": "02_text/zh_wikipedia/stalking.txt",
+  "raw_bytes": 18269,
+  "text_chars": 6581,
+  "text_sha256": "f516b2dac1f06dc6e7db8a303f266ef00acd28457e2a43db596bb255414ced81",
+  "retrieved_at": "2026-10-25T15:38:03.149289+00:00"
+}

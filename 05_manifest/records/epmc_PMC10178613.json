@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10178613",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dating App Use and Wellbeing: An Application-Based Pilot Study Employing Ecological Momentary Assessment and Objective Measures of Use.",
+  "authors": "Bonilla-Zorita G, Griffiths MD, Kuss DJ.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3390/ijerph20095631",
+  "pmcid": "PMC10178613",
+  "url": "https://europepmc.org/article/PMC/PMC10178613",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10178613/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "Smartphones are part of individuals' daily lifestyles, as are smartphone applications such as dating apps. Previous evidence suggests that high engagement in dating applications can be detrimental to some users' wellbeing. However, much of the published research has relied on cross-sectional studies and self-report measures. Therefore, the present study aims to overcome the limitations of subjective measures in cross-sectional designs by investigating for the first time the relationship between dating app users' wellbeing (self-esteem, craving and mood) and objective measures of their use during a one-week period. To do this, the present study employed a newly developed application, DiaryMood and utilized ecological momentary assessment (EMA), as it measured subjects' mood, self-esteem and craving three times per day and the time spent using the dating apps per day during one week. A convenience sample of 22 online dating app users participated in the present study. Findings from a three-level multilevel analysis indicated that increased time spent on dating apps predicted craving among dating app users and that notifications led to an improved mood and higher self-esteem. The results are discussed in relation to previous online dating studies. In sum, the present study sets a precedent for the use of EMA within the scope of online dating research, which may promote further studies adopting this methodology.",
+  "raw_path": "01_raw/europepmc_xml/PMC10178613.xml",
+  "text_path": "02_text/europepmc/PMC10178613.txt",
+  "raw_bytes": 122705,
+  "text_chars": 30094,
+  "raw_sha256": "8a567b1cfcbe134b806a57921b36ed1384d40b1b263cd5663de4e6baa9f391b8",
+  "text_sha256": "2ae82680973883ca376a7b9e94e6b47716d6a7029b4f8591ad03fbec11b39d2a",
+  "retrieved_at": "2026-10-25T14:01:58.686014+00:00"
+}

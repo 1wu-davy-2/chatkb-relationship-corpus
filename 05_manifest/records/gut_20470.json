@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_20470",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Etiquette",
+  "gutenberg_id": "20470",
+  "url": "https://www.gutenberg.org/ebooks/20470",
+  "download_url": "https://www.gutenberg.org/cache/epub/20470/pg20470.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/20470.txt",
+  "text_path": "02_text/gutenberg/gut_20470_etiquette.txt",
+  "raw_bytes": 268199,
+  "text_chars": 241797,
+  "text_sha256": "9cffece843912b86e2ebfefd2d67fd68255f0dc9d38381ea68d475540bdeb788",
+  "retrieved_at": "2026-10-25T15:55:19.590307+00:00"
+}

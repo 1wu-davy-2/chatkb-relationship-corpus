@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12331035",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Perceived causes of marital dissatisfaction among Nigerian immigrants in North America: A qualitative study.",
+  "authors": "Ade-Oshifogun J, Olaore A, Agyemang KA.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0327551",
+  "pmcid": "PMC12331035",
+  "url": "https://europepmc.org/article/PMC/PMC12331035",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12331035/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "Marital dissatisfaction among Nigerian immigrants in North America (NINA) arises from a complex interplay of cultural transitions, acculturation stress, and socio-economic pressures. This cross-sectional study followed a phenomenological approach and the guidelines from the Consolidated criteria for reporting qualitative research (COREQ) to examine the perceived causes of marital dissatisfaction among NINA through in-depth interviews with 15 participants residing in the United States and Canada. Participants were adults with at least one year of living with a Nigerian spouse in North America. Ten themes emerged from the data analysis identifying key marital challenges faced by Nigerian immigrant couples in North America. These include cultural conflicts between patriarchal and egalitarian values, financial stress, job insecurity, and extended family obligations. Other challenges involve social norms discouraging open discussions, experiences of abuse, lack of relationship skills, peer and societal pressures, infidelity, parenting conflicts, immigration-related stress, and an overreliance on prayer without practical interventions. These findings highlight the need for culturally sensitive support systems for this population and policies focusing on providing culturally tailored marital counseling, financial literacy programs, and accessible culturally sensitive mental health support services.",
+  "raw_path": "01_raw/europepmc_xml/PMC12331035.xml",
+  "text_path": "02_text/europepmc/PMC12331035.txt",
+  "raw_bytes": 168922,
+  "text_chars": 81504,
+  "raw_sha256": "d6b1fcc18aa3437d9d5dccd0c1c0650a41febd4d6f66dd0f1c1c328df645571f",
+  "text_sha256": "f48cf3767aee3590bc779713863a299913a08a7297a2aed4d7bb67f034e8c134",
+  "retrieved_at": "2026-10-25T15:35:41.422503+00:00"
+}

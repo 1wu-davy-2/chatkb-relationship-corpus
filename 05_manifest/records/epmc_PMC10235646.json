@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10235646",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Porn use and men's and women's sexual performance: evidence from a large longitudinal sample.",
+  "authors": "Sommet N, Berent J.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1017/s003329172100516x",
+  "pmcid": "PMC10235646",
+  "url": "https://europepmc.org/article/PMC/PMC10235646",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10235646/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "porn_and_relationship"
+  ],
+  "abstract": "Background We examined whether young men and women differ in the relation between porn use and sexual performance (sexual self-competence, sexual functioning, and partner-reported sexual satisfaction). Methods We conducted a three-wave longitudinal study (spanning 2015-16-17) that involved a very large number of men and women in their early 20s (100 000 + French-speaking individuals; 4000 + heterosexual couples). Results The results revealed a twofold phenomenon. Among men, a higher frequency of porn use (wave 1) and increased porn use over time (waves 1-3) were associated with lower levels of sexual self-competence, impaired sexual functioning, and decreased partner-reported sexual satisfaction. In contrast, among women, higher and increasing frequencies of porn use were associated with higher levels of sexual self-competence, improved sexual functioning, and enhanced partner-reported sexual satisfaction (for some aspects). Conclusions The findings reveal the irony that porn - a male-dominated industry that targets a male-dominated audience - is associated with the erosion of the quality of men's sex lives and the improvement of women's sex lives.",
+  "raw_path": "01_raw/europepmc_xml/PMC10235646.xml",
+  "text_path": "02_text/europepmc/PMC10235646.txt",
+  "raw_bytes": 117265,
+  "text_chars": 37773,
+  "raw_sha256": "cb015aaa64a1537e606a3e712c1de7dc757d610c8e6a5cea177b5e8e45999d7d",
+  "text_sha256": "0100850496200f42dcd5d2896f8b1d4726ba622d2af1d4c461b53b1683382e93",
+  "retrieved_at": "2026-10-26T12:56:29.902176+00:00"
+}

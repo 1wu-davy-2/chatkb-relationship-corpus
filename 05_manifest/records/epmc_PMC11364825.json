@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11364825",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Extending the study of playfulness in romantic life: Analyzing associations with attachment and jealousy in same-gender and opposite-gender couples.",
+  "authors": "Brauer K, Sendatzki R, Proyer RT.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1038/s41598-024-70979-2",
+  "pmcid": "PMC11364825",
+  "url": "https://europepmc.org/article/PMC/PMC11364825",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11364825/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "humor_playfulness"
+  ],
+  "abstract": "Adult playfulness describes individual differences in (re)framing situations so that they are experienced as entertaining, and/or interesting, and/or intellectually stimulating. There is increasing interest in its role for romantic life. Using the OLIW model of playfulness, we localized its facets Other-directed, Lighthearted, Intellectual, and Whimsical playfulness into systems of attachment styles and romantic jealousy. We analyzed data of 332 mixed-gender and 139 same-gender couples (N total = 942). We found no robust mean differences between same-gender and mixed-gender couples (exception: same-gender couples are lower in emotional jealousy). Actor-Partner Interdependence Model analyses showed that Other-directed, Lighthearted, and Intellectual playfulness yielded negative relations to attachment insecurities in actors, but no partner effects. For jealousy, all types of playfulness related negatively to emotional jealousy, but Whimsical playfulness showed positive inclinations to cognitive and behavioral jealousy in actors. Partners reported greater cognitive jealousy when their partner was high in Lighthearted, whereas partners from Whimsical high scorers reported lower emotional jealousy. The findings are invariant between same-gender and mixed-gender couples. Our study extends the knowledge on how playfulness relates to experiences in close relationships in mixed-gender and same-gender couples. We discuss implications (e.g., Signal Theory of Playfulness) and future directions.",
+  "raw_path": "01_raw/europepmc_xml/PMC11364825.xml",
+  "text_path": "02_text/europepmc/PMC11364825.txt",
+  "raw_bytes": 137769,
+  "text_chars": 49629,
+  "raw_sha256": "4cbcdcce40150b5de397e395038e8f2084db80d4e752a3eda643aa7cb89b5cf8",
+  "text_sha256": "8e9d29851ac2b4678e68f873848c2aea998f9d81ce73244fba573c6a7aff190a",
+  "retrieved_at": "2026-10-25T15:28:11.234777+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12318961",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Who does singlehood best? A latent profile analysis.",
+  "authors": "Horton CJ, Walsh LC, Rodriguez A, Kaufman VA.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1509349",
+  "pmcid": "PMC12318961",
+  "url": "https://europepmc.org/article/PMC/PMC12318961",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12318961/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "Researchers have begun to address heterogeneity in the single population. Historically, singles have been differentiated either by their marital history (e.g., widowed, divorced, never-married) or by whether they considered their singlehood voluntary. However, these approaches leave many unanswered questions about heterogeneity among singles. Addressing heterogeneity is important in light of recent interest in understanding how well-being varies across categories of singles. In the present study, we address this question by using Latent Profile Analysis (LPA) on a large cross-sectional sample of American singles ( N = 4,835). Using LPA, we identified nine distinct profiles of singles differentiated by their romantic relationship goals (partner-seekers, casual-daters, and non-daters) and the perceived pressure they report experiencing from others to find a romantic partner (low-pressure, medium-pressure, and high-pressure). We then compared the profiles on levels of well-being, ill-being, personality, and socialization, as well as demographic, socioeconomic, and relationship history variables. Our analysis reveals several patterns of cross-category variability in outcomes, including some outcomes that vary primarily by romantic relationship goals, some that vary primarily by pressure, and others that vary according to a combination of both. Our results also suggest that two groups (low-pressure casual-daters and low-pressure non-daters) fare particularly well. They are also relatively common, comprising 30% of the sample. A third group-high-pressure non-daters-fare very poorly, and though they comprise only a small proportion of the sample (1.5%) the implications of this group are substantial when considered at national scale. The implications of these findings for research on singlehood and well-being are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC12318961.xml",
+  "text_path": "02_text/europepmc/PMC12318961.txt",
+  "raw_bytes": 242052,
+  "text_chars": 84060,
+  "raw_sha256": "5696c817250e50517a76636ae8515860dab4707af080cdda62119ffd9022942a",
+  "text_sha256": "03c0892ecac9c29a16c7bfc3c13ec999c3be9e7794a2afa67cd09ffe93f85ac3",
+  "retrieved_at": "2026-10-25T13:48:44.781971+00:00"
+}

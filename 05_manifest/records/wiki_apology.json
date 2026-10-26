@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_apology",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "道歉",
+  "requested_title": "道歉",
+  "url": "https://zh.wikipedia.org/wiki/%E9%81%93%E6%AD%89",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "conflict",
+    "repair"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/apology.json",
+  "text_path": "02_text/zh_wikipedia/apology.txt",
+  "raw_bytes": 1098,
+  "text_chars": 474,
+  "text_sha256": "adacc18b0186d4db623bbf5e3e27dd155a4ac5f629dbb4f89f62ac7edacdc807",
+  "retrieved_at": "2026-10-25T15:31:02.708543+00:00"
+}

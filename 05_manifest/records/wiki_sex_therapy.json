@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_sex_therapy",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "性治疗",
+  "requested_title": "性治療",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E6%B2%BB%E7%96%97",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 性治疗",
+  "topics": [
+    "sexuality",
+    "therapy"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/sex_therapy.json",
+  "text_path": "02_text/zh_wikipedia/sex_therapy.txt",
+  "raw_bytes": 8273,
+  "text_chars": 3184,
+  "text_sha256": "145b69cd0aeeba90115600c6b141e42ff5075ef12554e05311ecbd872ff3c458",
+  "retrieved_at": "2026-10-26T13:00:25.749407+00:00"
+}

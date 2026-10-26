@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10480969",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Displaying Red and Black on a First Date: A Field Study Using the \"First Dates\" Television Series.",
+  "authors": "Kramer RSS, Mulgrew J.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.1177/1474704918769417",
+  "pmcid": "PMC10480969",
+  "url": "https://europepmc.org/article/PMC/PMC10480969",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10480969/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "first_date"
+  ],
+  "abstract": "Previous research has shown that displaying the color red can increase attractiveness. As a result, women display red more often when expecting to meet more attractive men in a laboratory context. Here, we carried out a field study by analyzing 546 daters from the \"First Dates\" television series. Each participant was filmed in a pre-date interview and during a real first date, allowing direct comparison of the clothing worn by each person in these two contexts. Analysis of ratings of the amount of red displayed showed that both men and women wore more red clothing during their dates. This pattern was even stronger for black clothing, while the amount of blue clothing did not differ across the two contexts. Our results provide the first real-world demonstration that people display more red and black clothing when meeting a possible mate for the first time, perhaps seeking to increase their attractiveness and/or reveal their intentions to potential partners.",
+  "raw_path": "01_raw/europepmc_xml/PMC10480969.xml",
+  "text_path": "02_text/europepmc/PMC10480969.txt",
+  "raw_bytes": 71190,
+  "text_chars": 30965,
+  "raw_sha256": "b825ea208e3395e58d53027ecd46d0a5ebbfcbfb199685ee52d3f50e9de8c369",
+  "text_sha256": "2d5a6e52a0475a085c37dbab500b6095c19919604ef4bbc5b3899102d8fff41d",
+  "retrieved_at": "2026-10-25T15:29:12.054371+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12635365",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Network analysis of empathy, anxiety and depression symptoms, relationship satisfaction, sensory processing sensitivity, and alexithymia.",
+  "authors": "Novak L, Malinakova K, Juklová K, Koláček J, Zidkova R, Meier Z, Tavel P, van Dijk JP, de Winter AF.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1038/s41598-025-24677-2",
+  "pmcid": "PMC12635365",
+  "url": "https://europepmc.org/article/PMC/PMC12635365",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12635365/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "Mood disorders, like anxiety and depression, are the most prevalent mental health issues that significantly impact both individuals and society. Thus, the exploration of risk and protective factors that may influence anxiety and depression symptoms is of great importance. Studies have shown that higher emotional empathy is often linked to increased anxiety and depression, yet results are mixed. Understanding this link in more depth may be relevant for psychotherapists, as it may help them in creating effective treatment plans for anxiety and depression. Therefore, this study aims to explore how positive and negative emotional empathy are linked with anxiety/depression symptoms once relationship satisfaction, sensory‑processing sensitivity (SPS), and alexithymia are taken into account. In 3 382 Czech adults (mean age = 31.76 ± 13.13; 66.29% Females), we administered the Overall Anxiety Severity and Impairment Scale (OASIS), Overall Depression Severity and Impairment Scale (ODSIS), Toronto Empathy Questionnaire (TEQ), Kansas Marital Satisfaction Scale (KMSS), Sensory‑Processing Sensitivity Questionnaire - SPSQ - (sensory subscale), and Perth Alexithymia Questionnaire - PAQ - (externally‑oriented‑thinking sub‑scale). Mixed Graphical Model networks were estimated for (a) total scores and (b) individual items, age, gender, and education were controlled. Accuracy and stability were explored via non‑parametric bootstrapping. At the total‑score level, higher emotional empathy was positively linked with anxiety and depression. Both links weakened after covariates were entered. Empathy nevertheless retained positive edges with SPS and relationship satisfaction, and a negative edge with alexithymia. In the item‑level network, no negative‑empathy items related to anxiety or depression. One positive‑empathy item (\"When someone close to me is happy, it affects me deeply - in a positive way\") showed an indirect association with lower anxiety via greater relationship satisfaction. Bootstrapping indicated acceptable stability for centrality indices but wide CIs for some edge weights. Our findings suggest that the link between emotional empathy and anxiety/depression is largely indirect. Positive empathy may buffer against anxiety via higher relationship satisfaction. Deconstructing these constructs to the item level may provide more specific insights than analyzing total scores alone. Future empathy researchers should also use longitudinal designs to examine potential causal relationships between empathy and anxiety/depression.",
+  "raw_path": "01_raw/europepmc_xml/PMC12635365.xml",
+  "text_path": "02_text/europepmc/PMC12635365.txt",
+  "raw_bytes": 227333,
+  "text_chars": 63431,
+  "raw_sha256": "c011af1723be2cac4637c2c275064d7bd6fe61152d13c360f86bc7a5077ca790",
+  "text_sha256": "d5c54650dc20f2468603a1592a9bb4f92d90c054840b84dcf0bee7ea3ac7d239",
+  "retrieved_at": "2026-10-25T15:46:54.665080+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11200782",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Loneliness and Relationship Well-Being: Investigating the Mediating Roles of Relationship Awareness and Distraction among Romantic Partners.",
+  "authors": "Sease TB, Sandoz EK, Yoke L, Swets JA, Cox CR.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/bs14060439",
+  "pmcid": "PMC11200782",
+  "url": "https://europepmc.org/article/PMC/PMC11200782",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11200782/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Loneliness arises when there is a discrepancy between one's desired and actual social connection with others. Studies examining the effects of loneliness in romantic relationships show that people who are lonely are less satisfied and committed to their romantic relationships. The present study explored the association between loneliness and romantic relationship well-being. Using a cross-sectional design, loneliness was correlated with relationship commitment, trust, and conflict. Relationship awareness, but not relationship distraction, statistically mediated the association between loneliness, relationship conflict, and relationship trust. The indirect effect of loneliness on relationship well-being was only present in people reporting low and medium levels of psychological inflexibility. Implications are discussed for acceptance- and mindfulness-based interventions for persons in romantic relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC11200782.xml",
+  "text_path": "02_text/europepmc/PMC11200782.txt",
+  "raw_bytes": 149173,
+  "text_chars": 33528,
+  "raw_sha256": "76994f7f70aab69d5bc1fc1083666ded9eb043a85f99c4510607e4a007d437f6",
+  "text_sha256": "ecc38d7a2864e2049a4545657311ba2be99010cd0444108568683e668d7cce5e",
+  "retrieved_at": "2026-10-25T13:51:14.203389+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13635324",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Constructing intimacy in algorithm mediated online dating: experiences of Chinese young adults",
+  "authors": "Ji W.",
+  "year": "",
+  "journal": "",
+  "doi": "",
+  "pmcid": "PMC13635324",
+  "url": "https://europepmc.org/article/PMC/PMC13635324",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13635324/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "",
+  "raw_path": "01_raw/europepmc_xml/PMC13635324.xml",
+  "text_path": "02_text/europepmc/PMC13635324.txt",
+  "raw_bytes": 154878,
+  "text_chars": 63462,
+  "raw_sha256": "b74f82278b22e89df378fdcff7e2d7bdad5026423e2d0e8a57d9d185a4865259",
+  "text_sha256": "4a505fb8fa7a4d01d0df4afdeafe90c885e5a4fcd8218eeb80564011aa1a7765",
+  "retrieved_at": "2026-10-25T15:37:09.218284+00:00"
+}

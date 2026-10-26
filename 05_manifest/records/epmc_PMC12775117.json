@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12775117",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Resilience and loneliness among older adults: an analysis using decision tree techniques.",
+  "authors": "Khatib A, Gazerani A, Fereidouni Sarijeh P, Pazhavand M, Ebrahimi MA, Ranjbari B.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s40520-025-03266-3",
+  "pmcid": "PMC12775117",
+  "url": "https://europepmc.org/article/PMC/PMC12775117",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12775117/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "Background and aim Aging is accompanied by profound biological, psychological, and social changes, and loneliness is considered one of the essential factors threatening the mental health of the elderly. Resilience, as a vital psychological mechanism, is the ability of an individual to effectively cope with stress and return to psychological balance after difficult situations. present study aimed to investigate the relationship between resilience and loneliness in the elderly and identify the factors affecting this relationship using a decision tree. Method A descriptive-analytical and cross-sectional study was conducted with 1400 elderly people aged 60 and older in Tehran. Data were collected using the Resilience Questionnaire (CD-RISC-25) and the Social and Emotional Loneliness Scale (SELSA-S) and analyzed using the CART decision tree. SPSS v. 22 software was used for analysis. Result Based on decision tree analysis using the CART method, elderly with a resilience score of ≤ 74.5 show a higher mean loneliness (53.42 ± 12.02). elderly with a social score higher than 12.5, the mean loneliness was 62.21 ± 4.82, while in the elderly with a lower score, the mean loneliness was lower 41.62.8.01. Individuals with a romantic dimension score of ≤ 12.5 had a very low mean loneliness of 27.53 ± 6.91, while individuals with a higher score experienced a mean of 54.93 ± 9.28. overall accuracy of the model for the high and low loneliness groups was 86.90% and 85.12%, respectively. Conclusion The present findings emphasize that strengthening individual resilience, along with promoting social and family support and paying attention to emotional relationships, is effective in reducing loneliness in older people.",
+  "raw_path": "01_raw/europepmc_xml/PMC12775117.xml",
+  "text_path": "02_text/europepmc/PMC12775117.txt",
+  "raw_bytes": 95428,
+  "text_chars": 21825,
+  "raw_sha256": "aacddfdedeac70856050d456531c308293114f0d31581a6c3b984d4f26b7f85c",
+  "text_sha256": "41f6ec76b426d4c0f6bb50713ad1a8a72a11ff2c187db5e0f6e48f8e2387e844",
+  "retrieved_at": "2026-10-25T13:58:01.223125+00:00"
+}

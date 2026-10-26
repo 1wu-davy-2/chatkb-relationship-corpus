@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12980917",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Self-neglect and self-esteem among older adults receiving home care: a cross-sectional study.",
+  "authors": "Yanık V, Alagöz E.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12877-026-07283-3",
+  "pmcid": "PMC12980917",
+  "url": "https://europepmc.org/article/PMC/PMC12980917",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12980917/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_esteem"
+  ],
+  "abstract": "BACKGROUND: The aging adult population faces increasing challenges, including self-neglect and declining self-esteem, that significantly affect quality of life and psychosocial well-being. Addressing these issues has become a public health priority. Despite the topic’s importance, limited research has examined the relationship between self-neglect and self-esteem in the context of home care services. This study aimed to determine the relationship between self-neglect and self-esteem among older adults receiving home care services in Istanbul, Turkey. METHODS: This cross-sectional descriptive study was conducted from January to April 2024 among 148 older adults (≥ 65 years) enrolled in the Beşiktaş Municipality home-care program. Participants were selected using convenience sampling. Data were collected through face-to-face home visits by trained researchers, using the Personal Information Form, the Elderly Self-Neglect Scale (ESNS), and the Rosenberg Self-Esteem Scale (RSES). Statistical analyses included descriptive statistics, t-tests, ANOVA, Mann–Whitney U, Kruskal–Wallis H, and Spearman’s rank correlation (rho) tests, performed in SPSS version 26 at a significance level of p < .05. RESULTS: A low but statistically significant association was observed between higher self-neglect scores and lower self-esteem (Spearman’s rho = 0.257, p < .05). Men, individuals living alone, and those reporting social support had significantly higher self-neglect scores. Self-esteem was significantly associated with marital status, education level, and social activity, but not with gender or chronic illness. CONCLUSIONS: The study indicates that lower self-esteem is linked to higher levels of self-neglect among older adults receiving home care. Interventions to enhance self-esteem and reduce self-neglect should focus on educational programs, psychological support, and increased social participation. Further studies with diverse populations are recommended.",
+  "raw_path": "01_raw/europepmc_xml/PMC12980917.xml",
+  "text_path": "02_text/europepmc/PMC12980917.txt",
+  "raw_bytes": 72027,
+  "text_chars": 30516,
+  "raw_sha256": "825edb8adf927e864c49c42808896f2a448214849a99fac1ef43a7cf5f903e67",
+  "text_sha256": "0afc8a66be26872f57c156855b7c94cc4bbb2d76eaffeb691c4fc4c32c646904",
+  "retrieved_at": "2026-10-25T15:32:10.012879+00:00"
+}

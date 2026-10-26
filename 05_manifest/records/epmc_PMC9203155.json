@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9203155",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Research on Factors Affecting Chinese College Students' Marriage Intention: Applying the Theory of Planned Behaviour.",
+  "authors": "Xie J, Hong X.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2022.868275",
+  "pmcid": "PMC9203155",
+  "url": "https://europepmc.org/article/PMC/PMC9203155",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9203155/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_attitudes"
+  ],
+  "abstract": "With the second demographic transition, the marriage rate in China has decreased annually. This reduction will have a key impact on national economic and social development. There is a need to investigate the factors that influence college students' marriage intentions, which can predict the development trend of marriage and family formation in China's future society to some extent. Previous studies focus on the extraction of college students' beliefs about marriage and love, whereas few studies have investigated how these beliefs affect marriage intention and marriage behaviour. Based on the theory of planned behaviour, this study aims to explore the impact of attitude towards behaviour, subjective norm, and perceived behavioural control on marriage intention; analysed the key predictors of college students' marriage intentions; and provided implications for pro-marriage policy. Using convenience sampling, data were obtained from 772 college students (mean age = 20.38 ± 2.38 years; 64.5% women) from three universities in China. Two types of questionnaires were designed to elicit salient beliefs and marriage intentions, respectively. Students' marriage intentions were positively correlated with attitude towards behaviour, subjective norm, and perceived behavioural control. Most participants were inclined to get married, and the marriage intention of women was significantly lower than that of men. The important beliefs and factors influence students' marriage intention included stereotypical gender identity, low fertility intention, weakened inter-generational transmission of traditional family ideas, materialisation of marriage, and negative information about marriage disseminated by the mass media. To promote college students' marriage intention, pro-marriage policies conducive to fertility, good economic prospects, more employment opportunities, positive publicity of marriage by the mass media are suggested to make, and it is necessary for universities to offer marriage and love courses to college students.",
+  "raw_path": "01_raw/europepmc_xml/PMC9203155.xml",
+  "text_path": "02_text/europepmc/PMC9203155.txt",
+  "raw_bytes": 92207,
+  "text_chars": 31694,
+  "raw_sha256": "95568b725821c812015cad0c601be9db489cc3059aaa96e812892cd57e6b45f6",
+  "text_sha256": "a185e7c61f09baab81c1568e1c3363b05075a20a654d46a01cacc68fd42e1f24",
+  "retrieved_at": "2026-10-25T15:34:31.984394+00:00"
+}

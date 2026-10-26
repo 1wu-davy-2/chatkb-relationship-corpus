@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11636713",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Couples' Psychological Resources and Marital Satisfaction: The Mediating Role of Marital Support.",
+  "authors": "Michael K, Ben-Zur H.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.5964/ejop.11769",
+  "pmcid": "PMC11636713",
+  "url": "https://europepmc.org/article/PMC/PMC11636713",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11636713/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "The aim of this study was to assess the interdependent relations among psychological resources, marital support, and marital satisfaction in married couples from the perspective of both dyad members, using the Actor-Partner-Interdependence-Model (APIM) approach. One hundred and fifty-one heterosexual married couples ( N = 302) completed questionnaires assessing psychological resources (dispositional optimism and sense of mastery), marital support, marital satisfaction, social desirability, and demographic variables. Structural equation modeling (SEM) was used to test a proposed mediation model adopting the dyadic approach. It was found that husbands' and wives' own psychological resources contributed positively to their own perceptions of marital support and that marital support mediated the effects of these resources on their own (actor-actor effect) and on their spouses' marital satisfaction (actor-partner effect). The results highlight the important contribution of each dyad member's own psychological resources, as well as the valuable role of perceived support as a mediator, regardless of gender. Hence, clinical practice should encourage individuals to invest in maintaining their personal assets and abilities because of their positive effect on expanding intra- and inter- processes of well-being within the marriage.",
+  "raw_path": "01_raw/europepmc_xml/PMC11636713.xml",
+  "text_path": "02_text/europepmc/PMC11636713.txt",
+  "raw_bytes": 116982,
+  "text_chars": 41042,
+  "raw_sha256": "6f4ded304a239d35e749b1bd22c37eb6301b9e7b3783b24a7c2e364edc4f5231",
+  "text_sha256": "5a17ae137af02ee22dc46329fbd3f7506d051863ba6e2d2e0086ed501f42083a",
+  "retrieved_at": "2026-10-25T15:42:45.262689+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7773176",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The demography of swiping right. An overview of couples who met through dating apps in Switzerland.",
+  "authors": "Potarca G.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0243733",
+  "pmcid": "PMC7773176",
+  "url": "https://europepmc.org/article/PMC/PMC7773176",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7773176/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "Within the span of almost ten years, phone dating apps have transformed the dating scene by normalizing and, according to some voices, gamifying the digital quest for a partner. Despite amplified discussion on how swipe-based apps damage the fabric of intimate ties, scientific accounts on whether they have led to different relationship patterns are missing. Using 2018 survey data from Switzerland, this study provides a rich overview of couples who met through dating apps by addressing three main themes: 1) family formation intentions, 2) relationship satisfaction and individual well-being, and 3) assortative mating. The data indicate that in Switzerland, dating apps have recently taken over as main online dating context. Results further show that couples formed through mobile dating have stronger cohabiting intentions than those formed in non-digital settings. Women who found their partner through a dating app also have stronger fertility desires and intentions than those who found their partner offline. Generally, there are no differences between couples initiated through dating apps and those initiated elsewhere regarding relationship and life satisfaction. Though more data are needed to capture the full range of users' romantic and sexual experiences, current results mitigate some of the concerns regarding the short-term orientation or the poor quality of relationships formed through mobile dating. Findings finally suggest that dating apps play an important role in altering couple composition by allowing for more educationally diverse and geographically distant couples.",
+  "raw_path": "01_raw/europepmc_xml/PMC7773176.xml",
+  "text_path": "02_text/europepmc/PMC7773176.txt",
+  "raw_bytes": 160332,
+  "text_chars": 66026,
+  "raw_sha256": "ab01bbf86c10be6d8e83ea777900654ab196f20d9f1e7f2f2d6bdd9d917a9f63",
+  "text_sha256": "678a15cfcdd6c0fd2176fb58650575d6de5d903269407d3eb667b03cedb8af61",
+  "retrieved_at": "2026-10-25T15:47:14.528087+00:00"
+}

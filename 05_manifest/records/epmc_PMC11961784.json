@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11961784",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "We Gon' Be Alright: Examining Culturally Relevant Coping Strategies as Promotive Factors for Black Romantic Relationships.",
+  "authors": "Jenkins AIC, Rice TM, Smith SM, Barton AW, Beach SRH.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/famp.70027",
+  "pmcid": "PMC11961784",
+  "url": "https://europepmc.org/article/PMC/PMC11961784",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11961784/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "Given Black couples live in an environment pervaded by social stress that can compromise relationship integrity, romantic partners' use of effective coping resources is paramount to maintaining romantic relationship function. Culturally relevant coping (CRC) strategies-salient, contextually appropriate resources for Black Americans to deal with living in a racially hostile society-may directly promote relationship adjustment and relational resilience even in the face of racial stressors such as discriminatory encounters. John Henryism (JH; a high-effort coping strategy); and shift-and-persist coping (S&P coping; shifting focus and persisting for the future); are two notable CRC strategies but their relevance for Black couples' relationship functioning is unknown. Using cross-sectional, self-report data from 140 mixed-gender Black couples, we investigated the links between CRC strategies and relationship functioning (partner support; relationship conflict) within an actor-partner interdependence modeling framework; further, we examined the moderating role of racial discrimination in these linkages. Results showed that JH and S&P coping were both related to better relationship functioning for men and women. Unexpectedly, women's discrimination experiences were related to men's reports of lower partner support. Notably, S&P coping was related to less relationship conflict among women reporting less discrimination but not those reporting more discrimination, indicating that S&P coping's conflict-reducing effects may be diminished in the context of discrimination. Together, findings highlight the valuable role of CRC strategies in promoting relationship functioning for Black couples and the need to examine culturally informed coping in the context of racial stressors.",
+  "raw_path": "01_raw/europepmc_xml/PMC11961784.xml",
+  "text_path": "02_text/europepmc/PMC11961784.txt",
+  "raw_bytes": 156832,
+  "text_chars": 39588,
+  "raw_sha256": "29221808c84d58016336a1ab33b3849a6763327530208d5cf6ea6e3e169a103f",
+  "text_sha256": "30fe3b75379e2eea3852b654db470f6e85ac98cebb3b51c5ea15d2f3c7b22dca",
+  "retrieved_at": "2026-10-25T15:49:13.811965+00:00"
+}

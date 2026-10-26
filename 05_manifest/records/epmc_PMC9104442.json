@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9104442",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Displacement, Polygyny, Romantic Jealousy, and Intimate Partner Violence: A Qualitative Study among Somali Refugees in Ethiopia.",
+  "authors": "Abudulai F, Pichon M, Buller AM, Scott J, Sharma V.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3390/ijerph19095757",
+  "pmcid": "PMC9104442",
+  "url": "https://europepmc.org/article/PMC/PMC9104442",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9104442/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Romantic jealousy is a well-known relational driver of intimate partner violence (IPV), but is under-studied among displaced and polygynous populations. This study aimed to explore factors that elicit jealousy among Somali refugees in the Bokolmayo Refugee camp in Ethiopia, and the pathways leading from jealousy to IPV against women and men, to inform interventions. We conducted an exploratory, thematic analysis of 30 in-depth interviews with both women and men who were Somali refugees, as well as elders and religious leaders, organizational and service providers, policy makers, and host community members. We found that jealousy experienced by women was elicited by an unequal distribution of money and affection between co-wives, which was exacerbated by displacement-related economic hardship, and women in monogamous partnerships suspecting their husband of having other relationships. The jealousy experienced by men was elicited by their wives' increased financial independence and interactions with other men when working outside of the home, which became more common because of displacement-related economic hardship and relaxed patriarchal gender norms. IPV interventions should address jealousy and controlling behaviors in all relationship types. Addressing conflict and relationship dynamics in polygynous households and in humanitarian settings may require specialized content, acknowledging the complex interactions and resource allocation between co-wives. Gender-transformative interventions that move away from masculinities that are built on the provider role and the introduction of alternative masculinities could also be effective in reducing IPV in this and other similar contexts.",
+  "raw_path": "01_raw/europepmc_xml/PMC9104442.xml",
+  "text_path": "02_text/europepmc/PMC9104442.txt",
+  "raw_bytes": 112090,
+  "text_chars": 54892,
+  "raw_sha256": "bf547b4c84f2d7448cc3bf7d3916f2a3e95af03178d0e730b8141bb3d2283e9b",
+  "text_sha256": "904c87469b52e8668b53ea4a29ffc12f966497b2710ac562629c634423fcad58",
+  "retrieved_at": "2026-10-25T15:41:20.558705+00:00"
+}

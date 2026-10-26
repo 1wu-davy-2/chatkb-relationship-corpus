@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7744675",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Attraction of Synchrony: A Hip-Hop Dance Study.",
+  "authors": "Tang Poy C, Woolhouse MH.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2020.588935",
+  "pmcid": "PMC7744675",
+  "url": "https://europepmc.org/article/PMC/PMC7744675",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7744675/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "This study investigated an evolutionary-adaptive explanation for the cultural ubiquity of choreographed synchronous dance: that it evolved to increase interpersonal aesthetic appreciation and/or attractiveness. In turn, it is assumed that this may have facilitated social bonding and therefore procreation between individuals within larger groups. In this dual-dancer study, individuals performed fast or slow hip-hop choreography to fast-, medium-, or slow-tempo music; when paired laterally, this gave rise to split-screen video stimuli in which there were four basic categories of dancer and music synchrony: (1) synchronous dancers, synchronous music; (2) synchronous dancers, asynchronous music; (3) asynchronous dancers, one dancer synchronous with music; and (4) asynchronous dancers, asynchronous music. Participants' pupil dilations and aesthetic appreciation of the dancing were recorded for each video, with the expectation that these measures would covary with levels of synchronization. While results were largely consistent with the hypothesis, the findings also indicated that interpersonal aesthetic appreciation was driven by a hierarchy of synchrony between the dancers: stimuli in which only one dancer was synchronous with the music were rated lower than stimuli in which the dancers were asynchronous with each other and with the music; i.e., stimuli in which the dancers were unequal were judged less favorably than those in which the dancers were equal, albeit asynchronously. Stimuli in which all elements were synchronous, dancers and music, were rated highest and, in general, elicited greater pupil dilations.",
+  "raw_path": "01_raw/europepmc_xml/PMC7744675.xml",
+  "text_path": "02_text/europepmc/PMC7744675.txt",
+  "raw_bytes": 104227,
+  "text_chars": 45501,
+  "raw_sha256": "7fd14352f8810fbae6d72401231314a7d46be51d1ac3a5a732d2a6a9e3cd1ebd",
+  "text_sha256": "4724ceb8898d59d64cb144c1b1917b611f961a227523bb7f1f0136db354c49e7",
+  "retrieved_at": "2026-10-25T15:47:46.423989+00:00"
+}

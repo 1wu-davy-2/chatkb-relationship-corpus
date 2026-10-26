@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13125977",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Measuring Technology-Facilitated Sexual Violence and Abuse: Scoping Review of Existing Measures.",
+  "authors": "Pak SHL, Zhang L, Wu C, Chau PH, Bradbury-Jones C, Choi EPH.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.2196/90068",
+  "pmcid": "PMC13125977",
+  "url": "https://europepmc.org/article/PMC/PMC13125977",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13125977/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Background Technology-facilitated sexual violence and abuse (TFSVA) encompasses sexual harms perpetrated through digital means. Rapid developments in this field pose challenges in precisely defining and measuring TFSVA. Consequently, existing measures may fail to capture its multifaceted nature. Objective This scoping review aimed to map and appraise current knowledge on measures used to assess TFSVA, specifically to identify and summarize existing measures of TFSVA and its associated constructs, including victimization, perpetration, related attitudes, motivations, and impacts. Methods Following the Joanna Briggs Institute framework, we searched 10 English and Chinese databases (PubMed, Embase, CINAHL, Scopus, ProQuest, Web of Science, Chinese National Knowledge Infrastructure, SinoMed, Index to Taiwan Periodical Literature, and Ariti Library) from inception to January 13, 2026. We included peer-reviewed empirical studies focused on developing, adapting, or validating any TFSVA measures across populations and settings. Two independent reviewers screened records and extracted data. Data were analyzed using structural topic modeling (STM) and thematic analysis. Risk-of-bias assessment was not conducted, in accordance with scoping review methodology. Results Among the 319 included studies, 218 distinct measures were identified. The analysis revealed a fragmented and conceptually narrow measurement landscape. Most measures focused on specific subdomains, primarily nonconsensual sexting (130/218, 59.6%), with less attention to image-based sexual abuse (30/218, 13.8%), online sexual harassment (27/218, 12.4%), online grooming (13/218, 6.0%), and cyber sexual dating abuse (8/218, 3.7%). Nearly half (108/218, 49.5%) assessed both victimization and perpetration, while 96 out of 218 (44.0%) focused solely on victimization, 12 out of 218 (5.5%) on perpetration, 1 out of 218 (0.5%) on the bystander perspective, and the remaining 1 out of 218 (0.5%) addressed all aspects. The vast majority (199/218, 91.3%) measured behaviors, whereas attitudes, motivations, and impacts were rarely assessed. STM identified 9 key topics, synthesized into 3 core dimensions: consent violation and coercive control; status degradation and demeaning harassment; and contextual and relational framing. Thematic analysis highlighted 5 themes: TFSVA acts, attitudes and beliefs, motivational factors, tactical and contextual dynamics, and survivor impact. Integrating these findings reveals a fundamental conceptual misalignment between existing measures and the full scope of TFSVA. Conclusions This first comprehensive synthesis of existing TFSVA measures innovatively integrates STM and thematic analysis. While the absence of a risk-of-bias assessment precludes definitive conclusions regarding measurement robustness, this review moves beyond a descriptive catalog to identify substantive gaps within TFSVA-specific measures, most notably the omission of artificial intelligence-facilitated tactics, intersectional vulnerabilities, and institutional factors. These findings provide an empirical basis for developing robust, culturally sensitive measures essential for targeted research, effective policy, and responsive social support services in a rapidly evolving digital landscape. Trial registration Open Science Framework 10.17605/OSF.IO/Q5ETW; https://doi.org/10.17605/OSF.IO/Q5ETW.",
+  "raw_path": "01_raw/europepmc_xml/PMC13125977.xml",
+  "text_path": "02_text/europepmc/PMC13125977.txt",
+  "raw_bytes": 159605,
+  "text_chars": 64029,
+  "raw_sha256": "f8108403850eee138adb64a9b1628cd56ebf96af4f377bbe0934a0b2abc2af41",
+  "text_sha256": "a48273e829bc8a1847492bedfa5c73376ea77a7b7d84bdfd5cd39a4bfbb16514",
+  "retrieved_at": "2026-10-26T13:08:39.995886+00:00"
+}

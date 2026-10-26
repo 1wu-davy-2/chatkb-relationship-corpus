@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10050916",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Gustatory polymorphism mediates a new adaptive courtship strategy.",
+  "authors": "Wada-Katsumata A, Hatano E, Schal C.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1098/rspb.2022.2337",
+  "pmcid": "PMC10050916",
+  "url": "https://europepmc.org/article/PMC/PMC10050916",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10050916/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "Human-imposed selection can lead to adaptive changes in sensory traits. However, rapid evolution of the sensory system can interfere with other behaviours, and animals must overcome such sensory conflicts. In response to intense selection by insecticide baits that contain glucose, German cockroaches evolved glucose-aversion (GA), which confers behavioural resistance against baits. During courtship the male offers the female a nuptial gift that contains maltose, which expediates copulation. However, the female's saliva rapidly hydrolyses maltose into glucose, which causes GA females to dismount the courting male, thus reducing their mating success. Comparative analysis revealed two adaptive traits in GA males. They produce more maltotriose, which is more resilient to salivary glucosidases, and they initiate copulation faster than wild-type males, before GA females interrupt their nuptial feeding and dismount the male. Recombinant lines of the two strains showed that the two emergent traits of GA males were not genetically associated with the GA trait. Results suggest that the two courtship traits emerged in response to the altered sexual behaviour of GA females and independently of the male's GA trait. Although rapid adaptive evolution generates sexual mismatches that lower fitness, compensatory behavioural evolution can correct these sensory discrepancies.",
+  "raw_path": "01_raw/europepmc_xml/PMC10050916.xml",
+  "text_path": "02_text/europepmc/PMC10050916.txt",
+  "raw_bytes": 102488,
+  "text_chars": 44118,
+  "raw_sha256": "ae2dd1755a5c14ea39b86774a8c484d9ffe14922f84d2caec7e4937b18b0dd7c",
+  "text_sha256": "b16e951f8f1394eaa33fc54c01c9469b956e45a18e29340e8099e588139fd486",
+  "retrieved_at": "2026-10-25T15:43:19.022741+00:00"
+}

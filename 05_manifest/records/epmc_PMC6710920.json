@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6710920",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "TCS is to Blame: The Impact of Divorce on Physical and Mental Health.",
+  "authors": "Zineldin M.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.4103/ijpvm.ijpvm_472_18",
+  "pmcid": "PMC6710920",
+  "url": "https://europepmc.org/article/PMC/PMC6710920",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6710920/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Background Divorce rate reaches up to 50-70%. Indisputably divorce recently became one of the most epidemic factors negatively influencing humans' health whereas its impact on the involved couples and their children is serious and sometimes fatal. The article presents the results of a research study to analyze the most critical grounds for divorce leading to negative health-related consequences. Method This research adopts a cross-sectional study design with a quantitative approach based on the data from 195 surveyed respondents. A structured questionnaire covering multiple constructs was used to collect and analyze the data. Results This study found that the most critical causes of the marriage failure are the lack of trust, commitment and communication, sensuality and sexuality (TCS) as they lead to declining of the marginal utility (DMU). These factors not only lead to divorce, but also increase the probability of facing different diseases such as depression, aggression, increasing levels of neuroendocrine, epinephrine and norepinephrine as well as conflict ACTH levels. The regression model shows that communication (C) was the most significant outcome in relation to the MU = 0.45 and P P P Conclusions The marginal utility (MU) is directly and positively affected by TCS. The study suggests that lack of MU, lack of intimacy, sensual, and sexual components can lead to frustration, annoyance, anxiety and relationship failure.",
+  "raw_path": "01_raw/europepmc_xml/PMC6710920.xml",
+  "text_path": "02_text/europepmc/PMC6710920.txt",
+  "raw_bytes": 45777,
+  "text_chars": 13794,
+  "raw_sha256": "2ad7df4426dcb44c9ced29ee4bae6e4bb9bf73e0e03920d31aeacfaba52b4b4c",
+  "text_sha256": "5c33bcee1b747a2bb946a69d626ca255e41f4d817d66e00a0cabe0ee9328fc47",
+  "retrieved_at": "2026-10-25T15:42:42.030755+00:00"
+}

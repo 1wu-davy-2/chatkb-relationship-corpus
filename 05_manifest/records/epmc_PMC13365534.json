@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13365534",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Emotion regulation and resilience in the relationship between gaslighting and mental well-being among Turkish young adults.",
+  "authors": "Kaya MD, Venkatachalam K, Cho J, Kaya F.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1038/s41598-026-54746-z",
+  "pmcid": "PMC13365534",
+  "url": "https://europepmc.org/article/PMC/PMC13365534",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13365534/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "The aim of this study is to examine the predictive relationship with gaslighting exposure on psychological well-being among Turkish young adults and to test the roles of emotion regulation and psychological resilience as mediating psychological mechanisms in this relationship. The sample of the study consists of 336 individuals over the age of 18 living in Turkey who have experienced romantic relationships. The study utilized the personal information form, the Emotion Regulation Questionnaire (ERQ), the Gaslighting Relationship Exposure Inventory (GREI), the Brief Resilience Scale (BRS), and the Warwick-Edinburgh Mental Well-being Scale (WEMWBS) scales. Data were collected through online forms using convenience sampling. Pearson correlation analysis was used to determine the relationships between the variables in the study, and regression-based mediation analysis (Process macro model 80) was used to test the mediation model tested in the study. When the findings were examined, it was determined that there was a positive and statistically significant relationship between gaslighting exposure and suppression (r = .170, p = .002). On the other hand, negative and statistically significant relationships were observed between gaslighting exposure and reappraisal (r = -.272, p < .001), resilience (r = -.208, p < .001), and well-being (r = -.413, p < .001). The mediation analysis, tested with 10,000 bootstrap resamples at a 95% confidence interval, revealed that emotion regulation dimensions and psychological resilience have a partial mediating effect. The findings show that exposure to gaslighting weakens psychological well-being not only directly but also indirectly through emotion regulation and psychological resilience. Considering these findings, it was concluded that the psychological well-being of individuals exposed to gaslighting should be supported not only through awareness programs but also through emotion regulation and psychological resilience skills.",
+  "raw_path": "01_raw/europepmc_xml/PMC13365534.xml",
+  "text_path": "02_text/europepmc/PMC13365534.txt",
+  "raw_bytes": 208295,
+  "text_chars": 56583,
+  "raw_sha256": "0b7fc6ae2224ceae30f6b67cf19763d682eced30d4de5aa366999d1fbe007da1",
+  "text_sha256": "38b5a1834e1d8e3e284c3ff8c32c4bbfb970beb11b03684dcbe0bd3f8c74abdc",
+  "retrieved_at": "2026-10-25T13:49:30.405510+00:00"
+}

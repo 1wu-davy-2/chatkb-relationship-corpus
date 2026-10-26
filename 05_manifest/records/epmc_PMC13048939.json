@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC13048939",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "How Do People Maintain Consensual Non-Monogamy? An International Development and Validation of the Multiple Relationships Maintenance Scale.",
+  "authors": "Mogilski JK, Miller GF, Jonason PK, Grunt-Mejer K, Varella Valentova J, Balzarini R, Rodrigues DL, Sheff E, Al-Shawaf L, Csajbók Z, Thomas AG, David-Barrett T, Giosan C, Kruger DJ, Ley DJ, Lehmiller JJ, Schechinger HA, Moors AC, Ciaffoni S, Kennair LEO, Whyte S, Štěrbová Z, Bártová K, Witherspoon RG, Żemojtel-Piotrowska M, Prokop P, Zeigler-Hill V, Schmitt DP, Sarıbay AS, Lipnicka M, Goláňová I, Hampikian E, Costello W, Gottlieb L, Cascalheira CJ, Larva MA.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s10508-025-03334-9",
+  "pmcid": "PMC13048939",
+  "url": "https://europepmc.org/article/PMC/PMC13048939",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13048939/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy",
+    "sexual_satisfaction"
+  ],
+  "abstract": "Maintaining multiple intimate relationships entails some risks and complications beyond exclusive pair bonding (i.e., monogamy). Consensual non-monogamy (CNM; e.g., polyamory, swinging, or open relationships) allegedly reduces these risks and complications, but no one has tried to comprehensively document typical CNM risk management practices, nor analyzed the relationship outcomes of those who use these practices. We developed the Multiple Relationships Maintenance Scale (MRMS) to examine how engagement in common CNM practices predicts relationship quality among people with one or more partners. In Study 1, a community sample of people with CNM experience (N = 429) nominated the best practices for maintaining CNM. Responses were combined with theory-derived practices to create the MRMS. In Study 2, we administered the MRMS in three international online surveys (N = 4,290) to assess factor structure and construct validity. Factor analysis revealed nine practices: disclosure of one's extra-pair attractions to a partner, open communication about jealousy, compersion, willingness to care for unrelated children, shared extra-pair sexual experiences, partner (non)hierarchy, sexual health maintenance, thoughtful resource distribution among partners, and reputation management. Data from one of the three surveys (n = 871) showed that each practice had distinctive patterns of association with previous CNM experience, relationship and sexual satisfaction, partner investment and interdependence, and self-reported infidelity (i.e., how often extra-pair interactions feel to violate an existing relationship's agreements). We discuss how the MRMS may be used to study how people in CNM relationships maintain multiple intimate relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC13048939.xml",
+  "text_path": "02_text/europepmc/PMC13048939.txt",
+  "raw_bytes": 437687,
+  "text_chars": 99002,
+  "raw_sha256": "1fd39dc483503eae35c936bf4dcabb2fdfc821d26f47c87ee357cd4dd6d69a0d",
+  "text_sha256": "b345c47aefb75eba62a342450f949dfd28b4e5064543af1aa54cb2c710566dad",
+  "retrieved_at": "2026-10-25T15:42:08.814546+00:00"
+}

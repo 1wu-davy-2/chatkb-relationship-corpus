@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11551419",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Aligning the smiles of dating dyads causally increases attraction.",
+  "authors": "Arias-Sarah P, Bedoya D, Daube C, Aucouturier JJ, Hall L, Johansson P.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1073/pnas.2400369121",
+  "pmcid": "PMC11551419",
+  "url": "https://europepmc.org/article/PMC/PMC11551419",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11551419/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Social interaction research is lacking an experimental paradigm enabling researchers to make causal inferences in free social interactions. For instance, the expressive signals that causally modulate the emergence of romantic attraction during interactions remain unknown. To disentangle causality in the wealth of covarying factors that govern social interactions, we developed an open-source video-conference platform enabling researchers to covertly manipulate the social signals produced by participants during interactions. Using this platform, we performed a speed-dating experiment where we aligned or misaligned the facial smiles of participants in real time with face transformation algorithms. Even though participants remained totally unaware that their faces were being manipulated, aligning their smiles causally enhanced the romantic attraction they felt toward each other, compared to unaligned scenarios. Manipulations also influenced how participants synchronized and vocally reacted to each other. This paradigm causally manipulates the emergence of romantic attraction in free social interactions. Moreover, our methodology opens the possibility to perform causal inferences during free social interactions.",
+  "raw_path": "01_raw/europepmc_xml/PMC11551419.xml",
+  "text_path": "02_text/europepmc/PMC11551419.txt",
+  "raw_bytes": 130417,
+  "text_chars": 49891,
+  "raw_sha256": "44a2c40105cb4293f7e9a6ec150349ca81bbea4b044d87983027dcf76c6c17a6",
+  "text_sha256": "4ccaec4e08e2a76cc26120d0d78ccbb20c468b10fe92ace7ce02c54c160fd1db",
+  "retrieved_at": "2026-10-25T13:51:22.950076+00:00"
+}

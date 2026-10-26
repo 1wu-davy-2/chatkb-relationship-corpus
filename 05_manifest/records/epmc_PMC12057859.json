@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12057859",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Spectrum of sexual partner types among adults screened for sexually transmitted infections in the Eastern Cape, South Africa.",
+  "authors": "de Vos L, Mdingi MMM, Gigi RMS, Gebengu A, Peters RPH.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0323414",
+  "pmcid": "PMC12057859",
+  "url": "https://europepmc.org/article/PMC/PMC12057859",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12057859/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "In South Africa, Chlamydia trachomatis prevalence is 14.7% in women and 6.6% in men, while Neisseria gonorrhoeae rates are 6.0% and 3.4%. Partner management, including identifying and screening for STIs, is essential for STI control efforts but challenging due to relationship dynamics, fear of disclosure and stigma. This study aims to understand how adults in the Eastern Cape report partner types when seeking STI care, enhancing partner notification strategies and reducing transmission. From February-August 2023, a cross-sectional evaluation of a Neisseria gonorrhoeae lateral flow assay was conducted among asymptomatic adults aged 18-49 years at four primary healthcare facilities in Buffalo City, Eastern Cape. Participants completed surveys classifying partners into LUSTRUM team's 8 partner types and 5 type-classifications. Data were analyzed using StataSE 17, examining associations between partner types and variables like gender, location, number of sexual partners, and STI test results. A total of 500 men and 400 women (median ages 31 and 32) were recruited. The most reported partner types were main/serious/long-term partners (41%) and girlfriend/boyfriend (29%) or LUSTRUM's 4: established (67%) and occasional partners (28%). Participants reporting main/long-term partners, steady, or boyfriend/girlfriend showed variability in partner numbers. Male adults more commonly reported casual partner types like friends with benefits (21% vs. 9%) and fuck buddy/booty call (9% vs. 3%), with significant associations for super casual/hook-up/meet/one-night stand (p = 0.02). Regional differences in partner types and a significant association between new partners and NG Xpert positivity (p = 0.01) were observed. This study confirms the diverse spectrum of sexual partner types. Findings reveal that men and women may have different relationships, and regional variations suggest context-specific approaches are needed. Identifying partner types can enhance communication and treatment strategies and address significant gaps in partner notification and STI care.",
+  "raw_path": "01_raw/europepmc_xml/PMC12057859.xml",
+  "text_path": "02_text/europepmc/PMC12057859.txt",
+  "raw_bytes": 144916,
+  "text_chars": 25123,
+  "raw_sha256": "0c1b26270a08d6e406c2dd2b0cece63a5339252936a14e65af48ad55d111c4e3",
+  "text_sha256": "b77bcdb9926ddf495481b711bf8af10863829303c98e0563e488c418f7665a83",
+  "retrieved_at": "2026-10-26T13:09:19.868412+00:00"
+}

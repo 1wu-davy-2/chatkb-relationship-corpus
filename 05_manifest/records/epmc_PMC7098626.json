@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7098626",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Trust Game for Couples (TGC): A new standardized paradigm to assess trust in romantic relationships.",
+  "authors": "Kleinert T, Schiller B, Fischbacher U, Grigutsch LA, Koranyi N, Rothermund K, Heinrichs M.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0230776",
+  "pmcid": "PMC7098626",
+  "url": "https://europepmc.org/article/PMC/PMC7098626",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7098626/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Trust between couples is a prerequisite for stable and satisfactory romantic relationships. However, there has been no valid research tool to assess partner-specific trust behavior including costly investments in the trustworthiness of the romantic partner. We here present a comprehensive validation of the newly developed Trust Game for Couples (TGC) by means of various self-report and implicit relationship-related measures. The TGC operationalizes trust by measuring an individual's willingness to invest his or her own financial resources in pro-relationship attitudes of their romantic partner (collected by dichotomous responses to relationship-relevant items, e.g., answering yes to \"I am absolutely sure that I love my partner\"). Thirty-five healthy couples between 20 and 34 years completed the TGC in an interactive (both partners present), but anonymous setting (no information on the partner's responses revealed). Trust, as measured by the TGC, correlates positively with self-reported trust, satisfaction, and felt closeness in the relationship, but not with general interpersonal trust, confirming both its convergent and discriminant validity. In addition to explicit criteria for construct validity, implicit measures of partner valence and confidence explained variance in the TGC, demonstrating that it constitutes an economical measure of implicit and explicit ingredients of trust between couples. In sum, the TGC provides a novel, specific behavioral tool for a sensitive assessment of trust in dyadic relationships with potential for numerous research fields.",
+  "raw_path": "01_raw/europepmc_xml/PMC7098626.xml",
+  "text_path": "02_text/europepmc/PMC7098626.txt",
+  "raw_bytes": 137851,
+  "text_chars": 55931,
+  "raw_sha256": "1a7845c3e31fedf97f578f9df5f8b3a720a49007f41d7ac1e113b0302d57f5b5",
+  "text_sha256": "a09e8ece895ddacadb026a1a4b8c52e795d4ad38b5b1e72708bdb9bb4074e538",
+  "retrieved_at": "2026-10-25T15:35:01.524070+00:00"
+}

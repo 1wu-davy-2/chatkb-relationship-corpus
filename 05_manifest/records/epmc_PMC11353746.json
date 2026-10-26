@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11353746",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Changes in Spousal Intimacy in Women Suffering Trauma Symptoms from Domestic Abuse: A Culturally Embedded Intervention Study in Pakistan.",
+  "authors": "Rowland DL, Kamran Ehsan M, Cooper SE.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/ijerph21081045",
+  "pmcid": "PMC11353746",
+  "url": "https://europepmc.org/article/PMC/PMC11353746",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11353746/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "While emerging research is highlighting the significant effects of culture on marital and family relationships, studies investigating relationship intimacy and abuse in non-Western cultures are non-existent. This investigation assessed relationship intimacy in Pakistani women experiencing trauma symptoms (PTSD) from domestic abuse (DA) who received a culturally informed trauma intervention in a context that differs greatly in values and assumptions about marital relationships relative to Western traditions. Forty women meeting inclusion criteria were assessed on domestic violence type and characteristics (both victim and perpetrator characteristics), PTSD symptomology, and three aspects of relationship intimacy: engagement, communication, and shared friendships. PTSD symptomology and relationship intimacy were reassessed post-intervention. Results indicated significant changes in engagement and communication intimacy following the intervention, with engagement decreasing and communication increasing. The third aspect of intimacy, namely, shared friendships, showed no change. Engagement and overall intimacy showed significant negative correlations with physical abuse, though not with sexual or psychological/emotional abuse. These findings are interpreted within a cultural context where women have few options for leaving an abusive relationship. As such, the results highlight the importance of culture when studying facets of intimate relationships and the need to use culturally informed assessments to better understand the experience of intimacy within abusive relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC11353746.xml",
+  "text_path": "02_text/europepmc/PMC11353746.txt",
+  "raw_bytes": 177904,
+  "text_chars": 53200,
+  "raw_sha256": "60cbdd3b6d4c5fb5ebd943cb4dabf02689066253da087b65767c204bdfbf57b6",
+  "text_sha256": "c363221f50c67c47322024f149976164b76c73fdc39890e6cf7fb72777a54bf0",
+  "retrieved_at": "2026-10-25T15:47:26.892069+00:00"
+}

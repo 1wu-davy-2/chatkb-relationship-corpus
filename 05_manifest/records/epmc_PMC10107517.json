@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10107517",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Obsessional jealousy in a community sample: Association with relationship factors, impairment and perceived treatment needs.",
+  "authors": "Ahlen J, Bjureberg J, Lenhard F, Wahlund T, Linde J, Mataix-Cols D.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1111/bjc.12409",
+  "pmcid": "PMC10107517",
+  "url": "https://europepmc.org/article/PMC/PMC10107517",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10107517/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Objectives Romantic jealousy could be understood as a continuum, from reality-based, transient and functional jealousy to a more chronic form of jealousy with varying insight, intensity and duration. The latter has some overlaps with obsessive-compulsive disorder (here termed obsessional jealousy). Little is known about the nature of obsessional jealousy and its association with functional impairment, perceived negative consequences (drinking, violence), current and past relationship factors (e.g., length of relationship, being in love, infidelity, previous jealousy) or perceived need for professional support. Methods Participants were 1076 adults (55% women) who filled in an anonymous survey. Results Obsessional jealousy, measured with the Obsessional Jealousy Severity Scale, was strongly associated with functional impairment and verbal violence, and more weakly with physical violence and alcohol consumption. Individuals with a history of previous jealousy had more severe symptoms and were more likely to perceive the need for psychological support. Approximately 25% of the sample expressed interest in treatment. Conclusions The results suggest that there is a group of individuals with impairing levels of obsessional jealousy who have a perceived need for help with their difficulties. More research is needed on the prevalence and clinical characteristics of these individuals. The development of jealousy-specific psychological models and treatments is warranted.",
+  "raw_path": "01_raw/europepmc_xml/PMC10107517.xml",
+  "text_path": "02_text/europepmc/PMC10107517.txt",
+  "raw_bytes": 95346,
+  "text_chars": 28092,
+  "raw_sha256": "e0d0f9d15859212b23c621ab5eb05c0b1d020af668eb89238f81c21df008b130",
+  "text_sha256": "e69b91a4b2fdba3f033dd32d5f3613b0019cceab699395ccb3c6ad52b4788752",
+  "retrieved_at": "2026-10-25T15:37:44.388473+00:00"
+}

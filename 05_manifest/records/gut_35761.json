@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_35761",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "The Man Who Pleases and the Woman Who Charms",
+  "gutenberg_id": "35761",
+  "url": "https://www.gutenberg.org/ebooks/35761",
+  "download_url": "https://www.gutenberg.org/cache/epub/35761/pg35761.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/35761.txt",
+  "text_path": "02_text/gutenberg/gut_35761_the_man_who_pleases_and_the_woman_who_ch.txt",
+  "raw_bytes": 184848,
+  "text_chars": 155093,
+  "text_sha256": "453e4b8e88e77e83ceb8ce9cfacca2701e990fbe086e684244c74fffcc4371fe",
+  "retrieved_at": "2026-10-25T15:55:13.351945+00:00"
+}

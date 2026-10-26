@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8449894",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship sabotage scale: an evaluation of factor analyses and constructive validity.",
+  "authors": "Peel R, Caltabiano N.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1186/s40359-021-00644-0",
+  "pmcid": "PMC8449894",
+  "url": "https://europepmc.org/article/PMC/PMC8449894",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8449894/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Background Some individuals are no longer entering romantic relationships, others move through relationships too quickly searching for \"the one\" and making quick assessments of their romantic partners, while others stay in their relationships but \"check out\" or do not work on their issues. These are conclusions from two studies: (1) an interview with psychologists who specialise in relationship therapy, and (2) an analysis of individuals' lived experiences of relationships. The concept of relationship sabotage can explain these phenomena. However, presently, there is no instrument to conceptualise and empirically measure how people continue to employ self-defeating attitudes and behaviors in (and out) of relationships to impede success, or withdraw effort, and justify failure. Methods and results A series of three studies (involving a total of 1365 English speaking individuals of diverse gender orientation, sexual orientation, and cultural background, with relationship sabotage experience) were conceptualized for the current project to fill the need for scale development and to build empirical evidence on the topic of self-sabotage in romantic relationships. The scale was developed over two studies using exploratory factor analysis and one-congeneric model analyses. The third study, using confirmatory factor analysis, confirmed the final structure for the Relationship Sabotage Scale (RSS), which contains 12 items and three factors: defensiveness, trust difficulty, and lack of relationship skills. Constructive validity analyses were also conducted. Conclusion The RSS is a brief scale that provides conclusive information about individual patterns in relationships. Findings using this scale can offer explanations regarding the reasons that individuals engage in destructive behaviours from one relationship to the next. Investigations should continue to test a model for sabotage in romantic relationships using the developed scale and other factors such as relationship diferences and insecure attachment. More specifically, this measure can be used to understand mediator constructs of relational outcomes within the attachment framework to explain relationship dissolution and work towards relationship maintenance.",
+  "raw_path": "01_raw/europepmc_xml/PMC8449894.xml",
+  "text_path": "02_text/europepmc/PMC8449894.txt",
+  "raw_bytes": 168302,
+  "text_chars": 71912,
+  "raw_sha256": "c7def175903ad3265886d72ca9409681d869e95b68d0e4ef05712c4dc85f824c",
+  "text_sha256": "2dcfd44faea6d0f44a97ba7a820060457836679cdd573459ad11050a2901f3cb",
+  "retrieved_at": "2026-10-25T15:37:31.816955+00:00"
+}

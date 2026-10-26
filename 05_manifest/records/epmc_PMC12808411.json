@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12808411",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Digital dating engagement among young users: gender differences in Tinder use motivations and associations with sexual desire but not self-esteem.",
+  "authors": "Morlat PV, Limniou M, Alison L.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1659760",
+  "pmcid": "PMC12808411",
+  "url": "https://europepmc.org/article/PMC/PMC12808411",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12808411/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_esteem",
+    "sexual_satisfaction"
+  ],
+  "abstract": "Introduction With over 60 million active users worldwide, Tinder is one of the most widely used dating applications. While previous research has associated Tinder use with lower self-esteem, findings have been inconsistent, and little is known about how Tinder use directly relates to sexual desire or the specific motivations that drive young users to use the application. Materials and methods The study examined the relationships between Tinder use, user motivations, gender identity, sexual desire, and self-esteem among 305 participants aged 18-30. Participants were categorized as high, medium, or low Tinder users and completed an online survey including the Rosenberg Self-Esteem Scale, the Sexual Drive Inventory-2, and demographic questions. Results A X ² test of independence revealed significant gender differences in Tinder use motivations ( p p p p = 0.92). Conclusion These findings highlight sexual desire and relational motivations as central components of Tinder engagement among young adults. The absence of a significant link with self-esteem challenges prior assumptions and underlines the need for more nuanced, longitudinal research. By clarifying behavioral patterns and psychological correlates of dating application use, this study contributes to the growing field of digital relationship research. It also offers insights relevant to mental health support, user education, and platform design.",
+  "raw_path": "01_raw/europepmc_xml/PMC12808411.xml",
+  "text_path": "02_text/europepmc/PMC12808411.txt",
+  "raw_bytes": 98938,
+  "text_chars": 31879,
+  "raw_sha256": "3d28c52bcf5b9caf3cf7a5c6f75fe57e65f32e02e0c8c5d42df13e1f0f12ff5e",
+  "text_sha256": "6e83f9a8ee43a3381e730f20fa9403843b9512e5ce4e8aa1ff332a2e99d90881",
+  "retrieved_at": "2026-10-25T15:30:17.818956+00:00"
+}

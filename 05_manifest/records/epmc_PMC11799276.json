@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11799276",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Does the therapeutic alliance process explain the results of the Egokitzen post-divorce intervention program?",
+  "authors": "Alvarez I, Herrero M, Martínez-Pampliega A.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2024.1419968",
+  "pmcid": "PMC11799276",
+  "url": "https://europepmc.org/article/PMC/PMC11799276",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11799276/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Objective The objective of this study was to explain the relationship between therapeutic alliance and the changes observed in the parents' psychological symptomatology after participation in the Egokitzen program, analyzing the mediating role of emotion regulation. Methods The study involved 117 divorced parents and 40 therapists. Results It has been observed that the early development and maintenance of the therapeutic alliance influence the parents' psychological symptomatology after the intervention, through emotion regulation. Conclusion The study reinforce the role of the therapeutic alliance as a determining factor in the success of group interventions. This effect has turned out to be indirect through emotion regulation, highlighting the importance of emotional management.",
+  "raw_path": "01_raw/europepmc_xml/PMC11799276.xml",
+  "text_path": "02_text/europepmc/PMC11799276.txt",
+  "raw_bytes": 106015,
+  "text_chars": 26368,
+  "raw_sha256": "404117c6a7f73636c972772a54b4bf37c44f0b3632f990073e0773adb8a8a28d",
+  "text_sha256": "ad9ddb20f25d1d127d8b22cfaa86f37abc0f1864ac8951cf6e537d8050c41e3d",
+  "retrieved_at": "2026-10-25T15:42:43.871292+00:00"
+}

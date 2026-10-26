@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12302685",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "'They were just enjoying love and she was making money': A qualitative analysis of UN peacekeeper sexual interactions in the Democratic Republic of Congo.",
+  "authors": "Gray S, Lusamba S, Stuart H, Lee S, Bartels SA.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s13031-025-00693-x",
+  "pmcid": "PMC12302685",
+  "url": "https://europepmc.org/article/PMC/PMC12302685",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12302685/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Background Peacekeeper-perpetrated sexual exploitation and abuse (SEA) is widespread. While the United Nation's (UN) zero-tolerance policy prohibits all exploitative and abusive peacekeeper sexual interactions with host community members, its implementation has been criticized for failing to recognize women's agency and survival needs by oversimplifying the complex and dynamic romantic and transactional elements. This study aims to demonstrate that not all sexual interactions between peacekeepers and host community members are equally exploitative or abusive. Methods The Democratic Republic of Congo (DRC) was chosen for this study due to its longstanding history of UN peacekeeping operations, documented cases of peacekeeper-perpetrated SEA, and socio-economic and gendered inequalities that contribute to transactional and coercive sexual interactions. To provide evidence that not all sexual interactions between peacekeepers and host community members are equally exploitative and/or abusive and to better understand how local community members perceive these sexual interactions at the intersection of romance and mutually beneficial transactions, we analysed micro-narrative data (n = 1822) from the eastern DRC. Results Four prominent types of sexual interactions were identified: romantic, transactional sex, sex work, and sexual assault/harassment. The characteristics of the interactions highlighted the influence of structural factors, economic need, and gendered power. Community perceptions around initiation, intermediaries, and beneficiaries varied and were, by construct, at odds with the UN's conceptualization of sexual interactions between their staff and beneficiaries as exploitative and/or abusive due to the power dynamics inherent in such relationships. Conclusions The zero-tolerance policy fails to recognize the nuanced range of diverse and dynamic sexual interactions between UN peacekeepers and host community members in the DRC. It is recommended that SEA reporting measures be reconfigured in light of this complexity, and we suggest a non-binary method of measuring the degree of exploitation and abuse. Accepting that sexual interactions between host community members and UN peacekeepers represent varying levels of exploitation and abuse may improve interventions to better prevent and address peacekeeper-perpetrated SEA.",
+  "raw_path": "01_raw/europepmc_xml/PMC12302685.xml",
+  "text_path": "02_text/europepmc/PMC12302685.txt",
+  "raw_bytes": 137752,
+  "text_chars": 71148,
+  "raw_sha256": "ea09cdf834219701efbddb3adda82333c064931fefd68d08cacf3af96bc81c43",
+  "text_sha256": "5d7f4d3f7dd939e05ff22e68c6bcf755a46e455b37632feb109a658e653952f8",
+  "retrieved_at": "2026-10-25T13:58:55.591488+00:00"
+}

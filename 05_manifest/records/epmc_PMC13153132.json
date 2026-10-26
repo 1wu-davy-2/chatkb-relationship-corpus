@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13153132",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Adult attachment and intimate relationship satisfaction among university students: the chain mediating roles of appreciation and sense of giving.",
+  "authors": "Zhu M, Tan J, Zheng Z, Liang L, Li Q, Wen J, Wang Z, Zhang A, Wu G, Liu J, Shu Y.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2026.1758775",
+  "pmcid": "PMC13153132",
+  "url": "https://europepmc.org/article/PMC/PMC13153132",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13153132/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "Background Satisfying intimate relationships are fundamental to young adults' psychological well-being. Although adult attachment theory provides a robust framework for understanding relationship quality, the mechanisms linking higher attachment anxiety and avoidance to lower relationship satisfaction remain underexplored. This study tested a chain mediation model in which appreciation (both expressed and felt) and sense of giving sequentially mediate the link between insecure attachment and relationship satisfaction. Methods A cross-sectional survey was conducted with 536 university students (mean age = 21.67 years; 55.8% female) currently in romantic relationships. Participants completed validated self-report questionnaires assessing higher attachment avoidance and anxiety, appreciation (appreciating one's partner and feeling appreciated), sense of giving, and relationship satisfaction. Chain mediation analyses were performed using the SPSS PROCESS macro with 5,000 bootstrap resamples to evaluate the significance of indirect effects. Results Attachment significantly and negatively predicted relationship satisfaction. In the first chain mediation model, higher levels of both attachment avoidance and anxiety were negatively associated with appreciation of one's partner. Appreciation, in turn, was positively associated with a greater sense of giving, which was subsequently linked to higher relationship satisfaction. After controlling for demographic and relational covariates, the key findings remained robust. The sequential indirect effect (Attachment → Appreciating → Giving → Satisfaction) was significant for both higher attachment avoidance (effect = -0.17, 95% CI [-0.22, -0.14]) and anxiety (effect = -0.07, 95% CI [-0.10, -0.03]). Similarly, the sequential indirect effect through feeling appreciated (Attachment → Feeling Appreciated → Giving → Satisfaction) was significant for both higher avoidance (effect = -0.10, 95% CI [-0.14, -0.07]) and anxiety (effect = -0.09, 95% CI [-0.12, -0.06]). Conclusion Insecure attachment was negatively associated with intimate relationship satisfaction through a sequential pathway involving appreciation and sense of giving. These cross-sectional findings suggest that appreciation processes may represent a promising intervention target. Clinical or preventive strategies enhancing the expression and perception of appreciation could potentially improve relationship satisfaction among young adults with insecure attachment orientations.",
+  "raw_path": "01_raw/europepmc_xml/PMC13153132.xml",
+  "text_path": "02_text/europepmc/PMC13153132.txt",
+  "raw_bytes": 166913,
+  "text_chars": 39884,
+  "raw_sha256": "7ac818c75a24bb5ae6af8e765e34038068c162dd8f84932c2cc3042ce0f1a028",
+  "text_sha256": "96b5d82b57da6ee95aaa9e49975fc0713f784f6529453c03feb558fbed367703",
+  "retrieved_at": "2026-10-25T13:51:01.547717+00:00"
+}

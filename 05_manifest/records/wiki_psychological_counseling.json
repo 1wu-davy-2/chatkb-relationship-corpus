@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_psychological_counseling",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "諮商心理學",
+  "requested_title": "心理咨询",
+  "url": "https://zh.wikipedia.org/wiki/%E8%AB%AE%E5%95%86%E5%BF%83%E7%90%86%E5%AD%B8",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "mental_health",
+    "help"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/psychological_counseling.json",
+  "text_path": "02_text/zh_wikipedia/psychological_counseling.txt",
+  "raw_bytes": 1755,
+  "text_chars": 689,
+  "text_sha256": "92c9e300a90301e85e4b67cd3ca945886c6693771a6db5736ef8789809783301",
+  "retrieved_at": "2026-10-25T15:33:07.517942+00:00"
+}

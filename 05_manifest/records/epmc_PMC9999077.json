@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9999077",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "People with higher relationship satisfaction use more humor, valuing, and receptive listening to regulate their partners' emotions.",
+  "authors": "Walker SA, Pinkus RT, Olderbak S, MacCann C.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1007/s12144-023-04432-4",
+  "pmcid": "PMC9999077",
+  "url": "https://europepmc.org/article/PMC/PMC9999077",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9999077/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "humor_playfulness"
+  ],
+  "abstract": "The emotional experiences you have with a romantic partner shape how satisfied you are in your relationship. Engaging in attempts to make a romantic partner feel better is linked with better relationship outcomes. However, it is not yet clear which specific processes people use to regulate their partners' emotions, nor which processes are most strongly linked with relationship satisfaction. In the current study of 277 individuals (55% female), we tested the extent to which eight extrinsic emotion regulation processes (expressive suppression, downward social comparison, humor, distraction, direct action, reappraisal, receptive listening, and valuing) predict relationship satisfaction. Six of the eight processes showed significant positive correlations with relationship satisfaction, with the strongest associations for valuing ( r = .43), humor ( r = .33), and receptive listening ( r = .27). Relative weights were significant only for valuing, humor, and receptive listening, suggesting that these are the most important predictors of relationship satisfaction. Results are discussed in terms of the distinction between intrinsic and extrinsic regulation processes and the potential importance of motives for regulation. Supplementary information The online version contains supplementary material available at 10.1007/s12144-023-04432-4.",
+  "raw_path": "01_raw/europepmc_xml/PMC9999077.xml",
+  "text_path": "02_text/europepmc/PMC9999077.txt",
+  "raw_bytes": 95641,
+  "text_chars": 26897,
+  "raw_sha256": "0de967b058f276f5442af6a173ed8e020c027a277422beeaf04f3bb84aed207f",
+  "text_sha256": "4b240221296447f77856be328351cde770da359922844be51bd8db516f9d9a75",
+  "retrieved_at": "2026-10-25T15:30:46.544843+00:00"
+}

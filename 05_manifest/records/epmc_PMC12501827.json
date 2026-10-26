@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12501827",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Validation of the German Relationship-Obsessive Compulsive Inventory: Testing the Factorial Structure, Measurement Invariance, and External Validity.",
+  "authors": "Brauer K, Borchardt L.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1002/jclp.70024",
+  "pmcid": "PMC12501827",
+  "url": "https://europepmc.org/article/PMC/PMC12501827",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12501827/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Objectives Relationship obsessive compulsive disorder (ROCD) describes intrusive thoughts and compulsive behaviors (e.g., reassurance seeking, monitoring feelings) regarding one's romantic relationship. The Relationship Obsessive Compulsive Inventory (ROCI) is the standard instrument to assess ROCD expressions. In our study, we tested the reliability and validity of the German ROCI. Methods We analyzed data from two independent nonclinical samples comprising 409 and 248 partnered individuals to expand the knowledge of the psychometric properties, factorial structure, and external validity of the German-language ROCI. Results Factor analyses supported the 3-factor model, but we did not find evidence for models assuming a total score (unidimensional, bifactor-, and second-order models). Further, we found scalar measurement invariance between men and women. The reliabilities are satisfying (0.77-0.88). Finally, we localized the ROCI into systems of romantic attachment, personality pathology, and relationship satisfaction and found that ROCD is characterized by insecure attachment, low satisfaction, and inclinations to negative affectivity. The ROCI showed incremental validity when predicting relationship satisfaction beyond attachment. Conclusions The German ROCI is psychometrically sound, and we recommend its application to assess expressions of ROCD in German-speaking samples, and, thus, to study the prevalence and consequences of ROCD in German-speaking countries and regarding cross-cultural comparisons. We discuss limitations (e.g., lack of longitudinal data) and future directions (e.g., dyadic studies).",
+  "raw_path": "01_raw/europepmc_xml/PMC12501827.xml",
+  "text_path": "02_text/europepmc/PMC12501827.txt",
+  "raw_bytes": 135118,
+  "text_chars": 48871,
+  "raw_sha256": "954973f5af0269a5d6873736a18fefddbcae9f59cfe869dc241e31f322479533",
+  "text_sha256": "349cb68b8b2efd71ca220f3b36b1ae1d17d1258ae4259cf48eaa2efa02afaf89",
+  "retrieved_at": "2026-10-25T15:39:11.728303+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_social_skills",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "社交技巧",
+  "requested_title": "社交技巧",
+  "url": "https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E6%8A%80%E5%B7%A7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "social_skills",
+    "communication"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/social_skills.json",
+  "text_path": "02_text/zh_wikipedia/social_skills.txt",
+  "raw_bytes": 10304,
+  "text_chars": 3756,
+  "text_sha256": "c7619e5b843ecb71a9c5f154ea814ea0e5e536ea60f8c1406953497c0d7add72",
+  "retrieved_at": "2026-10-25T15:32:08.914850+00:00"
+}

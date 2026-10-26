@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12329389",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Depathologizing Queer Adults' Dating App Use in Canada: Convergent Mixed Methods Study.",
+  "authors": "Sinno J, Perez-Brumer A, Shuper PA, Grace D.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.2196/72452",
+  "pmcid": "PMC12329389",
+  "url": "https://europepmc.org/article/PMC/PMC12329389",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12329389/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating",
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Background Dating apps are virtual sociosexual networking platforms that facilitate varying social and sexual relationships and have considerably changed the way that many queer individuals form social, sexual, and romantic connections. Despite evidence that social media use can be associated with either diminished or improved mental health, few studies have explored the association between dating apps and mental health among queer adults. Objective Using reparative theory and a transformative paradigm, this research sought to critically explore the association between dating apps and mental health among queer adults in Canada.. Methods We used a convergent mixed methods design comprising an online survey (N=250) and one-on-one interviews (subsample of n=22) among queer adults from across Canada. Participants were recruited using Grindr advertisements and selected for diverse identities. The survey and interview collected information on dating app use and mental health. A structural equation model assessed the association between dating app use and mental health symptoms and the mediating role of discrimination and community connectedness. Hybrid reflexive thematic analysis of interviews elucidated how power and marginalization are negotiated, resisted, and refused in everyday app use. Results Participants used an average of 3.22 (SD 1.78) dating apps, most commonly for casual sex (208/249, 83.5%). Dating app use was associated with increased life satisfaction (β=0.31, 95% CI 0.32-1.12; P Conclusions Queer peoples use dating apps conscientiously, leveraging hope and serendipity to stumble upon novel and welcomed connections. Queer peoples use strategies to promote their well-being while navigating this threatening internet-based sociosexual space. The mixed methods approach provides nuance to the relationship between dating app use and well-being, underscoring the context-dependent and temporally dynamic association between them.",
+  "raw_path": "01_raw/europepmc_xml/PMC12329389.xml",
+  "text_path": "02_text/europepmc/PMC12329389.txt",
+  "raw_bytes": 246894,
+  "text_chars": 98216,
+  "raw_sha256": "e2a615123a9f68b73ef67852fa55eb694f75d848abfe9c9266e9bb85c5362960",
+  "text_sha256": "6828727884952a2b021e8d893574101bb00b3115d7e386fc5850e8b7f379b795",
+  "retrieved_at": "2026-10-25T13:56:35.766914+00:00"
+}

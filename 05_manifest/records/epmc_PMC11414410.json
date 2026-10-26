@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11414410",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Lawyer-client relationship in divorce proceedings: development and validation of a new instrument.",
+  "authors": "Martínez-Pampliega A, Cormenzana S, García-Garnica MC, Pellón-Elexpuru I, Merino L.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2024.1444321",
+  "pmcid": "PMC11414410",
+  "url": "https://europepmc.org/article/PMC/PMC11414410",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11414410/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Introduction This study is based on the paradigm of collaborative law and the current absence of instruments that evaluate the lawyer-client relationship as a function of the needs of the family system. The objective was to construct and validate an instrument, conceptualizing the lawyer-client relationship as a helping relationship. Method Two groups of experts and 239 parents (58% mothers and 42% fathers), users of Family Visitation Centers, participated in the study. The content, construct, and criterion validity of the instrument, as well as its invariance for both parents, were analyzed. Results The resulting 12-item instrument has been shown to have a two-dimensional structure, invariant for both parents, with high psychometric solidity. Discussion The LCR scale seems to be a valuable and effective measure for use in a legal context, with important correlations with the parents' psychological well-being, leading to a promising and relevant instrument for the holistic approach to the divorce process.",
+  "raw_path": "01_raw/europepmc_xml/PMC11414410.xml",
+  "text_path": "02_text/europepmc/PMC11414410.txt",
+  "raw_bytes": 174601,
+  "text_chars": 43743,
+  "raw_sha256": "af33b63f5bf54b56bf09874efc5a731eb7b24d48aae3060633b95fcb4c9bb02f",
+  "text_sha256": "8ea3fa9160a2b1047dfcec2fee1e240916d44bf37da91f683dec07c3fa8945aa",
+  "retrieved_at": "2026-10-25T15:43:35.388804+00:00"
+}

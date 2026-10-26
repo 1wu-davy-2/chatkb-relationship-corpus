@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_friendship",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "友情",
+  "requested_title": "友谊",
+  "url": "https://zh.wikipedia.org/wiki/%E5%8F%8B%E6%83%85",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 友情",
+  "topics": [
+    "relationship"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/friendship.json",
+  "text_path": "02_text/zh_wikipedia/friendship.txt",
+  "raw_bytes": 5994,
+  "text_chars": 2287,
+  "text_sha256": "bd5901b095a6798730cc162f95af51989680242993af15c2ef8d018f3d898e1c",
+  "retrieved_at": "2026-10-25T16:20:13.419898+00:00"
+}

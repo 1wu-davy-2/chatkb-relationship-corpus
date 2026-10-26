@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_7376",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "中庸 章句",
+  "gutenberg_id": "7376",
+  "url": "https://www.gutenberg.org/ebooks/7376",
+  "download_url": "https://www.gutenberg.org/cache/epub/7376/pg7376.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/7376.txt",
+  "text_path": "02_text/gutenberg/gut_7376_中庸_章句.txt",
+  "raw_bytes": 73691,
+  "text_chars": 18578,
+  "text_sha256": "5ba2de785ae18c56ed2a5f5cb880d012bbfbd30a27001cafaec34ffb520523ca",
+  "retrieved_at": "2026-10-25T16:06:30.083853+00:00"
+}

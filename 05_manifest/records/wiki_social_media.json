@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_social_media",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "社群媒體",
+  "requested_title": "社交媒体",
+  "url": "https://zh.wikipedia.org/wiki/%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "technology",
+    "social"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/social_media.json",
+  "text_path": "02_text/zh_wikipedia/social_media.txt",
+  "raw_bytes": 6055,
+  "text_chars": 2263,
+  "text_sha256": "5bb8d26b482be9a79b73d3f2d8592eabc954feb23f75ce98a451b1b6dabd30c0",
+  "retrieved_at": "2026-10-25T15:44:01.422504+00:00"
+}

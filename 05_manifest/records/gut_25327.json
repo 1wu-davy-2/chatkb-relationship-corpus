@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_25327",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "兒女英雄傳",
+  "gutenberg_id": "25327",
+  "url": "https://www.gutenberg.org/ebooks/25327",
+  "download_url": "https://www.gutenberg.org/cache/epub/25327/pg25327.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/25327.txt",
+  "text_path": "02_text/gutenberg/gut_25327_兒女英雄傳.txt",
+  "raw_bytes": 1688682,
+  "text_chars": 555660,
+  "text_sha256": "549b05c9d5667c495d2e7a5a148f5ab027e27e81928cdb23b9cea8e8fd4ad087",
+  "retrieved_at": "2026-10-25T15:51:08.796154+00:00"
+}

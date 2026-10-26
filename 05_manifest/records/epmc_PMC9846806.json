@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9846806",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"Feeling It\": Links between elements of compassion and sexual well-being.",
+  "authors": "Fraser AM, Leavitt CE, Yorgason JB, Price AA.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2022.1017384",
+  "pmcid": "PMC9846806",
+  "url": "https://europepmc.org/article/PMC/PMC9846806",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9846806/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "forgiveness"
+  ],
+  "abstract": "Introduction Compassion may be a particularly important component of a sexual relationship as it facilitates needed self-awareness, understanding, and connection to frame deeply intimate expressions of sexual emotion and vulnerability. Given the lack of research on how broad concepts of compassionate elements may be linked to sexual well-being, we examine how mindfulness (an ability to maintain awareness in the present moment), compassionate relational attitudes (i.e., accessibility, responsiveness, and engagement), and compassionate relational behaviors (i.e., forgiveness and gratitude), are linked to sexual well-being (sexual harmony, orgasm consistency, and sexual frequency), and sexual mindfulness (a state of being mindful during sex) for oneself and one's partner. Methods We constructed an actor partner structural equation model with newly married couples ( n = 2,111) and regressed sexual outcomes at time 1 and time 2 on each partner's compassionate attitudes, behaviors and mindfulness reported at time 1. Results Results showed that cross-sectionally, nearly all elements of one's compassion related to one's own sexual well-being for both partners. Strongest paths included positive significant relations for women between mindfulness and non-judgment and from compassionate relational attitudes and behaviors to sexual harmony. Men's compassionate behaviors were positively related to their own sexual awareness. Perhaps more importantly, women's and men's compassionate behaviors had significant effects on their partner's sexual well-being longitudinally. Discussion Implications include an emphasis on compassion as a key mechanism that can increase sexual satisfaction and strengthen relationships, particularly in the critical time of early marriage where patterns of interconnectedness are being established.",
+  "raw_path": "01_raw/europepmc_xml/PMC9846806.xml",
+  "text_path": "02_text/europepmc/PMC9846806.txt",
+  "raw_bytes": 250687,
+  "text_chars": 60069,
+  "raw_sha256": "e2abf5ad4b08be6cbdb4da27252f515aa1a3164a4255deeee2a9c9f1560ca89b",
+  "text_sha256": "57a9814288d6df3f38b4ad03250bcd868bd1e417a8c5f96b4b92fab143026f77",
+  "retrieved_at": "2026-10-25T13:57:43.078631+00:00"
+}

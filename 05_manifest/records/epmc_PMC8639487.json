@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC8639487",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Antecedents of the Attitudes Toward Singlehood Among Young Adults in Malaysia, Japan, and India.",
+  "authors": "Tan CS, Cheng SM, Nakayama T, George S.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2021.756090",
+  "pmcid": "PMC8639487",
+  "url": "https://europepmc.org/article/PMC/PMC8639487",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8639487/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality",
+    "singles"
+  ],
+  "abstract": "With both theories and empirical studies supporting the benefits of having a romantic relationship, there remains an increasing tendency of staying single being documented globally. It is thus important to understand the antecedent factors of such voluntary single movement. Guided by the Investment Model of Commitment (IMC) process, the roles of subjective socioeconomic status (SSES), relational mobility, and desirability of control in attitudes toward singlehood were investigated. A total of 1,108 undergraduate students from Malaysia ( n =444), Japan ( n =316), and India ( n =348) answered an online survey consisting of the Attitudes toward Singlehood Scale, MacArthur Scale of SSES, Relational Mobility Scale, Desirability of Control Scale, Mini-Social Phobia Inventory, and Single Item Narcissism Scale. Hierarchical multiple regression analysis showed a persistent positive relationship between desirability of control, but not socioeconomic status and relational mobility, with attitudes toward singlehood, even after statistically excluding the effects of social anxiety and narcissism. A similar pattern was also observed among those who were currently single. Moreover, an interaction effect of socioeconomic status and relational mobility was found in further exploratory analysis. The results highlight that retaining the autonomy and flexibility of managing one's own life and financial concern are the key reasons young adults prefer staying single to engaging in a romantic relationship. Implications and recommendations for future research are also presented in this study.",
+  "raw_path": "01_raw/europepmc_xml/PMC8639487.xml",
+  "text_path": "02_text/europepmc/PMC8639487.txt",
+  "raw_bytes": 125756,
+  "text_chars": 35163,
+  "raw_sha256": "2e0fb88c8735e1df6f6c52b6e28a173e7075b3f3334b06e0e51ac5405860a51b",
+  "text_sha256": "c5e9c99e4dd659688fbd0d8a15ef8e4c5345dccbb36ed781a6ad8ecc339514c7",
+  "retrieved_at": "2026-10-25T13:58:42.395047+00:00"
+}

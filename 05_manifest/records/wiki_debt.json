@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_debt",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "债务",
+  "requested_title": "债务",
+  "url": "https://zh.wikipedia.org/wiki/%E5%80%BA%E5%8A%A1",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "money",
+    "safety"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/debt.json",
+  "text_path": "02_text/zh_wikipedia/debt.txt",
+  "raw_bytes": 1601,
+  "text_chars": 634,
+  "text_sha256": "6b17cdb385526127ea44e5307d6d8304ff9db5b5d25ae679e84f0960e78a6a8d",
+  "retrieved_at": "2026-10-25T15:43:12.297374+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10102097",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Relational Nature of Gender, the Pervasiveness of Heteronormative Sexual Scripts, and the Impact on Sexual Pleasure.",
+  "authors": "Harvey P, Jones E, Copulsky D.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1007/s10508-023-02558-x",
+  "pmcid": "PMC10102097",
+  "url": "https://europepmc.org/article/PMC/PMC10102097",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10102097/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "This study examined how gender shapes sexual interactions and pleasure outcomes. We highlight varying expectations people have in regard to sex by combining questions about orgasm frequency and sexual pleasure. Our analysis was driven from a sample of 907 survey responses from cis women, cis men, trans women, trans men, non-binary, and intersex millennial respondents, 324 of which had gender-diverse sexual histories. The findings built upon previous literature about the orgasm gap by including those with underrepresented gender identities and expanding our conceptualization of gender's role in the gap beyond gender identity. Qualitative results indicated that individuals change their behavior based on their partner's gender and follow strong gendered scripts. Participants also relied upon heteronormative scripts and cis normative roles to set their interactions for the sexual encounter. Our findings support previous research on how gender identity impacts pleasure outcomes and has implications for how we might make gender progress in the arena of sexuality.",
+  "raw_path": "01_raw/europepmc_xml/PMC10102097.xml",
+  "text_path": "02_text/europepmc/PMC10102097.txt",
+  "raw_bytes": 158095,
+  "text_chars": 76548,
+  "raw_sha256": "ecb30ff536d64895ce80aafb855e8a8624aa30dbe03e3efdf8057135ee1cca6c",
+  "text_sha256": "3d30eb1ad9eb71b39367f4c48960d81bfc03bfc1202fd06017af4b7bf5d2c5d7",
+  "retrieved_at": "2026-10-26T13:13:21.090097+00:00"
+}

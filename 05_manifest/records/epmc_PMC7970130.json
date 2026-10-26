@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7970130",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Spillover Effects When Taking Turns in Dyadic Coping: How Lingering Negative Affect and Perceived Partner Responsiveness Shape Subsequent Support Provision.",
+  "authors": "Pauw LS, Hoogeveen S, Breitenstein CJ, Meier F, Rauch-Anderegg V, Neysari M, Martin M, Bodenmann G, Milek A.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2021.637534",
+  "pmcid": "PMC7970130",
+  "url": "https://europepmc.org/article/PMC/PMC7970130",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7970130/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_disclosure"
+  ],
+  "abstract": "When experiencing personal distress, people usually expect their romantic partner to be supportive. However, when put in a situation to provide support, people may at times (still) be struggling with issues of their own. This interdependent nature of dyadic coping interactions as well as potential spillover effects is mirrored in the state-of-the-art research method to behaviorally assess couple's dyadic coping processes. This paradigm typically includes two videotaped 8-min dyadic coping conversations in which partners swap roles as sharer and support provider. Little is known about how such dyadic coping interactions may feed back into one another, impacting the motivation and ability to be a responsive support provider. In three behavioral studies, we examined how sharers' experiences may spill over to affect their own support provision in a subsequent dyadic coping interaction. We hypothesized that the extent to which sharers perceive their partner as responsive to their self-disclosure increases the quality of their own subsequent support provision (Hypothesis 1), whereas sharers' lingering negative affect reduces the quality of their own subsequent support provision (Hypothesis 2). In line with our first hypothesis, perceived partner responsiveness predicted the provision of higher-quality support, though primarily as perceived by the partner. Sharers who perceived their partner to have been more responsive were somewhat more likely to subsequently engage in positive dyadic coping and were rated as more responsive by their partners. Negative dyadic coping behavior was unaffected. Evidence for our second hypothesis was mixed. While lingering negative affect did not affect positive dyadic coping behavior or perceived support, it did increase the chances of negative dyadic coping behavior. However, given the very low occurrences of negative affect and negative dyadic coping, these findings should be interpreted with caution. Taken together, these findings suggest that support interactions may feed back into one another, highlighting the complex and interdependent nature of dyadic coping. The strongest and most consistent findings concerned the spillover effect of perceived partner responsiveness on subsequent perceived support quality, speaking to the key role of believing that one's partner is responsive to one's needs in promoting healthy relationship functioning.",
+  "raw_path": "01_raw/europepmc_xml/PMC7970130.xml",
+  "text_path": "02_text/europepmc/PMC7970130.txt",
+  "raw_bytes": 164537,
+  "text_chars": 61342,
+  "raw_sha256": "faa2339b881562b4bd8df60f4190184a8d0c5891b7273242093f031af15ca41f",
+  "text_sha256": "d2e3bb0cf27cbe83899e1ed1650180700949b34798c0eb8efdbc354c57992a2e",
+  "retrieved_at": "2026-10-25T15:42:19.076281+00:00"
+}

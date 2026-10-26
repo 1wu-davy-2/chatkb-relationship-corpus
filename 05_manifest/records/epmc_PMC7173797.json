@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7173797",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual attraction modulates interpersonal distance and approach-avoidance movements towards virtual agents in males.",
+  "authors": "Welsch R, von Castell C, Rettenberger M, Turner D, Hecht H, Fromberger P.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0231539",
+  "pmcid": "PMC7173797",
+  "url": "https://europepmc.org/article/PMC/PMC7173797",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7173797/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "How does sexual attraction alter social interaction behavior? We examined the influence of sexual orientation on locomotor approach-avoidance behavior and interpersonal distance. We immersed androphilic and gynophilic male subjects into a virtual environment and presented various male and female virtual persons. In the first experiment, subjects took a step forward (approach) or backward (avoidance) in response to the sex of the virtual person. We measured reaction time, peak velocity, and step size, and obtained ratings of sexual attractiveness in every trial. In the second experiment, subjects had to approach the virtual person as if they were to engage in a social interaction. Here, we analyzed interpersonal distance and peak velocity of the approaches. Our results suggest that sexual attraction facilitates the approach response and reduces the preferred interpersonal distance. We discuss our findings in terms of proxemics, current findings in sex research, and the applicability of our novel task in other fields of psychological research.",
+  "raw_path": "01_raw/europepmc_xml/PMC7173797.xml",
+  "text_path": "02_text/europepmc/PMC7173797.txt",
+  "raw_bytes": 146525,
+  "text_chars": 51114,
+  "raw_sha256": "f78b77ca06620445f406f05c6a6ab0d0556f7261de35541e83725c1d1420edda",
+  "text_sha256": "3c20204b393da04f754e4bf78ace65e4f38845ce9611205688f0ae111a89adb6",
+  "retrieved_at": "2026-10-25T15:44:06.225648+00:00"
+}

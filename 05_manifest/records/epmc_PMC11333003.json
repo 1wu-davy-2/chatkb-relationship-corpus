@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11333003",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The kpc-1 3'UTR facilitates dendritic transport and translation efficiency of mRNAs for dendrite arborization of a mechanosensory neuron important for male courtship.",
+  "authors": "Shih M, Zou Y, Ferreira T, Suzuki N, Kim E, Chuang CF, Chang C.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1371/journal.pgen.1011362",
+  "pmcid": "PMC11333003",
+  "url": "https://europepmc.org/article/PMC/PMC11333003",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11333003/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "A recently reported Schizophrenia-associated genetic variant in the 3'UTR of the human furin gene, a homolog of C. elegans kpc-1, highlights an important role of the furin 3'UTR in neuronal development. We isolate three kpc-1 mutants that display abnormal dendrite arborization in PVD neurons and defective male mating behaviors. We show that the kpc-1 3'UTR participates in dendrite branching and self-avoidance. The kpc-1 3'UTR facilitates mRNA localization to branching points and contact points between sibling dendrites and promotes translation efficiency. A predicted secondary structural motif in the kpc-1 3'UTR is required for dendrite self-avoidance. Animals with over-expression of DMA-1, a PVD dendrite receptor, exhibit similar dendrite branching and self-avoidance defects that are suppressed with kpc-1 over-expression. Our results support a model in which KPC-1 proteins are synthesized at branching points and contact points to locally down-regulate DMA-1 receptors to promote dendrite branching and self-avoidance of a mechanosensory neuron important for male courtship.",
+  "raw_path": "01_raw/europepmc_xml/PMC11333003.xml",
+  "text_path": "02_text/europepmc/PMC11333003.txt",
+  "raw_bytes": 183572,
+  "text_chars": 81885,
+  "raw_sha256": "25bdbed0aca7d8302c9ccc47b8d01f431082f12823f850d1a10919f17a84fdb8",
+  "text_sha256": "017327ebadd85ddafc0345a31e57a0d601465b25840da096c0c23a06255a2940",
+  "retrieved_at": "2026-10-25T15:38:56.705150+00:00"
+}

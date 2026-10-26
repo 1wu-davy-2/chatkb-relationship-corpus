@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5870963",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Are narcissists more attracted to people in relationships than to people not in relationships?",
+  "authors": "Brunell AB, Robison J, Deems NP, Okdie BM.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0194106",
+  "pmcid": "PMC5870963",
+  "url": "https://europepmc.org/article/PMC/PMC5870963",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5870963/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Does grandiose narcissism predict greater attraction for others in relationships? We examined this question by replicating previous work implicating grandiose narcissists as mate poachers (Studies 1 and 2). We then used an experimental paradigm (Studies 3 and 4) to assess the extent to which grandiose narcissists indicate a greater interest in someone who is already in a relationship compared to someone who is single. Results suggest that although grandiose narcissism related to reports of more frequent mate poaching attempts, grandiose narcissists did not appear to be more interested in taking someone away from an existing relationship. Instead, participants took their own relationship status into consideration (rather than the relationship status of a target) when evaluating their interest in a target for a short-term fling or a long-term relationship. Thus, although grandiose narcissists report more frequent mate poaching attempts, they do not appear to be more interested in people in relationships compared to those who are single.",
+  "raw_path": "01_raw/europepmc_xml/PMC5870963.xml",
+  "text_path": "02_text/europepmc/PMC5870963.txt",
+  "raw_bytes": 199290,
+  "text_chars": 55085,
+  "raw_sha256": "8373f62eeff6e19f2319c558d2e51ce02e2ba1698069d5f75643c9fe8bec53d4",
+  "text_sha256": "bcf3d7152133aa407636ffd5b41209a607a018f6c175eb1c63ebe74316fb9b31",
+  "retrieved_at": "2026-10-25T15:48:05.099492+00:00"
+}

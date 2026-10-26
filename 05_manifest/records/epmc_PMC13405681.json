@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13405681",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Blueprint for Connection: Mapping Interconnected Patterns of Relationship Change in Couples Using the Agapé App †",
+  "authors": "Rogge RD, Macri JA, Okwudili K, Crasta D.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/bs16071182",
+  "pmcid": "PMC13405681",
+  "url": "https://europepmc.org/article/PMC/PMC13405681",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13405681/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "responsiveness"
+  ],
+  "abstract": "Agapé is a light-touch relationship enhancement smartphone app. This study used data from a longitudinal study of couples using the Agapé app to explore change within an array of behavioral processes to uncover patterns of interconnected change, thereby providing some of the first quantitative insights into how various relationship processes might be linked as relationships change over time. A sample of 405 couples in long-term relationships (810 partners, 50% women, 75% white, together M = 4.5 yrs, 50% living together, 33% currently dissatisfied) completed assessments across their first month of using Agapé. Men and women significantly improved on 15 of the 16 relationship processes assessed. As the study lacked a randomized control condition, it remains unclear if those improvements were due to using the Agapé app or to factors like expectancy effects, regression to the mean, self-selection, demand characteristics, or general participation effects. Network analyses explored correlational linkages among the self-reported pre-post changes observed. Results highlighted increases in three processes (quality time spent together, perceived partner responsiveness, and gratitude toward partner) as the processes most proximally linked to increases in relationship quality. The network findings also uncovered a number of patterns of interconnected change to be explored in future studies (e.g., increases in couples talking about their relationships to increases in mindful awareness within those relationships to increases in gratitude and quality time to increases in relationship quality). Thus, the results offer some of the first comprehensive multivariate (albeit correlational) insights toward understanding how relationship processes might work in concert with one another within a broader multivariate pattern of self-reported relationship change.",
+  "raw_path": "01_raw/europepmc_xml/PMC13405681.xml",
+  "text_path": "02_text/europepmc/PMC13405681.txt",
+  "raw_bytes": 159404,
+  "text_chars": 76434,
+  "raw_sha256": "6564f5168f41bceb5895bb7fb12b642f352f6c2f01691a978917440ba9452853",
+  "text_sha256": "feb7448cbaf731686eba55458c26f17737cbc356dc188cfacae59133ebe105da",
+  "retrieved_at": "2026-10-25T13:53:22.696797+00:00"
+}

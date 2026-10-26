@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_sexual_toy",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "性玩具",
+  "requested_title": "性玩具",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E7%8E%A9%E5%85%B7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 性玩具",
+  "topics": [
+    "sexuality",
+    "health"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/sexual_toy.json",
+  "text_path": "02_text/zh_wikipedia/sexual_toy.txt",
+  "raw_bytes": 4975,
+  "text_chars": 2036,
+  "text_sha256": "e15c0c925516e3640ebc188eb0842593d5685e4b92ec2704490a7bdfc329c18d",
+  "retrieved_at": "2026-10-26T13:02:05.677934+00:00"
+}

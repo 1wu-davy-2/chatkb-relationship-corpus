@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13239975",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Lived Experiences and Long-Term Reflections on Early Marriage Among Palestinian Women: A Qualitative Study in the West Bank.",
+  "authors": "Alqaissi N, Qtait M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1002/puh2.70290",
+  "pmcid": "PMC13239975",
+  "url": "https://europepmc.org/article/PMC/PMC13239975",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13239975/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Background Early marriage remains a persistent practice in conflict-affected settings, including the West Bank of Palestine, where sociocultural norms, economic pressures, and political instability intersect. Although prior research has largely focused on short-term outcomes, limited qualitative evidence examines how women retrospectively interpret early marriage across the life course. Objective This study explores the lived experiences and long-term reflections of Palestinian women married before the age of 18, with particular attention to agency, psychosocial development, and meaning-making over time. Methods A qualitative design using reflexive thematic analysis was employed. Ten Palestinian women (aged 23-35), married between ages 7 and 17, were purposively recruited from the Hebron Governorate. Semi-structured interviews were conducted in Arabic, transcribed verbatim, and translated with linguistic verification. Data were analyzed iteratively following Braun and Clarke's approach, with attention to theme recurrence, variation, and negative cases. Interpretation was guided by Bronfenbrenner's ecological systems theory and feminist theory. Results Three interrelated themes were identified: (1) constrained agency within familial and sociocultural systems, where marriage decisions were shaped by hierarchical power structures; (2) multidimensional and enduring impacts, including physical strain, emotional burden, and social disconnection; and (3) retrospective reappraisal and disrupted life trajectories, characterized by loss of educational opportunities and evolving critical awareness. Variability across participants highlighted differences related to age at marriage and educational pathways. Conclusion Findings demonstrate that early marriage operates as a structurally embedded and gendered process shaping women's life courses. Participants' narratives reflect both constraint and adaptive meaning-making, underscoring the need for contextually grounded interventions that address intersecting social, cultural, and structural determinants.",
+  "raw_path": "01_raw/europepmc_xml/PMC13239975.xml",
+  "text_path": "02_text/europepmc/PMC13239975.txt",
+  "raw_bytes": 95290,
+  "text_chars": 42180,
+  "raw_sha256": "7980403326f7ac816e18eba76c835bcd40144c5d8ed7ad090e7e50e084da5aa4",
+  "text_sha256": "c6c5dd37734287e71c7350bc4638be9e57c1acc782757ba2190d455a046a66e5",
+  "retrieved_at": "2026-10-25T13:56:25.593555+00:00"
+}

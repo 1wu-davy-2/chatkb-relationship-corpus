@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11958957",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Pandemic perspectives: the temporal influence of COVID-19 on attitudes toward marriage and childbirth.",
+  "authors": "Campbell JT, Gesselman AN, Bennett-Brown M.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1488014",
+  "pmcid": "PMC11958957",
+  "url": "https://europepmc.org/article/PMC/PMC11958957",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11958957/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_attitudes"
+  ],
+  "abstract": "Introduction Marriage and childbirth rates in the U.S. have declined over the past decade, with individuals delaying these life milestones. The COVID-19 pandemic further complicated these trends, simultaneously increasing the desire for connection while disrupting relationship formation. This study examines how perceptions of marriage and childbearing shifted during the first two years of the pandemic using two cross-sectional, nationally representative surveys. Methods Study 1 ( n = 513), conducted in January 2021, and Study 2 ( n = 1,850), conducted in August 2022, surveyed participants on the perceived importance of marriage and childbearing before and during the pandemic. Data were collected through online surveys and analyzed using linear regressions to identify demographic differences and shifts in attitudes. Results Study 1 ( n = 513) in January 2021 found that approximately 29% reported a decreased importance of marriage, while nearly 35% reported a reduced importance of child-bearing. Women and those with higher income reported an increase in the importance of marriage, while those with higher income reported an increase in the importance of having children. Study 2 ( n = 1850) in August 2022 revealed a noteworthy contrast. Overall, participants expressed a consistent desire for marriage compared to pre-pandemic levels. Conversely, participants demonstrated a significant shift in their desire for children, indicating a greater inclination toward childlessness compared to pre-pandemic attitudes. 15.1% reported a reduced importance of having children. Higher income participants rated marriage as more important, while heterosexual participants rated having children as more important relative to pre-pandemic years. Discussion These results underscore the dynamic nature of individuals' perceptions surrounding marriage and childbearing in response to a transformative event like the COVID-19 pandemic. They provide valuable insights into the evolving cultural narrative around these milestones, highlighting the resilience and adaptability of societal values in the face of unprecedented change.",
+  "raw_path": "01_raw/europepmc_xml/PMC11958957.xml",
+  "text_path": "02_text/europepmc/PMC11958957.txt",
+  "raw_bytes": 93891,
+  "text_chars": 34982,
+  "raw_sha256": "83e2e21a9f6c474e3dc6f5da9e2cf8ccfb90a0edc2c2d58face58d1a085e98d8",
+  "text_sha256": "dd114e82403bd897691fab9014d467d31493813fee035dac35941d8442214d26",
+  "retrieved_at": "2026-10-25T15:33:53.672708+00:00"
+}

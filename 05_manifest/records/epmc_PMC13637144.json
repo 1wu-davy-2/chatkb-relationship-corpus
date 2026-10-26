@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13637144",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Attitudes toward dating violence and their relationship with gender role attitudes among university students: a cross-sectional study.",
+  "authors": "Balatacı U, Ay B, Tarhan R, Ay A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12889-026-28542-3",
+  "pmcid": "PMC13637144",
+  "url": "https://europepmc.org/article/PMC/PMC13637144",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13637144/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "gender_roles"
+  ],
+  "abstract": "Background Dating violence is an important public health and psychosocial concern among young adults. Gender role attitudes may be associated with whether violent behaviors within intimate relationships are recognized, tolerated, or normalized. Evidence regarding gender differences and subscale-level associations between attitudes toward dating violence and gender role attitudes among university students remains limited. This study aimed to examine university students' attitudes toward dating violence and gender roles, compare total and subscale scores by gender, and investigate associations between the two constructs. Methods This cross-sectional study included 1,866 students at a state university. Data were collected using a sociodemographic form, the Dating Violence Attitude Scale, and the Gender Roles Attitude Scale. Gender comparisons were performed using parametric or non-parametric tests as appropriate. Associations between attitudes toward dating violence, gender role attitudes, and age were analyzed using Spearman correlation coefficients. Results The observed Dating Violence Attitude Scale scores suggested relatively low reported acceptance of dating violence; however, this interpretation was descriptive because the scale has no established categorical cut-off point. Male students had higher total Dating Violence Attitude Scale scores than female students, indicating lower reported acceptance, although the effect was very small and was the only gender difference on this scale that remained significant after Bonferroni correction (r = 0.06, p = 0.006). Differences in physical and economic violence subscales did not remain significant after correction. Male students had higher total Gender Roles Attitude Scale scores and higher female, marital, traditional, and male gender role subscale scores, whereas female students had higher egalitarian gender role subscale scores. Total Dating Violence Attitude Scale and Gender Roles Attitude Scale scores were moderately and positively correlated (r = 0.35, p Conclusions Gender role attitudes were associated with attitudes toward dating violence. Because of the cross-sectional and correlational design, these findings do not establish causal, predictive, or behavioral effects. Future longitudinal and experimental studies are needed to clarify the direction and practical relevance of these associations.",
+  "raw_path": "01_raw/europepmc_xml/PMC13637144.xml",
+  "text_path": "02_text/europepmc/PMC13637144.txt",
+  "raw_bytes": 119627,
+  "text_chars": 62271,
+  "raw_sha256": "041fae888bc25744b9dee812018a3f12c856f4f8c2e12144641d63e51567151c",
+  "text_sha256": "72bb59a8c8e7811bda3acbd16ade610662a2d35b12d2565d8d28b406885852d7",
+  "retrieved_at": "2026-10-25T13:48:27.251478+00:00"
+}

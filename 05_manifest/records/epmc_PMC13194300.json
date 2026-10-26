@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13194300",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychological Intimate Partner Violence Across Identities: Preliminary Psychometrics of the Multidimensional Measure of Emotional Abuse-Short Form Among Heterosexual, Lesbian, and Bisexual Samples in Türkiye.",
+  "authors": "Demirtaş ET, Zurnacı B.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s10508-026-03422-4",
+  "pmcid": "PMC13194300",
+  "url": "https://europepmc.org/article/PMC/PMC13194300",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13194300/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Psychological intimate partner violence (IPV) affects individuals across diverse sexual identities and is often reinforced by romantic myths. Despite its substantial mental health consequences, psychological IPV remains under-recognized and insufficiently researched. One barrier is the scarcity of brief, inclusive, and psychometrically sound tools for assessing psychological IPV across varied populations. To address this gap, the present study aimed to validate the short form of the Turkish version of the Multidimensional Measure of Emotional Abuse (MMEA-TR). This 16-item scale evaluates four subdimensions of psychological IPV (Restrictive Engulfment, Denigration, Hostile Withdrawal, and Dominance/Intimidation) while preserving the original multidimensional framework. Data were collected from four independent samples in Türkiye: Bisexual individuals (n = 230, M = 22.88, SD = 4.49), predominantly heterosexual women (n = 237, M = 24.30, SD = 2.51), lesbian and bisexual women (n = 178, M = 29.06, SD = 7.81), and predominantly heterosexual men (n = 160, M = 24.49, SD = 2.54). Confirmatory factor analyses across samples supported the hypothesized four-factor model and demonstrated acceptable fit indices. Subscales showed significant intercorrelations and concurrent validity was supported by theoretically consistent associations with jealousy (Study 1), anxious attachment (Study 2), internalized heterosexism (Study 3), and fragile masculinity (Study 4). Internal consistency reliability ranged from acceptable to high across groups. Overall, findings provide initial evidence for the construct validity, concurrent validity, and reliability of the MMEA-TR short form. This study contributes a brief, inclusive, and psychometrically robust instrument for assessing psychological IPV in both heterosexual and sexual minority populations.",
+  "raw_path": "01_raw/europepmc_xml/PMC13194300.xml",
+  "text_path": "02_text/europepmc/PMC13194300.txt",
+  "raw_bytes": 185001,
+  "text_chars": 66208,
+  "raw_sha256": "f2cacda9fcbd7c09861b52a8cf23c38a4fa0c6b020c3139e0f52485ba08902d8",
+  "text_sha256": "3b8a919b8d5a8558421938db2a07e9b44e75180f4dc6629d3e662213bf48b86b",
+  "retrieved_at": "2026-10-25T13:55:57.329662+00:00"
+}

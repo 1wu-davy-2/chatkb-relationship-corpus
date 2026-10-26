@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11671809",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Building happier bonds: gratitude as a mediator between dyadic coping and relationship satisfaction in romantic couples.",
+  "authors": "Roth M, Good N, Ledermann T, Landolt SA, Weitkamp K, Bodenmann G.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2024.1452397",
+  "pmcid": "PMC11671809",
+  "url": "https://europepmc.org/article/PMC/PMC11671809",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11671809/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gratitude"
+  ],
+  "abstract": "Introduction Gratitude has been found to be relevant for relational well-being, and there has been ongoing interest in uncovering the mechanisms by which gratitude functions in interpersonal relationships. Only recently, gratitude has been studied within the context of dyadic coping-the interpersonal process of how partners communicate their stress, support each other during stressful times, and jointly cope with stress-in romantic couples. Drawing up on theoretical models on the functions of gratitude within close relationships and previous research, we aimed to advance this line of research and examined the potential mediating role of gratitude between dyadic coping and relationship satisfaction applying a dyadic perspective. For a more nuanced understanding of gratitude, we differentiated between felt and expressed dyadic coping-related gratitude. Methods We used data of 163 romantic mixed-gender couples living in Switzerland. To examine the mediation model dyadically, we applied the Actor Partner Interdependence Mediation Model (APIMeM). Results While in the presence of gratitude as a mediator, almost no significant direct effects from dyadic coping on relationship satisfaction were found, evidence pointed to a mediating role of gratitude within this process: Provided dyadic coping was related to higher gratitude, which was in turn related to higher own and partner relationship satisfaction. The results were similar for felt and expressed dyadic coping-related gratitude. Discussion The finding that gratitude plays an important mediating role within the dyadic coping process offers important future directions for research as well as preventative and clinical work with couples.",
+  "raw_path": "01_raw/europepmc_xml/PMC11671809.xml",
+  "text_path": "02_text/europepmc/PMC11671809.txt",
+  "raw_bytes": 157501,
+  "text_chars": 48326,
+  "raw_sha256": "1c0caf2bc1fc67809674c4d8dd75effc4e04ba441bcfc8bfe5a37e2b52c55161",
+  "text_sha256": "e11bf7aac339cdc28b4a0fcc43cbfdbbdaa1edf485d20ea13b2bd0c3f6d1896c",
+  "retrieved_at": "2026-10-25T15:26:56.400021+00:00"
+}

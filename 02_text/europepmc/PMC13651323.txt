@@ -1,0 +1,260 @@
+TITLE: Disability and intimate partner violence in England: gender stratified analyses of a probability sample survey.
+AUTHORS: Hashemi L, Manzur H, Bunce A, McManus S.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1186/s12889-026-28489-5
+PMCID: PMC13651323
+LICENSE: cc by
+LICENSE_URL: https://creativecommons.org/licenses/by/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC13651323
+TOPICS: dating_violence
+
+---
+
+ABSTRACT
+AbstractBackgroundFew prior random probability sample survey spans experience of all forms of intimate partner violence (IPV) among people with different types of impairment in England. This study aimed to compare the 12-month prevalence of four types of IPV (physical, sexual, psychological, and economic abuse) for people with and without four types of impairment (physical, sensory, learning impairments, and experiencing difficulties with activities of daily living (ADLs)), taking account of variations by gender.MethodsThis study used data from the 2014 Adult Psychiatric Morbidity Survey, a cross-sectional survey that covered the household population of England aged 16 years and older. Data was analysed on 7546 respondents (4488 women and 3058 men). Logistic regression was conducted and adjusted odds ratios (AORs) were reported separately for men and women.ResultsDisabled women reported significantly higher rates of psychological (AOR = 1.98, 95% CI = 1.31–2.98) and sexual IPV (AOR = 2.46, 95% CI = 1.55–3.91) than non-disabled women. No significant association was found for physical IPV. Women with a learning impairment reported the highest prevalence for almost all types of IPV. Women reporting restricted ADLs were at higher risk of experiencing economic abuse (AOR = 2.88, 95% CI = 1.33–6.23). Disabled men did not have a higher risk of experiencing any forms of IPV compared with non-disabled men.ConclusionWhile violence may contribute to the onset of some forms of disability, our findings suggest that disability may also enhance the risk of IPV for disabled women, particularly for women with a learning impairment. Investment in targeted violence prevention programs specifically for disabled women is warranted.Supplementary InformationThe online version contains supplementary material available at https://doi.org/10.1186/s12889-026-28489-5.Keywords: Disability, Impairment, Activities of daily living, Intimate partner violence, Gender
+
+BODY
+Introduction
+
+Intimate partner violence (IPV) against disabled people is a significant public health and human rights issue, yet there has been no random-probability sample study examining associations between different disability types and forms of IPV in England.
+
+Approximately 16% of the world’s population experiences at least one form of chronic impairment [1]. In England, population-based surveys have estimated the prevalence of disability to range between 16.2% and 32.9% [2], varying with the definition of disability used.
+
+The term ‘disability’ is subject to diverse interpretations, with definitions varying according to self-identification, legal frameworks, conceptual models, administrative purposes, or funding criteria. The World Health Organization (WHO) characterises disability as encompassing impairments, activity limitations, and participation restrictions, representing the negative aspects of interaction between individuals with a health condition and personal and environmental factors [3]. Under the UK 2010 Equality Act, ‘disability’ refers to a physical or mental impairment that substantially and long-term adversely affects a person’s ability to perform normal daily activities, where ‘substantial’ indicates effects beyond minor or trivial, and ‘long-term’ indicates effects lasting more than 12 months or that are fluctuating, recurring, or progressive [4].
+
+There is growing recognition that disability heightens vulnerability to gender-based violence (GBV), while violence can lead to or exacerbate severity of disability [5]. IPV is one of the most common forms of GBV, defined as physical, sexual, emotional or psychological, economic violence/abuse or controlling behaviours occurring between former or current intimate partners [6]. The WHO estimates that, globally, 27% of women aged 15–49 have experienced physical and/or sexual IPV in their lifetime [7]. In the UK, the estimated lifetime prevalence of IPV among ever-partnered women aged 15–59 is 24% [7].
+
+Worldwide, gender disparities are notable in experiences of IPV. While men also experience IPV, women encounter more frequent physical violence, more severe violence, higher rates of sexual IPV, increased coercive control, greater instances of injury, and heightened fear [8–12]. For example, in England and Wales, Walby and Towers (2017) found that three-quarters (76%) of victims experiencing repeat domestic violent crime were female, and 83% of high-frequency victims of domestic violent crime (10 or more crimes in a year) were female [13].
+
+The dynamics of IPV are diverse and complex for disabled people, as conditions and impairments may be exploited by abusers, and issues of increased power and control over disabled people may multiply their vulnerability and isolation [14, 15]. Impairment may also exacerbate the risk of IPV by diminishing disabled people’s ability to defend themselves, recognise, or report abuse [14, 16]. Limited access to support services [17] and societal attitudes that devalue or stigmatise disabled people may also heighten the risk of IPV [18].
+
+Globally, disabled women experience higher rates of IPV compared to non-disabled women [19, 20]. In the UK, 11.1% of women with a long-term illness or disability experienced past-year partner abuse, compared with 4.9% of non-disabled women [21]. However, the need for improved data has been underscored in systematic reviews as disabled women are often underrepresented in research [19, 20]. This lack of evidence undermines the effectiveness of programs to address their specific needs.
+
+Existing studies have largely focused on experience of “any IPV”, or limited subtypes (predominantly physical and/or sexual IPV), often neglecting psychological and economic abuse [19, 20].
+
+This is important as a recent review reveals variability in findings with only 50% of studies identified a heightened risk of “any IPV” among disabled women compared to non-disabled women, while individual subtypes including financial (100% of studies), physical (81.3%), psychological (78.5%) and sexual (73.3%) consistently showed heightened risk [19]. This highlights the importance of examining different forms of IPV to better understand the relationship between disability and IPV victimisation.
+
+In 2015, a scoping review of evidence identified further research gaps in the UK and globally [16], which remain a decade later. For example, the need for nationally representative studies remains critical as most research has used small samples from service providers’ datasets which lack generalisability and often fail to account for the broader adversities faced by those impacted by disability and/or IPV. Additionally, much of the literature has focused on women only, precluding gender comparisons which would improve understanding of gendered dynamics in disability-related IPV, as well as neglecting men’s experiences of IPV [22]. Whilst the literature on IPV against disabled women emphasises the role of coercive control and intimate partner-carer relations (see, for example [14, 23], , the role of disability for men’s particular experiences of IPV, such as barriers to disclosure and support [24, 25], is largely missing from the literature [22].
+
+The temporal relationship between impairment and IPV also remains poorly understood, partly due to studies focusing on lifetime exposure to IPV (e.g [26]), which leaves the direction of the association unclear and the timeline undefined [16].
+
+Although the population prevalence of disability in England is substantial, there remain no random-probability sample studies that examine the intersection between different disability types and IPV subtypes for both women and men. The only population-based survey that explored this did not specifically report on IPV but focused on the broader concept of domestic (partner or family) versus non-domestic violence among disabled individuals. Moreover, no gender-stratified analyses were reported [27].
+
+The 2014 Adult Psychiatric Morbidity Survey (APMS), a large adult population survey in England, provided a unique opportunity to estimate the prevalence of four types of IPV for women and men with different disability types. This analysis leverages APMS data to enhance our understanding of the disability-IPV nexus, with the following objectives:
+
+describe past-year prevalence of physical, sexual, psychological, economic and any IPV by disability status (type and number of limiting impairments).
+
+examine associations between disability types and numbers and different forms of IPV, controlling for sociodemographic characteristics.
+
+explore gender patterns in IPV by disability status.
+
+Methods
+
+Study design and participants
+
+We analysed the 2014 APMS, a cross-sectional probability-sample survey. The APMS is designed to provide England’s National Statistics for monitoring of mental health and treatment access in the general population. The data series is unique and valuable because of the wide range of mental and physical health conditions, substance disorders and self-harm behaviours covered. The survey employs rigorous screening and assessment tools, so that undiagnosed conditions can be identified, including in those not in contact with health services. The main survey is designed to examine temporal change, with waves conducted in 1993, 2000, 2007 and 2014 using consistent methods [28]. Verbal informed consent was obtained from all participants. The current study is a secondary analysis of the 2014 APMS data, focusing on information collected on risk factors for poor mental health, specifically experiences of intimate partner violence and abuse.
+
+The survey covered the household population of England aged 16+, using a stratified, multistage random sampling design. This involved the selection of primary sampling units, addresses within selected primary sampling units, and one English-speaking adult from each address. Fieldwork occurred from May 2014 to September 2015, with verbal informed consent. The achieved sample comprised 7546 individuals, reflecting a 57% response rate.
+
+Interviews were conducted in participant’s homes by trained interviewers, averaging 1.5 h. They involved computer-assisted personal interviewing, with sensitive information collected through computer-assisted self-completion interviews via the interviewer’s laptop. Secondary analyses were approved by (removed to enable blind review). The authors assert that all procedures contributing to this work comply with the ethical standards of the relevant national and institutional committees on human experimentation and with the Helsinki Declaration of 1975, as revised in 2008. Methodological details are published elsewhere [28].
+
+Sample and analytic sample
+
+The APMS sample included 7546 individuals. Participants with missing data (primarily due to non-completion of the self-completion section, which included questions on IPV experience) were excluded from the regression analysis. Previous analyses of APMS have shown that those who did not complete the self-completion section were significantly older (p < 0·0001) than those who did [29]. Non-response to the self-completion section was not associated with gender. Participants who did not respond to IPV items despite completing the self-completion section, or who responded ‘don’t know,’ were also excluded from the regression analysis. The whole APMS sample was used to estimate the prevalence of disability subtypes, as the aim of the Table 1 was to profile these subtypes in the general population and provide a more accurate estimate of the prevalence of different types of disability in England.
+
+Weighted descriptive analyses of demographic characteristics by disability, Adult Psychiatric Morbidity Survey 2014
+
+a Adults aged 16 and over living in households in England, Adult Psychiatric Morbidity Survey 2014
+
+b p-value from chi square test examining the association between each characteristic and reported disability in the past 12 months preceding data collection. Boldface indicates significant association (p < 0.05)
+
+c Least deprived areas comprise the two least deprived quintiles and most deprived areas comprise the two most deprived quintiles, based on ranking of area-level English Index of Multiple Deprivation scores
+
+W%: Percentages weighted to reflect survey design. Percentages shown are column percentages. The “Multiple disability types” category may include respondents who are counted in more than one disability group (physical, sensory, learning, or ADL), reflecting overlap between these measures
+
+Measures
+
+Disability
+
+A broad definition was used, including four self-reported aspects: need assistance with activities of daily living (ADL), limiting long-term physical health conditions, sensory (sight or hearing) impairment, and learning impairment. This approach aligns with the World Health Organization’s definition of disability as encompassing impairments, activity limitations, and participation restrictions, which recognises the interaction between health conditions and environmental factors [30].
+
+We created a binary variable for experiencing one or more impairment types (“any disability”) versus none, and a separate variable distinguishing participants with one impairment versus two or more (“multiple disabilities”). Specific disability categories (Restricted ADLs, physical, sensory, learning) are nested within the “any disability” group, meaning all participants counted in the individual categories are also included in “any disability.” Here, the term “disability types” refers to disability associated with specific impairments or health conditions. For survey questions that included disability measures see Appendix eTable 1.
+
+In this paper, we adopt concerns articulated by the social model of disability and use terminology informed by it [31] while aligning with a biopsychosocial model approach. In the UK, the term ‘disabled people’ is generally preferred, reflecting the understanding that individuals with impairments are ‘disabled’ by societal barriers [31]. This approach is widely supported by disability advocacy groups in the UK, including Scope [32].
+
+Demographic and socioeconomic characteristics
+
+Participants self-reported gender (women, men), age (banded for analysis), and marital or cohabitation status (single; married or cohabiting; or separated, divorced, or widowed). Ethnicity was self-ascribed and grouped into White British; White other; Black or Black British; Asian or Asian British; and mixed, multiple, or other.
+
+Socioeconomic context included housing tenure (owner-occupier, renting from a social landlord, or renting from a private landlord) and being in serious debt (yes, no). Area-level deprivation was measured using quintiled English Index of Multiple Deprivation scores [33]. The selection of covariates for inclusion in the multivariable models was informed by literature indicating associations with both disability and IPV.
+
+IPV
+
+Experience of physical, sexual, economic, and psychological IPV from a current or former partner was asked about in the self-completion interview section. These questions were adapted from the Crime Survey for England and Wales (CSEW), which originally developed its items based on the Conflict Tactics Scale (CTS) [34]. However, the CSEW uses a modified version of the scale tailored for large population surveys, distinct from the revised CTS2. Variables were created for 12-month experience of each IPV type and of any IPV. An intimate partner was defined as any current or previous boyfriend, girlfriend, husband, wife, or civil partner. Participants with no previous partners were coded as having not experienced IPV. Appendix eTable 1 provides the IPV questions used. Missing data including: ‘do not know’ and ‘refused’ were excluded from all analyses. Less than 2% of any variable had missing data.
+
+Statistical procedure
+
+Analyses were conducted in Stata/SE 17.0 [35]. Survey weights, clustering, and stratification were accounted for using the Stata svy command to correctly adjust for the complex survey design and non-response. The full weighting strategy is detailed in the survey reports [36].
+
+Weighted proportions described the prevalence of disability subtypes by sociodemographic characteristics (Table 1) and by exposure to each, any, and multiple IPV types (Table 3) stratified by gender. Chi-square tests were used to determine whether there were differences in the distribution of each disability subtype, any disability, and multiple disability types across sub-groups separately for men and women (Table 1).
+
+Weighted descriptive analysis of different types of past 12-month IPV and any IPV by disability status, type, and number, stratified by gender, Adult Psychiatric Morbidity survey 2014, England
+
+W%: Percentages weighted to reflect survey design. Percentages shown are column percentages
+
+The “Multiple disability types” category may include respondents who are counted in more than one disability group (physical, sensory, learning, or ADL), reflecting overlap between these measures
+
+Multivariable logistic regressions calculated the odds ratios (OR) for experiencing any IPV and different IPV types for those reported any, different disability types, and multiple disability types experienced for the whole sample (Table 2) and separately for men and women, adjusting for age, ethnicity and socioeconomic factors (Table 5). Unadjusted OR were also calculated and reported (Table 4). Sensitivity analyses determined that housing tenure, neighbourhood deprivation, and serious debt sufficiently captured socioeconomic context. Results are reported with 95% confidence intervals and statistical significance set at p-value < 0.05.
+
+Weighted descriptive analysis and associations of 12-month IPV by disability status, type, and number in the whole sample, Adult Psychiatric Morbidity Survey 2014
+
+AORs: Odds ratios adjusted for gender, age, ethnicity, marital status, housing tenure, area-level deprivation, and any serious debt. Boldface indicates significant association (p < 0.05)
+
+Logistic regression modelling findings on the association between disability status, type, and number, and types of 12-month IPV, stratified by gender (adjusted)
+
+AORs: Odds ratios adjusted for age, ethnicity, marital status, housing tenure, area-level deprivation, and any serious debt. Boldface indicates significant association (p < 0.05)
+
+†: Odds ratio could not be calculated due to zero observations in the reference or comparison group or sparse data
+
+Logistic regression modelling findings on the association between disability status, type, and number, and types of 12-month IPV, stratified by gender (unadjusted)
+
+ORs: Odds ratios (unadjusted). Boldface indicates significant association (p < 0.05)
+
+The “Multiple disability types” category may include respondents who are counted in more than one disability group (physical, sensory, learning, or ADL), reflecting overlap between these measures.
+
+Results
+
+The APMS sample included 7546 individuals. A total of 462 participants were excluded from the regression analysis due to missing data, primarily non-completion of the self-completion section. A further 20 participants did not respond to IPV items despite completing the self-completion section, and 6 responded ‘don’t know’; these were also excluded. This yielded an analytic sample of 7058 for the regression analyses, while the full sample (n = 7546) was retained for the disability prevalence estimates reported in Table 1.
+
+Table 1 describes the prevalence of disability subtypes (any disability, ADLs, physical disability, sensory disability, learning impairment, and count of disability types, one versus multiple) for the whole sample and stratified by sociodemographic characteristics. The prevalence of any disability among the whole sample was 34.2%. The most common type of disability was restricted ADLs reported by 22.4% of the sample, followed by physical health disability (15.3%). The least common type of disability was learning impairment (3.4%). Disability was more prevalent in women (36.1%) than in men (32.2%, p < 0.01), more prevalent among those living in the most deprived areas (39.6%) than those in the least deprived areas (28.2%, p < 0.001), and more prevalent in people who were divorced, separated or widowed (54.2%) than married people (31.4%, p < 0.001).
+
+Disability was also more prevalent in social renters (53%) than in homeowners (31.90%, p < 0.001), and in those with serious debt (53.8%) than those without (32.5%, p < 0.001). Older age groups were over-represented among those with disability compared with younger age groups for all types of disability (p < 0.001). The only exception was learning impairment which was more prevalent among younger people (5.0% in those aged 16 − 34 years versus 1.1% in those aged 75 + years, p < 0.001). Regarding ethnicity and disability, at least one type (any disability) and sensory disability were more prevalent among those identified as White (British and other White) than among those from other ethnic groups. Of those with multiple disability types, a larger proportion were aged 75+, renting from a social landlord, living in most deprived areas, and divorced, separated or widowed (p < 0.001) (Table 1).
+
+Regarding the prevalence of 12-month IPV, irrespective of disability status, psychological IPV was the most common form of IPV reported by 3.5% of women and 2.3% of men. Women had higher odds of experiencing sexual (OR: 20.65, 95%CI 8.2–52.1), psychological (OR: 1.53, 95% CI 1.12–2.08), and any IPV (OR = 2.01, 95%CI 1.58–2.56) in the past year than men (not shown in the tables).
+
+12-month prevalence of IPV by disability status for the whole sample
+
+Table 2 describes prevalence rate of each IPV types and any IPV by disability status (with versus without any disability), disability type, and disability count (one disability type versus multiple disability types) for the whole sample. The findings are presented as the number of participants in each group and weighted percentage (n & W%). The results of logistic regression modelling examining association between disability and IPV are also presented.
+
+Disabled people, regardless of gender, had higher odds of reporting sexual, psychological, economic, and any form of IPV compared to non-disabled people. (Table 2). Those with multiple types of disability had higher odds of reporting psychological IPV and any IPV compared to those with a single disability type (Table 2).
+
+12-month prevalence of IPV by disability status separately for women and men
+
+Table 3 describes the prevalence rates of IPV among individuals with disability, stratified by gender. When comparing genders, disabled women were more likely to report IPV than non-disabled women. Disabled men were not more likely to report IPV than non-disabled men (Table 3). Almost 10% of disabled women reported experience of at least one form of IPV in the past 12 months. This was 5.5% for non-disabled women and 3.2% for non-disabled men (Table 3).
+
+Psychological IPV was the most prevalent form of 12-month IPV, reported by 5.3% of disabled women and 3.3% of disabled men. This was followed by sexual IPV, (5.0% of disabled women, 0.1% of disabled men) (Table 3). When considering the type of impairment, women with a learning impairment had the highest prevalence for almost all types of IPVs; 20.9% of women with a learning impairment experienced past-year IPV (any type). This was 9.3% for men with a learning impairment (Table 3).
+
+Association between disability and IPV
+
+Table 4 presents the results of logistic regression modelling, showing the unadjusted association between disability and IPV, stratified by gender.
+
+Disabled women had higher odds of experiencing all types of IPV during past year as non-disabled women (AORs ranged from 1.79 to 2.93). The exceptions were for physical and economic IPV, where no significant difference was found for women with and without impairments (Table 4). For men, there were no significant differences in the prevalence of any forms of past-year IPV between disabled and non-disabled men, except for economic IPV (Table 4). Men with learning impairment had higher odds of reporting almost all types of IPV and any IPV (except for physical IPV). However, these associations did not remain significant after adjustment for socioeconomic covariates (see Table 5). No differences were found between disabled people with two or more impairments and those with one, for either women or men.
+
+Table 5 presents the results of logistic regression modelling on the association between disability and IPV, stratified by gender and adjusted for covariates.
+
+Controlling for age and socioeconomic characteristics, disabled women had almost twice the odds of experiencing all types of IPV during past year as non-disabled women (AORs ranged from 1.96 to 2.46). The exceptions were for physical and economic IPV, where no significant difference was found for women with and without impairments (Table 5). For men, there were no significant differences in the prevalence of any forms of past-year IPV between disabled and non-disabled men (Table 5).
+
+A similar gender pattern was found for those with two or more impairments versus those with one. For disabled women, having two or more impairments increased the risk of experiencing any form of IPV compared with having one. However, differences were not significant for men with two or more impairments compared with men with one (Table 5).
+
+Discussion
+
+Using a robust national probability sample of women and men, this study analysed the prevalence of and associations between disability and IPV. The results provide new evidence of the compounding and varying effects of gender and disability on IPV victimisation rates in England. We found a gendered association between experiences of disabilities and IPV, with disabled women having nearly twice the odds of experiencing IPV compared to non-disabled women. In contrast, disability among men was not significantly associated with increased odds of IPV victimisation.
+
+The finding of higher prevalence of IPV in women compared to men in this study is supported by a large body of literature on the gendered nature of IPV [8, 9, 37, 38].
+
+Association between disability and IPV and gender differences
+
+We found that disabled people had higher odds of experiencing IPV in the past 12 months compared to non-disabled people. This pattern was consistent across all types of disability and non-physical forms of IPV. Consistent with previous studies [26, 39, 40], we found a significant association between disability and risk of IPV victimisation among women, but, inconsistent with these studies, not for men.
+
+These findings align with the ecological framework and intersectionality theory in explaining how disability and gender intersect to shape IPV risk. The ecological framework highlights how individual, relational, and societal factors interact to increase vulnerability [41], while intersectionality shows how interacting social inequalities, like gender and disability, create unique risks [42, 43]. Disabled women face elevated risk of IPV due to factors such as dependency and social invisibility, particularly within gendered care and intimate-partner relationships. In contrast, disabled men may experience IPV differently, shaped by gendered power dynamics, social expectations, and distinct barriers to disclosure and accessing support [24, 25, 44]. Our findings, consistent with these theories, underscore the complex, multi-level influences on IPV victimisation.
+
+These findings provide new evidence of the association between gender, disability and IPV in the UK context, including gendered associations between specific IPV and disability types. Further, this study contributes towards a deeper understanding of the role of social and contextual factors in how disability impacts people’s lived experiences and social relations. The social model of disability holds social and environmental contexts as critical for how impairments impact individuals’ experiences, where disability arises from non-supportive and unequal environments rather than individuals’ impairments. Social and contextual factors are important for understanding disabled people’s experiences and risk factors for IPV, including power imbalances in intimate-partner and carer relationships and barriers to accessing specialist support services [16, 45].
+
+This study contributes to the social model understanding of disability by highlighting how gender, as a social and contextual factor, may interact with disability to shape experiences and risks of IPV, as suggested by the observed gendered patterns in our data.
+
+The association between disability and IPV victimisation among women demonstrates the importance of gender-responsive, coordinated and complementary responses to IPV between specialist support services for victim-survivors, disability support services, and the health and social care system in the UK [46]. Detailed analysis of gendered associations between different types of disability and IPV supports the need to address challenges around less visible forms of IPV, intimate-partner carer reliance and power-imbalances, inadequate service funding [47] (particularly within the context of Austerity), and of specialist support provisions for women with complex needs [48].
+
+In terms of the visibility of victimisation, this study found that disabled women (across all disability types) had higher odds of experiencing less visible forms of IPV—namely sexual and psychological IPV—while no significant association was observed for physical IPV. As well as demonstrating the importance of inclusive definitions of IPV and the distinction between different IPV types when exploring associations, this finding suggests a need for increased attention to identifying and addressing less visible forms of IPV, including psychological and sexual IPV, in the context of wider literature on accessible routes to disclosure and identification of victimisation among disabled women, such as via informed risk identification approaches through health and social care contact points [49].
+
+Isolation and (in)visibility have been identified as key risk factors for IPV among disabled people, particularly in the context of power imbalances and dependence within intimate-partner carer relationships [14, 16]. Reductions in public funding for health and specialised services during Austerity have contributed to an increased reliance on familial and partner relationships to provide care for disabled people [50]. Whilst family and intimate partners provide invaluable care and support to disabled people, dependence on these relationships not only produces health inequalities based on financial and interpersonal-support disparities but also exacerbates power imbalances and isolates victims within abusive relationships due to a lack of alternative or alleviating care options [14, 16].
+
+In demonstrating the heightened risk of IPV for disabled women, particularly in less visible forms, this study highlights the importance of accessible care and support outside of personal relationships, support and awareness-raising for carers regarding healthy relationships, and disclosure routes through independent and confidential contact with health and social care practitioners through both outreach efforts and within routine contact.
+
+While our findings indicate that disability is not a significant risk factor for IPV among men, this does not diminish the importance of addressing the needs of male victims. The absence of a heightened risk associated with disability suggests that risk may be influenced by additional factors, such as socioeconomic conditions, mental health challenges, and societal stigma surrounding disclosure and help-seeking behaviours [51].
+
+Inadequate funding of public health and care services is particularly concerning in light of our finding that socio-economic disadvantage is associated with all types of disability and a heightened risk of economic IPV among women with restricted ADLs. Furthermore, women with restricted ADLs were found to experience socio-economic disadvantage more frequently than both non-disabled women and women with other types of disabilities. These findings underscore the critical need for adequately funded and equitably distributed resources for health and social care services. This includes targeted support for disadvantaged groups with complex needs. Additionally, the intersection of restricted ADLs and socio-economic disadvantage emerges as a key indicator of increased vulnerability to economic IPV among women.
+
+In responding to the further increased risk of IPV victimisation for women with multiple disability types found in this study, targeted funding may benefit victim and disability support services’ ability to cater to multiple, complex needs which account for gender and disability-based inequalities, as well as the specific needs of those with multiple disabilities, who often face additional barriers in accessing support which addresses diverse and interacting disabilities and limitations [48].
+
+In summary, these findings highlight the need for a multi-agency response from gender and disability-responsive specialist victim-survivor services, and IPV risk-informed public health and social care services, underpinned by adequate funding, professional training, information sharing, clear referral pathways, quality assurance mechanisms and coordinated interventions.
+
+This study demonstrates the significance of gender-disability intersections for IPV, providing compelling evidence to support the vital role of specialist interventions. Using nationally representative data from a high-quality population survey, it accounts for multiple types and dimensions of disability, employs stringent sampling and data collection methodologies, and enables analysis of associations between different forms of disability and IPV by gender.
+
+Limitations
+
+To avoid conflating the effects of pre-existing psychological disabilities on IPV victimisation with the effects of IPV victimisation in causing or exacerbating psychological disabilities, psychological disabilities were excluded. To disentangle this relationship, longitudinal methods and temporal questionnaire designs are needed to better understand their causal mechanisms.
+
+A limitation of our study is the potential impact of our disability definition on prevalence estimates. Our approach included individuals with restricted ADLs within the disability category, which may have contributed to the higher overall disability prevalence observed in our sample compared to some prior studies [27, 52, 53]. This broader definition means that individuals without specific impairments but with ADL restrictions were included, a population that may have been excluded from the disability group in other studies. However, our research, supported by others [54], highlights the importance of including this group in analyses, particularly considering their high reported rates of IPV. Future research should consider these definitional nuances to enhance consistency in understanding the intersection of disability types and IPV.
+
+Further, by sampling households, our sample was potentially skewed towards relatively healthy individuals, excluding respondents from rest homes, hospitals, and refuges. This exclusion may have resulted in underrepresenting individuals who are more likely to be affected by disability and IPV. Thus, the prevalence of both disability and IPV and the strength of their associations may have been underestimated. In addition, IPV estimates reflect experiences within the past 12 months; while this approach improves temporal specificity, it may miss those whose most recent IPV exposure occurred outside this window.
+
+Additionally, the relatively low response rate of the APMS could introduce bias, as non-respondents may systematically differ from those who participated. To address this, the weighting strategy accounted for multiple factors, including known area-level and property characteristics, as well as age and gender within regions. However, the risk of bias from non-response patterns remains a possibility and may affect the generalisability of the findings.
+
+Another limitation of our study is the absence of specific measures of coercive control within the APMS dataset, which restricts our ability to fully capture the nuanced dynamics of coercive control and its association with different types of disability. This is important as previous research has demonstrated that coercive control is a distinct and pervasive form of IPV that often exerts a profound impact on victims, particularly those with disabilities [26, 55]. Moreover, use of a single-item measure of economic abuse potentially captured sporadic occurrences, rather than systematic patterns. Our definition of sensory disability was also limited to vision and hearing impairments and did not include less commonly measured senses such as touch, taste, or smell. “The ‘multiple disability types’ category may include respondents counted in more than one disability type due to differences in measurement thresholds across physical, sensory, learning, and ADL impairments. This overlap introduces some heterogeneity and potential double counting across disability measures.
+
+The smaller sample size for disabled men may have contributed to the statistically non-significant findings and wide confidence intervals for sexual IPV, however, the consistent trends observed in the data suggest that disability may be a less relevant risk factor for men’s experience of IPV.
+
+Finally, this research does not address the intersection of disability and other characteristics (than gender), including age, ethnicity, religion, and sexual orientation. Particularly, the nature and experience of disability may vary across the lifespan, especially as it becomes more ‘normalised’ in older age. Although we adjusted for age in all models, we did not stratify by age or include age–disability interaction terms, which may have limited our ability to detect age-specific effects. We were also unable to examine IPV experiences by sexual orientation due to small numbers of participants with both 12-month IPV exposure and specific disability types. This is an important limitation, as IPV prevalence may be higher in same-sex relationships [56], and future research should explore how disability intersects with sexual orientation and relationship type. Multiple identities may compound risk and vulnerability, leading to unique challenges in accessing support services, help-seeking, and escaping abusive situations. Research and interventions that consider intersections are essential for addressing survivor needs and promoting inclusive and accessible support systems.
+
+Conclusion
+
+This study contributes new evidence of the significance of gender in the relationship between disabilities and IPV victimisation, disaggregated by disability and IPV types and controlling for sociodemographic and socioeconomic factors. It demonstrates the importance of nuanced understandings and highly specialised interventions for IPV that account for the interaction between gender and disability-based experiences and inequalities. The findings should be used to inform policies, service provision and resource allocation aimed at reducing IPV to better protect and support disabled women from violence.
+
+Supplementary Information
+
+Supplementary Material 1
+
+Acknowledgements
+
+We would like to thank the thousands of people across England who generously participated in the survey. NHS Digital commissioned APMS 2014 with funding from the Department of Health and Social Care in England.
+
+Authors’ contributions
+
+LH contributed to conceptualisation, data curation and analysis. LH, HM, and AB wrote the original draft of the manuscript. LH, SM, HM, and AB contributed to the writing, reviewing, and revising of the final manuscript. SM contributed to funding acquisition. All authors read and approved the final manuscript.
+
+Funding
+
+This research was funded by the UK Prevention Research Partnership (Violence, Health and Society; MR-V049879/1), which is funded by the British Heart Foundation, Chief Scientist Office of the Scottish Government Health and Social Care Directorates, Engineering and Physical Sciences Research Council, Economic and Social Research Council, Health and Social Care Research and Development Division (Welsh Government), Medical Research Council, National Institute for Health and Care Research, Natural Environment Research Council, Public Health Agency (Northern Ireland), The Health Foundation, and Wellcome. The views expressed in this Article are those of the authors and not necessarily those of the UK Prevention Research Partnership or any other funder.
+
+Data availability
+
+No datasets were generated or analysed during the current study.
+
+Declarations
+
+Ethics approval and consent to participate
+
+The secondary analysis study got ethical approval (ETH21220-299) from the International Politics, Music, Journalism, Economics, and English (IPMJEE) Ethical Review Committee at City St George’s University of London that considers medium risk applications. Verbal informed consent was obtained from all participants. The authors assert that all procedures contributing to this work comply with the ethical standards of the relevant national and institutional committees on human experimentation and with the Helsinki Declaration of 1975, as revised in 2008. Permission to use the data was granted by NHS England.
+
+Consent for publication
+
+Not applicable.
+
+Competing interests
+
+The authors declare no competing interests.
+
+Footnotes
+
+Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+References
+
+Associated Data
+
+Supplementary Materials
+
+Data Availability Statement

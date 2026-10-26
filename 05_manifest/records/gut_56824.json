@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_56824",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Good Form for All Occasions",
+  "gutenberg_id": "56824",
+  "url": "https://www.gutenberg.org/ebooks/56824",
+  "download_url": "https://www.gutenberg.org/cache/epub/56824/pg56824.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/56824.txt",
+  "text_path": "02_text/gutenberg/gut_56824_good_form_for_all_occasions.txt",
+  "raw_bytes": 271445,
+  "text_chars": 242042,
+  "text_sha256": "fd9064f26c1a38232aec9c90e616750ec33cb9915eb8f166b9bcb9a4adfcfddc",
+  "retrieved_at": "2026-10-25T15:55:23.901854+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_gender_equality",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "性別平等",
+  "requested_title": "性别平等",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E5%B9%B3%E7%AD%89",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "gender",
+    "society"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/gender_equality.json",
+  "text_path": "02_text/zh_wikipedia/gender_equality.txt",
+  "raw_bytes": 3904,
+  "text_chars": 1479,
+  "text_sha256": "d8a970f6d8c9f8b0a741b1c3c673550744a4eb75998c6b3fcaf9e0c014607aa9",
+  "retrieved_at": "2026-10-25T15:42:10.983570+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12965041",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marital Status, Social Integration, and Suicidal Thoughts and Behaviors in the Military Health and Well-Being Project.",
+  "authors": "Schafer KM, Dougherty SP, Campione M, Melia R, Wilson-Lemoine E, Joiner T.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1002/jclp.70093",
+  "pmcid": "PMC12965041",
+  "url": "https://europepmc.org/article/PMC/PMC12965041",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12965041/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Suicidal thoughts and behaviors (STBs) are a public health concern, particularly among Veterans, who experience elevated rates of STBs. Social integration is negatively associated with STBs, such that high social integration is correlated with low rates of STBs. Much of the literature has studied marital status as a social relationship that may protect individuals from STBs. Although largely unstudied, it has long been assumed that social integration moderates the link between marital status and STBs. Thus, in a sample of Veterans (N = 1469; Military Health and Well-Being Project), we tested our hypotheses that (1) social integration varies by marital status (single vs. married vs. domestic partnership vs. divorced vs. widowed), (2) social integration is negatively associated with STBs (i.e., lifetime suicidal ideation, past year suicidal ideation, suicidal ideation communication, and likelihood of suicide attempt), (3) STBs vary based on marital status, and (4) social integration moderates the cross-sectional link between marital status and STBs. Results indicated that (1) marital status was associated with social integration, such that married people reported greater social integration than people who were single; (2) social integration was negatively associated with all four STBs (r's < - 0.09, p < 0.001); (3) STBs varied based on marital status such that married people reported fewer STBs than people who were in a domestic partnership, single, widowed, or divorced, and (4) social integration did not moderate the link between marital status and STBs. Findings indicate that factors external to marital status may contribute to the link between social integration and STBs.",
+  "raw_path": "01_raw/europepmc_xml/PMC12965041.xml",
+  "text_path": "02_text/europepmc/PMC12965041.txt",
+  "raw_bytes": 140731,
+  "text_chars": 44239,
+  "raw_sha256": "037acb81e3446e6b506d8781623472bf5d6a2ee737aca42c4505add99aa29230",
+  "text_sha256": "6bd5fc1759850deb55f05125775b632ae18423bd4b6317be36e55ba8ba94af5d",
+  "retrieved_at": "2026-10-25T15:37:05.827733+00:00"
+}

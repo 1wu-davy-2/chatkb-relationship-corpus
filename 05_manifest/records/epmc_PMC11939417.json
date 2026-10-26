@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11939417",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Overlooked and the Overstudied: A Scoping Review of Qualitative Research on Pursuing Sexual, Romantic, and Loving Relationships Through Online Dating.",
+  "authors": "Diesen PS, Pettersen L, Karlsen F.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15030247",
+  "pmcid": "PMC11939417",
+  "url": "https://europepmc.org/article/PMC/PMC11939417",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11939417/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_presentation"
+  ],
+  "abstract": "This paper presents a scoping review of the qualitative research (N = 125) on the use of online dating sites and applications for adults pursuing relationships, including sex, love, and romance, from 2014 to 2023. Our review supports previous literature reviews' findings, which reveal that research on the topic is predominantly focused on young, well-educated, ethnic-majority, and primarily female heterosexuals or men seeking men in Western societies. Hence, a sample-selection bias shapes our scientific understanding of online dating, leaving other user groups underrepresented. Despite the diversity of scientific fields involved in qualitative research, the methods used are notably similar, indicating a relatively narrow scope in both demographic variables and research approaches. Although the researched themes and perspectives appear diverse at first glance, the research often centers on problem-oriented topics, such as the risks and emotional aspects of online dating, insecurities in self-presentation, negative technological communication traits, and the de-romanticization of society. We conclude that, despite the growing body of research on online dating, significant areas of the topic remain unexplored. There is a need for broader, more inclusive research to fully understand the complexities of online dating in the digital age.",
+  "raw_path": "01_raw/europepmc_xml/PMC11939417.xml",
+  "text_path": "02_text/europepmc/PMC11939417.txt",
+  "raw_bytes": 208427,
+  "text_chars": 51397,
+  "raw_sha256": "5c2e5332f6b0b2d96aba9aec081fe50c712af8521440aee6d25ac13a8c9e4143",
+  "text_sha256": "79decb62cd954e99ba0f0a9a2525a486fc4e4a5125c99d398b96f96a8548068b",
+  "retrieved_at": "2026-10-25T13:50:16.836965+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13654991",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "From belief to resilience: mapping the longitudinal path of Traditional Paranormal Belief through optimism and Mental Toughness",
+  "authors": "Dagnall N, Denovan A, Dempsey R, Drinkwater K, Escolà-Gascón Á, Walsh S.",
+  "year": "",
+  "journal": "",
+  "doi": "",
+  "pmcid": "PMC13654991",
+  "url": "https://europepmc.org/article/PMC/PMC13654991",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13654991/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "paranormal_belief"
+  ],
+  "abstract": "",
+  "raw_path": "01_raw/europepmc_xml/PMC13654991.xml",
+  "text_path": "02_text/europepmc/PMC13654991.txt",
+  "raw_bytes": 112756,
+  "text_chars": 34042,
+  "raw_sha256": "7429edae36510c5f634d0d927afb31aeb55bac771c2b0fdc389c3c840ab9ed96",
+  "text_sha256": "635aba3b6cbd63295591a2356f293f958f1afc859ebf2f06dffbb9f4be1e5ca5",
+  "retrieved_at": "2026-10-26T13:26:41.392210+00:00"
+}

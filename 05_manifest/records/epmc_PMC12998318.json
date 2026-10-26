@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12998318",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Validation of the Spanish version of the social and emotional loneliness scale for adults - short form (SELSA-S) in older adults.",
+  "authors": "Bartolomé B, Torres M, González-Álamos M, Vivanco L.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s13104-026-07699-5",
+  "pmcid": "PMC12998318",
+  "url": "https://europepmc.org/article/PMC/PMC12998318",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12998318/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "OBJECTIVE: To adapt the response format and validate the factor structure of the Spanish SELSA-S for use with older adults. RESULTS: A total of 147 older adults (127 female; age range 65 to 90 years) participated in the study, all of whom lived independently in their homes. Of these, 11% were classified as socially isolated. The sample included 62 participants (42%) from urban areas and 85 (58%) from rural areas of the Pyrenees in La Rioja, Spain. The SELSA-S scale showed variable internal consistency, with alpha and omega coefficients ranging from 0.54 to 0.95 across models and subscales. Convergent and discriminant validity were supported by expected correlation patterns with other loneliness measures and unrelated constructs. No significant associations were found between SELSA-S scores and age. Among the tested models, the original three-factor structure, distinguishing family, social, and romantic loneliness, showed the best fit, despite an elevated RMSEA and negative loadings for two items in the romantic domain. Inter-domain correlations revealed moderate associations between family and romantic loneliness, while social loneliness remained largely independent. These findings support the SELSA-S as a suitable tool for assessing multidimensional loneliness in older adults.",
+  "raw_path": "01_raw/europepmc_xml/PMC12998318.xml",
+  "text_path": "02_text/europepmc/PMC12998318.txt",
+  "raw_bytes": 113861,
+  "text_chars": 21900,
+  "raw_sha256": "9bb965c62b61c717ec531187aad262c05f33bf2b2d64bca73835356def084b08",
+  "text_sha256": "606bc2f8b9630657a007036670c8d4d2068275335ec12831973cbe8431a13db5",
+  "retrieved_at": "2026-10-25T13:53:18.767593+00:00"
+}

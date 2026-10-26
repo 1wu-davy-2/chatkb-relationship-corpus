@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4251314",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Romantic ideals, mate preferences, and anticipation of future difficulties in marital life: a comparative study of young adults in India and America.",
+  "authors": "Bejanyan K, Marshall TC, Ferenczi N.",
+  "year": "2014",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2014.01355",
+  "pmcid": "PMC4251314",
+  "url": "https://europepmc.org/article/PMC/PMC4251314",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4251314/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gender_roles"
+  ],
+  "abstract": "Previous studies have established that Indians tend to be greater in collectivism and gender role traditionalism than Americans. The purpose of the present study was to examine whether these differences explained further cultural differences in romantic beliefs, traditional mate preferences, and anticipation of future difficulties in marital life. Results revealed that Indians reported greater collectivism than Americans and, in turn, held stronger romantic beliefs. Additionally, Indians' greater collectivism and endorsement of more traditional gender roles in part predicted their preferences for a marital partner possessing traditional characteristics, and fully accounted for their heightened concerns about encountering future difficulties in marital life. These results shed light on the processes underlying cultural differences in relationship attitudes and preferences, and point to culture-specific therapies to enhance marital functioning.",
+  "raw_path": "01_raw/europepmc_xml/PMC4251314.xml",
+  "text_path": "02_text/europepmc/PMC4251314.txt",
+  "raw_bytes": 139867,
+  "text_chars": 47987,
+  "raw_sha256": "212863923282a33bdceaf4e9b7cbdcd8fa9c76547da73c3946132e0afbd2a5af",
+  "text_sha256": "5a0cda9ade0dd5e70b229ed5bb2de2f0d3fc992fa082808b1231c23f4f5eba98",
+  "retrieved_at": "2026-10-25T15:35:05.363682+00:00"
+}

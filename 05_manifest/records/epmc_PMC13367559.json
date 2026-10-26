@@ -1,0 +1,29 @@
+{
+  "doc_id": "epmc_PMC13367559",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Patterns and predictors of classes of sexual desire trajectories in couples with medical infertility undergoing medically assisted reproduction.",
+  "authors": "Rosen NO, Jabbour K, Marcotte-Beaumier G, Rossi M, Bergeron S, Brassard A, Péloquin K.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1093/jsxmed/qdag216",
+  "pmcid": "PMC13367559",
+  "url": "https://europepmc.org/article/PMC/PMC13367559",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13367559/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance",
+    "money",
+    "sexual_satisfaction"
+  ],
+  "abstract": "Background Sexual desire is important for sustaining relationships during periods of vulnerability such as when undergoing medically assisted reproduction (MAR). Desire problems are the most common sexual issue experienced by couples during MAR and while there is evidence of variability, distinct classes and predictors of dyadic trajectories have not been established. Aims To establish distinct classes of sexual desire trajectories among couples undergoing MAR over 2-years and to examine biopsychosocial predictors of classes. Methods Couples (N = 217) seeking MAR completed an online survey assessing their demographics (age, education), biological (eg, infertility duration, type of MAR treatments), and psychosocial factors (partner support, relationship satisfaction, and perceived financial burden) at baseline. Hypotheses and analyses were pre-registered. Data were analyzed with dyadic latent class growth analysis and with multinomial logistic regression to examine predictors. Outcomes Sexual desire was assessed at baseline, 6-, 12-, 18-, and 24-months with two items from the Female Sexual Function Index and two nearly identical items from the International Index of Erectile Function, for female and male participants, respectively. Results We identified four distinct classes of dyadic trajectories of (mostly declining) sexual desire: Steep Decline with Low Sexual Desire (10%), Moderate Sexual Desire (27%), Discrepant Sexual Desire (37%), and High Sexual Desire (26%). In univariable models, six predictors were significantly associated with class membership: male-factor infertility, relationship satisfaction (both partners), MAR receiver's perception of partner support, MAR receiver's age and education. In the multivariable model, education and relationship satisfaction remained significant predictors. Clinical implications Trajectories of sexual desire during MAR are not uniform; clinical practice should take this heterogeneity into account in psychoeducation, assessment, and intervention. By emphasizing the potential protective nature of relationship satisfaction, findings may inform couple-based interventions to promote sexual desire during MAR. Strengths and limitations This study is a large dyadic, longitudinal investigation of couples' patterns of change in sexual desire during MAR. The sample excluded those with social infertility, was characterized by high education and employment and was predominantly White and heterosexual, limiting generalizability. Absence of a control group not undergoing MAR limits our ability to determine whether patterns are unique to MAR. Conclusion We identified four distinct dyadic trajectories of sexual desire across 2 years of MAR; membership in some classes were predicted by education and relationship satisfaction. Findings provide more nuanced information about couples' sexual desire during this vulnerable period, which may facilitate early assessment and intervention.",
+  "raw_path": "01_raw/europepmc_xml/PMC13367559.xml",
+  "text_path": "02_text/europepmc/PMC13367559.txt",
+  "raw_bytes": 155562,
+  "text_chars": 38075,
+  "raw_sha256": "6c0b3c15954baf3846852d4fcf2cb9f29a815a2e0859576475f2bead7d2c4b1b",
+  "text_sha256": "5fe27f4bd76904780a5378f4c9d3c198caadd29dc588e465c2653ae5b67a1a42",
+  "retrieved_at": "2026-10-25T13:58:10.033165+00:00"
+}

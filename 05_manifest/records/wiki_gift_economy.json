@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_gift_economy",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "禮物經濟",
+  "requested_title": "礼物经济",
+  "url": "https://zh.wikipedia.org/wiki/%E7%A6%AE%E7%89%A9%E7%B6%93%E6%BF%9F",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "money",
+    "society"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/gift_economy.json",
+  "text_path": "02_text/zh_wikipedia/gift_economy.txt",
+  "raw_bytes": 37350,
+  "text_chars": 13964,
+  "text_sha256": "b7161985411b49317b13746b76a93b1964deeac67c2b4b2d23982939d3e9c527",
+  "retrieved_at": "2026-10-25T15:43:07.247524+00:00"
+}

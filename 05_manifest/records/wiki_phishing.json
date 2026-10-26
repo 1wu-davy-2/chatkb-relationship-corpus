@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_phishing",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "钓鱼式攻击",
+  "requested_title": "网络钓鱼",
+  "url": "https://zh.wikipedia.org/wiki/%E9%92%93%E9%B1%BC%E5%BC%8F%E6%94%BB%E5%87%BB",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 钓鱼式攻击",
+  "topics": [
+    "scam",
+    "safety"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/phishing.json",
+  "text_path": "02_text/zh_wikipedia/phishing.txt",
+  "raw_bytes": 33759,
+  "text_chars": 12923,
+  "text_sha256": "8893ef8f4db521b6e87d9bcfe98365f06cc0fa9154c47bc487734090129f8e11",
+  "retrieved_at": "2026-10-25T16:30:22.960566+00:00"
+}

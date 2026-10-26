@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_24047",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "世說新語",
+  "gutenberg_id": "24047",
+  "url": "https://www.gutenberg.org/ebooks/24047",
+  "download_url": "https://www.gutenberg.org/cache/epub/24047/pg24047.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/24047.txt",
+  "text_path": "02_text/gutenberg/gut_24047_世說新語.txt",
+  "raw_bytes": 264504,
+  "text_chars": 84212,
+  "text_sha256": "bb16f9fff8c6e99f5425d0cf2a847d099258ae5b89ac452a140d7e3fe7edf52b",
+  "retrieved_at": "2026-10-25T15:50:43.472006+00:00"
+}

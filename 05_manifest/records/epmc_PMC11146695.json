@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11146695",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Perceiving greater commitment increases selfishness among disagreeable people.",
+  "authors": "Sizemore RN, Baker LR.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0303693",
+  "pmcid": "PMC11146695",
+  "url": "https://europepmc.org/article/PMC/PMC11146695",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11146695/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "commitment"
+  ],
+  "abstract": "Perceiving that a partner is highly committed tends to benefit close relationships. However, there may be relational drawbacks to perceiving high commitment. In particular, given that high commitment may signal that a partner is unlikely to leave the relationship, perceiving that a partner is highly committed might lead people low in agreeableness to feel comfortable behaving more selfishly toward that partner. One correlational study consisting of a highly diverse sample of individuals (n = 307), one observational study of newlywed couples (n = 202), and one experiment with undergraduate couples (n = 252) examined whether the implications of perceived partner commitment for selfish behaviors depend on agreeableness. Results demonstrated that perceiving high commitment resulted in more selfish behavior among disagreeable participants (Studies 1-3), but less selfish behavior among agreeable participants (Studies 1 and 3). Together, these results suggest that signaling commitment to disagreeable partners may backfire in romantic relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC11146695.xml",
+  "text_path": "02_text/europepmc/PMC11146695.txt",
+  "raw_bytes": 177643,
+  "text_chars": 68834,
+  "raw_sha256": "81c0f0b20d5c492884ab83a9d1c0f8581865af3464843e4815d01bb46b7c9ef3",
+  "text_sha256": "ce36f79c1d2c96c37e11519eb61d736d951299adb414d081a4d8b95b2886ac78",
+  "retrieved_at": "2026-10-25T15:31:38.402775+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13166629",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Development and evaluation of a Hospice Foundation of Taiwan Bereavement Assessment Scale: A psychometric properties test.",
+  "authors": "Wu TY, Pi SH, Li PY, Lai YL, Li CC, Fang CK.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1017/s1478951524001706",
+  "pmcid": "PMC13166629",
+  "url": "https://europepmc.org/article/PMC/PMC13166629",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13166629/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Objectives Supporting family caregivers (FCs) is a critical core function of palliative care. Brief, reliable tools suitable for busy clinical work in Taiwan are needed to assess bereavement risk factors accurately. The aim is to develop and evaluate a brief bereavement scale completed by FCs and applicable to medical staff. Methods This study adopted convenience sampling. Participants were approached through an intentional sampling of patients' FCs at 1 palliative care center in Taiwan. This cross-sectional study referred to 4 theories to generate the initial version of the Hospice Foundation of Taiwan Bereavement Assessment Scale (HFT-BAS). A 9-item questionnaire was initially developed by 12 palliative care experts through Delphi and verified by content validity. A combination of exploratory factor analysis (EFA), reliability measures including items analysis, Cronbach's alpha and inter-subscale correlations, and confirmatory factor analysis (CFA) was employed to test its psychometric properties. Results Two hundred seventy-eight participants conducted the questionnaire. Three dimensions were subsequently extracted by EFA: \"Intimate relationship,\" \"Existential meaning,\" and \"Disorganization.\" The Cronbach's alpha of the HFT-BAS scale was 0.70, while the 3 dimensions were all significantly correlated with total scores. CFA was the measurement model: chi-squared/degrees of freedom ratio = 1.9, Goodness of Fit Index = 0.93, Comparative Fit Index = 0.92, root mean square error of approximation = 0.08. CFA confirmed the scale's construct validity with a good model fit. Significance of results This study developed an HFT-BAS and assessed its psychometric properties. The scale can evaluate the bereavement risk factors of FCs in clinical palliative care.",
+  "raw_path": "01_raw/europepmc_xml/PMC13166629.xml",
+  "text_path": "02_text/europepmc/PMC13166629.txt",
+  "raw_bytes": 95488,
+  "text_chars": 33470,
+  "raw_sha256": "79bde4a3541f44ccf81ba7e536bd354aae8fb66666f57ce136a0e5ed8ee378f0",
+  "text_sha256": "118ae63c492452e23c6d4cf46e11a401d48fd2f02c341085a83691087a7d0088",
+  "retrieved_at": "2026-10-25T15:37:59.557798+00:00"
+}

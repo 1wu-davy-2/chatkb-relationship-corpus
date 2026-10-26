@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13572198",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Investigating the links between sexting patterns, gender, sexual orientation and psychological distress: A cluster analysis.",
+  "authors": "Saija E, Amadori A, Prestera G, Brighi A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1016/j.ijchp.2026.100719",
+  "pmcid": "PMC13572198",
+  "url": "https://europepmc.org/article/PMC/PMC13572198",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13572198/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "This study examines sexting patterns, moving beyond traditional unidimensional approaches. Using a person-centered framework, a Two-Step Cluster Analysis was conducted on a sample of 460 Italian university students (age range: 18-45 years-old, M = 23.32, SD = 4.27, 76.3% women). Sexting experiences were operationalized through five indicators distinguishing between consensual or coerced, partner or third-party-mediated exchanges, while anxiety, depression, and stress were assessed as dependent variables. The analysis identified four distinct clusters: Low-Engagement Sexting (60.4%), Sexting with Third Parties (14.4%), Sexting with Partner(s) (13.8%), and High-Engagement and Exposure in Sexting (11.3%). Results from ANCOVAs, controlling for gender and sexual orientation, revealed that the high-engagement and exposure in sexting cluster, characterized by pervasive engagement across all indicators, reported significantly higher levels of anxiety and depression compared to other groups. Furthermore, individuals experiencing unsolicited and third-part-mediated exposure exhibited elevated stress levels. While gender-diverse and sexual minority participants reported overall higher psychological distress, no significant interaction effects were found between cluster membership and sociodemographic factors. These findings highlight that psychological outcomes are contingent upon the configuration of consent, agency, and relational context rather than the frequency of sexting alone. The study underscores the need for targeted interventions and comprehensive digital sexuality education that addresses the nuances of online consensual and non-consensual interactions.",
+  "raw_path": "01_raw/europepmc_xml/PMC13572198.xml",
+  "text_path": "02_text/europepmc/PMC13572198.txt",
+  "raw_bytes": 196085,
+  "text_chars": 64586,
+  "raw_sha256": "1d8223c8d12935403b89e3b3923ea15d3dea99349c12161ce402972a94f77df7",
+  "text_sha256": "d3f059659ac7a1254c52fa9b758c76a4632d38359fdb1b83bcd73b0a20150e70",
+  "retrieved_at": "2026-10-26T12:53:19.788011+00:00"
+}

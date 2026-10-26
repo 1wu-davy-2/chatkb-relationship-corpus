@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10632137",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "When couples fight about money, what do they fight about?",
+  "authors": "Peetz J, Meloff Z, Royle C.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/02654075231187897",
+  "pmcid": "PMC10632137",
+  "url": "https://europepmc.org/article/PMC/PMC10632137",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10632137/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Conflicts about money and finances can be destructive for both the quality and longevity of relationships. This paper reports on a descriptive analysis of the contents of financial conflicts in two samples. Study 1 examined severe financial conflicts in social media posts ( N = 1014) from reddit ( r/relationships ). Eight themes were identified via thematic analysis: \"unfair relative contributions\" \"who pays for joint expenses\", \"job and income\", \"exceptional expenses\", \"terms of financial arrangements\", \"discrepant financial values\", \"one-sided financial decisions\", and \"perceived irresponsibility\". Study 2 examined reports of more mundane financial disagreements recalled by married individuals ( N = 481). Seven themes were identified via thematic analysis: \"relative contributions\", \"job and income\", \"different values\", \"exceptional expenses\", \"mundane expenses\", \"money management\", and \"perceived irresponsibility\". In both samples, themes could be ordered along the dimensions of \"concerns about fairness\" and \"concerns about responsibility\". The association of relationship outcomes (perceived partner responsiveness, couple satisfaction) with each theme and demographic predictors (income, relationship length, shared finances) were explored. Independent t-tests suggested that participants who recalled disagreements fitting the themes at the extreme ends of the two dimensions (\"unfair relative contributions\" and \"perceived irresponsibility\") reported worse relationship outcomes. In contrast, participants recalling disagreements fitting the theme of \"mundane expenses\" reported better relationship outcomes.",
+  "raw_path": "01_raw/europepmc_xml/PMC10632137.xml",
+  "text_path": "02_text/europepmc/PMC10632137.txt",
+  "raw_bytes": 151392,
+  "text_chars": 50285,
+  "raw_sha256": "cecd899b47209352dc336b2a5b4559e7b23055bb98204200d520ebb4334e147c",
+  "text_sha256": "9e51b40ff1b914f9c53d48386e64dec93420e90995f91c247cbfe99a620058a4",
+  "retrieved_at": "2026-10-25T15:32:29.825055+00:00"
+}

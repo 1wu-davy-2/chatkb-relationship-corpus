@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11786145",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Prevalence and predictors of help-seeking steps in a nationally representative Dutch sample of romantic couples.",
+  "authors": "Conradi HJ, Noordhof A, Kamphuis JH.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/famp.13074",
+  "pmcid": "PMC11786145",
+  "url": "https://europepmc.org/article/PMC/PMC11786145",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11786145/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Couples appear to frequently experience relationship problems, yet estimates of the prevalence and prediction of three distinct help-seeking steps, (1) recognition of serious relationship dissatisfaction, (2) considering help, and (3) receiving relationship help, are unknown for representative population samples. This is unfortunate as such knowledge may inform policy makers in the development of strategies to motivate couples to seek help. The prevalence of these steps along with reasons for not acquiring help was studied in a representative population sample of 1014 Dutch heterosexual couples. Multilevel Actor-Partner Interdependence Modeling (APIM) analyses estimated the extent to which static socio-demographic factors were predictive of help-seeking behaviors. Of all partners, 28.6% reported having ever been seriously dissatisfied with their relationship (step 1), of which 86.2% had told their partner they were dissatisfied, on average 1.5 years after onset of the dissatisfaction. Of the seriously dissatisfied partners 36.4% considered professional relationship help (step 2) and 19.5% eventually received help (step 3), on average 3.7 years after the onset of dissatisfaction. Of these, 88.5% consulted a (couple) therapist. Main reasons for not acquiring help were that \"things got better\" (48.8%) and \"the partner did not want relationship help\" (35.4%), whereas financial considerations and shame were rarely endorsed. Although serious relationship dissatisfaction was common (i.e., 40.1% of all couples consisted of at least one partner who was ever dissatified), few couples sought help and they did so rather late. Waxing and waning of dissatisfaction often guided the decision to not seek help. Women and younger partners were more proactive in help-seeking. Marital status, having children, and education were largely unrelated to help-seeking.",
+  "raw_path": "01_raw/europepmc_xml/PMC11786145.xml",
+  "text_path": "02_text/europepmc/PMC11786145.txt",
+  "raw_bytes": 90098,
+  "text_chars": 37787,
+  "raw_sha256": "8b19386a753f4a9819a9c715092427eccbeae8a5c3a1c2435d36d824b2b411ae",
+  "text_sha256": "c2e77842ae90ff1dc142cce6dca23d0dbd5ee56d6365d9d22454a74f9edafb33",
+  "retrieved_at": "2026-10-25T15:33:21.169659+00:00"
+}

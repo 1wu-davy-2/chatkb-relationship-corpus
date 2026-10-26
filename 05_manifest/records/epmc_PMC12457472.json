@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12457472",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Role of Autonomy in Multi-Partnered Relationships.",
+  "authors": "Bröning S.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10508-025-03202-6",
+  "pmcid": "PMC12457472",
+  "url": "https://europepmc.org/article/PMC/PMC12457472",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12457472/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "assertiveness_boundaries"
+  ],
+  "abstract": "Polyamory is a form of consensual non-monogamy (CNM) that openly endorses multiple romantic and sexual relationships. Previous research has reported high satisfaction and need fulfillment in polyamorous relationships. However, the feasibility of polyamory for a wider population given the societal monogamy norm is highly debated. Desire for relational autonomy, such as the freedom to love multiple partners and be sexually intimate with them, is a widespread motive for engaging in CNM. In this qualitative study, we explored if and how this kind of autonomy was experienced by polyamorous individuals in daily life. Autonomy in relationships was conceptualized through the differential lenses of self-determination theory, attachment theory, and differentiation theory. We conducted 20 semi-structured interviews with German-speaking polyamorists. The material was analyzed using reflexive thematic analysis to answer the following research questions: (1) In what ways is personal autonomy created and expressed in polyamorous relationships? (2) Are autonomy-related needs fulfilled in polyamorous relationships? (3) How important is personal autonomy for polyamorous individuals? Overall, participants reported a high need for and level of \"doing autonomy\" in their polyamorous relationships. Four central aspects of this autonomy emerged: assertive communication, independent emotion regulation, self-congruent lifestyle, and valuing freedom. Different nuances of these four aspects are discussed with regard to the study's research questions and to their implications for mental health professionals working with polyamorous clients.",
+  "raw_path": "01_raw/europepmc_xml/PMC12457472.xml",
+  "text_path": "02_text/europepmc/PMC12457472.txt",
+  "raw_bytes": 182050,
+  "text_chars": 80829,
+  "raw_sha256": "346d7741f431cb45aae68305952d66ae22342b14801fd08c6fa57a76728908a1",
+  "text_sha256": "98805ce32e2b1f2cd410feda0be798b9818c1b83154db135170327fe71857ca9",
+  "retrieved_at": "2026-10-25T15:28:13.186459+00:00"
+}

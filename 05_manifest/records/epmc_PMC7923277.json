@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7923277",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Cross-Cultural Differences in Sexting Practices between American and Spanish University Students.",
+  "authors": "Gassó AM, Agustina JR, Goméz-Durán E.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3390/ijerph18042058",
+  "pmcid": "PMC7923277",
+  "url": "https://europepmc.org/article/PMC/PMC7923277",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7923277/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Despite the growing body of research regarding sexting and online sexual victimization, there is little evidence exploring cultural differences in association with those behaviors. The aim of this study was to examine cultural differences in sexting practices by comparing an American sample and a Spanish sample of university students. The original sample was composed of 1799 college students, including 1386 Spanish college students and 413 American Students, with 74% of female participants, and ages ranging from 18 to 64 years old (mean age = 21.26, SD= 4.61). Results indicate that American students sext more than Spanish students and have higher probabilities of being victims of nonconsensual dissemination of their sexual content. However, Spanish students receive more sexts than American students. Although our results show differences between the Spanish and the American samples that might be modulated by cultural factors, the vulnerability of females regarding sexting remains unchanged. Additionally, differences in specific characteristics of the behaviors (such as perceived risk, receiver of the sexual content, intensity of the sexual content, and motive for sexting) were also studied. Further results and implications are discussed in relation to cultural differences.",
+  "raw_path": "01_raw/europepmc_xml/PMC7923277.xml",
+  "text_path": "02_text/europepmc/PMC7923277.txt",
+  "raw_bytes": 139672,
+  "text_chars": 36401,
+  "raw_sha256": "fb0df4b9b6b9cbb5eb2c5c8a3fedf7b652b77f31ef242384389d2fadf67e8ac3",
+  "text_sha256": "5ab8143bed7af672639d732616b11c9bba6689a245585562f382ac4012436add",
+  "retrieved_at": "2026-10-26T13:09:52.545184+00:00"
+}

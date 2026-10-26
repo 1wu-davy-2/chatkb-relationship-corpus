@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9554284",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual Consent Across Diverse Behaviors and Contexts: Gender Differences and Nonconsensual Sexual Experiences.",
+  "authors": "Willis M, Smith R.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/08862605211044101",
+  "pmcid": "PMC9554284",
+  "url": "https://europepmc.org/article/PMC/PMC9554284",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9554284/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types"
+  ],
+  "abstract": "Sexual consent refers to people's internal willingness to engage in sexual activity with another person-as well as their external communication of that willingness. Internal and external sexual consent can vary by type of sexual behavior; however, previous research on sexual consent has primarily only assessed \"typical\" sexual behaviors such as genital touching, oral sex, and vaginal-penile sex without providing further context or acknowledging people's sexual diversity. Therefore, we provided an initial account of people's sexual consent-and lack thereof-for a broader array of sexual behaviors and contexts in which they occur. Using an online cross-sectional survey of participants in the United Kingdom and the United States ( N = 658, 50.5% women), we examined event-level internal and external sexual consent for 20 sexual behaviors or contexts. Women reported significantly lower levels of sexual consent feelings than men for 12 of the 20 sexual behaviors and lower levels of active consent communication for 7 of them. Almost a third of participants (31.0%) had experienced at least one of the listed sexual behaviors against their will. Of those, participants on average reported nonconsensual experiences with 3.1 of the 20 types of sexual behavior listed, ranging from 1 to 11. More women reported at least one nonconsensual experience with one of the sexual behaviors assessed compared with men (47.9% versus 22.3%, respectively). We discussed several behavior-specific findings regarding sexual consent and the lack thereof. We also made recommendations for initiatives aimed at promoting healthy sexual consent practices: embrace sexual diversity, emphasize sexual agency, and encourage active consent communication.",
+  "raw_path": "01_raw/europepmc_xml/PMC9554284.xml",
+  "text_path": "02_text/europepmc/PMC9554284.txt",
+  "raw_bytes": 162236,
+  "text_chars": 43966,
+  "raw_sha256": "881784bace68816caaad4afba8d81bda78338785312714f0f2af8cbb9d8a1508",
+  "text_sha256": "2dbdea0aa9300483d6dd7ad4a26b297c8cecb8dae18678b8adae35671f0b66ed",
+  "retrieved_at": "2026-10-26T13:27:34.388409+00:00"
+}

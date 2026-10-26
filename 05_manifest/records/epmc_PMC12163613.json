@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12163613",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Pathological narcissism and inceldom: can the application of treatment principles for PN help reduce the rise of incel-related incidents?",
+  "authors": "Akdag A, Blakey R.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2025.1513719",
+  "pmcid": "PMC12163613",
+  "url": "https://europepmc.org/article/PMC/PMC12163613",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12163613/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Introduction Involuntary celibates, henceforth known as incels, are individuals unable to secure sexual or romantic partners, resulting in feelings of anger towards women. Within the 'manosphere', incel radicals like Elliot Rodger are often idolised for perpetrating misogynistic terrorist acts. While interdisciplinary research within sociology, criminology and political science has surged, a significant gap remains in exploring underlying psychological contributors of incel-related beliefs. There are notable parallels in the cognition, attitudes andbehaviours between individuals with Pathological Narcissism (PN) and incels. Method This systematic review explored the intersection between the two populations, to gauge whether intervention principles designed for PN might be applicable in mitigating incel-related beliefs and behaviours. A comprehensive search across multiple databases identified 12 studies, both quantitative and qualitative, that met the selection criteria. Results A narrative synthesis revealed emerging themes of sexual frustration, perceived male oppression, aggrievedentitlement and hegemonic masculinity. Discussion Future empirical endeavours should investigate whether the identification of PN in incels could serve as a predictivemarker for incel-related radical beliefs and behaviours.",
+  "raw_path": "01_raw/europepmc_xml/PMC12163613.xml",
+  "text_path": "02_text/europepmc/PMC12163613.txt",
+  "raw_bytes": 204551,
+  "text_chars": 73935,
+  "raw_sha256": "5994c64b64e83e4c21f71b727446804c6c670bff429c509d13334188963f99bf",
+  "text_sha256": "db2302550ec59391b6a8544883fd7efd4538e9117322b8a5ffa10443f228b46e",
+  "retrieved_at": "2026-10-25T13:53:30.237854+00:00"
+}

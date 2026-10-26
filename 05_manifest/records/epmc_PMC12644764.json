@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12644764",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mindfulness and school adaptation among Chinese college students: examining the mediating effects of psychological resilience and self-harmony.",
+  "authors": "An L, Sun C, Liu B, Xuan Z, Liu F.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1038/s41598-025-25486-3",
+  "pmcid": "PMC12644764",
+  "url": "https://europepmc.org/article/PMC/PMC12644764",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12644764/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "mindfulness"
+  ],
+  "abstract": "Mindfulness is critical for physical and mental well-being, yet its role in enhancing college students' school adaptation (SA) remains underinvestigated to date. Consequently, this study aims to examine the relationship between mindfulness, psychological resilience (PR), self-harmony, and college students' SA. A total of 312 students were randomly selected from three universities in Heilongjiang and Henan provinces for assessment. The instruments utilized include the mindfulness attention awareness scale, the 10-item Connor-Davidson resilience scale, the self-consistency and congruence scale, and the school adaptation of college students questionnaire. Correlation analysis reveals that mindfulness, PR, self-harmony, and SA are significantly and positively associated. Structural equation model indicates that PR functions as a mediating factor between mindfulness and college students' SA; however, the mediating effect of self-harmony in this relationship is not statistically significant. These findings highlight the pivotal role of PR in linking mindfulness to college students' SA. This study enhances the understanding of the mechanisms underlying SA in Chinese college students and suggests that college mental health education could focus on mindfulness interventions to elevate mindfulness levels, strengthen PR, and ultimately improve SA.",
+  "raw_path": "01_raw/europepmc_xml/PMC12644764.xml",
+  "text_path": "02_text/europepmc/PMC12644764.txt",
+  "raw_bytes": 116500,
+  "text_chars": 30964,
+  "raw_sha256": "42c61c4367be68f300aaf5b4a044c3d75bd73addc859347ba47a0ae53062193c",
+  "text_sha256": "a8619bb1609c3ee2a2acea8ca15ed71a2019e0ae68f340a79e484bc7f5bc64e4",
+  "retrieved_at": "2026-10-25T15:32:18.130146+00:00"
+}

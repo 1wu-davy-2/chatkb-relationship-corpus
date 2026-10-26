@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_jealousy",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "妒忌",
+  "requested_title": "嫉妒",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A6%92%E5%BF%8C",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "emotion",
+    "relationship"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/jealousy.json",
+  "text_path": "02_text/zh_wikipedia/jealousy.txt",
+  "raw_bytes": 4310,
+  "text_chars": 1589,
+  "text_sha256": "5c7c5d26539dec6bd017001d8ec0055ed5833df2177e86273415489c93d101b3",
+  "retrieved_at": "2026-10-25T15:35:15.101984+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12719928",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Could Partner Responsiveness be Involved in the Unforgiveness Process Following a Relational Transgression?",
+  "authors": "Yilmaz E, Jean M, Brassard A, Péloquin K.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jmft.70109",
+  "pmcid": "PMC12719928",
+  "url": "https://europepmc.org/article/PMC/PMC12719928",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12719928/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "responsiveness"
+  ],
+  "abstract": "Unforgiveness is a potential response following a relational transgression in couple relationships, manifesting in cognitive-evaluative, emotional-ruminative, and offender reconstrual dimensions. The type and degree of unforgiveness experienced after a relational transgression could be influenced by interpersonal variables such as perceived partner responsiveness. However, the link between perceived partner responsiveness and unforgiveness has not been examined. This study aimed to investigate this link to better understand the factors that might hinder unforgiveness after relational transgressions. It was hypothesized that perceived partner responsiveness would be negatively associated with unforgiveness. Data were collected from 275 couples in which partners reported having experienced a relational transgression, using self-report questionnaires. Data analyses revealed a significant negative association between perceived partner responsiveness and all dimensions of unforgiveness. Conversely, a positive association was found between perceived partner insensitivity and all dimensions of unforgiveness. These findings might offer practical insights for therapeutic interventions with couples navigating relational transgressions.",
+  "raw_path": "01_raw/europepmc_xml/PMC12719928.xml",
+  "text_path": "02_text/europepmc/PMC12719928.txt",
+  "raw_bytes": 107494,
+  "text_chars": 39453,
+  "raw_sha256": "bf5387b2d254ee10a5cc89d3802efee2dcdc94c9083debbe09a31df880b6c250",
+  "text_sha256": "639963456dab9a53140c1830d848dcaf658604af505f90f8f54230d19eb0c6df",
+  "retrieved_at": "2026-10-25T13:47:39.220544+00:00"
+}

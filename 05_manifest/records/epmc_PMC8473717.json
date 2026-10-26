@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8473717",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Depression in Ugandan Rural Women Involved in a Money Saving Group: The Role of Spouse's Unemployment, Extramarital Relationship, and Substance Use.",
+  "authors": "Kaggwa MM, Namatanzi B, Kule M, Nkola R, Najjuka SM, Al Mamun F, Hosen I, Mamun MA, Ashaba S.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.2147/ijwh.s323636",
+  "pmcid": "PMC8473717",
+  "url": "https://europepmc.org/article/PMC/PMC8473717",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8473717/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "Background Rural women are highly prevalent to depression, where spouse-related factors, including extramarital affairs and poverty, intensify its likelihood of occurrence. However, women engaged with a Money-Saving Group (MSG) are financially self-dependent, which can reduce the risk of depression suffering. Despite this, there is less study among this cohort, which led us to investigate the prevalence and associated factors of depression among the Ugandan women involved in MSG. Methods This was a cross-sectional study in Uganda among rural married or cohabiting women aged 18 to 45 years engaged in MSG. The survey was carried out within a total of 153 participants (33.3 ± 6.7 years) in April 2021. Information related to socio-demographic of the participants, their spouse characteristics, and depression were collected. Results About 65.4% of the participants had depressive symptoms (based on the cutoff 10/27 at the PHQ-9). But, 8.15 times (CI: 2.83-23.44, p p Conclusion This study observed a higher prevalence of depression, which suggests paying attention to this cohort. Thus, there should be routine screening for depression among married women involved in MSG at lower-level health facilities in rural settings, especially those with spouses engaged in substance use, having an extramarital relationship, and being unemployed.",
+  "raw_path": "01_raw/europepmc_xml/PMC8473717.xml",
+  "text_path": "02_text/europepmc/PMC8473717.txt",
+  "raw_bytes": 101766,
+  "text_chars": 27293,
+  "raw_sha256": "59b6d94bbffac7abdbcf5b9c642ff4957760b70779a548e18765d38ddd83c43c",
+  "text_sha256": "cb549ae552f3e5ca40d7d16318b48131f85171055e9d82ae6065965226246937",
+  "retrieved_at": "2026-10-25T15:35:20.659013+00:00"
+}

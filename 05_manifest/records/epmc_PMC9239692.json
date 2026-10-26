@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9239692",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Developing Valid and Feasible Measures of Sexual Consent for Experience Sampling Methodology.",
+  "authors": "Willis M, Jozkowski KN, Bridges AJ, Davis RE, Veilleux JC.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1080/00224499.2021.1907526",
+  "pmcid": "PMC9239692",
+  "url": "https://europepmc.org/article/PMC/PMC9239692",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9239692/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types"
+  ],
+  "abstract": "Preliminary evidence indicates that people's sexual consent (i.e., their willingness to engage in sexual activity and communication of that willingness) varies across time and context. Study designs that assess sexual consent at multiple time points (e.g., experience sampling methodology [ESM]) are needed to better understand the within-person variability of sexual consent. However, extant validated measures of sexual consent are not appropriate for ESM studies, which require shorter assessments due to the increased burden this methodology has on participants. As such, the goal of the present study was to develop ESM measures of sexual consent based on items that have previously been validated for use in cross-sectional surveys. We selected items that balanced face validity as evidenced by cognitive interviews ( n = 10) and content validity as evidenced by experts' ratings ( n = 6). To assess the construct validity and feasibility of these items, we administered the selected ESM measures of sexual consent in a seven-day pilot study ( n = 12). The results suggested that the ESM measures developed in the present study were a valid and feasible assessment of people's experience-specific internal consent feelings and external consent communication. We conclude with recommendations for sex researchers interested in ESM.",
+  "raw_path": "01_raw/europepmc_xml/PMC9239692.xml",
+  "text_path": "02_text/europepmc/PMC9239692.txt",
+  "raw_bytes": 153749,
+  "text_chars": 67532,
+  "raw_sha256": "fe515cf094dc5bd5213bbe2279c938fd7f8a56cf76922aa591523796f636b56a",
+  "text_sha256": "3d74e5c910d0b8f3e33af909cba22a7629100abfacba69dfdd9faa92e9f11ab4",
+  "retrieved_at": "2026-10-26T13:27:57.722548+00:00"
+}

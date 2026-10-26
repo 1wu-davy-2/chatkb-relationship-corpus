@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_25421",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "圍爐夜話",
+  "gutenberg_id": "25421",
+  "url": "https://www.gutenberg.org/ebooks/25421",
+  "download_url": "https://www.gutenberg.org/cache/epub/25421/pg25421.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/25421.txt",
+  "text_path": "02_text/gutenberg/gut_25421_圍爐夜話.txt",
+  "raw_bytes": 47857,
+  "text_chars": 9884,
+  "text_sha256": "79ff8519e779d3db0673c8865880f05e5f39343555e4c662fbb7fef0ec169baf",
+  "retrieved_at": "2026-10-25T15:51:03.542964+00:00"
+}

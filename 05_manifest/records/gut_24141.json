@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_24141",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "警世通言",
+  "gutenberg_id": "24141",
+  "url": "https://www.gutenberg.org/ebooks/24141",
+  "download_url": "https://www.gutenberg.org/cache/epub/24141/pg24141.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/24141.txt",
+  "text_path": "02_text/gutenberg/gut_24141_警世通言.txt",
+  "raw_bytes": 1176833,
+  "text_chars": 377403,
+  "text_sha256": "4912d6a8adc89177c6987e2010b9bb4fb54b13b3192a5d1bfeeb5c6e3f10c33f",
+  "retrieved_at": "2026-10-25T15:45:29.621722+00:00"
+}

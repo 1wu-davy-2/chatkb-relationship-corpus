@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13024662",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual Harassment and Gender-Based Harassment Among Teaching and Research Staff at a Public University in Northwestern Spain: Prevalence and Predictors.",
+  "authors": "Rodríguez-Castro Y, Fernández-Cendón M, Martínez-Román R, Mahou-Lago XM.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/bs16030466",
+  "pmcid": "PMC13024662",
+  "url": "https://europepmc.org/article/PMC/PMC13024662",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13024662/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "The aim of this study is twofold: (a) to identify the prevalence of sexual harassment and sex-based harassment among teaching and research staff (TRS) at a public university; and (b) to examine the predictive capacity of sociodemographic variables and prior harassment experiences on the frequency of different forms of sexual victimization (SEQ): gender harassment, unwanted sexual attention, and sexual coercion. A total of 425 TRS members participated (48.9% women, 50.6% men, 0.5% not identified; mean age = 45.88, SD = 22.2), all affiliated with a public university in northwestern Spain. Findings showed that female TRS explicitly self-identified as victims of sexual harassment and gender-based harassment within the university. Overall mean scores on the three SEQ subscales were low, yet women reported significantly higher levels of gender harassment and unwanted sexual attention. Female TRS also showed higher levels of technology-facilitated sexual harassment compared with their male counterparts. Hierarchical regression analyses indicated that prior sexual victimization and technology-facilitated harassment were the strongest predictors across all SEQ dimensions. Unwanted sexual attention and TFSV predicted sexual coercion, whereas higher professional rank was associated with a reduced risk within this university. In conclusion, this public university requires well-disseminated and trusted protocols that explicitly address digital forms of sexual violence, alongside sustained preventive programs aimed at reducing revictimization.",
+  "raw_path": "01_raw/europepmc_xml/PMC13024662.xml",
+  "text_path": "02_text/europepmc/PMC13024662.txt",
+  "raw_bytes": 187433,
+  "text_chars": 50976,
+  "raw_sha256": "b6e51023119d02414628a6b0acc031d1f1dc1fc1b316d2961d81c8d339a9a908",
+  "text_sha256": "da9ae796cc1d849e26c5c716cd8cc3c3037680ba493f8d00a4abe8ff0932339d",
+  "retrieved_at": "2026-10-26T12:53:14.330303+00:00"
+}

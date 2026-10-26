@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13314969",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Female sexual dysfunction among foreign and Australian-born women: a cross-sectional study.",
+  "authors": "Mirzaei Damabi N, Begum M, Avery JC, Meherali S, Lassi ZS.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/frph.2026.1855626",
+  "pmcid": "PMC13314969",
+  "url": "https://europepmc.org/article/PMC/PMC13314969",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13314969/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_function_dysfunction"
+  ],
+  "abstract": "Background Female sexual dysfunction (FSD) affects a substantial proportion of reproductive-aged women (15-49 years) globally, yet little is known about how migration shapes sexual function. This study compares and describes the patterns of FSD among foreign-born and Australian-born women residing in Australia. Methods This cross-sectional study recruited women through an online survey using a convenience sampling approach with equal recruitment targets for foreign-born and Australian-born women. FSD was assessed using the validated Female Sexual Function Index (FSFI), with dysfunction defined as a total score of 26.55 or below. Patterns of FSD were compared between groups and stratified by sociodemographic characteristics. Multivariable logistic regression was performed to compare FSD among overseas-born women with Australian born women, controlling for age, education, marital status, religion, area-level socioeconomic position, and gravidity. Results A total of 678 women were included in the final analysis (342 Australian-born, 336 foreign-born). About 47.1% (95% CI: 41.7-52.5) Australian-born and 46.1% (95% CI: 40.7-51.6) foreign-born participants had FSD. Mean FSFI total scores were nearly identical (Australian-born: 26.35 ± 5.72, 95% CI: 25.74-26.95; foreign-born: 26.41 ± 5.69, 95% CI: 25.80-27.03; p = 0.876), with both groups falling just below the dysfunction threshold. Scores across all six FSFI domains were broadly comparable. There were substantial differences in the distribution of FSD cases by area-level socioeconomic status among Australian-born women, and by religious affiliation across the combined sample. After adjustment for sociodemographic confounders, overseas-born women had slightly lower odds of FSD compared with Australian-born women (aOR = 0.89, 95% CI: 0.62-1.28, p = 0.525), however the confidence interval included the null. Conclusions FSD affected 46.6% of survey participants overall. Future longitudinal research is needed to build a more complete understanding of sexual health equity across diverse populations.",
+  "raw_path": "01_raw/europepmc_xml/PMC13314969.xml",
+  "text_path": "02_text/europepmc/PMC13314969.txt",
+  "raw_bytes": 141746,
+  "text_chars": 40280,
+  "raw_sha256": "7a8d009d0fdc8848c6e4ef3569ecd46c78186754a23e44fb912a861d9d29e14e",
+  "text_sha256": "cc6231c4570bb79963ed985433bc7af8e29f95a221b2143008cb16a19e7fd17d",
+  "retrieved_at": "2026-10-26T13:05:18.898925+00:00"
+}

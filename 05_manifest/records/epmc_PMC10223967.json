@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10223967",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Electropositive Membrane Prepared via a Simple Dipping Process: Exploiting Electrostatic Attraction Using Electrospun SiO 2 /PVDF Membranes with Electronegative SiO 2 Shell.",
+  "authors": "Choi D, Lee CH, Lee HB, Lee MW, Jo SM.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3390/polym15102270",
+  "pmcid": "PMC10223967",
+  "url": "https://europepmc.org/article/PMC/PMC10223967",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10223967/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "This research aimed to develop a simple and cost-effective method for fabricating electropositive membranes for highly efficient water filtration. Electropositive membranes are novel functional membranes with electropositive properties and can filter electronegative viruses and bacteria using electrostatic attraction. Because electropositive membranes do not rely on physical filtration, they exhibit high flux characteristics compared with conventional membranes. This study presents a simple dipping process for fabricating boehmite/SiO 2 /PVDF electropositive membranes by modifying an electrospun SiO 2 /PVDF host membrane using electropositive boehmite nanoparticles (NPs). The surface modification enhanced the filtration performance of the membrane, as revealed by electronegatively charged polystyrene (PS) NPs as a bacteria model. The boehmite/SiO 2 /PVDF electropositive membrane, with an average pore size of 0.30 μm, could successfully filter out 0.20 μm PS particles. The rejection rate was comparable to that of Millipore GSWP, a commercial filter with a pore size of 0.22 μm, which can filter out 0.20 μm particles via physical sieving. In addition, the water flux of the boehmite/SiO 2 /PVDF electropositive membrane was twice that of Millipore GSWP, demonstrating the potential of the electropositive membrane in water purification and disinfection.",
+  "raw_path": "01_raw/europepmc_xml/PMC10223967.xml",
+  "text_path": "02_text/europepmc/PMC10223967.txt",
+  "raw_bytes": 83785,
+  "text_chars": 25959,
+  "raw_sha256": "9caa581233a4ef1713d1e7cf2f09f6bd20e9d8de6402c9f5413684d5c00fd3fb",
+  "text_sha256": "2f759d17bfaa7245f0cdfb5db77eec982155ff8931f761f75058879d974da21e",
+  "retrieved_at": "2026-10-25T15:38:07.295424+00:00"
+}

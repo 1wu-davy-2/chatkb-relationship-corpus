@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12286370",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "It takes two to tango: A directed two-mode network approach to desirability on a mobile dating app.",
+  "authors": "Topinkova R, Diviak T.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0327477",
+  "pmcid": "PMC12286370",
+  "url": "https://europepmc.org/article/PMC/PMC12286370",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12286370/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "Using digital traces from online dating presents the opportunity to study the earliest stages of human mating. We focus on whether online dating app users are homophilic in terms of the desirability of whom they pursue. Using data from a Czech online dating app, we construct directed two-mode networks where nodes represent users, ties represent messages expressing interest (\"swipes\"), and desirability is measured by the number of \"swipes\" each node receives. Using network measures and conditional uniform graph tests extended to directed two-mode networks, we find that the structure of the networks is considerably hierarchical. Women are in advantageous position on the app due to the uneven gender ratio and their substantially higher desirability. The results further show that men pursue women who are more desirable than themselves. The reciprocated contacts are comparatively more homophilic. These results suggest that in terms of desirability, the similarity of partners is due to the subsequent mating processes (e.g., rejection) rather than due to initial preference for similarity.",
+  "raw_path": "01_raw/europepmc_xml/PMC12286370.xml",
+  "text_path": "02_text/europepmc/PMC12286370.txt",
+  "raw_bytes": 122472,
+  "text_chars": 51525,
+  "raw_sha256": "80bc874fd853efaaca0896746bc1edb133103f0762611851a5c1740dc83c0b56",
+  "text_sha256": "b7301175ded370fbf94d5c1fd2eceffd809be5564b8247601f9c2cf743039358",
+  "retrieved_at": "2026-10-25T13:53:02.560024+00:00"
+}

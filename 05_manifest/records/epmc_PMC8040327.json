@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8040327",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Associations between relationship status and mental well-being in different life phases from young to middle adulthood.",
+  "authors": "Grundström J, Konttinen H, Berg N, Kiviruusu O.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1016/j.ssmph.2021.100774",
+  "pmcid": "PMC8040327",
+  "url": "https://europepmc.org/article/PMC/PMC8040327",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8040327/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "The aim of this study was to assess the associations between relationship status and mental well-being in four different phases during the life course, and to identify whether relationship quality moderated these associations. We used a broader concept of relationship status (instead of marital status) and also included the positive dimension of mental health. Participants in a Finnish cohort study were followed up at ages 22 (N = 1,656), 32 (N = 1,471), 42 (N = 1,334), and 52 (N = 1,159). Measures in all study panels covered relationship status (marriage, cohabitation, dating, single and divorced/widowed), Short Beck Depression Inventory (S-BDI), self-esteem (seven items) and relationship quality (six items). Analyses were carried out using linear regression. Compared to marriage, being single or being divorced/widowed were associated with depressive symptoms at every age in men. For women, in turn, being single - but not being divorced/widowed - was associated with depressive symptoms. Among men, being single or being divorced/widowed were also associated with lower self-esteem at age 32, 42 and 52, but in women, only one association between lower self-esteem and being single was found at age 32. Of the age stages, the age 32 is highlighted in men, at which point all relationship statuses were risk factors compared to marriage. There were only few indications of the moderating role of the relationship quality. Compared to marriage, being single or being divorced/widowed were quite consistently associated with poorer mental well-being during the life course, especially among men. For dating and cohabiting the associations were more fragmented depending on age and gender; particularly among women, these relationship statuses tended not to differ from marriage in terms of mental well-being. These observations on mental well-being across five relationship statuses are important in our contemporary society, where the number of marriages is decreasing, and other forms of relationships are becoming more common.",
+  "raw_path": "01_raw/europepmc_xml/PMC8040327.xml",
+  "text_path": "02_text/europepmc/PMC8040327.txt",
+  "raw_bytes": 156183,
+  "text_chars": 48446,
+  "raw_sha256": "c5e71468852ab96bb42a86c2582d486b3818a920dcbb755b08dbb18693407f03",
+  "text_sha256": "fef55fe50120609249e27ce83990f34503a9c511edfe74df575aee81332e4f24",
+  "retrieved_at": "2026-10-25T15:46:14.623925+00:00"
+}

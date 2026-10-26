@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10441775",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The pursuit of intimacy: intimate relationship development for women with physical disabilities.",
+  "authors": "Ruiz D, Kriofske Mainella A, Rosenthal DA.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fresc.2023.1070501",
+  "pmcid": "PMC10441775",
+  "url": "https://europepmc.org/article/PMC/PMC10441775",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10441775/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "Background and purpose Understanding the barriers and facilitators to intimate relationship development among women with physical disabilities is crucial for promoting positive rehabilitation outcomes. This study investigates these factors using a Consensual Qualitative Research approach. Methods The research team utilized Consensual Qualitative Research. Consensual Qualitative Research is widely used in various social services to address limitations inherent limitations of other qualitative methods. Women with various physical disabilities (n=6) were identified and interviewed using a utilized a semi-structured interview. Their attitudes towards intimacy, outcome expectancy, and self-concept of women with physical disabilities were examined. The impact of physical disabilities, including disability stigma, on these factors was also assessed. Data was coded utilizing multiple researcher consensus as well as an auditor to consensually agree upon domains and core ideas while taking into account validity and trustworthiness, as per the methodology chosen. Results The study discovered general themes (100% representation) concerning core values and barriers to intimacy, societal barriers to intimate relationships, and hope for future relationships. Typical themes (50-83% representation) included non-romantic intimacy, physical barriers to intimacy, perceived limitations, and negative outcome expectancies. Across the board, the influence of disability limitations, identity, and societal attitudes became evident. The role of rehabilitation professionals in advocating for social skills development and self-confidence enhancement emerged as crucial. Conclusions The study illuminated barriers to intimacy among women with physical disabilities, such as societal stigma and self-concept associated with disability. The critical role of rehabilitation professionals in normalizing intimacy discussions and equipping individuals with necessary social skills and self-confidence was underscored. This focus could yield enhanced intimate relationship outcomes and improve the quality of life for women with physical disabilities.",
+  "raw_path": "01_raw/europepmc_xml/PMC10441775.xml",
+  "text_path": "02_text/europepmc/PMC10441775.txt",
+  "raw_bytes": 101296,
+  "text_chars": 42890,
+  "raw_sha256": "ea7799f1e23d0155e6ec4d51f323532134010ce67d118e25ed13444a709f59aa",
+  "text_sha256": "935a0d143088eee8f10683cdf8582b73ddbe6eb8119d79e2905ed6e4625faa4b",
+  "retrieved_at": "2026-10-25T15:49:23.742370+00:00"
+}

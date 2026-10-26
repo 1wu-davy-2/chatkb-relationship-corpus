@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12644308",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Secondary benefits of a brief couples intervention on coparenting through relationship quality and partner conflict.",
+  "authors": "Demy J, Jambon M, Wade M, Muise A, Prime H.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1002/imhj.70027",
+  "pmcid": "PMC12644308",
+  "url": "https://europepmc.org/article/PMC/PMC12644308",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12644308/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "In two-parent households, the interparental relationship and coparenting alliance are central to the well-being of family relationships and young children. The current study examines whether participation in a brief, online, couple-focused relationship intervention has collateral benefits to coparenting indirectly through improvements in couple relationship quality and conflict frequency, respectively. A community sample of couples with young children in Canada (N = 140 couples; 280 participants; 91.4% heterosexual; 61.1% White; 49.3% women) participated in a randomized controlled trial (RCT). The intervention group was taught conflict reappraisal strategies, whereas the control group received an inactive control task. Both members of the couple reported on perceived relationship quality and conflict frequency (at baseline and post-intervention), and coparenting (at baseline, 1-month, and 3-month follow-up). Controlling for baseline levels, a longitudinal, parallel mediation analysis including relationship quality and conflict frequency as mediators indicated that the indirect effect of random assignment to the intervention to coparenting via relationship quality was significant, but not through conflict frequency. There are positive cascading effects of a couple-focused intervention onto the relationship between parents, which in turn enhances their ability to work together to raise their child. Findings help to bridge intervention research across relationship, family, and developmental science.",
+  "raw_path": "01_raw/europepmc_xml/PMC12644308.xml",
+  "text_path": "02_text/europepmc/PMC12644308.txt",
+  "raw_bytes": 230306,
+  "text_chars": 57548,
+  "raw_sha256": "a62add0d8f469897d7552bf0421b869e1b55ab11884bfe32840a61d5daee8fe6",
+  "text_sha256": "2e6b831499b0011ad5bec6a04472ab682a7ff79ebfadd5116150972964638e56",
+  "retrieved_at": "2026-10-25T15:45:49.905217+00:00"
+}

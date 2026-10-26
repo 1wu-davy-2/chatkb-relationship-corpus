@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9708578",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Magical thinking in individuals with high polygenic risk for schizophrenia but no non-affective psychoses-a general population study.",
+  "authors": "Saarinen A, Lyytikäinen LP, Hietala J, Dobewall H, Lavonius V, Raitakari O, Kähönen M, Sormunen E, Lehtimäki T, Keltikangas-Järvinen L.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1038/s41380-022-01581-z",
+  "pmcid": "PMC9708578",
+  "url": "https://europepmc.org/article/PMC/PMC9708578",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9708578/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "superstition_decision"
+  ],
+  "abstract": "A strong genetic background for psychoses is well-established. Most individuals with a high genetic risk for schizophrenia, however, do not develop the disorder. We investigated whether individuals, who have a high genetic risk for schizophrenia but no non-affective psychotic disorders, are predisposed to develop milder forms of deviant thinking in terms of magical thinking. Participants came from the population-based Young Finns Study (n = 1292). The polygenic risk score for schizophrenia (PRS) was calculated on the basis of the most recent genome-wide association study (GWAS). Psychiatric diagnoses over the lifespan were collected up to 2017 from the registry of hospital care. Magical thinking was evaluated with the Spiritual Acceptance Scale (e.g., beliefs in telepathy, miracles, mystical events, or sixth sense) of the Temperament and Character Inventory in 1997, 2001, and 2012 (participants were 20-50-year-olds). We found that, among those who did not develop non-affective psychotic disorders, high PRS predicted higher magical thinking in adulthood (p = 0.001). Further, PRS predicted different developmental courses: a low PRS predicted a steady decrease in magical thinking from age 20 to 50 years, while in individuals with high PRS the decrease in magical thinking ceased in middle age so that their level of magical thinking remained higher than expected for that age. These findings remained when controlling for sex, childhood family environment, and adulthood socioeconomic factors. In conclusion, if high PRS does not lead to a non-affective psychotic disorder, it predicts milder forms of deviant thinking such as elevated magical thinking in adulthood, especially in middle age. The finding enhances our understanding of different outcomes of high genetic psychosis risk.",
+  "raw_path": "01_raw/europepmc_xml/PMC9708578.xml",
+  "text_path": "02_text/europepmc/PMC9708578.txt",
+  "raw_bytes": 132113,
+  "text_chars": 39520,
+  "raw_sha256": "497d3e2394aace35571c66b14f7c8fe0fa3342fe617cdf7fd50441344154d2c9",
+  "text_sha256": "9a91e3a035b2a7adff4c34fcd78e745aca9b7c5455a23cd6303d60fd1c495604",
+  "retrieved_at": "2026-10-26T13:32:28.629939+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12711121",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The impact of genital self-image on sexual function and sexual satisfaction in married women.",
+  "authors": "Günaydin Y, Kir E, Toker S, Deprem MK.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1590/1806-9282.20250935",
+  "pmcid": "PMC12711121",
+  "url": "https://europepmc.org/article/PMC/PMC12711121",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12711121/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication",
+    "sexual_satisfaction"
+  ],
+  "abstract": "Objective This study was conducted to determine the effect of genital self-image on sexual function and satisfaction in married women. Methods The study included 353 married women in Central Anatolia. Data were collected using the Descriptive Information Form, the Female Genital Self-Image Scale, the Female Sexual Function Index-6, and the Golombok-Rust Inventory of Sexual Satisfaction. Results The participants' mean total scores were 20.36±4.03 on the Female Genital Self-Image Scale, 19.46±4.98 on the Female Sexual Function Index-6, and 55.84±16.79 on the Golombok-Rust Inventory of Sexual Satisfaction. The regression analysis indicated that Female Sexual Function Index-6, age, marriage duration, and total Golombok-Rust Inventory of Sexual Satisfaction scores collectively predicted Female Genital Self-Image Scale scores, accounting for 13.2% of variance and suggesting a modest yet meaningful effect. Conclusion Approaches that enhance genital self-image support women's sexual health, and it is essential for healthcare professionals to provide quality care by taking these factors into consideration.",
+  "raw_path": "01_raw/europepmc_xml/PMC12711121.xml",
+  "text_path": "02_text/europepmc/PMC12711121.txt",
+  "raw_bytes": 118302,
+  "text_chars": 17355,
+  "raw_sha256": "97562c88dc9e33a90c8b5b6953e119b4071c581fe315f67a3656c84b8e606291",
+  "text_sha256": "1f56fcb1463a6467bad5d620aea214b24a74e0b0771723ced2ca14dd0e4c656d",
+  "retrieved_at": "2026-10-25T15:35:09.327196+00:00"
+}

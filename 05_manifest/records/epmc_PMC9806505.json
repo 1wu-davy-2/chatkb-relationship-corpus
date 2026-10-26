@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC9806505",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Understanding a Mutually Destructive Relationship Between Individuals With Borderline Personality Disorder and Their Favorite Person.",
+  "authors": "Jeong H, Jin MJ, Hyun MH.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.30773/pi.2022.0079",
+  "pmcid": "PMC9806505",
+  "url": "https://europepmc.org/article/PMC/PMC9806505",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9806505/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection",
+    "rejection_sensitivity"
+  ],
+  "abstract": "Objective Individuals with borderline personality disorder (BPD) commonly have a favorite person (FP), whom they are heavily emotionally attached to and dependent on. This study aims to identify and illustrate the patterns of destructive FP relationships based on actual experiences described by those with BPD. Methods A data mining process was conducted using raw data collected from online communities, such as blogs and social networks. An in-depth review of the information to better understand the natural course of the FP relationship was also conducted. Results Individuals with BPD form an intense and insecure attachment toward their FP, from which they enormously suffer. FPs can be their friends, romantic or life partners, or family members. As their feelings go beyond their control, being increasingly obsessed with their FP, they make their FP gradually lose hope in continuing the relationship and want to quit trying to fulfill their needs. The relationship finally ends when the FP stops being responsible for meeting their expectations and eventually drifts away. Conclusion This study suggests that certain FPs, distinctively named Teddy Bear Person, may behave in a particular manner to increase the likelihood of the FP relationship becoming more destructive. Moreover, the rejection sensitivity model should be discussed to understand their dysfunctional interaction.",
+  "raw_path": "01_raw/europepmc_xml/PMC9806505.xml",
+  "text_path": "02_text/europepmc/PMC9806505.txt",
+  "raw_bytes": 103233,
+  "text_chars": 33366,
+  "raw_sha256": "87dde85a568399001a927605f0c418909c4beb00ee56a54ff97cd76f7964b24b",
+  "text_sha256": "d0041728737ac69a44f40ae5d247f661db819835d82e21cbc346fa75613411e7",
+  "retrieved_at": "2026-10-25T13:51:13.015440+00:00"
+}

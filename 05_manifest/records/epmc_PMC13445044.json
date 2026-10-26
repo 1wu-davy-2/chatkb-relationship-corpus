@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13445044",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Breaking the Silence: The Effectiveness of a Bystander Intervention Program Against Dating Violence",
+  "authors": "Er S, Buzlu S.",
+  "year": "",
+  "journal": "",
+  "doi": "",
+  "pmcid": "PMC13445044",
+  "url": "https://europepmc.org/article/PMC/PMC13445044",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13445044/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "",
+  "raw_path": "01_raw/europepmc_xml/PMC13445044.xml",
+  "text_path": "02_text/europepmc/PMC13445044.txt",
+  "raw_bytes": 7283,
+  "text_chars": 3437,
+  "raw_sha256": "a413e8c4674007c4f5ea147dcb4950a0eff40d467e75d0bf97f10b195208559b",
+  "text_sha256": "cd184dbace63d67247d3c0a60d0b125197d4c1d27d377632903efaf8dfad7b21",
+  "retrieved_at": "2026-10-25T15:27:57.880054+00:00"
+}

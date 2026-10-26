@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11903718",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Paranormal belief and conspiracy theory endorsement: variations in adaptive function and positive wellbeing.",
+  "authors": "Dagnall N, Denovan A, Drinkwater KG, Escolà-Gascón Á.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1519223",
+  "pmcid": "PMC11903718",
+  "url": "https://europepmc.org/article/PMC/PMC11903718",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11903718/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "paranormal_belief"
+  ],
+  "abstract": "Recent studies report that paranormal belief and conspiracy theory endorsement are differentially related to factors allied to positive wellbeing (e.g., meaning in life and coping behaviours). Since these findings derive from correlational studies using cross sectional designs, researchers need to undertake further investigation to establish outcome robustness. Accordingly, the present study used a multiple time point design. Respondents ( N = 1,158) completed measures on three occasions, three months apart. While a strong positive association was found between paranormal belief and conspiracist theory endorsement, path analysis revealed divergent relationships with positive wellbeing outcomes. Specifically, paranormal belief predicted greater levels of positive wellbeing over time (meaning in life and social identity), whereas conspiracy theory endorsement predicted only social identity. Consideration of mediation effects revealed that paranormal belief prognosticated greater presence of meaning in life via links with active coping and positive outlook. Additionally, avoidant coping positively mediated the paranormal belief-search for meaning in life relationship. Conspiracy theory endorsement predicted greater social identity via avoidant coping. Findings indicated that paranormal belief and conspiracy theory endorsement were differentially related to positive wellbeing outcomes. Regarding paranormal belief, the construct was concomitantly attendant with passive and active psychological functions. The association with avoidant coping suggested that in some circumstances supernatural credence enables believers to avert attention from problems.",
+  "raw_path": "01_raw/europepmc_xml/PMC11903718.xml",
+  "text_path": "02_text/europepmc/PMC11903718.txt",
+  "raw_bytes": 125310,
+  "text_chars": 39331,
+  "raw_sha256": "050c8c136630770a6a26da31f64cecb3a91ee061b8220f2308fe914890293553",
+  "text_sha256": "446189b94b1681b358702226118747c0f61059bc0b08eca87ed7f1dc22c145bd",
+  "retrieved_at": "2026-10-26T13:27:00.260558+00:00"
+}

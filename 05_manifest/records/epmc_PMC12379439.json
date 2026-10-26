@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12379439",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Digital exclusion and loneliness in older people: panel data analysis of three longitudinal cohort studies.",
+  "authors": "Zhong S, Wang Y.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s12877-025-06337-2",
+  "pmcid": "PMC12379439",
+  "url": "https://europepmc.org/article/PMC/PMC12379439",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12379439/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "Objective Older adults are more vulnerable to digital exclusion, which has been associated with psychological distress. This study investigated the relationship between digital exclusion and loneliness among older adults across three countries using three longitudinal surveys. Design and measurements Digital exclusion was defined as self-reported non-use of the internet. Loneliness was assessed using the Three-Item Loneliness Scale (T-ILS). We employed Generalized Estimating Equations (GEE) with binary logistic regression and propensity score matching (PSM) to examine the association between digital exclusion and loneliness, adjusting for covariates including Age; Gender; Education; Marital status; Employment status; Cohabitation with children; Self-rated health; and Income. Setting and participants Nationally representative samples of older adults were obtained from three longitudinal studies: the China Health and Retirement Longitudinal Study (CHARLS), the Health and Retirement Study (HRS), and the English Longitudinal Study of Ageing (ELSA). The analysis included 39,190 participants (87,256 observations) across the three studies. Results Substantial cross-national disparities in digital exclusion rates were observed: CHARLS (96.20%), HRS (52.13%), and ELSA (33.54%). In the fully adjusted model (Model 3), digital exclusion was significantly associated with loneliness in all three studies (CHARLS: OR = 1.22; HRS: OR = 1.16; ELSA: OR = 1.30). These associations remained statistically significant after propensity score matching (CHARLS: OR = 1.33; HRS: OR = 1.23; ELSA: OR = 1.23). Conclusion Our findings indicate that a substantial proportion of older adults experience digital exclusion, particularly in China. Digital exclusion demonstrates a positive association with loneliness, suggesting that enhancing digital inclusion may serve as a critical strategy for alleviating loneliness and mitigating psychological distress in ageing populations.",
+  "raw_path": "01_raw/europepmc_xml/PMC12379439.xml",
+  "text_path": "02_text/europepmc/PMC12379439.txt",
+  "raw_bytes": 108139,
+  "text_chars": 29304,
+  "raw_sha256": "02ca1a63d06ab8181d5e2e292a204cf10b644e1c927c0598faa3723b3a69aa3a",
+  "text_sha256": "6cb1520f713aa8b3dacc8163341095e6d99d5a40c96f7f1d6a9bb71c162b13ac",
+  "retrieved_at": "2026-10-25T15:48:15.666270+00:00"
+}

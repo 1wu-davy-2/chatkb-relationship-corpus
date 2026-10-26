@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8870843",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Linking Sexting Expectancies with Motivations to Sext.",
+  "authors": "Currin JM.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3390/ejihpe12020016",
+  "pmcid": "PMC8870843",
+  "url": "https://europepmc.org/article/PMC/PMC8870843",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8870843/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "While many researchers have explored the impact sexting may have on relationships and mental health, few have explored the motivations and expectancies as to why individuals engage in sexting. By understanding why individuals sext their partners, we can learn more about what drives the behavior. Therefore, the current study sought to determine if sexting for sexual purposes (SP) or body image reinforcement (BIR) would predict positive sext expectancies. There was no prediction for instrumental/aggravated reasons (IAR). The online questionnaire had 348 participants, and based on regression analysis, positive sext expectancies while sending a sext message predicted sexting for sexual purposes. Somewhat surprisingly, sexting for instrumental/aggravated reasons was predicted by negative sext expectancies (both sending and receiving). These findings demonstrate individuals who sext for sexual purposes, and have positive sext expectancies, appear to enjoy the consequences of that behavior. Individuals who sext for instrumental/aggravated reasons may be uncomfortable with the outcome of their sexting behavior. This result highlights an area where clinicians could help clients explore the true reinforcements behind IAR.",
+  "raw_path": "01_raw/europepmc_xml/PMC8870843.xml",
+  "text_path": "02_text/europepmc/PMC8870843.txt",
+  "raw_bytes": 80897,
+  "text_chars": 28707,
+  "raw_sha256": "aea4f24dcee1fc7c512f8bdb8e6d984d1cc03613d7fa4d3428a853a6ea0d7fb4",
+  "text_sha256": "04f9a58adfe3aef87f33b4133f5697fb9a29df95dcb3c8bfd5f2c8e8fb6de550",
+  "retrieved_at": "2026-10-26T13:06:45.898831+00:00"
+}

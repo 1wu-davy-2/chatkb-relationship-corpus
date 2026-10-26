@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10089354",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Antecedents of the red-romance effect: Men's attractiveness and women's fertility.",
+  "authors": "Agthe M, Niesta Kayser D, Schwarz S, Maner JK.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0284035",
+  "pmcid": "PMC10089354",
+  "url": "https://europepmc.org/article/PMC/PMC10089354",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10089354/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "The color red has been implicated in a variety of social processes, including those involving mating. While previous research suggests that women sometimes wear red strategically to increase their attractiveness, the replicability of this literature has been questioned. The current research is a reasonably powered conceptual replication designed to strengthen this literature by testing whether women are more inclined to display the color red 1) during fertile (as compared with less fertile) days of the menstrual cycle, and 2) when expecting to interact with an attractive man (as compared with a less attractive man and with a control condition). Analyses controlled for a number of theoretically relevant covariates (relationship status, age, the current weather). Only the latter hypothesis received mixed support (mainly among women on hormonal birth control), whereas results concerning the former hypothesis did not reach significance. Women (N = 281) displayed more red when expecting to interact with an attractive man; findings did not support the prediction that women would increase their display of red on fertile days of the cycle. Findings thus suggested only mixed replicability for the link between the color red and psychological processes involving romantic attraction. They also illustrate the importance of further investigating the boundary conditions of color effects on everyday social processes.",
+  "raw_path": "01_raw/europepmc_xml/PMC10089354.xml",
+  "text_path": "02_text/europepmc/PMC10089354.txt",
+  "raw_bytes": 152781,
+  "text_chars": 52801,
+  "raw_sha256": "108fb79b1734d5a7f1416ccc6a12919e486f3e7232a37f0099d3099bcee236ba",
+  "text_sha256": "f6bcf411f654374ddae7d174d55a7303743ed24db28699688e5522be43b1e543",
+  "retrieved_at": "2026-10-25T15:43:32.268253+00:00"
+}

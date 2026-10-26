@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13360845",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Life satisfaction, loneliness, and mental health in older adults: sociodemographic influences in a cross-sectional analysis.",
+  "authors": "González-Álamos M, Torres M, Bartolomé B, Vivanco L.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12877-026-07671-9",
+  "pmcid": "PMC13360845",
+  "url": "https://europepmc.org/article/PMC/PMC13360845",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13360845/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "Background Loneliness is a multidimensional experience that becomes particularly salient in older adulthood and is closely linked to depression and anxiety. Life satisfaction represents the cognitive component of subjective well‑being and may buffer against psychological distress. Sociodemographic factors such as sex, marital status, cohabitation, and rural or urban background may shape these experiences, yet their combined influence remains insufficiently understood. This study examined how different forms of loneliness and life satisfaction relate to mental health in older adults, and how sociodemographic characteristics contribute to these associations. Methods A cross‑sectional study was conducted with 143 community‑dwelling older adults aged 65 to 84 years living in urban and rural areas of La Rioja, Spain. Participants completed validated measures of life satisfaction; social, romantic, and family loneliness; depression; and anxiety. Logistic and linear regression models were used to identify predictors of depression and anxiety, and of life satisfaction and loneliness, respectively. When model assumptions were not met, correlation analyses were applied instead. Results Social loneliness (p Conclusions Life satisfaction and loneliness are key determinants of mental health in older adults, with sociodemographic factors shaping their expression. Social loneliness plays a central role in depression and anxiety, while marriage and rural upbringing protect against romantic loneliness. Interventions that enhance life satisfaction and address specific forms of loneliness may support psychological well‑being in later life.",
+  "raw_path": "01_raw/europepmc_xml/PMC13360845.xml",
+  "text_path": "02_text/europepmc/PMC13360845.txt",
+  "raw_bytes": 121981,
+  "text_chars": 34014,
+  "raw_sha256": "74e3a906f48d7213511ea07ff7826d3ac373292a0043591451da7207fe67f3a2",
+  "text_sha256": "07a9110aaa50d8fd03ba1b7a3bd02a3739c13c6815127b74b732212bf9c79e1b",
+  "retrieved_at": "2026-10-25T13:50:52.595456+00:00"
+}

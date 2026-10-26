@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_emotional_blackmail",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "情緒勒索",
+  "requested_title": "情緒勒索",
+  "url": "https://zh.wikipedia.org/wiki/%E6%83%85%E7%B7%92%E5%8B%92%E7%B4%A2",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "abuse",
+    "boundaries"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/emotional_blackmail.json",
+  "text_path": "02_text/zh_wikipedia/emotional_blackmail.txt",
+  "raw_bytes": 4884,
+  "text_chars": 1894,
+  "text_sha256": "048e44b6b4828a75bed1ce2a1ab369be57dcd11a8adfd32aadceb8bdf84f3f23",
+  "retrieved_at": "2026-10-25T15:37:11.283642+00:00"
+}

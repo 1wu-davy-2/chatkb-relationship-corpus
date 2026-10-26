@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12135132",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "How Does Being Phubbed Affect Commitment? Exploring the Roles of Emotional Loneliness and Relationship Satisfaction.",
+  "authors": "Aslanturk A, Arslan C.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/jmft.70027",
+  "pmcid": "PMC12135132",
+  "url": "https://europepmc.org/article/PMC/PMC12135132",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12135132/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "Partner phubbing can be considered a current relational problem, particularly affecting romantic relationships. Further research is needed to fully understand the consequences of this behavior, which has been studied with many variables in the context of romantic relationships. In this study, the mediating effects of emotional loneliness and relationship satisfaction on how pphubbing affects relationship commitment were examined in 320 heterosexual participants. Hayes' PROCESS macro for SPSS (Model 6) was used to examine the multiple mediation model in the relationship between the variables. The study's results support the hypothesis that partner phubbing significantly reduces the phubee's (the partner being phubbed) commitment to the relationship through emotional loneliness and relationship satisfaction. To promote stronger relationship commitment, interventions that reduce emotional loneliness and increase relationship satisfaction may be helpful and it is also essential that we consider the risk of pphubbing.",
+  "raw_path": "01_raw/europepmc_xml/PMC12135132.xml",
+  "text_path": "02_text/europepmc/PMC12135132.txt",
+  "raw_bytes": 123620,
+  "text_chars": 35823,
+  "raw_sha256": "8610b5569847ff15466784dd5d1ff7d0f8251a23446084a80968aef1dac14de4",
+  "text_sha256": "9f1df520add39db900b971f8ef213d51629c76dcef21805145b945e3a565f200",
+  "retrieved_at": "2026-10-25T13:56:49.908394+00:00"
+}

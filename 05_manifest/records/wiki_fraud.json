@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_fraud",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "詐騙",
+  "requested_title": "诈骗",
+  "url": "https://zh.wikipedia.org/wiki/%E8%A9%90%E9%A8%99",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 詐騙",
+  "topics": [
+    "law",
+    "scam"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/fraud.json",
+  "text_path": "02_text/zh_wikipedia/fraud.txt",
+  "raw_bytes": 21341,
+  "text_chars": 7661,
+  "text_sha256": "b8b18801ec9695ca3f82b211ebe4406733ddf575cd3721fbb87275793601c77b",
+  "retrieved_at": "2026-10-25T16:30:14.817784+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7043806",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Clueless: An ethnographic study of young men who participate in the seduction community with a focus on their psychosocial well-being and mental health.",
+  "authors": "Whitley R, Zhou J.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0229719",
+  "pmcid": "PMC7043806",
+  "url": "https://europepmc.org/article/PMC/PMC7043806",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7043806/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "pua"
+  ],
+  "abstract": "In the last decade, a cross-national community of like-minded young men has emerged, commonly known as 'the seduction community'. This community is led by professional 'pick-up artists' who teach these young men a variety of techniques and mindsets with the stated aim of improving their success with women, or 'game'. There has been little research on the men who participate in this community, and none from a mental health angle. As such, this study is propelled by two specific objectives, namely documenting and understanding (i) the reasons why young men join the seduction community; and (ii) the impacts of community involvement on participants' lives. To meet these aims, we used an inductive qualitative methodology giving ample scope for bottom-up understandings to emerge. Specifically, we recruited young men participating in the seduction community for an in-depth qualitative interview (N = 34) to explore self-reported motives and impacts. Interviews were augmented by lengthy participant observation, and data was analyzed by content analysis techniques. The results reveal that men often join the community to address a range of psychosocial deficits, and that community involvement successfully equips participants with numerous valued social and communication skills. The community appears to fill a void in providing a place of hope, fellowship and learning for young (often immigrant) men. The findings are summarized in five themes (i) loneliness and social inclusion; (ii) lack of male role models and need for guidance; (iii) mental health and well-being issues; (iv) skill acquisition and personal development; and (v) the dark side of pick-up. Interestingly, some of the practices commonly taught and utilized within the community resemble aspects of Cognitive Behavioral Therapy and mental health peer support. This may explain its evident appeal. We conclude by reflecting on the implications of the findings for official mental health service provision for young men.",
+  "raw_path": "01_raw/europepmc_xml/PMC7043806.xml",
+  "text_path": "02_text/europepmc/PMC7043806.txt",
+  "raw_bytes": 163468,
+  "text_chars": 91730,
+  "raw_sha256": "39a821bad1c038bf0df142af14c1c379bcb8900a1fe672450dd10b9f600107a2",
+  "text_sha256": "2edfb2a284ad4418a51ada26477e721bbb8cf14ae47e1a96d81286afca2b3c01",
+  "retrieved_at": "2026-10-25T13:47:36.483822+00:00"
+}

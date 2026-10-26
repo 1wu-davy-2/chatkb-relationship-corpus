@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12354601",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Physiological attunement and flourishing: understanding the influence of relationships on health.",
+  "authors": "Bastos MAV, Braz DF, Porto ALM, Cordeiro KSDS, Portella RB, Granger DA.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2025.1614379",
+  "pmcid": "PMC12354601",
+  "url": "https://europepmc.org/article/PMC/PMC12354601",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12354601/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Background Flourishing can be defined as the experience of life going well, a combination of feeling good and functioning effectively. High-quality relationships are essential to flourishing and long-term health. Physiological interdependence-such as synchronization of autonomic and endocrine systems-has been proposed as a mechanism supporting emotion regulation and social bonding. Methods This scoping review maps the existing literature on physiological attunement in adult dyadic relationships. The review protocol was registered on the Open Science Framework (https://osf.io/295ge/) and followed JBI methodology for scoping reviews. PubMed and Scopus databases were searched. Eligible studies were original, quantitative, peer-reviewed articles published in English that examined physiological attunement in adult human dyads. Two reviewers independently screened and selected the studies. Results A total of 62 studies were included. Attunement was observed in romantic partners, friends, strangers, and groups, involving heart rate, heart rate variability, skin conductance, respiration, cortisol, and alpha-amylase. Physiological attunement was shaped by relational context, emotional tone, individual traits (e.g., empathy, attachment style), and interaction features (e.g., touch, conflict, cooperation). While often linked to satisfaction, intimacy, and co-regulation, synchrony also appeared in distress contexts, sometimes reflecting stress contagion or co-dysregulation. Conclusion Physiological attunement appears to be a context-sensitive process that may support or hinder wellbeing. It may represent a key biobehavioral pathway linking relationships to flourishing.",
+  "raw_path": "01_raw/europepmc_xml/PMC12354601.xml",
+  "text_path": "02_text/europepmc/PMC12354601.txt",
+  "raw_bytes": 268784,
+  "text_chars": 54807,
+  "raw_sha256": "b6da994d192153e87c8a666c96cb4ae99935b9c10df8e0770e60e4ebcbb2385a",
+  "text_sha256": "80ffe87341668cd3c0aaa9748d78b6bd7d6125b7fdcaaedf0b053fd525513140",
+  "retrieved_at": "2026-10-25T15:49:29.887526+00:00"
+}

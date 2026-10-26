@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12130590",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Landscape of Sexual Harm in the Video Game, Streaming, and Esports Community.",
+  "authors": "Merry OJ, Whitfield KC.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/08862605241271349",
+  "pmcid": "PMC12130590",
+  "url": "https://europepmc.org/article/PMC/PMC12130590",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12130590/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_communication"
+  ],
+  "abstract": "While sexual harm has been studied across a range of contexts, it has not yet been considered within the video game, streaming, and esports community. This study aimed to explore the landscape of sexual harm in this community, specifically, where it has been committed by esports professionals and video game live streamers. Fifty-five victim statements were extracted from online sources (such as Twitter/X and Reddit) and coded into variables relating to offender and victim demographics, offense characteristics, the offense process, and platform(s) used. Descriptive statistics were generated for each variable and Fisher's exact tests were conducted to examine the differences between adult-on-adult and adult-on-child cases. The findings reveal diverse offense outcomes across the sample, ranging from rape to sexual communication with a child. Some offense patterns can be seen in wider sexual offending literature, such as pre-offense alcohol consumption, offending against incapacitated victims (e.g., sleeping), and offending within an established romantic relationship. However, several offense process characteristics unique to the video gaming community were identified. These included offenders using their position of fame within the community to access victims and bypass the need for other coercive behaviors. Online offenses were more common with children and offenders demonstrated a preference for \"live\" methods, such as voice chat and video calling, rather than instant messaging or sharing images of themselves. This limits the digital evidence left behind and indicates the offenders' greater technological literacy. The study's findings shed light on the sexual harm that exists within this previously unexplored context and highlight areas where esports organizations, live-streaming platforms, and educational providers can do more to safeguard players, fans, and viewers in this community.",
+  "raw_path": "01_raw/europepmc_xml/PMC12130590.xml",
+  "text_path": "02_text/europepmc/PMC12130590.txt",
+  "raw_bytes": 144148,
+  "text_chars": 47803,
+  "raw_sha256": "960856400566eaf8f7c2d5880ff00132b5386aa05c37e1681b5bfa2e4d1230d7",
+  "text_sha256": "e0fc8cfcafbe0901b5a642d858cf1a077c7a82f9cf2253522021f8390745f21c",
+  "retrieved_at": "2026-10-25T14:01:29.106198+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11995843",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Identifying Informal Help-Seeking Patterns in African American Couples.",
+  "authors": "Hubbard A, Harris S, Bryant CM, Rineman R, McIntosh D.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/jmft.70008",
+  "pmcid": "PMC11995843",
+  "url": "https://europepmc.org/article/PMC/PMC11995843",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11995843/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "While African American couples are less likely to seek formal resources, such as couples therapy, that does not mean they do not seek relationship support. The literature suggests that informal or community resources play a large role in supporting African American couples. Yet, up to this point, quantitative research has yet to identify specific factors that increase informal couple help-seeking for African Americans. To address this gap, we examine how discrimination, racial identity, and religiosity are associated with informal couple help-seeking. We use two distinct types of common informal couple help-seeking (1) seeking help from a religious community and (2) seeking help from family and friends. Our study also attends to a meaningful aspect of couple help-seeking-relationship interdependence-via an actor-partner interdependence model (APIM). Our findings highlight the importance of informal resources in supporting African American relationships and the interdependent nature of couple help-seeking.",
+  "raw_path": "01_raw/europepmc_xml/PMC11995843.xml",
+  "text_path": "02_text/europepmc/PMC11995843.txt",
+  "raw_bytes": 130322,
+  "text_chars": 45276,
+  "raw_sha256": "041bc95a8a3e21fcebac3dcf08119746bf8786ba775c0378cfdb6cf1155847dd",
+  "text_sha256": "ba6065e5bb0d5a72590cf57c1e1df3305c89629cd6b53fb28031d2af0fba90d6",
+  "retrieved_at": "2026-10-25T15:47:10.810408+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9407275",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Technology-Mediated Sexual Interactions, Social Anxiety, and Sexual Wellbeing: A Scoping Review.",
+  "authors": "Shaughnessy K, Fehr CJ, Ashley M, Braham J, Labelle PR, Ouimet AJ, Corsini-Munt S, Ashbaugh AR, Reissing ED.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3390/ejihpe12080066",
+  "pmcid": "PMC9407275",
+  "url": "https://europepmc.org/article/PMC/PMC9407275",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9407275/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Technology-mediated sexual interactions (TMSI) are interpersonal exchanges via technology of self-created sexual material, including photos, videos, and auditory or text messages. There is little research on the factors that predict both TMSI experiences and their sexual wellbeing outcomes. Social anxiety is anxiety experienced in response to social or performance situations. From a cognitive-behavioural perspective, people higher in social anxiety may avoid TMSI, preventing positive or negative consequences. They also may use TMSI to avoid the anxiety caused by in-person sexual interactions, benefiting from access to sexual interactions while perpetuating anxiety about them. The purpose of this scoping review was to explore the role of social anxiety in TMSI and its sexual wellbeing outcomes. We executed a comprehensive search strategy across eight academic databases and searched reference lists of included articles. We included 19 articles written in English or French that had a human sample and were published between 1991 and 2021 and evaluated connections between social anxiety constructs (e.g., shyness, anxiety) and TMSI-related experiences (e.g., sexting, internet sex addiction). The pattern of results suggested that social anxiety constructs may predict some but not all forms of TMSI. Future research from a cognitive-behavioural perspective will expand knowledge on social anxiety, TMSI, and its sexual wellbeing outcomes.",
+  "raw_path": "01_raw/europepmc_xml/PMC9407275.xml",
+  "text_path": "02_text/europepmc/PMC9407275.txt",
+  "raw_bytes": 221129,
+  "text_chars": 53013,
+  "raw_sha256": "9237f2d6622b95cfc4d8bcbc638e3fa9c9475fa9c98d4f11828185bc321ae5a9",
+  "text_sha256": "65a60466ae934abe5d7281f72314910e63bb47df1d801462f0949a7b37b65796",
+  "retrieved_at": "2026-10-26T13:13:04.697763+00:00"
+}

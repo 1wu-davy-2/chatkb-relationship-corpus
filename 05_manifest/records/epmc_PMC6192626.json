@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6192626",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Using spectral and cross-spectral analysis to identify patterns and synchrony in couples' sexual desire.",
+  "authors": "Vowels MJ, Mark KP, Vowels LM, Wood ND.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0205330",
+  "pmcid": "PMC6192626",
+  "url": "https://europepmc.org/article/PMC/PMC6192626",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6192626/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_desire_gap"
+  ],
+  "abstract": "Sexual desire discrepancy is one of the most frequently reported sexual concerns for individuals and couples and has been shown to be negatively associated with sexual and relationship satisfaction. Sexual desire has increasingly been examined as a state-like construct that ebbs and flows, but little is known about whether there are patterns in the fluctuation of sexual desire. Utilizing spectral and cross-spectral analysis, we transformed 30 days of dyadic daily diary data for perceived levels of sexual desire for a non-clinical sample of 133 couples (266 individuals) into the frequency domain to identify shared periodic state fluctuations in sexual desire. Spectral analysis is a technique commonly used in physics and engineering that allows time series data to be analyzed for the presence of regular cycles of fluctuation. Cross-spectral analysis allows for dyadic data to be analyzed for shared rates of fluctuation between partners as well as the degree of (a)synchrony (or phase shift) between these fluctuations. Men and women were found to exhibit fluctuations in sexual desire at various frequencies including rates of once and twice per month, and to have sexual desire that was unlikely to fluctuate over periods of three days or less and therefore exhibited persistence. Similar patterns of fluctuation were exhibited within couples and these patterns were found to be largely synchronous. While instances of desire discrepancy may arise due to differences in rates of sexual desire fluctuation and random fluctuations, such instances may be normal for romantic relationships. The results have important implications for researchers, clinicians, and educators in that they corroborate the supposition that sexual desire ebbs and flows and suggest that it does so with predictable regularity.",
+  "raw_path": "01_raw/europepmc_xml/PMC6192626.xml",
+  "text_path": "02_text/europepmc/PMC6192626.txt",
+  "raw_bytes": 118679,
+  "text_chars": 43441,
+  "raw_sha256": "af3c83980220ad4c75c0b65e43ac605dc72e08cc747075ac48d517b00246e3c8",
+  "text_sha256": "d147dd15ddb7c29cec494415caf1395f98cd5d00f151e47cfe92415fa07ad02b",
+  "retrieved_at": "2026-10-26T13:08:52.233681+00:00"
+}

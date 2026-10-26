@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC9196330",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual Consent in Committed Relationships: A Dyadic Study.",
+  "authors": "Willis M, Murray KN, Jozkowski KN.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1080/0092623x.2021.1937417",
+  "pmcid": "PMC9196330",
+  "url": "https://europepmc.org/article/PMC/PMC9196330",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9196330/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent",
+    "consent_types"
+  ],
+  "abstract": "Sexual consent is a multidimensional construct that requires the participation of all involved in a sexual encounter; however, previous research has almost exclusively relied on one person's perspective. To address this, we collected open- and closed-ended data on sexual consent from 37 dyads in committed sexual relationships ( N = 74). We found that relationship length was associated with sexual consent and couples who accurately perceived each other's consent communication cues reported elevated levels of internal consent feelings. Communicating willingness to engage in sexual activity remains important even within committed relationships. Preliminary findings suggest that further investigations of dyadic nuances of sexual consent are warranted.",
+  "raw_path": "01_raw/europepmc_xml/PMC9196330.xml",
+  "text_path": "02_text/europepmc/PMC9196330.txt",
+  "raw_bytes": 145694,
+  "text_chars": 53358,
+  "raw_sha256": "118f70e0c6900a12e3b0693e45d82c990b20007f4465d5691fb4bb2f15ae0b61",
+  "text_sha256": "532ddb6aa8fffff98956da586e274b9aca79c9e11af09d86fef9b8032c7f04c5",
+  "retrieved_at": "2026-10-25T15:30:31.806956+00:00"
+}

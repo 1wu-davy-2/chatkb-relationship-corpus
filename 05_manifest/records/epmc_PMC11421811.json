@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11421811",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "From general rejection to individual normalization: Ambivalences in discourses on intimate partner violence by young Spaniards.",
+  "authors": "Ocampo Bernasconi I, Espinar-Ruiz E, La Parra-Casado D, Vives-Cases C.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0310745",
+  "pmcid": "PMC11421811",
+  "url": "https://europepmc.org/article/PMC/PMC11421811",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11421811/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Violence against women continues to be a serious social and public health problem all over the world, despite its high level of social condemnation. The aim of this study is to include the concept of ambivalence in order to analyze the perceptions that young people have of intimate partner violence (IPV). We conducted a qualitative study based on 20 semi-structured interviews with young Spaniards (men and women) who were segmented according to involvement or not in activism against IPV. A critical discourse analysis was performed based on situational, attitudinal and temporal ambivalences. The results show the presence of ambivalent discourses that express a high level of condemnation towards IPV and, at the same time, justify certain violent practices when considering the situational framework. This leads to discursive contradictions when considering jealousy in a couple's relationship, the responsibilities of violence that women suffer and the social origin of IPV. These ambivalences are influenced by the social context, as those involved in activism against IPV express a more coherent discourse that does not justify or accept any kind of violence. Nonetheless, non-activists represent ambivalences in their attitudes towards IPV studied in this research. The results suggest the need to reflect on the strategies used with young people to eradicate IPV by considering the ambivalent nature of attitudes.",
+  "raw_path": "01_raw/europepmc_xml/PMC11421811.xml",
+  "text_path": "02_text/europepmc/PMC11421811.txt",
+  "raw_bytes": 97084,
+  "text_chars": 37703,
+  "raw_sha256": "3412277822e238e0f3e0ee34c44c936ffc69ef6eb2444050009efdd9cce93e5e",
+  "text_sha256": "02185a3bce5cb81806c017462987dec1e2b61130cf7a049fbfbe54fe51870528",
+  "retrieved_at": "2026-10-25T15:47:51.227480+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9492933",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Unraveling the effect of ambivalence over emotional expression on subjective wellbeing in Chinese college students in romantic relationships: A multiple mediation model.",
+  "authors": "Wang Y, Zheng Z, Wang X, Li Y.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2022.982406",
+  "pmcid": "PMC9492933",
+  "url": "https://europepmc.org/article/PMC/PMC9492933",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9492933/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_anxiety"
+  ],
+  "abstract": "The sudden and unpredictable outbreak of the COVID-19 pandemic has severely threatened young adults' physical and mental health and damaged the quality of relationships. As a critical stage of development, their well-being is more vulnerable to adverse environments which may lead to profound negative long-life mental health status. The current study aimed to investigate the mediation effects of fear of intimacy and attachment avoidance in the association between ambivalence over emotional expression and subjective wellbeing. A sample of 555 Chinese college students who are currently involved in romantic relationships (Mean age = 19.69, SD age = 1.36, 52% females) completed anonymous questionnaires regarding ambivalence over emotional expression, fear of intimacy, attachment avoidance, and subjective wellbeing. The findings revealed that ambivalence over emotional expression can predict negative subjective wellbeing of college students in romantic relationships significantly, and fear of intimacy and attachment avoidance played a sequentially mediating role in the association between ambivalence over emotional expression and subjective wellbeing. Surprisingly, when considering attachment avoidance independently, we found it had an inhibitory action on the link between ambivalence over emotional expression and subjective wellbeing. The present study contributes to a better understanding of how ambivalence over emotional expression can decrease subjective wellbeing, and also has implications for the intervention of students' subjective wellbeing and closeness during the period of COVID-19.",
+  "raw_path": "01_raw/europepmc_xml/PMC9492933.xml",
+  "text_path": "02_text/europepmc/PMC9492933.txt",
+  "raw_bytes": 127982,
+  "text_chars": 40424,
+  "raw_sha256": "6489aeda3f9d2f5069b8639de6a199412864134387b7a113e550a5f2662b1f2e",
+  "text_sha256": "b17274af1fc55e6c4e1606d4eb6660ad86bacddc97113460e54f39681c3163d2",
+  "retrieved_at": "2026-10-25T13:56:20.651719+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10030598",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The role of sexting in couple wellbeing for Italian women during the second wave of the COVID-19 pandemic.",
+  "authors": "Bonfanti RC, Garro M, Lavanco G, Ruggieri S.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2023.1105556",
+  "pmcid": "PMC10030598",
+  "url": "https://europepmc.org/article/PMC/PMC10030598",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10030598/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "The social isolation due to the COVID-19 pandemic had an impact on the sexuality and quality of life of people around the world. A particularly negative effect was detected on women's sexual health. As a consequence, many women began to use social media not only to stay in touch with their social networks, but as a way of maintaining sexual contact. The main aim of this research is to observe the positive effects of sexting in women's wellbeing as a strategy to manage the negative effects of a condition of forced isolation. We collected all our data between November 2020 and March 2021 during a period of strict restrictions in Italy due to the second wave of the COVID-19 pandemic. In Study 1, the relationship between loneliness, sexting behaviors, and sexual satisfaction was tested on 312 adult women. The results showed the mediator role of motivation for sexting in the relationship between loneliness and sexual satisfaction. In Study 2, 342 adult women were organized into two groups (women who had sexting at least once during the second wave of the pandemic = 203, and women who did not have sexting during the pandemic = 139) and were assessed on a couple's wellbeing (intimacy, passion, commitment, and couple satisfaction) and electronic surveillance. The results show that women who had sexting during isolation had higher scores on intimacy, passion, couple satisfaction, and electronic surveillance. These findings suggest the important role of sexting as an adaptive coping strategy during particular conditions of social isolation.",
+  "raw_path": "01_raw/europepmc_xml/PMC10030598.xml",
+  "text_path": "02_text/europepmc/PMC10030598.txt",
+  "raw_bytes": 177477,
+  "text_chars": 45193,
+  "raw_sha256": "c98aa73629c0d038051c726500fa076dca73ac918d95786cdac8845761ecdb6f",
+  "text_sha256": "021883520fb78e78fd17c5c6a6db2f2f720589b102a64964ef774c6e135d6bdf",
+  "retrieved_at": "2026-10-26T12:58:05.740841+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5806049",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Do You Love Me? Psychological Characteristics of Romance Scam Victims.",
+  "authors": "Whitty MT.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.1089/cyber.2016.0729",
+  "pmcid": "PMC5806049",
+  "url": "https://europepmc.org/article/PMC/PMC5806049",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5806049/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "scam"
+  ],
+  "abstract": "The online dating romance scam is an Advance Fee Fraud, typically conducted by international criminal groups via online dating sites and social networking sites. This type of mass-marketing fraud (MMF) is the most frequently reported type of MMF in most Western countries. This study examined the psychological characteristics of romance scam victims by comparing romance scam victims with those who had never been scammed by MMFs. Romance scam victims tend to be middle-aged, well-educated women. Moreover, they tend to be more impulsive (scoring high on urgency and sensation seeking), less kind, more trustworthy, and have an addictive disposition. It is argued here that these findings might be useful for those developing prevention programs and awareness campaigns.",
+  "raw_path": "01_raw/europepmc_xml/PMC5806049.xml",
+  "text_path": "02_text/europepmc/PMC5806049.txt",
+  "raw_bytes": 57346,
+  "text_chars": 20349,
+  "raw_sha256": "d74745ee933c0c0e292817d25261be5a4aba250760842cffc079a5d30c8d8bfa",
+  "text_sha256": "74111269eadf801628149ebb8fab09954b7f931a3efdc120bfae503508a6c48d",
+  "retrieved_at": "2026-10-25T13:41:10.800648+00:00"
+}

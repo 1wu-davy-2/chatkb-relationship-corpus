@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12574695",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Understanding Verbal Violence Perpetration Among Intimate Partner Stalkers Using Police-Identified Psychological Distress and Drug Use.",
+  "authors": "Landwehr E, Garratt-Reed D, Maxwell-Smith C.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1002/cbm.70009",
+  "pmcid": "PMC12574695",
+  "url": "https://europepmc.org/article/PMC/PMC12574695",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12574695/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "Background Stalkers' perpetration of verbal violence causes victims adverse mental health consequences, yet little research has examined this behaviour. Identifying correlates of verbal violence, as present in police data, could support the development of evidence-based practical strategies for police. Aims To understand the relationship between men's psychological distress or substance use, as identified by police, and their verbal violence against their female intimate partner stalking victims. Methods Data were extracted from anonymised police records of 603 men in Western Australia linked to a stalking offence in relation to a woman who is or was their intimate partner. Logistic regression analyses were used to examine whether police-identified psychological distress or drug use, as described in police incident reports, was significantly associated with verbal violence perpetration. Separate models were used to assess different expressions of verbal violence: 'death/injury/sexual assault threats' to the victim or of 'other verbal violence' only, and of the binary aggregate of these groups. Results Police-identified psychological distress (OR = 2.3-3.1) and drug use (OR = 2.1-2.2) were independently associated with reported verbal violence perpetration. Different patterns of findings emerged when verbal violence expression was differentiated across four contrasting groups. The model comparing 'death/injury/sexual assault threats' with 'no verbal violence recorded' explained over four times the variance of the model comparing 'other verbal violence only' with 'no verbal violence recorded'. Physical violence was also relevant for understanding verbal violence perpetration. Conclusions This study is the first to explore correlates of intimate partner stalkers' verbal violence perpetration. According to police records, verbal violence was differentially associated with psychological distress, drug use and physical violence according to type of verbal violence and comparison group. These differences suggest that verbal violence expression types should be considered separately when intervening and within research designs.",
+  "raw_path": "01_raw/europepmc_xml/PMC12574695.xml",
+  "text_path": "02_text/europepmc/PMC12574695.txt",
+  "raw_bytes": 164575,
+  "text_chars": 30058,
+  "raw_sha256": "00468c1b3c519fcf29eba3d3873c7ecb2f5b7b191f81420ba0e0386d9688029b",
+  "text_sha256": "6a040d62a437ae5b6b94ac6e6b78570f5a68fa48b3491eb9b3b60f524ff20de6",
+  "retrieved_at": "2026-10-25T15:28:41.355884+00:00"
+}

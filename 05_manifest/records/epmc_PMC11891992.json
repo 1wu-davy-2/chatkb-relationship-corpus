@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11891992",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Trajectories of relationship and sexual satisfaction over 2 years in the Covid-19 pandemic: A latent class analysis.",
+  "authors": "Vigl J, Strauß H, Talamini F, Zentner M.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/jopy.12928",
+  "pmcid": "PMC11891992",
+  "url": "https://europepmc.org/article/PMC/PMC11891992",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11891992/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment",
+    "sexual_satisfaction"
+  ],
+  "abstract": "Objective Previous research on the impact of the Covid-19 pandemic on romantic relationships has mainly concentrated on short-term effects and average trends of change. This study aimed to explore different trajectories of relationship and sexual satisfaction from April 2020 to March 2022. Method Including a cross-national sample of 2859 individuals, a latent class approach was applied to identify subgroups of sexual and relationship satisfaction trajectories. Participants' satisfaction levels, attachment style, psychological symptoms, life satisfaction, and living arrangements were taken into account. Results Three latent classes were identified for both relationship and sexual satisfaction: (1) a group with high satisfaction levels but a slightly declining trajectory, (2) a group with low satisfaction levels but an ascending trajectory, and (3) a fluctuating group. Living apart, having children, psychological symptoms, low life satisfaction, and avoidant attachment characterized the two groups with low or fluctuating trajectories. Conclusions The findings suggest that there were different trajectories of relationship and sexual satisfaction during the pandemic, which can be predicted by individual dispositions. Even 2 years after the pandemic, its effects had not disappeared.",
+  "raw_path": "01_raw/europepmc_xml/PMC11891992.xml",
+  "text_path": "02_text/europepmc/PMC11891992.txt",
+  "raw_bytes": 189820,
+  "text_chars": 51750,
+  "raw_sha256": "7cd7708711eae0c647252ddf092f2d6785d607646548f91218ffa1125d388bef",
+  "text_sha256": "d4f68eb91d5660cae729b89ee4feea8a9a371893512faafd7f55821950024841",
+  "retrieved_at": "2026-10-25T15:45:47.135597+00:00"
+}

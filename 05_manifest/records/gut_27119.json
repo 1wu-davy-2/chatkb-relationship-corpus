@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_27119",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "比目魚",
+  "gutenberg_id": "27119",
+  "url": "https://www.gutenberg.org/ebooks/27119",
+  "download_url": "https://www.gutenberg.org/cache/epub/27119/pg27119.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/27119.txt",
+  "text_path": "02_text/gutenberg/gut_27119_比目魚.txt",
+  "raw_bytes": 87271,
+  "text_chars": 23201,
+  "text_sha256": "d3abe6e97845656647955c44b04ce2df45f62e5ab0707050ea4a5c4a7410397f",
+  "retrieved_at": "2026-10-25T16:03:50.146554+00:00"
+}

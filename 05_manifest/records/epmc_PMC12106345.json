@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12106345",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A meta-analytic study of partner phubbing and its antecedents and consequences.",
+  "authors": "Ni N, Ahrari S, Zaremohzzabieh Z, Zarean M, Roslan S.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1561159",
+  "pmcid": "PMC12106345",
+  "url": "https://europepmc.org/article/PMC/PMC12106345",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12106345/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Partner phubbing (Pphubbing)-the act of ignoring one's romantic partner in favor of a smartphone or digital device-has become a widespread behavior, with detrimental effects on romantic relationships. This meta-analytic study synthesizes data from 52 studies (58 samples, n = 19,698) to examine both the antecedents and consequences of Pphubbing, providing a comprehensive understanding of its impact on relational dynamics and emotional well-being. The findings indicate that antecedents such as attachment anxiety, attachment avoidance, depression, and loneliness are significantly correlated with Pphubbing, with media addiction showing the strongest association (r Z = 0.492). In contrast, self-esteem was not found to be a significant predictor of Pphubbing. Regarding the consequences, Pphubbing negatively affects several relational outcomes, including relationship satisfaction, marital satisfaction, romantic relationship quality, intimacy, responsiveness, and overall emotional closeness. It also contributes to increased conflict and heightened feelings of jealousy within relationships. These findings underscore the far-reaching implications of Pphubbing on both individual and relational well-being. We encourage future research to explore additional social, contextual, and psychological factors that may influence phubbing behaviors, and to investigate diverse types of digital interactions that may contribute to relational disruption in different cultural and situational contexts.",
+  "raw_path": "01_raw/europepmc_xml/PMC12106345.xml",
+  "text_path": "02_text/europepmc/PMC12106345.txt",
+  "raw_bytes": 272206,
+  "text_chars": 47748,
+  "raw_sha256": "370da3327c28a3c139fa0c05caf0121c563eb18c4616d8975b511c19bfcc9ba4",
+  "text_sha256": "a41c0e12a2027b936439ee0145438a40f3c79c8232b037a28b5140d6e594690d",
+  "retrieved_at": "2026-10-25T15:47:35.855265+00:00"
+}

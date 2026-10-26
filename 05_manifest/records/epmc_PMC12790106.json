@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12790106",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Association Between Pathological Personality Domains and Aggravated and Risky Sexting in a Sample of Emerging Adults.",
+  "authors": "Morelli M, Pazzagli C, Sciabica GM, Chirumbolo A, Andreassi S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/sjop.70021",
+  "pmcid": "PMC12790106",
+  "url": "https://europepmc.org/article/PMC/PMC12790106",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12790106/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Sexting is the exchange of sexually explicit content via smartphone or the Internet. These growing forms of technology-mediated sexual behaviors are common in youth. Recent studies investigated the association between personality traits and different kinds of sexting, from normal to risky and aggressive behavior. Few studies to date have explored the role of pathological personality domains in aggravated and risky sexting in emerging adulthood, particularly within the Italian context. The main aim of this cross-sectional study was to investigate in a sample of emerging adults the association between the five personality domains (i.e., negative affectivity, detachment, antagonism, disinhibition, and psychoticism) measured with the Personality Inventory for DSM-5-Brief Form (PID-5-BF) and aggravated and risky sexting behaviors, controlling for age and sex. The sample included 876 emerging adults (69.1% females) aged 18-29 (M age = 23.8; SD age = 2.56) recruited through snowball sampling who had completed an online survey. Participants completed the PID-5-BF and the subscales on aggravated and risky sexting from the Sexting Behaviors Questionnaire. The four negative binomial regression analyses showed that the two forms of aggravated sexting (i.e., sharing sexts without permission and sexting under pressure) were positively associated with detachment, antagonism, and disinhibition. Risky sexting during substance use and with strangers was negatively associated with negative affectivity and positively associated with antagonism and disinhibition. Finally, risky sexting for emotion regulation was positively associated with antagonism and disinhibition. These findings provide a broader understanding of the association between personality domains and sexting. Results have implications for further research and for implementing preventive interventions targeting emerging adults.",
+  "raw_path": "01_raw/europepmc_xml/PMC12790106.xml",
+  "text_path": "02_text/europepmc/PMC12790106.txt",
+  "raw_bytes": 139582,
+  "text_chars": 47464,
+  "raw_sha256": "eb2a8f15f6b434343314754af512652a8698810c9f00d240833eaf1bd9d5b15f",
+  "text_sha256": "3d0aa38647a8bdd53e4a3f37a9b2feb89e0b67b0c283f630f116030b5a0396d2",
+  "retrieved_at": "2026-10-26T12:54:31.744982+00:00"
+}

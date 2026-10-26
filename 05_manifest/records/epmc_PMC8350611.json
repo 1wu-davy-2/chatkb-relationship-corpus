@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8350611",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Initial outcomes of couple HOPES: A guided online couple intervention for PTSD and relationship enhancement.",
+  "authors": "Fitzpatrick S, Wagner AC, Crenshaw AO, Varma S, Whitfield KM, Valela R, Di Bartolomeo AA, Fulham L, Martin-Newnham C, Mensah DH, Collins A, Landy MSH, Morland L, Doss BD, Monson CM.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1016/j.invent.2021.100423",
+  "pmcid": "PMC8350611",
+  "url": "https://europepmc.org/article/PMC/PMC8350611",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8350611/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_styles"
+  ],
+  "abstract": "Couple HOPES (Helping Overcome PTSD and Enhance Satisfaction) is a guided, online couple intervention adapted from Cognitive-Behavioral Conjoint Therapy for posttraumatic stress disorder (PTSD). It was created to overcome a range of barriers to accessing evidence-based treatments for PTSD and the intimate relationship problems associated with it. This manuscript describes initial outcomes of the intervention in a series of 10 couples. Participants were military, veteran and first responders with probable PTSD and their intimate partners. Couples completed the program and measurements of PTSD, relationship satisfaction, and secondary outcomes at pre-, mid-, and post-intervention. Mean satisfaction for the program was high and it was completed by seven of ten couples. Participants with PTSD evidenced significant and large pre- to post-intervention effect size improvements in PTSD symptoms ( g = 0.80) and perceived health ( g = 1.13). They also exhibited non-significant but medium effect size pre- to post-intervention improvements in quality of life ( g = 0.62), and depression ( g = 0.53), and small effect size pre- to post-intervention improvements in argumentativeness ( g = 0.43), anger ( g = 0.31), and anxiety ( g = 0.31). Partners reported significant and moderate pre- to post-intervention effect size improvements in relationship satisfaction (g = 0.68 ), and medium but not significant effect size improvements in accommodation of PTSD ( g = 0.56). Results provide initial support for the feasibility, acceptability, and efficacy of Couple HOPES for improving PTSD and relationship satisfaction. However, more testing in larger samples, including with randomized controlled designs, is needed.",
+  "raw_path": "01_raw/europepmc_xml/PMC8350611.xml",
+  "text_path": "02_text/europepmc/PMC8350611.txt",
+  "raw_bytes": 155147,
+  "text_chars": 36706,
+  "raw_sha256": "d0d1e4f63e4c6ec6c5dc37bfa85b6b5536b485439436bd7e5f004ec835131838",
+  "text_sha256": "a9c7e263b01387b54536d8681cc7210b5d51a3ca663c97b91182c59eacc845af",
+  "retrieved_at": "2026-10-25T15:30:27.530494+00:00"
+}

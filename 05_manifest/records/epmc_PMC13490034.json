@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13490034",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship between parental acceptance-rejection perception and individuals' levels of emotional intelligence, emotional coping, and family life satisfaction.",
+  "authors": "Yeniçeri Ş, Yılmaz Bingöl T.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s41155-026-00403-3",
+  "pmcid": "PMC13490034",
+  "url": "https://europepmc.org/article/PMC/PMC13490034",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13490034/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "emotional_intelligence"
+  ],
+  "abstract": "Aim This study was conducted to determine the relationship between parental acceptance-rejection theory and emotional intelligence, emotional coping, and family life satisfaction levels in individuals. Method This descriptive and correlational study was conducted between 01.11.2021 and 01.04.2022 using the online snowball sampling method via the Google platform with 750 individuals aged 18 and over who agreed to participate. The data were collected using the Personal Data Form, Parental Acceptance-Rejection Scale (PARS), Emotional Intelligence Scale (EIS), Emotional Approach Coping Scale (EACS), and Family Life Satisfaction Scale (FLSS). Findings According to the results of the study, the mean PARS score was 39.17 ± 12.06, the mean EIS score was 71.12 ± 15.76, the mean EACS score was 56.97 ± 14.26 and the mean FLSS score was 45.45 ± 22.14. A significant and negative correlation was found between the PARS and the EIS and EACS, while a significant and positive correlation was observed with the FLSS. A significant and positive correlation was found between the EIS and the EACS, while a significant and negative correlation was found between the EACS and the FLSS. Furthermore, a significant and negative correlation was also found between the EACS and the FLSS. Regression analyses revealed that the PARS score was significantly predicted by gender, having children, income level, consultation with a psychological professional, and a history of psychological treatment within the family. Having children and consultation with a psychological professional increased the score, while male gender and high income had a decreasing effect. The EIS score was significantly predicted only by the mother's living situation, the EACS score by the father's living situation, and the FLSS score by marital status and consultation with a psychological professional. These findings summarize the explanatory power of the relationships between the psychosocial variables central to the study and parental perception, emotional intelligence, and family life satisfaction. Conclusion In our study, it was observed that those who experienced parental rejection had lower emotional intelligence and emotional coping scores and higher family life scores. The results confirmed our assumption and supported Rohner's parental acceptance-rejection theory.",
+  "raw_path": "01_raw/europepmc_xml/PMC13490034.xml",
+  "text_path": "02_text/europepmc/PMC13490034.txt",
+  "raw_bytes": 103695,
+  "text_chars": 39745,
+  "raw_sha256": "38855654d66b6ba23b3a7ff82e8301532020d0eadff1bf68e4e2d53d255cef8c",
+  "text_sha256": "bd32fa4cbfb74e058cd30683d8b95c23f406b2cd88fa7c70e31013b32a70cd3b",
+  "retrieved_at": "2026-10-25T15:26:47.780197+00:00"
+}

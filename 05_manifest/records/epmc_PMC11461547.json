@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11461547",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Comparing Physical Intimacy and Romantic Relationships of Autistic and Non-autistic Adults: A Qualitative Analysis.",
+  "authors": "Sala G, Hooley J, Hooley M, Stokes MA.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1007/s10803-023-06109-0",
+  "pmcid": "PMC11461547",
+  "url": "https://europepmc.org/article/PMC/PMC11461547",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11461547/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "",
+  "raw_path": "01_raw/europepmc_xml/PMC11461547.xml",
+  "text_path": "02_text/europepmc/PMC11461547.txt",
+  "raw_bytes": 93523,
+  "text_chars": 41464,
+  "raw_sha256": "720254ed1fb243936ff029bf7a30e442469767b4cb2fb75bea06f151e58f065e",
+  "text_sha256": "4837788d11149bda792bae1189837a060868b6a3a949c25172b1738edc0ad4fc",
+  "retrieved_at": "2026-10-25T15:47:45.190810+00:00"
+}

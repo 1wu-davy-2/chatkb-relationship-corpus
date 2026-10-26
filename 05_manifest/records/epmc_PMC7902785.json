@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7902785",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Male Mating Expectations in Brazilian and American Samples.",
+  "authors": "Castro FN, Hattori WT, Gaulin SJC, Yamamoto ME, Lopes FA.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2021.617754",
+  "pmcid": "PMC7902785",
+  "url": "https://europepmc.org/article/PMC/PMC7902785",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7902785/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction_physical"
+  ],
+  "abstract": "This study aims to investigate assortative mating based on mate value from male perspective. Male participants (132 Brazilian and 106 American) evaluated hypothetical \"stimulus\" males described in terms of physical attractiveness, social skills, and social status (each varied in high or low levels). Participants rated each stimulus and each stimulus' preferred mating partner on nine traits. The results showed that (1) positive assortative mating was expected in romantic relationships; (2) the stimulus ratings did not vary independently, suggesting that mate value is the result of the interaction of the characteristics of individuals; and (3) that participants expected physically attractive and healthier female partners to pair with high-status male stimuli. The American and Brazilian mating expectations were similar, minor differences indicate that Brazilian participants considered men with high levels of social skills to be more ambitious and intelligent; American participants expected men of high status to be healthier; Brazilians expect men of high status to have more attractive faces, while Americans expected these men to possess more attractive bodies; and Brazilian participants assigned more attractive bodies to men of lower status. These differences reflect the influence of economic and cultural factors on the local environment. The study contributes to the understanding of the construction of market value and reveals that male expectations are in line with human mating preferences. The investigation of mating expectations can be a rich approach to investigate socio-cultural aspects that are related to mating in different cultures.",
+  "raw_path": "01_raw/europepmc_xml/PMC7902785.xml",
+  "text_path": "02_text/europepmc/PMC7902785.txt",
+  "raw_bytes": 94128,
+  "text_chars": 29250,
+  "raw_sha256": "ba5a83989a99ed5d01206c4ff332b3f284425e3beac8e95bc81538a91e38ba63",
+  "text_sha256": "7405dd7c509b049d420b95145c5318340d9614c0acc9891558e6ccadef7e1fe4",
+  "retrieved_at": "2026-10-25T15:42:04.656227+00:00"
+}

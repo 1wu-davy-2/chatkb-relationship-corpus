@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10651749",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Trust in relationships: a preliminary investigation of the influence of parental divorce, breakup experiences, adult attachment style, and close relationship beliefs on dyadic trust.",
+  "authors": "Yılmaz CD, Lajunen T, Sullman MJM.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2023.1260480",
+  "pmcid": "PMC10651749",
+  "url": "https://europepmc.org/article/PMC/PMC10651749",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10651749/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Introduction Trust is essential for establishing stable and fulfilling romantic relationships between partners. Development of trust, however, can be assumed to depend on many factors related to an individual's earlier experiences and relationship-related beliefs. This study aimed to investigate how adult attachment style (anxious, avoidant), experiences about parents' divorce and breakdown of one's own romantic relationship, and relationship beliefs are related to the level of dyadic trust in romantic relationships. Methods The present study included 131 Turkish undergraduate university students (55.7% women) from different faculties. The research instrument had questions about parents' and respondents' own relationship status, Dyadic Trust Scale (DTS), Experiences in Close Relationships Inventory-Revised (ECR-R), and Inventory of Close Relationship Beliefs (ICRB), in addition to background questions. The data were analyzed using descriptive statistics, t- tests, Pearson correlations, regression analyses and mediation analyses. Results Respondents whose parents had divorced or who had experienced a relationship breakdown had lower dyadic trust scores than those without these experiences. The trust scores correlated negatively with anxious and avoidant attachment styles and positively with relationship belief scales, although the correlations to \"external factors\" were not statistically significant. In regression analysis, anxious and avoidant attachment styles explained 42% and relationship beliefs 25% of the variance in trust. The only significant predictor among beliefs was \"individuality.\" Mediation analysis showed that the effects of anxious attachment style on trust were fully mediated by the relationship belief in \"individuality.\" The avoidant attachment style had a direct relationship to trust. Discussion The results show that anxious attachment style influences trust via relationship beliefs, while avoidant attachment style has a strong direct effect on trust as well as weaker effects via beliefs. The results are discussed in the context of Turkish culture and horizontal collectivism.",
+  "raw_path": "01_raw/europepmc_xml/PMC10651749.xml",
+  "text_path": "02_text/europepmc/PMC10651749.txt",
+  "raw_bytes": 105121,
+  "text_chars": 39208,
+  "raw_sha256": "3bb0165ba2c598857d342959003da95c8960bb2c767f07a936064035e8fbb290",
+  "text_sha256": "eada46cd80d3ddd14142cf943fdf3cbc7decc397de8c63404525b09381940a88",
+  "retrieved_at": "2026-10-25T14:00:57.397991+00:00"
+}

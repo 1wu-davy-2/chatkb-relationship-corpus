@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4620002",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship of social support concept and repeat mammography among Iranian women.",
+  "authors": "Farhadifar F, Taymoori P, Bahrami M, Zarea S.",
+  "year": "2015",
+  "journal": "",
+  "doi": "10.1186/s12905-015-0253-7",
+  "pmcid": "PMC4620002",
+  "url": "https://europepmc.org/article/PMC/PMC4620002",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4620002/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "Background Breast cancer ranks as the first most common cancer among the Iranian women. The regular repeat of mammography with 1-2 year intervals leads to the increased efficiency of early detection of breast cancer. The present study examined the predictors of repeat mammography. It was hypothesized that higher social support is connected with mammography repeat. Methods A cross-sectional study was carried out among 400 women 50 years and older in Sanandaj, Iran. Data was collected by the questionnaire including information on socio demographical variables and measuring social support level. Data was analyzed by SPSS16 software. Multiple logistic regression was used to determine the predictive power of demographic variables and dimensions of social support for repeat mammography. Results Women aged 50-55 years had three times odds of repeat mammography compared to women aged 56-60 years) OR, 3.02). Married women had greater odds of repeat mammography compared to single women (P Conclusions Iranian women are less likely repeat mammography than other Asian women. Identifying the associations between perceived social support and repeat mammography may offer detailed information to allow for future study and guide the development of interventions not only for Iranian women but also for similar cultural that received pay too little attention to date in the breast cancer literature.",
+  "raw_path": "01_raw/europepmc_xml/PMC4620002.xml",
+  "text_path": "02_text/europepmc/PMC4620002.txt",
+  "raw_bytes": 97990,
+  "text_chars": 29331,
+  "raw_sha256": "cb45f546d7edc265c4f40d0bb8a6d795e8c9e0ceee212a08a083f10b26e06037",
+  "text_sha256": "dc3219c39913b5ed1836e8b1a34e7ae3e4e9f5a5861f58df22301fea9c099cc8",
+  "retrieved_at": "2026-10-25T15:47:49.774505+00:00"
+}

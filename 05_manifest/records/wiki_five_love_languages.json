@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_five_love_languages",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "愛的五種語言",
+  "requested_title": "愛的五種語言",
+  "url": "https://zh.wikipedia.org/wiki/%E6%84%9B%E7%9A%84%E4%BA%94%E7%A8%AE%E8%AA%9E%E8%A8%80",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "love",
+    "relationship"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/five_love_languages.json",
+  "text_path": "02_text/zh_wikipedia/five_love_languages.txt",
+  "raw_bytes": 2635,
+  "text_chars": 1027,
+  "text_sha256": "2e9fb53e273afab1777eed0c4b5fc3acc065dfcf25abbf1d8e4a493feda2b704",
+  "retrieved_at": "2026-10-25T15:34:06.639631+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12471487",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Risk Factors of Mental Health in University Students: A Predictive Model Based on Personality Traits, Coping Styles, and Sociodemographic Variables.",
+  "authors": "Antón-Ruiz JA, Sánchez-Romero EI, Cuevas-Caravaca E, Bernabé M, López-Navas AI.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/medicina61091575",
+  "pmcid": "PMC12471487",
+  "url": "https://europepmc.org/article/PMC/PMC12471487",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12471487/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Background and Objectives : Data on mental health in university students have been increasingly concerning, with high prevalence rates of clinical conditions such as anxiety, stress, and depression. This study aims to evaluate the risk factors associated with mental health status and to develop a predictive model. Materials and Methods : A total of 242 university students were recruited (74.8% women). Participants' ages ranged from 18 to 56 years (M = 25.81; SD = 7.59). Data collection were conducted through the Depression, Anxiety, and Stress Scale (DASS-21), the Big Five Inventory-10 (BFI-10), and the Coping Orientation to Problems Experienced Inventory (COPE-28). Results : Overall, mean scores across the three clinical dimensions are within the moderate range, but anxiety shows the highest mean value (M = 8.67, SD = 5.69) and is categorized as \"extremely severe.\" Additionally, identifying as female, living with family or roommates, and having high scores on passive coping styles were significant risk factors for mental health deterioration. In contrast, identifying as male, living with a romantic partner (cohabitation), and having high scores on the Responsibility personality trait were identified as protective factors against mental health impairment. Conclusions : Additional research is warranted to explore additional mediating variables and to develop specific intervention protocols for improving university students' psychological well-being.",
+  "raw_path": "01_raw/europepmc_xml/PMC12471487.xml",
+  "text_path": "02_text/europepmc/PMC12471487.txt",
+  "raw_bytes": 210010,
+  "text_chars": 34501,
+  "raw_sha256": "6a87eb716c7d44c84b01b91d93e2ee3d8cc3d48509f12dcc469e61033a49b88e",
+  "text_sha256": "b306c3fbf79382cd528cbf03f9f4d231df34d41d623a2c85b05f5aefdce5b880",
+  "retrieved_at": "2026-10-25T14:01:27.482761+00:00"
+}

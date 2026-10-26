@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13644161",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring specific-situational factors of risky sexual behaviors among Chinese college students: a mixed methods study.",
+  "authors": "Sun S, Zhang R, Luo Q, Yang J, Wu B, Liang X, Peng T, Zhang H.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12889-026-28546-z",
+  "pmcid": "PMC13644161",
+  "url": "https://europepmc.org/article/PMC/PMC13644161",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13644161/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_communication"
+  ],
+  "abstract": "Background Risky sexual behavior refers to sexual activity that increases the likelihood of STIs, unintended pregnancies, and negative psychosocial outcomes. College students are susceptible to such behaviors. This study aimed to identify proximal situational factors contributing to risky sexual behaviors among Chinese college students and to integrate these with individual-level psychosocial correlates using a sequential explanatory mixed-methods design. Methods In phase 1 (cross-sectional, September-December 2022), college students from three universities in Daqing, Northeast China, completed an online questionnaire assessing attitudes toward sexuality, perceived social support, protection self-efficacy, sexual assertiveness, and sexual limit-setting self-efficacy. Univariate and binary logistic regression analyses identified factors associated with risky sexual behaviors. In phase 2 (March-July 2023), purposeful sampling selected students who had engaged in risky sexual behaviors for semi-structured interviews. Data were analyzed using NVivo 11.0. Results Among 1,761 participants, 25.72% reported sexual activity and 9.60% reported risky sexual behavior; among sexually active students, the prevalence was 37.3%. Specific-situational factors included material environment (economic status, resource accessibility), social environment (partner characteristics, peer influence, entertainment venues), antecedent states (attitudes toward premarital sex, sexual desire/impulse, negative emotions), objective elements (psychological needs, sexual mental health, social media for dating), and opportunity elements (relationship status, solitude). Conclusions This study integrates individual-level psychosocial correlates with proximal situational factors to understand risky sexual behaviors among college students. The findings extend individual-level explanations by identifying material, social, emotional, motivational, and opportunity-related contexts that immediately precede risky behaviors, providing evidence for situational risk screening and targeted prevention.",
+  "raw_path": "01_raw/europepmc_xml/PMC13644161.xml",
+  "text_path": "02_text/europepmc/PMC13644161.txt",
+  "raw_bytes": 179679,
+  "text_chars": 70079,
+  "raw_sha256": "e3cbd5cb2b60898a6c0e3029a7d76c37ef644ca12750079e31b7cce2a5d29e9a",
+  "text_sha256": "530c774c3d22a002df0d4e241cc516e78de35cbee3c5fa13390af58d413a81bb",
+  "retrieved_at": "2026-10-25T13:51:08.362133+00:00"
+}

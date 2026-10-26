@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9253925",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Moderating Factors in Culpability Ratings and Rape Proclivity in Stranger and Acquaintance Rape: Validation of Rape Vignettes in a Community Sample.",
+  "authors": "Persson S, Dhingra K.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/0886260521991294",
+  "pmcid": "PMC9253925",
+  "url": "https://europepmc.org/article/PMC/PMC9253925",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9253925/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "benevolent_sexism"
+  ],
+  "abstract": "Rape is a serious concern globally. Past research has identified Ambivalent Sexism (AS), Rape Myth Acceptance (RMA), and the victim-perpetrator relationship as key constructs influencing rape blame attributions and rape proclivity. Limitations with methodologies have, however, limited the practical implications of past research, particularly in the context of underpowered samples and a lack of transparency in vignette development and implementation. In the current research, three studies aimed to validate material to be used in research into rape perceptions and to examine the impact of victim-perpetrator relationship, AS, and RMA on victim and perpetrator culpability, and rape proclivity, using an experimental design. On 563 participants, this research developed and validated six rape vignettes which accounted for methodological limitations of past research (Study One) and were found to be believable and realistic by participants; it further found that aggressively sexist attitudes were associated with increased victim culpability and decreased perpetrator culpability (Study Two), and increased rape proclivity (Study Three). Scenarios of a casual acquaintance produced the highest levels of victim culpability and the lowest levels of perpetrator culpability. Victims were ascribed more control than blame, or responsibility. Men reported the highest levels of rape proclivity in scenarios of casual acquaintance, and intimate partner relationships. Contrary to past research, Benevolent Sexism (BS) did not directly impact attributions in rape cases but may maintain and legitimize the attitudes, which do. As some of our findings contradict past research, we suggest that the need for standardized rape vignettes is evident, along with greater transparency and methodological rigor in sexual assault research, as this will improve the practical implications of findings. Reproducible research practices may be useful for this. While limited in diversity, this research has important implications for policy and research practice, particularly in producing validated material that can be reused by future researchers.",
+  "raw_path": "01_raw/europepmc_xml/PMC9253925.xml",
+  "text_path": "02_text/europepmc/PMC9253925.txt",
+  "raw_bytes": 140270,
+  "text_chars": 55583,
+  "raw_sha256": "a342b2b8ca664524301f18ce6893f4058975f96f8adc386780280e8952d7ff04",
+  "text_sha256": "a3886e95cc0071599305a15d4304151c72abb5ad5b2f1db047cfed1c6da3a679",
+  "retrieved_at": "2026-10-25T15:28:40.089130+00:00"
+}

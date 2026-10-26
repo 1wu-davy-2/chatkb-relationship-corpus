@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8074860",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Proximate and Ultimate Perspectives on Romantic Love.",
+  "authors": "Bode A, Kushnick G.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2021.573123",
+  "pmcid": "PMC8074860",
+  "url": "https://europepmc.org/article/PMC/PMC8074860",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8074860/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "Romantic love is a phenomenon of immense interest to the general public as well as to scholars in several disciplines. It is known to be present in almost all human societies and has been studied from a number of perspectives. In this integrative review, we bring together what is known about romantic love using Tinbergen's \"four questions\" framework originating from evolutionary biology. Under the first question, related to mechanisms, we show that it is caused by social, psychological mate choice, genetic, neural, and endocrine mechanisms. The mechanisms regulating psychopathology, cognitive biases, and animal models provide further insights into the mechanisms that regulate romantic love. Under the second question, related to development, we show that romantic love exists across the human lifespan in both sexes. We summarize what is known about its development and the internal and external factors that influence it. We consider cross-cultural perspectives and raise the issue of evolutionary mismatch. Under the third question, related to function, we discuss the fitness-relevant benefits and costs of romantic love with reference to mate choice, courtship, sex, and pair-bonding. We outline three possible selective pressures and contend that romantic love is a suite of adaptions and by-products. Under the fourth question, related to phylogeny, we summarize theories of romantic love's evolutionary history and show that romantic love probably evolved in concert with pair-bonds in our recent ancestors. We describe the mammalian antecedents to romantic love and the contribution of genes and culture to the expression of modern romantic love. We advance four potential scenarios for the evolution of romantic love. We conclude by summarizing what Tinbergen's four questions tell us, highlighting outstanding questions as avenues of potential future research, and suggesting a novel ethologically informed working definition to accommodate the multi-faceted understanding of romantic love advanced in this review.",
+  "raw_path": "01_raw/europepmc_xml/PMC8074860.xml",
+  "text_path": "02_text/europepmc/PMC8074860.txt",
+  "raw_bytes": 420305,
+  "text_chars": 132124,
+  "raw_sha256": "46d85da29a8baa9a081178ee3d1ee63ac4275ba25ba4d4d435cdfa863856070e",
+  "text_sha256": "a762b02001dc75b6ea29f01cae3d3ea20e92810d5d017f4cd191134ca878e6d0",
+  "retrieved_at": "2026-10-25T15:39:55.119576+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13019368",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Yoga, sexual dysfunction, and female concussions: a mind-body pilot intervention.",
+  "authors": "Anto-Ocrah M, Garth H, Pukall CF, Levine MD, Sherman SA, Snedaker K.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fneur.2026.1705668",
+  "pmcid": "PMC13019368",
+  "url": "https://europepmc.org/article/PMC/PMC13019368",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13019368/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "Introduction Sexual wellbeing is a key part of health and should be included in concussion recovery. While yoga can improve concussion outcomes, its effects on sexual wellbeing in women with post-concussion symptoms are unclear. We aimed to evaluate the feasibility (Aim 1) of a brain injury-tailored yoga program, and its impact on sexual function (Aim 2a) and mood correlates-depression, anxiety, PTSD (Aim 2b)-in women aged 18+. We also assessed sustainability (Aim 3) and acceptability/ participant satisfaction with the intervention (Aim 4). Methods Participants were recruited from PINK Concussions, a social media support network for female concussion patients with symptoms lasting at least 1 month. Twelve participants were enrolled in a 6-week yoga program, and an additional 15 were assigned to a wait-list control condition. Participants received a self-report survey 1-week post- yoga intervention (week 7) and 5 weeks post-intervention (week 11). All participants were yoga novices, defined as practicing yoga once a month or less. Sessions were held over Zoom and led by a certified yoga instructor. The Female Sexual Functioning Index-6 (FSFI-6) was used to assess sexual dysfunction. Participants also completed measures of depression (PHQ-9), anxiety (GAD-7), and PTSD (PCL-5). We used difference in differences estimates to calculate the average treatment effects, and the counterfactual means of the intervention group. We also used Glass' Delta ( Δ ) to calculate effect sizes. Results (Aim 1) Fifty-seven eligible women expressed interest in the yoga program. Invitations were sent in two batches to limit sessions to 15 participants. For Group 1 (Yoga group), 27 women were invited; 16 (59%) confirmed interest, and 12 enrolled after exclusions due to scheduling constraints. Attendance varied, with 6/12 (50%) completing ≥3 sessions; 5 of these 6 (83%) completed both week-7 and week-11 follow-up surveys. For Group 2 (wait-list controls), 34 women were invited, including those unable to attend Group 1. 15 (44%) confirmed participation, and 11 (73%) completed both follow-up surveys. Outcomes were compared between the yoga and wait-list control groups. At 1-week post-yoga intervention (Aims 2a and 2b), participants reported substantial improvements in their sexual functioning and mood symptoms. Effect sizes: large for sexual function ( Δ = -0.50), medium for anxiety (-0.30), small for PTSD (-0.15) and depression (0.05). At 5 weeks (Aim 3), scores declined slightly but stayed above baseline. Sexual function retained a medium effect size (-0.34). All other domains had small effect sizes. Acceptability was high, with mean satisfaction scores of 8.7/10 (Aim 4). Using open-ended text boxes, participants commented on the intervention's impact on their mental health, physicality, social connection/isolation/belonging; and provided suggestions for improvement. Conclusion Yoga has the potential to improve women's sexual functioning after concussion and offers a non-pharmacological alternative for treating mood and other important correlates of women's sexual well-being. Larger randomized trials are needed.",
+  "raw_path": "01_raw/europepmc_xml/PMC13019368.xml",
+  "text_path": "02_text/europepmc/PMC13019368.txt",
+  "raw_bytes": 164283,
+  "text_chars": 46301,
+  "raw_sha256": "e1243674e90dd005b4d1adb268bbf6f7aa8ccb644a2ae10a04036cfe82c1f2ed",
+  "text_sha256": "7c1a5d3da7f02732e8e945cabeef37cb3d9e24d22594e006de2a213ed520e01b",
+  "retrieved_at": "2026-10-26T13:12:08.159209+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11461277",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Parallel loss of sexual reproduction in field populations of a brown alga sheds light on the mechanisms underlying the emergence of asexuality.",
+  "authors": "Hoshino M, Cossard G, Haas FB, Kane EI, Kogame K, Jomori T, Wakimoto T, Glemin S, Coelho SM.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1038/s41559-024-02490-w",
+  "pmcid": "PMC11461277",
+  "url": "https://europepmc.org/article/PMC/PMC11461277",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11461277/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "asexuality_celibacy"
+  ],
+  "abstract": "Sexual reproduction is widespread, but asexual lineages have repeatedly arisen from sexual ancestors across a wide range of eukaryotic taxa. The molecular changes underpinning the switch to asexuality remain elusive, particularly in organisms with haploid sexual systems. Here we explore independent events of loss of sex in the brown alga Scytosiphon, examine the proximate and evolutionary mechanisms involved, and test the importance of sexual conflict on gene expression changes following loss of sex. We find that asexual females ('Amazons') lose ability to produce sex pheromone and, consequently, are incapable of attracting males, whereas they gain rapid parthenogenic development from large, unfertilized eggs. These phenotypic changes are accompanied by convergent changes in gene expression. Decay of female functions, rather than relaxation of sexual antagonism, may be a dominant force at play during the emergence of asexuality in haploid sexual systems. Moreover, we show that haploid purifying selection plays a key role in limiting the accumulation of deleterious alleles in Amazons, and we identify an autosomal locus associated with the Amazon phenotype. The sex chromosome, together with this autosomal locus, may underlie the switch to obligate asexuality in the Amazon populations.",
+  "raw_path": "01_raw/europepmc_xml/PMC11461277.xml",
+  "text_path": "02_text/europepmc/PMC11461277.txt",
+  "raw_bytes": 213827,
+  "text_chars": 95411,
+  "raw_sha256": "2f7f4cc1cb572d1b69017c750da0370ffbe2aefce411ac28001459a9959b1259",
+  "text_sha256": "3be6b63e84dbacbbf6094bd02efe705720f42d7f698025d058d62cc413791ff6",
+  "retrieved_at": "2026-10-26T13:05:20.481328+00:00"
+}

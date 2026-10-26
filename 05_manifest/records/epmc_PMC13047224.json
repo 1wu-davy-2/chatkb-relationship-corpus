@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13047224",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Intimate Partner Violence Against Men in Germany-A Study on Prevalence, Victim-Offender Overlap, and the Role of Parental Violence.",
+  "authors": "Schemmel J, Maciey D, Goede LR.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/08862605251321003",
+  "pmcid": "PMC13047224",
+  "url": "https://europepmc.org/article/PMC/PMC13047224",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13047224/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "We present data on intimate partner violence (IPV) victimization, perpetration, and victim-offender overlap in Germany, focusing on the impact of parental violence. We collected a sample using a register-based procedure where 183 randomly selected municipalities provided the addresses of 12,000 randomly selected men aged 18 to 69. Out of these men, a total N of 1,209 answered questions on their experiences with IPV and parental violence as children. In our sample, lifetime prevalences of IPV victimization ranged from 5.4% (sexual violence) to 39.8% (psychological violence), and 12-month prevalences ranged from 2.8% (digital violence) to 25.1% (coercive control). The sample's corresponding lifetime prevalences of IPV perpetration ranged between 2.3% (digital violence) and 33.4% (psychological violence). Overall, there was a victim-offender overlap of 39.5%, which was particularly pronounced for non-physical IPV (psychological: 23.6%; coercive control: 20.3%). Offending only was most frequently reported for coercive control (18.4%). Across the different IPV types, victimization was consistently associated with verbal parental violence in childhood. Being victimized by verbal parental violence and witnessing violence between parents were predictive of later being involved in psychological violence as a victim-only or as both a victim and offender. Being a victim of physical parental violence in childhood more than doubled the odds of being a victim-offender of physical IPV, and increased the odds of becoming an offender-only of sexual IPV. These findings suggest that distinguishing clearly between victim and offender is often challenging in IPV research and reaffirm the well-established link between parental violence and IPV in the context of IPV against men.",
+  "raw_path": "01_raw/europepmc_xml/PMC13047224.xml",
+  "text_path": "02_text/europepmc/PMC13047224.txt",
+  "raw_bytes": 139504,
+  "text_chars": 52564,
+  "raw_sha256": "18903c1570d0b189084a53836cdab6a9556a0640e1c2a269fc0f102854b222b0",
+  "text_sha256": "27b8b52e6ed45c978134ade160e178b85489bf28f96c42a575c5d9eddb668daf",
+  "retrieved_at": "2026-10-25T15:49:15.274446+00:00"
+}

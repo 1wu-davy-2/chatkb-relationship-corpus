@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10666479",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Defining and Measuring Sexual Consent within the Context of University Students' Unwanted and Nonconsensual Sexual Experiences: A Systematic Literature Review.",
+  "authors": "Anyadike-Danes N, Reynolds M, Armour C, Lagdon S.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/15248380221147558",
+  "pmcid": "PMC10666479",
+  "url": "https://europepmc.org/article/PMC/PMC10666479",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10666479/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types"
+  ],
+  "abstract": "Lack of sexual consent forms the foundation of unwanted (and nonconsensual) sexual experiences (USEs), yet research suggests it is not well understood amongst university students. While the prevalence of USEs has been well documented within the university context, less is known about how sexual consent is defined or measured. This review aims to identify a consistent sexual consent definition and how current research examining USEs defines and measures sexual consent amongst university students. A systematic review of nine electronic databases (2000-2022) was conducted, and the results were assessed against inclusion criteria (e.g., studies had to focus exclusively on university students). Thirty-three articles were identified and reviewed against the study aims. Sexual consent was more often implicitly defined across measures and articles. Four themes were identified (incapacitation, use of force, use of threats, and lack of wantedness) across the implicit definitions but varied by study with some implicitly defining sexual consent within the context of a relationship. Only three studies explicitly defined sexual consent, referring to it as a willingness to engage in sexual behavior. Measures assessed sexual consent communication or, attitudes and behaviors that might predict sexual aggression. Two studies examined students' individual sexual consent conceptualizations. Sexual consent appears to be contextual so future research should examine the variability of sexual consent in student samples. Students may indeed rely on implicit sexual consent definitions (rather than explicit) but more research is needed. Lastly, researchers should take care to be clear on their sexual consent definitions, both in text and within measures.",
+  "raw_path": "01_raw/europepmc_xml/PMC10666479.xml",
+  "text_path": "02_text/europepmc/PMC10666479.txt",
+  "raw_bytes": 171160,
+  "text_chars": 58161,
+  "raw_sha256": "3272ad2c052a94b854ac7d804220389278fdbebed5adfe60765ec635f5657e73",
+  "text_sha256": "9735b1bda408852c5db8f5e3f0d3d2bdb000e258f09a35125a02ff1b11172b3b",
+  "retrieved_at": "2026-10-26T13:27:23.207103+00:00"
+}

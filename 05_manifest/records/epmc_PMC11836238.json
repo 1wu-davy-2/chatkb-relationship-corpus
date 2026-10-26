@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11836238",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Social Representations of Pornography Consumers Among Individuals in Romantic Relationships: Exploring the Roles of Gender, Relationship Satisfaction, and Sexual Satisfaction in a Romanian Sample.",
+  "authors": "Huțul TD, Huțul A, Holman AC.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10508-024-03025-x",
+  "pmcid": "PMC11836238",
+  "url": "https://europepmc.org/article/PMC/PMC11836238",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11836238/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship",
+    "sexual_satisfaction"
+  ],
+  "abstract": "Understanding the psychological conflicts associated with pornography consumption can help professionals tailor their interventions to address the mental health risks faced by individuals struggling with issues related to their pornography use. The main objective of this research was to investigate how pornography consumers are perceived from a social representation theoretical perspective and to examine variations in these perceptions-or social representations-according to gender, relationship satisfaction, and sexual satisfaction. All participants (N = 875 Romanians) were in a romantic relationship at the time of participation. Our results indicated that the social representation of pornography consumers varied significantly depending on gender, sexual satisfaction, and relationship satisfaction. Also, our findings showed a potential psychological conflict in the long run, which can put individuals at risk for self-stigma, guilt, and subsequent mental health consequences. We discuss conclusions from both a theoretical and practical perspective, with a focus on the utility of our conclusions in the clinical practice context of psychologists, psychotherapists, and mental health workers when dealing with issues related to pornography use.",
+  "raw_path": "01_raw/europepmc_xml/PMC11836238.xml",
+  "text_path": "02_text/europepmc/PMC11836238.txt",
+  "raw_bytes": 205368,
+  "text_chars": 45507,
+  "raw_sha256": "1dac807a433bf5f45c71687bf2e18efdd90ceff650417b1791a3a60cc7636e80",
+  "text_sha256": "d661c7979424c91fd05ac86fd0c61795e3391f0f587e11771873ef7396e40cac",
+  "retrieved_at": "2026-10-25T13:56:08.642416+00:00"
+}

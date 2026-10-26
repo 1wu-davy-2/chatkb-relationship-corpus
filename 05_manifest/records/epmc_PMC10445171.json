@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10445171",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Promoting appetitive learning of consensual, empowered vulnerability: a contextual behavioral conceptualization of intimacy.",
+  "authors": "Louisiana Contextual Science Research Group.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2023.1200452",
+  "pmcid": "PMC10445171",
+  "url": "https://europepmc.org/article/PMC/PMC10445171",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10445171/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "vulnerability"
+  ],
+  "abstract": "Vulnerability is emphasized in a number of theoretical models of intimacy (e.g., Intimacy Process Model), including from behavioral and contextual behavioral perspectives. Vulnerability is generally defined as susceptibility to harm and involves behaviors that have been historically met with aversive social consequences. From these perspectives, intimacy is fostered when vulnerable behavior is met with reinforcement. For example, interventions have trained intimacy by building skills in emotional expression and responsiveness with promising results. Vulnerability has divergent functions, however, depending on the interpersonal context in which it occurs. Functional intimacy is explored through the lens of functional relations, which play a key role in interpersonal processes of power, privilege, and consent. This conceptualization suggests that vulnerability must be under appetitive functional relations, consensual, and empowered for safe intimacy to emerge. The responsibility to promote appetitive learning of consensual, empowered vulnerability to foster intimacy falls to the person with more power in a particular interaction and relationship. Recommendations are offered for guiding this process.",
+  "raw_path": "01_raw/europepmc_xml/PMC10445171.xml",
+  "text_path": "02_text/europepmc/PMC10445171.txt",
+  "raw_bytes": 133832,
+  "text_chars": 64172,
+  "raw_sha256": "ad1b367e203ace6e0e684f50859c09eb35d9bff7861d424837b1ca0e8a5b8196",
+  "text_sha256": "9c363abb71c6dd94b7691a4c2e1ba96f2d455e6f5d96838cdb9dbd414339eb46",
+  "retrieved_at": "2026-10-25T15:26:52.857375+00:00"
+}

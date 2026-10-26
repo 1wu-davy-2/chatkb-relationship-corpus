@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6783572",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Neural basis of romantic partners' decisions about participation in leisure activity.",
+  "authors": "Kyeong S, Eom H, Kim MK, Jung YH, Park S, Kim JJ.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1038/s41598-019-51038-7",
+  "pmcid": "PMC6783572",
+  "url": "https://europepmc.org/article/PMC/PMC6783572",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6783572/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "Leisure activity is one of key ingredients for individual happiness and life satisfaction. Enjoying leisure activity with one's partner can increase marital satisfaction. This study aimed to identify the neural basis of making decisions on participation in a leisure activity with one's romantic partner as well as the relationship between leisure activity and satisfaction with life. Thirty-seven soon-to-be married heterosexual couples were participated in functional MRI while deciding participation in specific leisure activities in the individual, partner, with-friend, and with-partner conditions. We constructed analysis of variance models and investigated couple characteristics such as personality similarity, leisure activity matching rate, and spatial similarity in the bilateral frontoparietal network. The results showed decreased activity in the bilateral hippocampus during the task in the with-partner condition. Individual leisure activity was correlated with quality of life in males, whereas participation in leisure activity might require more cognitive loading on the dorsolateral prefrontal cortex in females. The leisure activity matching rate was correlated with courtship period, personality similarity, and spatial similarity of the right frontoparietal network during the task. These findings suggest that although there are different activation pattern in making decisions on leisure activity between romantic couples, spatial similarity of the partner's social brain networks may be a marker that predicts how well the couple enjoys leisure activity together. In addition, our couples' data analysis provides a scientific basis for the saying that romantic couples become more similar the longer they are together.",
+  "raw_path": "01_raw/europepmc_xml/PMC6783572.xml",
+  "text_path": "02_text/europepmc/PMC6783572.txt",
+  "raw_bytes": 142970,
+  "text_chars": 48016,
+  "raw_sha256": "f587f8e037212f3894609aa8bcd8457fb887f600588d7d72662822078e20c5fe",
+  "text_sha256": "c1cea9ff671f007347000bf6e61ebdbf40b34dea54a3b013f610384fe4a91429",
+  "retrieved_at": "2026-10-25T15:46:51.981084+00:00"
+}

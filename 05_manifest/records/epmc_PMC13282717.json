@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13282717",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Behaviors Associated With Improved Relationship Satisfaction: Examining Change in the Relationship Checkup.",
+  "authors": "Mitchell EA, Roberson PNE, Woodle DS, Cordova JV, Gordon KC.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/famp.70162",
+  "pmcid": "PMC13282717",
+  "url": "https://europepmc.org/article/PMC/PMC13282717",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13282717/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "Relationship distress and dissolution are reported by about one-third of couples in the United States. Despite evidence that couple therapy is an effective treatment for relationship distress, many couples encounter barriers (e.g., cost, time, transportation, childcare) to accessing this kind of relationship help. The Relationship Checkup is a two-session, individualized intervention where each couple receives evidence-based suggestions to address specific relationship concerns. The Relationship Checkup was delivered as a home visitation intervention in the Southeastern region of the United States. The current study (N = 1298 individuals; N = 649 couples) uses Dyadic Latent Growth Curves models to examine associations between short-term (i.e., pre-intervention to 1-month post-intervention) change in an indicator of relationship quality (i.e., constructive communication, intimate safety, and relationship aggression) and longer-term change (i.e., pre-intervention to 6-months post-intervention) in relationship satisfaction. Specifically, we examine how change in one's own indicator of relationship quality influences changes in one's own and one's partner's relationship satisfaction. Across all indicators of relationship quality, short-term change for Partner A (i.e., the partner who requested the Relationship Checkup) is associated with longer-term change in satisfaction for self and partner. For Partner B, short-term change in each indicator is associated with longer-term change in satisfaction for self, but not for partner. Supplemental analyses indicate improvements are generally maintained for relationship aggression, while improvements for intimate safety and constructive communication generally decelerate following the intervention. Attuning to the identified areas of concern for the partner requesting the Relationship Checkup may be an effective approach to practice.",
+  "raw_path": "01_raw/europepmc_xml/PMC13282717.xml",
+  "text_path": "02_text/europepmc/PMC13282717.txt",
+  "raw_bytes": 155819,
+  "text_chars": 46017,
+  "raw_sha256": "5e4a75367e200ceb0bfc6208ba88a28caa27e303e2a5d6df670a0261460367ec",
+  "text_sha256": "89c38d8130fda7b333a13387838adc86f57602f92ea6ddf9a509f9e4c2a2349a",
+  "retrieved_at": "2026-10-25T15:37:20.433406+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10303551",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Function of Casual Sex Action and Inaction Regret: A Longitudinal Investigation.",
+  "authors": "Kennair LEO, Grøntvedt TV, Bendixen M.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1177/1474704921998333",
+  "pmcid": "PMC10303551",
+  "url": "https://europepmc.org/article/PMC/PMC10303551",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10303551/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "In several recent papers the sex difference in regret predicted by sexual strategies theory has been supported: men more than women report regret passing up short-term sexual opportunities (inaction regret), while women regret having had sexual encounters (action regret). However, the adaptive function of regret, to improve future behavioral choices, has not been tested. In this first longitudinal test of behavioral change following regret, we consider whether regret actually results in adaptive shifts of behavior: will men who regret passing up sex engage in more short-term sex following regret? Will women who regret short-term encounters either choose better quality partners, reduce number of one-night stands or shift their strategy to long-term relationships? Across two waves (NT1 = 399, 65.4% women and NT2 = 222, 66.2% women) students responded to questions about casual sex action regret and inaction regret, along with possible outcomes, intrapersonal traits, and concurrent contextual predictors. There was no clear evidence for the proposed functional shifts in sexual behavior. Casual sex regret was associated with respondent sex and stable individual differences, such as sociosexual attitudes, regret processing and metacognitions, but the effect of these predictors were not consistent across the two waves. Among the tested concurrent contextual predictors, sexual disgust was the most consistent across waves. Regret is considered a gauge of the value and quality of the short-term sexual encounter. However, tentatively we conclude that after this first test of function using longitudinal data, we find no evidence of a mating strategy shifting effect following sexual regret.",
+  "raw_path": "01_raw/europepmc_xml/PMC10303551.xml",
+  "text_path": "02_text/europepmc/PMC10303551.txt",
+  "raw_bytes": 153009,
+  "text_chars": 52815,
+  "raw_sha256": "1e98491b6c35887c79cf45f08c4b4d9da17a848aa171ba9b8e649762084b948c",
+  "text_sha256": "997580d2d3ae6b38bb65d2ef64886c88be3fea576e5a4fd7339b35c5acccf283",
+  "retrieved_at": "2026-10-26T13:14:08.138453+00:00"
+}

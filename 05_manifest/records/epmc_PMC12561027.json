@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12561027",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Factors for Perceived Helpfulness of Support Sources Among Survivors of Intimate Partner Violence.",
+  "authors": "Cho H, Kim W, Gillis K, Goetz K.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15101350",
+  "pmcid": "PMC12561027",
+  "url": "https://europepmc.org/article/PMC/PMC12561027",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12561027/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Intimate partner violence (IPV) has far-reaching health and social consequences, particularly for survivors experiencing polyvictimization-multiple forms of IPV such as physical, emotional, and sexual abuse. This study examined help-seeking behaviors and the perceived helpfulness of formal support sources (police, medical professionals, and psychologists) among a nationally representative sample of 2387 IPV survivors drawn from the 2010 National Intimate Partner and Sexual Violence Survey (NISVS) in the United States. Latent class analysis identified three distinct polyvictimization profiles: Coercive Control and Psychological Aggression (CCPA), Psychological and Physical Violence (PPV), and Multiple Violence (MV). Survivors' patterns of formal help-seeking varied significantly by gender, sexual orientation, socioeconomic status, and type of victimization. Psychologists were the most commonly contacted and perceived as the most helpful overall, though disparities emerged. Female survivors and those with less severe victimization were more likely to rate support as helpful, whereas male and sexual/gender minority (SGM) survivors, particularly those facing severe or multiple forms of violence, were less likely to find formal sources helpful-especially law enforcement. These findings highlight the need for more inclusive, culturally competent, and trauma-informed services tailored to the diverse experiences of IPV survivors.",
+  "raw_path": "01_raw/europepmc_xml/PMC12561027.xml",
+  "text_path": "02_text/europepmc/PMC12561027.txt",
+  "raw_bytes": 139531,
+  "text_chars": 42539,
+  "raw_sha256": "7bec8e476193a94c861a01ef8d68fa41b7b0db454008221ae88ad01d31d3b851",
+  "text_sha256": "f99020318ea5167d25b0d286d4ca0fd14b9dc66cdd400df96e0512f76988f8b4",
+  "retrieved_at": "2026-10-25T15:49:32.259224+00:00"
+}

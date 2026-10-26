@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13553082",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Cohabitation and unmet care needs in later life.",
+  "authors": "Patterson SE, Wright MR, Freedman VA.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1093/geronb/gbag136",
+  "pmcid": "PMC13553082",
+  "url": "https://europepmc.org/article/PMC/PMC13553082",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13553082/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "Objectives More older Americans are cohabiting with a partner. However, it is unclear whether cohabitation serves as an alternative to marriage for meeting daily needs in later life. This study examines whether receipt of partner assistance and experience of unmet care needs differ by union status and gender. Methods Data are from the 2012, 2016, and 2023 National Health and Aging Trends Study, including 4,283 community-dwelling older adults (aged 66+; 4,070 married, 213 cohabiting) who coreside with an opposite-sex partner and are in need of care. Outcomes include receipt of health-related assistance \"care,\" receipt of non-health-related assistance \"help,\" overall assistance hours, and unmet care needs. We estimate logistic and linear regression models by union status and assess differences for men vs. women. Results In adjusted models, cohabitation is not associated with receipt of care or help but is associated with fewer hours of help (-24.13; p Discussion Cohabitation functions similarly to marriage among older adults who are in need of care, for both care and help received, but cohabitors receive fewer hours than spouses from their partners. Cohabiting women experience more adverse consequences related to unmet needs than married women, with a larger gender gap in unmet care needs among cohabiting couples than among married couples. Continued tracking of the impact of cohabitation as the U.S. population continues to age is warranted.",
+  "raw_path": "01_raw/europepmc_xml/PMC13553082.xml",
+  "text_path": "02_text/europepmc/PMC13553082.txt",
+  "raw_bytes": 159874,
+  "text_chars": 49254,
+  "raw_sha256": "ca36393cd63dfd36b5703a72e418776c7da264fac978d12ca479a67c670ff734",
+  "text_sha256": "da9b8e60d19e206705ca533d9905c971165f2f731bd3dca42a9f978cbbc70195",
+  "retrieved_at": "2026-10-25T15:27:04.838818+00:00"
+}

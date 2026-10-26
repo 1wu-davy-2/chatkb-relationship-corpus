@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10426870",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Health, Anticipated Partner Infidelity, and Jealousy in Men and Women.",
+  "authors": "Arnocky S, Pearson M, Vaillancourt T.",
+  "year": "2015",
+  "journal": "",
+  "doi": "10.1177/1474704915593666",
+  "pmcid": "PMC10426870",
+  "url": "https://europepmc.org/article/PMC/PMC10426870",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10426870/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Health has been identified as an important variable involved in mate choice. Unhealthy organisms are generally less able to provide reproductively important resources to partners and offspring and are more likely to pass on communicable disease. Research on human mate preferences has shown that both men and women prefer healthy mates. Yet to date, little research has examined how health relates to one's own mating experiences. In the present study, 164 participants (87 women) who were currently in heterosexual romantic relationships completed measures of frequency and severity of health problems, anticipated partner infidelity, and intensity of jealousy felt in their current relationship. Mediation analyses showed that health problems predicted greater anticipated partner infidelity and jealousy scores and that anticipated partner infidelity mediated the links between health and jealousy for both frequency and severity of health problems, controlling for both sex and relationship duration. These findings suggest that unhealthy people perceive themselves to be at a mating disadvantage, experiencing associated differences in perceptions and emotions surrounding their romantic partners' fidelity.",
+  "raw_path": "01_raw/europepmc_xml/PMC10426870.xml",
+  "text_path": "02_text/europepmc/PMC10426870.txt",
+  "raw_bytes": 126353,
+  "text_chars": 35843,
+  "raw_sha256": "cdc80e951b7e4e81470d6c21e06d4c29509bcac0ffe86d8321bc4566ed0a314c",
+  "text_sha256": "54e6687f704aa214bfe13d6b519ce466b23f40f593e5f2e67379c18858d46083",
+  "retrieved_at": "2026-10-25T15:49:26.305117+00:00"
+}

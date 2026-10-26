@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_22417",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "The Etiquette of To-day",
+  "gutenberg_id": "22417",
+  "url": "https://www.gutenberg.org/ebooks/22417",
+  "download_url": "https://www.gutenberg.org/cache/epub/22417/pg22417.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/22417.txt",
+  "text_path": "02_text/gutenberg/gut_22417_the_etiquette_of_to_day.txt",
+  "raw_bytes": 333124,
+  "text_chars": 298483,
+  "text_sha256": "f7a605217f62fb982e9ef095f0755555a77935044f6efc1a779789869858066b",
+  "retrieved_at": "2026-10-25T15:46:24.204188+00:00"
+}

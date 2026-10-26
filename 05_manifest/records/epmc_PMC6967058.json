@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6967058",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Couple relationship education program \"Living as Partners\": evaluation of effects on marital quality and conflict.",
+  "authors": "Neumann AP, Wagner A, Remor E.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.1186/s41155-018-0106-z",
+  "pmcid": "PMC6967058",
+  "url": "https://europepmc.org/article/PMC/PMC6967058",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6967058/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_styles"
+  ],
+  "abstract": "Relationship education programs are strategies that can favor better marital quality and conflict management between spouses. The relationship education program \"Living as Partners: Turning Challenges into Opportunities\" seeks to promote the couples' learning of conflict resolution strategies and better quality levels in the relationship. This study evaluates the capacity of this program to produce results regarding marital quality and three dimensions of the couple's conflict: frequency, intensity, and resolution strategies. Data from 41 couples were analyzed before and after the program, and a follow-up after 5 months (n = 33 couples) were conducted as well (single group, pre-test, post-test, and follow-up quasi-experimental design). Results show that the program produced immediate effects in all the outcome variables, which remained significant after 5 months, except for marital quality and for the strategy of compliance. These outcomes showed effect sizes ranging from low to high levels. The study presents evidence about the ability of the \"Living as Partners\" program to produce improvements in couple's conflict indicators, addressing an unexplored field of research and intervention focused on Brazilian cultural specificities.",
+  "raw_path": "01_raw/europepmc_xml/PMC6967058.xml",
+  "text_path": "02_text/europepmc/PMC6967058.txt",
+  "raw_bytes": 131107,
+  "text_chars": 41946,
+  "raw_sha256": "652e21fbacb81d502e67307f92ecb546fc20d1d19385a8a055904f42ac543cc6",
+  "text_sha256": "879d3243346387f2f82cbff817553c3521d75d785d4ddb24a9ec89cc07b92c5a",
+  "retrieved_at": "2026-10-25T15:34:44.564860+00:00"
+}

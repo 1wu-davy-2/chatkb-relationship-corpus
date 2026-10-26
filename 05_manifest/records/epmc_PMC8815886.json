@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8815886",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The nuclear receptor Hr46/Hr3 is required in the blood brain barrier of mature males for courtship.",
+  "authors": "Lama C, Love CR, Le HN, Waqar M, Reeve JL, Lama J, Dauwalder B.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1371/journal.pgen.1009519",
+  "pmcid": "PMC8815886",
+  "url": "https://europepmc.org/article/PMC/PMC8815886",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8815886/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "The blood brain barrier (BBB) forms a stringent barrier that protects the brain from components in the circulation that could interfere with neuronal function. At the same time, the BBB enables selective transport of critical nutrients and other chemicals to the brain. Beyond these functions, another recently recognized function is even less characterized, specifically the role of the BBB in modulating behavior by affecting neuronal function in a sex-dependent manner. Notably, signaling in the adult Drosophila BBB is required for normal male courtship behavior. Courtship regulation also relies on male-specific molecules in the BBB. Our previous studies have demonstrated that adult feminization of these cells in males significantly lowered courtship. Here, we conducted microarray analysis of BBB cells isolated from males and females. Findings revealed that these cells contain male- and female-enriched transcripts, respectively. Among these transcripts, nuclear receptor Hr46/Hr3 was identified as a male-enriched BBB transcript. Hr46/Hr3 is best known for its essential roles in the ecdysone response during development and metamorphosis. In this study, we demonstrate that Hr46/Hr3 is specifically required in the BBB cells for courtship behavior in mature males. The protein is localized in the nuclei of sub-perineurial glial cells (SPG), indicating that it might act as a transcriptional regulator. These data provide a catalogue of sexually dimorphic BBB transcripts and demonstrate a physiological adult role for the nuclear receptor Hr46/Hr3 in the regulation of male courtship, a novel function that is independent of its developmental role.",
+  "raw_path": "01_raw/europepmc_xml/PMC8815886.xml",
+  "text_path": "02_text/europepmc/PMC8815886.txt",
+  "raw_bytes": 103142,
+  "text_chars": 43716,
+  "raw_sha256": "b8829265775d39628c597769ef46edf849ecc5b074a4e5ca9eee99ab5277c947",
+  "text_sha256": "07708515bd45f2965b2e7072ef5a809aa2d2145173c6a1f46e16af78397099fc",
+  "retrieved_at": "2026-10-25T15:41:42.351728+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12318981",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mapping love: a personality-centered network analysis of relationship satisfaction.",
+  "authors": "Schulz OT, Gubler DA, Raemy UE, Troche SJ.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1587405",
+  "pmcid": "PMC12318981",
+  "url": "https://europepmc.org/article/PMC/PMC12318981",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12318981/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Previous research has linked various personality features to relationship satisfaction, primarily investigating bivariate effects. Given the interrelatedness of these personality features, their unique associations with relationship satisfaction remain unclear. The present study addresses this gap by exploring the holistic interplay of relationship satisfaction with related personality features and considering gender as a moderator. With an online self-report survey, relationship satisfaction, attachment, jealousy and trust, self-esteem, relationship self-efficacy, sexual satisfaction, and sociosexuality in 510 women and 300 men ( M age = 26.5 years) were assessed. Network analysis was used to estimate a combined network, while a network comparison test was used to examine gender differences. Insecure attachment, trust, mutuality, and sexual satisfaction uniquely correlated with relationship satisfaction within the combined network. Networks of men and women were largely similar. These results expand the understanding of relationship satisfaction and inform the ongoing debate on gender differences in psychological research.",
+  "raw_path": "01_raw/europepmc_xml/PMC12318981.xml",
+  "text_path": "02_text/europepmc/PMC12318981.txt",
+  "raw_bytes": 187523,
+  "text_chars": 55384,
+  "raw_sha256": "c2aec18fd7b8a2eaa7b40b5cf865bf636852c5c05e5a76427d5fa9c316aed409",
+  "text_sha256": "5ac5346645050ffd9ce6b3e284680d640f31cbea466e28564f56b9bc6306b5ee",
+  "retrieved_at": "2026-10-26T13:09:34.687918+00:00"
+}

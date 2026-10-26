@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_emoji",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "表情符號",
+  "requested_title": "表情符号",
+  "url": "https://zh.wikipedia.org/wiki/%E8%A1%A8%E6%83%85%E7%AC%A6%E8%99%9F",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 表情符號",
+  "topics": [
+    "communication",
+    "technology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/emoji.json",
+  "text_path": "02_text/zh_wikipedia/emoji.txt",
+  "raw_bytes": 3725,
+  "text_chars": 2783,
+  "text_sha256": "208caccf663ca66a771e79f18f543a2ae78b12244bcb60975dc73bcf6762bff6",
+  "retrieved_at": "2026-10-25T16:21:05.393748+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13225006",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychological and Sociocultural Correlates of Genito-Pelvic Pain/Penetration Disorder in Iranian Women: A Comparative Study of Sexual Self-Schema and Temperament.",
+  "authors": "Mohazzab A, Shahali S, Ghorbani B, Balaei S, Ansaripour S, Ashtari A, Nazari F, Samimi N, Azin SA.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.2147/ijwh.s580118",
+  "pmcid": "PMC13225006",
+  "url": "https://europepmc.org/article/PMC/PMC13225006",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13225006/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_self_disclosure"
+  ],
+  "abstract": "Background Genito-Pelvic Pain/Penetration Disorder (GPPPD) is a distressing sexual dysfunction often shaped by psychological and sociocultural factors. Although sexual self-schema and temperament traits may contribute to GPPPD, little is known about their role in non-Western contexts such as Iran. This study aimed to compare sexual self-schema, affective-emotional temperament, and selected sociocultural factors between Iranian women with GPPPD and healthy controls. Methods This case-control study recruited married women aged 18-45 years from a referral fertility and sexual health clinical setting in Tehran, Iran. Cases were clinically diagnosed with GPPPD, and controls were randomly selected from eligible women attending the same settings. Participants completed validated Persian versions of the Sexual Self-Schema Questionnaire and Affective and Emotional Composite Temperament Scale. Demographic and psychosocial data, including self-reported religiosity and employment characteristics, were collected. Multivariable logistic regression identified factors associated with GPPPD. Results The final sample included 75 women: 38 with GPPPD and 37 controls. Women with GPPPD had higher shy-cautious schema scores than controls (19.5 ± 4.2 vs 17.3 ± 4.2; p = 0.035). Emotional sensitivity was also higher in women with GPPPD (35.7 ± 5.9 vs 33.6 ± 7.9) and independently associated with GPPPD (OR = 1.14, 95% CI: 1.02-1.27). Obsessive temperament was positively associated with GPPPD (OR = 2.54, 95% CI: 1.09-5.89), while euthymic temperament was negatively associated (OR = 0.47, 95% CI: 0.25-0.90). Higher self-reported religiosity increased the odds of GPPPD (OR = 5.89, 95% CI: 1.47-23.69), whereas spousal freelance employment reduced the odds (OR = 0.20, 95% CI: 0.04-0.98). Conclusion These findings suggest that GPPPD in Iranian women may be better understood within an integrated psychological and sociocultural framework incorporating cognitive schemas, emotional sensitivity, temperament traits, and religious beliefs, supporting culturally sensitive psychological assessment and intervention.",
+  "raw_path": "01_raw/europepmc_xml/PMC13225006.xml",
+  "text_path": "02_text/europepmc/PMC13225006.txt",
+  "raw_bytes": 93758,
+  "text_chars": 29908,
+  "raw_sha256": "09d7a992c4371b5a02df34d4d257ba2622f987d8127668a43a0e94f16bd666c0",
+  "text_sha256": "195b26673b1b91e6a3668e0b6f4005d39896658aa54bb557d7bb1ee115cbe092",
+  "retrieved_at": "2026-10-26T12:53:12.748422+00:00"
+}

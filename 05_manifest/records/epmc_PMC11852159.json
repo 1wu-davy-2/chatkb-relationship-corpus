@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11852159",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "What Is the Link of Closeness and Jealousy in Romantic Relationships?",
+  "authors": "Fernández AM, Barbato MT, Barone P, Zavalla B, Rivera-Ottenberger D, Guzmán-González M.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15020132",
+  "pmcid": "PMC11852159",
+  "url": "https://europepmc.org/article/PMC/PMC11852159",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11852159/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "From an evolutionary perspective, love and attachment foster closeness, while jealousy ensures exclusivity in romantic relationships. This study examined the links between jealousy and affective aspects of love, hypothesizing positive associations despite their apparent opposition. An online sample of 265 individuals in Chile and Spain completed measures of digital jealousy, closeness, love, felt loved, and attachment. Results revealed higher jealousy in Chile than in Spain. Across both countries, anxious attachment and closeness were significant predictors of jealousy, explaining nearly 30% of its variance. In Chile, feeling loved negatively predicted jealousy, suggesting that reassurance of the romantic bond may reduce jealousy in this cultural context. Notably, affective closeness-conceptualized as the inclusion of the self in the other-emerged as a novel predictor of jealousy, extending beyond the established role of anxious attachment. These findings underscore the nuanced interplay between cultural context, affective closeness, and attachment in shaping jealousy.",
+  "raw_path": "01_raw/europepmc_xml/PMC11852159.xml",
+  "text_path": "02_text/europepmc/PMC11852159.txt",
+  "raw_bytes": 136287,
+  "text_chars": 35905,
+  "raw_sha256": "28a460047cdb11ea3c262015d8551f7252f252d112492355dbc9ac8f1de2b68b",
+  "text_sha256": "11e5e4c5b4cb96eb9426c7c1a70d9893beedfbf791e0972d7141538a52a75c21",
+  "retrieved_at": "2026-10-25T15:28:24.267564+00:00"
+}

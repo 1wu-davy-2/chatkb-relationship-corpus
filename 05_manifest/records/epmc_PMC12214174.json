@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12214174",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Wealth and Family Formation: Insights from First Cohabitation, Marriage, and Birth in Germany.",
+  "authors": "Lersch PM.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10680-025-09738-6",
+  "pmcid": "PMC12214174",
+  "url": "https://europepmc.org/article/PMC/PMC12214174",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12214174/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "Existing research has demonstrated that wealthier individuals differ in family formation. Potential explanations draw on wealth's use and symbolic value as well as the relative economic bar of family formation. This study examines the relationship between wealth and three family formation events in Germany: first cohabitation, marriage, and birth. Data from the German Socio-Economic Panel Study (2002-2017) are used with multi-state, competing-risk, discrete-time event history analysis. Results show that wealth, primarily driven by homeownership, significantly influences cohabitation, marriage, and birth. The impact of homeownership is particularly notable for marriage and birth and shows gender-specific associations for cohabitants. The findings highlight the substantial influence of wealth-most likely through its symbolic and use value-in shaping family formation while indicating limited support for a relative economic bar in Germany.",
+  "raw_path": "01_raw/europepmc_xml/PMC12214174.xml",
+  "text_path": "02_text/europepmc/PMC12214174.txt",
+  "raw_bytes": 152355,
+  "text_chars": 59384,
+  "raw_sha256": "61e7261201ddb4595eaf512990ed5b96ee2ff0dafb51a406d2ffb0ea1dc08d66",
+  "text_sha256": "2d8a5ccc55330272bda1568fa72ad0fb0e4a6caf25af15de2a0bbf0966a95e9d",
+  "retrieved_at": "2026-10-25T15:30:57.742517+00:00"
+}

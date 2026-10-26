@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12183410",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Efficacy of the Hold Me Tight Relationship Education Program Delivered by Paraprofessionals in South Africa.",
+  "authors": "Blow A, Lesch E, Wittenborn A, Tseng CF, VanBoxel JW, Timm T, de Bruin K, Anderson C.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/jmft.70048",
+  "pmcid": "PMC12183410",
+  "url": "https://europepmc.org/article/PMC/PMC12183410",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12183410/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "While there is a growing body of evidence demonstrating the efficacy of Hold Me Tight (HMT) as a relationship education intervention for couples, more studies are needed to test its efficacy in under-resourced communities. In this mixed-methods study, we explored the efficacy of HMT when delivered by paraprofessionals in South Africa. After training paraprofessionals, we assessed the efficacy of their delivery of HMT to individuals who were a part of the couple dyads participating in six HMT groups. When comparing pre-test to posttest outcomes, participants showed significant improvements in emotional control, relationship trust, relationship satisfaction, attachment anxiety, attachment avoidance, and psychological distress; using a Bonferroni correction, emotional control and relationship satisfaction remained significant. Nine participants completed qualitative interviews and the findings indicated that participants had a positive HMT experience and it enabled them to focus on their relationship in new ways. Some cultural and gender differences and concerns were identified.",
+  "raw_path": "01_raw/europepmc_xml/PMC12183410.xml",
+  "text_path": "02_text/europepmc/PMC12183410.txt",
+  "raw_bytes": 109692,
+  "text_chars": 47669,
+  "raw_sha256": "b5beb583738b1bbe33ec53512a59110669a66f1825fccc24301ccc02236be7e7",
+  "text_sha256": "e8783243a14e8bc18eacae111fd705a70e53c36b1fc4adec590285ab97dd9481",
+  "retrieved_at": "2026-10-25T13:53:17.322541+00:00"
+}

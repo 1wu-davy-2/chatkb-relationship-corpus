@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_25245",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "子不語",
+  "gutenberg_id": "25245",
+  "url": "https://www.gutenberg.org/ebooks/25245",
+  "download_url": "https://www.gutenberg.org/cache/epub/25245/pg25245.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/25245.txt",
+  "text_path": "02_text/gutenberg/gut_25245_子不語.txt",
+  "raw_bytes": 843803,
+  "text_chars": 272387,
+  "text_sha256": "0fc770d71e343c080504e3520bacbcf8f2cd7d714eca2d385af74d3b9936694c",
+  "retrieved_at": "2026-10-25T16:05:57.894552+00:00"
+}

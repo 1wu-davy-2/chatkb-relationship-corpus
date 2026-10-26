@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_50058",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Marion Harland's Complete Etiquette",
+  "gutenberg_id": "50058",
+  "url": "https://www.gutenberg.org/ebooks/50058",
+  "download_url": "https://www.gutenberg.org/cache/epub/50058/pg50058.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/50058.txt",
+  "text_path": "02_text/gutenberg/gut_50058_marion_harland_s_complete_etiquette.txt",
+  "raw_bytes": 607495,
+  "text_chars": 551328,
+  "text_sha256": "cec320b39b80f4ff8ca79b86b44382714b5074ea193240159d72fe4158338bfb",
+  "retrieved_at": "2026-10-25T15:46:07.823085+00:00"
+}

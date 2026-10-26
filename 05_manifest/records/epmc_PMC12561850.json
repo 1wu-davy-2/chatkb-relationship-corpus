@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12561850",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dyadic Coping and Communication as Predictors of 10-Year Relationship Satisfaction Subgroup Trajectories in Stable Romantic Couples.",
+  "authors": "Roth M, Nussbeck FW, Landolt SA, Senn M, Bradbury TN, Weitkamp K, Bodenmann G.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15101361",
+  "pmcid": "PMC12561850",
+  "url": "https://europepmc.org/article/PMC/PMC12561850",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12561850/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "Given the importance of relationship satisfaction and the detrimental effects of its decline in romantic couples, it is crucial to understand how relationship satisfaction develops over time in long-term stable relationships and to identify predictors that explain such long-term changes. Building upon previously identified subgroups with distinct trajectories of relationship satisfaction, our objective was to examine whether two types of relationship skills-dyadic coping and communication-predict subgroup trajectories. We followed 300 mixed-gender couples over 10 years in annual assessments and applied Dyadic Latent Class Growth models with predictors. Our results suggest that subgroups of relationship satisfaction trajectories can be differentiated by both baseline levels and changes in relationship skills. Couples with high and relatively stable satisfaction were distinguished from those with declining satisfaction primarily by baseline negative communication (women's report) and a deterioration in dyadic coping. Couples with the lowest initial satisfaction exhibited the least beneficial relationship skills but increased their satisfaction over time, likely due to observed improvements in their skills. These findings have important public health implications, as modifiable relationship skills can be targeted in prevention, counseling, or therapy to help couples develop and sustain improvements in their relationship skills to protect their relational well-being in the long term.",
+  "raw_path": "01_raw/europepmc_xml/PMC12561850.xml",
+  "text_path": "02_text/europepmc/PMC12561850.txt",
+  "raw_bytes": 153052,
+  "text_chars": 42946,
+  "raw_sha256": "f5acd091daebc587389244d336cc3855bc78ec0eed70aaac99d725e5e511a1ba",
+  "text_sha256": "8bb1e303c1493d449b293029099ecf55b57fb728db4b10a1447996487100e7df",
+  "retrieved_at": "2026-10-25T13:49:25.343635+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13161708",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marital Expectations as a Mediator between Dysfunctional Beliefs and Commitment among Married Individuals.",
+  "authors": "Nkurunziza A, Niyonsenga J, Ntete JM, Mutabaruka J, Munganyinka C.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.4314/rjmhs.v9i1.11",
+  "pmcid": "PMC13161708",
+  "url": "https://europepmc.org/article/PMC/PMC13161708",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13161708/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "commitment"
+  ],
+  "abstract": "Background Marital beliefs and expectations are critical cognitive factors influencing marital satisfaction and stability. Dysfunctional beliefs often generate unrealistic expectations, which can erode marital commitment if left unaddressed. This study aimed to examine the mediating role of marital expectations in the relationship between dysfunctional beliefs and marital commitment among married individuals in Rwanda. Methods This cross-sectional study was conducted on a sample of 426 participants, aged 25 to 45, completed questionnaires on marital beliefs, expectations, and commitment. Data analysis was conducted using Pearson correlational analysis and mediation testing by Hayes PROCESS macro. Results The study revealed that dysfunctional beliefs were significantly and negatively associated with marital commitment (β = -0.626, p Conclusion These findings underscore the need to target dysfunctional beliefs and unrealistic expectations in therapy to enhance marital commitment, especially in culturally diverse contexts where traditional and modern beliefs intersect.",
+  "raw_path": "01_raw/europepmc_xml/PMC13161708.xml",
+  "text_path": "02_text/europepmc/PMC13161708.txt",
+  "raw_bytes": 63801,
+  "text_chars": 29654,
+  "raw_sha256": "7f83b230d3a4a1fb4f91a22f09402bbdee3df38839aeb90cf7eeaafe18171ef0",
+  "text_sha256": "e968182903be977cd1c4cfdf8a81bfcaef05383102cc3a2f16e46cccc14e7ae3",
+  "retrieved_at": "2026-10-25T15:30:39.224647+00:00"
+}

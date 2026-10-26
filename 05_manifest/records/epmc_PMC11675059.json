@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11675059",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"I Am Longing and Afraid to Depend on You\": A Case Report on Breakdowns of Therapeutic Alliance and Interpersonal Cycles in Complex Trauma.",
+  "authors": "Papa C, Pugliese E, Perdighe C, Fimiani R, Mancini F.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/brainsci14121207",
+  "pmcid": "PMC11675059",
+  "url": "https://europepmc.org/article/PMC/PMC11675059",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11675059/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_anxiety"
+  ],
+  "abstract": "Background Patients with Complex Trauma (CT) may have an impaired ability to trust others and build intimate relationships due to non-integrated representations of self and others. This sometimes leads to an oscillation between needing and fearing intimacy in their adult relationships. This dynamic can occur in the therapeutic relationship, undermining the effectiveness of therapy and affecting the mental health of both the patient and the therapist. To date, no study has analyzed interpersonal patient-therapist dynamics in cases of CT. The present case aims to fill this gap by exploring relational cycles between the therapist and the patient during the therapeutic process in terms of goals and self-other beliefs. Methods The methodology consisted of a shared and integrated reconstruction by the patient and therapist, both with clinical expertise in psychology, of the impasse in their therapeutic relationship. The reading was done through the lens of the cognitive model of Pathological Affective Dependence, a theory of traumatic relationships, by describing the primary interpersonal cycles occurring in the therapeutic relationship (altruistic, deontological, and vulnerable). Results The condition of CT leads to several alliance breakdowns and specific interpersonal cycles, leading to new healing meanings for the patient and the relationship itself. Limitations The study's main limitation is that it consists of a qualitative analysis of the therapeutic relationship without data that can quantify the clinically observed changes. Conclusions This case report demonstrates how CT, PAD and the fear of intimacy can be risk factors for the therapeutic alliance and how the therapeutic relationship constitutes a fundamental tool for intervention effectiveness in patients who experience unmet primary needs.",
+  "raw_path": "01_raw/europepmc_xml/PMC11675059.xml",
+  "text_path": "02_text/europepmc/PMC11675059.txt",
+  "raw_bytes": 123646,
+  "text_chars": 56493,
+  "raw_sha256": "d7dd1ef47b0a43de73dbcad6aa08182dcf98a11c5cd76fc12ba5c4b8096e2084",
+  "text_sha256": "738cf67f0731910ae4b933fc40ff183e2d2cc8b3f0b48436d650389155839c2d",
+  "retrieved_at": "2026-10-25T13:57:41.676307+00:00"
+}

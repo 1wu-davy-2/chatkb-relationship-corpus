@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12016444",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The ill fortune of attachment insecurity and dyadic distrust in marital satisfaction: a dyadic perspective in Turkish couples.",
+  "authors": "Çetinkaya-Yıldız E, Aracı-İyiaydın A, Toplu-Demirtaş E.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40359-025-02719-8",
+  "pmcid": "PMC12016444",
+  "url": "https://europepmc.org/article/PMC/PMC12016444",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12016444/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Objective The objective of the current study is to explore the actor, partner and mediating effects of dyadic trust in the relationship between insecure romantic attachment and marital satisfaction in a Turkish sample of heterosexual married couples. Background Although the vital role of dyadic trust in a romantic relationship has been recognized for many years, the mediating role of dyadic trust in the relationship between insecure attachment and marital satisfaction has not been explored much in previous research. Method The sample comprised 174 married couples living in suburban areas in the central Anatolian region of Türkiye. Couples were recruited through personal networks and online mailing lists of local governmental institutions. Two Actor-Partner Interdependence Mediation Model analyses were carried out to estimate mediation with dyadic data using MEDYAD. Results The actor effects between insecure romantic attachment and marital satisfaction were found to be mediated by dyadic distrust. Moreover, two partner mediating effects were found significant. Husbands' anxious attachment predicted wives' dyadic distrust, which in turn predicted wives' marital dissatisfaction. Likewise, husbands' anxious attachment also predicted their own dyadic distrust, which in turn predicted their wives' marital dissatisfaction. Conclusion The findings show that for insecurely attached individuals, dyadic trust has an important role in marital satisfaction and thus should be the central topic in couple counseling.",
+  "raw_path": "01_raw/europepmc_xml/PMC12016444.xml",
+  "text_path": "02_text/europepmc/PMC12016444.txt",
+  "raw_bytes": 162546,
+  "text_chars": 50645,
+  "raw_sha256": "636caf8cc4bd360d54c6b1c3b7d47cfb3ae6a00d67431329b23363d3f565d243",
+  "text_sha256": "c6a13ed835c7c73056166dc281fca218d3e0367ccbacce079c6b2b5fe41a38f2",
+  "retrieved_at": "2026-10-25T13:52:30.299608+00:00"
+}

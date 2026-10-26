@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13602196",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Online Application of Imagery Rescripting for Pathological Affective Dependence (ImRs-PAD) in Survivors of Intimate Partner Violence: Results From a Multiple Case Series.",
+  "authors": "Pugliese E, Uvelli A, van Emmerik AAP, Arntz A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.32872/cpe.22027",
+  "pmcid": "PMC13602196",
+  "url": "https://europepmc.org/article/PMC/PMC13602196",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13602196/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Background This study examined the feasibility and preliminary clinical indications of an imagery rescripting intervention integrating the Pathological Affective Dependence framework (ImRs-PAD) in survivors of Intimate Partner Violence (IPV). Pathological Affective Dependence (PAD) refers to a trauma-related relational vulnerability associated with difficulties in disengaging from abusive intimate relationships. Method A multiple case series design was used with three female IPV survivors referred by a mental health center in Italy (mean age = 31.3 years, SD = 2.08). All participants reported histories of abusive relationships, marked difficulties with separation, and clinically significant levels of PAD. Participants received an online ImRs-PAD intervention. Repeated self-report measures assessed changes in PAD, trauma-related symptoms, depression, anxiety, somatic symptoms, resilience, self-compassion, and psychological well-being. Results Across cases, reductions were observed in PAD, depressive and anxiety symptoms, and trauma-related and somatic complaints, alongside increases in resilience, self-compassion, and overall psychological well-being. The online delivery of the intervention was feasible, with no technical or safety issues reported. Conclusion The findings provide preliminary support for the potential clinical relevance of ImRs-PAD for IPV survivors. Addressing PAD may facilitate disengagement from violent partners and reduce the risk of re-exposure to severe forms of violence.",
+  "raw_path": "01_raw/europepmc_xml/PMC13602196.xml",
+  "text_path": "02_text/europepmc/PMC13602196.txt",
+  "raw_bytes": 117211,
+  "text_chars": 43959,
+  "raw_sha256": "a977e6f23df455b74ac120c40f341eb96f4f91fd272b10325c479aa171a3bea7",
+  "text_sha256": "833da92410ee4d1a5ea8c367d3ede561b1378808c13de1a46c15f0160d12e25e",
+  "retrieved_at": "2026-10-25T13:59:11.972455+00:00"
+}

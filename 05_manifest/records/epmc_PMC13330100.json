@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13330100",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring the interplay between tinder use, general self-esteem, and sexual self-esteem among European emerging adults.",
+  "authors": "Schmid J, Lauriola M, Stadler C, Unternaehrer E.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-04599-y",
+  "pmcid": "PMC13330100",
+  "url": "https://europepmc.org/article/PMC/PMC13330100",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13330100/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "Background The use of online dating apps such as Tinder has become widespread among emerging adults. However, findings regarding the impact of Tinder use on users' self-esteem are mixed, and it remains unclear whether associations differ across general and sexual self-esteem domains. The present study examined whether Tinder use and its frequency were associated with general and sexual self-esteem in a large sample of emerging adults from Switzerland and Italy. Methods A total of 2,283 participants (M age = 23.9 ± 3.0, 76.3% female, 60.3% Italian) completed an anonymous online survey assessing Tinder use (former/current or never), frequency of use, and standardised measures of general self-esteem (Rosenberg Self-Esteem Scale) and sexual self-esteem (Sexuality Scale). We conducted four multiple linear regression analyses to test whether Tinder use or Tinder use frequency among users predicted general and sexual self-esteem, while controlling for sex, age, socioeconomic status, education, relationship status, and nationality. Results Tinder use was common (64.7% former or current users), and Tinder users reported slightly lower general self-esteem than non-users (p = .044), whereas use frequency showed no association with self-esteem. In contrast, Tinder use was positively associated with sexual self-esteem (p Conclusions Tinder use was associated with lower general self-esteem and higher sexual self-esteem, whereas frequency of use among users showed no association in either domain. These findings highlight distinct and divergent pathways between online dating behaviour and self-perceptions, underscoring the importance of considering both general and sexual self-esteem when examining the psychological correlates of dating app use.",
+  "raw_path": "01_raw/europepmc_xml/PMC13330100.xml",
+  "text_path": "02_text/europepmc/PMC13330100.txt",
+  "raw_bytes": 163059,
+  "text_chars": 50913,
+  "raw_sha256": "b004d1a26dee96c089887f8d462b9b5432068d4ff72a3c749b970e365336e1dd",
+  "text_sha256": "6b9f519c5e85a098ac3fc629532681720d31320bdc251fba92f1674f9cf7542e",
+  "retrieved_at": "2026-10-25T13:55:36.887583+00:00"
+}

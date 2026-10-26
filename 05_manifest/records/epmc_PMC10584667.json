@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10584667",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Is it enough just to demonstrate that the advanced therapy medicinal products do work or we would prefer to keep walking on the Moon?",
+  "authors": "Mitrečić D.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1016/j.reth.2023.06.003",
+  "pmcid": "PMC10584667",
+  "url": "https://europepmc.org/article/PMC/PMC10584667",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10584667/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "arranged_marriage"
+  ],
+  "abstract": "After several decades of continuous yet bumpy progress the advanced therapy medicinal products reached the stage when the first drugs with well documented efficacy started to be registered. However, in the disturbing chain of events, many of them were discontinued because of the lack of return on investment. By comparing this phenomenon to the fact that humans did not return to the Moon for already 50 years, primarily because of the lack of dedicated funds, this commentary proposes strategies how to avoid menace of the dead end threating to suffocate progress of the advanced medical therapies. While treatments for rare diseases can be defended by mixture of altruistic, inspiring and rational reasons, mostly covered by the fact that regardless of the price of the newly developed therapy, the total burden remains low, common diseases should be addressed in a different way. This needs to include precise modelling of the benefits which advanced therapy medicinal products bring for every condition, taking in account reduction of the costs of long, often life-long support of patients affected by such diseases. Without intention to steal romantic view on the scientific progress, powerful yet very expensive tools of advanced therapy medicinal products require urgent top-down decisions which include selection of priorities based on the financial modelling. Instead of spontaneous exploration in all directions, this commentary proposes an arranged marriage between scientific community and big investors sustained by combination of governmental requirements in the form of real time data sharing, reimbursement warranties according to demonstrated efficacy and clear recognition of the primary targets with accompanying pre-defined financial frameworks.",
+  "raw_path": "01_raw/europepmc_xml/PMC10584667.xml",
+  "text_path": "02_text/europepmc/PMC10584667.txt",
+  "raw_bytes": 38048,
+  "text_chars": 18916,
+  "raw_sha256": "139183d3ea6bb2630abd250b44e2539e007a0c0a368e014391b5fae7df26b4d4",
+  "text_sha256": "7f0bfb759d690465163aef98996fe85d24e78b063a2a66ecc432ad7a12e208e8",
+  "retrieved_at": "2026-10-25T14:00:44.472908+00:00"
+}

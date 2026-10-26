@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10440334",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship between different levels of facial attractiveness and malocclusion perception: an eye tracking and survey study.",
+  "authors": "Zorlu M, Camcı H.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1186/s40510-023-00483-2",
+  "pmcid": "PMC10440334",
+  "url": "https://europepmc.org/article/PMC/PMC10440334",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10440334/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction_physical"
+  ],
+  "abstract": "Introduction The aim of this study was to investigate the relationship between levels of facial attractiveness and the perception of different types of malocclusion. Methods A preliminary questionnaire was used to assign photographs of three female patients to low, moderate, and high facial attractiveness designations. Seven modified photographs for each smile photograph of each of these three patients were created. The evaluated photographs were as follows: P0: at rest position, P1: ideal smile, P2: - 2-mm (low) smile line, P3: + 4-mm gummy smile, P4: + 6-mm gummy smile, P5: maxillary anterior crowding, P6: median diastema, P7: polydiastema. An eye tracking device and a questionnaire were used to collect data from orthodontists, dentists, orthodontic patients, and laypeople. Results Total fixation duration varied depending on the type of malocclusion, the level of facial attraction, and the participants' occupations. In general, orthodontists and dentists had higher total fixation duration scores than orthodontic patients and laypersons. The maxillary anterior crowding photograph had the lowest visual analysis scale score at each attractiveness level (low, medium, and high). Visual analysis scale scores became similar at each attractiveness level only in the P4 photographs, and thus the difference in facial attractiveness disappeared. Conclusion While a worsening of the ideal smile had a smaller impact on aesthetic perceptions in an individual with low facial attractiveness, it had a significant negative impact on a person with high facial attractiveness. Anterior crowding and diastema had a more negative impact on facial attractiveness than low or high smile lines.",
+  "raw_path": "01_raw/europepmc_xml/PMC10440334.xml",
+  "text_path": "02_text/europepmc/PMC10440334.txt",
+  "raw_bytes": 123983,
+  "text_chars": 28969,
+  "raw_sha256": "c0359469c46ca935a168d8e0643202fc36414241d6f6848b349fc3168ea295e4",
+  "text_sha256": "82f890e180cd76ab6a2bb3ca922c5673a85ea5475122913a0648f54eef6b6890",
+  "retrieved_at": "2026-10-25T15:36:45.507643+00:00"
+}

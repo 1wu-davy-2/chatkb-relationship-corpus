@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8980455",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"You Want to Catch the Biggest Thing Going in the Ocean\": A Qualitative Analysis of Intimate Partner Stalking.",
+  "authors": "Flowers C, Winder B, Slade K.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/0886260520958632",
+  "pmcid": "PMC8980455",
+  "url": "https://europepmc.org/article/PMC/PMC8980455",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8980455/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "This study employs a qualitative phenomenological exploration of the \"lived\" experiences of male intimate partner stalking (IPS) perpetrators serving a custodial sentence in the United Kingdom for an offense related to intimate partner violence (IPV). The purpose of this study is to capture the nature and complexity of the experiences of the pathway to IPS from the perspective of the perpetrator. The study seeks to provide a unique understanding of how IPS perpetrators attribute meaning to their behavior, illuminating the underpinning cognitive characteristics and emotions that play a role in their behavior. Semi-structured interviews were conducted with seven men with a history of IPS behavior. The resultant transcripts were analyzed using interpretative phenomenological analysis (IPA). Five superordinate themes reflecting participants' experiences were identified: (a) \"The quest for attention and affection creating connection,\"(b) \"Conflicted identity and extremes of self,\" (c) \"My life, a film set,\" (d) \"Gameplaying: One step ahead,\" and (e) \"Severed connections, changing the Gameplay.\" The findings are presented in relation to the existing literature and theoretical frameworks which seek to explain stalking perpetration. The analysis provides a greater understanding of men who have engaged in IPS behavior, demonstrating how hearing the perspective of the perpetrator has value in informing theory and intervention. The study has provided valuable insight into the cognitive characteristics of this population and a rich understanding of the profiles of men who have engaged in IPS behavior. Implications for forensic practice, policy, and research are outlined, and recommendations for future research and overall limitations are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC8980455.xml",
+  "text_path": "02_text/europepmc/PMC8980455.txt",
+  "raw_bytes": 160165,
+  "text_chars": 77690,
+  "raw_sha256": "432b562b2ca176cdd3af16a8f721def23984b653d8368b0efb01028e2c0edfbc",
+  "text_sha256": "42a39c9117e16ddeb630b55b8dd4d2b85f051c0a25969ec98749ef6c49275b75",
+  "retrieved_at": "2026-10-25T15:40:28.634031+00:00"
+}

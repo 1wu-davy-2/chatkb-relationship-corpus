@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_milgram_experiment",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "米爾格倫實驗",
+  "requested_title": "米尔格拉姆实验",
+  "url": "https://zh.wikipedia.org/wiki/%E7%B1%B3%E7%88%BE%E6%A0%BC%E5%80%AB%E5%AF%A6%E9%A9%97",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 米爾格倫實驗",
+  "topics": [
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/milgram_experiment.json",
+  "text_path": "02_text/zh_wikipedia/milgram_experiment.txt",
+  "raw_bytes": 16121,
+  "text_chars": 6203,
+  "text_sha256": "796285b15cdf7f265bf4436a1e05359d13c7b227be5b5d4d6b4ce3528a5a1cbf",
+  "retrieved_at": "2026-10-25T16:21:30.918018+00:00"
+}

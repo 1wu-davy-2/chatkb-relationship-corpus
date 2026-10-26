@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12971250",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Effectiveness of In-Person Versus Online Psychoeducational Interventions With Divorced/Separated Parents: A Comparative Analysis.",
+  "authors": "Ordóñez-Carabaño Á, Martínez-Díaz P, Roldán Franco MA, Cagigal de Gregorio V.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/famp.70138",
+  "pmcid": "PMC12971250",
+  "url": "https://europepmc.org/article/PMC/PMC12971250",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12971250/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "forgiveness"
+  ],
+  "abstract": "The dissolution of marriage frequently results in parental distress, strained coparental relationships, and adverse effects on children. Psychoeducational interventions have the potential to mitigate these effects, but there is a paucity of research exploring their comparative efficacy in in-person versus online formats. The present study aims to assess the comparative efficacy of two intervention modalities in reducing psychological distress, mitigating interparental conflict and enhancing coparental relationships. The study evaluated 62 participants, comprising 41 in the in-person group and 21 in the online group, over the course of 11 weekly sessions and a 6-month follow-up period. A battery of pre- and postintervention assessments was employed to evaluate a range of variables, including symptomatology, interparental conflict, coparenting, perceived support, forgiveness, and parenting style. Across formats, participants exhibited a reduction in overall symptomatology and covert conflict, accompanied by an increase in forgiveness. In the confirmatory ANOVAs, the in-person modality showed greater improvement than the online modality for total symptomatology, depression, and forgiveness; no other interactions reached significance. The findings suggest that both modalities may offer benefits, with comparatively larger gains observed for in-person delivery in these domains and online delivery enhancing accessibility. These results highlight the potential for tailoring intervention formats to participant needs and contexts, maximizing the reach and impact of psychoeducational programs for postdivorce adjustment.",
+  "raw_path": "01_raw/europepmc_xml/PMC12971250.xml",
+  "text_path": "02_text/europepmc/PMC12971250.txt",
+  "raw_bytes": 158304,
+  "text_chars": 38209,
+  "raw_sha256": "20253175c011b2fb9e5b0b67d8498b77dc10522f093aa63862b68a67c06d7f36",
+  "text_sha256": "de619717d32e48f0e161fc85d24ba3d7f6d5986741a00a94158be6163dd54604",
+  "retrieved_at": "2026-10-25T13:48:36.452198+00:00"
+}

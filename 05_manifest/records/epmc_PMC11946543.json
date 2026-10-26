@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11946543",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Understanding the Relationships Between Fear of COVID-19, Depression, Loneliness, and Life Satisfaction in Türkiye: Testing Mediation and Moderation Effects.",
+  "authors": "Koçak O, Yıldırım M, Şimşek OM, Çevik O.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1002/nop2.70204",
+  "pmcid": "PMC11946543",
+  "url": "https://europepmc.org/article/PMC/PMC11946543",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11946543/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "Aim This study examined the mediating roles of depression and various dimensions of loneliness (family, social, and romantic) in the associations between COVID-19 fear and satisfaction with life. Additionally, the research investigated how the economic impact of COVID-19, family income, gender, and marital status may moderate these associations. Design A cross-sectional descriptive design. Methods An online survey was conducted in Türkiye. 1702 participants completed self-report measures assessing COVID-19 fear, depression, social, emotional, and romantic loneliness, and satisfaction with life. Results The findings revealed positive associations between COVID-19 fear and depression, along with negative relationships between COVID-19 fear and family, social, and romantic loneliness. Depression was identified as a mediator in the relationship between COVID-19 fear and the different components of loneliness. These loneliness components, in turn, influenced life satisfaction. Furthermore, the study found significant moderation effects related to the economic impact of COVID-19 restrictions, family income, marital status, and gender. Conclusions This study provides evidence about the psychological mechanisms linking COVID-19 fear to life satisfaction. It highlights the mediating role of depression and the moderating effects of demographic and economic factors. The findings emphasise the need for targeted mental health interventions, particularly addressing the varied impact of COVID-19 fear across different social and economic groups. This evidence can inform strategies aimed at improving life satisfaction during periods of social and economic disruption. Patient or public contribution This study has no direct patient involvement in its design, conduct, or reporting. However, it contributes to public health by providing evidence about the psychological impacts of COVID-19, which may inform future interventions and mental health support strategies.",
+  "raw_path": "01_raw/europepmc_xml/PMC11946543.xml",
+  "text_path": "02_text/europepmc/PMC11946543.txt",
+  "raw_bytes": 204187,
+  "text_chars": 46478,
+  "raw_sha256": "1f6a840e993066156bdcee9ed320b025bdf60f1eeecca52afda91af67ebbd80d",
+  "text_sha256": "94ed92030e568782750378fb6455470931dff8eb5aca4fe644fc1d0ff034a335",
+  "retrieved_at": "2026-10-25T15:38:11.389356+00:00"
+}

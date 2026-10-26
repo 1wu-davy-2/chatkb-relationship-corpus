@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_criminal_law_prc",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "中华人民共和国刑法",
+  "requested_title": "中华人民共和国刑法",
+  "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%88%91%E6%B3%95",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 中华人民共和国刑法",
+  "topics": [
+    "law"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/criminal_law_prc.json",
+  "text_path": "02_text/zh_wikipedia/criminal_law_prc.txt",
+  "raw_bytes": 14404,
+  "text_chars": 5255,
+  "text_sha256": "1d2c912035e3bddc085cfac9527cb2ec88ed21fcddaad3e70fd58b76a36df060",
+  "retrieved_at": "2026-10-25T16:32:17.470854+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_dating",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "約會",
+  "requested_title": "約會",
+  "url": "https://zh.wikipedia.org/wiki/%E7%B4%84%E6%9C%83",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "dating",
+    "courtship"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/dating.json",
+  "text_path": "02_text/zh_wikipedia/dating.txt",
+  "raw_bytes": 5062,
+  "text_chars": 1848,
+  "text_sha256": "2e3803e993b7b842d6d6c3b04387caf2811f7503c3bff5157b8e70b9fb41f487",
+  "retrieved_at": "2026-10-25T15:35:04.754375+00:00"
+}

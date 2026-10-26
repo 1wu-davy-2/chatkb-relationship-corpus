@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10644207",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring challenges in later-life relationships: a qualitative study of the queries posted on counselling websites.",
+  "authors": "Svačinka S, Ševčíková A, Gottfried J.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2023.1245736",
+  "pmcid": "PMC10644207",
+  "url": "https://europepmc.org/article/PMC/PMC10644207",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10644207/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Introduction Divorce rates among individuals aged 50 and above are on the rise. Given the greater life expectancy compared to previous generations, this is an issue that is affecting an increasing number of people. Therefore, it warrants an inquiry into the challenges these individuals encounter in their intimate relationships. Methods This study analyzed 225 relationship-related queries posted on Czech counselling websites to identify the strains and stressor patterns that older adults face in their relationships. The queries were limited to those that concerned themes and problems related to partnerships, were posted by one of the partners aged 60 or over, and were analyzed using inductive thematic analysis. Results Four main relationship issues were identified: infidelity and jealousy; relationship estrangement and cooling; undesirable changes in personality; and illness and somatic issues. Additionally, three recurring themes were identified that made the problems more demanding and that were specific to older age: lack of norms for relationships in that age group, absence of resources to tackle the issues, and personal calculation for Time Spent and Time Remaining. Discussion The research found that the types of problems encountered by older adults were similar to those experienced by younger individuals. However, the way these problems were perceived and processed was influenced by specific aspects of aging, such as societal expectations, available coping resources, and the perception of time. The findings also highlighted the challenges faced by older adults in terms of relationship norms, sexual functioning, and personality changes.",
+  "raw_path": "01_raw/europepmc_xml/PMC10644207.xml",
+  "text_path": "02_text/europepmc/PMC10644207.txt",
+  "raw_bytes": 121748,
+  "text_chars": 55806,
+  "raw_sha256": "f7a7e3e935ee3e96468f838ca73feb7c28372e638e68483fa24553ca8e7e85d4",
+  "text_sha256": "f0744f280f8b5f24816e0ae809e4dcd8d7f4642c9891731ebe3e7160e769da17",
+  "retrieved_at": "2026-10-25T15:49:03.720330+00:00"
+}

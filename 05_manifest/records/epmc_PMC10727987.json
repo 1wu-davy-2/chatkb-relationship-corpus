@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10727987",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Attachment and Breakup Distress: The Mediating Role of Coping Strategies.",
+  "authors": "Gehl K, Brassard A, Dugal C, Lefebvre AA, Daigneault I, Francoeur A, Lecomte T.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/21676968231209232",
+  "pmcid": "PMC10727987",
+  "url": "https://europepmc.org/article/PMC/PMC10727987",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10727987/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Breakups are common among emerging adults and are associated with elevated depressive and anxiety symptoms, especially in the presence of attachment insecurities. Previous authors have suggested that inadequate coping strategies might explain this association, yet this has not been examined longitudinally. This study examined the mediating role of five coping strategies (self-help, approach, accommodation, avoidance, self-punishment) in the longitudinal associations between attachment insecurities (anxiety, avoidance) and depressive and anxious symptoms in 196 emerging adults experiencing a romantic breakup. Measures of pre-breakup attachment, post-breakup coping strategies (one-month post-breakup), and depressive and anxiety symptoms (one- and three-month post-breakup) were administered. Results from a longitudinal autoregressive cross-lagged model showed that pre-breakup attachment insecurities were related to higher depressive and anxiety post-breakup symptoms through higher use of self-punishment and lower use of accommodation coping strategies. Findings highlight coping strategies as potential intervention targets to promote the recovery of emerging adults experiencing breakup distress.",
+  "raw_path": "01_raw/europepmc_xml/PMC10727987.xml",
+  "text_path": "02_text/europepmc/PMC10727987.txt",
+  "raw_bytes": 143514,
+  "text_chars": 45789,
+  "raw_sha256": "a6c7584bef050a514998387ac18d549f850a5174dac7f7ff4bac57fe496010ae",
+  "text_sha256": "c2ec49f645f1522d825eca7a9bbfe53c58c1c3e52ff6e5b3df98f7c1c180ae8a",
+  "retrieved_at": "2026-10-25T15:35:55.372653+00:00"
+}

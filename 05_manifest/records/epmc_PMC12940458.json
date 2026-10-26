@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12940458",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "From Bottles to Bruises: Partner Substance Use, Relationship Dynamics, and the Risk of Intimate Partner Violence in South Africa.",
+  "authors": "Ani JI.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/ijerph23020160",
+  "pmcid": "PMC12940458",
+  "url": "https://europepmc.org/article/PMC/PMC12940458",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12940458/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Intimate partner violence (IPV) remains a persistent public health and human rights challenge globally, with South Africa experiencing some of the highest rates. This study investigates the intersection between partner substance use, controlling behaviours, and women's risk of experiencing emotional, physical, and sexual IPV. Using nationally representative data from the South African Demographic and Health Survey (SADHS), a weighted sample of 2354 women was analysed. Findings show that 41.8% of women reported that their partners used alcohol and/or drugs, and IPV prevalence among this group was 36.38%. Multivariate logistic regression revealed that partner substance use more than doubled the risk of emotional violence and nearly tripled the risk of physical and sexual violence. Controlling behaviours also emerged as significant predictor, with affected women facing up to nine times higher odds of IPV. These findings highlight the urgent need for integrated intervention strategies that address substance abuse and coercive control within intimate relationships. Prevention efforts must be context-specific, targeting underlying behavioural and gendered power dynamics to reduce IPV and improve women's safety.",
+  "raw_path": "01_raw/europepmc_xml/PMC12940458.xml",
+  "text_path": "02_text/europepmc/PMC12940458.txt",
+  "raw_bytes": 236788,
+  "text_chars": 51158,
+  "raw_sha256": "131d405fd24b736e6c518d6e5c1651d283571bd6566e859ac714c3148e14711c",
+  "text_sha256": "52bc78f5287775be5b7623b48e5c22ce92959d296a4e98e9dd56505bab3e5ef7",
+  "retrieved_at": "2026-10-25T15:41:47.318159+00:00"
+}

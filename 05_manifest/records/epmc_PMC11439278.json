@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11439278",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A survey on the reasons why victims of stalking did not exhibit help-seeking behavior: a text-mining analysis.",
+  "authors": "Suzuki T.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s40359-024-02035-7",
+  "pmcid": "PMC11439278",
+  "url": "https://europepmc.org/article/PMC/PMC11439278",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11439278/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "Background Stalking can escalate into violent acts such as threatening and inflicting physical harm, posing a serious threat to personal safety. To prevent exacerbating stalking victimization, victims must seek help and report incidents to the police or relevant authorities. However, victims, in general, underreport these incidents to public institutions. Moreover, there is insufficient understanding of why victims of stalking, especially men, refrain from seeking help. Therefore, this study used text mining to explore the reasons victims of stalking in Japan do not seek help while considering the severity of victimization and analyzing data separately for men and women. Methods Among 908 Japanese individuals who reported experiencing repeated stalking behavior from a former intimate partner in the past five years, 253 men and 321 women who did not consult public authorities were included in this study. Participants provided their experiences of being stalked by former romantic partners and were classified into stalking-only, threatened, and physical aggression victim groups based on their self-reported experiences in an online survey. Reasons for not seeking help were collected through open-ended questions and analyzed using text mining. Results A co-occurrence network analysis revealed that among men in the threatened victim group, the reason for not seeking help was the belief that their complaints would not be taken seriously. The physical aggression victim group did not seek help due to the perception that a female perpetrator does not pose a danger. Among women in the physical aggression victim group, concerns about provoking the perpetrator or worsening the situation by seeking help, as well as feelings of embarrassment, were reasons for not seeking assistance. Conclusions The identification of gender stereotype-related reasons among male victims was a valuable insight that could only be obtained through comparison with female victims. However, the study was limited to addressing the individual characteristics of the cases, thus providing only hypothetical insights into general trends. In future research, it will be necessary to generate hypotheses from the findings of this study and accumulate hypothesis-testing research to develop effective strategies for promoting help-seeking behavior among stalking victims.",
+  "raw_path": "01_raw/europepmc_xml/PMC11439278.xml",
+  "text_path": "02_text/europepmc/PMC11439278.txt",
+  "raw_bytes": 107164,
+  "text_chars": 53245,
+  "raw_sha256": "ab0285035940848c82656ba3c4e15385afbe1ac8767043c96d1acbcf795dcf51",
+  "text_sha256": "d26f7039e087c86385f7fa469a58cbc04ab685e3795e5568a66904608d192ce0",
+  "retrieved_at": "2026-10-25T15:32:07.715887+00:00"
+}

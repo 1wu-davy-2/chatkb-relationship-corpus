@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9942329",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Attachment and need to belong as moderators of the relationship between thwarted belongingness and suicidal ideation.",
+  "authors": "Dienst F, Forkmann T, Schreiber D, Höller I.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1186/s40359-023-01080-y",
+  "pmcid": "PMC9942329",
+  "url": "https://europepmc.org/article/PMC/PMC9942329",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9942329/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Background In the Interpersonal Theory of Suicide, thwarted belongingness is presented as a main predictor for suicidal ideation. Studies only partially support this prediction. The aim of this study was to examine whether the heterogenous results are due to moderating effects of attachment and the need to belong on the association between thwarted belongingness and suicidal ideation. Methods Four hundred forty-five participants (75% female) from a community sample aged 18 to 73 (M = 29.90, SD = 11.64) filled out online questionnaires about romantic attachment, their need to belong, thwarted belongingness, and suicidal ideation cross-sectionally. Correlations and moderated regression analyses were conducted. Results The need to belong significantly moderated the relationship between thwarted belongingness and suicidal ideation and was associated with higher levels of anxious attachment and avoidant attachment. Both attachment dimensions were significant moderators of the relationship between thwarted belongingness and suicidal ideation. Conclusion Anxious and avoidant attachment as well as a high need to belong are risk factors for suicidal ideation in people with thwarted belongingness. Therefore, attachment style and need to belong should both be considered in suicide risk assessment and therapy.",
+  "raw_path": "01_raw/europepmc_xml/PMC9942329.xml",
+  "text_path": "02_text/europepmc/PMC9942329.txt",
+  "raw_bytes": 107349,
+  "text_chars": 35379,
+  "raw_sha256": "e7a3749c2612dc5dd029898aa03e2a41e024dff1aa21bd51bd7dd309d936ce1f",
+  "text_sha256": "a7d0e5005fcba5db989f20311359a3ded655f5637cc7a714b213121db4f9eb97",
+  "retrieved_at": "2026-10-25T15:47:11.929935+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_personal_boundaries",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "个人边界",
+  "requested_title": "个人边界",
+  "url": "https://zh.wikipedia.org/wiki/%E4%B8%AA%E4%BA%BA%E8%BE%B9%E7%95%8C",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "boundaries",
+    "relationship"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/personal_boundaries.json",
+  "text_path": "02_text/zh_wikipedia/personal_boundaries.txt",
+  "raw_bytes": 10197,
+  "text_chars": 3597,
+  "text_sha256": "58307b6666cf327d1bc470806481c8f76b8ac287c537d73591a258598010b005",
+  "retrieved_at": "2026-10-25T15:37:03.843199+00:00"
+}

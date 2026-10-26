@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13216573",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dating in Later Life: Do the Advantages of Age Depend on the Relational Context?",
+  "authors": "Neff LA, Beer JS.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/01461672251332763",
+  "pmcid": "PMC13216573",
+  "url": "https://europepmc.org/article/PMC/PMC13216573",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13216573/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "midlife_older"
+  ],
+  "abstract": "Dating in later life is increasingly prevalent, yet research on older adults' experiences within their newly formed relationships is scarce. Although older adults are often more adept in minimizing their reactivity when relational tensions arise, integrating insights from theories of aging and relationship development suggests that older adults' advantage over younger adults may diminish, or even reverse, when examining reactivity in newly formed dating relationships. Married and dating couples ( N = 282; aged 30-88) completed a 21-day daily diary task. Multilevel modeling was used to estimate individuals' negative affect, physical health symptoms, and relationship satisfaction on days of greater tension with a partner. Age was not associated with reactivity among married couples. Among dating couples, age was associated with emotional reactivity (women only) and physical reactivity, but not relational reactivity, such that older individuals experienced greater increases in emotional distress and physical health problems on higher tension days compared to younger individuals.",
+  "raw_path": "01_raw/europepmc_xml/PMC13216573.xml",
+  "text_path": "02_text/europepmc/PMC13216573.txt",
+  "raw_bytes": 165633,
+  "text_chars": 53646,
+  "raw_sha256": "be373bce575be01048375e16a4fc0de402123ba7c67ab7860c032903d8df9adf",
+  "text_sha256": "3172be9caa0e9d362c3b679a039f13036a626052ba2d0e46dcecf0e8d07c850d",
+  "retrieved_at": "2026-10-25T13:51:11.128186+00:00"
+}

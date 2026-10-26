@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8323827",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The labor force participation of Indian women before and after widowhood.",
+  "authors": "Reed MN.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.4054/demres.2020.43.24",
+  "pmcid": "PMC8323827",
+  "url": "https://europepmc.org/article/PMC/PMC8323827",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8323827/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Background Due to its young age structure and taboos on widow remarriage, India has a large and relatively young female widow population. Many of India's widows are in prime working ages. India has one of the lowest female labor force participation rates in the world. Objective This paper calculates the effect of widowhood on the labor force participation of Indian widows. The analysis documents how labor force participation changes associated with widowhood vary by age, caste/religion, relation to head of household, rural/urban status, and region. Methods Using the India Human Development Survey (IHDS), the analysis tracks 3,217 women who experience the loss of their spouse between the two survey waves. Individual fixed effects regressions are used to measure the association between the transition to widowhood and changes in the number of days worked in the past year. Results Widowhood was associated with a decrease in days worked for older women; but for women widowed before age 52, widowhood was associated with a large increase in the number of days they worked. Widows who joined the labor force were more likely to gain employment in permanent and salaried work than married women. Widows who resided with their in-laws or who became the household head after their husband's death saw increases in their work participation whereas those who lived in households headed by their adult children experienced negative widowhood effects on their work participation. Contribution These findings highlight the important link between marital status and female employment in India.",
+  "raw_path": "01_raw/europepmc_xml/PMC8323827.xml",
+  "text_path": "02_text/europepmc/PMC8323827.txt",
+  "raw_bytes": 157709,
+  "text_chars": 61694,
+  "raw_sha256": "4dfdb6bd26f669313460087f4791f50be4d66bb19f5523214d0f1def81558f16",
+  "text_sha256": "ae406d8e885cc757d67c0cbcda2a39e240dba1da704ef605472d852d9075d72e",
+  "retrieved_at": "2026-10-25T15:38:47.310223+00:00"
+}

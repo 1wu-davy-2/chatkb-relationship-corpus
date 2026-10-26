@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11851512",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mechanisms of Anxiety Among Doctoral Students in China.",
+  "authors": "Bai F, Zhang F, Xue Y.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15020105",
+  "pmcid": "PMC11851512",
+  "url": "https://europepmc.org/article/PMC/PMC11851512",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11851512/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "china_marriage"
+  ],
+  "abstract": "The anxiety of doctoral students in school has consistently been a major concern in society and the medical community, stemming from pressures, such as the pursuit of identity within highly professional and fiercely competitive academic communities, the urgent drive for high-level original scientific research output, and the need to break through the limits of personal ability to complete in-depth academic training. Current research has focused on the prevalence of, causes of, and intervention strategies for anxiety among doctoral students, but it still exhibits deficiencies, such as overly generalized analytical methods, neglect of the diversity within the doctoral student population, and the incomplete theoretical framework for the mechanisms of influence. Therefore, our study aims to examine the anxiety status of different categories of doctoral students and to explore their anxiety intervention mechanisms. Specifically, we employ a mixed research method combining quantitative and qualitative approaches to address issues, such as the influencing factors of anxiety in different types of doctoral students, the mechanisms of action of each factor, and the formation of an influence mechanism framework. The results indicate that anxiety is prevalent among doctoral students, with the key influencing factors being gender, age, love and marriage pressure, and self-perception. Full-time and part-time doctoral students exhibit different anxiety states and causes on account of varying pressures related to graduation, employment, and family factors. Our research distinguishes the heterogeneity of anxiety among different types of doctoral students in China, innovatively constructing a set of anxiety intervention mechanisms for doctoral students. It aims to provide policy insights for the adjustment of their anxiety and hopes to offer novel perspectives and exemplary references for the theoretical research and practical exploration of doctoral students' anxiety in other countries around the world.",
+  "raw_path": "01_raw/europepmc_xml/PMC11851512.xml",
+  "text_path": "02_text/europepmc/PMC11851512.txt",
+  "raw_bytes": 236860,
+  "text_chars": 104163,
+  "raw_sha256": "7e20ed9dfe25d32abfea32fd9760a0211204a0138ecb4902deb4fdec876ba857",
+  "text_sha256": "3fae0c1d196eb05ac4749aab91aba6208f0296c163527e0c7f8aee50e3f4b518",
+  "retrieved_at": "2026-10-25T13:53:20.051000+00:00"
+}

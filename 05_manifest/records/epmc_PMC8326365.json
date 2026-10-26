@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC8326365",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Unsolicited Pics and Sexual Scripts: Gender and Relationship Context of Compliant and Non-consensual Technology-Mediated Sexual Interactions.",
+  "authors": "Courtice EL, Czechowski K, Noorishad PG, Shaughnessy K.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2021.673202",
+  "pmcid": "PMC8326365",
+  "url": "https://europepmc.org/article/PMC/PMC8326365",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8326365/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_scripts",
+    "sexual_scripts"
+  ],
+  "abstract": "Technology-mediated sexual interaction (TMSI) refers to any partnered interaction that involves sending or receiving self-created, sexually explicit content using communication technology (e. g., sexting, cybersex). Most research on TMSI assumes that experiences are desired and consensual. However, it is likely that some people do not desire all their TMSI experiences but consent to them anyways ( compliance ), or experience non-consensual TMSIs. People also engage in TMSIs with different types of partners. According to the traditional sexual script (TSS), other-gender attracted women and men's non-consensual TMSI experiences should differ overall and depending on the relationship context of the experience. The goal of this study was to examine the role of sexual scripts in other-gender attracted women and men's non-consensual and compliant TMSI experiences with committed romantic partners (CRPs), known non-partners (KNPs), and strangers (Ss). Women ( n = 331) and men ( n = 120) completed an online survey with questions about lifetime prevalence of experiencing seven types of compliant and non-consensual TMSIs in each relationship context. Results of mixed ANOVAs revealed significant interactions: overall, more participants reported compliant TMSI with CRPs. More women than men had received a non-consensual TMSI from someone they were not in a committed relationship with, and more men than women reported sending non-consensual TMSIs to a stranger. Tests of unpaired proportions suggested that the prevalence of sending and receiving non-consensual TMSIs was discordant in the KNP and S contexts: both women and men received more non-consensual TMSIs from KNPs and Ss than the other-gender reported sending. Our findings suggest that gendered sexual scripts are evident in some, but not all, aspect of other-gender attracted women and men's compliant and non-consensual TMSI experiences.",
+  "raw_path": "01_raw/europepmc_xml/PMC8326365.xml",
+  "text_path": "02_text/europepmc/PMC8326365.txt",
+  "raw_bytes": 164501,
+  "text_chars": 62337,
+  "raw_sha256": "d5d08e8978581a306096958efb4b0fdd1a23a4dc059eefbe33b89e4819085a81",
+  "text_sha256": "dfb6238f034d3369baffb61f9fe441c111aba02ad27191d6607cb5fc83efd8e6",
+  "retrieved_at": "2026-10-26T12:55:16.768487+00:00"
+}

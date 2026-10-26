@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10481027",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dark Triad Traits and Mate Retention Behaviors in Romantic Couples: The Actor-Partner Interdependence Model.",
+  "authors": "Kardum I, Hudek-Knezevic J, Mehic N.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1177/1474704919887703",
+  "pmcid": "PMC10481027",
+  "url": "https://europepmc.org/article/PMC/PMC10481027",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10481027/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "By using actor-partner interdependence modeling (APIM), we examined the effects of the Dark Triad traits, psychopathy, narcissism, and Machiavellianism on two mate retention (MR) domains, cost-inflicting (C-I B) and benefit-provisioning behaviors (B-P B) as well as overall mate retention (OMR) on the sample of 100 heterosexual romantic couples. These effects were examined first without and then with the control of the overlap between the traits. The results show that actor effects of the Dark Triad traits on MR were stronger in men, and regarding partner effects, the Dark Triad traits in men exerted more frequent MR in women than women's Dark Triad traits in men. In line with our prediction, psychopathy had the strongest actor and partner effects on MR behaviors, both in men and women. Considering MR domains, we found actor effects on C-I B only in men, whereas actor effects on B-P B in both men and women. The Dark Triad traits, especially in men, exerted stronger partner effects on C-I B than on B-P B domain. Almost all actor and partner effects of psychopathy and narcissism remained significant after the control for the overlap between the traits, whereas all actor effects of Machiavellianism became nonsignificant. In both sets of analyses, without and with the control for the overlap between these traits, the most frequent plausible dyadic patterns were actor-only and couple pattern.",
+  "raw_path": "01_raw/europepmc_xml/PMC10481027.xml",
+  "text_path": "02_text/europepmc/PMC10481027.txt",
+  "raw_bytes": 133438,
+  "text_chars": 44087,
+  "raw_sha256": "cad05c2c308e6ad9a33a418fa1cdf0202c9f884f8be2d5edfcbc637a89d4a31e",
+  "text_sha256": "a0d55f7a0d0fd767795c53620b5acefb3951ab5d8b308417f190b4c441237b90",
+  "retrieved_at": "2026-10-25T15:45:59.208341+00:00"
+}

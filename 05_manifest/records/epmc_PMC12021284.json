@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12021284",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Communication and relationship satisfaction of Fly-in, Fly-out workers and partners.",
+  "authors": "Forshaw A, Alfrey KL, Vandelanotte C, Gardner B, Rebar AL.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0322337",
+  "pmcid": "PMC12021284",
+  "url": "https://europepmc.org/article/PMC/PMC12021284",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12021284/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "Fly-in fly-out (FIFO) work involves commuting long distances and living in provided accommodation for 1-4 weeks while on shift. Little is known about couple communication and relationship satisfaction of this population. Separate cohorts of FIFO workers and partners of FIFO workers completed daily surveys to self-report time spent communicating with their partner (in person, over the computer, and by phone) and relationship satisfaction for up to 7 days during on-shift and 7 days during off-shift periods (806 observations from N = 106 with 19 couples). For FIFO workers, but not partners of FIFO workers, relationship satisfaction was lower during on-shift days than off-shift days. This difference was completely mediated by time spent communicating with romantic partner, such that after accounting for the impact of lower time spent communicating on relationship satisfaction, there remained no significant difference in relationship satisfaction on-shift vs off-shift. Communication between FIFO workers and their romantic partners is essential to ensure the relationship does not suffer while the worker is away from home. FIFO organisations need to investigate ways to ensure quality communication between romantic partners can be maintained while the worker is on-site and partner spend long periods of time away from one another.",
+  "raw_path": "01_raw/europepmc_xml/PMC12021284.xml",
+  "text_path": "02_text/europepmc/PMC12021284.txt",
+  "raw_bytes": 169116,
+  "text_chars": 25988,
+  "raw_sha256": "3a66b8bca53974b3273cf8d1aba59cbdeef0b6aa2760adc8c6f68e8f1776bebc",
+  "text_sha256": "d9b4cad40c589d25d9e8b83a372f55c0c39b26afd8bafd982c7c3f1ae612eecd",
+  "retrieved_at": "2026-10-25T15:48:01.602137+00:00"
+}

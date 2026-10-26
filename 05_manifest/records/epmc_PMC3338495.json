@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC3338495",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mate value and self-esteem: evidence from eight cultural groups.",
+  "authors": "Goodwin R, Marshall T, Fülöp M, Adonu J, Spiewak S, Neto F, Hernandez Plaza S.",
+  "year": "2012",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0036106",
+  "pmcid": "PMC3338495",
+  "url": "https://europepmc.org/article/PMC/PMC3338495",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3338495/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gender_roles"
+  ],
+  "abstract": "This paper explores self-perceived mate value (SPMV), and its association with self-esteem, in eight cultures. 1066 participants, from 8 cultural groups in 7 countries, rated themselves on 24 SPMVs and completed a measure of self-esteem. Consistent with evolutionary theory, women were more likely to emphasise their caring and passionate romantic nature. In line with previous cross-cultural research, characteristics indicating passion and romance and social attractiveness were stressed more by respondents from individualistic cultures, and those higher on self-expression (rather than survival) values; characteristics indicative of maturity and confidence were more likely to be mentioned by those from Traditional, rather than Secular, cultures. Contrary to gender role theory, societal equality had only limited interactions with sex and SPMV, with honesty of greater significance for male self-esteem in societies with unequal gender roles. These results point to the importance of cultural and environmental factors in influencing self-perceived mate qualities, and are discussed in relation to broader debates about the impact of gender role equality on sex differences in personality and mating strategies.",
+  "raw_path": "01_raw/europepmc_xml/PMC3338495.xml",
+  "text_path": "02_text/europepmc/PMC3338495.txt",
+  "raw_bytes": 84040,
+  "text_chars": 32432,
+  "raw_sha256": "d7406f6873f944eb0ab752077089b6a46c1bdc8889f581ebc6780bfa2617deb9",
+  "text_sha256": "0786999e556386b6df2130db405bd7e9900fc7ce6cd7931785559cde9e89d664",
+  "retrieved_at": "2026-10-25T15:35:57.079286+00:00"
+}

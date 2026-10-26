@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8458047",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Love in Quarantine: Sexting, Stress, and Coping During the COVID-19 Lockdown.",
+  "authors": "Bianchi D, Baiocco R, Lonigro A, Pompili S, Zammuto M, Di Tata D, Morelli M, Chirumbolo A, Di Norcia A, Cannoni E, Longobardi E, Laghi F.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1007/s13178-021-00645-z",
+  "pmcid": "PMC8458047",
+  "url": "https://europepmc.org/article/PMC/PMC8458047",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8458047/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Introduction This study investigated the relationships of pandemic-related stress and coping strategies with different kinds of sexting (i.e., experimental, risky, and emotional) during the COVID-19 lockdown in the Italian context. Methods A sample of 1929 emerging adults ( M age = 24.17, SD age = 2.75; 71.6% girls) completed an online survey about their sexting behaviors during the national lockdown in Italy. Data were gathered in April/May 2020, from 6th to 11th week of home confinement due to COVID-19 pandemic. Hierarchical regression and mediation analyses were performed. Results Pandemic-related stress directly predicted only risky and emotional sexting. Experimental and emotional sexting were positively predicted by social support, and negatively predicted by turning to religion. Risky and emotional sexting were positively predicted by avoidance, and negatively predicted by problem solving. Adaptive coping (i.e., social support) mediated the relationships from pandemic-related stress to both experimental and emotional sexting. Maladaptive coping (i.e., avoidance and problem solving) mediated the relationships from pandemic related-stress to risky and emotional sexting. Conclusions Sexting was a coping tool during COVID-19 lockdown, showing both adaptive and maladaptive facets. Policy implications Findings suggest new directions for implementing programs of sexual education and safer Internet use targeted to young people.",
+  "raw_path": "01_raw/europepmc_xml/PMC8458047.xml",
+  "text_path": "02_text/europepmc/PMC8458047.txt",
+  "raw_bytes": 152050,
+  "text_chars": 51108,
+  "raw_sha256": "736e4ec68a3ab6098398cf82d84723d8c2086c76fe1530f4e5701bc770c90768",
+  "text_sha256": "fcdddbad626e6c7bfed552fdfa99c7a80585f8a9f5f8389708f3977dbc28e557",
+  "retrieved_at": "2026-10-26T13:07:45.642498+00:00"
+}

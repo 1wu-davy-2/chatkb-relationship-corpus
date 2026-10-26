@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_24224",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "平山冷燕",
+  "gutenberg_id": "24224",
+  "url": "https://www.gutenberg.org/ebooks/24224",
+  "download_url": "https://www.gutenberg.org/cache/epub/24224/pg24224.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/24224.txt",
+  "text_path": "02_text/gutenberg/gut_24224_平山冷燕.txt",
+  "raw_bytes": 436233,
+  "text_chars": 138523,
+  "text_sha256": "f7f4dd916a4fe6f47b1c4751665a875b39cc3f34cdc09e15171170b48d2fdd16",
+  "retrieved_at": "2026-10-25T16:05:34.049486+00:00"
+}

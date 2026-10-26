@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13175748",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Evaluation of the Individual, Relationship, and Financial Benefits of Juntos en Pareja for Spanish-Speaking Latine Couples.",
+  "authors": "Falconier MK, Williamson HC, Azizi Z, Yumiseva-L M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/famp.70153",
+  "pmcid": "PMC13175748",
+  "url": "https://europepmc.org/article/PMC/PMC13175748",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13175748/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Latine couples often face high levels of financial stress, which can significantly strain romantic relationships. Yet few programs are designed to address both financial and relational distress for this population. Juntos en Pareja (JEP) is a socio-culturally responsive program designed to address these challenges by providing relationship and financial education to Spanish-speaking Latine couples. JEP is a cultural and linguistic adaptation of the evidence-based program TOGETHER. This study evaluates JEP's effectiveness by comparing pre- and post-workshop outcomes among Latine couples in JEP with a comparison group of non-Latine couples in the TOGETHER program. We examined three domains: psychological well-being, relationship quality, and financial stability. The analytic sample included 284 couples (568 individuals) in JEP and 266 couples (532 individuals) in TOGETHER, all residing in the United States. Using linear mixed models, we assessed changes from pre- to post-test across key indicators. Similar to TOGETHER, JEP participants showed significant declines in psychological distress, negative conflict management, and psychological aggression toward the partner and by the partner, and significant increases in time spent with the partner. Additionally, JEP couples also reported reduced difficulty in paying bills. These results provide support for JEP as a beneficial program for Spanish-speaking Latine couples, but they should be considered with caution as they represent the experience of program completers with high attendance and immediately upon program completion. Further studies should assess the sustainability of changes over time. Nonetheless, these initial findings underscore the need for accessible, socio-culturally attuned interventions to promote resilience and stability in underserved immigrant communities.",
+  "raw_path": "01_raw/europepmc_xml/PMC13175748.xml",
+  "text_path": "02_text/europepmc/PMC13175748.txt",
+  "raw_bytes": 149062,
+  "text_chars": 46170,
+  "raw_sha256": "8b246388183a5863df445772ee736d86eeab700634156386a6b4f713b8a2716e",
+  "text_sha256": "7e7bf7c45829716ad37cd5b864934dcae5c90e5615cabf69da7677f5cbac77c6",
+  "retrieved_at": "2026-10-25T13:53:11.758180+00:00"
+}

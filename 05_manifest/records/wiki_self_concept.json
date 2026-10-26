@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_self_concept",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "自我概念",
+  "requested_title": "自我概念",
+  "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E6%88%91%E6%A6%82%E5%BF%B5",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 自我概念",
+  "topics": [
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/self_concept.json",
+  "text_path": "02_text/zh_wikipedia/self_concept.txt",
+  "raw_bytes": 2113,
+  "text_chars": 985,
+  "text_sha256": "445e1f0707db51a80750311e3c5b9d2e7a9e3c211f475ac2d6a49576cdee6f9c",
+  "retrieved_at": "2026-10-25T16:23:09.247570+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12193689",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "To hug or not to hug? Public and private displays of affection and relationship satisfaction among people from Indonesia, Nepal, and Poland.",
+  "authors": "Kocur D, Jach Ł, Sitko-Dominik M, Dhakal S, Sharma N, Harsono YT, Przybylska I, Nieduziak E, Dzienniak-Pulina D, Rychłowska-Niesporek A, Zozgórnik D.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0326115",
+  "pmcid": "PMC12193689",
+  "url": "https://europepmc.org/article/PMC/PMC12193689",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12193689/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "Displays of romantic affection, both public and private, contribute to improved well-being, reduced stress, greater life satisfaction, and enhanced relationship satisfaction. However, cultural norms significantly influence the expression of affection, particularly in public settings. This study aimed to compare individuals from Indonesia, Nepal, and Poland regarding their public and private displays of affection, negative attitudes, and behaviors towards other individuals engaging in public displays of affection. Additionally, we examined relationship satisfaction and its associations with the expression of affection. We collected data from 170 Indonesian participants (62 men and 108 women), 120 Nepali participants (56 men and 64 women), and 171 Polish participants (72 men and 99 women) aged 18 to 49. The results revealed cultural differences in public displays of affection: Polish participants reported the highest level, while Indonesian participants reported the lowest. Differences also emerged for private displays of affection: Polish participants scored higher than Nepali and Indonesian participants, while no differences were observed between participants from Nepal and Indonesia. Negative attitudes and behaviors towards displaying affection publicly were most prevalent in Indonesia and least prevalent in Poland. Nepali participants reported the highest level of relationship satisfaction, followed by Polish participants, with Indonesian participants reporting the lowest. Across all three countries, positive correlations were observed between displays of affection and relationship satisfaction, underscoring the importance of affectionate behaviors in romantic relationships. Moreover, our findings highlight the influence of cultural norms on the expression of romantic affection and suggest that relationship satisfaction is closely tied to affectionate behaviors, albeit with variations shaped by cultural context.",
+  "raw_path": "01_raw/europepmc_xml/PMC12193689.xml",
+  "text_path": "02_text/europepmc/PMC12193689.txt",
+  "raw_bytes": 129011,
+  "text_chars": 41397,
+  "raw_sha256": "f26389f5831a41f589a43feb20167072162355bc5f73aa62aae3415df7d92777",
+  "text_sha256": "422703d594273fbb2a6cd9cfdbc302d908e807c4eaa698a7d7ac8b3d00ecf877",
+  "retrieved_at": "2026-10-25T15:47:19.770361+00:00"
+}

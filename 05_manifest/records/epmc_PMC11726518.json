@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11726518",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "How People React to the Termination of an Intimate Relationship: An Exploratory Mixed-Methods Study.",
+  "authors": "Apostolou M, Taliadoros I, Lajunen TJ.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/14747049241312231",
+  "pmcid": "PMC11726518",
+  "url": "https://europepmc.org/article/PMC/PMC11726518",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11726518/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Intimate relationships frequently come to an end, and in the current research, we have endeavored to examine how individuals would potentially react in the scenario where their intimate partner decides to terminate a relationship they wish to continue. More specifically, employing open-ended questionnaires on a sample of 219 Greek-speaking participants, we identified 79 possible reactions. Subsequently, using close-ended questionnaires on a sample of 442 Greek-speaking participants, we categorized these reactions into 13 broad factors. Participants indicated that they were more likely to feel sadness, inquire of their departing partners why they wish to end the relationship, and attempt to divert their thoughts elsewhere to avoid dwelling on the end of the relationship. Men indicated a higher likelihood than women to seek revenge sex, although significant sex differences were not observed in other reactions. Furthermore, we classified these 13 factors into three broader domains. The highest-rated domain was \"Accept and forget,\" followed by \"Sadness and depression,\" and \"Physical and psychological aggression.\" These findings could enable us to gain a better understanding of the process of relationship dissolution, and could potentially be employed to identify and prevent reactions that may have harmful repercussions for the individuals involved in the relationship.",
+  "raw_path": "01_raw/europepmc_xml/PMC11726518.xml",
+  "text_path": "02_text/europepmc/PMC11726518.txt",
+  "raw_bytes": 112002,
+  "text_chars": 44298,
+  "raw_sha256": "df938d26dd4700c0a9b309a6e5aab2943a2c921ad0030234382d3291fede3233",
+  "text_sha256": "f455ac8a3ea4df4307f94652820d80f9c42e07eadc826cf74a8be1088700c751",
+  "retrieved_at": "2026-10-25T15:48:41.932418+00:00"
+}

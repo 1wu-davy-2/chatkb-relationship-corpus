@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12411753",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Coercive Control and Intimate Partner Violence: Relationship With Personality Disorder Severity and Pathological Narcissism.",
+  "authors": "J S Day N, Kealy D, Biberdzic M, Green A, Denmeade G, Grenyer BFS.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1002/pmh.70038",
+  "pmcid": "PMC12411753",
+  "url": "https://europepmc.org/article/PMC/PMC12411753",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12411753/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Intimate partner violence (IPV) is a global health concern, with increasing efforts focused on detection and prevention. Coercive control has been identified as a 'golden thread' linking risk profiles and violence perpetration. Narcissistic pathology is often implicated in control and violence, but research linking narcissism with aggression and abuse has been inconsistent. Most research on narcissism focuses on symptomatology, whereas contemporary diagnostic frameworks emphasise a dimensional approach to personality disorder 'severity'. No study has examined the association between pathological narcissism, violence and coercive control while accounting for overall personality pathology. Individuals in relationships with relatives high in narcissism (N = 135; 71% romantic partners, 22% family members; average relationship length = 20 years) completed informant measures of pathological narcissism and personality disorder severity, as well as self-report measures of abuse and coercive control. Relatives were rated highly in both grandiose and vulnerable narcissism features, as well as displaying prominent impairments in personality functioning. Correlation analysis indicated dimensional personality disorder severity was significantly and moderately associated with both abuse and coercive control. Pathological narcissism was significantly associated with coercive control but not abuse. Specific narcissism subfactors (exploitativeness, grandiose fantasy and entitlement rage) showed positive, weak associations with either coercive control or abuse. Within the context of high narcissistic symptomatology, personality disorder severity may be a risk factor for coercive control and IPV. Clinical implications suggest the relevance of incorporating a focus on personality in psychological interventions targeted at reducing IPV and coercive control.",
+  "raw_path": "01_raw/europepmc_xml/PMC12411753.xml",
+  "text_path": "02_text/europepmc/PMC12411753.txt",
+  "raw_bytes": 172215,
+  "text_chars": 38001,
+  "raw_sha256": "70aa6f7b7a3e763a2941b76ab9be93917c28844e88a8378f9da55dbba4e28757",
+  "text_sha256": "11d4e1007004ee93458f3c3f6a782ed0623f2121f2dc10b2d110f807c78ab498",
+  "retrieved_at": "2026-10-25T13:52:18.346781+00:00"
+}

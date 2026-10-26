@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_23906",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "西廂記",
+  "gutenberg_id": "23906",
+  "url": "https://www.gutenberg.org/ebooks/23906",
+  "download_url": "https://www.gutenberg.org/cache/epub/23906/pg23906.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/23906.txt",
+  "text_path": "02_text/gutenberg/gut_23906_西廂記.txt",
+  "raw_bytes": 151965,
+  "text_chars": 46832,
+  "text_sha256": "f8e3f3ce11e9522a85692d13f1542b35d5b26b769524094e040be14f51621105",
+  "retrieved_at": "2026-10-25T15:51:01.679518+00:00"
+}

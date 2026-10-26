@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11176243",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"I Feel Like a Fraud Who Acts Like a Feminist\": The Discussion Themes and Sexual Scripts in the Porn Free Women Online Forum.",
+  "authors": "Zhang X, Silva DE.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1007/s10508-024-02858-w",
+  "pmcid": "PMC11176243",
+  "url": "https://europepmc.org/article/PMC/PMC11176243",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11176243/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "Research on online pornography abstinence movements has predominantly focused on men's perspectives, often within the context of the broader manosphere. This focus has overshadowed the unique experiences and viewpoints of women in these movements. Our study aimed to fill this gap by exploring women-centric perspectives in pornography abstinence forums, particularly Porn Free Women (r/pornfreewomen). Using a mixed methods approach, this study examined the sexual scripts presented in women-dominated pornography abstinence communities. Our structural topic modeling analysis delineated the interplay of therapeutic, heteronormative, and empowerment themes that were evident in women's narratives and expressions. Further, our discourse analysis elucidated three specific scripts: the addiction script, the heterosexual script, and the liberation script. These interweaving narratives show that discussions of women's pornography abstinence are multifaceted and include a variety of perspectives to negotiate. These results contribute to a nuanced understanding of the values of health and well-being, sexual liberation, and feminism within women's pornography abstinence communities.",
+  "raw_path": "01_raw/europepmc_xml/PMC11176243.xml",
+  "text_path": "02_text/europepmc/PMC11176243.txt",
+  "raw_bytes": 119107,
+  "text_chars": 68500,
+  "raw_sha256": "46473ddfd175b435f795805c064655e49dc655fff70aef47bd14e9fe15d78629",
+  "text_sha256": "7bd6c8f7b97f547d495fb067894025525e920049ddafeb15ef0e924990ca7aee",
+  "retrieved_at": "2026-10-26T12:57:10.387705+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9819242",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dimensions of Sexual Health Conversations among U.S. Black Heterosexual Couples.",
+  "authors": "Leblanc NM, St Vil NM, Bond KT, Mitchell JW, Juarez AC, Lambert F, Muheriwa SR, McMahon J.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3390/ijerph20010588",
+  "pmcid": "PMC9819242",
+  "url": "https://europepmc.org/article/PMC/PMC9819242",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9819242/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "Sexual health communication is an important feature of healthy intimate relationships; however, some couples may avoid discussing difficult matters (e.g., HIV/STI testing, sexual satisfaction) to minimize interpersonal conflict. From October 2018 to May 2019 in New York State, we conducted a multi-method descriptive pilot study to characterize Black heterosexual couples' (N = 28) sexual health conversations. Partners individually completed an online sexual health/relationship survey before engaging in-person for a joint dyadic qualitative in-depth interview. Quantitative descriptive statistics demonstrated that most absolute score differences among couple's preferences for sexual health outcomes, communal coping and sexual relationship power were mainly small, but greatest regarding extra-dyadic sexual behaviors. A qualitative descriptive approach discerned, motivation and norms for sexual health conversations, and communication patterns. Thematic and content analysis revealed two central themes: initiating and sustaining sexual health conversations , and leveraging features of the couples to promote sexual health . Integrated findings indicate that couples possess varied communication patterns that operate with motivations for sexual health conversations toward subsequent sexual health promotion. Equitable and skewed communication patterns emerged as relationship assets that can be leveraged to optimize sexual health. There is also opportunity for future work to address communication regarding extra-dyadic behavior and preferences. Asset-based considerations are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC9819242.xml",
+  "text_path": "02_text/europepmc/PMC9819242.txt",
+  "raw_bytes": 183908,
+  "text_chars": 69363,
+  "raw_sha256": "9ef4deed938860893725b98d0c637c6abfaae515211af57af13f000e9807f818",
+  "text_sha256": "99d6e1c342c562a0cde74e329454816ef345c802735e4a5e00ac4e0f21f2adef",
+  "retrieved_at": "2026-10-26T13:10:18.372561+00:00"
+}

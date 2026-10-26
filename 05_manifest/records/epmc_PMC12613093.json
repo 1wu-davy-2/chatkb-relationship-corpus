@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12613093",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Intranasal Oxytocin and Physical Intimacy for Dermatological Wound Healing and Neuroendocrine Stress: A Randomized Clinical Trial.",
+  "authors": "Schneider E, Hernández C, Brock R, Eckstein M, Bodenmann G, Heinrichs M, Ehlert U, Läuchli S, Ditzen B.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1001/jamapsychiatry.2025.3705",
+  "pmcid": "PMC12613093",
+  "url": "https://europepmc.org/article/PMC/PMC12613093",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12613093/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_frequency"
+  ],
+  "abstract": "Importance Close social relationships are linked to improved individual health and even longevity. These effects are hypothesized to be mediated through improved neuroendocrine and immune functioning, particularly in individuals who engage in positive and affectionate interactions. However, systematic data examining these factors in humans are currently lacking. Objective To investigate the interacting effects of repeated intranasal oxytocin administration, a behavioral microintervention, and daily physical intimacy on neuroendocrine stress responses and dermatological wound healing. Design, setting, and participants This randomized clinical trial was a double-blind, randomized, placebo-controlled study whereby participants completed 3 laboratory visits and a 5-day ecological momentary assessment (EMA). During the first laboratory visit, participants received 4 small suction-blister wounds applied to their forearms. Data were collected from November 20, 2011, to July 25, 2013; final analyses were conducted from December 2023 to February 2025. Interventions Over the following 7 days, participants were instructed to self-administer either oxytocin or a placebo twice daily and to engage in structured positive interaction (Partner Appreciation Task [PAT]) up to 3 times in total or not. Main outcomes and measures Wound healing was assessed at 24 hours and 7 days after wounding. Throughout the week, participants collected saliva samples for cortisol analyses and reported their stress levels and experiences of partner interaction 6 times per day (5760 measurement points in total). Results The volunteer sample was 80 healthy, heterosexual couples (N = 160 participants, mean [SD] age, 27.6 [5.0] years). Couples in the PAT condition who received daily oxytocin showed improved wound healing (b = -0.125, t286 = -1.983; P = .048). However, these effects were not consistently robust in sensitivity analyses (b = -0.090, t282 = -1.643; P = .10). Notably, the administration of oxytocin combined with daily affectionate touch (b = -0.038, t137 = -2.091; P = .04) and sexual activity (b = -0.145, t137 = -2.122; P = .04) was linked to a reduction in wound severity. These associations remained largely consistent in sensitivity analyses (affectionate touch: b = -0.037, t135 = -2.057; P = .04; sexual activity: b = -0.131, t135 = -1.900; P = .06). Additionally, greater sexual activity was associated with reduced daily cortisol levels (b = -0.083, t488 = -2.813; P = .005). Conclusions and relevance This study found that intimate physical contact can reduce cortisol responses and, along with oxytocin administration, promote wound healing. These findings provide a foundation for future interventions that integrate relationship dynamics and neurohormonal modulation to improve health and recovery from illness. Trial registration ClinicalTrials.gov Identifier: NCT01594775.",
+  "raw_path": "01_raw/europepmc_xml/PMC12613093.xml",
+  "text_path": "02_text/europepmc/PMC12613093.txt",
+  "raw_bytes": 156183,
+  "text_chars": 28534,
+  "raw_sha256": "7e79fb154797b04ea832b3d5b038d1bed44feca20c5ce8a83bac7ce6c2985c3a",
+  "text_sha256": "480a32f12af89549511bbb5b48c96923b12bb56825e38f9da3e30bfbea5b8330",
+  "retrieved_at": "2026-10-26T12:57:55.718131+00:00"
+}

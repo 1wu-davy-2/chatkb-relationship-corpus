@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7259726",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Gender differences in marriage, romantic involvement, and desire for romantic involvement among older African Americans.",
+  "authors": "Mouzon DM, Taylor RJ, Chatters LM.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0233836",
+  "pmcid": "PMC7259726",
+  "url": "https://europepmc.org/article/PMC/PMC7259726",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7259726/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "Background Despite research on the dramatic changes in marriage, there is a dearth of research on the correlates of marriage and romantic involvement among older African Americans. This is an important omission because although the marriage decline is universal, African Americans show the steepest decline in marriage rates. Methods Based on data from the National Survey of American Life, multinomial logistic regression analysis is used to identify demographic and health correlates of: 1) being married or cohabiting, 2) having a romantic involvement, 3) not having a romantic involvement but desiring one, and lastly, 4) not having and not desiring a romantic involvement. Results Four in 10 older African Americans are either married or cohabiting, 11% are unmarried but romantically involved, 9.5% are unmarried and not romantically involved but open to the possibility of a relationship, and 38% neither have nor desire a romantic involvement. More men than women are married or cohabiting, a gap that increases with advanced age. Across all age groups, African American women are more likely than their male counterparts to report that they neither have nor desire a romantic relationship. Conclusion Almost as many older African Americans do not want a romantic relationship as those who are married/cohabiting. Findings support social exchange theories and the importance of an unbalanced sex ratio. Furthermore, the results suggest that singlehood among older African Americans (especially women) is not necessarily an involuntary status. Nonetheless, this group is at higher risk of economic and health problems as they age.",
+  "raw_path": "01_raw/europepmc_xml/PMC7259726.xml",
+  "text_path": "02_text/europepmc/PMC7259726.txt",
+  "raw_bytes": 125660,
+  "text_chars": 42334,
+  "raw_sha256": "e3ac8bc0432d4f790b7b900359faaa637cc3f2cfe8835552d7a51d8a26b53406",
+  "text_sha256": "d9b32edb1fbdd479c9cca2b783f6d283dc53f508101b985a7b6316f6497c99b6",
+  "retrieved_at": "2026-10-25T15:39:21.293925+00:00"
+}

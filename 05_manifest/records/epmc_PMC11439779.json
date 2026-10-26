@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11439779",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Financial strain among West-Javanese parents: its association with marital satisfaction and quality of life, and the role of dyadic coping.",
+  "authors": "Novianti LE, Purba FD, Karremans JC, Agustiani H.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2024.1434426",
+  "pmcid": "PMC11439779",
+  "url": "https://europepmc.org/article/PMC/PMC11439779",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11439779/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "In the past decade, the concept of dyadic coping as a buffer against stress in romantic relationships has received much attention in Western countries, but it has rarely been studied in non-Western countries and among parents with school-aged children. The aim of the present study was to investigate the moderating effect of dyadic coping on the link between financial strain and marital satisfaction, as well as the mediating effect of marital satisfaction on the relationship between financial strain and quality of life. There were 751 heterosexual couples whose eldest child aged 7-12 years in West Java, Indonesia (mean age husband = 37.53 SD = 5.09; mean age wife = 34.42 SD = 4.85) fulfilled the paper and pencil questionnaires in the study. The moderated mediated model illustrated that (1) greater levels of dyadic coping weakened the negative association between financial strain and marital satisfaction for husbands and for wives (2) for both husbands and wives, there were no mediation effect (3) for both husbands and wives, financial strain was negatively associated with quality of life; and marital satisfaction was positively associated with quality of life. We discuss both the theoretical and practical implications of these findings.",
+  "raw_path": "01_raw/europepmc_xml/PMC11439779.xml",
+  "text_path": "02_text/europepmc/PMC11439779.txt",
+  "raw_bytes": 159364,
+  "text_chars": 39059,
+  "raw_sha256": "b24df0314f434504fa2540c08006bf75e1135c2708b3560f106f78ab8d96486f",
+  "text_sha256": "718e7ace8c7df25283292c511b0331b505b113a24f96764a5276f64a4ba2fe8e",
+  "retrieved_at": "2026-10-25T15:34:47.355919+00:00"
+}

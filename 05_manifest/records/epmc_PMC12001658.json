@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12001658",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Body image disturbances in women of childbearing age with polycystic ovary syndrome: a cross-sectional study.",
+  "authors": "Gao Q, Qian X, Zhang J, Zhang F, Xu X.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s12905-025-03693-4",
+  "pmcid": "PMC12001658",
+  "url": "https://europepmc.org/article/PMC/PMC12001658",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12001658/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "body_image"
+  ],
+  "abstract": "Disign This is a cross-sectional study. Objectives This study aimed to identify the risk factors associated with body image disturbances in patients with polycystic ovary syndrome (PCOS). Methods This study included married women diagnosed with PCOS who required fertility assistance. Participants were recruited from the reproductive centers of three tertiary hospitals in Jiangsu Province between December 2022-June 2023. We collected 333 patient data through an online questionnaire, body image was assessed by the Chinese version of Body Image Disturbance Questionnaire (BIDQ). The demographic information and clinical data of patients were collected. At the same time, the relevant information of sleep quality, personality traits, intimate relationship, family care and psychological resilience of the patients were collected through various scales. Univariate analysis and a generalized linear model were employed to analyze the factors affecting body image disturbances in women with PCOS. Results This cross-sectional study included 333 women of childbearing age with PCOS. Univariate analysis revealed that body image was associated with factors such as the body mass index (BMI), occupation, menstrual disturbances, a family history of PCOS, hair loss, acne, hirsutism, scores on the Family Apgar Index, psychological resilience levels, sleep quality, intimate relationship, and personality traits. The generalized linear model demonstrated that occupation, BMI, hair loss, acne, hirsutism, intimate relationship, family care, and psychological resilience were independent risk factors for body image issues. Conclusion The influencing factors of body image disturbance in patients with polycystic ovary syndrome of childbearing age come from many aspects, including occupation, acne, hair loss, hirsutism, BMI, intimate relationship, family care and psychological resilience. Consequently, medical professionals in obstetrics and gynecology should recognize the body image concerns of women with PCOS and implement specific interventions to support these women during their childbearing years.",
+  "raw_path": "01_raw/europepmc_xml/PMC12001658.xml",
+  "text_path": "02_text/europepmc/PMC12001658.txt",
+  "raw_bytes": 141159,
+  "text_chars": 34732,
+  "raw_sha256": "88ce10f9cae008751a842d2573b111e62c385dd068805f67c6b7f027e628536d",
+  "text_sha256": "02234695c2fe19669eef94a5eaced2337acd1d296ad9003d23b0486fa3bb378b",
+  "retrieved_at": "2026-10-25T15:31:11.627856+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4746225",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Mediating Role of Romantic Desolation and Dating Anxiety in the Association Between Interpersonal Competence and Life Satisfaction Among Polish Young Adults.",
+  "authors": "Adamczyk K, Segrin C.",
+  "year": "2016",
+  "journal": "",
+  "doi": "10.1007/s10804-015-9216-3",
+  "pmcid": "PMC4746225",
+  "url": "https://europepmc.org/article/PMC/PMC4746225",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4746225/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_anxiety"
+  ],
+  "abstract": "This study investigates the role of romantic desolation on life satisfaction in young adulthood. Using data from a Polish sample of 330 (205 females and 125 males) young adults aged 20-30, who completed Polish versions of the Satisfaction With Life Scale, Dating Anxiety Scale, Interpersonal Competence Questionnaire-Revised, and Social and Emotional Loneliness Scale for Adults-Short Form, romantic desolation (romantic loneliness and lack of a romantic partner) and dating anxiety were tested as mediators of the association between interpersonal competence and life satisfaction. Results revealed that single individuals reported lower life satisfaction and higher romantic loneliness than did partnered individuals. At the same time, no differences emerged between single and partnered individuals in dating anxiety or interpersonal competence. Structural equation modeling results showed that low interpersonal competence has an indirect effect on romantic desolation through higher levels of dating anxiety. Also, dating anxiety had an indirect effect on lower life satisfaction through increased romantic desolation. These results highlight the important role of dating anxiety and romantic desolation for explaining why low interpersonal competence is associated with diminished life satisfaction in young adults.",
+  "raw_path": "01_raw/europepmc_xml/PMC4746225.xml",
+  "text_path": "02_text/europepmc/PMC4746225.txt",
+  "raw_bytes": 92261,
+  "text_chars": 37862,
+  "raw_sha256": "483020f9061aab27a61570ca4a451614edd39a70d56aa11f17122a4e72d19884",
+  "text_sha256": "0ab8b3cd21b41c83cd1d4f18ff1ac21aa878be8c9c1110df4a09d5c8ab81a2a0",
+  "retrieved_at": "2026-10-25T13:59:47.587336+00:00"
+}

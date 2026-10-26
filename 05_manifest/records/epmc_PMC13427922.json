@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13427922",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Beyond the Transaction: Commitment, Intimacy, and Investment in Online Camming Relationships.",
+  "authors": "Balzarini RN, Himes T, Swanson F, Reynolds B, Agnew CR.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s10508-026-03476-4",
+  "pmcid": "PMC13427922",
+  "url": "https://europepmc.org/article/PMC/PMC13427922",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13427922/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "According to the investment model of commitment processes, relationships are more likely to persist when people are highly satisfied with their partner, invested in the relationship, and perceive poor alternatives to it. Although this model has proven robust across relationship contexts, research has yet to examine commitment processes in online camming relationships-relationships between cam models and members of adult camming websites. An increasing number of people are engaging in online camming relationships, with some reporting that their interactions are not strictly sexual and involve some degree of intimacy. Yet, little is known about the factors that facilitate commitment between cam models and members. In a cross-sectional study of cam models (N = 199) and members (N = 544) from LiveJasmin, surveyed separately (i.e., not as matched dyads), we tested whether satisfaction, investment, and alternatives were associated with current commitment and future planned investment among cam models and members. Based on past research suggesting that alternatives are not as predictive of commitment in multi-partnered relationships and that camming interactions can feature intimacy, we tested an alternative model that replaces the quality of alternatives with intimacy. Results suggest that, in most cases, when cam models or members on camming sites reported greater satisfaction, investment, and intimacy, they, in turn, reported greater current commitment and intentions to invest in their relationship in the future, whereas the quality of alternatives was not a significant predictor. These findings highlight the importance of intimacy in driving commitment within camming relationships, suggesting that emotional connections play a vital role in sustaining these interactions beyond financial exchanges and relationship satisfaction.",
+  "raw_path": "01_raw/europepmc_xml/PMC13427922.xml",
+  "text_path": "02_text/europepmc/PMC13427922.txt",
+  "raw_bytes": 148740,
+  "text_chars": 50933,
+  "raw_sha256": "6f9be575fccd1403661b8821da8eae239005ac1f352cef232da108c439e2dc19",
+  "text_sha256": "a1bf2af1b5e2997e663cee056eb085b2db115c200a54ffb13593297eef79f979",
+  "retrieved_at": "2026-10-25T14:00:34.018060+00:00"
+}

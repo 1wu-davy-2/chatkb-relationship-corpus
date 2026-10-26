@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_leftover_women",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "剩女",
+  "requested_title": "剩女",
+  "url": "https://zh.wikipedia.org/wiki/%E5%89%A9%E5%A5%B3",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "gender",
+    "china",
+    "marriage"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/leftover_women.json",
+  "text_path": "02_text/zh_wikipedia/leftover_women.txt",
+  "raw_bytes": 10045,
+  "text_chars": 3637,
+  "text_sha256": "82281c21fd1015bb17982e746fdb86e00c6700d97b0ef03c7a58478612a57387",
+  "retrieved_at": "2026-10-25T15:41:03.006951+00:00"
+}

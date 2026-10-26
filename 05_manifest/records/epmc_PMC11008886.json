@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11008886",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Characteristics of men who have casual sex with men among Chinese university students: A cross-sectional study.",
+  "authors": "Chen W, Ma Q, Pan X, Chen L, Wang H, Zhou X, Jiang T, Chen W.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0301817",
+  "pmcid": "PMC11008886",
+  "url": "https://europepmc.org/article/PMC/PMC11008886",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11008886/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "Objectives The characteristics of men who have sex with men (either exclusively or with both men and women; MSM) who engaged in casual sex among Chinese male university students have not been compared with the characteristics of men who have sex with only women (MSW). This information is important for tailoring targeted behavioral interventions to prevent human immunodeficiency virus (HIV)/sexually transmitted infection (STI) transmission in this subgroup of MSM. Methods Data were derived from a large cross-sectional electronic questionnaire survey conducted at 13 universities in Zhejiang Province, China, in 2018. Bivariate analyses were used to compare demographic, HIV-related psychosocial, and behavioral characteristics between MSM and MSW students who engaged in casual sex during the previous year. Proportion differences between the two groups and their 95% confidence intervals were analyzed. Results Among the 583 sexually active male students who engaged in casual sex during the previous year, 128 and 455 were MSM and MSW, respectively. Compared with MSW students, larger proportions of MSM students reported knowing that male-to-male sexual behavior was the main mode of HIV transmission among Chinese students (62.5% vs. 45.5%), consenting to commercial sex (67.2% vs. 53.4%), wanting to know the HIV serostatus of partners before casual sex (65.8% vs. 51.3%), feeling at risk of HIV infection (40.5% vs. 11.8%), high condom-decision scale scores (55.3% vs. 42.6%), engaging in sex with ≥ 5 casual sex partners (44.6% vs. 25.9%), searching for casual partners online (89.2% vs. 51.3%), consuming alcohol before casual sex (64.8% vs. 45.0%), engaging in sex with regular partners (83.1% vs. 67.0%), engaging in commercial sex (54.2% vs. 26.4%), and visiting a clinic for voluntary counselling and testing (VCT) (16.4% vs. 8.4%). However, compared with MSW students, smaller proportions of MSM students reported knowing that consistent condom use could prevent HIV transmission (80.5% vs. 95.2%) and that VCT should be actively sought after risky sexual behavior (78.9% vs. 93.8%), using condoms sometimes/often (26.4% vs. 44.3%), and consistently using condoms (28.9% vs. 40.1%) while engaging in sex with casual partners. Conclusions MSM students who engaged in casual sex were at a greater risk of HIV/STI transmission, compared with MSW students. Comprehensive interventions to address the risks of unprotected male-to-male sex, searching for casual sex partners online, and non-use of HIV testing services are needed to reduce the burden of HIV/STI transmission among this subgroup of MSM.",
+  "raw_path": "01_raw/europepmc_xml/PMC11008886.xml",
+  "text_path": "02_text/europepmc/PMC11008886.txt",
+  "raw_bytes": 125338,
+  "text_chars": 34637,
+  "raw_sha256": "464207836f921cf94e9049306682599b5e9e69c910857d600726f7bbdb915954",
+  "text_sha256": "f425e0ca048bf511378cb7fe0cba4f11c643ae5dc11f46029fdc4dcd2a3ca373",
+  "retrieved_at": "2026-10-26T12:57:28.793012+00:00"
+}

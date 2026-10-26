@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8446665",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sex Differences in Attitudes Toward Casual Sex: Using STI Contraction Likelihoods to Assess Evolved Mating Strategies.",
+  "authors": "Pipitone RN, Cruz L, Morales HN, Aladro D, Savitsky SR, Koroleva M, Valdez F, Campbell E, Miranda S.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2021.706149",
+  "pmcid": "PMC8446665",
+  "url": "https://europepmc.org/article/PMC/PMC8446665",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8446665/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "Previous work shows that males are more likely to pursue casual sex if given the opportunity, compared to females, on average. One component of this strategy is risk-taking, and males have been shown to take more risks than females in a variety of contexts. Here, we investigate the extent to which sex differences exist considering casual sexual encounters involving sexually transmitted infections (STIs) using a hypothetical sexual scenario which attempts to circumvent several factors that may contribute to a female's hesitancy to engage in casual sex encounters. Two hundred and forty-six college students rated their willingness to engage in a satisfying casual sexual encounter with someone judged to be personable as a function of sex, varying STI contraction likelihoods, several STI types, and two levels of hypothetical partner attractiveness. We also assess how individual levels of sociosexuality (as measured by the SOI-R) impact findings. Our findings show that males report higher likelihoods of sexual engagement compared to females in general. This trend continued for lower likelihoods of STI contraction in all four STI types (Cold, Chlamydia, Herpes, HIV), with larger effects shown in the high attractiveness partner condition. For higher STI contraction likelihoods and more severe STI types, along with lower partner attractiveness levels, sex differences shrank. Factoring in participant SOI-R scores attenuated the effects somewhat, although it failed to alter findings substantially with predicted sex differences continuing to exist. These results offer further insight into evolved sex differences in human mating systems and provide an additional framework to test sexual risk-taking among males and females.",
+  "raw_path": "01_raw/europepmc_xml/PMC8446665.xml",
+  "text_path": "02_text/europepmc/PMC8446665.txt",
+  "raw_bytes": 111331,
+  "text_chars": 38432,
+  "raw_sha256": "7651e04263bdebeba538551cea069443129df186c85fcc444250c2c6c2967c98",
+  "text_sha256": "4491351bbb31c461b98128ed297a6194f3dc22c5e8c2edd8fa5939d4dd7a579d",
+  "retrieved_at": "2026-10-26T13:13:17.660205+00:00"
+}

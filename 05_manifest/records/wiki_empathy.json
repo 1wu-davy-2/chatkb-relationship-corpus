@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_empathy",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "同理心",
+  "requested_title": "共情",
+  "url": "https://zh.wikipedia.org/wiki/%E5%90%8C%E7%90%86%E5%BF%83",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "empathy",
+    "communication"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/empathy.json",
+  "text_path": "02_text/zh_wikipedia/empathy.txt",
+  "raw_bytes": 30004,
+  "text_chars": 11342,
+  "text_sha256": "ee365ee83586935d7cf9b44df0fd24ee019be3bb460de07b6f252755c6c72946",
+  "retrieved_at": "2026-10-25T15:30:35.068519+00:00"
+}

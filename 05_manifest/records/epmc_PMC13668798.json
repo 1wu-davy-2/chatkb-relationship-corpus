@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13668798",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "When self-compassion matters: romantic relationship quality and infidelity proneness",
+  "authors": "Özdemir H, Kuzgun T.",
+  "year": "",
+  "journal": "",
+  "doi": "",
+  "pmcid": "PMC13668798",
+  "url": "https://europepmc.org/article/PMC/PMC13668798",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13668798/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "",
+  "raw_path": "01_raw/europepmc_xml/PMC13668798.xml",
+  "text_path": "02_text/europepmc/PMC13668798.txt",
+  "raw_bytes": 92000,
+  "text_chars": 45626,
+  "raw_sha256": "39bb191773227891a4d9f8c613f4ce1b7edba562ebfe70114d76d958fb7f5cbc",
+  "text_sha256": "4ba338014b6bb626cd7ff773e9874ff5cc8c398e2ed1930787a1aba15bdbebe8",
+  "retrieved_at": "2026-10-25T15:27:02.444484+00:00"
+}

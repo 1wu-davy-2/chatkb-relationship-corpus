@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12454402",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationships and mediating mechanisms between university teachers' marital relationship, work values, and social support on job satisfaction.",
+  "authors": "Feng L, Zhang X, Zhong H, Zhang W.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2025.1665141",
+  "pmcid": "PMC12454402",
+  "url": "https://europepmc.org/article/PMC/PMC12454402",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12454402/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Job satisfaction is a critical factor that can be used to estimate the quality of university teachers' work, and it affects teachers' career development as well as the students' mental health. In this study, we surveyed 456 university teachers by using demographic characteristics information questionnaire, marital relationship questionnaire, positive and negative affect schedule, work values inventory, work performance questionnaire, social support rating scale, and teacher job satisfaction questionnaire. We investigated the factors including marital relationship, work values, and social support affecting university teachers' job satisfaction and explored strategies for its improvement. The results revealed that university teachers' job satisfaction was relatively high, and male teachers received significantly higher scores in the working environment as well as development and promotion dimensions than females. Marital relationship was directly and positively associated with job satisfaction and indirectly correlated with it through positive affect experienced in the marriage; work values were directly and positively associated with job satisfaction and indirectly correlated with it through work performance; objective support and utilization of support were directly and positively associated with job satisfaction and indirectly correlated with it through subjective support. Therefore, satisfactory marital relationship, positive work values orientation, more objective social support, and better utilization of support were crucial factors influencing university teachers' job satisfaction. Moreover, positive affect experienced in the marriage, work performance, and subjective support were also critical. This study identifies areas for change which may improve university teachers' job satisfaction.",
+  "raw_path": "01_raw/europepmc_xml/PMC12454402.xml",
+  "text_path": "02_text/europepmc/PMC12454402.txt",
+  "raw_bytes": 149347,
+  "text_chars": 47262,
+  "raw_sha256": "c5f2ff9e9d163eeade3ead13b6e5ec9924ef17e47526ce225fb8238a7e554497",
+  "text_sha256": "d97aee4a9ea57afdeaca4af72672737ba37cd43314c4c77c48ff25c13d928524",
+  "retrieved_at": "2026-10-25T15:34:23.898032+00:00"
+}

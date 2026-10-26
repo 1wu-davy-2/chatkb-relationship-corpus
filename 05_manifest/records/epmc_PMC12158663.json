@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12158663",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Female Sexual Dysfunction and Associated Factors Among Married Women in Bahir Dar, Northwest Ethiopia: A Cross-Sectional Study.",
+  "authors": "Haile H, Nigatu D, Yadita ZS.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1002/hsr2.70894",
+  "pmcid": "PMC12158663",
+  "url": "https://europepmc.org/article/PMC/PMC12158663",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12158663/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_function_dysfunction"
+  ],
+  "abstract": "Background and aims Sexual Dysfunction is a hidden factor for countless divorces, which affects 38% of women globally. However, the issue has received less attention and remains under research. Understanding the magnitude and factors associated with Female Sexual Dysfunction is relevant to promoting female sexual and overall health through designing appropriate programs. Hence, this study has assessed the prevalence and factors of Female Sexual Dysfunction among married women of reproductive age. Methods A community-based cross-sectional study was conducted on 583 married women from February 2023 to March 2023, in Bahir Dar, Northwest Ethiopia. A multi-stage random sampling was employed. Sexual Dysfunction was measured by the Female Sexual Function Index tool and defined as a score below 23. Data was collected using a structured questionnaire by Kobo Collect software. The data analysis was done using SPSS version 25. Multivariable logistic regression models were used to identify factors. A p value below 0.05 was considered statistically significant. Results The prevalence of Sexual Dysfunction was 51.8% (95% CI: 47.80-55.70). The women's age 30-39 (AOR: 1.89, 95% CI: 1.01-3.53), Pregnancy (AOR: 3.29, 95% CI: 1.18-9.14), Depression (AOR: 2.88, 95% CI: 1.62-5.11), Fifty and above age of partner (AOR: 4.91, 95% CI: 1.48-16.28), Circumcised women (AOR 2.28, 95% CI: 1.13-4.59), and Partner's substance use (AOR:7.62, 95% CI: 4.98-11.67) were significantly associated factors for sexual dysfunction. Conclusion Female sexual dysfunction is a significant public health problem that has affected more than half of the studied women. Age, Pregnancy, Depression, Circumcision, and partner substance use were factors for female sexual dysfunction. Hence, education and counseling on substance use, circumcision, age, and pregnancy should be emphasized. Early diagnosis and treatment of depression should be encouraged.",
+  "raw_path": "01_raw/europepmc_xml/PMC12158663.xml",
+  "text_path": "02_text/europepmc/PMC12158663.txt",
+  "raw_bytes": 126440,
+  "text_chars": 30922,
+  "raw_sha256": "b5fd337a0086fdc0974d9dc7573902f17e3278848f2ce6966c29c2d4867a2ec6",
+  "text_sha256": "c015706cc325d8ba7fc88dc6436ede135491d5f0a0cf543119636db039944eb2",
+  "retrieved_at": "2026-10-26T13:06:02.479469+00:00"
+}

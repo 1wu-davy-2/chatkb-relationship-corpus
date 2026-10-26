@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_self_disclosure",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "自我揭露",
+  "requested_title": "自我揭露",
+  "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E6%88%91%E6%8F%AD%E9%9C%B2",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "communication",
+    "intimacy"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/self_disclosure.json",
+  "text_path": "02_text/zh_wikipedia/self_disclosure.txt",
+  "raw_bytes": 1839,
+  "text_chars": 727,
+  "text_sha256": "91d162531d1068b5e387d1287cc8e1c3ab54ddc62b284171b56da7f97fbc62a3",
+  "retrieved_at": "2026-10-25T15:31:10.906345+00:00"
+}

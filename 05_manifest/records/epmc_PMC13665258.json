@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13665258",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dimensions of Loneliness Among Older Adults in Osijek-Baranja County: Associations with Sociodemographic, Family, and Social Characteristics.",
+  "authors": "Krpan Feher M, Farčić N, Mamić M, Barać I, Barišić M, Mudri Ž.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/healthcare14193165",
+  "pmcid": "PMC13665258",
+  "url": "https://europepmc.org/article/PMC/PMC13665258",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13665258/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "Background/Objectives : Loneliness among older adults is a public health concern associated with adverse health and well-being outcomes, yet evidence from eastern Croatia remains limited. This study examined social loneliness, family loneliness, and loneliness in romantic relationships among adults aged ≥65 years and their associations with sociodemographic, family, and social characteristics. Methods : This cross-sectional study included 431 community-dwelling older adults in Osijek-Baranja County from January to April 2025. Loneliness was assessed using the Croatian adaptation of the Social and Emotional Loneliness Scale. Group differences and correlations were examined using nonparametric methods, followed by separate multiple linear regression models with HC3 robust standard errors. Results : Median scores were 38 (29-47) for social loneliness, 20 (14-29) for family loneliness, and 41 (27-50) for loneliness in romantic relationships. Poorer perceived family-contact quality was associated with higher social and family loneliness in the adjusted models. Compared with good-quality contact, poor-quality contact was associated with social- and family-loneliness scores that were 19.66 and 25.52 points higher, respectively (both p p p = 0.002) and loneliness in romantic relationships (ρ = 0.194; p Conclusions : Perceived family-contact quality and marital status were associated with distinct loneliness dimensions. Assessments should consider older adults' experience of close relationships alongside contact frequency and structural indicators.",
+  "raw_path": "01_raw/europepmc_xml/PMC13665258.xml",
+  "text_path": "02_text/europepmc/PMC13665258.txt",
+  "raw_bytes": 166304,
+  "text_chars": 56916,
+  "raw_sha256": "c9aa5a57e241984ee5f170a3d96de379b28b787f1f4729c62b08351eb3c38537",
+  "text_sha256": "e978e9bcf6ffc4e9bcbd2a3d176e8e73e508cec63ecd6d917b32036fd1b1d03f",
+  "retrieved_at": "2026-10-25T13:47:33.895156+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_bystander_effect",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "旁观者效应",
+  "requested_title": "旁觀者效應",
+  "url": "https://zh.wikipedia.org/wiki/%E6%97%81%E8%A7%82%E8%80%85%E6%95%88%E5%BA%94",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 旁观者效应",
+  "topics": [
+    "psychology",
+    "safety"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/bystander_effect.json",
+  "text_path": "02_text/zh_wikipedia/bystander_effect.txt",
+  "raw_bytes": 3156,
+  "text_chars": 2080,
+  "text_sha256": "74d0a358abe44e804c0f8c8fdc4f1b4835768f90b7f8ea8dd9a699147fe7e91d",
+  "retrieved_at": "2026-10-25T16:22:12.258517+00:00"
+}

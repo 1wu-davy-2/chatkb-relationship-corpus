@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12582876",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Forgiveness in Romantic Relationships: The Moderating Role of Differentiation of Self in the Relationship Between Offense Severity and Post-Offense Distress.",
+  "authors": "Kasprzak A, Martínez-Díaz MP, Giráldez CAM.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/famp.70082",
+  "pmcid": "PMC12582876",
+  "url": "https://europepmc.org/article/PMC/PMC12582876",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12582876/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "This study examines the role of differentiation of self (DoS) in the forgiveness process within romantic relationships, focusing on its moderating function between perceived offense severity and post-offense distress. The sample included 591 Spanish participants aged between 18 and 86 years (M = 42.66, SD = 17.06), and data were collected using validated questionnaires. Findings showed that DoS significantly moderates the relationship between offense severity and negative affect, negative cognition, and avoidance/resentment, but not with the positive dimensions of forgiveness (positive affect, benevolence, or positive behavior). Individuals with low levels of DoS experienced higher emotional distress after an offense, whereas those with high levels showed greater emotional regulation and a more realistic perception of the severity of the situation. These results highlight the importance of DoS as a regulatory resource for managing negative emotional responses but not necessarily as a promoter of prosocial attitudes or reconciliation. Results suggest that strengthening DoS in couples may help reduce the emotional burden of interpersonal transgressions. Future research could contribute longitudinal designs and dyadic analyses to capture the dynamic nature of forgiveness in romantic relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC12582876.xml",
+  "text_path": "02_text/europepmc/PMC12582876.txt",
+  "raw_bytes": 149158,
+  "text_chars": 34901,
+  "raw_sha256": "8efe45abcdcbeb1b4bedb12616fe74b77e123726c24f468a58441f62b8b7e12d",
+  "text_sha256": "59d55457228a82367aaa23a80f91abcd91ebe65dfef1b00e2e863196741752c3",
+  "retrieved_at": "2026-10-25T13:52:03.225946+00:00"
+}

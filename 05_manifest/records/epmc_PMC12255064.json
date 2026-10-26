@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12255064",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychometric properties and validity of the Tamil version of the dyadic adjustment scale for married couples.",
+  "authors": "Kanth DB, Indumathy J.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40359-025-02799-6",
+  "pmcid": "PMC12255064",
+  "url": "https://europepmc.org/article/PMC/PMC12255064",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12255064/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Given the wide gap in cultural values and practices between Indian and Western cultural contexts, there is a need for culturally validated measurement instruments in couple and family relationships for use in India. To that end, the current study aimed to translate the Dyadic Adjustment Scale (DAS) into Tamil and examine its psychometric properties and validity in a sample of married couples from India. Using standard dyadic design-data were collected from both husbands and wives-this study involved 340 married heterosexual couples (N = 680) in India. The confirmatory factor analysis results indicated that both the first- and second-order, four-factor structures with 21 items of the Tamil version of the DAS (DAS-T) fit the data well. Additionally, the multigroup analysis indicated that the factor structure, item loadings, item means, and residual variances were invariant across the dyad (husbands and wives), type of marriage (love and arranged), and type of family (nuclear and joint). The DAS-T also showed satisfactory convergent and divergent validity with other constructs, such as dyadic coping, communication patterns, and relationship satisfaction. In addition to research on marital adjustment in Indian context, the DAS-T can be used in counseling settings involving marital and romantic relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC12255064.xml",
+  "text_path": "02_text/europepmc/PMC12255064.txt",
+  "raw_bytes": 168166,
+  "text_chars": 39890,
+  "raw_sha256": "3d68d7788e695df845a7fd02afa99a80a3f9fe7b8813178af1f0061a1c2ff632",
+  "text_sha256": "9c64acf755fcba5920c1826efaf6c9a118c9a1f3fe9c003e88c71cbf153d0893",
+  "retrieved_at": "2026-10-25T15:40:16.757719+00:00"
+}

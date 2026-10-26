@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_leo_constellation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "狮子座",
+  "requested_title": "狮子座",
+  "url": "https://zh.wikipedia.org/wiki/%E7%8B%AE%E5%AD%90%E5%BA%A7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 狮子座",
+  "topics": [
+    "zodiac",
+    "astronomy"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/leo_constellation.json",
+  "text_path": "02_text/zh_wikipedia/leo_constellation.txt",
+  "raw_bytes": 9194,
+  "text_chars": 3694,
+  "text_sha256": "ce643003dd9a8da876bbfd4b002cc3631b612afafe6b429067704e9fce090e35",
+  "retrieved_at": "2026-10-26T13:05:01.896934+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10743908",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship between anxiety caused by coronavirus disease and marital satisfaction mediated by empathy and conflict resolution styles in married women.",
+  "authors": "Sokhanvar S, Shirinzadeh-Feizabadi A, Raeiyat-Doost F, Seyyedmoharrami I, Ghodrati-Torbati A.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.4103/jehp.jehp_846_22",
+  "pmcid": "PMC10743908",
+  "url": "https://europepmc.org/article/PMC/PMC10743908",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10743908/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Background Crises such as the coronavirus outbreak is associated with a lot of fear and anxiety. This study aimed to investigate the relationship between anxiety caused by coronavirus disease (COVID) and marital satisfaction mediated by empathy and conflict resolution styles in married women. Materials and methods This descriptive-analytical study was carried out on 326 married women referring to a marriage counseling center in Tehran. Data were collected using the questionnaires of marital satisfaction, marital empathy, conflict resolution styles, and the coronavirus disease anxiety scale (CDAS). Data analysis was performed by Pearson correlation coefficient and structural equation modeling (SEM). Results The psychological symptoms of coronavirus disease anxiety (CDA) had a positive and significant effect on empathy and conflict resolution styles ( P P P 2 = 0.42. Conclusion Psychological symptoms of CDA increased marital satisfaction by affecting problem-solving styles and marital empathy. Therefore, empathy skills and conflict resolution styles can be used to reduce coronary anxiety and increase satisfaction levels.",
+  "raw_path": "01_raw/europepmc_xml/PMC10743908.xml",
+  "text_path": "02_text/europepmc/PMC10743908.txt",
+  "raw_bytes": 73834,
+  "text_chars": 21576,
+  "raw_sha256": "fa93d4c2afbe0513bac40e82e30bfcf24286dcde1f143980c77877e5e3e8d165",
+  "text_sha256": "570d29091db035a06feff674d040a5da1cf5a945b24d3386aac8987ffaaa6044",
+  "retrieved_at": "2026-10-25T15:38:29.123748+00:00"
+}

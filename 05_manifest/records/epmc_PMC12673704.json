@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12673704",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring sexual myths and influencing factors among Muslim men in Turkey: a cross-sectional analysis.",
+  "authors": "Yıldız Karaahmet A, Bilgiç FŞ, Shafaati Laleh S.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s12610-025-00296-9",
+  "pmcid": "PMC12673704",
+  "url": "https://europepmc.org/article/PMC/PMC12673704",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12673704/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gender_roles"
+  ],
+  "abstract": "BACKGROUND: This study investigates the relationship between belief in sexual myths and socio-demographic variables, family planning behaviors, and sexual value judgments among Muslim men in Turkey. The objective is to understand how traditional and religiously rooted myths shape male sexual perceptions and behaviors within a culturally sensitive context. RESULTS: The study involved 953 Muslim men from various regions of Turkey, utilizing an anonymous online survey that included the validated Sexual Myths Scale (SMS) and researcher-developed inventories assessing family planning behaviors and sexual values. The findings revealed that men with lower levels of education (mean SMS score of 75.23) and those living in extended families or rural areas exhibited significantly stronger beliefs in sexual myths (p < 0.05). Additionally, high levels of myth endorsement (mean SMS score of 71.01 among non-users of family planning methods) were associated with negative attitudes towards premarital sex and a strong emphasis on female virginity prior to marriage, which are core principles rooted in Islamic religious teachings. However, the disapproval of sexual activity post-menopause and rigid gender role beliefs may reflect broader societal or myth-based beliefs rather than being directly derived from religious doctrine. Regression analysis revealed that sexual value judgments were significantly associated with belief in sexual myths (β = − 0.18, p < 0.001). Given that higher scores on the sexual prejudice scale reflect less prejudiced, more positive sexual values, this negative coefficient indicates that more negative or prejudiced sexual value judgments (i.e., lower scores) are associated with stronger endorsement of sexual myths. CONCLUSIONS: The results underscore the influence of educational attainment, family structure, and sociocultural environment on men’s beliefs in sexual myths. These findings emphasize the necessity for culturally sensitive and male-oriented sexual education initiatives aimed at addressing misinformation and challenging traditional prejudices. Targeted interventions are crucial for fostering healthier, more informed sexual attitudes in traditionally structured societies like Turkey.",
+  "raw_path": "01_raw/europepmc_xml/PMC12673704.xml",
+  "text_path": "02_text/europepmc/PMC12673704.txt",
+  "raw_bytes": 97092,
+  "text_chars": 33195,
+  "raw_sha256": "5f82ffa5b91ade73b02830441b21fe396c8351819892af7e27baa42beaaf085e",
+  "text_sha256": "b1fd76b0b9c52db44922e3f98300a044bd01f18cd7069849e140a263156dd2e8",
+  "retrieved_at": "2026-10-25T13:57:34.413662+00:00"
+}

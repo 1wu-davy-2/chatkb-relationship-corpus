@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11503123",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dating apps as health allies? Examining the opportunities and challenges of dating apps as partners in public health.",
+  "authors": "Garcia-Iglesias J, Heaphy B, Mowlabocus S, Yodovich N, Nagington M, Patton K, Atherton S, Ford A.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1136/medhum-2024-012901",
+  "pmcid": "PMC11503123",
+  "url": "https://europepmc.org/article/PMC/PMC11503123",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11503123/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "In recent years, dating apps have become important allies in public health. In this paper, we explore the implications of partnering with dating apps for health promotion. We consider the opportunities and challenges inherent in these collaborations, paying special attention to privacy, trust, and user care in a digital environment.Despite their potential as targeted health promotion tools, dating apps raise significant ethical concerns, including the commodification of user data and privacy breaches, which highlight the complexities of blending healthcare initiatives with for-profit digital platforms. Furthermore, the paper delves into issues of discrimination, harassment and unequal access within these apps, factors which can undermine public health efforts.We develop a nuanced framework, emphasising the development of transparent data policies, the decoupling of content moderation from health initiatives and a commitment to combat discrimination. We underscore the importance of embedding app-based health initiatives within broader care pathways, ensuring comprehensive support beyond the digital domain. This essay offers vital insights for public health practitioners, app developers and policymakers navigating the intersection of digital innovation and healthcare.",
+  "raw_path": "01_raw/europepmc_xml/PMC11503123.xml",
+  "text_path": "02_text/europepmc/PMC11503123.txt",
+  "raw_bytes": 57487,
+  "text_chars": 20411,
+  "raw_sha256": "2ab4b94d4b16979b6f3246529e824406530a0c998fc0b6a80fee154cb9102554",
+  "text_sha256": "fcb39a3668b96bff865db0337790cb9573e48a2d3b35ffb0de79cccc9b53a270",
+  "retrieved_at": "2026-10-25T13:55:19.225797+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11363001",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Does bride price harm women? Using ethnography to think about causality.",
+  "authors": "Brandl E, Colleran H.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1017/ehs.2024.21",
+  "pmcid": "PMC11363001",
+  "url": "https://europepmc.org/article/PMC/PMC11363001",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11363001/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "bride_price"
+  ],
+  "abstract": "Many institutions claim that bride price - where the groom's family transfers wealth to the bride's family at marriage - harms women. Owing to its long-term engagement with communities that practise bride price, ethnography is well placed to identify causal mechanisms at play in this issue, and there is a substantial literature on its effects in a variety of world regions, including Melanesia. Here, we condense this literature, drawing out key causal arguments made about bride price in various Melanesian societies. This reveals a complex, multi-causal picture: rather than being singularly harmful, bride price may involve a mixture of drawbacks and benefits, making it a double-edged sword with contested implications. Bride price may constrain women's options before and during the marriage but also serves as a safety net that enhances their status. Its effects are probably influenced by many other variables, including age, kinship networks and residence structures. These dynamics have been transformed by conversion to Christianity, the (post-)colonial state, market integration, urbanisation and formal education, often yielding ambiguous outcomes. Rather than reducing ethnography to a collection of datapoints, we show that it can serve as a source of verbal arguments that can be used to challenge reductive narratives about sensitive issues and to formulate hypotheses for testing with quantitative data.",
+  "raw_path": "01_raw/europepmc_xml/PMC11363001.xml",
+  "text_path": "02_text/europepmc/PMC11363001.txt",
+  "raw_bytes": 187768,
+  "text_chars": 65825,
+  "raw_sha256": "0ebf7cbb03e62a29259d82a258d72d59518cf4ff49d38c07655a1fd911dfcd15",
+  "text_sha256": "6ab0ed224da04eeaafce25a055d234b6cedf0bc912dcb7998aa16d0e82710c4c",
+  "retrieved_at": "2026-10-25T15:27:14.134290+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8549619",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Phenotypic plasticity in courtship exposed to selection in a human-disturbed environment.",
+  "authors": "Candolin U, Jensen I.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1111/eva.13225",
+  "pmcid": "PMC8549619",
+  "url": "https://europepmc.org/article/PMC/PMC8549619",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8549619/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "When environments change rapidly, evolutionary processes may be too slow to rescue populations from decline. Persistence then hinges on plastic adjustments of critical traits to the altered conditions. However, the degree to which species harbour the necessary plasticity and the degree to which the plasticity is exposed to selection in human-disturbed environments are poorly known. We show that a population of the threespine stickleback ( Gasterosteus aculeatus ) harbours variation in plasticity in male courtship behaviour, which is exposed to selection when visibility deteriorates because of enhanced algal growth. Females in clear water show no preference for plastic males, while females in algal-rich, turbid water switch their mate preference towards males with adaptive plasticity. Thus, while the plasticity is not selected for in the original clear water environment, it comes under selection in turbid water. However, much maladaptive plasticity is present in the population, probably because larger turbidity fluctuations have been rare in the past. Thus, the probability that the plasticity will improve the ability of the population to cope with human-induced increases in turbidity-and possibly facilitate genetic adaptation-depends on its prevalence and genetic basis. In conclusion, our results show that rapid human-induced environmental change can expose phenotypic plasticity to selection, but that much of the plasticity can be maladaptive, also when the altered conditions represent extremes of earlier encountered conditions. Thus, whether the plasticity will improve population viability remains questionable.",
+  "raw_path": "01_raw/europepmc_xml/PMC8549619.xml",
+  "text_path": "02_text/europepmc/PMC8549619.txt",
+  "raw_bytes": 141712,
+  "text_chars": 35639,
+  "raw_sha256": "6237d3abcb74ff8e1d4f49b32dec85dad7a1d45f5657a5d2ca46d0ee168a1dc6",
+  "text_sha256": "fdbe70d6cca5942f189e242d97a1b9230a4cc7f1cb02d03ff30307f8ea86f3c1",
+  "retrieved_at": "2026-10-25T15:47:16.372007+00:00"
+}

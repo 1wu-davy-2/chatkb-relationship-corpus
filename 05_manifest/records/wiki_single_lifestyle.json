@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_single_lifestyle",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "單身",
+  "requested_title": "单身",
+  "url": "https://zh.wikipedia.org/wiki/%E5%96%AE%E8%BA%AB",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 單身",
+  "topics": [
+    "lifestyle",
+    "relationship"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/single_lifestyle.json",
+  "text_path": "02_text/zh_wikipedia/single_lifestyle.txt",
+  "raw_bytes": 7238,
+  "text_chars": 2922,
+  "text_sha256": "eb56dd687a3ded0abae3cff72db852a3524b866365ca5d7716a6d15ca82a0ca1",
+  "retrieved_at": "2026-10-25T16:28:17.648573+00:00"
+}

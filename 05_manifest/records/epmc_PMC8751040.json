@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8751040",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Links of Perceived Pornography Realism with Sexual Aggression via Sexual Scripts, Sexual Behavior, and Acceptance of Sexual Coercion: A Study with German University Students.",
+  "authors": "Krahé B, Tomaszewska P, Schuster I.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3390/ijerph19010063",
+  "pmcid": "PMC8751040",
+  "url": "https://europepmc.org/article/PMC/PMC8751040",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8751040/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "Exposure to pornographic material has been linked to sexual aggression perpetration and victimization in a large body of research. Based on social learning theory and 3 A theory of script learning, this study contributes to this research by testing the hypothesis that the more realistic pornography is perceived to be by young adults, the more likely they are to experience and engage in sexual aggression. Two underlying pathways were proposed: one path via scripts and patterns of sexual behavior regarding consensual sexual interactions that contain established risk factors for sexual aggression victimization and perpetration, and a second path via the acceptance of sexual coercion. In a cross-sectional study, 1181 university students in Germany (762 female; 419 male) completed measures of pornography use and perception, risky sexual scripts and sexual behavior, and acceptance of sexual coercion. As predicted, pornography realism was a positive predictor of risky sexual scripts, risky sexual behavior, and acceptance of sexual coercion. Indirect links with sexual aggression victimization and perpetration were found via both pathways. No gender differences in the associations were found. The implications for media literacy interventions addressing the realism of pornography are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC8751040.xml",
+  "text_path": "02_text/europepmc/PMC8751040.txt",
+  "raw_bytes": 142785,
+  "text_chars": 47554,
+  "raw_sha256": "e290a80f3e731dca3e4e8d61df46914d5e164a4fe61d822e31fdb0a3041c8c23",
+  "text_sha256": "d99086b026637637728c04b9424108423c7a8262b95661bd6615004c4caeb56a",
+  "retrieved_at": "2026-10-26T13:10:36.616826+00:00"
+}

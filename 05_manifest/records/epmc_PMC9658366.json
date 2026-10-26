@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC9658366",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Modeling of the Chinese Dating App Use Motivation Scale According to Item Response Theory and Classical Test Theory.",
+  "authors": "Ren F, Wang K.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3390/ijerph192113838",
+  "pmcid": "PMC9658366",
+  "url": "https://europepmc.org/article/PMC/PMC9658366",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9658366/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex",
+    "online_dating"
+  ],
+  "abstract": "Dating apps are popular worldwide among young adults, and the Tinder use motivation scale is widely used to measure the primary motives for dating app use. In light of the increasing prevalence of dating apps among young Chinese adults, this study applied both item response theory and traditional classical test theory to examine the psychometric properties of the Chinese version of the dating app use motivation scale that is applicable across different dating apps. In total, 1046 current or former dating app users (age range: 18-30, M = 26.20, SD = 4.26, 52.30% girls) completed the online survey. From the original item pool, this study selected 25 items according to item response theory analysis, retracted six factors based on exploratory factor analysis (EFA), and conducted confirmatory factor analysis for further validation. The motivations were seeking a relationship, self-worth validation, the thrill of excitement, ease of communication, emotion-focused coping, and fun. The first four motivations were consistent with the original scale, and two new motivations were found in the present sample. All six motivations were validated among the Chinese sample. Not consistent with the Tinder use motivation scale, casual sex was not identified as a primary motivation among young Chinese adults. One related measure was used to obtain convergent validity. The discussion focused on the cultural and methodological factors that may explain the differences between the original scale and the Chinese version of the scale.",
+  "raw_path": "01_raw/europepmc_xml/PMC9658366.xml",
+  "text_path": "02_text/europepmc/PMC9658366.txt",
+  "raw_bytes": 144564,
+  "text_chars": 38467,
+  "raw_sha256": "1707cd28078fdd7ebbceb4415dfdc07996c7c4c16fa03f86bc20f0e546856370",
+  "text_sha256": "b6960e517ed067c9f5236bc641d15ebee489a21d9dddc47a5b1ff12cdbd14d59",
+  "retrieved_at": "2026-10-25T15:49:11.860704+00:00"
+}

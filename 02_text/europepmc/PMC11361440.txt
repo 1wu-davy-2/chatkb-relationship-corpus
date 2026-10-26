@@ -1,0 +1,140 @@
+TITLE: Unveiling Shadows: Investigating women's experience of intimate partner violence in Ghana through the lens of the 2022 Demographic and Health Survey.
+AUTHORS: Dickson KS, Ayebeng C, Okyere J.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1371/journal.pone.0309564
+PMCID: PMC11361440
+LICENSE: cc by
+LICENSE_URL: https://creativecommons.org/licenses/by/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC11361440
+TOPICS: infidelity_sex
+
+---
+
+ABSTRACT
+AbstractIntroductionIntimate partner violence (IPV) is a significant public health issue, predominantly among women in sub-Saharan Africa, including Ghana. Existing evidence indicates high rates of IPV perpetration and its associated adverse health outcomes. Despite previous studies, reliance on old data underscores the need for current, nationally representative data to inform policy-making and interventions. Therefore, this study utilizes the 2022 Ghana Demographic and Health Survey (GDHS) to examine IPV experiences and associated factors, aiming to provide updated insights for effective IPV mitigation strategies in Ghana.MethodsThis is a cross-sectional study of a weighted sample of 3,741 women between the ages of 15–49 years old from the 2022 GDHS. Binary logistic regression analysis was used in predicting the outcome.ResultsThe study found that 36.4 percent of women in Ghana had experienced some form of IPV, primarily emotional violence (31.5%), physical violence (17.3%), and sexual violence (7.6%). Women with higher levels of education had a significantly reduced risk of 60% of experiencing some form of IPV than those with no formal education. Partner domineering behaviours, such as women whose partners often get jealous for seeing them talk with other men [adjusted OR:1.76, 95%CI:1.25,2.48], accusing them of unfaithfulness [adjusted OR:2.59, 95%CI:1.03,2.46], not permitting them to meet female friends [adjusted OR:1.1.59, 95%CI:1.03,2.46], and limiting their contact with family [adjusted OR:5.75, 95%CI:2.27,13.42], were more likely to experience at least one form of IPV. Similarly, women who justified or endorsed wife beating had a higher likelihood [aOR = 1.57, 95%CI = 1.22,2.02] of experiencing at least one form of IPV than those who did not endorse such behaviour.ConclusionIdentifying educational attainment, partner dominance, and violence endorsement as IPV predictors underscore targeted interventions. Promoting women’s education bolsters empowerment and IPV prevention. Addressing dominance through education, counselling, and legal frameworks is crucial for fostering safer relationships and challenging violence normalization.
+
+BODY
+Background
+
+Intimate partner violence (IPV)–that is, any act perpetrated by an intimate partner to cause physical, emotional and sexual harm–is considered a serious public health concern and an infringement on human rights [1]. Globally, 1 in 3 women are victims of IPV [2]. In sub-Saharan Africa (SSA), approximately 33% of women experience IPV at some point in their lifetime [3]. These statistics highlight the urgency for all countries, particularly those located in SSA to work towards the elimination of IPV.
+
+Evidence from Ghana [4] indicates that 28.2 percent of women justify their partners’ perpetuation of IPV. This is worrying given that IPV is known to be associated with adverse physical, social and sexual health outcomes. For instance, women who experience sexual violence are 1.11 times more likely to engage in multiple high-risk fertility behaviours [5]. Furthermore, IPV perpetuation has been linked to higher risk of subsequent violence victimization, psychological distress, and unplanned pregnancies [6, 7]. One integrative review [8] has reported that women who experience IPV are more likely to experience cardiovascular symptoms.
+
+Indeed, there is extant literature on IPV in Ghana. However, most of these studies were either based on the 2014 Ghana Demographic and Health Survey (GDHS) [4, 9, 10] or qualitative research approaches [11, 12]. However, given the significant time lapse between 2014 and 2022, relying solely on the findings of the 2014 GDHS may not accurately capture the current landscape of IPV experienced by women in Ghana. This underscores the critical need for more recent, nationally representative data to assess the prevalence of IPV, its various typologies, and the factors associated with it. Consequently, this study seeks to address this gap by utilizing the 2022 GDHS to examine women’s experiences of IPV in Ghana and explore the factors contributing to it. By doing so, the study aims to provide up-to-date insights that can inform policy-making, intervention strategies, and support services aimed at addressing and mitigating IPV in Ghana.
+
+Methods
+
+Data source
+
+Data source and design
+
+The analysis utilized data from the 2022 Ghana Demographic and Health Survey (GDHS), specifically drawing from the individual recode file (IR). The GDHS is part of a larger initiative spanning 85 low-and-middle-income countries (LMICs) [13]. The primary objective of the 2022 GDHS was to furnish current estimations of fundamental demographic and health indicators. To achieve this goal, a meticulously designed two-staged sampling strategy was implemented, resulting in a stratified representative sample comprising 18,450 households distributed across 618 clusters. This method ensured thorough representation at the national level, encompassing both urban and rural areas, and within each of Ghana’s 16 regions [14].
+
+During the initial stage, 618 target clusters were identified using a probability proportional to size method, considering urban and rural differentiations within each region [14]. Subsequently, an equal probability systematic random sampling approach was employed to choose the requisite number of clusters in both urban and rural settings. Moving to the second stage, subsequent to cluster selection, an exhaustive household listing and map updating process were conducted within all selected clusters, establishing a comprehensive roster of households for each cluster. From each cluster, 30 households were randomly chosen for interviews [14]. For further information on the design of the GDHS, refer to. https://www.dhsprogram.com/Methodology/Survey-Methodology.cfm.
+
+Data collection was performed using structured household and women’s questionnaires administered by trained enumerators. The women’s questionnaire covered various aspects, including birth history, childhood mortality, fertility preferences, child health, maternal health, and domestic violence. The analysis consisted of a weighted sample of 3,741 women between the ages 15–49 years old who were either married or cohabiting and have information on intimate partner violence considered in this study. The use of the dataset did not require ethical clearance since it was obtained from a secondary data source. Nevertheless, permission to use the dataset was obtained from the Measure DHS.
+
+Study variables and measurements
+
+Outcome variable
+
+Intimate partner violence was derived from four outcome variables. These are experienced sexual violence ("yes" or "no."), emotional violence ("yes" or "no."), physical violence ("yes" or "no.") and experienced at least one form of violence ("yes" or "no.").
+
+Explanatory variables
+
+Multiple factors informed by theoretical and empirical literature relating to intimate partner violence [4, 11, 15, 16] were included in the analyses as the explanatory variables. These variables include age (15–19, 20–24, 25–29, 30–34, 35–39, 40–44, 45–49), region of residence (Western, Central, Greater Accra, Volta, Eastern, Ashanti, Western North, Ahafo, Bono, Bono East, Oti, Northern, Savannah, North East, Upper East, Upper West) residence (rural and urban), level of education (no education, basic, secondary and above), wealth index (poorest, poorer, middle, richer, richest), partner domineering variables include husband/partner are jealous if respondent talks with other men (never, often, sometimes, yes, but not in the last 12 months), husband/partner accuses respondent of unfaithfulness (never, often, sometimes, yes, but not in the last 12 months), husband/partner does not permit respondent to meet female friends (never, often, sometimes, yes, but not in the last 12 months), husband/partner tries to limit respondent’s contact with family (never, often, sometimes, yes, but not in the last 12 months), husband/partner insists on knowing where respondent (never, often, sometimes, yes, but not in the last 12 months), and justification of wife beaten (no, yes).
+
+Data analysis
+
+Statistical analysis was performed using Stata version 17. Both descriptive and inferential statistics were conducted. Further, univariate and multivariate analyses were conducted to explore the relationships between the explanatory variables and outcome variable. Logistic regression models were fitted using STATA regression commands to assess adjusted risk factors associated with the study outcomes, with Odds Ratios (OR) and 95% confidence intervals (CI) calculated. To account for any sampling bias from under or over-sampling of respondents in the total population, all descriptive estimates were weighted using the individual weight variable (d005) in the dataset. To consider the complex survey design of the DHS data, the "svyset" command in Stata was employed.
+
+Ethical approval and consent to participate
+
+We did not need to seek ethical clearance because the DHS dataset we used is publicly available. We obtained the datasets from the DHS Program after completing the necessary registration and getting approval for their use. We followed all the ethical guidelines that pertain to using secondary datasets in research publications. You can find detailed information about how we used the DHS data and the ethical standards we followed at this link: http://goo.gl/ny8T6X.
+
+Results
+
+Prevalence of intimate partner violence
+
+Fig 1 shows the prevalence of IPV among women in Ghana. It shows that 36.4 percent of women had experienced at least one form of IPV, with emotional IPV being the most prevalent (31.5%) followed by physical (17.3%) and sexual IPV (7.6%).
+
+Prevalence of intimate partner violence.
+
+Background characteristics and experienced intimate partner violence
+
+Table 1 illustrates that IPV prevalence varies significantly across different demographic and behavioural characteristics. Regarding region of residence, women residing in the Savannah region show the highest IPV proportions of 15.3% sexual IPV, 46.1% emotional IPV, 27.0% physical IPV, and 56.7% experiencing at least one form of IPV. Conversely, the Bono region has the lowest proportions, with 2.0% sexual IPV, 21.7% emotional IPV, 13.4% physical IPV, and 25.3% facing any form of IPV.
+
+Background characteristics and intimate partner violence.
+
+Education level also plays a role, with women lacking formal education exhibiting the highest proportions of 8.4% sexual IPV, 35.1% emotional IPV, 23.5% physical IPV, and 41.7% experiencing at least one of the forms of IPV. However, those with higher education levels report the lowest proportions of 4.1% sexual IPV, 15.5% emotional IPV, 4.7% physical IPV, and 19.2% facing any form of IPV.
+
+Marital status is another significant factor, with women in cohabiting relationships showing the highest proportions, with 10.9% reporting sexual IPV, 37.6% emotional IPV, 20.9% physical IPV, and 42.1% experiencing at least one form of IPV. Contrariwise, married individuals report the lowest proportions of 6.4% sexual IPV, 29.2% emotional IPV, 15.9% physical IPV, and 34.2% facing at least one form of IPV.
+
+Furthermore, women whose partners exhibit domineering behaviour significantly show a higher prevalence of IPV. For instance, women who were often accused of unfaithfulness exhibit the highest proportions of IPV, with 27.0% sexual IPV, 70.7% emotional IPV, 45.9% physical IPV, and 73.2% facing any form of IPV compared to their counterparts who have never experienced these domineering attitudes from their partners.
+
+Binary logistic regression analysis of the experience of intimate partner violence
+
+Table 2 shows the binary logistic regression results of the factors associated with different forms of IPV. The results show that region of residence, level of education, partner domineering behaviour, and justification of violence were significantly associated with the experience of IPV. Women who were residing in the Northeast [aOR = 0.35, 95%CI = 0.17,0.71], Bono [aOR = 0.36, 95%CI = 0.19,0.65], Upper West [aOR = 0.33, 95%CI = 0.19,0.56], and Western North [aOR = 0.35, 95%CI = 0.17,0.71] regions had lower odds experiencing any form of IPV compared to their counterparts in the Western region.
+
+Binary logistic regression and experienced of intimate partner violence.
+
+***p<0.001,
+
+**p<0.01,
+
+*p<0.05
+
+Ref = Reference category
+
+A0R = Adjusted Odds Ratio, CI = Confidence interval
+
+The results demonstrate that increasing levels of women’s education have a protective effect on their likelihood of experiencing the three forms of IPV considered in this study. For instance, women with higher levels of education had a reduced risk of 60% of experiencing at least one form of IPV than those with no formal education.
+
+However, women whose partners exhibit domineering behaviours were at a higher risk of experiencing IPV. Thus, women whose partners often get jealous for seeing them talk with other men, accusing them of unfaithfulness, not permitting them to meet female friends, and limiting their contact with family were 1.76, 2.59, 1.59, and 5.75 times, respectively, more likely to experience at least one form of IPV. Similarly, women who justified or endorsed wife beating were more had a higher likelihood [aOR = 1.57, 95%CI = 1.22,2.02] of experiencing at least one form of IPV than those who did not endorse such behaviour.
+
+Discussion
+
+This study aims to provide current insight into women’s experience of IPV in Ghana. Consistent with the global [1] and regional [2] estimates, we found that 36.4 percent of women had ever experienced one form of IPV. Additionally, our result aligns with previous studies from Pakistan [17] and Kenya [18] that have found emotional violence to be the most common IPV type experienced. The observed pattern of the IPV typologies is expected. Sexual violence often comes with heightened fear and shame which tends to discourage victims from reporting such acts. This assertion is corroborated by Orchowski et al. [19] who argue that victims of sexual violence do not report due to factors such as “labeling of the experience, age, fear, privacy concerns, self-blame, betrayal/shock, the relation/power of the perpetrator, negative reactions to disclosure, and the belief—or personal experience—that reporting would not result in justice”. As such, the low prevalence of sexual violence reported in this study may not be the true reflection of the situation but rather a reflection of the inability of women to open up about their experiences.
+
+Regarding the associated factors, our study revealed that educational attainment, partner domineering behaviour and justification of violence were the only factors that significantly predicted the women’s likelihood of experiencing at least one form of IPV. Specifically, women with higher educational attainment had a significantly lower likelihood of being victims of IPV. The result aligns with Iqbal and Fatmi [17] who found low educational attainment to be a high risk factor for IPV victimization. Our finding is corroborated by Weitzman [20] study which revealed that increasing women’s schooling significantly reduces their risk of becoming victims of emotional, physical and sexual IPV. This association is best explained from the social causation perspective which postulates that an individual’s socioeconomic status is the cause of their weakened mental health [21]. In the context of IPV, it implies that women with higher levels of education may have better access to resources, social support networks, and coping strategies, which in turn reduce their vulnerability to IPV. Furthermore, education is often linked to higher social status and exposure to progressive attitudes toward gender roles and interpersonal relationships. Women with higher education levels may be less likely to adhere to traditional gender norms that justify or tolerate violence against women. They may have more egalitarian relationships characterized by mutual respect and non-violent conflict resolution strategies.
+
+Our study shows that women whose partners exhibited domineering attitudes (i.e., getting jealous, not permitting women to meet female friends, partner limiting woman’s contact with her family, etc.) were more likely to experience at least one form of IPV. This association resonates with Capaldi et al. [22] who mapped literature and found possessiveness and jealousy on the part of male partners exacerbated the risk of IPV among women. According to Aizpurua et al. [23], partner domineering or controlling behaviours tend to generate fear in women and adversely impact their self-esteem. This diminished self-esteem may impede women from recognizing and addressing subtle forms of violence, which can escalate into more severe instances of IPV. Therefore, the association observed in our study underscores the importance of addressing and intervening in domineering behaviours within intimate relationships to mitigate the risk of IPV and safeguard the well-being of women.
+
+We found that women who justified or endorsed wife beating were at a 57 percent higher risk of becoming victims of at least one form of IPV. Our result is in contrast to a Nepali study [24] that found no significant association between acceptance of wife beating and life-time or past year physical IPV experience among women. A possible explanation for this association could be that women who endorse such attitudes may be more likely to accept and internalize abusive behaviours within their relationships, creating a conducive environment for IPV to occur. There were also significant differences in the risk of IPV by region; thus, underscoring a need for more region-specific tailored interventions to address IPV among women.
+
+Strengths and limitations
+
+We relied on the 2022 GDHS which provides a closer current picture of IPV among women of reproductive age in Ghana. This ensures that our findings reflect the present status quo. Also, the GDHS data collection follows systematic methodologies and a sampling process which ensures that the findings are representative at the district and national levels. Nonetheless, the estimated prevalence of IPV may be underestimated given that the data is self-reported. Also, we are unable to establish a causal association between educational attainment, partner domineering behaviour, and the endorsement of violence as significant predictors of IPV since the GDHS is based on a cross-sectional design.
+
+Conclusion
+
+In conclusion, the study’s identification of educational attainment, partner domineering behaviour, and the endorsement of violence as significant predictors of IPV highlights areas for targeted intervention. Policies aimed at promoting education, particularly for women, not only contribute to their economic empowerment but also serve as a protective factor against IPV. Furthermore, addressing partner domineering behaviour through educational campaigns, counselling services, and legal frameworks can help empower women and create safer relationship dynamics. Efforts to challenge cultural attitudes that normalize or justify violence, such as the endorsement of wife beating, are essential for shifting societal norms and fostering environments where IPV is not tolerated.
+
+Acknowledgments
+
+We acknowledge the Measure DHS for granting us free access to the dataset used in this study.
+
+Abbreviations
+
+Adjusted Odds Ratio
+
+Ghana Demographic and Health Survey
+
+Intimate Partner Violence
+
+Reference Category
+
+Sub-Saharan Africa
+
+World Health Organization
+
+Data Availability
+
+The datasets generated and/or analysed during the current study are available in the Measure DHS repository: http://dhsprogram.com/data/available-datasets.cfm. Third party data was obtained for this study from DHS Program. Data may be requested from DHS Program after creating an account and submitting a concept note. More access information can be found on the DHS Program website (https://dhsprogram.com/data/Access-Instructions.cfm). The authors confirm that interested researchers would be able to access these data in the same manner as the authors. The authors also confirm that they had no special access privileges that others would not have.
+
+Funding Statement
+
+The author(s) received no specific funding for this work.
+
+References

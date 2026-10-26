@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10467007",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Latent Profile Analysis of Intimate Partner Violence Perpetrated by Men Seeking Help.",
+  "authors": "Brassard A, Dugal C, Daspe MÈ, Péloquin K, Savard C, Lafontaine MF, Godbout N.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/08862605231174502",
+  "pmcid": "PMC10467007",
+  "url": "https://europepmc.org/article/PMC/PMC10467007",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10467007/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "Past research has emphasized the need to identify profiles of men who perpetrate intimate partner violence (IPV) as a way to better understand this heterogeneous population and guide the development of tailored services. However, empirical validation for such profiles remains limited, since it still focuses on specific populations or fails to consider IPV as reported by men seeking treatment for IPV. We know little about the profiles of men who seek services for their use of IPV (with or without a justice referral). This study sought to identify profiles of men seeking treatment for IPV, based on their self-reported use of the various forms and severity of IPV perpetrated, and to compare the identified groups on key psychosocial risk markers of IPV. A total of 980 Canadian men entering treatment in community organizations specialized in IPV answered a series of questionnaires. A latent profile analysis identified four profiles: (a) \"no/minor IPV\" ( n = 194), (b) \"severe IPV with sexual coercion\" ( n = 122), (c) \"minor IPV and control\" ( n = 471), and (d) \"severe IPV without sexual coercion\" ( n = 193). Results revealed differences in psychosocial risk markers, including attachment insecurities, childhood interpersonal trauma, undesirable personality traits, affect dysregulation, and psychological distress, mostly between the \"severe IPV without sexual coercion\" profile and the \"no/minor IPV\" and \"minor IPV and control\" profiles. Very few differences were found, however, between the \"severe IPV with sexual coercion\" and \"severe IPV without sexual coercion\" profiles. Implications for awareness, prevention, and treatment efforts for each profile are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC10467007.xml",
+  "text_path": "02_text/europepmc/PMC10467007.txt",
+  "raw_bytes": 131164,
+  "text_chars": 41891,
+  "raw_sha256": "566141167c7bc5788ee2b80ae52d52259b20c5752363105108453cfa42bc12ea",
+  "text_sha256": "465fc62471f8fb8c5eb48630004e56cd6c959953fca23084e659d70a33b8539a",
+  "retrieved_at": "2026-10-26T13:05:59.959760+00:00"
+}

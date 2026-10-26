@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11470124",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "An investigation of the direct and indirect effects of desire for independence and perceived level of achievement on singlehood status.",
+  "authors": "Apostolou M, Kagialis A, Lajunen TJ.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1038/s41598-024-75086-w",
+  "pmcid": "PMC11470124",
+  "url": "https://europepmc.org/article/PMC/PMC11470124",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11470124/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "The present study aimed to examine the associations between the desire for independence, perceived level of achievement, and relationship status. Specifically, we conducted the study with a sample of 667 Greek-speaking participants (389 women, 275 men, and three participants who did not indicate their sex) who were either single or in an intimate relationship. We employed close-ended questionnaires that included instruments developed using AI. We found that men and women who desired more independence were more likely to be voluntarily single than in an intimate relationship. Additionally, a higher desire for independence was associated with more years being single, but this effect was significant only for men. Furthermore, we found that the perceived level of achievement was not significantly associated with relationship status directly; however, higher scores in this dimension were associated with fewer years spent as single for men. Moreover, a higher perceived level of achievement was associated with a decreased probability of being involuntarily single rather than in an intimate relationship and fewer years spent as single indirectly, by being associated with higher self-esteem, which was associated with higher flirting capacity. These paths were significant for both men and women. Our findings suggest that the desire for independence and perceived achievement play an important role in explaining why some people are single and others in an intimate relationship.",
+  "raw_path": "01_raw/europepmc_xml/PMC11470124.xml",
+  "text_path": "02_text/europepmc/PMC11470124.txt",
+  "raw_bytes": 92075,
+  "text_chars": 39749,
+  "raw_sha256": "e9a48bd491eaada3d845c3450c7adcbffa1bc7c6e4f88172e092ea23ab212578",
+  "text_sha256": "ca98e3c31ce41d1729cfbead1c084e41cfb87d8f4cc7661ace33950aaf947fc2",
+  "retrieved_at": "2026-10-25T13:59:49.937325+00:00"
+}

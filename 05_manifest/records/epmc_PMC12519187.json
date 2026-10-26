@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12519187",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "High rates of polygyny do not lock large proportions of men out of the marriage market.",
+  "authors": "Gaddy H, Sear R, Fortunato L.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1073/pnas.2508091122",
+  "pmcid": "PMC12519187",
+  "url": "https://europepmc.org/article/PMC/PMC12519187",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12519187/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "There is a widespread belief, in both the scholarly literature and the popular press, that polygyny prevents large numbers of men from marrying by skewing the sex ratio of the marriage market. In turn, the exclusion of men from marriage is thought to lead to negative outcomes, e.g., by fueling crime and armed conflict. In this paper, we investigate systematically the relationship between polygyny and men's marriage prospects. First, using a demographic model, we show that marriage markets are skewed sufficiently feminine, under a range of realistic demographic scenarios, to sustain some level of polygyny without locking any men out of marriage. Second, through analysis of 84.1 million census records from 30 countries across Africa, Asia, and Oceania between 1969 and 2016, we show that the subnational association between the prevalence of polygyny and the prevalence of unmarried men is negative or null, rather than positive, for almost all countries in the sample. Third, through analysis of the full-count 1880 US federal census, we show that the average prevalence of unmarried men is lower, not higher, across counties of the West with Mormon polygyny, compared to other counties of the West, and to counties of the Midwest and the Northeast; it is higher only compared to counties of the South. Overall, these findings challenge a dominant narrative linking polygyny to negative social outcomes. Drawing on existing evidence, we suggest that the observed patterns may be explained by an underlying association between the prevalence of polygyny and the strength of promarriage norms.",
+  "raw_path": "01_raw/europepmc_xml/PMC12519187.xml",
+  "text_path": "02_text/europepmc/PMC12519187.txt",
+  "raw_bytes": 122206,
+  "text_chars": 39621,
+  "raw_sha256": "48e02b9484a40a0c2f53a28ec849584ef491489c3f8aa84019e4811ac5a2901b",
+  "text_sha256": "c27ea2ecce9989687cf1853cd8c40cdd03e45366dac9ce6740768be8cade256a",
+  "retrieved_at": "2026-10-25T14:01:45.177051+00:00"
+}

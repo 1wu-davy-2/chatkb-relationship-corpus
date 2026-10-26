@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10951228",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring the personality and relationship factors that mediate the connection between differentiation of self and phubbing.",
+  "authors": "Peleg O, Boniel-Nissim M.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1038/s41598-024-55560-1",
+  "pmcid": "PMC10951228",
+  "url": "https://europepmc.org/article/PMC/PMC10951228",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10951228/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "One of the family patterns crucial for mental and physical well-being is differentiation of self. In this study, our aim was to investigate its impact on the phenomenon of phubbing-where individuals prioritize smartphones over in-person interactions. The prevalence of phubbing behavior has risen substantially in tandem with the increased adoption of smartphones. The study investigated familial, interpersonal, and personal factors that could potentially contribute to the escalation of phubbing behaviors. It was hypothesized that differentiation of self would be associated with phubbing through the mediation of fear of missing out, romantic relationship satisfaction, and loneliness in intimate relationships. We also expected gender differences in the study variables. A sample of 431 young adults, with an average age of 29 (M = 29.05, SD = 9.14), completed the DSI-R, Phubbing, FoMO, ENRICH, and LIRS questionnaires online. Results indicated that fear of missing out mediated the relationship between three dimensions of differentiation of self-emotional reactivity, emotional cutoff, and fusion with others-and phubbing behavior. However, the expected mediation by romantic relationship satisfaction and loneliness in intimate relationships did not reach significance, although these variables were found to be associated with differentiation of self. Women reported higher levels of phubbing behavior, emotional reactivity, and fusion with others, whereas men reported higher levels of I-position. We conclude that fear of missing out may serve as a catalyst, triggering anxiety in individuals, which in turn drives them to adopt phubbing as a coping mechanism. Moreover, individuals with lower levels of differentiation of self appear to be at increased risk of engaging in phubbing behaviors through the mediation of fear of missing out.",
+  "raw_path": "01_raw/europepmc_xml/PMC10951228.xml",
+  "text_path": "02_text/europepmc/PMC10951228.txt",
+  "raw_bytes": 146332,
+  "text_chars": 49870,
+  "raw_sha256": "4fb1d696ee2777c7ac7504cee9bd7372433f0e68f33e01288a31e46a896a7c69",
+  "text_sha256": "6030ba249fafd3f1be018544322557aed020358ca391277b15067373eec5f1d5",
+  "retrieved_at": "2026-10-25T15:46:00.329955+00:00"
+}

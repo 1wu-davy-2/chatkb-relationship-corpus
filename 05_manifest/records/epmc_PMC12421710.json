@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12421710",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The (Un)Attractiveness of Dark Triad Personalities: Assessing Fictitious Characters for Short- and Long-Term Relationships.",
+  "authors": "Dragostinov Y, Booth T.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/jopy.12994",
+  "pmcid": "PMC12421710",
+  "url": "https://europepmc.org/article/PMC/PMC12421710",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12421710/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction_physical"
+  ],
+  "abstract": "Objective The current study assessed how individuals evaluate potential romantic partners who display either low, medium, or high levels of DT traits for short-term (STR) and long-term (LTR) relationships. Methods Nine fictitious persons in the form of vignettes (description of behavior and facial image) were presented to every participant. The sex of the fictitious persons was determined by sexual orientation of each participant, while the displayed faces were selected from an existing image bank and matched for physical attractiveness. Study 1 (n = 475) used a fixed composition for face and trait description, while the composition for Study 2 (n = 794) was randomized. Mixed-effects modeling was implemented for both studies. Results Study 1 demonstrated people with a male preference (mostly women) perceived medium levels of the three traits as the most attractive STR. For Study 2, both men and women found the low levels the most attractive for both STRs and LTRs. Conclusions Findings from Study 1 were mostly consistent across previous DT attractiveness literature, while findings from Study 2 contradicted them. This could suggest that the concept of DT is not as attractive even for STRs unless it is accompanied by physical attractiveness.",
+  "raw_path": "01_raw/europepmc_xml/PMC12421710.xml",
+  "text_path": "02_text/europepmc/PMC12421710.txt",
+  "raw_bytes": 170838,
+  "text_chars": 53147,
+  "raw_sha256": "1c81ffb93dca32ca00ac9e310a0bf22164c375797f3ba7b74a37f3a3dc304d90",
+  "text_sha256": "1d639e3e93d026f494bcc40ac083c4ff1080bc775178016f8439c0ac278cbb65",
+  "retrieved_at": "2026-10-25T15:37:42.231168+00:00"
+}

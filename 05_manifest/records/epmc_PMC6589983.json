@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6589983",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Smoking behavior of \"marriage squeezed\" men and its impact on their quality of life: A survey study in China.",
+  "authors": "Yang X, Jing W, Gao C, Attané I.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1177/1557988319859733",
+  "pmcid": "PMC6589983",
+  "url": "https://europepmc.org/article/PMC/PMC6589983",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6589983/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "china_marriage"
+  ],
+  "abstract": "From the 1980s, along with the wide application of the \"one-child policy\" and new technologies for prenatal sex determination, China's population has experienced a growing male population. China will thus face an increasingly serious male \"marriage squeeze,\" possibly resulting in decreased psychological and sexual well-being of involuntary bachelors, which, in turn, may result in decreased quality of life (QoL). This study used data from the Social Survey on Gender Role and Family Life, which was conducted from August 2014 to January 2015 in Shaanxi Province ( N = 1,144; 516 never-married and 628 married rural men). Descriptive analyses, crosstab analyses, and independent sample t -tests were used to compare the scores of three dimensions of QoL (physical and psychological health, and social relationships) and the overall QoL of rural men. Using the linear regression analysis method, this study analyzed involuntary bachelors' smoking behavior and its impact on their QoL. Results indicate that smoking not only fails to alleviate the psychological or sexual problems of involuntary bachelors, it has an independent and negative impact on the physical and psychological health of married and never-married men, which negatively affects their overall QoL. Subjective and objective exposure to marriage squeeze negatively impacts three dimensions of QoL and overall QoL of married and never-married men; however, this influence was moderated by sexual satisfaction. In addition, sexual satisfaction positively affected the three dimensions of QoL and overall QoL of married and never-married men. Since involuntary bachelors may be a high-risk group, further research is warranted.",
+  "raw_path": "01_raw/europepmc_xml/PMC6589983.xml",
+  "text_path": "02_text/europepmc/PMC6589983.txt",
+  "raw_bytes": 139209,
+  "text_chars": 36267,
+  "raw_sha256": "2faeee5f58d95411f3c14d7713c6a8eceb87247a2052f9fbe409d643d5da2a32",
+  "text_sha256": "fb47bcc19b1f59a5d6513c7d6bde366637ec53fe778c84bf1d6f9b7c8660c4e7",
+  "retrieved_at": "2026-10-25T15:34:12.649590+00:00"
+}

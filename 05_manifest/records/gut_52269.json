@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_52269",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "幼學瓊林",
+  "gutenberg_id": "52269",
+  "url": "https://www.gutenberg.org/ebooks/52269",
+  "download_url": "https://www.gutenberg.org/cache/epub/52269/pg52269.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/52269.txt",
+  "text_path": "02_text/gutenberg/gut_52269_幼學瓊林.txt",
+  "raw_bytes": 84369,
+  "text_chars": 22146,
+  "text_sha256": "d71336a1595bd66fe4031598ec799fdb5c28325bded82e45dce9780f8b688c93",
+  "retrieved_at": "2026-10-25T16:04:05.062889+00:00"
+}

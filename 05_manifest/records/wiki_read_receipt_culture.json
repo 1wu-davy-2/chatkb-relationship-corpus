@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_read_receipt_culture",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "已读不回",
+  "requested_title": "已读不回",
+  "url": "https://zh.wikipedia.org/wiki/%E5%B7%B2%E8%AF%BB%E4%B8%8D%E5%9B%9E",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 已读不回",
+  "topics": [
+    "communication",
+    "dating"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/read_receipt_culture.json",
+  "text_path": "02_text/zh_wikipedia/read_receipt_culture.txt",
+  "raw_bytes": 11698,
+  "text_chars": 4513,
+  "text_sha256": "79c5de5fc0bac1e2cfa5a3eb46120415c7006a9579cb822e2851aa38ac79b7d8",
+  "retrieved_at": "2026-10-25T16:08:09.130293+00:00"
+}

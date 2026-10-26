@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12863977",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Intimate Partner Violence among Colombian Population: Exploring Various Types of Abuse.",
+  "authors": "Gómez-Díaz JA, Barón-Birchenall L.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.21500/20112084.7402",
+  "pmcid": "PMC12863977",
+  "url": "https://europepmc.org/article/PMC/PMC12863977",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12863977/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control",
+    "sexual_coercion"
+  ],
+  "abstract": "This study explored patterns of intimate partner violence (IPV) among the Colombian population, focusing on six abuse modalities-physical, psychological, sexual abuse due to devaluation, sexual coercion, and the lesser-studied economic and cyber abuse-along with their degree of mutuality and their associations with sociodemographic and behavioral factors including gender, sexual orientation, relationship status, age, Scholar level, and substance abuse. A cross-sectional correlational design was employed, involving 645 participants (non-probabilistic sample) who completed the Partners Abuse Scale. Compared to their counterparts, men, undergraduate students, alcohol-only consumers, and participants without an intimate partner during the study reported higher levels of physical abuse. Additionally, younger individuals were more likely to experience economic and cyber abuse. A general tendency toward mutual abuse across all types of violence was also observed. Overall, this research highlights IPV as a pressing public health concern and emphasizes the need for comprehensive preventive strategies targeting its various forms.",
+  "raw_path": "01_raw/europepmc_xml/PMC12863977.xml",
+  "text_path": "02_text/europepmc/PMC12863977.txt",
+  "raw_bytes": 106267,
+  "text_chars": 30445,
+  "raw_sha256": "326a9066428b5919a5657fc93393971f79b6da66919ff2e74e10c0c37e251f01",
+  "text_sha256": "cc6bc8f402f9b7b16f149266abf8116bbc559c48f7b5f33236d9190a8663e4c3",
+  "retrieved_at": "2026-10-25T15:46:53.452751+00:00"
+}

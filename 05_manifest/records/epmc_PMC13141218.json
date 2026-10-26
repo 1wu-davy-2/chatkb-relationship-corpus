@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13141218",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Partner support, communication and family planning choices among Nigerian women: a qualitative study.",
+  "authors": "Ayowole DJ, Atobatele IR, Akingbade TP, Alabi GJ, Ayowole PT, Ojo OY.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1136/bmjph-2025-004065",
+  "pmcid": "PMC13141218",
+  "url": "https://europepmc.org/article/PMC/PMC13141218",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13141218/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Introduction Partner involvement plays a critical role in shaping women's contraceptive choices, yet evidence on its influence remains limited in Nigeria, where contraceptive prevalence is low. This study explored how partner support and communication affect women's family planning decisions. Methods A descriptive phenomenological qualitative study was conducted over 6 weeks at the family planning clinic of a tertiary healthcare facility in southwest Nigeria, using in-depth interviews, with data analysed through inductive thematic analysis following Braun and Clarke's six-step framework. Using purposive sampling, 20 women aged 21-42 years were recruited for in-depth interviews. Trustworthiness was ensured through member checking, independent coding and peer debriefing. Results Participants were mostly married (90%) and had secondary or tertiary education; they showed varied awareness of contraceptive methods, with knowledge gaps mainly around side effects. Partner influence ranged from encouragement and financial or emotional support to neutral acceptance, shaping women's autonomy and method choice. Frequent and open spousal communication facilitated shared decision-making, while cultural expectations for large families and health concerns acted as barriers. Healthcare providers were key sources of information; however, participants emphasised the need for greater male engagement in family planning education. Conclusion These findings suggest that male partners play an important role in shaping contraceptive decision-making through attitudes, support and communication. Strengthening male engagement and couple-centred approaches may improve family planning uptake in similar settings.",
+  "raw_path": "01_raw/europepmc_xml/PMC13141218.xml",
+  "text_path": "02_text/europepmc/PMC13141218.txt",
+  "raw_bytes": 91483,
+  "text_chars": 34073,
+  "raw_sha256": "415b1e425810a884ec8b2312314447b5210927035b900026e443a3be4f27723e",
+  "text_sha256": "c0385726807703e50e1991a0dd2d099a8d86bd929584334527c988a96b27916d",
+  "retrieved_at": "2026-10-25T15:36:21.855260+00:00"
+}

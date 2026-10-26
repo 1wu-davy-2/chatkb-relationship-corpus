@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10156576",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "YES, WE COPE : Dyadic Coping as a Mediator Between Perceived Relationship Quality and Emotional Representation of COVID-19.",
+  "authors": "Relvas AP, Lacomba-Trejo L, Portugal A, Chiarolanza C, Major S, Rosa C, Sotero L, Randall AK.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1007/s10608-023-10379-4",
+  "pmcid": "PMC10156576",
+  "url": "https://europepmc.org/article/PMC/PMC10156576",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10156576/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Background The COVID-19 pandemic has brought about social changes that have impacted the functioning and dynamics of couples in a romantic relationship, arising from the overwhelming amount of added stress they have endured. Specifically, the divorce rate in Portugal has increased after lockdown, which underscores the adverse consequences of COVID-19 on couples. A lower quality of the couple's relationship may worsen the emotional representation of COVID-19; however, the literature suggests that perceived partner dyadic coping responses have a great influence on adverse events. The aim of the present study was to assess the mediating role of partner coping in the association between relationship quality and emotional representation of COVID-19. We also sought to observe whether the length of the relationship moderates this association. Methods Participants ( N = 528) were adults living in Portugal (84.7% female) currently in a romantic relationship with their current partner for at least 1 year. Online data collection. Results We found that relationship quality predicted COVID-19 emotional representation, but this association was fully mediated by total dyadic coping. This association was especially significant in couples with a shorter length of time in the relationship. Conclusions We point out the importance of dyadic coping as a protective factor against emotional distress to cope with the ongoing stressors associated with the COVID-19 pandemic. These data suggest the need for relationship education programs that promote positive coping between partners. Supplementary information The online version contains supplementary material available at 10.1007/s10608-023-10379-4.",
+  "raw_path": "01_raw/europepmc_xml/PMC10156576.xml",
+  "text_path": "02_text/europepmc/PMC10156576.txt",
+  "raw_bytes": 113199,
+  "text_chars": 35204,
+  "raw_sha256": "7601a3c642a76aff4cc30cf4672892de7fb118eeeab9b99f756761d89b70a850",
+  "text_sha256": "adce0a307e84021f756c78cdb3525544e179f379b5bc13b06f77068a02b7b63f",
+  "retrieved_at": "2026-10-25T15:48:11.350775+00:00"
+}

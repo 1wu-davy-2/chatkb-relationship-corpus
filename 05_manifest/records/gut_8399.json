@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_8399",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Manners and Social Usages",
+  "gutenberg_id": "8399",
+  "url": "https://www.gutenberg.org/ebooks/8399",
+  "download_url": "https://www.gutenberg.org/cache/epub/8399/pg8399.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/8399.txt",
+  "text_path": "02_text/gutenberg/gut_8399_manners_and_social_usages.txt",
+  "raw_bytes": 736942,
+  "text_chars": 703054,
+  "text_sha256": "bbe011b3e809411353d17cdbb54c7d42a899a7f0ab3ec2dfe5c0d74cc2b4aaf7",
+  "retrieved_at": "2026-10-25T15:54:55.816902+00:00"
+}

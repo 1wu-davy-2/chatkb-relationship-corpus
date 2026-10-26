@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9786723",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Depressive symptom trajectory following romantic relationship breakup and effects of rumination, neuroticism and cognitive control.",
+  "authors": "Verhallen AM, Alonso-Martínez S, Renken RJ, Marsman JC, Ter Horst GJ.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1002/smi.3123",
+  "pmcid": "PMC9786723",
+  "url": "https://europepmc.org/article/PMC/PMC9786723",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9786723/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Studying individuals who recently experienced a romantic reltionship breakup allows us to investigate mood disturbances in otherwise healthy individuals. In our study, we aimed to identify distinct depressive symptom trajectories following breakup and investigate whether these trajectories relate to personality traits and cognitive control. Subjects (n = 87) filled out questionnaires (RRS-NL-EXT trait rumination and NEO-FFI neuroticism) and performed cognitive tasks (trail making test, Stroop task) during a period of 30 weeks. To identify distinct depressive symptom trajectories ('trajectory groups'), we performed K-means clustering on the consecutive (assessed every 2 weeks) Major Depression Inventory scores. This resulted in four trajectory groups; 'resilience', 'fast recovery', 'slow recovery' and 'chronic distress'. The 'slow recovery group' and the 'chronic distress group' were found to have higher neuroticism and trait rumination levels compared to the 'resilience group', and the 'chronic distress group' also had higher neuroticism levels than the 'fast recovery group'. Moreover, the 'chronic distress group' showed worse overall trail making test performance than the 'resilience group'. Taken together, our findings show that distinct patterns of depressive symptom severity can be observed following breakup and that personality traits and cognitive flexibility seem to play a role in these depressive symptom patterns.",
+  "raw_path": "01_raw/europepmc_xml/PMC9786723.xml",
+  "text_path": "02_text/europepmc/PMC9786723.txt",
+  "raw_bytes": 137214,
+  "text_chars": 46944,
+  "raw_sha256": "446424e97c61012a413099495ee82f0d300605d9424a54b36f106f362bc77f1b",
+  "text_sha256": "27716745d1c531977ca3809c0882ba7a87adb59f4e4787531154416c45a3e5ed",
+  "retrieved_at": "2026-10-25T15:49:02.187909+00:00"
+}

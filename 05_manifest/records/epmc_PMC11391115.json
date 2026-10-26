@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11391115",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"Your Skin Crawled Every Time He Touched You\": A Secondary Qualitative Analysis Exploring Bagwell-Gray's Taxonomy of Intimate Partner Sexual Violence.",
+  "authors": "Tutty LM, Ogden C, Nixon KL.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/10778012231174352",
+  "pmcid": "PMC11391115",
+  "url": "https://europepmc.org/article/PMC/PMC11391115",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11391115/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "Bagwell-Gray et al. developed a taxonomy of intimate partner sexual violence (IPSV) focusing on type of force (physical or nonphysical) and type of sexual activity (penetration or no penetration). The current secondary descriptive qualitative analysis of interviews with 89 Canadian women IPV victims assessed IPSV that fit Bagwell-Gray's taxonomy. About half (46 or 51.7%) described sexual violence, most commonly sexual abuse (26 or 29.2%), sexual assaults (17 or 19%), and sexual coercion (16 or 17.9%), with overlap across categories. Forced sexual activity was seldom mentioned (3 or 3.4%). Implications for service providers and researchers are provided.",
+  "raw_path": "01_raw/europepmc_xml/PMC11391115.xml",
+  "text_path": "02_text/europepmc/PMC11391115.txt",
+  "raw_bytes": 136633,
+  "text_chars": 55501,
+  "raw_sha256": "900889623ec319bc2cb58ae35565aad0222f876d9ffd7a557d2d6c8e6d81c4f1",
+  "text_sha256": "386878b7926491e6d70b0f95b107b249cbd05efaaaf4877fb0916adb2f1ccc14",
+  "retrieved_at": "2026-10-26T13:10:27.056142+00:00"
+}

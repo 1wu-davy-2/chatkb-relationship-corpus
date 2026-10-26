@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_forgiveness",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "寬恕",
+  "requested_title": "宽恕",
+  "url": "https://zh.wikipedia.org/wiki/%E5%AF%AC%E6%81%95",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "conflict",
+    "repair"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/forgiveness.json",
+  "text_path": "02_text/zh_wikipedia/forgiveness.txt",
+  "raw_bytes": 1926,
+  "text_chars": 783,
+  "text_sha256": "08a848bcbcfd5ac88f0b005a457f4de3a4fef1588bedc7fe5bc3f72df29ad644",
+  "retrieved_at": "2026-10-25T15:31:04.862272+00:00"
+}

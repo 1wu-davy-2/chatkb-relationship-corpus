@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8603166",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Optimizing Coaching During Web-Based Relationship Education for Low-Income Couples: Protocol for Precision Medicine Research.",
+  "authors": "Hatch SG, Lobaina D, Doss BD.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.2196/33047",
+  "pmcid": "PMC8603166",
+  "url": "https://europepmc.org/article/PMC/PMC8603166",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8603166/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "Background In-person relationship education classes funded by the federal government tend to experience relatively high attrition rates and have only a limited effect on relationships. In contrast, low-income couples tend to report meaningful gains from web-based relationship education when provided with individualized coach contact. However, little is known about the method and intensity of practitioner contact that a couple requires to complete the web-based program and receive the intended benefit. Objective The aim of this study is to use within-group models to create an algorithm to assign future couples to different programs and levels of coach contact, identify the most powerful predictors of treatment adherence and gains in relationship satisfaction within 3 different levels of coaching, and examine the most powerful predictors of treatment adherence and gains in relationship satisfaction among the 3 levels of coach contact. Methods To accomplish these goals, this project intends to use data from a web-based Sequential Multiple Assignment Randomized Trial of the OurRelationship and web-based Prevention and Relationship Enhancement programs, in which the method and type of coach contact were randomly varied across 1248 couples (2496 individuals), with the hope of advancing theory in this area and generating accurate predictions. This study was funded by the US Department of Health and Human Services, Administration for Children and Families (grant number 90PD0309). Results Data collection from the Sequential Multiple Assignment Randomized Trial of the OurRelationship and web-based Prevention and Relationship Enhancement Program was completed in October of 2020. Conclusions Some of the direct benefits of this study include benefits to social services program administrators, tailoring of more effective relationship education, and effective delivery of evidence- and web-based relationship health interventions. International registered report identifier (irrid) DERR1-10.2196/33047.",
+  "raw_path": "01_raw/europepmc_xml/PMC8603166.xml",
+  "text_path": "02_text/europepmc/PMC8603166.txt",
+  "raw_bytes": 122039,
+  "text_chars": 46230,
+  "raw_sha256": "a33bc3442551183a94777de2c1a5abe74bbee763c1d782704c8efe502061f8d3",
+  "text_sha256": "c51cf8a3befef6fcea222460403035e506a6c059313ce12c26e52458e1107547",
+  "retrieved_at": "2026-10-25T15:43:56.878301+00:00"
+}

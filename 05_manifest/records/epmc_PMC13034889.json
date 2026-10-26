@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13034889",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Investigating the relation between social media, dating app use and body image dimensions: A cross-country study.",
+  "authors": "Lo Coco G, Rodgers R, Harris EA, Markey C, Sicilia A, Aimé A, Dion J, Salerno L, Hayami-Chisuwa N, White HJ, Plateau CR, Granero-Gallegos A, Maïano C, Manzoni GM, Pietrabissa G, Bégin C, Blackburn MÉ, Strodl E, Fuller-Tyszkiewicz M, McCabe M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/bjhp.70067",
+  "pmcid": "PMC13034889",
+  "url": "https://europepmc.org/article/PMC/PMC13034889",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13034889/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "Objectives Social media emphasize appearance ideals, and their use may be associated with body dissatisfaction. To date, however, data on the relationships specific to certain platforms such as dating apps are scarce, as are cross-country comparisons and studies including men. Thus, this study examined the relationship between social media and dating app use and body image among young adults across eight countries and considered gender and country as potential moderators. Methods A sample of 5933 young adults (mean age = 21.54 years; 67.6% female) from Australia, Belgium, Canada, China, Italy, Japan, Spain and the United States completed an online survey. Mixed-effects regression models tested the effects of time on social media and dating apps on body image outcomes. Results Longer time on social media was associated with lower body satisfaction and body appreciation, and a higher drive for leanness, thin-ideal internalization and appearance comparison. Longer time spent on dating apps was associated with lower body appreciation and appearance comparison, and a higher drive for muscularity. The associations between time spent on social media, dating apps and drive for muscularity were stronger for men than for women. Few variations across countries emerged. Conclusions Greater social media and dating app use may be related to poor body image and related indicators across countries, particularly among young men.",
+  "raw_path": "01_raw/europepmc_xml/PMC13034889.xml",
+  "text_path": "02_text/europepmc/PMC13034889.txt",
+  "raw_bytes": 176965,
+  "text_chars": 49989,
+  "raw_sha256": "1883579de33c81d2a08d332f0a529fdd106eeb76f75c20ff70d2dd72a76ff0ff",
+  "text_sha256": "d3ff3e1b9a6e59ccf8dd3fee7ece886689d63285a94d51c459d43a92a3dbf1f1",
+  "retrieved_at": "2026-10-25T13:49:04.830514+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13657639",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Effect of Couple-centered Counseling Based on the Ex-Plissit Model on the Sexual Satisfaction of Infertile Couples",
+  "authors": "Dalvand R, Otogara M, Shayan A, Kazemi F, Haghighi M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "",
+  "pmcid": "PMC13657639",
+  "url": "https://europepmc.org/article/PMC/PMC13657639",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13657639/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction"
+  ],
+  "abstract": "",
+  "raw_path": "01_raw/europepmc_xml/PMC13657639.xml",
+  "text_path": "02_text/europepmc/PMC13657639.txt",
+  "raw_bytes": 93724,
+  "text_chars": 32202,
+  "raw_sha256": "14c193692326add7f025d8353d9848ee5521304fb3931008e3729f76319a3467",
+  "text_sha256": "6dbb6c0259aa6459988052bbd798263cab8b5c50112c963a420a3a361a2d46d3",
+  "retrieved_at": "2026-10-25T15:27:31.891960+00:00"
+}

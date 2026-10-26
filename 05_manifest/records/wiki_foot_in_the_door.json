@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_foot_in_the_door",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "得寸进尺法",
+  "requested_title": "登门槛效应",
+  "url": "https://zh.wikipedia.org/wiki/%E5%BE%97%E5%AF%B8%E8%BF%9B%E5%B0%BA%E6%B3%95",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 得寸进尺法",
+  "topics": [
+    "psychology",
+    "influence"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/foot_in_the_door.json",
+  "text_path": "02_text/zh_wikipedia/foot_in_the_door.txt",
+  "raw_bytes": 4229,
+  "text_chars": 1947,
+  "text_sha256": "57e0396c980eb8723ca89f5a9ab6e5911a1b33a07b49b4e6dd22c4a0e737f23c",
+  "retrieved_at": "2026-10-25T16:21:23.291280+00:00"
+}

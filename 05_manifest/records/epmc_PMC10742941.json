@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10742941",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Relationship between Jealousy and Mate Retention Strategies in Romantic Relationships among Women during the COVID-19 Pandemic.",
+  "authors": "Degiuli P, Andreis L, Vučenović D.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3390/ejihpe13120199",
+  "pmcid": "PMC10742941",
+  "url": "https://europepmc.org/article/PMC/PMC10742941",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10742941/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Jealousy and mate retention have received attention in research over the last few decades. Despite this, most of the research has examined male jealousy and male mate retention, emphasizing cost-inflicting behavior due to its role in relationships and domestic violence. The aim of this study was to investigate the relationship between jealousy and all mate retention strategies in romantic relationships among women during the COVID-19 pandemic. The sample consisted of 772 Croatian women aged 19 to 40 who were in a heterosexual relationship at the time. This study was conducted online, and the participants completed the Multidimensional Jealousy Scale and Mate Retention Inventory. The results showed that cognitive, emotional, and behavioral jealousy were positively correlated with all mate retention strategies, which indicates that a stronger experience of jealousy can be expected to result in more frequent use of all partner retention strategies. We also found that all three dimensions of jealousy and relationship length positively predicted both cost-inflicting and benefit-provisioning mate retention behavior, whereas age was a negative predictor of benefit-provisioning behavior only. The findings of this study suggest that, although jealousy can substantially explain interpersonally risky and damaging behavior in relationships, it can also explain affectionate and attentive behavior, to some extent.",
+  "raw_path": "01_raw/europepmc_xml/PMC10742941.xml",
+  "text_path": "02_text/europepmc/PMC10742941.txt",
+  "raw_bytes": 127930,
+  "text_chars": 47857,
+  "raw_sha256": "118dc39493819f415c4dbf64f7dd6c028188d802fd150fd5ad9af3a0564f94f8",
+  "text_sha256": "6549b2ada2fb1a7c4f971c737ea588b32bf75d0b63bc570f052099f3df1070c1",
+  "retrieved_at": "2026-10-25T15:33:49.292177+00:00"
+}

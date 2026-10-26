@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11528616",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Jealousy as Predicted by Allocation and Reception of Resources in an Economic Game.",
+  "authors": "Barbato MT, Fernández AM, Rodriguez-Sickert C, Muñoz JA, Polo P, Buss D.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/14747049241289232",
+  "pmcid": "PMC11528616",
+  "url": "https://europepmc.org/article/PMC/PMC11528616",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11528616/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Evidence is abundant that evolution by selection has produced sex differences in the design of adaptations to solve the problems surrounding reproduction. A prime example is the design of human jealousy, which research suggests is triggered by distinct evoking acts that are specific challenges for women and men in their exclusive reproductive bond. It follows that jealousy would be directed toward driving away interlopers who could potentially threaten the bond with the romantic partner or increase mate retention efforts in response to sex-specific threats. To explore this possibility, we use as a methodological innovation an economic game for the evocation of jealousy. With a modified dictator game, we showed men and women in a committed relationship, conditions in which the partner or an intrasexual rival allocates money to (investing condition), or obtains money from (receiving condition), the partner or an opposite sex third party that they recently met. A sample of 56 heterosexual couples ( n = 112) participated in a laboratory setting. Our results show the different scenarios of this dictator game exerted the expected evocation of jealousy (controlling individual differences), with women being more jealous by the partner's allocation of resources to a rival, and men reporting slightly more jealousy by their partner receiving money from a rival. We discuss the implications of this method to advance the comprehension of the adaptive function of sex differences in jealousy, the use of economic games, and possible modifications to improve the similarity of the game to a real assessment of actual male jealousy.",
+  "raw_path": "01_raw/europepmc_xml/PMC11528616.xml",
+  "text_path": "02_text/europepmc/PMC11528616.txt",
+  "raw_bytes": 114912,
+  "text_chars": 35644,
+  "raw_sha256": "b8b0e143b780493efa9624472c52c6758bac5e5a67d97e3a04c2e35b9af0089d",
+  "text_sha256": "4c363b8c3eaff0471c203cc5c52b8e6bf6ace70fd5a22baf66b36587d25f27fc",
+  "retrieved_at": "2026-10-25T15:34:08.011172+00:00"
+}

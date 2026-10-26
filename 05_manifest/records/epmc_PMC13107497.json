@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13107497",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Divorce conflict and health across the divorce process: A 10-year observational study of medicine prescriptions, primary care visits and hospitalisations.",
+  "authors": "Hald AN, Hald GM, Fallesen P.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/bjhp.70075",
+  "pmcid": "PMC13107497",
+  "url": "https://europepmc.org/article/PMC/PMC13107497",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13107497/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "midlife_older"
+  ],
+  "abstract": "Objectives This study examines the association between divorce conflict and medicine prescriptions, primary care visits and hospitalisations, over a 10-year period around juridical divorce. Design A longitudinal observational study was conducted using a cohort of 1784 Danes who divorced between 2015 and 2017. Conflict was measured with the validated Divorce Conflict Scale, and health outcomes were obtained from national registers. Methods Negative binomial and logistic regression models examined the relationship between divorce conflict and health outcomes, controlling for prior health status, demographic factors and socioeconomic variables. Analyses included sensitivity tests to explore pre- and post-divorce health patterns, and an exploratory analysis of health trajectories based on conflict levels. Results A one-standard deviation increase in divorce conflict was associated with a significant 28% increase in medicine prescriptions, a 5% increase in primary care visits, and 13% higher odds of hospitalisation in the 5 years following juridical divorce. Sensitivity analyses showed that these associations were robust but also varied depending on the pre-divorce health period, highlighting the importance of pre-divorce health in explaining outcomes. Exploratory analyses indicated that high-conflict divorcees had consistently elevated health trajectories across all outcomes, with a significantly steeper increase in primary care visits before divorce compared to those with average or low conflict. Conclusions High-conflict divorcees experienced consistently worse health outcomes, including more medicine prescriptions, primary care visits and hospitalisations, both before and after divorce. These findings stress the importance of conceptualising divorce as a process and addressing conflict during the divorce process to mitigate long-term health consequences.",
+  "raw_path": "01_raw/europepmc_xml/PMC13107497.xml",
+  "text_path": "02_text/europepmc/PMC13107497.txt",
+  "raw_bytes": 142836,
+  "text_chars": 51156,
+  "raw_sha256": "8bbb446aa301e469a8431ef74bc6f9833e5b98637750f739fea2f71b85e2ad7c",
+  "text_sha256": "6b8a046c5f41cb648ef881368301ba1f918cccb9f4d4e368bbbfe53a22283abc",
+  "retrieved_at": "2026-10-25T13:55:04.741510+00:00"
+}

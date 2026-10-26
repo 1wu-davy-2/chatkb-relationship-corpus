@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13358002",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A study on the relationship between the intensity of mobile social media use and the quality of friendships among Chinese youth in the context of social media fatigue.",
+  "authors": "Sun H, Li M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1806533",
+  "pmcid": "PMC13358002",
+  "url": "https://europepmc.org/article/PMC/PMC13358002",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13358002/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "social_media"
+  ],
+  "abstract": "Introduction Healthy friendships are crucial for the psychological development of young adults. Today, mobile social media has become a vital tool for young people to establish and maintain friendships, offering significant convenience for developing friendships. However, as usage intensity increases, the resulting social pressure and negative emotions have gradually become issues regarding young people's interactions with friends that cannot be ignored. Methods This study employs a mixed-methods research approach combining quantitative and qualitative methods to explore new changes in friendship quality resulting from online socializing under social media fatigue among Chinese young people, along with the underlying causes of these changes. Results Findings reveal that social media fatigue induces changes in friendship maintenance behaviors among Chinese young people, primarily manifested as reduced willingness to interact, diminished responsiveness, and a tendency toward deeper engagement. Discussion During behavioral adjustment, Chinese youth progressively filter out superficial weak ties, redirecting greater energy toward a limited number of intimate relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC13358002.xml",
+  "text_path": "02_text/europepmc/PMC13358002.txt",
+  "raw_bytes": 113175,
+  "text_chars": 34789,
+  "raw_sha256": "54b3983a50136ee50ca700d46bde98a5f5a1b4dc28048503acba5661b00af62c",
+  "text_sha256": "bc069ae61f815f85aedb0e07fc6aa51e4c7b640dd620df1993801fad58ee4334",
+  "retrieved_at": "2026-10-25T15:32:49.219447+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11549451",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Ehealth interactive intervention in promoting safer sex among men who have sex with men.",
+  "authors": "Choi EPH, Wu C, Choi KWY, Chau PH, Wan EYF, Wong WCW, Wong JYH, Fong DYT, Chow EPF.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1038/s41746-024-01313-3",
+  "pmcid": "PMC11549451",
+  "url": "https://europepmc.org/article/PMC/PMC11549451",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11549451/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "safer_sex_communication"
+  ],
+  "abstract": "Men who have sex with men (MSM) who use dating applications (apps) have higher rates of engaging in condomless anal sex than those who do not. Therefore, we conducted a two-arm randomized controlled trial to evaluate the effectiveness of an interactive web-based intervention in promoting safer sex among this population. The intervention was guided by the Theory of Planned Behavior and co-designed by researchers, healthcare providers, and MSM participants. The primary outcome was the frequency of condomless anal sex in past three months. Secondary outcomes included five other behavioral outcomes and two psychological outcomes. This trial was registered on ISRCTN (ISRCTN16681863) on 2020/04/28. A total of 480 MSM were enrolled and randomly assigned to the intervention or control group. Our findings indicate that the intervention significantly reduced condomless anal sex behaviors by enhancing self-efficacy and attitudes toward condom use among MSM dating app users, with the effects sustained at both three and six months.",
+  "raw_path": "01_raw/europepmc_xml/PMC11549451.xml",
+  "text_path": "02_text/europepmc/PMC11549451.txt",
+  "raw_bytes": 145823,
+  "text_chars": 50071,
+  "raw_sha256": "b4cba8eee528c015f7329680443ad5a5d9865f64771fa80fa7cab8e4f06a7d76",
+  "text_sha256": "5bdc629c67fe22bcf36cf6e0f1fb1533a60d96e487ab3af251bbcb98d0c56387",
+  "retrieved_at": "2026-10-26T12:55:48.113306+00:00"
+}

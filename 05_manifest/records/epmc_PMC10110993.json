@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10110993",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Perceived financial burden is indirectly linked to sexual well-being via quality of life among couples seeking medically assisted reproduction.",
+  "authors": "Allsop DB, Péloquin K, Saxey MT, Rossi MA, Rosen NO.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2023.1063268",
+  "pmcid": "PMC10110993",
+  "url": "https://europepmc.org/article/PMC/PMC10110993",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10110993/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "Introduction Medically assisted reproduction is a difficult treatment process for couples both financially and sexually. Yet, these two domains have not been examined together among couples seeking treatment, leaving couples and practitioners without guidance on how to address these domains together. Methods In line with Couples and Finance Theory, we tested the hypothesis that perceived financial burden and couple income would predict quality of life during medically assisted reproduction, which would then predict four domains of sexual well-being (i.e., sexual satisfaction, desire, distress, and frequency). We also examined if the results differed by treatment status-that is, between partners who were receiving treatment and those who were not. Cross-sectional data from 120 couples who had undergone medically assisted reproduction in the past six months were analyzed via structural equation modeling through an actor-partner interdependence mediation model. Results An individual's greater perceived financial burden predicted their own lower quality of life during medically assisted reproduction, which in turn predicted their lower sexual satisfaction, desire and distress, as well as their partner's lower sexual satisfaction. Household income did not indirectly predict any sexual well-being domains, and results regarding treatment status were inconclusive. Discussion Clinicians can discuss with couples how perceived financial strain of medically assisted reproduction affects their quality of life and what ramifications that may have for their sexual well-being.",
+  "raw_path": "01_raw/europepmc_xml/PMC10110993.xml",
+  "text_path": "02_text/europepmc/PMC10110993.txt",
+  "raw_bytes": 169886,
+  "text_chars": 44282,
+  "raw_sha256": "9b2b0328c7e7c9848235162227f5448b27e942d5cf307cd4312125c8e49bf38f",
+  "text_sha256": "2cdf7cd2cbe8450227e3e8248e1e78896add033454dce2535525402cfb599482",
+  "retrieved_at": "2026-10-26T13:14:27.470012+00:00"
+}

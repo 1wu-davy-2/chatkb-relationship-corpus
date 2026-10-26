@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8314247",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship Satisfaction and Infidelity-Related Behaviors on Social Networks: A Preliminary Online Study of Hispanic Women.",
+  "authors": "González-Rivera JA, Aquino-Serrano F, Pérez-Torres EM.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.3390/ejihpe10010023",
+  "pmcid": "PMC8314247",
+  "url": "https://europepmc.org/article/PMC/PMC8314247",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8314247/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "The purpose of this online study was to develop an explicative model regarding the origin of infidelity-related behaviors on social networks for Hispanic women. We propose that sexual satisfaction and emotional intimacy have a direct impact on the satisfaction of couple relationships, and an indirect impact in the development of infidelity-related behaviors on social networks. To investigate this proposal, we used a non-probabilistic sample of 341 Hispanic women living in Puerto Rico. Statistical analyses confirmed that satisfaction and ambivalence in couple relationship completely mediate the association between sexual satisfaction and infidelity-related behaviors on social networks, as well as the relationship between emotional intimacy and infidelity-related behaviors on social networks. Overall, women who practice infidelity-related behaviors on social networks showed less sexual satisfaction, less emotional intimacy, less relationship satisfaction, and greater ambivalence. Our results provide theoretical and empirical evidence on how infidelity-related behaviors on social networks develop in couple relationships, and these results could help to inform possible forms of prevention and intervention.",
+  "raw_path": "01_raw/europepmc_xml/PMC8314247.xml",
+  "text_path": "02_text/europepmc/PMC8314247.txt",
+  "raw_bytes": 106081,
+  "text_chars": 37970,
+  "raw_sha256": "7249f84dc148886a3596986b4c5e11486b7da74f9f2ddde502668237fd23913b",
+  "text_sha256": "0d942f7976a790045c90431243b2efbff0958640be274499f2969ebc68515ea2",
+  "retrieved_at": "2026-10-25T15:39:25.768366+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_zodiac_constellations",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "黃道十二宮",
+  "requested_title": "黄道十二宫",
+  "url": "https://zh.wikipedia.org/wiki/%E9%BB%83%E9%81%93%E5%8D%81%E4%BA%8C%E5%AE%AE",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 黃道十二宮",
+  "topics": [
+    "astrology",
+    "astronomy",
+    "culture"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/zodiac_constellations.json",
+  "text_path": "02_text/zh_wikipedia/zodiac_constellations.txt",
+  "raw_bytes": 5278,
+  "text_chars": 2282,
+  "text_sha256": "41ab6889280ade10bb6d95f0b40e54209b92bd063483217e39bca4d5852bd9bb",
+  "retrieved_at": "2026-10-26T13:02:29.364621+00:00"
+}

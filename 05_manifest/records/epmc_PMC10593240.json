@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10593240",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "How marital events explain the suicide rate among Chinese.",
+  "authors": "Yang X, Liu L, Li R.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0286961",
+  "pmcid": "PMC10593240",
+  "url": "https://europepmc.org/article/PMC/PMC10593240",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10593240/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "china_marriage"
+  ],
+  "abstract": "Aims The aims for this study was to prove the impacts of marital events (marriage rate, divorce rate and marriage squeeze), economic development, and social development on the suicide rate among urban and rural Chinese and reveal the differences in these impacts between urban and rural areas and between genders. Methods An explanatory time-series analysis methodology was adopted to analyze the nation-wide data ranging from 1987-2017. Results Marriage rate was a protective factor against the suicide rate among urban and rural men, and rural women; however, divorce rate was a protective factor against the suicide rate only among rural women. For the four groups, the economic development level measured by per capita GDP is a protective factor, while social development measured by urbanization and rural-urban labor migration rates in rural areas plays different roles. Conclusions Marriage and divorce rates were found to have different meanings for the four groups. This study offers a reference for designing relevant policies and projects to intervene in suicidal behaviors among different groups.",
+  "raw_path": "01_raw/europepmc_xml/PMC10593240.xml",
+  "text_path": "02_text/europepmc/PMC10593240.txt",
+  "raw_bytes": 129658,
+  "text_chars": 33251,
+  "raw_sha256": "8a7cd83a335e0fe70dba76e0c55ad63ca147d1e97bbbc2ca4e932b232b92920c",
+  "text_sha256": "071ce4f0986cff996c289eda1885cefc002fd04708d440473878bbd154ca98b6",
+  "retrieved_at": "2026-10-25T13:52:15.661146+00:00"
+}

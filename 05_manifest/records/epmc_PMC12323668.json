@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12323668",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "&lt;i&gt;Ophiocordyceps zhenxingensis&lt;/i&gt; sp. nov. and its microbiota during sexual and asexual stages in nature.",
+  "authors": "Tian H, Fei G, Guan J, Xu Z, Qu J, Dai Y, Zou X.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1128/spectrum.02159-24",
+  "pmcid": "PMC12323668",
+  "url": "https://europepmc.org/article/PMC/PMC12323668",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12323668/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "asexuality_celibacy"
+  ],
+  "abstract": "Ophiocordyceps holds significant importance in forest arthropod population regulation, biological control of agricultural pests, and the development of bioactive substances. Investigating the microbial community composition of wild Ophiocordyceps is significant for understanding its individual development process, understory cultivation, and taxonomy. In this study, a novel insect pathogenic fungus, Ophiocordyceps zhenxingensis , parasitizing Hymenoptera larvae, originating from Liaoning Province, China, was delineated based on morphology and phylogenetics. The microbial communities in the sclerotium and host surface complex of its different reproductive stages (sexual and asexual) were investigated. O. zhenxingensis was detected within the Hirsutella citriformis subclade, being closely related to Hirsutella gigantea and Ophiocordyceps elongata . It was morphologically characterized by solitary or multiple stromata, semi-submerged perithecia, and viscous basidiospores. Proteobacteria, Actinobacteriota, and Bacteroidota were the major bacterial taxa, and Basidiomycota and Ascomycota were the major fungal taxa. Tomentella , Sebacina , and Russula were abundant in the host surface complex that belongs to mycorrhizal fungi. The microbial co-occurrence network suggested that microbial relationships were predominantly positive correlations, and positive correlations were more pronounced in the asexual stage than the sexual stage. The microbial co-occurrence network of O. zhenxingensis was more complex during the asexual stage; it exhibited greater metabolic activity during the asexual stage. These results have enhanced our understanding of the composition, diversity, and functions of the endophytic microbial community of Ophiocordyceps , furnishing additional evidence for classifying its sexual and asexual stages and establishing a theoretical basis for subsequent research on its individual development. Importance Ophiocordyceps exhibits two distinct life stages (asexual and sexual) in its natural environment. The symbiotic microorganisms associated with the fungus play a crucial role in its growth and development. We have identified a new species, Ophiocordyceps zhenxingensis , which belongs to the Hirsutella citriformis subclade. A large number of mycorrhizal fungi were found in the insect appendages of O. zhenxingensis , whereas the fungal community within the sclerotium was predominantly composed of Ascomycota. During the asexual stage, O. zhenxingensis exhibited greater microbial diversity and stronger positive correlations among microorganisms. Additionally, it possesses a richer array of metabolic pathways. These results have deepened our knowledge of the composition, diversity, and roles of the microbial community in Ophiocordyceps , providing further evidence for distinguishing its sexual and asexual stages and laying a theoretical foundation for future research on its developmental processes.",
+  "raw_path": "01_raw/europepmc_xml/PMC12323668.xml",
+  "text_path": "02_text/europepmc/PMC12323668.txt",
+  "raw_bytes": 204133,
+  "text_chars": 35484,
+  "raw_sha256": "1aa6dcb697754e3248ffe76dddaf328958a3c2ad2549bbdaa95bb7d791fc5380",
+  "text_sha256": "6c7f3af0546045a931ff4c4efafaaaf46167b0bcef5eb311203a2276bbb0ee72",
+  "retrieved_at": "2026-10-26T13:14:35.266069+00:00"
+}

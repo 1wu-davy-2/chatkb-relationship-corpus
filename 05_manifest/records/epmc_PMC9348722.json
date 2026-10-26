@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9348722",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Personality growth after relationship losses: Changes of perceived control in the years around separation, divorce, and the death of a partner.",
+  "authors": "Asselmann E, Specht J.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0268598",
+  "pmcid": "PMC9348722",
+  "url": "https://europepmc.org/article/PMC/PMC9348722",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9348722/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Background Previous research suggests that romantic relationships play a crucial role for perceived control. However, we know surprisingly little about changes in perceived control before and after the end of romantic relationships. Methods Based on data from the Socio-Economic Panel Study (SOEP), a nationally representative household panel study from Germany, we examined changes of perceived control in the years around separation from a partner (N = 1,235), divorce (N = 423), and the death of a partner (N = 437). Results Multilevel analyses revealed that external control beliefs were higher in but not beyond the first year after separation from a partner. Internal and total control beliefs increased gradually in the years after separation. Moreover, internal control beliefs were higher in and especially beyond the first year after the death of a partner compared to the years before. No evidence was found that perceived control already changed in the years before relationship losses or in the years around a divorce. Conclusion Taken together, these findings point toward stress-related growth of perceived control after some relationship losses-especially separation and the death of a partner.",
+  "raw_path": "01_raw/europepmc_xml/PMC9348722.xml",
+  "text_path": "02_text/europepmc/PMC9348722.txt",
+  "raw_bytes": 252285,
+  "text_chars": 61861,
+  "raw_sha256": "d38fa4468bc628b7da210a780a80e4f902588b516089ab99fbdfa3637ae03cc9",
+  "text_sha256": "73b8c99350e1803946344aae23795fadb3b5f3484cb95a71f765d99c63865fab",
+  "retrieved_at": "2026-10-25T15:41:13.916703+00:00"
+}

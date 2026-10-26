@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11731434",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship of social support with sexual assertiveness and marital satisfaction in Iranian women.",
+  "authors": "Abdolalipour S, Feyzollahi A, Laghusi D, Kalekhane ZY, Zamani-Zad N, Ahmadi M, Mirghafourvand M.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.4103/jehp.jehp_1242_23",
+  "pmcid": "PMC11731434",
+  "url": "https://europepmc.org/article/PMC/PMC11731434",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11731434/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_communication_training",
+    "sexual_communication"
+  ],
+  "abstract": "Background People who receive social support in their marital life have a higher chance of experiencing more marital satisfaction. Pleasant healthy sexual relations and a couple's sexual assertiveness are of prime significance in such satisfaction. This study aimed to determine the relationship between social support and both sexual assertiveness and marital satisfaction in married women referring to health centers in Tabriz, Iran. Materials and methods This is a descriptive-analytical cross-sectional study on 292 women out of 22308 reproductive-age married females referring to the health centers of Tabriz in 2022. Sampling was done by cluster sampling method. Data collection instruments included a socio-personal information questionnaire, personal resource questionnaire 85 (PRQ85-Part 2) as a social support measure, Halbert index of sexual assertiveness (HISA), and enrich marital satisfaction (EMS) scale. Data were analyzed using Pearson, independent t, one-way ANOVA tests, and the general linear model. Results The mean (SD) of social support, marital satisfaction, and sexual assertiveness scores were 103 (19.8), 135.9 (11.8), and 52.2 (19.5), respectively. Social support had an average positive correlation with marital satisfaction ( P P P P Conclusion An increase in social support, increases their marital satisfaction and sexual assertiveness. Focusing on social support could be an effective approach in family counseling or family education programs to improve marital satisfaction.",
+  "raw_path": "01_raw/europepmc_xml/PMC11731434.xml",
+  "text_path": "02_text/europepmc/PMC11731434.txt",
+  "raw_bytes": 101853,
+  "text_chars": 26481,
+  "raw_sha256": "f1327b1c6b91be67771d06aeb9ecbb19226bbe77e43263a1eecdc4fa3ce13007",
+  "text_sha256": "29b91634d51933d3c26ba5e46fea6a66b2c9801aba18c6d584b0cb390ab45363",
+  "retrieved_at": "2026-10-25T13:49:40.459639+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12129003",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Revision and validation of the Chinese version of the interpersonal reactivity index for couples for expectant couples.",
+  "authors": "Huang J, Liang T, Li J, Liu Q, Pang J, Xu Y, Xie H.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.7717/peerj.19505",
+  "pmcid": "PMC12129003",
+  "url": "https://europepmc.org/article/PMC/PMC12129003",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12129003/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "responsiveness"
+  ],
+  "abstract": "Objective This research seeks to evaluate the validity and reliability of the Interpersonal Reactivity Index for Couples (IRIC) to ensure it is culturally relevant to China, while also assessing its reliability and validity among a sample of pregnant women and their spouses. Methods A total of 402 couples were recruited from two hospitals in Anhui Province. The English version of the IRIC was translated into Chinese in accordance with Brislin's principles of cross-cultural translation. The reliability of the translated scale was assessed using Cronbach's α coefficient, split-half reliability, and test-retest reliability. The structural validity of the scale was examined through exploratory factor analysis (EFA) and confirmatory factor analysis (CFA). The Perceived Partner Responsiveness Scale served as a criterion measure to evaluate its correlation with the IRIC. All data analyses were performed using SPSS 26.0 and Mplus 8.3. Results The Chinese version of the IRIC comprises two dimensions and thirteen items (seven items pertaining to empathic concern and six items related to Perspective Taking). In the sample of pregnant women, the Cronbach's α coefficient for the Chinese version of the IRIC was 0.922, with coefficients of 0.871 for Empathic Concern and 0.909 for the Perspective Taking. The split-half reliability was 0.902 and the overall test-retest reliability of the scale was 0.996. In the sample of partners of pregnant women, the Cronbach's α coefficient was 0.938, with coefficients of 0.895 for empathic concern and 0.925 for Perspective Taking, and a split-half reliability of 0.898, while the overall test-retest reliability of the scale was 0.997. The content validity index at the scale level was 0.967, and at the item level, it ranged from 0.857 to 1.000. In the sample of pregnant women, the confirmatory factor analysis results indicated that the fit indices for the bi-factor model were satisfactory (Chi-square/degrees of freedom ( χ2 /df) = 1.331, comparative fit index (CFI) = 0.993, Tucker-Lewis index (TLI) = 0.987, normal fit index (NFI) = 0.972, goodness of fit index (GFI) = 0.958, root mean square error of approximation (RMSEA) = 0.041, standardized root mean square residual (SRMR) = 0.038). In the sample of partners, the confirmatory factor analysis results also demonstrated satisfactory fit indices for the bi-factor model ( χ2 /df = 1.588, CFI = 0.989, TLI = 0.976, NFI = 0.971, GFI = 0.961, RMSEA = 0.054, SRMR = 0.039). The scale successfully passed the equivalence test, with indices fitting well. Conclusion The findings suggest that the Chinese version of the IRIC exhibits strong reliability and validity, rendering it an effective instrument for evaluating the level of empathy between pregnant women and their partners. The translated scale also facilitates the early detection of couple empathy, providing a scientific foundation for the development of early personalized intervention strategies. Overall, this scale possesses clinical relevance and practical importance in enhancing marital satisfaction. However, future research should encompass a larger and more diverse population.",
+  "raw_path": "01_raw/europepmc_xml/PMC12129003.xml",
+  "text_path": "02_text/europepmc/PMC12129003.txt",
+  "raw_bytes": 106759,
+  "text_chars": 36478,
+  "raw_sha256": "0e469fade29ebe114e68307f950365cff528af92f5cfdf5deb3ec8eee55e2ad6",
+  "text_sha256": "eec15730a55aa8401604a978cd4a637ad9b36f96f3246a377594ee6712daa380",
+  "retrieved_at": "2026-10-25T14:02:20.629354+00:00"
+}

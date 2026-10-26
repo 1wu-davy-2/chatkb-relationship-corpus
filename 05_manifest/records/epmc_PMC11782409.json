@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11782409",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship Status Rather than Sociosexuality or Sexual Orientation Predicts Male Sexual Functioning.",
+  "authors": "de Souza MLRS, Silva AJ, Valentova JV, Silva Júnior MD.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10508-024-03006-0",
+  "pmcid": "PMC11782409",
+  "url": "https://europepmc.org/article/PMC/PMC11782409",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11782409/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Male sexual functioning is a prerequisite for conception and consequently for reproduction and is thus a crucial mechanism from an evolutionary and social perspective. Previous studies reported better sexual functioning in coupled compared to single individuals. However, it is not clear whether sexual functioning increases or decreases with a short-term casual sexual strategy, which is another possibility, along with a long-term strategy. Furthermore, sexual orientation may represent yet another mating strategy that may influence sexual functioning. Here, we aimed to test the possible associations between male sexual functioning and sexual strategies, as measured through sociosexuality, relationship status, and sexual orientation. We hypothesize that due to its relationship with the evolved motivation of mate acquisition and mate retention, both stable relationships and sociosexuality would be positively associated with male sexual functioning. We did not expect significant differences in sexual functioning among men with different sexual orientations. We sampled 427 healthy men of different sexual orientations (203 heterosexuals, 77 bisexuals, and 147 gay men) who completed the Male Sexual Function Index (MSFI) and its subscales of desire, arousal, erection, orgasm, and satisfaction; the Sociosexual Orientation Inventory-Revised; and sociodemographic questions. A multivariate general linear model showed that, compared to single individuals, partnered individuals reported greater MSFI-arousal, MSFI-erection, MSFI-orgasm, and MSFI-satisfaction. Sociosexuality and sexual orientation only weakly predicted MSFI domains. Male sexual functioning thus seems to be moderately associated with a long-term mating strategy and can thus serve for relationship maintenance rather than for acquiring new partners.",
+  "raw_path": "01_raw/europepmc_xml/PMC11782409.xml",
+  "text_path": "02_text/europepmc/PMC11782409.txt",
+  "raw_bytes": 130189,
+  "text_chars": 47987,
+  "raw_sha256": "a1f0b9941ce06cd11ef1d701a61be719342f9e3e7fc79792dfef42e609a1ffb9",
+  "text_sha256": "8ac92a559898a78e9a179d9f022ec95f713b138ddde0ae583b76068178107071",
+  "retrieved_at": "2026-10-26T12:55:45.407315+00:00"
+}

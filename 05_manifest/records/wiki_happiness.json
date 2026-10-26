@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_happiness",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "幸福",
+  "requested_title": "幸福",
+  "url": "https://zh.wikipedia.org/wiki/%E5%B9%B8%E7%A6%8F",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 幸福",
+  "topics": [
+    "psychology",
+    "wellbeing"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/happiness.json",
+  "text_path": "02_text/zh_wikipedia/happiness.txt",
+  "raw_bytes": 20860,
+  "text_chars": 7698,
+  "text_sha256": "a58a8e671c53a496b5e950dbe60ee04d9af6b29bbd73bd72d9ef2bae8681cfa2",
+  "retrieved_at": "2026-10-26T14:03:03.621328+00:00"
+}

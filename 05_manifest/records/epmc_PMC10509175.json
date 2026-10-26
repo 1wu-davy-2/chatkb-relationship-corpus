@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10509175",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Emplacement of the Argyle diamond deposit into an ancient rift zone triggered by supercontinent breakup.",
+  "authors": "Olierook HKH, Fougerouse D, Doucet LS, Liu Y, Rayner MJ, Danišík M, Condon DJ, McInnes BIA, Jaques AL, Evans NJ, McDonald BJ, Li ZX, Kirkland CL, Mayers C, Wingate MTD.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1038/s41467-023-40904-8",
+  "pmcid": "PMC10509175",
+  "url": "https://europepmc.org/article/PMC/PMC10509175",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10509175/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Argyle is the world's largest source of natural diamonds, yet one of only a few economic deposits hosted in a Paleoproterozoic orogen. The geodynamic triggers responsible for its alkaline ultramafic volcanic host are unknown. Here we show, using U-Pb and (U-Th)/He geochronology of detrital apatite and detrital zircon, and U-Pb dating of hydrothermal titanite, that emplacement of the Argyle lamproite is bracketed between 1311 ± 9 Ma and 1257 ± 15 Ma (2σ), older than previously known. To form the Argyle lamproite diatreme complex, emplacement was likely driven by lithospheric extension related to the breakup of the supercontinent Nuna. Extension facilitated production of low-degree partial melts and their migration through transcrustal corridors in the Paleoproterozoic Halls Creek Orogen, a rheologically-weak rift zone adjacent to the Kimberley Craton. Diamondiferous diatreme emplacement during (super)continental breakup may be prevalent but hitherto under-recognized in rift zones at the edges of ancient continental blocks.",
+  "raw_path": "01_raw/europepmc_xml/PMC10509175.xml",
+  "text_path": "02_text/europepmc/PMC10509175.txt",
+  "raw_bytes": 124853,
+  "text_chars": 41733,
+  "raw_sha256": "55f20878d505766b999a97a8a9651e97bd45ce943c0b3808eb62c0706f1cddb9",
+  "text_sha256": "0789985126fafcfa5ef6c8c715926dac777c3410deeaa92fead10235c10ab8fe",
+  "retrieved_at": "2026-10-25T15:47:03.613325+00:00"
+}

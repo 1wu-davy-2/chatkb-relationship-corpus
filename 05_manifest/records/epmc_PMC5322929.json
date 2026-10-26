@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5322929",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Satisfaction guaranteed? How individual, partner, and relationship factors impact sexual satisfaction within partnerships.",
+  "authors": "Velten J, Margraf J.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0172855",
+  "pmcid": "PMC5322929",
+  "url": "https://europepmc.org/article/PMC/PMC5322929",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5322929/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_communication"
+  ],
+  "abstract": "Within committed relationships, a wide range of factors may challenge or facilitate sexual satisfaction. The aim of this study was to clarify which individual, partner-, and partnership-related aspects of a sexual relationship are crucial for the prediction of sexual satisfaction. The study included data of a representative sample of 964 couples from the general population. The actor-partner interdependence model was used to estimate actor and partner effects. Overall, predictors explained 57% of outcome variance. Actor effects were found for sexual function, sexual distress, frequency of sexual activity, desire discrepancy, sexual initiative, sexual communication, sociosexual orientation, masturbation, and life satisfaction. Gender-specific partner effects were found for sexual function and sexual distress. Neither age, nor relationship duration were significant predictors. To deepen our understanding of sexual satisfaction, it is necessary to take quantitative and qualitative aspects of sexual relationships into account and to consider actor-, partner-, and relationship-related predictors.",
+  "raw_path": "01_raw/europepmc_xml/PMC5322929.xml",
+  "text_path": "02_text/europepmc/PMC5322929.txt",
+  "raw_bytes": 185968,
+  "text_chars": 40273,
+  "raw_sha256": "fd23aeaa573b8dc030ac22ca58a7de531cc20805ffacebf3d09b5f5376b99f48",
+  "text_sha256": "d399939b0b2e910e8569997027afa9673e28d2581af37a41a13ce036d8deb3c8",
+  "retrieved_at": "2026-10-25T15:39:10.421184+00:00"
+}

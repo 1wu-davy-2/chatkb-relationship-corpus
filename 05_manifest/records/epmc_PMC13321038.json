@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13321038",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Motivational pathways to problematic pornography use: A self-determination theory perspective.",
+  "authors": "Akbari M, Seydavi M, Sheikhi S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1016/j.abrep.2026.100724",
+  "pmcid": "PMC13321038",
+  "url": "https://europepmc.org/article/PMC/PMC13321038",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13321038/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "The present exploratory study investigates associations between problematic pornography use (PPU; i.e., dysregulated and distressing use of pornography) and psychological outcomes within the framework of Self-Determination Theory (SDT) using conditional process analysis ( N = 613, 75.7% male, mean age = 25.14 ± 4.41). PPU was positively associated with several pornography use motivations (notably stress reduction, emotional distraction, and fantasy), impulsivity, loneliness, psychological distress, and sexual dysfunction, and negatively associated with relationship satisfaction and sexual self-esteem. Being male, married, higher internet use frequency, and higher pornography viewing frequency were associated with higher levels of various motivations; female gender, being single, higher education, prior sexual intercourse experience, and higher sexual satisfaction were associated with lower levels. Exploratory conditional mediation analyses suggested that fantasy, lack of sexual satisfaction, and emotional distraction/suppression were the most consistent mediators of the relationships between relationship satisfaction, sexual self-esteem, and religious commitment with PPU, particularly at higher levels of psychological distress, loneliness, and sexual dysfunction. Other motivations (e.g., sexual curiosity, self-exploration) showed only sporadic, very small effects. Most indirect effects fell below the threshold for practical significance (|β| < 0.20), indicating that these motivational pathways are unlikely to be clinically useful intervention targets and play a minor mechanistic role, justifying research into alternative pathways. All findings are hypothesis-generating and require independent replication to better understand how different pornography use motivations would act differently at various levels of psychological vulnerabilities.",
+  "raw_path": "01_raw/europepmc_xml/PMC13321038.xml",
+  "text_path": "02_text/europepmc/PMC13321038.txt",
+  "raw_bytes": 164591,
+  "text_chars": 42339,
+  "raw_sha256": "b0778810d3aebad9e91014898cb52ed0ea5b6960b8ad1dcd4023529d17abcd66",
+  "text_sha256": "fabf5bce7690cf431376554202e538e82d30e0c1eca8470559ecbfcedc74e05f",
+  "retrieved_at": "2026-10-26T13:14:10.663452+00:00"
+}

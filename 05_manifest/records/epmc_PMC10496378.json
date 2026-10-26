@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10496378",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Infertility-related stress and its relationship with emotional divorce among Iranian infertile people.",
+  "authors": "Shayesteh-Parto F, Hasanpoor-Azghady SB, Arefi S, Amiri-Farahani L.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1186/s12888-023-05159-z",
+  "pmcid": "PMC10496378",
+  "url": "https://europepmc.org/article/PMC/PMC10496378",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10496378/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Background Infertility affects different aspects of couples' lives, so it may cause problems in couples' emotional relationships by increasing marital conflicts. This study aimed to determine Infertility-related stress and its relationship with emotional divorce among Iranian infertile people. Methods We conducted a cross-sectional observational study on 200 infertile people. The research environment was one of the well-equipped infertility centers in Tehran, Iran. Continuous sampling was employed. The data collection tools included a general information form, the Fertility Problem Inventory (FPI), and the Emotional Divorce Scale (EDS). Results The findings revealed a significant direct relationship between infertility-related stress and all its subscales with emotional divorce in both infertile women and men. In infertile women, the most concern was the need for parenthood, while the lowest concerns were the relationship and sexual concerns. Multiple linear regression analysis indicated that social and relationship concerns predicted 44% of emotional divorce, with social concern being the more influential factor. In infertile men, the need for parenthood was the most significant concern, while relationship and social concerns were less prominent. Multiple linear regression analysis showed that relationship concern predicted 50% of emotional divorce in infertile men. In both infertile men and women, social and relationship concerns explained 45% of the variance in emotional divorce. Among these two variables, relationship concern had a more impact in predicting emotional divorce. Also, there was no statistically significant difference between women and men regarding infertility-related stress and its subscales, except for sexual concern. Conclusion The study highlights the importance of the need for parenthood as a main concern among infertile individuals. Increased infertility-related stress and its subscales contribute to higher levels of emotional divorce among this population. Additionally, relationship concern was the lowest concern in infertile people. But it significantly predicts emotional divorce among infertile individuals.",
+  "raw_path": "01_raw/europepmc_xml/PMC10496378.xml",
+  "text_path": "02_text/europepmc/PMC10496378.txt",
+  "raw_bytes": 107432,
+  "text_chars": 31900,
+  "raw_sha256": "64fdda889d47c9e59db3880d54dc3b7f93290cf495277f31b8d3b14d9c54b3c2",
+  "text_sha256": "83b93af8b5831eb357eadb909bc5b374a96b7ed46db37c97deb60d6808150605",
+  "retrieved_at": "2026-10-25T15:44:11.399254+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8902147",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Flirting With or Through Media: How the Communication Partners' Ontological Class and Sexual Priming Affect Heterosexual Males' Interest in Flirtatious Messages and Their Perception of the Source.",
+  "authors": "Szczuka JM.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2022.719008",
+  "pmcid": "PMC8902147",
+  "url": "https://europepmc.org/article/PMC/PMC8902147",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8902147/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "Because technologies are frequently used for sexual gratification it seems plausible that artificial communication partners, such as voice assistants, could be used to fulfill sexual needs. While the idea of sexualized interaction with voice assistants has been portrayed in movies (e.g., \"Her\"), there is a lack of empirical research on the effect of the ontological class (human versus artificial) on the voice's potential to evoke interest in a sexualized interaction and its perception in terms of sexual attractiveness. The Sexual Interaction Illusion Model (SIIM), which emphasizes influences on sensations evoked by artificial interaction partners, furthermore suggests that there may be contextual influences, especially sexual arousal, that may be crucial for the question of engaging in a sexualized interaction with an artificial entity. To empirically investigate whether the ontological class of the speaker (computer-mediated human in comparison to voice assistants) and the level of sexual arousal affects the heterosexual males' interest in hearing more flirtatious messages and the perception of the communication partner's sexual attractiveness, an online experiment with between subject design was conducted. Two hundred and fifty seven respondents were confronted with at least four, and voluntarily six messages from either a computer-mediated human or a flirtatious voice assistant, in interaction with being previously primed sexually or neutrally. The results demonstrated that the effect of sexual arousal was not prevailing on the interest in further messages and the attractiveness perception of the interaction partners, while the ontological class did so. Here, the voice assistant evoked more interest in further messages and the technology itself, while the computer mediated human was perceived to be more sexually attractive and flirtatious, and evoked more social presence. The communication partners social presence was shown to be the predictor with most explanatory power for the interaction partners perceived sexual attractiveness, regardless of whether it was human or artificial. The results underline differences between artificial and human interaction partners, but also underline that especially social presence and the feeling that the user is addressed (in terms of flirtatiousness) is crucial in digitalized intimacy regardless of the ontological class.",
+  "raw_path": "01_raw/europepmc_xml/PMC8902147.xml",
+  "text_path": "02_text/europepmc/PMC8902147.txt",
+  "raw_bytes": 192700,
+  "text_chars": 89791,
+  "raw_sha256": "89f8ab204ccc89662b70134f8880652098efcc4346ecd4ce1a337b8a82a51ebb",
+  "text_sha256": "4b2ee73d94a94dc7949ce2769649b04f24d81acd73d08a96698c81ecd31c10b5",
+  "retrieved_at": "2026-10-25T15:45:19.191999+00:00"
+}

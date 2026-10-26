@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13253448",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Effects of physical exercise intervention on romantic self-perception, anxiety, and psychological wellbeing among female college students.",
+  "authors": "Liu D, Li C, Zhu G.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1743525",
+  "pmcid": "PMC13253448",
+  "url": "https://europepmc.org/article/PMC/PMC13253448",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13253448/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "emerging_adults"
+  ],
+  "abstract": "This study examined the effects of a structured physical exercise intervention on romantic self-perception, anxiety, and psychological wellbeing among female college students. A two-arm randomized controlled trial with a pretest-posttest design was conducted with 240 undergraduate students from Chinese universities, who were randomly assigned to an intervention group or a control group ( n = 120 per group). The intervention lasted 8 weeks and was implemented twice weekly for 90 min per session, while the control group continued their usual campus routines. Romantic self-perception, anxiety, and psychological wellbeing were assessed using Likert-type self-report scales. The scales demonstrated satisfactory reliability and convergent validity, with Cronbach's α values ranging from 0.907 to 0.922, composite reliability values ranging from 0.881 to 0.906, and average variance extracted values ranging from 0.529 to 0.554. Baseline comparisons indicated no significant differences between the two groups on the main study variables. Repeated-measures analyses showed significant time effects and significant group × time interaction effects for romantic self-perception, anxiety, and psychological wellbeing. Compared with the control group, participants in the intervention group showed greater improvement in romantic self-perception and psychological wellbeing, as well as a greater reduction in anxiety. Effect size estimates further indicated that changes in the intervention group were substantially larger than those observed in the control group. Parallel mediation analysis showed that the exercise intervention significantly predicted changes in romantic self-perception and anxiety, but the indirect effects of these variables on psychological wellbeing were not statistically significant, suggesting that the benefits of exercise on wellbeing may operate through multiple concurrent pathways beyond those examined in the present model. Overall, the findings suggest that structured physical exercise may serve as a practical behavioral strategy for improving self-perception, reducing anxiety, and promoting psychological wellbeing among female college students, particularly within East Asian university contexts.",
+  "raw_path": "01_raw/europepmc_xml/PMC13253448.xml",
+  "text_path": "02_text/europepmc/PMC13253448.txt",
+  "raw_bytes": 172433,
+  "text_chars": 86057,
+  "raw_sha256": "a6dee4d5fea9f4ce18d32c6f67582f4d1da9a2bd44514be4c9076e2adb21a2ec",
+  "text_sha256": "6ebd45634b23afe2ff76feb16ddcad568ad8f3b566bee747d96cee43deb34d59",
+  "retrieved_at": "2026-10-25T13:48:01.928358+00:00"
+}

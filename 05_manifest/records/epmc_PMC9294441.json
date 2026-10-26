@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9294441",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Perceived barriers and rewards to sexual consent communication: A qualitative analysis.",
+  "authors": "Edwards J, Rehman US, Byers ES.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/02654075221080744",
+  "pmcid": "PMC9294441",
+  "url": "https://europepmc.org/article/PMC/PMC9294441",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9294441/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types"
+  ],
+  "abstract": "Increasingly, affirmative consent - direct, unambiguous and voluntary agreement to engage in sexual activity (Craig & McKinley, 2015) - is the standard being adopted by educational institutions in North America (Bennett, 2016). Yet, studies show that most individuals continue to communicate consent through nonresistance (Jozkowski et al., 2014a). Given this discrepancy, it is critical to understand what factors prevent individuals from engaging in affirmative consent. Furthermore, a better understanding of the perceived rewards of consent communication could incentivize the adoption of affirmative consent. To understand the range of perceived barriers and rewards, we conducted an online, qualitative study where 231 participants answered two open-ended questions. We used inductive content analysis to categorize participants' perceptions of sexual consent barriers and rewards into four general content areas: (1) Communication Quality, (2) Relational and Emotional Experiences, (3) Sexual Quality and (4) Safety and Coercion. These perceived rewards and barriers were examined through the lens of the Information-Motivation-Behavioural Skills Model. Participants viewed consent communication not only as a means of ensuring safety but also as a way to enhance relational and sexual quality. However, they also perceived barriers in all three of these domains as well as barriers to ensuring that sexual consent communication is fluid and easily understood. These findings provide important avenues for future research investigating how individuals reconcile perceived rewards and costs of affirmative consent communication. We also suggest ways to enhance sexual education by discussing potential rewards and validating the normative nature of fears and anxieties around affirmative consent.",
+  "raw_path": "01_raw/europepmc_xml/PMC9294441.xml",
+  "text_path": "02_text/europepmc/PMC9294441.txt",
+  "raw_bytes": 139385,
+  "text_chars": 73192,
+  "raw_sha256": "e9e7a9c2c6c5dd9e4cdc43f227a66cb886d212ee2a462e2c48dc1965bf891575",
+  "text_sha256": "a8a9ed5fc0c4d3f03693294b4844a28ee99ae7882af67dcd9014271aa0a1592c",
+  "retrieved_at": "2026-10-26T13:26:16.210134+00:00"
+}

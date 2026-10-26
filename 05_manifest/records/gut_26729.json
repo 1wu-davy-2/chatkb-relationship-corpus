@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_26729",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "二刻拍案驚奇",
+  "gutenberg_id": "26729",
+  "url": "https://www.gutenberg.org/ebooks/26729",
+  "download_url": "https://www.gutenberg.org/cache/epub/26729/pg26729.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/26729.txt",
+  "text_path": "02_text/gutenberg/gut_26729_二刻拍案驚奇.txt",
+  "raw_bytes": 1308822,
+  "text_chars": 428750,
+  "text_sha256": "f52ab3dfe2eb1bf88d97bd2ecdaaeb78d7eb2218fbb54fc371f596357e2d89d8",
+  "retrieved_at": "2026-10-25T16:04:57.804669+00:00"
+}

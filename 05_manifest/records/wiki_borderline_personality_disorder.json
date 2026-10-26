@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_borderline_personality_disorder",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "边缘型人格障碍",
+  "requested_title": "边缘型人格障碍",
+  "url": "https://zh.wikipedia.org/wiki/%E8%BE%B9%E7%BC%98%E5%9E%8B%E4%BA%BA%E6%A0%BC%E9%9A%9C%E7%A2%8D",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 边缘型人格障碍",
+  "topics": [
+    "personality",
+    "mental_health"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/borderline_personality_disorder.json",
+  "text_path": "02_text/zh_wikipedia/borderline_personality_disorder.txt",
+  "raw_bytes": 18574,
+  "text_chars": 7391,
+  "text_sha256": "1eca06c2ca3547611a4ea5db86219ce19184b58db256da6fd93c4c2ef15a82ae",
+  "retrieved_at": "2026-10-25T16:25:02.141202+00:00"
+}

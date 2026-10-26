@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12931570",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"We Grind Each Other as Stones and Get Rid of Sharp Edges\": Young People's Reported Positive Change, Learnings, and Growth Through Romantic Relationships.",
+  "authors": "Kallová N.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.5964/ejop.12735",
+  "pmcid": "PMC12931570",
+  "url": "https://europepmc.org/article/PMC/PMC12931570",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12931570/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Romantic and intimate experiences serve as a crucial learning ground for individual and relational development, yet many aspects of this learning process remain underexplored. The present qualitative study explores romantic relationship-induced learning among 104 participants between 18 and 35, which may foster better navigation of their future relational interactions. Data, i.e., 37 in-depth and 67 written interviews, were analysed using reflexive thematic analysis, applying an inductive, semantic, and experiential approach. The report of themes created in the analysis describes how romantic experience positively affected the participants in: (i) identity (self-knowledge, personal growth, and self-evaluation), (ii) relational competence (communication, socio-emotional skills, and problem-solving), and (iii) partner decisions (relationship expectations, relationship boundaries).",
+  "raw_path": "01_raw/europepmc_xml/PMC12931570.xml",
+  "text_path": "02_text/europepmc/PMC12931570.txt",
+  "raw_bytes": 93349,
+  "text_chars": 41259,
+  "raw_sha256": "94a875a67679083945d6b0cbbcc87b728663808c3730211943fa51681bedf540",
+  "text_sha256": "1f7a17490b246fec64cb51cf5bd863f1eac437e98ed74c56054307ca403f3ac5",
+  "retrieved_at": "2026-10-25T15:41:52.549288+00:00"
+}

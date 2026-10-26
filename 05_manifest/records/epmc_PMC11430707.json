@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11430707",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Human-Robot Intimacy: Acceptance of Robots as Intimate Companions.",
+  "authors": "Bertoni S, Klaes C, Pilacinski A.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/biomimetics9090566",
+  "pmcid": "PMC11430707",
+  "url": "https://europepmc.org/article/PMC/PMC11430707",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11430707/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "Depictions of robots as romantic partners for humans are frequent in popular culture. As robots become part of human society, they will gradually assume the role of partners for humans whenever necessary, as assistants, collaborators, or companions. Companion robots are supposed to provide social contact to those who would not have it otherwise. These companion robots are usually not designed to fulfill one of the most important human needs: the one for romantic and intimate contact. Human-robot intimacy remains a vastly unexplored territory. In this article, we review the state-of-the-art research in intimate robotics. We discuss major issues limiting the acceptance of robots as intimate partners, the public perception of robots in intimate roles, and the possible influence of cross-cultural differences in these domains. We also discuss the possible negative effects human-robot intimacy may have on human-human contact. Most importantly, we propose a new term \"intimate companion robots\" to reduce the negative connotations of the other terms that have been used so far and improve the social perception of research in this domain. With this article, we provide an outlook on prospects for the development of intimate companion robots, considering the specific context of their use.",
+  "raw_path": "01_raw/europepmc_xml/PMC11430707.xml",
+  "text_path": "02_text/europepmc/PMC11430707.txt",
+  "raw_bytes": 97499,
+  "text_chars": 34886,
+  "raw_sha256": "bafe2bd37ac8e24b39f9b29e780bfe339499f0aa50a9177599fbbbe2f25232f8",
+  "text_sha256": "5137e4b4b5ccbfc14a29767740697b236aac8dc437f57d91c75a0979088c58e2",
+  "retrieved_at": "2026-10-25T15:44:05.114702+00:00"
+}

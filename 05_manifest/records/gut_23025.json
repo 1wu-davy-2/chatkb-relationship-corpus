@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_23025",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "The Book of Business Etiquette",
+  "gutenberg_id": "23025",
+  "url": "https://www.gutenberg.org/ebooks/23025",
+  "download_url": "https://www.gutenberg.org/cache/epub/23025/pg23025.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/23025.txt",
+  "text_path": "02_text/gutenberg/gut_23025_the_book_of_business_etiquette.txt",
+  "raw_bytes": 381442,
+  "text_chars": 353700,
+  "text_sha256": "df669bd31a9066f0cdb899e858580d1c4678f6a7da20a4a6f27363bdae2dedf5",
+  "retrieved_at": "2026-10-25T15:45:11.438402+00:00"
+}

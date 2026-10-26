@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13260958",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Intimate Partner Violence and Depressive Symptoms in Women in the Rural Region of Peru 2020 to 2022.",
+  "authors": "Cuba K, Espinoza R, Gutierrez EL.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/21501319261439203",
+  "pmcid": "PMC13260958",
+  "url": "https://europepmc.org/article/PMC/PMC13260958",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13260958/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Objective To determine the relationship between intimate partner violence and depressive symptoms in women in the rural region of Peru, 2020 to 2022. Methods Analytical cross-sectional study. We analyzed the 2020 to 2022 Demographic and Family Health Survey (ENDES) data from a subsample of partnered or ever-partnered women of childbearing age (15-49 years) residing in rural areas. Multivariate analysis was performed using a Poisson regression model with robust variance, accounting for the complex survey design. Adjusted prevalence ratios (aPR) with 95% confidence intervals (95% CI) are reported. Results A total of 6797 eligible women were included. The prevalence of depressive symptoms was 5.7%, and 38.4% reported experiencing any form of intimate partner violence (IPV). The variables independently associated with depressive symptoms were physical violence (aPR = 3.37; 95% CI: 2.14-5.32), psychological violence (aPR = 2.21; 95% CI: 1.79-2.71), unmarried marital status (aPR = 1.57; 95% CI: 1.29-1.91), speaking a native language (aPR = 1.44; 95% CI: 1.19-1.76), and a history of physical abuse by the father (aPR = 2.38; 95% CI: 1.57-3.62). Conclusions In the present study, an association was found between intimate partner violence in its dimensions of physical and psychological violence, with the presence of depressive symptoms. These findings underscore the need for integrated public health interventions that address violence prevention and mental health support in rural contexts.",
+  "raw_path": "01_raw/europepmc_xml/PMC13260958.xml",
+  "text_path": "02_text/europepmc/PMC13260958.txt",
+  "raw_bytes": 94315,
+  "text_chars": 25618,
+  "raw_sha256": "7bc90b79a994a12063ff2a72c072be0c757031dd2b1eb4423df70fcd692f0ae2",
+  "text_sha256": "b6153dbf06d35f4b0792425a66d2ae470be44cdf071e54298b3e70552018b577",
+  "retrieved_at": "2026-10-25T15:47:22.546442+00:00"
+}

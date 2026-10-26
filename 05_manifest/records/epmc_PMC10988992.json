@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10988992",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Personality Attributions in the Context of Stalking of Ex-Intimates or Others: A Victim's Perspective.",
+  "authors": "Truss L, de Roos MS.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/0306624x241240703",
+  "pmcid": "PMC10988992",
+  "url": "https://europepmc.org/article/PMC/PMC10988992",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10988992/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "Stalking perpetrators may suffer from maladaptive personality traits, particularly if they stalk in the context of an (ex-)intimate relationship. To date, no study has examined how different personality attributions may relate to stalker motivation, or the behaviors they engage in, and how this differs across victim-perpetrator relationships. Further, the perspective of the victim is often not taken into consideration, even though most stalking victims know their stalker intimately and a majority are stalked by a former or current partner. The present study employed a correlational design to assess the relationship between stalking behaviors, motivation to stalk, and personality attributions, as perceived by the victim across an ex-intimate or other victim-perpetrator relationship. The study sample consisted of 100 victims of stalking (63% ex-intimate; 85% female) who were recruited through a National Stalking Helpline. Results align with and extend the results of previous researchers, most notably the high proportion of reported Cluster B-aligned personality attributions among stalkers, as well as the proportion of more under-researched personality attributions, and their associated risks. Victims of an ex-intimate partner were more likely to report their stalker was motivated by intimacy, and personality attributions aligned with both borderline and paranoid PD were more often reported than in other relationship contexts. Results and clinical implications are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC10988992.xml",
+  "text_path": "02_text/europepmc/PMC10988992.txt",
+  "raw_bytes": 131249,
+  "text_chars": 43604,
+  "raw_sha256": "a84e535bc1aeaebee86f927c70947b9580cb9a8df502409e2c43184887b29790",
+  "text_sha256": "dd12824e5b3eaff85d6c55e399478061908aeada45a0e905762558ba7882d873",
+  "retrieved_at": "2026-10-25T15:31:07.469959+00:00"
+}

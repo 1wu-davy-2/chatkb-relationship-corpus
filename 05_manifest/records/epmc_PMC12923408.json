@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12923408",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual dysfunction associated with selective serotonin reuptake inhibitors in adults with depression: a systematic review and meta-analysis.",
+  "authors": "Dagostin Ferraz S, Kuyunga L, Rech P, Rodrigues Uggioni ML, Rodrigues Candido AC, Dagostin VS, Silva FR, Colonetti T, Grande AJ, da Rosa MI.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s00228-026-04011-z",
+  "pmcid": "PMC12923408",
+  "url": "https://europepmc.org/article/PMC/PMC12923408",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12923408/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "OBJECTIVE: To systematically evaluate the impact of SSRIs on sexual function in adults with depression compared to placebo through a systematic review and meta-analysis of randomized controlled trials (RCTs). METHODS: A systematic search using the terms “sexual dysfunction”, “depression” and “antidepressant” was conducted in PubMed/MEDLINE, LILACS, Embase, and the Cochrane Library for RCTs published up to June 2025. No language restrictions were applied. Both dichotomous and continuous outcomes were analyzed with 95% confidence intervals using RevMan 5.4. The risk of bias in individual studies was assessed independently by two reviewers using the revised Cochrane Risk of Bias tool for randomized trials (RoB 2). RESULTS: Thirteen RCTs met inclusion criteria for qualitative synthesis and six were included in meta-analyses. SSRIs were significantly associated with increased risk of orgasmic dysfunction (RR = 3.28, (95% CI of 2.33 to 4.60, p < 0.00001; I² = 8%,) and reduced sexual satisfaction (RR = 1.21, (95% CI of 1.11 to 1.32, p = 0.0001, I² = 0%,). A non-significant trend toward decreased sexual desire was observed (RR = 1.40, 95% CI: 0.92–2.12, p = 0.12; I² = 54%,). No significant differences were detected in total CSFQ scores compared with placebo. CONCLUSION: SSRI use is consistently associated with sexual dysfunction, particularly orgasmic dysfunction and reduced sexual satisfaction. The GRADE assessment indicated high to moderate certainty of evidence. Orgasmic dysfunction showed high certainty, with concerns limited to risk of bias. Sexual satisfaction, sexual desire disorders, and CSFQ total scores demonstrated moderate certainty, mainly due to risk-of-bias issues.",
+  "raw_path": "01_raw/europepmc_xml/PMC12923408.xml",
+  "text_path": "02_text/europepmc/PMC12923408.txt",
+  "raw_bytes": 156199,
+  "text_chars": 77469,
+  "raw_sha256": "8c58b8235fc0c938f5615f8e8751366d5fa08ea24ba257910f8d6cd1950ebf78",
+  "text_sha256": "434be9d7ca820d59caa5d420dce13b4b9c12d436463dfe754f210e937ec38f4d",
+  "retrieved_at": "2026-10-26T13:13:19.771910+00:00"
+}

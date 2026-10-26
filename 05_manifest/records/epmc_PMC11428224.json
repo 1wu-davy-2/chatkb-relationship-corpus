@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11428224",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Associations of Implicit and Explicit Sexual Double Standard Endorsement and Sexual Assertiveness with Sexual and Interactional Competence in Emerging Adults.",
+  "authors": "Grauvogl A, Pat-El R, van Lankveld JJDM.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/bs14090790",
+  "pmcid": "PMC11428224",
+  "url": "https://europepmc.org/article/PMC/PMC11428224",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11428224/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_communication_training",
+    "sexual_scripts"
+  ],
+  "abstract": "In this study, among emerging adults, we investigated the interrelationships of explicit and implicit measures of sexual assertiveness (SA) and sexual double standard endorsement (SDS) on the one hand, and different aspects of sexual and interactional competence (SAIC) on the other hand, using Partial Least Squares Path Modeling (PLS-PM) of cross-sectional data. Participants were 159 sexually active, heterosexual individuals in the Netherlands between 18 and 25 years. No exclusion criteria were used. The Sexual Competence and Interaction Competence in Youth and lifetime number of sexual partners were used to measure SAIC. Explicit SA was measured using the Hurlbert Index of Sexual Assertiveness, while Explicit SDS was assessed using the Scale for the Assessment of Sexual Standards in Youth. Two implicit association tests were performed to measure implicit SA and SDS. Participants accessed these computerized reaction time tasks via a secure online data collection platform. Results showed a strong association between the latent factors of sexual attitudes and SAIC. Greater SA and lower SDS were associated with a greater competence level. No gender effects were found.",
+  "raw_path": "01_raw/europepmc_xml/PMC11428224.xml",
+  "text_path": "02_text/europepmc/PMC11428224.txt",
+  "raw_bytes": 155634,
+  "text_chars": 41894,
+  "raw_sha256": "d0621c46ba910e6e1f982287fa2f56d079fd1547a8561bd037d0788788c9b226",
+  "text_sha256": "2d4a7c713fd833c7000777af72215d2089203bbb643d3cde688b276bc6e938bb",
+  "retrieved_at": "2026-10-26T12:57:59.046868+00:00"
+}

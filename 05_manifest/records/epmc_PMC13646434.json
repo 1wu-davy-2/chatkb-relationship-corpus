@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC13646434",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Who Did I Swipe On? Accuracy and Self-Presentation in Online Dating.",
+  "authors": "Jiwa S, Elsaadawy N, Carlson EN.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/01461672251386488",
+  "pmcid": "PMC13646434",
+  "url": "https://europepmc.org/article/PMC/PMC13646434",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13646434/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating",
+    "self_presentation"
+  ],
+  "abstract": "Many people use online dating profiles to meet partners and screen potential dates. Unlike other online contexts, targets might be more motivated to misrepresent their personality, making accuracy difficult. How strongly are people motivated to misrepresent themselves, how transparent is personality, and which individual differences might explain these processes? Online daters (targets, N = 180) submitted their profiles, described their personality and the impression they wanted to convey. Judges ( N = 196) viewed these profiles and rated targets' personalities. Overall, targets wanted to be seen accurately and positively, and they successfully presented desired personas without their personality leaking through, suggesting being seen accurately is within targets' control. Some processes were related to outcomes (e.g., swiping decisions) and explained by individual differences (e.g., attachment). These findings highlight the importance of considering self-presentational goals in online dating and when indexing accuracy in general.",
+  "raw_path": "01_raw/europepmc_xml/PMC13646434.xml",
+  "text_path": "02_text/europepmc/PMC13646434.txt",
+  "raw_bytes": 167241,
+  "text_chars": 50772,
+  "raw_sha256": "8813b4c290a3cd938a67cdbe7a80a3e6859716a8c6296e63ab581d5430fb76d1",
+  "text_sha256": "4aca5127ba04563c6906272d99205b4857a3092cfe50b18648994e5e4ed1b7aa",
+  "retrieved_at": "2026-10-25T13:48:37.779309+00:00"
+}

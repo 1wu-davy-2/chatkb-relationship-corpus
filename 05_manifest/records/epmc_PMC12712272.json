@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12712272",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "How Do Couple Relationship Interventions Improve Individual Well-Being? The Role of Relationship Confidence.",
+  "authors": "Larsen NB, Barton AW.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jmft.70104",
+  "pmcid": "PMC12712272",
+  "url": "https://europepmc.org/article/PMC/PMC12712272",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12712272/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "Growing evidence suggests that couple relationship education (CRE) programs can improve not only relationship functioning but also individual health and well-being. However, few studies to date have considered program factors that account for improvements in individual well-being. The current study, in response, investigated three factors targeted by CRE programming (i.e., communication, partner support, relationship confidence) as potential mechanisms for changes in both individual and relationship outcomes. The sample comprised 340 individuals (170 couples) who participated in the online ePREP program with remote coaching and completed three waves of survey assessments spanning 6 months. Data analyses indicated that relationship confidence was significantly associated with improvements in multiple relationship and individual outcomes. No significant associations were observed between other program-targeted factors (i.e., communication, partner support) and changes in individual outcomes. Findings offer implications for research and practice with couples, in particular, the wide-reaching benefits of promoting individuals' relational efficacy.",
+  "raw_path": "01_raw/europepmc_xml/PMC12712272.xml",
+  "text_path": "02_text/europepmc/PMC12712272.txt",
+  "raw_bytes": 177919,
+  "text_chars": 44762,
+  "raw_sha256": "284390d45342f57d49d8cbdde45a74372707bedd4b6d37b3129017744a9fcea1",
+  "text_sha256": "1892b0f7e428c9247e714d56c529aac50b625514ccfdd5d12c13044e0cffcb77",
+  "retrieved_at": "2026-10-25T13:58:00.049387+00:00"
+}

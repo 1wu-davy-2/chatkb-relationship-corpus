@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12783912",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationally specific sexual identity concealment and loneliness among sexual and gender minority women in Japan: A culturally situated analysis.",
+  "authors": "Hayakawa M, Fujita J, Saigusa Y, Tanabe Y, Hishimoto A, Asami T.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1002/pcn5.70280",
+  "pmcid": "PMC12783912",
+  "url": "https://europepmc.org/article/PMC/PMC12783912",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12783912/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "Aim To examine whether sexual identity concealment is differentially associated with loneliness across relational domains-parents and heterosexual friends-among sexual and gender minority (SGM) women in Japan, and to interpret these patterns within cultural norms. Methods We conducted a cross-sectional, self-administered paper questionnaire study of SGM women in Japan ( N = 166). Loneliness was assessed using the Japanese version of the Revised UCLA Loneliness Scale. Concealment was measured with binary items (1 = concealment, 0 = disclosure) for two domains. Multiple linear regressions estimated domain-specific associations with loneliness, adjusting for age; sexual orientation (reference = lesbian); gender identity (cisgender vs. non-cisgender); marital status (partnered vs. single); psychiatric service use in the past year (yes/no); lifetime substance use (ever vs. never); lesbian, gay, bisexual, transgender, and queer (LGBTQ)-based victimization (yes/no); and perceived prejudice (yes/no). Results Concealment from heterosexual friends was associated with higher loneliness, whereas concealment from parents showed no clear association with loneliness. Bisexual identity, compared with lesbian identity, and past-year psychiatric service use were also related to greater loneliness. Conclusion Sexual identity concealment is not monolithic; its association with loneliness depends on relational context. Peer-based concealment appears more consequential for loneliness than parent-directed concealment among SGM women in Japan. Interventions should address culturally situated norms in peer relationships, promote alternative pathways to connection, and avoid pathologizing strategic silence while mitigating its emotional costs.",
+  "raw_path": "01_raw/europepmc_xml/PMC12783912.xml",
+  "text_path": "02_text/europepmc/PMC12783912.txt",
+  "raw_bytes": 79935,
+  "text_chars": 33009,
+  "raw_sha256": "d837adcdaa36f87d1dff8506cc919f0b7f1fdd9d0eeec1e0e9a7e9244eff0d41",
+  "text_sha256": "fd03be21798ee9004664009884af13a94bad0c21618a8243155f20b940f1f1b8",
+  "retrieved_at": "2026-10-25T15:39:58.028725+00:00"
+}

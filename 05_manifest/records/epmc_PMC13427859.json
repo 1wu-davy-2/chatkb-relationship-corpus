@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13427859",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Cross-Cultural Examination of Intrasexual Competition: The Links Between Mating Competition, Aggression, Appearance Enhancement, and Sexuality.",
+  "authors": "Meskó N, Davis AC, Arnocky S, Őry F, Burghardt KO, Kiss DE, Tololiu KE, Abraham J, Han H.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s10508-026-03464-8",
+  "pmcid": "PMC13427859",
+  "url": "https://europepmc.org/article/PMC/PMC13427859",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13427859/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "In the context of mating, individuals of the same sex often act as rivals in the pursuit, attraction, and retention of desirable partners. This study explored the relationships between intrasexual competition and various aspects of human mating psychology across three countries: Canada, Hungary, and Indonesia. A total of 661 adults (including women, men, non-binary, and gender-unspecified individuals) completed an online questionnaire assessing sensation seeking, aggression, beauty-enhancing behavior, openness to cosmetic surgery, sexual motivation, and sociosexuality. Hypotheses were tested via Bayesian multilevel modeling. Measurement invariance testing and alignment procedures were conducted to address potential cross-cultural non-invariance. Results indicated that the superiority enjoyment component of intrasexual competition showed consistent positive associations with the examined psychological variables. Associations involving inferiority frustration were generally weaker and less consistent. The findings for openness to cosmetic surgery, sociosexuality, and aggression replicate prior research, whereas the links with sensation seeking, beauty-enhancing behavior, and sexual motivation extend the literature. Cross-national comparisons revealed no significant country differences in superiority enjoyment, whereas Canadian participants scored significantly lower than Hungarian and Indonesian participants in inferiority frustration, with no significant difference between the latter two groups. Overall, the findings suggest that intrasexual competition-particularly its superiority enjoyment component-shows consistent associations with mating-relevant psychological traits across cultural contexts, even when mean levels differ between societies.",
+  "raw_path": "01_raw/europepmc_xml/PMC13427859.xml",
+  "text_path": "02_text/europepmc/PMC13427859.txt",
+  "raw_bytes": 311814,
+  "text_chars": 75206,
+  "raw_sha256": "c3dc48288bedc7fb9e1a9dcd2ae97cfcc7b9f4b8c9da08582f7bc15445e1b3b6",
+  "text_sha256": "ba811c8d4883966797236f60a533b57acbf413257c1d6ce0fa4b10ad4efdbbe9",
+  "retrieved_at": "2026-10-26T12:57:24.406039+00:00"
+}

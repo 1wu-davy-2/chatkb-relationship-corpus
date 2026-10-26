@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13685145",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Network analysis of intimate partner violence and depression-anxiety symptoms in Chinese transgender women.",
+  "authors": "Xu L, Zheng Y, Wang F, Hu J, Wang F, Wang Y, Cai Y.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12889-026-28745-8",
+  "pmcid": "PMC13685145",
+  "url": "https://europepmc.org/article/PMC/PMC13685145",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13685145/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Background Chinese transgender women have a higher prevalence of intimate partner violence (IPV) compared to their cisgender counterparts. To mitigate the risk of IPV, it is crucial to comprehend the symptoms of emotional distress that are most closely associated with IPV. This network analysis investigated the item-level connections among depressive symptoms, anxiety symptoms, and IPV among Chinese transgender women. Methods Between February and December 2022, 264 adult transgender women in Shenyang, China, were recruited through snowball sampling with support from a community-based non-governmental organization. Data were collected using the Intimate Partner Violence Scale, the Patient Health Questionnaire (PHQ-9), and the Generalized Anxiety Disorder Questionnaire (GAD-7). The network structure of depressive symptoms, anxiety symptoms, and IPV was examined using \"Expected Influence\" and \"Bridge Expected Influence\" as measures of centrality. The stability of the network was assessed through a case-dropping bootstrap approach. A Network Comparison Test was conducted to examine whether network characteristics differed based on the presence or absence of IPV. Results Among 264 participants, 221 (83.7%) reported having experienced IPV. The most central symptom was PHQ6 (guilt), followed by GAD2 (uncontrollable worry) and GAD1 (nervousness). The bridge symptoms linking the depression and anxiety communities were GAD2 (uncontrollable worry), PHQ9 (suicide), and GAD5 (restlessness). A flow network indicated that the strongest associations between IPV and depressive and anxiety symptoms were for GAD5 (restlessness) and PHQ2 (sad mood). Network Comparison Test revealed no significant differences in global strength or structure between the IPV and non-IPV groups. Conclusions Findings highlight specific depressive and anxiety symptoms as key correlates of IPV among Chinese transgender women. These central and bridge symptoms offer hypothesis-generating entry points for future longitudinal research and may inform the development of targeted interventions; however, the cross-sectional design precludes causal or directional conclusions.",
+  "raw_path": "01_raw/europepmc_xml/PMC13685145.xml",
+  "text_path": "02_text/europepmc/PMC13685145.txt",
+  "raw_bytes": 128570,
+  "text_chars": 45328,
+  "raw_sha256": "e96efba88ac40280e0b0d1c809d6d511154b3c1c2b297c22b6df9008411cbdc6",
+  "text_sha256": "d91f99f6940bc26d9836f1e3c5c534f1aeedd4b389930a034bcb3122dbf2aef6",
+  "retrieved_at": "2026-10-25T13:58:11.108129+00:00"
+}

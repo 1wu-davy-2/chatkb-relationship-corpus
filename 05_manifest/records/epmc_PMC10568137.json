@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10568137",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "What's love got to do with jealousy?",
+  "authors": "Fernandez AM, Barbato MT, Cordero B, Acevedo Y.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2023.1249556",
+  "pmcid": "PMC10568137",
+  "url": "https://europepmc.org/article/PMC/PMC10568137",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10568137/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Romantic love and jealousy seem antagonistic, but the expression of both emotions have evolutionary functions that can go in the same direction of maintaining a relationship. Considering natural selection designed adaptations to solve the problems surrounding reproduction, then love and romantic jealousy are emotions aimed at staying cooperative for a period of time, where love solves the adaptive challenges of promoting pair bonding, cooperation, and protecting offspring; and jealousy is triggered by a threat or the loss of a valuable cooperative relationship, either on behalf of descendants in need of resources, or a close romantic bond. Consequently, understanding love and romantic jealousy points in the same adaptive functional domain of protecting a romantic pair bond. Specifically, love can be comprehended in two different ways and in regard to jealousy. First, conceiving love as the attachment to significant others one develops throughout lifetime, and secondly, it contemplates affective dependence. Results from a sample of single and committed individuals ( n = 332) show the predicted positive correlation between attachment and jealousy as stable traits, consistent with previous literature. In addition, there is a non-significant and low correlation, respectively, between attachment and love as a measure of dependence. Furthermore, in the single participants group, jealousy was associated with love. The discussion emphasizes the need for expanding a functional account of love and jealousy as complementary emotions of our human affective endowment. Finally, it would be informative to study attachment as a relational trait and love as a specific affection for a romantic partner that could be manipulated to elucidate the functional design of jealousy.",
+  "raw_path": "01_raw/europepmc_xml/PMC10568137.xml",
+  "text_path": "02_text/europepmc/PMC10568137.txt",
+  "raw_bytes": 125496,
+  "text_chars": 29539,
+  "raw_sha256": "a63fbdc08886b15d362bd7d4d6944ed40f15e81a6a0ce7385790a5fe9751924a",
+  "text_sha256": "d2d6c119c88821f47b6ad80aa78f9a0ac4e89f733a96894959e670f1a87d8b94",
+  "retrieved_at": "2026-10-25T15:29:40.250279+00:00"
+}

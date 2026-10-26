@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC2964732",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Standard values and relationship-specific validity of the Bielefeld Relationship Expectations Questionnaire (BFPE).",
+  "authors": "Petrowski K, Berth H, Paul S, Grande G, Stöbel-Richter Y, Brähler E.",
+  "year": "2010",
+  "journal": "",
+  "doi": "10.1186/1471-2288-10-92",
+  "pmcid": "PMC2964732",
+  "url": "https://europepmc.org/article/PMC/PMC2964732",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2964732/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_disclosure"
+  ],
+  "abstract": "Background The Bielefeld Partnership Expectations Questionnaire (BFPE) is a tool to assess attachment in the romantic relationships of adults. The attachment styles are operationalized as configuration patterns of scale scores. While convergent validity has already been investigated, discriminant validity is still lacking confirmation. Methods The present sample (n = 1509) is representative for the German population aged 18 to 50. The mean age was 34.6 years. Most of the participants lived in a relationship (77.3 %). Discriminant validity was analyzed using a marital quality questionnaire (PFB), a social support questionnaire (F-Soz-U K-14), and a life satisfaction questionnaire (FLZ). Results All the BFPE scales have a satisfying internal consistency between r = .79 and .86. Those individuals who showed a secure pattern, i.e. increased \"Readiness for Self-Disclosure\" and \"Conscious Need for Care\" as well as reduced \"Fear of Rejection\" experienced their partner as socially supportive, reported higher marital quality in all of its facets, and were more satisfied within the life-domains \"family/children\" and \"relationship/sexuality\". Standard values for each scale are presented. Conclusions The BFPE has repeatedly been verified as a short, reliable, and valid instrument applicable to research practice with healthy individuals as well as within clinical contexts.",
+  "raw_path": "01_raw/europepmc_xml/PMC2964732.xml",
+  "text_path": "02_text/europepmc/PMC2964732.txt",
+  "raw_bytes": 95634,
+  "text_chars": 27168,
+  "raw_sha256": "b37951660d8df5ba4c2263390ac892c06f0f20d7127beeb07bc14ba9ad51afd3",
+  "text_sha256": "3a15723a50f69f8c94d6d61a6e367f92384468d91f8c57fe123ec46e296f1d1e",
+  "retrieved_at": "2026-10-25T15:43:46.837358+00:00"
+}

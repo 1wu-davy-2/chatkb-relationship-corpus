@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_safer_sex",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "安全性行為",
+  "requested_title": "安全性行為",
+  "url": "https://zh.wikipedia.org/wiki/%E5%AE%89%E5%85%A8%E6%80%A7%E8%A1%8C%E7%82%BA",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 安全性行為",
+  "topics": [
+    "sexuality",
+    "health",
+    "communication"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/safer_sex.json",
+  "text_path": "02_text/zh_wikipedia/safer_sex.txt",
+  "raw_bytes": 9655,
+  "text_chars": 3831,
+  "text_sha256": "62c206fe41907bc8200e9a120978a30830dadcbbdd8785dab0a345d43f55da66",
+  "retrieved_at": "2026-10-26T12:59:20.711036+00:00"
+}

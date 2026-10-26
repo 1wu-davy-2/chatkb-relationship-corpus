@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13550090",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Detecting Patterns of Intimate Partner Violence Using Qualitative Analyses and Machine Learning Algorithms.",
+  "authors": "Zhang Y, Fang J, Krishnakumar A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s11121-026-01923-1",
+  "pmcid": "PMC13550090",
+  "url": "https://europepmc.org/article/PMC/PMC13550090",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13550090/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Intimate partner violence (IPV) survivors increasingly use social media platforms to share their experiences and to seek help and support for their IPV-related concerns. IPV evidence extracted from social media platforms can provide valuable information and complement data obtained from conventional data sources (e.g., self-reports and interviews) thereby enhancing our understanding of IPV victimization. This study addressed three research questions: (1) What range of IPV behaviors emerge through qualitative coding? (2) To what extent do machine learning (ML) based text classifications yield results comparable to qualitative coding of IPV behaviors? and (3) Do the conceptualizations that emerge from unsupervised ML capture additional behaviors or contextual information not identified through qualitative analyses? We analyzed 400 posts from women on IPV-related online forums using qualitative content analysis and two ML approaches: supervised text classification and unsupervised topic modeling (Latent Dirichlet Allocation). Supervised learning approaches, notably Random Forest and Neural Networks, proved effective in classifying IPV violence subtypes with high accuracy (F1 scores .62 - .85). A comparison of findings from the qualitative and topic modeling approaches supported the presence of distinct characteristics of IPV: physical and sexual violence, psychological/emotional abuse, and coercive control. The ML model revealed vocabulary patterns consistent with relational and child-related contexts, temporal and frequency indicators of violence, references to legal system engagement, and spatial contexts, elements that were less captured through thematic qualitative coding alone. The consistency of findings across qualitative and ML approaches points to the potential of leveraging ML techniques when analyzing qualitative data, thus enabling the development of timely and effective IPV interventions.",
+  "raw_path": "01_raw/europepmc_xml/PMC13550090.xml",
+  "text_path": "02_text/europepmc/PMC13550090.txt",
+  "raw_bytes": 132007,
+  "text_chars": 61754,
+  "raw_sha256": "692f7003cb5c611260982e742aa7d6f462c2a33a6e1324b5b73657c0bd743e83",
+  "text_sha256": "34da81b379cc9a6a71cbcac0ef6569af97fa3e7f206e9d0fb16716017d25bb6a",
+  "retrieved_at": "2026-10-25T13:58:07.465265+00:00"
+}

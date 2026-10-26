@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8304795",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Revenge in Couple Relationships and Their Relation to the Dark Triad.",
+  "authors": "Clemente M, Espinosa P.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3390/ijerph18147653",
+  "pmcid": "PMC8304795",
+  "url": "https://europepmc.org/article/PMC/PMC8304795",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8304795/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Background This research examines how, when a romantic partner commits a perceived transgression that leads to couple break up, vengeful reactions are predicted by the type of transgression and the Dark Triad of personality. Methods An incidental sample of 2142 participants, half male and half female aged 18 to 70, completed a questionnaire developed by the authors to assess how they had reacted after being the perceived victims of a transgression committed by their partner and a measure of the Dark Triad. Results Results show half of the people who feel as though they are victims of a partner transgression show revenge reactions. These reactions are more emotional than rational and do not usually anticipate their consequences or success. Moreover, revenge is related primarily to psychopathy and to a lesser extent to Machiavellianism. Psychopathy is the best predictor for revenge thoughts and actions, whereas narcissism does not predict revenge when controlling for other dark traits. Conclusions This study contributes to the explanation of revenge reactions in couple relationships in relation to the type of transgression perceived and the Dark Triad. Conflicts that arise out of revenge may have long-lasting consequences for both the perceived aggressor and victim, and our results may be useful for assessing risks, monitoring, and preventing negative consequences for partners or ex-partners.",
+  "raw_path": "01_raw/europepmc_xml/PMC8304795.xml",
+  "text_path": "02_text/europepmc/PMC8304795.txt",
+  "raw_bytes": 142604,
+  "text_chars": 36958,
+  "raw_sha256": "40ca44f0b51d5fd8d87daec1782b288b36a0860010420089752cbe3b8f876c3e",
+  "text_sha256": "34d48e046b9b2ac7456e2c39c5b8e0bb17ca64c40e70053db514a995958922be",
+  "retrieved_at": "2026-10-25T15:47:24.096510+00:00"
+}

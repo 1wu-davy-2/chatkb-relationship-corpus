@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12201935",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marital coitus in Bangladesh in the 2010s: trends and sociodemographic determinants.",
+  "authors": "Amin MT, Rahman MM, Khan SH, Bhuiyan A, Rahman M, Alam N, Haider MM.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.7189/jogh.15.04139",
+  "pmcid": "PMC12201935",
+  "url": "https://europepmc.org/article/PMC/PMC12201935",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12201935/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_frequency"
+  ],
+  "abstract": "Background In Bangladesh, marriage is the sole socially accepted context for sexual intimacy or coitus between partners. Over the past decade, the predictors of coitus in the country have undergone notable changes, including progress in socioeconomic conditions, health behaviours, nutritional status, and contraceptive practices. Despite these changes, there exists no empirical evidence regarding patterns of coitus in Bangladesh, leaving a critical gap in our understanding of sexual behaviour in the country. We aimed to examine the changes and associated predictors of marital coitus among married couples in Bangladesh from 2011 to 2017-18 at the national level. Methods We used data from three nationally representative Bangladesh Demographic and Health Surveys (BDHSs) conducted in 2011, 2014, and 2017-18, whereby we included currently married women of reproductive age (CMWRA) living with their husbands who were not infecund or had not reached menopause in our analysis (n = 38 853). By pooling their data, we examined the changes in weekly marital coitus (WMC), queried within the survey through the question 'Was a CMWRA involved in sexual activity in the last four weeks preceding the survey?'. The determinant analysis included data from the 2017-18 BDHS (n = 13 686). We used bivariate analysis and mixed-effect logistic regression to investigate the changes and predictors of WMC among CMWRAs. Results Compared to 2011, the adjusted odds ratio to engage in WMC was 1.19 in 2014 (P = 0.05) and 1.32 in 2017-18 (P Conclusions The increase in WMC may be due to increased openness in reporting sexual activity among women. Furthermore, working women engaged in higher WMC, which may be related to their active engagement in decision-making and increased sexual satisfaction.",
+  "raw_path": "01_raw/europepmc_xml/PMC12201935.xml",
+  "text_path": "02_text/europepmc/PMC12201935.txt",
+  "raw_bytes": 154745,
+  "text_chars": 33072,
+  "raw_sha256": "d1597f76a21d046867a3d7944c47d8554dd94df333d00717808b62f003f583f7",
+  "text_sha256": "5355269da16b7fc0cc5400c8a1f013ba0db5e51fcbd25388ddcb6bee021c2045",
+  "retrieved_at": "2026-10-26T12:53:08.906888+00:00"
+}

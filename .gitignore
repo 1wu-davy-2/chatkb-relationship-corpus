@@ -1,0 +1,19 @@
+# 原始凭证与派生产物不进版本库：
+# 01_raw/ 是抓取到的 XML/HTML 原件（242 MB），04_chunks/chunks.jsonl 是投喂导出
+# （197 MB，单文件超过 GitHub 100 MB 硬限制），05_manifest/search/ 是检索响应缓存。
+# 三者都能用 tools/ 里的脚本从 02_text/ + 05_manifest/records/ 重建，只占体积不占信息。
+01_raw/
+04_chunks/
+05_manifest/search/
+05_manifest/*.log
+05_manifest/*.out
+
+# Python 与虚拟环境
+.venv/
+__pycache__/
+*.pyc
+
+# Windows / macOS
+Thumbs.db
+Desktop.ini
+.DS_Store

@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_marriage",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "婚姻",
+  "requested_title": "婚姻",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A9%9A%E5%A7%BB",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "marriage",
+    "family"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/marriage.json",
+  "text_path": "02_text/zh_wikipedia/marriage.txt",
+  "raw_bytes": 21061,
+  "text_chars": 7609,
+  "text_sha256": "31f982f54887f06df24a2ac0381be429a7dd83a922335c244a9ae892ec0bd31b",
+  "retrieved_at": "2026-10-25T15:36:02.497722+00:00"
+}

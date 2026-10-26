@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_chinese_astrology",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "中國占星術",
+  "requested_title": "中國占星學",
+  "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%8D%A0%E6%98%9F%E8%A1%93",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 中國占星術",
+  "topics": [
+    "astrology",
+    "china",
+    "culture"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/chinese_astrology.json",
+  "text_path": "02_text/zh_wikipedia/chinese_astrology.txt",
+  "raw_bytes": 4494,
+  "text_chars": 1864,
+  "text_sha256": "a18ffb9519a71561da896477d5e8b16dd62dd4007296adc5187f0f6d830a7ff2",
+  "retrieved_at": "2026-10-26T13:17:04.094520+00:00"
+}

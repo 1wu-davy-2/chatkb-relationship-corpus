@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10299795",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mating Performance: Assessing Flirting Skills, Mate Signal-Detection Ability, and Shyness Effects.",
+  "authors": "Apostolou M, Papadopoulou I, Christofi M, Vrontis D.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1177/1474704919872416",
+  "pmcid": "PMC10299795",
+  "url": "https://europepmc.org/article/PMC/PMC10299795",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10299795/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "shyness"
+  ],
+  "abstract": "Several people today experience poor mating performance, that is, they face difficulties in starting and/or keeping an intimate relationship. On the basis of an evolutionary theoretical framework, it was hypothesized that poor mating performance would be predicted by poor flirting skills, poor mate signal-detection ability, and high shyness. By employing a sample of 587 Greek-speaking men and women, we found that more than 40% of our participants experienced difficulties in starting and/or keeping an intimate relationship. We also found that poor flirting skills, poor mate signal-detection ability, and high shyness were associated with poor performance in mating, especially with respect to starting an intimate relationship. The effect sizes and the odds ratios indicated that flirting skills had the largest effect on mating performance, followed by the mate signal-detection ability and shyness.",
+  "raw_path": "01_raw/europepmc_xml/PMC10299795.xml",
+  "text_path": "02_text/europepmc/PMC10299795.txt",
+  "raw_bytes": 69588,
+  "text_chars": 31801,
+  "raw_sha256": "56f51fc1f515bc85b9ed1f04f7ea873e9d2e3df6b6ad88cc7eb449659dd32bf8",
+  "text_sha256": "010575148e15b26bf274bbdd6e0f07f692e7378657e4fb4001c35c20b15e4d41",
+  "retrieved_at": "2026-10-25T15:27:25.684700+00:00"
+}

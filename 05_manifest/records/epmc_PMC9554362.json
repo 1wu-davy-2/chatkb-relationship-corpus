@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9554362",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Role of Pornography Use in Intimate Partner Violence in Different-Sex Couples: A Prospective Longitudinal Study.",
+  "authors": "Jongsma K, Timmons Fritz P.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/08862605211055145",
+  "pmcid": "PMC9554362",
+  "url": "https://europepmc.org/article/PMC/PMC9554362",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9554362/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "porn_and_relationship"
+  ],
+  "abstract": "Pornography use and intimate partner violence (IPV) are both prevalent in romantic relationships. However, information is lacking about whether pornography use predicts IPV. This study examined the relation between frequency of pornography use (FPU) and IPV across a span of 4 months in a sample of 132 different-sex couple dyads. At least one partner in each couple was attending a Canadian university. Participants ( N = 264) completed online measures of pornography use, IPV, and social desirability at baseline and at a 4-month follow-up. Two longitudinal actor-partner interdependence models using a structural equation framework to conduct path analyses demonstrated that (a) higher FPU among men at baseline predicted increases in IPV perpetration and victimization from baseline to 4-month follow-up for both men and women and (b) women's baseline FPU did not predict change in IPV over time for themselves or their partners. These findings suggest that frequent pornography use among male partners in different-sex romantic relationships may represent an under-recognized risk factor for IPV, and further research is needed to identify latent factors that may be contributing to this relation. Although women's baseline FPU did not predict changes in IPV over time, this may be because women used pornography less frequently than men.",
+  "raw_path": "01_raw/europepmc_xml/PMC9554362.xml",
+  "text_path": "02_text/europepmc/PMC9554362.txt",
+  "raw_bytes": 133314,
+  "text_chars": 46517,
+  "raw_sha256": "90139e5002c1936835037fa8256bd7fb3836c2d5ae358b75d77b9a3beebc20db",
+  "text_sha256": "0356cda794cc3632d5c7c58c0995e68ae0ae61cc38f45f44659db7c0b5027f75",
+  "retrieved_at": "2026-10-26T12:58:03.725737+00:00"
+}

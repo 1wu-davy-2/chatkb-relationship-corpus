@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12413897",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Love in the time of Zoom: how intimacy modulates brain and behaviour synchrony in face-to-face versus video communication.",
+  "authors": "Wu X, Hao Y, Zhang S, Zhang H, Jiang Y, Chen Y, Zhang Z.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1093/scan/nsaf070",
+  "pmcid": "PMC12413897",
+  "url": "https://europepmc.org/article/PMC/PMC12413897",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12413897/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "This study explores how video-mediated communication (VMC) and face-to-face communication (FTF) affect social bonding in relationships of varying intimacy. Using hyperscanning fNIRS and dyadic behavioural analysis, data from 72 dyads (36 romantic couples and 36 friends) were analysed. Results revealed an intimacy-by-modality interaction: couples showed better behavioural coordination and higher interpersonal neural synchrony (INS) in the 0.081-0.09 Hz band during FTF, while friends had better synchrony in VMC. In the 0.038-0.046 Hz band, friends exhibited greater INS during FTF, and couples showed better synchrony in VMC. These patterns suggest that high-frequency INS is associated with real-time social cue integration, while low-frequency INS relates to ongoing relational monitoring. Verbal behaviour fully mediated the relationship between satisfaction and FTF-induced prefrontal INS, highlighting connections among psychological states, behaviour, and neural alignment. Granger causality analysis showed a female-to-male neural influence during FTF, absent in VMC, likely due to reduced nonverbal signals. These results demonstrate that the influence of video mediation on interpersonal synchrony is relationship-specific and frequency dependent, empirically supporting a relational-context model that links attachment-based sensorimotor tuning with channel-selection processes in the Communicative Interdependence Perspective.",
+  "raw_path": "01_raw/europepmc_xml/PMC12413897.xml",
+  "text_path": "02_text/europepmc/PMC12413897.txt",
+  "raw_bytes": 102848,
+  "text_chars": 43359,
+  "raw_sha256": "bc7a582d7139bd5f9c578fb178cbf4f9e76b31f4175ab9071f5edd2474257a1d",
+  "text_sha256": "0eaa79375be6a724f64683fd9854a8492991e76b241b447589526c98e9041eb0",
+  "retrieved_at": "2026-10-25T15:43:30.322674+00:00"
+}

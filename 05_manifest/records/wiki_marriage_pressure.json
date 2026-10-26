@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_marriage_pressure",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "逼婚",
+  "url": "https://zh.wikipedia.org/wiki/%E9%80%BC%E5%A9%9A",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "marriage",
+    "china",
+    "family"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/marriage_pressure.json",
+  "text_path": "02_text/zh_wikipedia/marriage_pressure.txt",
+  "raw_bytes": 880,
+  "text_chars": 321,
+  "text_sha256": "a1d9378e6e4641a6d034b66e4267ab5974167abdccfb1f6a883dd0a8081554cd",
+  "retrieved_at": "2026-10-25T13:58:15.355541+00:00"
+}

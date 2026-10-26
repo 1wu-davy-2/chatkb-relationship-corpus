@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12789957",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "From Screens to Sheets: Understanding Social Media Addiction, Online Sexual Activity, Pornography Consumption, and Sexual Satisfaction Among Greek Adults.",
+  "authors": "Braouzou I, Gkouletsa K.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.7759/cureus.98947",
+  "pmcid": "PMC12789957",
+  "url": "https://europepmc.org/article/PMC/PMC12789957",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12789957/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "Introduction Digital technologies increasingly shape contemporary sexual behaviors, with social media use, online sexual activity, and pornography consumption becoming common aspects of modern intimacy. Aim This study examined the relationships between social media addiction, online sexual activity, problematic pornography consumption, and sexual satisfaction among Greek adults and explored how these associations vary across demographic groups. Materials and methods A quantitative, cross-sectional correlational design was employed with a sample of 676 Greek adults recruited via online platforms. Participants completed an anonymous questionnaire including the Bergen Social Media Addiction Scale, Internet Sex Screening Test, Problematic Pornography Consumption Scale, and Satisfaction With Sex Life Scale. Nonparametric tests (Spearman rank correlation, Kruskal-Wallis tests) and simple linear regressions were conducted using SPSS Statistics version 25 (IBM Corp. Released 2017. IBM SPSS Statistics for Windows, Version 25.0. Armonk, NY: IBM Corp.). Results Higher levels of social media addiction, online sexual activity, and problematic pornography consumption were each significantly associated with lower sexual satisfaction (rs = -0.230, rs = -0.148, and rs = -0.293, respectively; all p Conclusions The findings suggest that excessive engagement in digital sexual behaviors and problematic online media use are linked to reduced sexual satisfaction in Greek adults. These associations appear consistent across demographic groups but are more pronounced in specific populations. The results underscore the need for culturally tailored interventions promoting balanced digital engagement, sexual health education, and awareness of the potential psychological and relational impacts of online sexual behaviors.",
+  "raw_path": "01_raw/europepmc_xml/PMC12789957.xml",
+  "text_path": "02_text/europepmc/PMC12789957.txt",
+  "raw_bytes": 155269,
+  "text_chars": 54037,
+  "raw_sha256": "bded401e0e0706f92f6cb3d9a512ae95157e6f8ef7a712a8e98088458a4e9675",
+  "text_sha256": "2e924d1f2bffd439730b9b8183000cbd7993aeabccb445d1b7181ea458f2b9ee",
+  "retrieved_at": "2026-10-26T13:11:48.631831+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_self_esteem",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "自尊",
+  "requested_title": "自尊",
+  "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E5%B0%8A",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "self_esteem",
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/self_esteem.json",
+  "text_path": "02_text/zh_wikipedia/self_esteem.txt",
+  "raw_bytes": 16905,
+  "text_chars": 6005,
+  "text_sha256": "2322ab445470219fb11334586881d0e6d5e1157bb6f5aadeb9eccc478d5d2687",
+  "retrieved_at": "2026-10-25T15:32:05.341323+00:00"
+}

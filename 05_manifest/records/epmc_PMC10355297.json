@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10355297",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Perceived Effectiveness of Flirtation Tactics: The Effects of sex, Mating Context and Individual Differences in US and Norwegian Samples.",
+  "authors": "Kennair LEO, Wade TJ, Tallaksen MT, Grøntvedt TV, Kessler AM, Burch RL, Bendixen M.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/14747049221088011",
+  "pmcid": "PMC10355297",
+  "url": "https://europepmc.org/article/PMC/PMC10355297",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10355297/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "Flirting involves various signals communicated between individuals. To attract potential mates, men and women exhibit flirtatious behavior to get the attention of, and potentially elicit sexual or romantic interest from, a desired partner. In this first large, preregistered study of judgement of the effectiveness of flirtation tactics based on Sexual Strategies Theory, we considered the effects of flirter's (actor) sex and mating contexts in addition to rater's (participant) sex across two cultures, Norway and the U.S. Culturally relevant covariates such as sociosexuality, extraversion, mate value, age, and religiosity were examined. Participants from Norway (N = 415, 56% women) and the US (N = 577, 69% women) responded to one of four different randomized questionnaires representing a factorial design considering either short-term versus long-term mating context and either female or male sex of actor. We found that sexual availability cues were judged more effective when employed by women in short-term mating contexts. Friendly contact, such as hugs or kissing on the cheek, was not. Cues to generosity and commitment were judged more effective when employed by men in long-term mating contexts. Humor was rated as more effective when used by men and in long-term contexts, and least effective when used by women in short term contexts. However, laughing or giggling at someone's jokes was an effective flirtation tactic for both sexes. Overall, predictions for culturally relevant covariates were not supported, but cultural differences were found in bodily displays, initial contact, and generosity. These findings dovetail neatly with findings from the self-promotion literature, and further support that flirtation is a universal mate signaling strategy.",
+  "raw_path": "01_raw/europepmc_xml/PMC10355297.xml",
+  "text_path": "02_text/europepmc/PMC10355297.txt",
+  "raw_bytes": 150688,
+  "text_chars": 57368,
+  "raw_sha256": "2848a6636c68316ea818b679b3b7a467a7d951987239fcbd3f1ed60cb7361855",
+  "text_sha256": "2e5e9c9c5cee587d6e42964682841b8dc565043ac572026e0ee5095fb611951c",
+  "retrieved_at": "2026-10-25T15:45:51.828692+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12445396",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Empathic Conjectures in Emotionally Focused Couple Therapy (EFCT): A Process Microanalytic Study.",
+  "authors": "Fatahian-Tehran HM, Chatha S, Elliott R.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/jmft.70075",
+  "pmcid": "PMC12445396",
+  "url": "https://europepmc.org/article/PMC/PMC12445396",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12445396/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "Empathic conjectures are a key therapist response mode in Emotion(ally)-Focused Therapy, used to deepen emotions and strengthen attachment bonds; however, there is little research on them. This process microanalytic qualitative study analyzed 10 sessions, publicly available example of Emotionally Focused Couple Therapy (EFCT). We identified two core features: (1) guessing, where therapists articulate clients' implicit experiences, and (2) meaning match, linking conjectures directly to observable or inferable client experiences. Using a four-point confidence rating scale, we found that 88.6% of high-confidence conjectures were delivered tentatively, supporting tentativeness as important for minimizing therapeutic ruptures. Additionally, seven types of empathic conjectures were identified: feeling, relational process, narrative, formulation, reframing, evocative, and nonverbal feeling conjectures. These findings refine the definition of empathic conjectures, highlight therapist attunement, and provide valuable clinical insights for EFCT therapists. Future research should further explore empathic conjectures' impact on client outcomes and therapeutic alliance.",
+  "raw_path": "01_raw/europepmc_xml/PMC12445396.xml",
+  "text_path": "02_text/europepmc/PMC12445396.txt",
+  "raw_bytes": 76067,
+  "text_chars": 42098,
+  "raw_sha256": "7037eda1e576bdffb872f45d34ae18386b56f644e9f2d3dd6b537e09d9b422bd",
+  "text_sha256": "f3214bf5ba9b4c0306a285cecb78e3856c7f8fe2d7ebf2b91ba603aadb9dc241",
+  "retrieved_at": "2026-10-25T15:35:31.502727+00:00"
+}

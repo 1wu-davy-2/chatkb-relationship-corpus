@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_attachment_theory",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "依附理論",
+  "requested_title": "依恋理论",
+  "url": "https://zh.wikipedia.org/wiki/%E4%BE%9D%E9%99%84%E7%90%86%E8%AB%96",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "attachment",
+    "emotion",
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/attachment_theory.json",
+  "text_path": "02_text/zh_wikipedia/attachment_theory.txt",
+  "raw_bytes": 12244,
+  "text_chars": 4975,
+  "text_sha256": "66c44fcea99d8711a65d0e9f7b24655b04d9bbd3521d4dc7e92f66dd72b29f0d",
+  "retrieved_at": "2026-10-25T15:30:25.635227+00:00"
+}

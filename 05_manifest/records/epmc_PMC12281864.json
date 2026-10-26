@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12281864",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The scent of mating strategy: sociosexual orientation was associated with olfaction and body odor sniffing behavior in Chinese and American populations.",
+  "authors": "Chen Y, Wu M, Mahmut MK, Lv H, Zou L.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40359-025-03134-9",
+  "pmcid": "PMC12281864",
+  "url": "https://europepmc.org/article/PMC/PMC12281864",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12281864/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "BACKGROUND: Human sexuality and mating behaviors have been linked to the subjective importance of olfaction and body odor in one’s life. This study aimed to investigate the relationships between sociosexual orientation, subjective importance of olfaction, and body odor sniffing behavior, and to determine whether there is gender and cultural consistency. METHODS: 1,904 Chinese college students and additional 861 participants from more general population (410 Chinese and 451 Americans) completed three questionnaires measuring sociosexual orientation, subjective importance of olfaction, and body odor sniffing behavior, respectively. RESULTS: The results of Study 1 indicated a significant association between sociosexual orientation, subjective importance of olfaction, and body odor sniffing behavior for both males and females. Besides, the subjective importance of olfaction mediated the relationship between sociosexual orientation and body odor sniffing behavior. Results of Study 2 suggested that the relationships were consistent across cultures. CONCLUSIONS: This study found positive correlations between sociosexual orientation, the subjective importance of olfaction, and body odor sniffing behavior. Subjective importance of olfaction played a mediating role in the relationship between sociosexual orientation and body odor sniffing behavior, and this relationship was consistent across genders and cultures. These findings provide valuable insights into the role of human mating strategies in olfaction.",
+  "raw_path": "01_raw/europepmc_xml/PMC12281864.xml",
+  "text_path": "02_text/europepmc/PMC12281864.txt",
+  "raw_bytes": 162758,
+  "text_chars": 49043,
+  "raw_sha256": "8f429aecd473797feb29d0dac2c04f0ad8132fc503a6466d37935d88fb06e6a7",
+  "text_sha256": "6e6a76f59e9e3a7b135b913be194c9156e847842f1f35c627d672cd8aad51ab7",
+  "retrieved_at": "2026-10-26T12:56:36.995186+00:00"
+}

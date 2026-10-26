@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8165144",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual consent and chemsex: a quantitative study on sexualised drug use and non-consensual sex among men who have sex with men in Amsterdam, the Netherlands.",
+  "authors": "Drückler S, Speulman J, van Rooijen M, De Vries HJC.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1136/sextrans-2020-054840",
+  "pmcid": "PMC8165144",
+  "url": "https://europepmc.org/article/PMC/PMC8165144",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8165144/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent"
+  ],
+  "abstract": "Background Chemsex (drug use to enhance sex) has emerged among men who have sex with men (MSM). Non-consensual sex (NCS) is hypothesised to occur frequently under the influence of chemsex, however data are scarce. In this cross-sectional study, it was aimed to assess whether NCS is associated with chemsex. Methods We offered a survey about chemsex in the past 6 months (crystal methamphetamine, mephedrone and/or gamma-hydroxybutyrate/gamma-butyrolacton use) and NCS (sexual experiences beyond one's limits or unpleasant sexual experiences) in the past 5 years to Amsterdam-located gay dating platform users. Associations were assessed using χ² test, Fisher's exact test and multivariable logistic regression. Results Of 891 participants, 30.6% (273 of 891) engaged in chemsex; 21.2% engaging and 16.7% not engaging in chemsex reported any NCS experiences (p=0.109).Among MSM who reported any NCS experiences, chemsex engagers reported being touched against one's will less often compared with non-engagers (22.4% vs 39.8%; p=0.036). Yet, chemsex engagers reported passing out and not remembering what happened during drug use more often (41.4% vs 8.7%; p Conclusions A substantial proportion of MSM (regardless of chemsex engagement) reported NCS in the past 5 years. In multivariate logistic regression analysis, chemsex engagement was associated with an NCS experience. Among participants who reported NCS, suffering related to NCS however, did not differ between chemsex engagers and non-engagers. Sexual healthcare professionals need to address chemsex and NCS during consultations involving MSM and refer men for specialised help if deemed necessary.",
+  "raw_path": "01_raw/europepmc_xml/PMC8165144.xml",
+  "text_path": "02_text/europepmc/PMC8165144.txt",
+  "raw_bytes": 117502,
+  "text_chars": 24497,
+  "raw_sha256": "0d2d15d1432b0d12df875f36dabc72284d5c9d16eb99ce8df18b78b361a98044",
+  "text_sha256": "48c764d0184ebb95f8f73ea453628acbce225ca90dc382cc65903e5a1c1133b7",
+  "retrieved_at": "2026-10-25T15:32:26.850642+00:00"
+}

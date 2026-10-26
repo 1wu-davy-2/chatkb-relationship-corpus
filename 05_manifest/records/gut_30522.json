@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_30522",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "The etiquette of engagement and marriage : describing modern manners and customs of courtship and marriage, and giving full details regarding the wedding ceremony and arrangements",
+  "gutenberg_id": "30522",
+  "url": "https://www.gutenberg.org/ebooks/30522",
+  "download_url": "https://www.gutenberg.org/cache/epub/30522/pg30522.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/30522.txt",
+  "text_path": "02_text/gutenberg/gut_30522_the_etiquette_of_engagement_and_marriage.txt",
+  "raw_bytes": 227228,
+  "text_chars": 201713,
+  "text_sha256": "af8c1cc61fe7d8457c8f937c3079743a947be10fe91492bd51feda4c3ac8bed7",
+  "retrieved_at": "2026-10-25T15:54:20.713172+00:00"
+}

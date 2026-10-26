@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_66270",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "How to Get Married, Although a Woman; or, The Art of Pleasing Men",
+  "gutenberg_id": "66270",
+  "url": "https://www.gutenberg.org/ebooks/66270",
+  "download_url": "https://www.gutenberg.org/cache/epub/66270/pg66270.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/66270.txt",
+  "text_path": "02_text/gutenberg/gut_66270_how_to_get_married_although_a_woman_or_t.txt",
+  "raw_bytes": 194716,
+  "text_chars": 168714,
+  "text_sha256": "c31b859dd628e2fa87d1f7db0993f8cd2f3718576a6edc04515c799d4e0edf8c",
+  "retrieved_at": "2026-10-25T15:55:21.702263+00:00"
+}

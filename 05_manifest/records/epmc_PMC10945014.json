@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10945014",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "How does social support affect subjective well-being among Chinese widowed older adults?",
+  "authors": "Zhang J, Cao F, Yang C.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fpubh.2024.1352585",
+  "pmcid": "PMC10945014",
+  "url": "https://europepmc.org/article/PMC/PMC10945014",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10945014/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Background Social support (SS) is an important factor influencing subjective well-being (SWB) in older adults. This is especially true for the special group of widowed older adults (WOA). Widowhood means that older adults have lost their most important SS, and therefore, the search for a guardian from outside the spouse becomes a central issue in ensuring the SWB of WOA. Methods The data for this paper were obtained from CGSS 2021, a large national social survey in China. We operationalized SWB as an individual's overall perception of his or her experience of happiness using 'affective well-being' (i.e., emphasizing an individual's positive affective experiences), and scores were calculated using a Likert scale. This study used linear regression modeling to examine the impact of SS on the SWB of WOA (aged 60 and above). Results It was found that, first, this study presents the role of different circles of SS on the SWB of WOA, fully highlighting the importance of social context. Specifically, daughters, neighbors, and relatives constitute the guardians of the SWB for WOA in rural, whereas daughters and friends constitute the guardians of the SWB for WOA in rural. Second, the protective resources provided by the guardians not only serve as a buffer for WOA in distress but also reduce the likelihood of negative events occurring, thereby increasing WOA's SWB. Discussion This paper partially corroborates the findings of established studies on the topic of SS and SWB among older adults and the above findings not only help us to further explain the relationship between SS and SWB theoretically but also help us to rationalize the construction of SS for WOA practically.",
+  "raw_path": "01_raw/europepmc_xml/PMC10945014.xml",
+  "text_path": "02_text/europepmc/PMC10945014.txt",
+  "raw_bytes": 136163,
+  "text_chars": 41284,
+  "raw_sha256": "0ed44c984a8fe42abcd0b1ae8dba935596aa756b59213363492a7735a6a4180d",
+  "text_sha256": "797a11462dcfea860a0e472ecdf3ff160ca36a71d50b199b73514650496d8ece",
+  "retrieved_at": "2026-10-25T15:36:19.020077+00:00"
+}

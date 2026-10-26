@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12446693",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Does \"Consent Matter\"? An Evaluation of a Sexual Consent Awareness Campaign for College Students.",
+  "authors": "Lee C, Wong JS.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/10778012241280059",
+  "pmcid": "PMC12446693",
+  "url": "https://europepmc.org/article/PMC/PMC12446693",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12446693/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types"
+  ],
+  "abstract": "Consent, or lack thereof, is paramount in instances of sexual violence among college students. The current study assessed the impact of the Consent Matters campaign on Canadian undergraduate students' ( N = 799) attitudes toward sexual consent, perceived behavioral control in obtaining consent, use of indirect methods of obtaining consent, as well as recall of the campaign materials. Results indicate no significant impact of the campaign on student attitudes and beliefs regarding sexual violence and consent but do indicate students hold strongly positive attitudes toward consent. Recommendations for future campaigns and evaluations are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC12446693.xml",
+  "text_path": "02_text/europepmc/PMC12446693.txt",
+  "raw_bytes": 157891,
+  "text_chars": 48783,
+  "raw_sha256": "0a32c308be3c08b29fc5d91482f16b1db861b40fdfc7832fce0e22d2d3661f31",
+  "text_sha256": "fd722dcff8425553eb0e25675698783422965ae918b3437e2c941c151760c5ca",
+  "retrieved_at": "2026-10-26T13:27:30.879480+00:00"
+}

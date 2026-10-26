@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_the_art_of_loving",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "爱的艺术",
+  "requested_title": "爱的艺术",
+  "url": "https://zh.wikipedia.org/wiki/%E7%88%B1%E7%9A%84%E8%89%BA%E6%9C%AF",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 爱的艺术",
+  "topics": [
+    "book",
+    "love"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/the_art_of_loving.json",
+  "text_path": "02_text/zh_wikipedia/the_art_of_loving.txt",
+  "raw_bytes": 2730,
+  "text_chars": 1167,
+  "text_sha256": "0f7d193a93d3e68fc2b0c690afc6ffb169a9a473fd48572743240bb1c9142429",
+  "retrieved_at": "2026-10-25T16:26:15.101785+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5961442",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Emotional Accessibility Is More Important Than Sexual Accessibility in Evaluating Romantic Relationships - Especially for Women: A Conjoint Analysis.",
+  "authors": "Wade TJ, Mogilski J.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2018.00632",
+  "pmcid": "PMC5961442",
+  "url": "https://europepmc.org/article/PMC/PMC5961442",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5961442/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "Prior research examining mate expulsion indicates that women are more likely to expel a mate due to deficits in emotional access while men are more likely to expel a mate due to deficits in sexual access. Prior research highlights the importance of accounting for measurement limitations (e.g., the use of incremental vs. forced-choice measures) when assessing attitudes toward sexual and emotional infidelity, Sagarin et al., 2012, Wade and Brown, 2012). The present research uses conjoint analysis, a novel methodology for controlling several limitations of using continuous self-report measures in mate expulsion research. Participants ( N = 181, 128 women) recruited from Bucknell University and several psychology recruitment listservs in the United States rated nine profiles that varied in three potential levels of emotional and sexual accessibility. Men were more likely to want to break up with a partner due to sexual accessibility deficits, whereas women were more likely to want to break up due to emotional accessibility deficits. However, regardless of sex, emotional inaccessibility was more likely to produce mate expulsion. These findings are consistent with prior theory and highlight the need to disentangle emotional accessibility into its constituent in-pair benefits. This research also illustrates the utility of conjoint analysis as a statistical tool for studying how humans resolve trade-offs among competing outcomes during romantic decision-making.",
+  "raw_path": "01_raw/europepmc_xml/PMC5961442.xml",
+  "text_path": "02_text/europepmc/PMC5961442.txt",
+  "raw_bytes": 72955,
+  "text_chars": 27667,
+  "raw_sha256": "2a8ec6e2b8c1879c79a9d04f8afb20ca3f937dc7c7f92d4804706d9bd64ebaa4",
+  "text_sha256": "0462c913a2bcd094f030fb777609bf1676f90da80503ac108e467f54cb86fa26",
+  "retrieved_at": "2026-10-25T15:44:58.871562+00:00"
+}

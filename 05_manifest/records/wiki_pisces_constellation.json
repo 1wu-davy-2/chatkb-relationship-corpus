@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_pisces_constellation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "双鱼座",
+  "requested_title": "双鱼座",
+  "url": "https://zh.wikipedia.org/wiki/%E5%8F%8C%E9%B1%BC%E5%BA%A7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 双鱼座",
+  "topics": [
+    "zodiac",
+    "astronomy"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/pisces_constellation.json",
+  "text_path": "02_text/zh_wikipedia/pisces_constellation.txt",
+  "raw_bytes": 3689,
+  "text_chars": 1715,
+  "text_sha256": "ba06ab36ed1b57f56a08e970bdf3ea41e3c7391c461ac89cb88d7801dd2a7a20",
+  "retrieved_at": "2026-10-26T13:05:29.283802+00:00"
+}

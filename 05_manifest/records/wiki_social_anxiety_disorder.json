@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_social_anxiety_disorder",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "社交恐懼症",
+  "requested_title": "社交焦虑障碍",
+  "url": "https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BA%A4%E6%81%90%E6%87%BC%E7%97%87",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "anxiety",
+    "social"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/social_anxiety_disorder.json",
+  "text_path": "02_text/zh_wikipedia/social_anxiety_disorder.txt",
+  "raw_bytes": 2757,
+  "text_chars": 1075,
+  "text_sha256": "ef5fb5d5da387492fce7c477324832237b972f108a89a19e45da41eece376cb3",
+  "retrieved_at": "2026-10-25T15:32:14.824109+00:00"
+}

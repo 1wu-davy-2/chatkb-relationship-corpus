@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12485464",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Pain invalidation is an independent determinant of fibromyalgia, irrespective of depression.",
+  "authors": "Ghavidel-Parsa B, Taskoh MK, Leili EK, Bidari A, Abazari N, Masooleh IS.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3344/kjp.25035",
+  "pmcid": "PMC12485464",
+  "url": "https://europepmc.org/article/PMC/PMC12485464",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12485464/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "validation"
+  ],
+  "abstract": "Background This study evaluated and compared invalidation domains (discounting and lack of understanding) in patients with fibromyalgia (FM) and non-FM chronic musculoskeletal pain. The relationship between invalidation and depression was also investigated to clarify the role of FM. Methods A total of 207 patients (145 FM and 62 non-FM) completed questionnaires including the Illness Invalidation Inventory (3*I), Widespread Pain Index (WPI), Revised Fibromyalgia Impact Questionnaire (FIQR), and Beck Depression Inventory-second edition (BDI-II). Adjusted linear regression analyses were performed to assess the association between the 3*I and BDI-II, and univariate and multivariate logistic regression analyses were used to examine the relationships between FM (as the dependent variable) and other variables. Results WPI, FIQR, BDI-II, and 3*I scores were significantly higher in FM patients than in non-FM patients. The BDI-II total score was found to be a significant predictor of discounting and lack of understanding stemming from spouse and family sources in both groups, with slightly stronger effects in the non-FM group than in FM patients. In multivariate regression analysis, discounting from family sources (odds ratio [OR] = 1.81, 95% confidence interval [CI] = 1.02-3.20, P = 0.040) and the BDI-II total score (OR = 1.12, 95% CI = 1.06-1.20, P = 0.001) remained a determinant of having FM. Conclusions The higher frequency of invalidation in FM patients is not fully explained by depression because of weaker statistical relationships between invalidation and depression in FM rather than other pain disorders.",
+  "raw_path": "01_raw/europepmc_xml/PMC12485464.xml",
+  "text_path": "02_text/europepmc/PMC12485464.txt",
+  "raw_bytes": 111779,
+  "text_chars": 24709,
+  "raw_sha256": "855e8b73048321ea8bc7852df6ae9e34ceea7a45892c12abfd1a5a98d11cc718",
+  "text_sha256": "63e298aa35f512d1221fd94561334484d9b2086129759ce523fc439de5c288ed",
+  "retrieved_at": "2026-10-25T13:51:54.217213+00:00"
+}

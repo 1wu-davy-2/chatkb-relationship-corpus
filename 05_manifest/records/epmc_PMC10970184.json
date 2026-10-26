@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10970184",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Attachment Style and Emotional Regulation as Protective and Risk Factors in Mutual Dating Violence among Youngsters: A Moderated Mediation Model.",
+  "authors": "Morales-Sanhueza J, Martín-Mora-Parra G, Cuadrado-Gordillo I.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/healthcare12060605",
+  "pmcid": "PMC10970184",
+  "url": "https://europepmc.org/article/PMC/PMC10970184",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10970184/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Violence in intimate partner relationships among young adults has become a global health problem given its prevalence and its negative effects on physical and psychological well-being. The severity of the problem has given rise to a large body of research that has attempted to find the variables associated with victimization in young couples (for example, attachment style, emotional regulation skills or empathy, among others). Moreover, traditionally, many of these investigations have only considered the point of view of female victims within a gender violence approach. However, in recent times, more and more evidence of the existence of mutual violence in young relationships has been found. These findings, combined with simplistic explanations of the phenomenon, have proven to be insufficient to prevent it. In this context, the main objective of this study was to investigate how some variables linked to dating violence interact with each other, modifying the mutual violence young people suffer and exercise. Considering this, different instruments were administered (the Experience in Close Relationships Scale (ECR-R); Difficulties in Emotional Regulation Scale (DERS-E); Basic Empathy Scale (BES); and Multidimensional Couple Violence Scale (EMVN)) to a sample of 557 young Chileans. The analysis of the results, based on the construction of a moderated mediation model, reveals that difficulties in emotional regulation are a predictor of violence in intimate partner relationships, whose direct and indirect effects on the violence exercised can be moderated by that partner's attachment style. The findings also reveal that there is no association between empathy and violence, and they highlight that both men and women are victims and aggressors at the same time. This demonstrate the need to consider prevention and intervention strategies aimed at both sexes, since intimate partner violence is mutual and reciprocal.",
+  "raw_path": "01_raw/europepmc_xml/PMC10970184.xml",
+  "text_path": "02_text/europepmc/PMC10970184.txt",
+  "raw_bytes": 163205,
+  "text_chars": 45504,
+  "raw_sha256": "04861466e681aa83aaada79318fbd05623f57f9bfb7f4cccb4288b9c2fbb9e97",
+  "text_sha256": "dc8b2c1b7d629b780926ea438a43e167c155316fda762a7f13ef6a4b154f3d1c",
+  "retrieved_at": "2026-10-25T15:46:15.924621+00:00"
+}

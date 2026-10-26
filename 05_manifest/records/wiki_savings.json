@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_savings",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "储蓄",
+  "requested_title": "储蓄",
+  "url": "https://zh.wikipedia.org/wiki/%E5%82%A8%E8%93%84",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 储蓄",
+  "topics": [
+    "money"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/savings.json",
+  "text_path": "02_text/zh_wikipedia/savings.txt",
+  "raw_bytes": 14666,
+  "text_chars": 5233,
+  "text_sha256": "c710c69d7e6f2c5e52f48c11dea3b61e02bc1618c09a4820390305dbcd47f25d",
+  "retrieved_at": "2026-10-25T16:30:02.647719+00:00"
+}

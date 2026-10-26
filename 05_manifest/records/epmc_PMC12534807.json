@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12534807",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "End-of-life sedation and spousal grief: Exploring bereavement narratives with and without continuous deep sedation.",
+  "authors": "Sani L, Chemrouk Y, Ducos M, Gauthier P, Bacqué MF.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/26323524251356301",
+  "pmcid": "PMC12534807",
+  "url": "https://europepmc.org/article/PMC/PMC12534807",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12534807/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Background Spousal loss is a profoundly challenging experience, often leading to heightened risks of anxiety, depression, and prolonged grief. In the context of cancer, bereavement is further complicated by the caregiving role and the emotional toll of anticipating the end of life. Palliative care plays a crucial role in alleviating suffering, with Continuous Deep Sedation Until Death (CDSUD) being one approach to managing end-of-life distress. However, the impact of CDSUD on the grieving process remains underexplored. Objective This study explores the emotional trajectories of bereaved spouses about CDSUD, aiming to identify differences in grief experiences between those whose spouses received CDSUD and those who did not. Methods From September 2022 to April 2024, 13 participants were recruited from French hospital facilities. They were divided into two groups: Group 1 ( n = 7) spouses of patients who received CDSUD, and Group 2 ( n = 6) whose spouses did not. Data were collected through online semi-structured interviews and analyzed using ALCESTE software. Results Group 1 revealed two main themes: (1) Palliative Care, Sedation, and Disease History; (2) Grieving Process, Social Relationship Changes, Couple's History, and Difficult Moments. Group 2 presented three themes: (1) Disease History, (2) Family Background, and (3) Final Hours and Care Team. CDSUD was associated with an abrupt loss, while in its absence, bereaved spouses described extended caregiving and heightened emotional distress. Conclusion Bereavement experiences varied based on CDSUD usage, with implications for anticipatory grief and bereavement support. Both groups highlighted the need for enhanced support systems for grieving spouses.",
+  "raw_path": "01_raw/europepmc_xml/PMC12534807.xml",
+  "text_path": "02_text/europepmc/PMC12534807.txt",
+  "raw_bytes": 114347,
+  "text_chars": 37173,
+  "raw_sha256": "b766d27b4faafae4b536d9bc433b7038aadb58da3146b3bd1d593ee47877f27b",
+  "text_sha256": "9953cf2af93d338fc8207ef524b57ff5a2e7c0606e1e2994e373061f2e5d6d03",
+  "retrieved_at": "2026-10-25T15:35:33.034437+00:00"
+}

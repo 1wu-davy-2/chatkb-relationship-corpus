@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13672952",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Speaking the Public's Love Language: How Engaging with Lay Theories Can Build a Rigorous and Resonant Science of Relationships.",
+  "authors": "Impett EA.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/10888683261441653",
+  "pmcid": "PMC13672952",
+  "url": "https://europepmc.org/article/PMC/PMC13672952",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13672952/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "Academic AbstractPopular lay theories shape how millions of people understand and communicate about romantic relationships, yet they are rarely examined scientifically. Rather than dismissing these frameworks as misconceptions, this review argues that engaging with lay theories can advance a science of relationships that is both empirically rigorous and publicly resonant. Using the love languages as a case study, this review introduces a bidirectional framework in which lay theories inform scientific inquiry and scientific insights are translated back to the public. Engaging with lay theories can refine theory, clarify core relational processes, and reveal contextual and cultural blind spots in lay theories. In turn, examining why lay theories resonate highlights unmet public needs, opportunities for improved scientific communication, and implications for clinical practice, relationship education, and public policy. The result is a science of relationships that is rigorous and resonant with the lived experiences of those it aims to serve.Public AbstractPopular ideas about relationships-such as the love languages-shape how millions of people understand love, communicate needs, and decide whether their romantic relationships are working. Yet these ideas are rarely examined by scientists, even though they influence real-life relationship decisions. This article argues that popular relationship theories should not simply be dismissed as wrong, but carefully studied as windows into what people need, value, and struggle with in their relationships. Using the love languages as an example, this review shows how engaging with popular ideas can help scientists improve theories of love, communicate research more clearly, and design guidance that better fits people's lives and relationships. This review also highlights potential risks of oversimplified frameworks, especially when they ignore cultural context. By building a science of relationships that is both rigorous and relatable, researchers can offer guidance that is more inclusive, useful, and responsive to the public.",
+  "raw_path": "01_raw/europepmc_xml/PMC13672952.xml",
+  "text_path": "02_text/europepmc/PMC13672952.txt",
+  "raw_bytes": 180267,
+  "text_chars": 81779,
+  "raw_sha256": "95e0568c8c51c1ed4896cbe6f085f724f76d73eb700bf81f995a65ee27a0759a",
+  "text_sha256": "b6e990f2e2a311fd09c85336d1c8d20cc6b83d84ad5968a4bb4f44f8841836a1",
+  "retrieved_at": "2026-10-25T15:36:26.459457+00:00"
+}

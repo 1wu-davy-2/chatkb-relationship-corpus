@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC13540628",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Do partnered male aphrodisiac users engage in higher sexual risk behaviors related to sexually transmitted infections than single men? Evidence from a survey conducted in Kinshasa, Democratic Republic of the Congo.",
+  "authors": "Ndombe DM, Mangalu JMA, Manun'Ebo MF.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpubh.2026.1898629",
+  "pmcid": "PMC13540628",
+  "url": "https://europepmc.org/article/PMC/PMC13540628",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13540628/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "safer_sex_communication",
+    "singles"
+  ],
+  "abstract": "Drugs meant to help with erectile dysfunction are more often used for fun and to enhance sexual performance. However, the non-medical use of these medications may encourage risky sexual behavior and raise the chances of getting sexually transmitted infections, such as Human Immunodeficiency Virus. In this study, we explore the association between the aphrodisiac use and the risky sexual behavior among men aged 15-49 years in Kinshasa, Democratic Republic of the Congo. This study is a secondary analysis of data from 654 men aged 15-49 years in Kinshasa, regardless of sexual orientation. The dataset includes detailed information on socio-demographic characteristics, the use of aphrodisiac substances, and potential exposure to sexually transmitted infections. To analyze the relationship between the use of aphrodisiacs and risky sexual behavior, linear probability models were utilized. Furthermore, to assess their association with risky sexual behaviors, the study investigated the interactions between aphrodisiac use and a few factors, including marital status, and age. The main findings state that among the 654 respondents selected, 48.7% reported using aphrodisiacs in the past 12 months [95% CI: 44.95-52.61]. A linear probability model revealed that the consumption of aphrodisiacs is associated with an increased risk of engaging in risky sexual behavior [aCoef = 0.22 (95% CI: 0.17-0.28, p < 0.001)]]. Moreover, the combined effect of aphrodisiac use and being in a union [aCoef = 0.34 (95% CI: 0.19-0.49)]] or being at least 35 years old [aCoef = 0.28 (95% CI: 0.13-0.43)] further increases this risk. In summary, the study shows a higher risky sexual behavior among men using aphrodisiacs in Kinshasa-particularly among those currently in a cohabiting union-and underscores the urgency of implementing targeted prevention strategies.",
+  "raw_path": "01_raw/europepmc_xml/PMC13540628.xml",
+  "text_path": "02_text/europepmc/PMC13540628.txt",
+  "raw_bytes": 124655,
+  "text_chars": 37516,
+  "raw_sha256": "23de3126a9b422076b5220a5f60361ee72b730672bca2b6c36fd3d9f3974c4c6",
+  "text_sha256": "760c17817b969454a55a925d5bc069f25d4d99c42d1ee1ba6513cc5869bd7f4d",
+  "retrieved_at": "2026-10-25T15:37:40.070400+00:00"
+}

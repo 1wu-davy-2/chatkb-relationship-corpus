@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_obedience",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "服从",
+  "requested_title": "服从",
+  "url": "https://zh.wikipedia.org/wiki/%E6%9C%8D%E4%BB%8E",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 服从",
+  "topics": [
+    "psychology",
+    "influence"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/obedience.json",
+  "text_path": "02_text/zh_wikipedia/obedience.txt",
+  "raw_bytes": 1969,
+  "text_chars": 967,
+  "text_sha256": "d48c32cb0ea21aeb311e2fd42e21c83ab4c05b6ce66a15dd0e53f5e40b1b2f08",
+  "retrieved_at": "2026-10-25T16:21:26.840320+00:00"
+}

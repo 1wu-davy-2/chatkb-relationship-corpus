@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8360913",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Validation of the French-Canadian Version of the Sexual Inhibition and Sexual Excitation Scales-Short Form (SIS/SES-SF): Associations With Sexual Functioning, Sociosexual Orientation, and Sexual Compulsivity.",
+  "authors": "Nolet K, Guay JP, Bergeron S.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1016/j.esxm.2021.100374",
+  "pmcid": "PMC8360913",
+  "url": "https://europepmc.org/article/PMC/PMC8360913",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8360913/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Introduction The Dual control model proposes that both excitatory and inhibitory processes are responsible for the human sexual response. Aim To validate the French-Canadian translation of the Sexual Inhibition and Excitation Scales-Short Form (SIS/SES-SF) by exploring its factor structure and by investigating its capacity to retrospectively predict sexual functioning and behaviors, namely, sociosexual orientation and sexual compulsivity. Methods A French-Canadian translation of the SIS/SES-SF was created using forward-backward translation. A community sample of 362 men and 420 women completed an online survey. The factor structure and the measurement invariance between men and women was explored using Exploratory Structural Equation Modeling. Predictive power of the scales was tested using Multiple Linear Regression models using a corrected threshold (P Main outcome measures Sexual functioning was assessed using the International Index of Erectile Function and the Female Sexual Function Index while sexual compulsion and sociosexual orientation were measured using the Sexual Compulsion Scale and the Revised Sociosexual Orientation Inventory, respectively. Results The original three-factor solution of the SIS/SES-SF was replicated. All three scales showed acceptable internal consistency and good temporal stability. Yet, results only supported configural measurement invariance between men and women, suggesting that their scores cannot be directly compared. Overall, for both men and women, higher sexual excitation (SES) was significantly predictive of better sexual functioning, while higher sexual inhibition due to threat of performance failure (SIS1) was a significant predictor of lower sexual functioning. Both sexual compulsivity and sociosexual orientation were significantly predicted by higher SES and lower sexual inhibition due to threat of performance consequences (SIS2). Conclusion These results support the cross-cultural transferability of the SIS/SIS-SF and the Dual control model to French-Canadian men and women, higlighting the utility for clinicians to evaluate both excitatory and inhibitory factors associated with sexual dysfunction and sexual behaviors. Nolet K, Guay JP, Bergeron S. Validation of the French-Canadian Version of the Sexual Inhibition and Sexual Excitation Scales-Short Form (SIS/SES-SF): Associations With Sexual Functioning, Sociosexual Orientation, and Sexual Compulsivity. Sex Med 2021;9:100374.",
+  "raw_path": "01_raw/europepmc_xml/PMC8360913.xml",
+  "text_path": "02_text/europepmc/PMC8360913.txt",
+  "raw_bytes": 105487,
+  "text_chars": 31420,
+  "raw_sha256": "56938c9651de9b6d3d98bb29b1f3d7a22af3705f3869ee6440aa7c0d00bf5fae",
+  "text_sha256": "efb996999b2d592be7a74439c90d151981bab3a91fa258cd11fa1e416d61f4bc",
+  "retrieved_at": "2026-10-26T13:14:36.333239+00:00"
+}

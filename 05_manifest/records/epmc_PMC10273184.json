@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10273184",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sanitation and marriage markets in India: Evidence from the Total Sanitation Campaign.",
+  "authors": "Augsburg B, Baquero JP, Gautam S, Rodriguez-Lesmes P.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1016/j.jdeveco.2023.103092",
+  "pmcid": "PMC10273184",
+  "url": "https://europepmc.org/article/PMC/PMC10273184",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10273184/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_market"
+  ],
+  "abstract": "This paper measures the additional value of sanitation within the marriage arrangement. We use data from the Indian human development household survey (IHDS) to model the marital decisions of men and women in rural India and to estimate the marital surplus (the gains from being married). We use the model to demonstrate that the government's Total Sanitation Campaign (TSC) increased marital surplus and changed marriage market outcomes for men and women. Decomposition reveals (i) that sanitation makes it more attractive to be in a marriage for both gender, and (ii) that TSC exposure led to a decrease in the wife's surplus share, implying a redistribution of gains within the marriage.",
+  "raw_path": "01_raw/europepmc_xml/PMC10273184.xml",
+  "text_path": "02_text/europepmc/PMC10273184.txt",
+  "raw_bytes": 290993,
+  "text_chars": 93948,
+  "raw_sha256": "f1c11f6073e68f5d4272087e2f071a0cf07941ef792dbbfdd41a5ea0345aea21",
+  "text_sha256": "f7981edf3b13f07619b62c5cedff2adad5d2576252a9955621ea757cb84e575a",
+  "retrieved_at": "2026-10-25T15:33:06.297602+00:00"
+}

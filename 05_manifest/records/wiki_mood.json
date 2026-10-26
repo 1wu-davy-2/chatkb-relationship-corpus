@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_mood",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "心境",
+  "requested_title": "心境",
+  "url": "https://zh.wikipedia.org/wiki/%E5%BF%83%E5%A2%83",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 心境",
+  "topics": [
+    "emotion"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/mood.json",
+  "text_path": "02_text/zh_wikipedia/mood.txt",
+  "raw_bytes": 12516,
+  "text_chars": 6416,
+  "text_sha256": "55ad697d0e1ac8771add7abe1177d44e5302c5b3be83f8843362e80e229475bd",
+  "retrieved_at": "2026-10-25T16:24:16.316766+00:00"
+}

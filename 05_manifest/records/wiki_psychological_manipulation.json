@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_psychological_manipulation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "心理操縱",
+  "requested_title": "心理操纵",
+  "url": "https://zh.wikipedia.org/wiki/%E5%BF%83%E7%90%86%E6%93%8D%E7%B8%B1",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "manipulation",
+    "safety"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/psychological_manipulation.json",
+  "text_path": "02_text/zh_wikipedia/psychological_manipulation.txt",
+  "raw_bytes": 1606,
+  "text_chars": 656,
+  "text_sha256": "610472d17209437293468659d4fff5ef52d45815007dc4f783b3c0a58d2c593f",
+  "retrieved_at": "2026-10-25T15:37:15.533381+00:00"
+}

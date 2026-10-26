@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_civil_code_prc",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "中华人民共和国民法典",
+  "requested_title": "中华人民共和国民法典",
+  "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E6%B3%95%E5%85%B8",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 中华人民共和国民法典",
+  "topics": [
+    "law"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/civil_code_prc.json",
+  "text_path": "02_text/zh_wikipedia/civil_code_prc.txt",
+  "raw_bytes": 21069,
+  "text_chars": 7670,
+  "text_sha256": "c56c2c9b9438401d055058552b40d7bedcce07c3c81feba80bd62b974e7e0613",
+  "retrieved_at": "2026-10-25T16:31:15.439397+00:00"
+}

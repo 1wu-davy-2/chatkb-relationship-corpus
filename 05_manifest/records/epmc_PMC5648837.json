@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5648837",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Women's self-rated attraction to male faces does not correspond with physiological arousal.",
+  "authors": "Hagerman S, Woolard Z, Anderson K, Tatler BW, Moore FR.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.1038/s41598-017-13812-3",
+  "pmcid": "PMC5648837",
+  "url": "https://europepmc.org/article/PMC/PMC5648837",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5648837/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "There has been little work to determine whether attractiveness ratings of faces correspond to sexual or more general attraction. We tested whether a measure of women's physiological arousal (pupil diameter change) was correlated with ratings of men's facial attractiveness. In Study 1, women rated the faces of men for whom we also measured salivary testosterone. They rated each face for attractiveness, and for desirability for friendship and long- and short-term romantic relationships. Pupil diameter change was not related to subjective ratings of attractiveness, but was positively correlated with the men's testosterone. In Study 2 we compared women's pupil diameter change in response to the faces of men with high versus low testosterone, as well as in response to non-facial images pre-rated as either sexually arousing or threatening. Pupil dilation was not affected by testosterone, and increased relatively more in response to sexually arousing than threatening images. We conclude that self-rated preferences may not provide a straightforward and direct assessment of sexual attraction. We argue that future work should identify the constructs that are tapped via attractiveness ratings of faces, and support the development of methodology which assesses objective sexual attraction.",
+  "raw_path": "01_raw/europepmc_xml/PMC5648837.xml",
+  "text_path": "02_text/europepmc/PMC5648837.txt",
+  "raw_bytes": 63823,
+  "text_chars": 23938,
+  "raw_sha256": "d925abc823136df10ac65bafce680cb843e7dfd1cb00321a6f80db96b0172d40",
+  "text_sha256": "4106e8d365e1bb1d49118067041cee13921fbc98ff1678e27a7a1b0d2856ebd1",
+  "retrieved_at": "2026-10-25T15:48:10.037199+00:00"
+}

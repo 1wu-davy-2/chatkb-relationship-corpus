@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_consumerism",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "消費主義",
+  "requested_title": "消费主义",
+  "url": "https://zh.wikipedia.org/wiki/%E6%B6%88%E8%B2%BB%E4%B8%BB%E7%BE%A9",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "money",
+    "values"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/consumerism.json",
+  "text_path": "02_text/zh_wikipedia/consumerism.txt",
+  "raw_bytes": 10293,
+  "text_chars": 3636,
+  "text_sha256": "4001ce003c4d7c999ee5fd65d6b02db52b1d535824682f6dc49b1da5f7bea2b3",
+  "retrieved_at": "2026-10-25T15:43:03.108471+00:00"
+}

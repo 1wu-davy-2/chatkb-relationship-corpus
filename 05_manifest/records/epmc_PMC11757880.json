@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11757880",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Partner phubbing and relational aggression in romantic relationships among young adults in China: the roles of social support and gender.",
+  "authors": "Ying L, Ren L, Wang X, He J, Yang X, Zhang G.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2024.1470175",
+  "pmcid": "PMC11757880",
+  "url": "https://europepmc.org/article/PMC/PMC11757880",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11757880/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "phubbing"
+  ],
+  "abstract": "Introduction Phubbing may have significant interpersonal consequences. This study examines the association between partner phubbing and relational aggression, the mediation effect of social support, and the moderation effect of gender among young Chinese adults. Method A total of 772 young adults currently in a romantic relationship participated in an online survey that assessed their partner phubbing, relational aggression, and social support (i.e., ideal support, actual support, and discrepancy between ideal and actual support). Results The results show that partner phubbing was positively and significantly correlated with relational aggression for males and females, respectively. Actual support and support discrepancy partially mediated the relationship between partner phubbing and relational aggression among all participants. Regarding gender difference, actual support and support discrepancy partially mediated the relationship between partner phubbing and relational aggression in females but were not significant mediators for males. Discussion These findings suggest that partner phubbing had a significant effect on relational aggression in romantic relationships for both male and female participants. Social support may play a significant role between partner phubbing and relational aggression in females only. Tailored interventions for partner phubbing to prevent negative interpersonal consequences are warranted.",
+  "raw_path": "01_raw/europepmc_xml/PMC11757880.xml",
+  "text_path": "02_text/europepmc/PMC11757880.txt",
+  "raw_bytes": 128262,
+  "text_chars": 33727,
+  "raw_sha256": "cb17bd47fac76b4d4669eab9ad529b0c2f1d678b052f8588f86352434cf537f2",
+  "text_sha256": "c291186fd107fc132ca47fe0ca43e967efbaf25fec0b919c5bbfb686b12ed99f",
+  "retrieved_at": "2026-10-25T15:30:42.879081+00:00"
+}

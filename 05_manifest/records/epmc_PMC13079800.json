@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC13079800",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The mediating role of gaslighting as a psychological violence between self-silencing and psychological distress.",
+  "authors": "Aras E, Demir-Kaya M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1038/s41598-026-47134-0",
+  "pmcid": "PMC13079800",
+  "url": "https://europepmc.org/article/PMC/PMC13079800",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13079800/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control",
+    "conflict_repair"
+  ],
+  "abstract": "Forming close relationships, a crucial developmental task during young adulthood, is considered to play a significant role in individuals' mood disorder. Individuals who self-silence themselves to maintain relationships and avoid relational conflict experience psychological distress over time. Individuals who sacrifice themselves to maintain relationships are also thought to be susceptible to gaslighting, a form of psychological manipulation. Self-silencing, which prioritizes the partner's wishes, and gaslighting, which is characterized as an insidious form of bullying that links individuals to question their own thoughts, perceptions, and feelings during the relationship process, are thought to impact an individual's mental health. Therefore, this study aims to investigate the relationship between self-silencing, gaslighting, and psychological distress, as well as examine the mediating role of gaslighting. The participants of the study consisted of 333 women, aged between 20 and 40, who involved in a romantic relationship. Personal information form, silencing the self scale, gaslighting relationship exposure inventory, and depression, anxiety, stress scale-21 were utilized to participants. Correlation analysis was used to assess the relationship between the study variables. Regression-based mediation analysis was conducted to test the mediation of gaslighting in the relationship between self-silencing and psychological distress. Gaslighting exposure partially mediates the direct effect of self-silencing on psychological distress. Higher self-silencing is associated with increased gaslighting exposure, which in turn is linked to higher levels of psychological distress. The current study emphasized that the psychological impact of high self-silencing on individuals in romantic relationships operates through cognitive and emotional processes. In particular, the experience of gaslighting exposure plays a role in the relationship between self-silencing and psychological distress.",
+  "raw_path": "01_raw/europepmc_xml/PMC13079800.xml",
+  "text_path": "02_text/europepmc/PMC13079800.txt",
+  "raw_bytes": 139875,
+  "text_chars": 44866,
+  "raw_sha256": "56f2a082353aaf804983dce2b4d5e331b2cb6ca8192fbbe8e8b09e45842b99e6",
+  "text_sha256": "6257fdc9c365b7a7df608973b06a8910fd66c35823b756dbbdc2a7475bb2651f",
+  "retrieved_at": "2026-10-25T13:47:38.087799+00:00"
+}

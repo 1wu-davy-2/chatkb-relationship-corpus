@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13203585",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Hope for Romantic Relationships: Validation of a Brief Scale.",
+  "authors": "Marici M, Marina L, Cormoș VC.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/bs16050775",
+  "pmcid": "PMC13203585",
+  "url": "https://europepmc.org/article/PMC/PMC13203585",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13203585/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "commitment"
+  ],
+  "abstract": "This study aimed to develop and validate a brief measure of hope for romantic relationships (HRR), conceptualized as a future-oriented evaluation of relational continuity and quality. The sample consisted of 525 participants. Exploratory and confirmatory factor analyses supported a unidimensional structure, with strong factor loadings and good model fit. The scale showed good internal consistency and construct validity, being strongly associated with commitment while remaining distinct. Incremental validity analyses indicated that hope explained additional variance in psychological aggression and control of personal life beyond commitment, emerging as the strongest predictor. No significant effect was found for pre-supplementing behaviors. These findings support hope as a distinct construct reflecting expectations about the relationship's future and suggest that the scale is a brief and reliable tool for assessing relational dynamics.",
+  "raw_path": "01_raw/europepmc_xml/PMC13203585.xml",
+  "text_path": "02_text/europepmc/PMC13203585.txt",
+  "raw_bytes": 115104,
+  "text_chars": 37206,
+  "raw_sha256": "550f7c4a4b66f8f8ef9695c40a9347d4a4f8b457d3757ae1c3021b60448ee3db",
+  "text_sha256": "3fcf3c1ad34123e5dd5f9c6a61117d2aabbcedadf9bea074a3dced076f629ca9",
+  "retrieved_at": "2026-10-25T13:48:16.927876+00:00"
+}

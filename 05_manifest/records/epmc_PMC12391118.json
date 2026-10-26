@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12391118",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Experimental study of factors influencing observers' perceptions and reactions to sexual harassment in Chinese university students.",
+  "authors": "Huang Z, Lai J, Xin F.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1525006",
+  "pmcid": "PMC12391118",
+  "url": "https://europepmc.org/article/PMC/PMC12391118",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12391118/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "Introduction Sexual harassment, a pervasive form of gender-based violence, inflicts profound adverse effects on survivors. Observers' perceptions and responses critically shape subsequent attitudes and behaviors. A systematic comprehension of the determinants that influence observers' perception of harassment, as well as tendencies for victim-blaming and sympathy, is crucial for devising efficacious intervention strategies. However, existing research on these factors is fragmented, and studies within the Chinese context are notably scarce. Methods This study employed an experimental approach to examine factors influencing observers' perceptions and reactions to sexual harassment in China, including the type of harassment (gender harassment, unwanted sexual attention, or sexual coercion), observer gender, and observer characteristics (empathy, moral sensitivity, willingness to engage in feminist behaviors, sexism, sexual narcissism, sexual harassment myths, and tolerance of sexual harassment). Results The type of harassment and gender influenced observers' perception of harassment, emotional response, level of blame attributed to the victims, and sympathy toward the victims' suffering. Observer characteristics further modulated perceptions and reactions, bifurcating into two distinct systems. Observers with higher empathy, moral sensitivity, and feminist action readiness (the positive system) exhibited increased sensitivity, emotional connection, sympathy, and reduced victim-blaming. Conversely, those with higher sexism, sexual narcissism, sexual harassment myth endorsement, and harassment tolerance (the negative system) demonstrated diminished sensitivity, emotional engagement, sympathy, and augmented victim-blaming. Discussion The findings indicate that effective interventions to prevent and reduce sexual harassment should address the underlying beliefs and values shaping how individuals perceive and respond to such incidents.",
+  "raw_path": "01_raw/europepmc_xml/PMC12391118.xml",
+  "text_path": "02_text/europepmc/PMC12391118.txt",
+  "raw_bytes": 148416,
+  "text_chars": 57910,
+  "raw_sha256": "66afefe6532c36a74e0b01afc773ecedb5ff2614e2dffb8825cd39eb8f952275",
+  "text_sha256": "e1e78174b7e003b2a991ea2403845c4b3312b15c3cd5a9ee7195e8b87a2aec31",
+  "retrieved_at": "2026-10-26T12:55:32.964039+00:00"
+}

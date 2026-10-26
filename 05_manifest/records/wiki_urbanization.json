@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_urbanization",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "城市化",
+  "requested_title": "城市化",
+  "url": "https://zh.wikipedia.org/wiki/%E5%9F%8E%E5%B8%82%E5%8C%96",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "society",
+    "demography"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/urbanization.json",
+  "text_path": "02_text/zh_wikipedia/urbanization.txt",
+  "raw_bytes": 10304,
+  "text_chars": 3675,
+  "text_sha256": "c48cb80afd252152ffde35649851302ef2eaad18ecd25037a3fdcdddf182c98a",
+  "retrieved_at": "2026-10-25T15:43:18.140611+00:00"
+}

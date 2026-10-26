@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11675676",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "From Emotional Abuse to a Fear of Intimacy: A Preliminary Study of the Mediating Role of Attachment Styles and Rejection Sensitivity.",
+  "authors": "Finzi-Dottan R, Abadi H.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/ijerph21121679",
+  "pmcid": "PMC11675676",
+  "url": "https://europepmc.org/article/PMC/PMC11675676",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11675676/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection_sensitivity"
+  ],
+  "abstract": "Based on the literature indicating that emotional abuse erodes children's secure attachment bonds, this study aimed to examine a mediation model positing that insecure attachment (anxious and/or avoidant styles) would mediate the association between childhood emotional abuse and rejection sensitivity (rejection and acceptance expectancies), which, in turn, will be associated with a fear of intimacy. One hundred and eighty members of the Israeli public aged 21-30 who were in relationships participated in the study. The results showed that avoidant and anxious attachment mediated the relationship between childhood emotional abuse and a fear of intimacy, acceptance expectancy mediated the relationship between avoidant and anxious attachment and a fear of intimacy, anxious attachment mediated the relationship between childhood emotional abuse and both rejection and acceptance expectancies, and avoidant attachment mediated the relationship between childhood emotional abuse and acceptance expectancy. These results indicated the salient role of insecure attachment styles and their associations with rejection sensitivity in forming intimate relationships due to having experienced childhood emotional abuse. Intervention promoting \"earned security\" was recommended.",
+  "raw_path": "01_raw/europepmc_xml/PMC11675676.xml",
+  "text_path": "02_text/europepmc/PMC11675676.txt",
+  "raw_bytes": 104414,
+  "text_chars": 34438,
+  "raw_sha256": "48c1f1e7857aa654a0a6721735c91d04ab078a2862f094119ef63045669b7ae3",
+  "text_sha256": "27935ebe9ab3d8ab644c0ee807bb4e0807abac2b1a6f34d1135ba71fb8eb2476",
+  "retrieved_at": "2026-10-25T13:48:03.942129+00:00"
+}

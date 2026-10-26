@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_text_message",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "簡訊",
+  "requested_title": "簡訊",
+  "url": "https://zh.wikipedia.org/wiki/%E7%B0%A1%E8%A8%8A",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 簡訊",
+  "topics": [
+    "communication",
+    "technology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/text_message.json",
+  "text_path": "02_text/zh_wikipedia/text_message.txt",
+  "raw_bytes": 12767,
+  "text_chars": 4974,
+  "text_sha256": "4234f88391c1e0c8625fa454d42e6b7fa79ca4eee1481a2d8ef1acddc0ca4714",
+  "retrieved_at": "2026-10-25T16:21:09.144641+00:00"
+}

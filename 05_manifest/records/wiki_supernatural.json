@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_supernatural",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "超自然现象",
+  "requested_title": "超自然",
+  "url": "https://zh.wikipedia.org/wiki/%E8%B6%85%E8%87%AA%E7%84%B6%E7%8E%B0%E8%B1%A1",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 超自然现象",
+  "topics": [
+    "belief",
+    "culture"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/supernatural.json",
+  "text_path": "02_text/zh_wikipedia/supernatural.txt",
+  "raw_bytes": 3954,
+  "text_chars": 1786,
+  "text_sha256": "63b7e879e48fb03707a0c0d72186942bed94e27b13e1d38af8e5832ec98b6cbd",
+  "retrieved_at": "2026-10-26T13:04:15.798163+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7614518",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexting among British adults: a qualitative analysis of sexting as emotion work governed by 'feeling rules'.",
+  "authors": "Macdowall WG, Reid DS, Lewis R, Bosó Pérez R, Mitchell KR, Maxwell KJ, Smith C, Attwood F, Gibbs J, Hogan B, Mercer CH, Sonnenberg P, Bonell C, Natsal-4 Team.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1080/13691058.2022.2080866",
+  "pmcid": "PMC7614518",
+  "url": "https://europepmc.org/article/PMC/PMC7614518",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7614518/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Sexting has generated considerable public and professional interest with concerns centring on young people, and potential harms to mental and sexual health. Little research thus far has explored the practice among adults and none has focused on the cultural norms relating to the emotional experience of sexting across different ages and genders. We conducted 40 semi-structured interviews with a diverse sample of adults aged 18-59 years in Britain on the role of digital technologies in participants' sexual lives. In this paper, we draw on the accounts of 34 people with experience of sexting. We identified three main themes in participants' accounts related to the emotional aspects of sexting: (1) trust, (2) desire/intimacy and (3) shame. Under each theme, we identified motivations, 'feeling rules', and examples of 'emotion work' relating to the self, the other and the dyad. We conclude that there are shared cultural norms that constitute what appropriate sexting should feel like. Interventions aiming to minimise harms arising from sexting need to build on commonly held cultural conventions regarding the 'rules of the game' concerning feelings as well as behaviours.",
+  "raw_path": "01_raw/europepmc_xml/PMC7614518.xml",
+  "text_path": "02_text/europepmc/PMC7614518.txt",
+  "raw_bytes": 92217,
+  "text_chars": 45966,
+  "raw_sha256": "ed8021f4b77b9ab1882638d6f4691da95bf9895ff3965f50ebda6b517796e940",
+  "text_sha256": "da9980c29453e1aec84c6f15a595003da340cde3d898f3e629562f511232d047",
+  "retrieved_at": "2026-10-26T13:06:18.084841+00:00"
+}

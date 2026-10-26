@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11673514",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Interpersonal Theory of Suicide and Relationship Satisfaction: A Daily Diary Study.",
+  "authors": "Love HA, Morgan P.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/bs14121138",
+  "pmcid": "PMC11673514",
+  "url": "https://europepmc.org/article/PMC/PMC11673514",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11673514/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Romantic relationships serve as one of the most important relationships in adults' lives, yet the influence of relational dynamics on suicide ideation (SI) is limited and longitudinal associations are unclear. The Interpersonal Theory of Suicide has been applied to romantic relationships broadly and supports motivations of suicide (thwarted belonging and perceived burdensomeness) and relationship satisfaction to be predictors of SI. An online daily diary study ( n = 94 adults) was conducted to examine romantic relationship dynamics and mental health indicators in adults over 10 days. Multilevel growth modeling results revealed that higher perceived burdensomeness, but not relational satisfaction or thwarted belonging, was associated with higher initial levels of SI. However, perceived burdensomeness, thwarted belonging, and relationship satisfaction were not associated with rates of change in SI over time. Further, no interaction effects between either relationship satisfaction and thwarted belonging or perceived burdensomeness were found in association with trajectories of SI over the 10-day period. The results of this study indicate that relational satisfaction, through a commonly used global assessment of relational wellbeing, may not have a substantial influence on SI, particularly in individuals with mild SI levels. This may be due to relational satisfaction being relatively consistent, while SI is prone to short-term fluctuations. However, additional research is recommended to address other relational dynamics' influences on SI.",
+  "raw_path": "01_raw/europepmc_xml/PMC11673514.xml",
+  "text_path": "02_text/europepmc/PMC11673514.txt",
+  "raw_bytes": 154707,
+  "text_chars": 34788,
+  "raw_sha256": "c38d95c7ece2d5fcf92ca8423c8bcb22e9a0b8402e425fac47e13c37d7a01686",
+  "text_sha256": "f7ccdf4ac9fa0187c9b5b08f882d58ec2c6f834a217c0ad248c37a97cb106af7",
+  "retrieved_at": "2026-10-25T15:40:08.015982+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12690923",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Predictors of multiple sexual partnerships and condom use among men engaged in transactional sex: a recursive bivariate probit analysis of Demographic and Health Surveys from 26 Sub-Saharan African countries.",
+  "authors": "Yaya I.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s41182-025-00874-7",
+  "pmcid": "PMC12690923",
+  "url": "https://europepmc.org/article/PMC/PMC12690923",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12690923/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Background Men engaged in transactional sex (METS) are a critical population for HIV transmission dynamics in Sub-Saharan Africa (SSA). The interplay between multiple sexual partnerships and condom use, two key risk determinants, is complex and not fully understood. This study aimed to assess the prevalence and determinants of these interdependent behaviors among METS across SSA. Methods Cross-sectional data from 26 recent Demographic and Health Surveys (DHS) in SSA were pooled. A sample of 10,128 men who reported providing or receiving money or gifts in exchange for sex was analyzed. A recursive bivariate probit model was use to jointly model the propensity for multiple sexual partnerships and condom use, accounting for their potential correlation. Adjusted coefficients, predicted joint probabilities, and average marginal effects (AME) were reported. Results The weighted prevalence of multiple sexual partnerships was 55.3% (95%CI: 53.8-56.9) and of condom use was 32.9% (95%CI: 31.4-34.4). The model revealed a significant, positive correlation between the two behaviors (rho = 0.447, p Conclusion Among METS in SSA, there is evidence of risk compensation, wherein factors associated with multiple sexual partnerships are also associated with increased condom use. However, the alarmingly high prevalence of multiple partnerships coupled with low condom use among married METS represents a critical intervention gap.",
+  "raw_path": "01_raw/europepmc_xml/PMC12690923.xml",
+  "text_path": "02_text/europepmc/PMC12690923.txt",
+  "raw_bytes": 145314,
+  "text_chars": 45953,
+  "raw_sha256": "f477bcbe9f63502963add1a82f2637faef0ec5e95a2e50a1e95519509dc031dc",
+  "text_sha256": "fbca10e26c94821870fca9b0836ac3de5c60d03c695875509dc3893c3daf4ded",
+  "retrieved_at": "2026-10-25T15:43:53.348710+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12133926",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Investigating interspecific mating in the thelytokous predatory mite Amblyseius herbicolus (Chant) (Acari: Phytoseiidae), with comparative observations from three sexually reproducing phytoseiid species.",
+  "authors": "Zhang K, Cao J, Li X, Zhang ZQ.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10493-025-01034-6",
+  "pmcid": "PMC12133926",
+  "url": "https://europepmc.org/article/PMC/PMC12133926",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12133926/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "asexuality_celibacy"
+  ],
+  "abstract": "Asexual reproduction can be advantageous in the short term but is generally considered an evolutionary dead end due to the lack of genetic diversity and the accumulation of deleterious mutations. The thelytokous predatory mite Amblyseius herbicolus (Chant) (Acari: Mesostigmata) shows potential for biological pest control, but its reproductive mechanism remains poorly understood. This study examined whether A. herbicolus females have retained mating ability by exposing them to morphologically similar heterospecific males from three sexually reproducing phytoseiid species: Amblydromalus limonicus (Garman & McGregor), Amblyseius lentiginosus Denmark & Schicha, and Neoseiulus cucumeris (Oudemans). No mating or insemination occurred between A. herbicolus females and heterospecific males within 24 h. In contrast, nearly all males successfully inseminated conspecific females in a follow-up observation. Mating behaviours varied across species, with A. lentiginosus showing the longest pre-mating duration and lowest insemination rate, indicating higher mate selectivity. Most Ad. limonicus males inseminated a single spermatophore, while A. lentiginosus and N. cucumeris deposited two spermatophores, suggesting differences in sperm allocation and competition. No correlation was found between male body size, mating duration, and endospermatophore volume, possibly due to the small sample size. This study does not establish whether A. herbicolus reproduces strictly through thelytoky, nor does it exclude the possibility of sexually reproducing populations elsewhere. Further research, including interspecific mating trials with the more morphologically similar Amblyseius largoensis and an investigation into the role of endosymbionts such as Wolbachia, is needed to reveal the mechanisms underlying asexuality in A. herbicolus.",
+  "raw_path": "01_raw/europepmc_xml/PMC12133926.xml",
+  "text_path": "02_text/europepmc/PMC12133926.txt",
+  "raw_bytes": 108925,
+  "text_chars": 33377,
+  "raw_sha256": "8133cabde1923e8ffa82714c1f2b37724834858db2c56d0d10f9409e8c2d3b5c",
+  "text_sha256": "87b441f5bc16668150b89398a5b7e73a882553baddea87ab34ddd70071199dad",
+  "retrieved_at": "2026-10-26T13:14:23.749688+00:00"
+}

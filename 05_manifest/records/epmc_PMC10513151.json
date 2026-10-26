@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10513151",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Detection of intimate partner aggression through dark personality and moral disengagement.",
+  "authors": "Ferreiros L, Clemente M.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1590/0102-311xen073523",
+  "pmcid": "PMC10513151",
+  "url": "https://europepmc.org/article/PMC/PMC10513151",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10513151/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "porn_and_relationship"
+  ],
+  "abstract": "Health professionals are often the first to detect abuse. Intimate partner aggression can be approached by studying the personality of the aggressor. From this perspective, dark personality and the use of moral disengagement mechanisms are two key variables. In this study, information was collected from 348 individuals, mostly women, and a questionnaire was applied to determine what their sexual behavior was like with their partner. The Short Dark Tetrad (SD4) test was used to identify dark personality and the Propensity to Moral Disengagement to identify moral disengagement. Data were collected via Google forms and multivariate decision tree analysis (CHAID growth method) was performed. Results show that men score higher on the variables of dark personality variables and use of moral disengagement mechanisms than on the three variables that, along with sex, increase the presence of dark personality and moral disengagement mechanisms: infidelity, pornography consumption, and maintaining homosexual relationships. Infidelity and pornography consumption are characteristics present in all dimensions of dark personality. Moreover, these three variables are defining characteristics of relationships with high sadism scores. Nursing staff are possibly able to detect the presence of these variables in aggressors and thus initiate a process of victim protection. Therefore, this study proposes that nursing staff should be trained to perform this detection.",
+  "raw_path": "01_raw/europepmc_xml/PMC10513151.xml",
+  "text_path": "02_text/europepmc/PMC10513151.txt",
+  "raw_bytes": 62689,
+  "text_chars": 30115,
+  "raw_sha256": "8018e4701547363af927079f898bed27fc129305f6462ed371ece52d2d14c60a",
+  "text_sha256": "a2c2f05595f0b560aa697a173b77d7c5b8e7ff06670400f0296abf5151df233e",
+  "retrieved_at": "2026-10-26T13:07:10.287031+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12390868",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Is marriage 'just a paper'? Why men and women choose cohabitation over marriage in the Philippines: insights from focus group data.",
+  "authors": "Kuang B.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s41118-025-00263-2",
+  "pmcid": "PMC12390868",
+  "url": "https://europepmc.org/article/PMC/PMC12390868",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12390868/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "",
+  "raw_path": "01_raw/europepmc_xml/PMC12390868.xml",
+  "text_path": "02_text/europepmc/PMC12390868.txt",
+  "raw_bytes": 137308,
+  "text_chars": 66347,
+  "raw_sha256": "c910cd1362a8d0c1e239dea60e9dfcbfc8758134c7129176eeb5a44132c1fe46",
+  "text_sha256": "2e0aa5a90b9fadbcde4abb78fbcaa2398402863f1829ac05567382573bf67bcd",
+  "retrieved_at": "2026-10-25T15:29:43.487336+00:00"
+}

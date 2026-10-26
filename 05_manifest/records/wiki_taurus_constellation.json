@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_taurus_constellation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "金牛座",
+  "requested_title": "金牛座",
+  "url": "https://zh.wikipedia.org/wiki/%E9%87%91%E7%89%9B%E5%BA%A7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 金牛座",
+  "topics": [
+    "zodiac",
+    "astronomy"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/taurus_constellation.json",
+  "text_path": "02_text/zh_wikipedia/taurus_constellation.txt",
+  "raw_bytes": 6889,
+  "text_chars": 2984,
+  "text_sha256": "e55a5ae1233d1d2625d391400efe3b3975c08c58c3dd47261aae1883dce81bde",
+  "retrieved_at": "2026-10-26T13:04:27.359436+00:00"
+}

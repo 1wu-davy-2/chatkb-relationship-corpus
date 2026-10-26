@@ -1,0 +1,340 @@
+TITLE: Blurred boundaries in the digital era: a theory-driven development of the digital boundary ambiguity scale (DBAS).
+AUTHORS: Göçet-Tekin E, Taş İ, Eker H.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1186/s40359-026-04128-x
+PMCID: PMC13072600
+LICENSE: cc by-nc-nd
+LICENSE_URL: https://creativecommons.org/licenses/by-nc-nd/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC13072600
+TOPICS: trust
+
+---
+
+ABSTRACT
+PurposeThe increasing integration of digital technologies into romantic relationships has blurred boundaries between personal and public spheres, giving rise to digital boundary ambiguity. Grounded in Boundary Ambiguity Theory and the Relational Turbulence Model, this study aimed to develop and validate the Digital Boundary Ambiguity Scale (DBAS), a multidimensional tool designed to capture couples’ uncertainty and inconsistency in defining acceptable online behaviors.MethodData were collected from adults (N = 673, age range = 18–65) in romantic relationships who actively use social media. Following a pretrial with 40 participants, the 20-item draft scale was administered to 365 individuals for Exploratory Factor Analysis (EFA), and to 308 individuals for Confirmatory Factor Analysis (CFA). Reliability analyses included Cronbach’s alpha, McDonald’s omega, test–retest reliability, and item–total correlations. Criterion validity was examined using the Relational Uncertainty Scale, and additional associations were tested with dyadic trust, aimless internet browsing, and number of social media accounts.ResultsFindings supported a four-factor, 16-item structure comprising clarity of online boundaries, perceived ambiguity, frequency of misunderstandings, and comfort with digital privacy rules. CFA demonstrated good model fit (CFI = 0.94, TLI = 0.93, RMSEA = 0.06, SRMR = 0.05). Subscales showed acceptable-to-excellent reliability (α = 0.71–0.88; ω = 0.72–0.88). Digital boundary ambiguity negatively correlated with dyadic trust and positively with aimless internet browsing but showed no significant relationship with number of social media accounts. Gender and education differences also emerged, reflecting nuanced digital boundary management.ConclusionThe DBAS provides a valid and reliable instrument for examining digital boundary ambiguity in romantic relationships, offering both theoretical refinement and practical applications for counseling and relational research.Supplementary InformationThe online version contains supplementary material available at 10.1186/s40359-026-04128-x.
+
+BODY
+Introduction
+
+The increasing integration of digital communication and social media into romantic relationships has introduced new relational dynamics, including the blurring of boundaries between personal and public spaces. In offline contexts, couples often establish implicit or explicit rules regarding privacy, acceptable interactions with others, and relationship presentation to outsiders [1]. However, the pervasive and ubiquitous nature of digital technology has transformed these boundaries into fluid, contested, and often ambiguous zones, complicating couples’ efforts to maintain trust, security, and mutual understanding. In the online world, the boundaries governing romantic partnerships are less clear, particularly when it comes to social media interactions, online friendships, and digital expressions of intimacy [2]. The rapid evolution of digital platforms—such as Instagram, WhatsApp, and TikTok—has further intensified this complexity by enabling real-time monitoring, constant visibility, and effortless interaction with extended social networks. As a result, the potential for relational misunderstandings, perceived intrusions, and emotional turbulence has increased exponentially in contemporary romantic relationships.
+
+To better understand this complexity, Boundary Ambiguity Theory [3, 4] offers a valuable framework for examining how unclear or inconsistent roles and expectations create relational instability. In digital contexts, such inconsistent roles and expectations may involve uncertainty about behaviors such as interacting with former partners, responding to private messages from acquaintances or strangers, or sharing private relationship moments on public platforms. Originally developed in the context of family systems, the theory describes the uncertainty that arises when roles, responsibilities, or relationship boundaries are unclear or inconsistent. This ambiguity can cause stress and relational instability because individuals lack a shared understanding of how to navigate key relational experiences. While the theory was initially applied to situations like divorce, remarriage, and military families, it offers a useful framework for understanding how couples manage (or fail to manage) boundaries in the digital age. By extending Boundary Ambiguity Theory into the digital realm, this study foregrounds the complexity of negotiating relational norms when interactions transcend physical spaces and become subject to the interpretive ambiguities imposed by digital technologies. From this perspective, digital interactions are not merely “extensions” of offline relationships but unique relational arenas with their own implicit norms, interpretive challenges, and potential for conflict.
+
+Within this framework, boundary ambiguity in digital contexts can be observed most clearly in the uncertainty couples face when negotiating acceptable online behaviors. In the context of romantic relationships in the digital era, boundary ambiguity, therefore, refers to the uncertainty and inconsistency couples experience when defining acceptable online behaviors, such as friending or following ex-partners, liking or commenting on photos of attractive others, responding to direct messages from acquaintances or strangers, and sharing private relationship moments on public platforms. When partners lack clear and mutually agreed-upon digital boundaries, they may experience increased uncertainty, jealousy, and conflict, particularly in cases where one partner perceives online interactions as ambiguous or inappropriate [5]. This ambiguity not only disrupts relational stability but also erodes foundational dimensions of romantic relationships, such as trust, commitment, and emotional security, which are critical for sustained relational satisfaction.
+
+The Relational Turbulence Model [6] further complements this perspective by highlighting how relational transitions amplify uncertainty, particularly in boundary negotiation. Social media, by enabling constant visibility and interaction with external audiences, creates a novel form of relational turbulence where traditional notions of privacy and exclusivity are tested [7]. This turbulence is amplified when partners hold different expectations or interpretations of online behavior- a phenomenon referred to as digital boundary ambiguity. Couples may misunderstand each other’s intentions, overestimate or underestimate threats, or fail to communicate their expectations clearly, leading to heightened conflict and reduced relational satisfaction [8]. Furthermore, the asynchronous and often public nature of digital interactions means that perceived boundary violations can be witnessed, stored, and reinterpreted over time, prolonging and intensifying their emotional impact.
+
+Taken together, Boundary Ambiguity Theory explains why uncertainty arises when relational boundaries are unclear, whereas the Relational Turbulence Model explains how this uncertainty manifests through heightened misunderstandings, emotional reactivity, and relational instability during digital interactions. In the present study, digital boundary ambiguity is conceptualized at the intersection of these two frameworks, capturing both structural ambiguity in boundary definitions and experiential turbulence in daily relational exchanges.
+
+Despite these theoretical insights, existing empirical research has not systematically addressed how digital boundaries are established or negotiated. Literature on online relationship maintenance highlights the importance of establishing clear relational rules and boundaries in online contexts [9]. Yet, studies show that many couples fail to explicitly discuss digital boundaries, instead relying on implicit assumptions that may differ between partners [10]. This lack of clarity fosters boundary ambiguity, making it difficult for couples to gauge whether behaviors such as liking an ex’s post, following a new coworker, or posting flirty comments cross relational boundaries. The absence of clear communication about digital boundaries can lead to misunderstandings and potential conflicts, as partners may have differing expectations about what constitutes appropriate online behavior within their relationship [11], which may lead to boundary violations, potentially resulting in decreased relationship satisfaction, lowered self-esteem, and in some cases, the end of the relationship [12]. Notably, this gap highlights a critical need for systematic measurement and theoretical refinement to better apprehend the nuanced ways digital interactions disrupt or support relationship maintenance.
+
+To address this gap, we conceptualize digital boundary ambiguity as a multidimensional construct that captures the lack of clarity between partners regarding acceptable online behaviors, arising from discrepancies in the ways they define online fidelity, privacy, and appropriate self-presentation, and manifesting in the frequency of misunderstandings or conflicts stemming from differing digital expectations. Research on social media jealousy [13] and online relational intrusion [14] suggested that ambiguity surrounding online behaviors contributes to misinterpretations, suspicion, and relational dissatisfaction. When boundaries are unclear or inconsistently enforced, partners are more likely to monitor each other’s social media activity; interpret ambiguous online interactions as threats; experience jealousy, insecurity, and conflict and perceive the relationship as unstable. These outcomes aligned with uncertainty reduction theory, which posits that relational uncertainty, including ambiguity in relational rules, fosters negative relational evaluations [15].
+
+Drawing directly on these theoretical foundations, the dimensions of digital boundary ambiguity were defined deductively and subsequently examined through empirical analyses. Boundary Ambiguity Theory [3, 4] posits that relational stress emerges when roles, rules, and boundaries are unclear, inconsistently defined, or asymmetrically perceived by relational partners. Within digitally mediated romantic relationships, this ambiguity manifests not only through the absence of explicit boundary rules, but also through partners’ subjective uncertainty regarding each other’s expectations and the emotional and interactional consequences that follow.
+
+Accordingly, the first dimension, clarity of online boundaries, reflects the extent to which romantic partners have explicitly established shared rules regarding acceptable online behaviors. This dimension corresponds to the structural core of Boundary Ambiguity Theory, which emphasizes that clearly articulated and mutually understood boundaries reduce uncertainty and promote relational stability [4]. In digital contexts, clarity involves explicit agreements about online interactions, privacy, and self-presentation, which prior research on online relationship maintenance has shown to be critical for reducing relational strain [2, 9].
+
+The second dimension, perceived ambiguity in online boundaries, captures the subjective experience of uncertainty emphasized by Boundary Ambiguity Theory. Even in the presence of implicit norms, ambiguity arises when partners remain unsure about what the other considers appropriate online behavior. Boss and Greenberg [3] highlight that ambiguity is fundamentally perceptual, rooted in individuals’ uncertainty rather than solely in objective rule absence. Empirical research demonstrates that ambiguous digital cues, such as likes, comments, or private messages, are frequently interpreted differently by partners, fostering uncertainty, jealousy, and suspicion [5, 13].
+
+The third dimension, frequency of misunderstandings, is grounded in the Relational Turbulence Model [6], which explains how relational uncertainty heightens emotional reactivity and increases the likelihood of misinterpretations during everyday interactions. Digital communication environments intensify this process due to their asynchronous, public, and context-reduced nature. Prior studies have shown that ambiguous online behaviors are associated with heightened conflict, jealousy, and relational dissatisfaction, particularly when expectations are misaligned [8, 11]. This dimension therefore reflects the interactional consequences of unresolved boundary ambiguity.
+
+The fourth dimension, comfort with digital privacy rules, reflects the affective outcome of successful boundary negotiation. While Boundary Ambiguity Theory primarily focuses on uncertainty, it also emphasizes that clearly defined and consistently maintained boundaries reduce stress and enhance emotional security [4]. Comfort with digital privacy rules indicates that partners not only understand digital boundaries but also feel secure and confident in their enforcement. Recent research on negotiated digital privacy underscores that shared privacy norms function as indicators of trust and relational stability in romantic relationships [10].
+
+Taken together, these four dimensions operationalize digital boundary ambiguity as a theoretically coherent construct encompassing structural clarity of boundaries, subjective uncertainty regarding expectations, interactional consequences in the form of misunderstandings, and emotional comfort with negotiated digital privacy norms. This multidimensional structure directly reflects the integration of Boundary Ambiguity Theory and the Relational Turbulence Model and provides a theoretically grounded foundation for the development of the Digital Boundary Ambiguity Scale (DBAS).
+
+Building on these theoretical considerations, this study develops and validates the Digital Boundary Ambiguity Scale (DBAS) and explores how digital boundary ambiguity relates to relational and digital behavior indicators.
+
+Need for a scale
+
+Although research has examined online jealousy [8] and online surveillance behaviors [7], there is no existing validated measure capturing the degree to which romantic partners experience ambiguity and uncertainty regarding digital boundaries. Developing a Digital Boundary Ambiguity Scale (DBAS) would allow researchers to assess perceived clarity of digital boundaries, capture the degree of relational uncertainty associated with online behaviors, and examine how such ambiguity shapes relational processes such as jealousy, satisfaction, and trust, while also enabling the investigation of dyadic effects in which one partner’s boundary ambiguity contributes to the other partner’s relational insecurity or dissatisfaction.
+
+Ultimately, such a scale could also inform relationship education programs, couples therapy interventions, and public awareness campaigns aimed at fostering healthier digital relationship norms. Based on this theoretical grounding, the Digital Boundary Ambiguity Scale (DBAS) could assess multiple dimensions of partners’ perceptions and experiences in the digital domain. These dimensions include clarity of online boundaries, reflected in the extent to which partners establish explicit rules about online interactions (e.g., “My partner and I have clear rules about online interactions with ex-partners”); perceived ambiguity, which captures uncertainty regarding what each partner considers appropriate online behavior (e.g., “I am often unsure what my partner considers appropriate online behavior”); frequency of misunderstandings, emphasizing the occurrence of relational tensions stemming from digital interactions (e.g., “My partner and I argue badly about our interactions on social media (likes, shares, follows, etc.)”; and comfort with digital privacy rules, reflecting partners’ confidence in shared agreements about what should remain private online (e.g., “I feel confident that my partner and I agree on what should remain private online”).
+
+Therefore, the aim of this study is to develop a valid and reliable tool to assess digital boundary ambiguity, addressing the current gap in the literature by providing a multidimensional measure that captures clarity of online boundaries, perceived ambiguity, frequency of misunderstandings, and comfort with digital privacy rules. Such a scale will enable researchers to systematically examine how digital boundary ambiguity operates within romantic relationships, its implications for relational processes such as trust, satisfaction, and jealousy, and its potential dyadic effects across partners.
+
+Study overview
+
+This study employed a multi-phase scale development and validation design. Following an initial pretrial phase, exploratory factor analysis (EFA) and reliability analyses were conducted to examine the factor structure and internal consistency of the Digital Boundary Ambiguity Scale (DBAS). Confirmatory factor analysis (CFA) was subsequently performed on a second subsample drawn from the same population to test the robustness of the factor structure. In addition, associations between the DBAS and dyadic trust, aimless internet browsing, and number of social media accounts were examined to provide evidence of criterion-related validity.
+
+Method
+
+Participants and procedure
+
+The study was conducted with individuals between the ages of 18 and 65. Since the scale was administered to individuals who were in a romantic relationship and actively using social media, data were collected using criterion sampling. Since the data was collected online, participants were recruited from seven regions of Turkey. Those under the age of 18, those who had never been in a romantic relationship, and those with a psychiatric diagnosis were excluded from the study. This information was obtained by asking questions on the personal information form before the scale questions. Informed consent was obtained from all participants prior to participation. No monetary compensation was provided, and participation was entirely voluntary. Socio-demographic information about the participants is given in Table 1.
+
+Table 1Socio-demographic characteristics of scale development groupsDemographic characteristicsPretrial application (N = 40), f, (%), SDEFA Group (N = 365), f, (%),SDCFA Group (N = 308), f, (%),SDTest-retest Group (N = 50), f, (%), SDGender Female Male20(50%)20(50%)218(59.7%)147(40.3%)181(58.8%)127(41.2%)36(72%)14(28%)AgeRange= 22–45M = 26.95, SD = 5.22Range = 18–65M = 27.82, SD = 8.63Range = 18–65,M = 26.39, SD = 8.19Range = 20–48,M = 22.98, SD = 5.55Educational status Primary school Middle school High school University Postgraduate--10(25)15(37.5)15(37.5)41(11.2)56(15.3)43(11.8)171(46.8)54(14.8)51(16.6)41(13.3)59(19.2)111(36)46(14.9)--11(22)29(58)10(20)Aimless internet browsingRange = 1–12, M = 3.37, SD = 2.31Range = 1–20, M = 3.93,SD = 2.65Range = 1–20, M = 3.75,SD = 2.15Range = 1–12, M = 4.20,SD = 2.07Number of social media accountsRange = 1–8, M = 2.88, SD = 1.80Range = 1–10, M = 2.49, SD = 1.58Range = 1–10, M = 2.89, SD = 1.71Range = 1–11, M = 3.66, SD = 2.54Year of using social mediaRange = 3–18, M = 11.33, SD = 2.91Range = 1–25, M = 10.05, SD = 4.48Range = 1–25, M = 8.47, SD = 4.02Range = 1–15, M = 8.60, SD = 3.93
+
+Socio-demographic characteristics of scale development groups
+
+Female
+
+Male
+
+20(50%)
+
+218(59.7%)
+
+147(40.3%)
+
+181(58.8%)
+
+127(41.2%)
+
+36(72%)
+
+14(28%)
+
+Range= 22–45
+
+M = 26.95, SD = 5.22
+
+Range = 18–65
+
+M = 27.82, SD = 8.63
+
+Range = 18–65,
+
+M = 26.39, SD = 8.19
+
+Range = 20–48,
+
+M = 22.98, SD = 5.55
+
+Primary school
+
+Middle school
+
+High school
+
+University
+
+Postgraduate
+
+10(25)
+
+15(37.5)
+
+41(11.2)
+
+56(15.3)
+
+43(11.8)
+
+171(46.8)
+
+54(14.8)
+
+51(16.6)
+
+41(13.3)
+
+59(19.2)
+
+111(36)
+
+46(14.9)
+
+11(22)
+
+29(58)
+
+10(20)
+
+Range = 1–20, M = 3.93,
+
+SD = 2.65
+
+Range = 1–20, M = 3.75,
+
+SD = 2.15
+
+Range = 1–12, M = 4.20,
+
+SD = 2.07
+
+As presented in Table 1, the scale development process was conducted across four independent samples: pretrial application, trial application (EFA), trial application (CFA), and test–retest. For the pretrial application, the scale was administered to 40 individuals (50% female, 50% male) with a mean age of 26.95 years (SD = 5.22, range = 22–45). For among the pretrial sample, participants reported a mean of 3.37 h (SD = 2.31, range = 1–12) of daily aimless internet browsing, an average of 2.88 (SD = 1.80, range = 1–8) social media accounts, and a mean of 11.33 years (SD = 2.91, range = 3–18) of social media use. Of the participants, 10 (25%) high school, 15 (37.5%) held a university degree, and 15 (37.5%) had completed postgraduate education
+
+For the trial application, the scale was administered to 365 individuals (59.7% female, 40.3% male) with a mean age of 27.82 years (SD = 8.63, range = 18–65) for the purpose of conducting Exploratory Factor Analysis (EFA). For among the EFA sample, participants reported a mean of 3.93 h (SD = 2.65, range = 1–20) of daily aimless internet browsing, an average of 2.49 (SD = 1.58, range = 1–10) social media accounts, and a mean of 10.05 years (SD = 4.48, range = 1–25) of social media use. Of the participants, 41 (11.2%) had completed primary school, 56 (15.3%) middle school, 43 (11.8%) high school, 171 (46.8%) held a university degree, and 54 (14.8%) had completed postgraduate education (See Table 1).
+
+For Confirmatory Factor Analysis (CFA), data were collected from 308 individuals (58.8% female, 41.2% male) with a mean age of 26.38 years (SD = 8.22, range = 18–65). Among the CFA sample, participants reported a mean of 3.75 h (SD = 2.15, range = 1–20) of aimless internet browsing, an average of 2.89 (SD = 1.71, range = 1–10) social media accounts, and a mean of 8.47 years (SD = 4.02, range = 1–25) of social media use. Of the participants, 51 (16.6%) had completed primary school, 41 (13.3%) middle school, 59 (19.2%) high school, 111 (36.0%) held a university degree, and 46 (14.9%) had completed postgraduate education (See Table 1).
+
+Test–retest reliability was assessed with a subsample of participants (72% female, 28% male; mean age = 22.98 years, SD = 5.55, range = 20–48) over a 30-day interval. For among the test-retest sample, participants reported a mean of 4.20 h (SD = 2.07, range = 1–12) of aimless internet browsing, an average of 3.66 (SD = 2.54, range = 1–1) social media accounts, and a mean of 8.60 years (SD = 3.93, range = 1–15) of social media use. Of the participants, 11 (22%) high school, 29 (58%) held a university degree, and 10 (20%) had completed postgraduate education. A separate form was created for the test-retest group, and this sample was used only for the test-retest. This sample was selected from university students. Each individual in the group of 50 was assigned a code so that they could be contacted again (See Table 1).
+
+Item generation and content validity
+
+Item generation was conducted deductively, guided directly by Boundary Ambiguity Theory and the Relational Turbulence Model. Initial items were written to reflect theoretically derived dimensions, including boundary clarity, ambiguity of expectations, relational misunderstandings, and comfort with shared privacy rules in digital contexts.
+
+Based on theoretical foundations, a 20-item pool was generated and subjected to content validation by four experts (two psychological counselors, one psychometrics specialist, and one Turkish language and literature specialist). Revisions were made according to their feedback. For instance, a complex item wording was revised to a clearer form to enhance comprehensibility. Following these adjustments, the 20 items were finalized and prepared for pilot testing using a 5-point Likert-type scale (Never, Rarely, Sometimes, Often, Always).
+
+Pretrial application
+
+The scale developed was first completed by a small group representing the target population to determine its psychometric properties. The pretrial version, consisting of 20 items, was administered to 40 individuals. Participants were asked to complete the scale and to report any items they found unclear, ambiguous, or difficult to understand. In addition, brief verbal feedback was obtained regarding item clarity and wording. No items were identified as ambiguous or problematic. Thus, the 20-item version was retained for subsequent analyses.
+
+Main data collection
+
+Following the pretrial phase, the 20-item scale was completed by 365 participants, and EFA was conducted. Confirmatory factor analysis was conducted using data collected from an additional subsample of 308 participants drawn from the same population.
+
+Measures
+
+Digital boundary ambiguity scale
+
+The scale was developed by the researchers and consists of 16 items and four subdimensions. The first dimension, Clarity of Online Boundaries with Partner (e.g., “My partner and I have clear rules about how we will interact in the online world regarding former partners or our private lives”), measures the extent to which couples have established digital boundaries. The second dimension, Perceived Ambiguity in Online Boundaries (e.g., “I am generally unsure about which of my online posts my partner considers inappropriate”), reflects uncertainty regarding partner expectations. The third dimension, Frequency of Misunderstandings (e.g., “My partner gets angry with me for online posts that I do not perceive as problematic”), assesses conflict arising from digital interactions. The fourth dimension, Comfort with Digital Privacy Rules (e.g., “My partner and I respect each other’s digital privacy”), measures mutual comfort with digital privacy.
+
+The scale contains no reverse-scored items, and a total score is not computed. Instead, each subdimension is scored separately, with higher scores indicating higher levels of the respective construct. The scale is rated on a 5-point Likert scale (1 = Never, 5 = Always).
+
+Relational uncertainty scale
+
+Originally developed by Knobloch and Solomon [16] and adapted into Turkish by Gürcan [17], this scale measures self, partner, and relationship uncertainty. For the present study, the 16-item relationship uncertainty subscale was used. Items are rated on a 5-point Likert scale ranging from 1 (not at all certain) to 5 (completely certain) (e.g., “The future of this relationship… I’m not at all sure. I’m completely sure”). The Cronbach’s alpha coefficient reported in the original adaptation study was 0.95. In the present study, Cronbach’s alpha was 0.96, and McDonald’s omega was 0.96.
+
+Dyadic trust scale
+
+The scale was originally developed by Larzelere and Huston [18] and later adapted into Turkish culture by Çetinkaya et al. [19]. It consists of 7 items under a single dimension, rated on a 7-point Likert scale ranging from 1 = never to 7 = always (e.g., “I feel that I can rely on my partner when I need help”). The Cronbach’s alpha internal consistency coefficient of the original scale is 0.89. In the present study, Cronbach’s alpha was 0.90, and McDonald’s Omega was 0.91, indicating high reliability.
+
+Data analysis
+
+Construct validity of the scale was tested using EFA and CFA. Sampling adequacy for factor analysis was assessed with the Kaiser–Meyer–Olkin (KMO) test and Bartlett’s Test of Sphericity. EFA was conducted using Principal Axis Factoring, and item factor loadings and communalities were examined. As the rotation method, Promax with Kaiser Normalization, a type of oblique rotation, was used. For convergent validity, Average Variance Extracted (AVE) values were evaluated.
+
+In CFA, Maximum Likelihood Estimation was employed. Model fit was assessed using multiple fit indices: Goodness of Fit Index (GFI), Comparative Fit Index (CFI), Tucker–Lewis Index (TLI), Incremental Fit Index (IFI), Normed Fit Index (NFI), Root Mean Square Error of Approximation (RMSEA), and Standardized Root Mean Square Residual (SRMR). Criteria for model fit were set at 0.90 for GFI, CFI, TLI, IFI, and NFI [20, 21].
+
+For reliability analyses, item–total correlations, Cronbach’s alpha coefficients, McDonald’s omega coefficients, test–retest reliability, and independent samples t-tests for upper and lower 27% groups were calculated. All analyses were conducted using SPSS 25 and AMOS 24 software packages.
+
+Ethics
+
+This study was carried out in full compliance with the ethical principles of the Declaration of Helsinki and was approved by the Ethics Committee of Sakarya University (23.04.2025-E.467390).
+
+Results
+
+Exploratory factor analysis
+
+The suitability of the data for factor analysis was examined using the Kaiser–Meyer–Olkin (KMO) measure of sampling adequacy and Bartlett’s test of sphericity. The results (KMO = 0.882, p < .001; Bartlett’s Test of Sphericity, χ² = 2664.107, p < .001) indicated that the data were appropriate for factor analysis [21].
+
+Exploratory factor analysis was conducted with a sample of 365 participants, and a four-factor structure was obtained. During the exploratory phase, alternative factor solutions were examined, including a five-factor solution given the initial 20-item pool. However, the five-factor solution yielded unstable loadings and factors with insufficient item representation. The four-factor solution demonstrated superior interpretability and theoretical coherence and was therefore retained for subsequent analyses. The initial factor structure consisted of the following item groupings: Factor 1 (items 1, 2, 3, 4, 5), Factor 2 (items 6, 7, 8, 9, 10), Factor 3 (items 11, 12,13, 14, 15), and Factor 4 (items 16, 17,18, 19, 20). However, items 5, 9, 13, and 18 demonstrated cross-loadings on multiple factors. However, items 5, 9, 13, and 18 were eliminated because they showed cross-loadings on multiple factors and their item factor loadings were less than 0.50 [22]. These items were therefore removed, and EFA was re-conducted on the remaining 16 items.
+
+The subsequent analysis yielded a stable four-factor structure: Factor 1 (items 1, 2, 3, 4), Factor 2 (items 6, 7, 8, 10), Factor 3 (items 11, 12, 14, 15), and Factor 4 (items 16, 17, 19, 20). Eigenvalues and explained variance for the four-factor structure are presented in Table 2.
+
+Table 2Eigenvalues and contributions to explained variance of the factor structure obtained from principal component analysis of the digital boundary ambiguity scaleFactorEigenvalueExplained variance (%)Total variance (%) 1. Clarity of Online Boundaries with Partner 5.3433.3933.39 2. Perceived Ambiguity in Online Boundaries 2.4015.0048.39 3. Frequency of Misunderstandings 1.529.4957.88 4. Comfort with Digital Privacy Rules 1.106.7964.67
+
+Eigenvalues and contributions to explained variance of the factor structure obtained from principal component analysis of the digital boundary ambiguity scale
+
+Specifically, Factor 1 had an eigenvalue of 5.34 and explained 33.39% of the variance; Factor 2 had an eigenvalue of 2.40 and explained 15.00% of the variance; Factor 3 had an eigenvalue of 1.52 and explained 9.49% of the variance; and Factor 4 had an eigenvalue of 1.10 and explained 6.79% of the variance. Collectively, the four factors accounted for 64.67% of the total variance. The explained variance value confirmed the construct validity of the scale [23].
+
+Item factor loadings ranged from 0.547 to 0.783 for Factor 1, 0.530 to 0.767 for Factor 2, 0.719 to 0.880 for Factor 3, and 0.640 to 0.837 for Factor 4. These loadings exceeded the recommended thresholds for acceptability. Factor communalities (item shared variance) ranged between 0.353 and 0.555 for Factor 1, 0.349 and 0.598 for Factor 2, 0.620 and 0.702 for Factor 3, and 0.541 and 0.594 for Factor 4, all of which fall within acceptable ranges [24]. The scree plot illustrating the factor structure of the scale is presented below (Fig. 1). Descriptive statistics and detailed factor analysis results are provided in Table 3.
+
+Fig. 1Scree plot for the digital boundary ambiguity scale
+
+Scree plot for the digital boundary ambiguity scale
+
+Table 3Descriptive statistics and factor analysis results of the digital boundary ambiguity scaleItem No \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\overline{X}$$\end{document} SsFactor communalitiesFactor loading value1. Subdimension: Clarity of Online BoundariesD1: We have clear rules with my partner about how we interact online regarding our ex-partners or private experiences.3.181.690.4980.719D2: We have discussed which types of online behaviors (messaging, sending/receiving photos, following, liking, and sharing) are acceptable in our relationship.3.171.620.5550.783D3: I know exactly which of my online posts, likes, follows, and interactions my partner finds inappropriate.3.701.310.3530.547D4: My partner and I have agreed on what kinds of photos or posts related to our relationship are appropriate to share online.3.751.250.4040.5772. Subdimension: Perceived Ambiguity in Online BoundariesD5: I am generally unsure which of my online posts my partner would consider inappropriate1.871.030.4530.719D6: My partner never clearly expresses their expectations regarding my online interactions (posting, liking, following, and other reactions).2.131.190.3490.530D7: Sometimes, I don’t know if my online behavior (messaging, sending/receiving photos, following, liking, and sharing) will make my partner uncomfortable.2.021.020.5980.767D8: I am not sure how my partner expects me to behave with my online friendships.1.951.150.3940.5423. Subdimension: Frequency of MisunderstandingsD9: My partner and I frequently argue about our social media interactions (liking, sharing, following, etc.).1.760.9820.6380.712D10: My partner has gotten upset over something I did online that I didn’t think was wrong.1.560.8890.6910.858D11: I sometimes feel that my partner misinterprets my online behaviors (following, liking, interacting, and posting).1.850.9890.6200.730D12: My partner accuses me of acting inappropriately online (following, liking, interacting, or sharing voice, video, or photos), even when I believe these behaviors are harmless1.550.9080.7020.8804. Subdimension: Comfort with Digital Privacy RulesD13: I feel confident that my partner and I have similar views on relationship privacy.4.161.050.5590.718D14: My partner and I respect each other’s digital privacy.4.121.070.5940.837D15: My partner and I have healthy digital boundaries that we both respect.4.151.020.5690.751D16: I never worry about my partner’s social media activities because we share the same understanding3.981.140.5410.640(1) Subdimension: Clarity of Online Boundaries, (2) Subdimension: Perceived Ambiguity in Online Boundaries, (3) Subdimension: Frequency of Misunderstandings, (4) Subdimension: Comfort with Digital Privacy Rules
+
+Descriptive statistics and factor analysis results of the digital boundary ambiguity scale
+
+(1) Subdimension: Clarity of Online Boundaries, (2) Subdimension: Perceived Ambiguity in Online Boundaries, (3) Subdimension: Frequency of Misunderstandings, (4) Subdimension: Comfort with Digital Privacy Rules
+
+Confirmatory factor analysis
+
+Following the establishment of construct validity through EFA, the 16-item, four-factor structure was tested on a different sample using confirmatory factor analysis (CFA). The CFA path diagram is presented in Fig. 2.
+
+Fig. 2Path diagram for the digital boundary ambiguity scaleNote: F1: Clarity of Online Boundaries, F2: Perceived Ambiguity in Online Boundaries, F3: Frequency of Misunderstandings, F4: Comfort with Digital Privacy Rules, Coefficients= Standardized estimates
+
+Path diagram for the digital boundary ambiguity scaleNote: F1: Clarity of Online Boundaries, F2: Perceived Ambiguity in Online Boundaries, F3: Frequency of Misunderstandings, F4: Comfort with Digital Privacy Rules, Coefficients= Standardized estimates
+
+Path diagram for the digital boundary ambiguity scale
+
+Note: F1: Clarity of Online Boundaries, F2: Perceived Ambiguity in Online Boundaries, F3: Frequency of Misunderstandings, F4: Comfort with Digital Privacy Rules, Coefficients= Standardized estimates
+
+Item factor loadings from the CFA results ranged from 0.53 to 0.67 for Factor 1, from 0.39 to 0.81 for Factor 2, from 0.68 to 0.72 for Factor 3, and from 0.70 to 0.85 for Factor 4. These values exceed the minimum acceptable threshold of 0.32 [24]. Model fit indices for the CFA are presented in Table 4.
+
+Table 4Fit index values for the 16-item scale confirmatory factor analysisGoodness of Fit IndexObtained ValuesX 2/df2.070Df97RMR0.05SRMR0.05GFI0.93AGFI0.90CFI0.94IFI0.94TLI0.93RMSEA0.06Hu and Bentler [25]; CMIN/df Relative Chi-Square Index, GFI Goodness of Fit Index, CFI Comparative Fit Index, IFI Incremental Fit Index), TLI Tucker Lewis Index, RMR Root Mean Square Residuals, SRMR Standardized Root Mean Square Residuals, RMSEA Root Mean Square Error of Approximation
+
+Fit index values for the 16-item scale confirmatory factor analysis
+
+Hu and Bentler [25]; CMIN/df Relative Chi-Square Index, GFI Goodness of Fit Index, CFI Comparative Fit Index, IFI Incremental Fit Index), TLI Tucker Lewis Index, RMR Root Mean Square Residuals, SRMR Standardized Root Mean Square Residuals, RMSEA Root Mean Square Error of Approximation
+
+When the fit indices in Table 4 are examined, the following results are observed for the scale: the ratio of the Minimum Discrepancy Function to degrees of freedom (CMIN/df) is 2.070, the Root Mean Square Residual (RMR) is 0.05, and the Standardized Root Mean Square Residual (SRMR) is also 0.05. The Goodness of Fit Index (GFI) was found to be 0.94, while the Adjusted Goodness of Fit Index (AGFI) was 0.90. Furthermore, the Comparative Fit Index (CFI) and the Incremental Fit Index (IFI) both reached 0.94, and the Tucker–Lewis Index (TLI) was calculated as 0.93. The Root Mean Square Error of Approximation (RMSEA) value was 0.06, which falls within acceptable limits. Collectively, these values suggest that the scale provides a satisfactory model fit [26].
+
+Reliability study
+
+Reliability analyses were performed separately for both the EFA and CFA samples. To evaluate the reliability of the scale, several methods were employed, including internal consistency coefficients (Cronbach’s alpha), McDonald’s Omega, item-total correlations, test–retest reliability, and independent-samples t tests for the upper and lower 27% groups. McDonald’s Omega was also reported because it is regarded as a more sensitive reliability indicator, as it estimates factor loadings for each item individually [27, 28]. The results of the reliability analysis for the sub-dimensions of the scale are given in the Table below (Table 5).
+
+Table 5Reliability analysis results for EFA and CFASubdimensionsEFACFA N Cronbach Alpha (α)McDonalds’ Omega (ω) N Cronbach Alpha (α)McDonalds’ Omega (ω)Subdimension 13650.750.753080.710.72Subdimension 23650.740.743080.740.76Subdimension 33650.880.883080.790.79Subdimension 43650.830.833080.840.84(1) Subdimension: Clarity of Online Boundaries, (2) Subdimension: Perceived Ambiguity in Online Boundaries, (3) Subdimension: Frequency of Misunderstandings, (4) Subdimension: Comfort with Digital Privacy Rules
+
+Reliability analysis results for EFA and CFA
+
+Test–retest reliability
+
+Test–retest reliability was further examined with a separate group of 50 participants. The scale was administered twice, with a one-month interval between measurements. Significant, positive, and moderate correlations were found between the first and second administrations (Subdimension 1: r = .691, p < .01; Subdimension 2: r = .666, p < .01; Subdimension 3: r = .643, p < .01; Subdimension 4: r = .637, p < .01). These findings suggest that the scores remained stable over time, demonstrating temporal reliability.
+
+Item analysis
+
+Independent-samples t tests were conducted to compare the lower and upper 27% of participants, providing an additional measure of internal consistency. For both the EFA sample (N = 365) and the CFA sample (N = 308), the differences between the groups were statistically significant (p ≤ .001). These results indicate that the scale discriminates effectively between individuals with low and high scores, thereby supporting its internal consistency [29].
+
+Item–Total correlations
+
+The item–total correlations for the EFA sample (N = 365) ranged from 0.51 to 0.59 for Subdimension 1, from 0.49 to 0.61 for Subdimension 2, from 0.72 to 0.76 for Subdimension 3, and from 0.63 to 0.68 for Subdimension 4. For the CFA sample (N = 308), the item–total correlations ranged from 0.43 to 0.53 for Subdimension 1, from 0.32 to 0.62 for Subdimension 2, from 0.56 to 0.62 for Subdimension 3, and from 0.62 to 0.77 for Subdimension 4. Item–total correlations above 0.30 indicate that items can successfully distinguish between individuals [30].
+
+According to the results of the analysis used in the study, the scale is a valid and reliable scale in the Turkish population.
+
+Construct validity
+
+Construct validity of the Digital Boundary Ambiguity Scale was examined by investigating its associations with the Relational Uncertainty Scale. Results showed that the first subdimension of the Digital Boundary Ambiguity Scale was negatively correlated with relational uncertainty (r = –.306, p < .01), the second subdimension was positively correlated (r = .432, p < .01), the third subdimension was also positively correlated (r = .391, p < .01), and the fourth subdimension was negatively correlated (r = –.610, p < .01).
+
+Convergent validity
+
+Convergent validity of the four-factor, 16-item structure was assessed using Average Variance Extracted (AVE) values. The AVE and Composite Reliability (CR) values were as follows: Factor 1 (AVE = 0.44, CR = 0.76), Factor 2 (AVE = 0.42, CR = 0.73), Factor 3 (AVE = 0.64, CR = 0.87), and Factor 4 (AVE = 0.55, CR = 0.83). Although AVE values ​​for some factors are slightly below the threshold of 0.50, Fornell and Larcker [31] state that a CR value above 0.70 is acceptable for convergent validity. Composite reliability values between 0.73 and 0.87 further indicated a high level of internal consistency.
+
+Associations with dyadic trust and digital behavior variables
+
+Associations between the DBAS subdimensions, dyadic trust, aimless internet browsing, and number of social media accounts were examined. Gender and education differences were also explored as part of known-groups validity analyses.
+
+Dyadic trust refers to the belief that one’s partner is reliable, honest, and supportive in close relationships [18]. Recent research confirms that dyadic trust functions as a key component of relationship quality, facilitating openness, cooperative behavior, and emotional security between partners [32–34]. Since digital boundary ambiguity reflects uncertainty and potential conflict in negotiating online privacy, expectations, and interpersonal boundaries, examining its association with dyadic trust is particularly meaningful. High levels of dyadic trust are likely to reduce perceptions of ambiguity by promoting mutual understanding and reducing relational tensions, whereas lower levels of trust may intensify digital boundary ambiguity and related conflicts [35]. Accordingly, we aimed to investigate the relationships between dyadic trust and digital boundary ambiguity to shed light on how trust dynamics shape relational adaptation in the digital context.
+
+Data from a subsample of the EFA group (N = 318; 66.4% female, 33.6% male) were used. This subsample consisted of participants for whom complete data on the Dyadic Trust Scale were available.
+
+As part of known-groups validity analyses, gender differences were examined in relation to the Digital Boundary Ambiguity Scale. The first dimension (Clarity of Online Boundaries) did not differ significantly by gender. However, the second dimension (Perceived Ambiguity in Online Boundaries), the third dimension (Frequency of Misunderstandings), and the fourth dimension (Comfort with Digital Privacy Rules) showed significant gender differences. Specifically, men scored higher on the second and third dimensions, whereas women scored higher on the fourth dimension. Furthermore, university and postgraduate degree holders reported significantly higher scores on the dimension of comfort with digital privacy rules compared to the primary/middle/high school group (see Table 6).
+
+Table 6Socio- demographic profile of the participants and basic analysisVariablesN=318f, n(%)M/SDt *GenderF*GradePost hocaHedges’ g/bCohen fGender Female(F)211 (66.4) Male(M)107 (33.6)Education level Middle/High(1)30 (9.4) University(2)235 (73.9) Graduate(3)53 (16.7)Subdimension 13.44/.951.856---1.90---Subdimension 21.99/.826-2.52*M>F1.35---.299aSubdimension 31.66/.738-3.88**M>F2.02---.451aSubdimension 44.10/.8782.14*F>M6.54**2,3>1.255a .10b* p<.05, ** p<.01, a Hedge’s g=0.10 indicated a small effect size, near 0.30 meant a medium effect, and higher 0.50 reflected a large effect for t test. bCohen’s f=0.01 indicated a small effect size, near 0.06 meant a medium effect, and higher 0.14 reflected a strong effect for ANOVA
+
+Socio- demographic profile of the participants and basic analysis
+
+* p<.05, ** p<.01, a Hedge’s g=0.10 indicated a small effect size, near 0.30 meant a medium effect, and higher 0.50 reflected a large effect for t test. bCohen’s f=0.01 indicated a small effect size, near 0.06 meant a medium effect, and higher 0.14 reflected a strong effect for ANOVA
+
+As shown in Table 7, age was positively associated with perceived ambiguity in online boundaries (r = .152, p < .01). Additionally, the more time participants spent aimlessly browsing the internet, the higher their frequency of misunderstandings score on the scale (r = .131, p < .05). No significant relationship was found between the number of social media accounts and any of the subdimensions of the scale.
+
+Table 7Correlations among study variablesVariablesNRangeMSDAgeAimless BrowsingSocial Media AccountDyadic TrustAge31818-6527.869.00Aimless Browsing3181-204.122.70Social media account3181-102.431.59Subdimension 13181-53.44.95-.107-.055-.039.221**Subdimension 23181-51.98.83.152**.040-.019-.436**Subdimension 33181-51.64.74.100.131*.-.057-.408**Subdimension 43181-54.10.88-.049-.110-.060.645**
+
+Correlations among study variables
+
+Higher levels of trust were positively associated with clarity of online boundaries (r = .221, p < .01) and comfort with digital privacy rules (r = .645, p < .01). Conversely, dyadic trust was negatively associated with perceived ambiguity in online boundaries (r = –.436, p < .01) and frequency of misunderstandings (r = –.408, p < .01).
+
+Discussion
+
+In contemporary society, where digital interactions play a central role in intimate relationships, the boundaries that partners establish in online spaces have become increasingly important. Ambiguity surrounding these digital boundaries can create misunderstandings, conflicts, and uncertainty in relationships, which in turn may affect relational quality and well-being. The present study aimed to develop and validate the Digital Boundary Ambiguity Scale (DBAS) and to examine its associations with dyadic trust, time spent aimlessly browsing the internet, and number of social media accounts.
+
+The four-factor structure of the DBAS aligns closely with the theoretical foundations guiding its development. Specifically, the clarity and ambiguity dimensions reflect core assumptions of Boundary Ambiguity Theory, which emphasizes uncertainty arising from unclear or inconsistently defined relational boundaries [3, 4]. In contrast, the dimensions of frequency of misunderstandings and comfort with digital privacy rules capture relational processes emphasized in the Relational Turbulence Model, particularly heightened misinterpretations and emotional reactivity during periods of uncertainty [6]. Together, these findings support the theoretical proposition that unclear digital boundaries not only create structural ambiguity but also intensify relational turbulence through repeated misinterpretations and emotional strain in everyday digital interactions.
+
+The first key finding of this research is that the DBAS is a psychometrically valid and reliable measurement tool. Both exploratory and confirmatory factor analyses confirmed a four-factor structure—clarity of online boundaries, perceived ambiguity in online boundaries, frequency of misunderstandings, and comfort with digital privacy rules. Confirmatory factor analysis confirmed that this four-factor model demonstrated a good fit. According to established criteria [20, 30], these results indicate that the structure of the DBAS adequately represents the construct it was designed to measure.
+
+Internal consistency analyses further supported the reliability of the scale. Cronbach’s alpha and McDonald’s omega coefficients across the subdimensions ranged from 0.71 to 0.88, which are considered acceptable to excellent reliability levels in the psychometric literature [28, 29]. Importantly, test–retest correlations over a one-month period indicated stability of responses across time, providing further evidence of temporal reliability. Additionally, item–total correlations for both the EFA and CFA samples exceeded the recommended 0.30 threshold [30], demonstrating that each item contributed meaningfully to its respective factor. Together, these findings show that the DBAS not only has structural validity but also meets rigorous standards of internal consistency and stability over time.
+
+The second major finding of the study concerns the relationships between digital boundary ambiguity, dyadic trust, aimless internet browsing, and number of social media accounts. Results revealed that higher dyadic trust was associated with greater clarity of online boundaries and comfort with digital privacy rules, while negatively correlating with perceived ambiguity and frequency of misunderstandings. This finding aligns with existing literature on relational uncertainty and digital intimacy, where trust functions as a protective factor that reduces misinterpretations and enhances mutual understanding [36, 37]. Conversely, lower levels of trust appear to heighten ambiguity and conflict, supporting theoretical perspectives on relational uncertainty in online contexts [6]. In addition, aimless internet browsing was found to positively correlate with frequency of misunderstandings, supporting research suggesting that unstructured online activity may heighten relational conflicts by blurring boundaries between shared and private digital spaces [38]. For instance, a study by Kerkhof et al. [39] demonstrated that compulsive internet use negatively impacts various aspects of relationship quality, including intimacy, commitment, and conflict frequency, highlighting how aimless online activity can impair the emotional and communicative foundations essential for healthy romantic relationships. Interestingly, the number of social media accounts did not significantly relate to any dimension of digital boundary ambiguity, suggesting that boundary management is less about quantity of platforms and more about the quality of relational agreements and trust between partners.
+
+When demographic variables were considered, gender differences emerged, with men reporting higher levels of perceived ambiguity and misunderstanding frequency, while women reported greater comfort with digital privacy rules. These findings are in line with previous studies indicating that women tend to be more concerned about their online privacy, especially in social networking contexts, and often exhibit higher awareness of social privacy threats despite lower technological privacy literacy. In contrast, men generally possess stronger technical knowledge and skills related to online privacy protection but experience more ambiguity in digital communication, which may contribute to higher misunderstanding levels [40, 41]. This gender disparity aligns with research showing that women engage more cautiously with personal information disclosure and prioritize privacy in relational digital settings, whereas men are more accepting of digital risks but face increased challenges in interpreting ambiguous online interactions, leading to relational misunderstandings [42]. Moreover, participants with higher education levels reported greater comfort with digital privacy rules, suggesting that education may provide individuals with stronger digital literacy and boundary management skills [43]. Taken together, these findings provide evidence that digital boundary ambiguity is a multidimensional construct closely linked to relational trust and digital behaviors. The DBAS captures these nuances, offering a valid and reliable instrument for examining the relationships between digital contexts and relational dynamics.
+
+Implications
+
+The findings of this study carry several theoretical and practical implications. From a theoretical perspective, the DBAS fills a critical gap in the literature by operationalizing digital boundary ambiguity, a construct that has received limited empirical attention despite its growing importance in contemporary relationships. By incorporating dimensions of boundary clarity, ambiguity, conflict, and privacy, the scale builds upon and extends existing theories of relational uncertainty and boundary ambiguity theory [3, 4, 6, 16].
+
+From a practical perspective, the DBAS can be employed by counselors and relationship therapists to identify specific areas of digital conflict between partners. For example, elevated scores on perceived ambiguity or misunderstanding frequency may highlight relational vulnerabilities that require targeted interventions. The scale may also be useful in psychoeducational programs aimed at adolescents and young adults, equipping them with skills to negotiate digital boundaries more effectively. Additionally, given the associations between boundary ambiguity and dyadic trust, interventions that strengthen relational trust could simultaneously reduce digital conflicts and foster healthier online interactions.
+
+Limitations and future research
+
+Despite its contributions, this study has several limitations. First, data were collected using self-report measures, which may be influenced by social desirability or recall biases. Future research could incorporate multi-method approaches, such as observational data or partner reports, to strengthen validity. Second, the cross-sectional design limits causal inferences. Longitudinal or experimental studies are needed to examine how digital boundary ambiguity evolves over time and its causal role in relational outcomes. Third, although the sample included a wide age range, cultural context was limited to the Turkish population. Given the universal nature of digital interactions, cross-cultural validation studies are warranted to test the generalizability of the DBAS. Finally, while this study focused on individual perceptions, dyadic studies examining both partners’ boundary negotiations would provide richer insights into relational dynamics.
+
+Conclusion
+
+In conclusion, the present study developed and validated the Digital Boundary Ambiguity Scale (DBAS) and demonstrated its strong psychometric properties. Findings revealed that digital boundary ambiguity is closely linked with dyadic trust and, to a lesser extent, with aimless internet browsing, while being independent of the number of social media accounts. Gender and education differences further emphasized the nuanced ways in which individuals navigate digital spaces within their relationships. Overall, the DBAS provides researchers and practitioners with a valuable tool to better understand, assess, and address digital boundary ambiguity, ultimately contributing to healthier and more resilient intimate relationships in the digital age.
+
+Supplementary Information
+
+Supplementary Material 1.

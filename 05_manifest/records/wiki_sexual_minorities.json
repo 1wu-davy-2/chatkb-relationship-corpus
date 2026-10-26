@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_sexual_minorities",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "性少數",
+  "requested_title": "性少数群体",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E5%B0%91%E6%95%B8",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 性少數",
+  "topics": [
+    "sexuality",
+    "respect"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/sexual_minorities.json",
+  "text_path": "02_text/zh_wikipedia/sexual_minorities.txt",
+  "raw_bytes": 1315,
+  "text_chars": 695,
+  "text_sha256": "2cb3784f8cbd493ad4dde86743a3053ba1492eb168eeaaa999d694fce7231f7b",
+  "retrieved_at": "2026-10-26T13:01:03.477506+00:00"
+}

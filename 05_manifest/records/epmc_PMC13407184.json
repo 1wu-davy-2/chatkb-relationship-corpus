@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13407184",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marital conflict resolution through schema therapy and mutual behaviour analysis for enhanced self-differentiation in Kwara State.",
+  "authors": "Adegboyega LO, Odebode AA, Ajiboye SK, Awoyemi AO, Odutayo SO, Balogun AO.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fsoc.2026.1866983",
+  "pmcid": "PMC13407184",
+  "url": "https://europepmc.org/article/PMC/PMC13407184",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13407184/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "Introduction Marital conflict remains a persistent challenge among couples in Nigeria, often driven by deep-rooted maladaptive cognitive schemas, dysfunctional behavioural patterns, and poor self-differentiation. This study examined marital conflict resolution through Schema Therapy and Mutual Behaviour Analysis for enhanced self-differentiation among married couples in Ilorin Metropolis, Kwara State. Methods A quasi-experimental pretest-posttest control group design was adopted, involving 45 married couples. The instruments used were the Maladaptive Schema and Behavioural Patterns in Marital Conflict Scale (MSBPMC) and the Self-Differentiation Questionnaire (SDQ). Data were analyzed using mean, standard deviation, and ANCOVA at 0.05 level of significance. Results Findings revealed that emotional deprivation, abandonment/insecurity, and unrelenting standards were the most dominant maladaptive schemas, while demand-withdraw, emotional withdrawal, and avoidance behaviours were most prevalent. Couples also exhibited low self-differentiation characterized by emotional reactivity and dependence. Both Schema Therapy and Mutual Behaviour Analysis significantly reduced marital conflict and improved self-differentiation, with Schema Therapy showing a slightly greater effect. The combined ST+MBA model was most effective. Discussion and recommendations The study concludes that integrative therapeutic approaches are essential for effective marital conflict resolution.",
+  "raw_path": "01_raw/europepmc_xml/PMC13407184.xml",
+  "text_path": "02_text/europepmc/PMC13407184.txt",
+  "raw_bytes": 155080,
+  "text_chars": 72034,
+  "raw_sha256": "4122dd3b7c94d194f85ce3cd6d6cd43a8ad70d8d7a2103b81299c1539434d9b1",
+  "text_sha256": "dbcfb84c6c63ee82537379a4a7338fb4e62991b371be4dde68a51464b4a58819",
+  "retrieved_at": "2026-10-25T13:53:07.545192+00:00"
+}

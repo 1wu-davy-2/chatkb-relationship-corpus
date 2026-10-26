@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10102149",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Causal Influences of Same-Sex Attraction on Psychological Distress and Risky Sexual Behaviors: Evidence for Bidirectional Effects.",
+  "authors": "Oginni OA, Lim KX, Purves KL, Lu Y, Johansson A, Jern P, Rijsdijk FV.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1007/s10508-022-02455-9",
+  "pmcid": "PMC10102149",
+  "url": "https://europepmc.org/article/PMC/PMC10102149",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10102149/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Although health disparities among same-sex attracted compared to heterosexual individuals are typically explained by minority stress, there is limited evidence for a causal effect. This study investigated whether same-sex attraction was causally associated with psychological distress and risky sexual behavior using sociosexual behavior as a proxy. The sample comprised monozygotic and dizygotic twins and their non-twin siblings (n = 2036, 3780 and 2356, respectively) genotyped and assessed for same-sex attraction, psychological distress (anxiety and depressive symptoms), and risky sexual behavior. Causal influences were investigated with same-sex attraction as the predictor and psychological distress and risky sexual behavior as the outcomes in two separate Mendelian Randomization-Direction of Causation (MRDoC) models using OpenMx in R. The MRDoC model improves on the Mendelian Randomization and Direction of Causation twin models by allowing analyses of variables with similar genetic architectures, incorporating polygenic scores as instrumental variables and specifying pleiotropy and residual covariance. There were significant causal influences flowing from same-sex attraction to psychological distress and risky sexual behavior (standardized coefficients = 0.13 and 0.16; 95% CIs 0.03-0.23 and 0.08-0.25, respectively). Further analyses also demonstrated causal influences flowing from psychological distress and risky sexual behavior toward same-sex attraction. Causal influences from same-sex attraction to psychological distress and risky sexual behavior may reflect minority stress, which reinforces ongoing measures to minimize social disparities. Causal influences flowing in the opposite direction may reflect rejection sensitivity, stigma-inducing outcomes of risky sexual behavior, and recall bias; however, further research is required to specifically investigate these processes.",
+  "raw_path": "01_raw/europepmc_xml/PMC10102149.xml",
+  "text_path": "02_text/europepmc/PMC10102149.txt",
+  "raw_bytes": 171680,
+  "text_chars": 53279,
+  "raw_sha256": "cb070ade1314ec6ac40412c56581674cde69b39bfb4fea2c6b48398208337ba2",
+  "text_sha256": "4eca7d621e31d973abea8db09a996d4ccf5a7cf81753447779cbf1520d225cba",
+  "retrieved_at": "2026-10-25T15:37:13.520822+00:00"
+}

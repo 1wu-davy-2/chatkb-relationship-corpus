@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10893755",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Love after lockup: examining the role of marriage, social status, and financial stress among formerly incarcerated individuals.",
+  "authors": "Bather JR, McSorley AM, Rhodes-Bratton B, Cuevas AG, Rouhani S, Nafiu RT, Harris A, Goodman MS.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s40352-024-00264-x",
+  "pmcid": "PMC10893755",
+  "url": "https://europepmc.org/article/PMC/PMC10893755",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10893755/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Background Upon reintegration into society, formerly incarcerated individuals (FIIs) experience chronic financial stress due to prolonged unemployment, strained social relationships, and financial obligations. This study examined whether marriage and perceived social status can mitigate financial stress, which is deleterious to the well-being of FIIs. We also assessed whether sociodemographic factors influenced financial stress across marital status. We used cross-sectional data from 588 FIIs, collected in the 2023 Survey of Racism and Public Health. The financial stress outcome (Cronbach's [Formula: see text] = 0.86) comprised of five constructs: psychological distress, financial anxiety, job insecurity, life satisfaction, and financial well-being. Independent variables included marital and social status, age, race/ethnicity, gender identity, educational attainment, employment status, and number of dependents. Multivariable models tested whether financial stress levels differed by marital and perceived social status (individual and interaction effects). Stratified multivariable models assessed whether social status and sociodemographic associations varied by marital status. Results We found that being married/living with a partner (M/LWP, b = -5.2) or having higher social status (b = -2.4) were protective against financial stress. Additionally, the social status effect was more protective among divorced, separated, or widowed participants (b = -2.5) compared to never married (NM, b = -2.2) and M/LWP (b = -1.7) participants. Lower financial stress correlated with Black race and older age, with the age effect being more pronounced among M/LWP participants (b = -9.7) compared to NM participants (b = -7.3). Higher financial stress was associated with woman gender identity (overall sample b = 2.9, NM sample b = 5.1), higher education (M/LWP sample b = 4.4), and having two or more dependents (overall sample b = 2.3, M/LWP sample b = 3.4). Conclusions We provide novel insights into the interrelationship between marriage, perceived social status, and financial stress among FIIs. Our findings indicate the need for policies and programs which may target the family unit, and not only the individual, to help alleviate the financial burden of FIIs. Finally, programs that offer legal aid to assist in expungement or sealing of criminal records or those offering opportunities for community volunteer work in exchange for vouchers specific to legal debt among FIIs could serve to reduce financial stress and improve social standing.",
+  "raw_path": "01_raw/europepmc_xml/PMC10893755.xml",
+  "text_path": "02_text/europepmc/PMC10893755.txt",
+  "raw_bytes": 166432,
+  "text_chars": 40962,
+  "raw_sha256": "490d87ad3a96d1eae7b99420498cd024710f2bfb28efcb397841ffbd8a3ce7db",
+  "text_sha256": "14a46abcf0b4205c2f7f49a49fd59f638e8a477e3adc8623e5fee78d63ac7961",
+  "retrieved_at": "2026-10-25T15:37:11.112041+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12968163",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Feeling loved versus being loving: perceived partner behavior predicts relationship satisfaction.",
+  "authors": "Halamová J.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1773641",
+  "pmcid": "PMC12968163",
+  "url": "https://europepmc.org/article/PMC/PMC12968163",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12968163/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "What matters more for relationship satisfaction, feeling loved or being loving? Johnson's Emotionally Focused Therapy for couples emphasizes attachment, whereas Greenberg and Goldman's Emotion-Focused Therapy for couples highlights attraction and regard alongside attachment within a multi-motivational model. The present study addressed a more fundamental question: Does feeling loved predict relationship satisfaction more strongly than feeling loving? Using an extreme groups design comparing clinically distressed (CSI n = 213) with highly satisfied individuals (CSI > 78; n = 198), we assessed five self-report measures: attraction (IAS), perceived partner attachment behavior (BARE-Partner), perceived own attachment behavior (BARE-Self), perceived partner regard (BLRI: OS), and perceived own regard (BLRI: MO). Results revealed that perceptions of partner behavior consistently predicted satisfaction more strongly than perceptions of own behavior. Effect sizes for partner-perception measures (attachment-partner d = 2.64; regard-partner d = 2.45) exceeded their self-perception counterparts (attachment-self d = 2.32; regard-self d = 1.96). Logistic regression confirmed that only partner-perception measures uniquely predicted group membership: attraction ( OR = 27.58, p = 0.003) and perceived partner attachment ( OR = 4.46, p < 0.001), while self-perception measures were non-significant. Notably, the groups differed in which domains were most salient: distressed individuals showed primary deficits in attraction (47%) and feeling valued (35%), whereas satisfied individuals showed primary strengths in attachment security (61%) and attraction (37%). These findings suggest that the subjective experience of feeling loved by one's partner is more consequential for relationship satisfaction than the perception of being a loving partner, and that different domains may characterize relationship deterioration versus relationship thriving. Clinical implications for assessment and intervention are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC12968163.xml",
+  "text_path": "02_text/europepmc/PMC12968163.txt",
+  "raw_bytes": 79192,
+  "text_chars": 35435,
+  "raw_sha256": "8697575ec938e1f1205b835a4b6e30ec78bb31f61512c574e62b5ce1bbf3b3ba",
+  "text_sha256": "46d12ef30143c1c911efaa43444b5c466ec380ca57208b90aa272a6b27c3e811",
+  "retrieved_at": "2026-10-25T15:41:00.061687+00:00"
+}

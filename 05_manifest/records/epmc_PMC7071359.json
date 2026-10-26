@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7071359",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "What Makes a Partner Ideal, and for Whom? Compatibility Tests, Filter Tests, and the Mating Stability Matrix.",
+  "authors": "Lucchi Basili L, Sacco PL.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.3390/bs10020048",
+  "pmcid": "PMC7071359",
+  "url": "https://europepmc.org/article/PMC/PMC7071359",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7071359/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_market"
+  ],
+  "abstract": "We introduce a typological characterization of possible human heterosexual couples in terms of the concordance-opposition of the orientations of their active and receptive areas as defined by the tie-up theory. We show that human mating incentives, as characterized by widely adopted approaches, such as Becker's marriage market approach, only capture very specific instances of actual couples thus characterized. Our approach allows us to instead explore how super-cooperation among partners vs. convenience vs. constriction may be regarded as alternatives modes of couple formation and cohesion, leading to very different types of couples with different implications in terms of stability and resilience. Our results may have interesting implications for future experimental research and for individual and family counseling.",
+  "raw_path": "01_raw/europepmc_xml/PMC7071359.xml",
+  "text_path": "02_text/europepmc/PMC7071359.txt",
+  "raw_bytes": 309318,
+  "text_chars": 150209,
+  "raw_sha256": "a9967a006f7d4e93cea9ed59eefed00f7cd1a46f45931c37c102b1436fce9da0",
+  "text_sha256": "ec0a1be553deda9f1c76ca23d8911688d5f779b24ec0cdf39da3fb6d2d6fabc1",
+  "retrieved_at": "2026-10-25T15:36:58.337373+00:00"
+}

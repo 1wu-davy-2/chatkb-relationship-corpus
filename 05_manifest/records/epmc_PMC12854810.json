@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12854810",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Cross-Cultural Marital Satisfaction: Individualistic and Collectivist Influences.",
+  "authors": "Aflatooni L, Daneshpour M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/famp.70115",
+  "pmcid": "PMC12854810",
+  "url": "https://europepmc.org/article/PMC/PMC12854810",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12854810/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "As intercultural marriages become increasingly common in the United States, it is crucial to examine the factors that affect their stability and satisfaction. This study explores how demographic factors, cultural orientation, and social support influence marital satisfaction in Eastern men-Western women couples. A total of 89 individuals participated in this study, with 48.3% male (69.7% Middle Eastern and 30.3% Asian) and 51.7% female (United Statesian-European). Cultural collectivism, social support, and level of education were significant positive predictors of marital satisfaction. Collectivism, particularly horizontal collectivism which reflects egalitarian interdependence, emerged as a significant positive predictor of marital satisfaction. While social support was the strongest predictor of marital satisfaction, collectivism was not a significant predictor when social support was included, although its association remained positive. Additionally, there were no significant gender differences in marital satisfaction. Findings suggest that clinicians working with Eastern-Western couples should examine how partners balance collectivistic expectations, including family involvement and relational interdependence, with individualistic preferences for autonomy and independence. This balance appears to meaningfully shape marital satisfaction. Future research should examine a wider range of intercultural couples to determine whether similar patterns emerge across different racial, religious, and socioeconomic groups. Understanding these intersections can help policymakers and practitioners develop culturally responsive relationship education and support programs tailored to the needs of diverse intercultural families.",
+  "raw_path": "01_raw/europepmc_xml/PMC12854810.xml",
+  "text_path": "02_text/europepmc/PMC12854810.txt",
+  "raw_bytes": 125902,
+  "text_chars": 48928,
+  "raw_sha256": "63bdd693494cd31fa36197c9c1cd9fedd5bba51f56e969e67f4a1bc30181c82a",
+  "text_sha256": "25391e681ff7e7fedf020650b832798a48bdb3c52781a1b791a3ac191d2e0c65",
+  "retrieved_at": "2026-10-25T15:34:10.795398+00:00"
+}

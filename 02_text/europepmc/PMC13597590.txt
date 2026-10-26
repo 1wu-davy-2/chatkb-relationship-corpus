@@ -1,0 +1,280 @@
+TITLE: Estimation of Sexual and Gender Diversity Among People Aged 15 Years and Older in Japan: A Descriptive Epidemiological Study Using a Nationwide Cross-Sectional Internet Survey.
+AUTHORS: Minami T, Inoue M, Matsushima M, Yoshioka T, Tabuchi T.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1007/s10508-026-03515-0
+PMCID: PMC13597590
+LICENSE: cc by-nc-nd
+LICENSE_URL: https://creativecommons.org/licenses/by-nc-nd/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC13597590
+TOPICS: attraction
+
+---
+
+ABSTRACT
+AbstractEvidence on the proportion and characteristics of sexual and gender minorities (SGM) in Japan is limited. We aimed to provide nationally calibrated, descriptive estimates of sexual orientation and gender identity (SOGI) distributions and related socioeconomic and health indicators. We analyzed a nationwide web survey conducted in Japan in September–October 2022. SOGI was estimated using a two-step measure of assigned sex at birth and current gender identity, plus a romantic/sexual attraction item for sexual orientation. Gender-diverse (GD) respondents were not reclassified by sexual orientation. We produced population estimates from 27,690 eligible respondents using inverse probability weighting calibrated to the 2019 Comprehensive Survey of Living Conditions. Among the Japanese population aged 15 years and over, 8.6% were estimated to identify as SGM, namely 4.9% as gay/lesbian, 1.1% as bisexual, 1.0% as asexual, and 1.6% as GD. All measures were self-reported and differences were interpreted as weighted distributions rather than causal effects. SGM respondents were more concentrated in younger groups and less often married or partnered than cisgender heterosexual respondents. We also observed disparities in several socioeconomic and health-related indicators, including household income, employment status, and psychological distress, with mixed directions for smoking and drinking. Patterns varied by assigned sex at birth and differed in part from Western reports. These findings provide nationally calibrated descriptive evidence on SOGI subpopulations in Japan and support routine inclusion of SOGI items in administrative and population surveys.Supplementary InformationThe online version contains supplementary material available at https://doi.org/10.1007/s10508-026-03515-0.Keywords: Descriptive epidemiology, Japan, Sexual orientation, Gender identity, Sexual minority, Transgender
+
+BODY
+Introduction
+
+Sexual and gender diversity refers to the full spectrum of variation in sexual orientation and gender identity (SOGI) across populations. Within this spectrum, sexual and gender minority (SGM) people, such as gay, lesbian, bisexual, transgender, and non-binary individuals, have been historically marginalized across the globe and have often faced discrimination, stigma, and prejudice, leading to health disparities. Minority stress theory, which emphasizes the marginalization of SGM, has been widely used to understand the underlying mechanisms of these health disparities (Meyer, 2003). Various resolutions relating to sexual orientation and gender identity (SOGI) have been endorsed by the United Nations (OHCHR, 2023), and safeguarding the rights of SGM has now become a paramount concern globally.
+
+A growing body of SGM research has documented health disparities, a substantial portion of which originated in Western countries. Most published SGM studies are Western and survey-based, predominantly from the USA (Carter et al., 2019; Gonzales et al., 2016; Jackson et al., 2016; LoSchiavo et al., 2020; Operario et al., 2015) but also from the Netherlands (de Graaf et al., 2006; Sandfort et al., 2006), Sweden (Branstrom et al., 2016, 2018), Portugal (Duarte & Pereira, 2021), Canada (Shokoohi et al., 2022), and the UK (Shahab et al., 2017). These studies include a few cohort or claims-based analyses (Branstrom et al., 2018; Carter et al., 2019).
+
+With regard to Asia, emerging evidence highlights a degree of contextual complexity. Examples include studies on the effects of heterosexual marriage among Chinese men who have sex with men (Yang et al., 2020), marriage equality reforms in Taiwan (Huang & Liang, 2022), and Confucianism-related stigma (Xu et al., 2022). Studies of SGM Asian Americans also report greater marginalization compared with heterosexual ethnic majorities, modified by intersecting racism and heterosexism. (Le et al., 2022; Okazaki, 2002; Tan et al., 2016).
+
+In Japan, the majority of studies on SGM have been reported by private companies (Dentsu Diversity Lab, 2023; Japan LGBT Research Institute, 2019), government agencies (Japanese Trade Union Confederation [JTUC-RENGO], 2016), and sociologists (Harada, 2001; Kamano et al., 2019; Kimmel & Yi, 2004). Estimates of SGM prevalence have been reported to range from 7.0% to 16.8%. However, these studies had shortcomings, including convenience sampling bias (Harada, 2001; Kimmel & Yi, 2004), inadequate sample adjustment (Dentsu Diversity Lab, 2023; Japan LGBT Research Institute, 2019), and the use of specific cohorts (Kamano et al., 2019), which limits their generalizability and emphasizes the need for more comprehensive studies. Alongside these prevalence studies, some studies document higher psychological distress, suicidality, and school harassment, minority-stress-related stigma among SGM people, albeit these are non-probability or qualitative studies (Hidaka & Operario, 2006; Hill et al., 2025). Collectively, these limitations indicate the need for nationally representative and comparable estimates. Further, they indicate a geographic disparity in research focus and possibly in understanding of the SGM issue between Western and Asian countries, particularly in Japan.
+
+At the policy level, the Japanese government, as a member of the United Nations LGBTI Core Group (United Nations LGBTI Core Group, 2023), is promoting policy guidance and administrative measures to safeguard the rights and dignity of sexual and gender diverse people in workplace and educational settings. Examples include national guidance recognizing unauthorized “outing” as conduct that may constitute power harassment (Ministry of Justice, 2023) and the December 2022 revision of the Student Guidance Manual (Ministry of Education, Culture, Sports, Science and Technology, n.d.). Meanwhile, activists have criticized Japan, the only G7 nation without a comprehensive anti-discrimination law or marriage equality, for slower legal reforms (The Mainichi, 2023). Historically, however, within Japan’s philosophical, religious, and cultural traditions, same-sex relations have not been uniformly criminalized or tabooed and have at times been partially accepted in high-society culture (shudō, kagema, and so on) and as a popular art form (yaoi, yuri, and so on) (Laurent, 2005). In practice, SOGI diversity has often been tolerated when conventional family norms are maintained, including cases where same-sex relationships are kept confidential within heterosexual marriages (Laurent, 2005; Okazaki, 2002). Furthermore, cross-national analyses suggest lower country-level structural stigma against SGM and lower SOGI non-disclosure in Japan relative to several Asian settings (Pachankis & Branstrom, 2019). Overall, Japan’s SGM landscape is characterized as a hybrid of policy momentum and cultural tolerance, tempered by limited evidence and delayed legal reforms.
+
+To our knowledge, there are no nationally representative studies of SGM in Japan or elsewhere in Asia. The paucity of evidence may reflect opposition to relevant UN SOGI resolutions in some Asian countries (OHCHR, 2023), and criminalization and penalties persist regarding SGM-related expression and same-sex sexual acts in parts of Asian countries (International Lesbian, Gay, Bisexual, Trans and Intersex Association [ILGA], 2023). In Japan, an industrialized country with a distinct cultural context to Western settings, ascertaining the proportion of SGM and describing demographic characteristics, household relationships, and health outcomes, would provide essential insight to policymakers, healthcare professionals, and researchers. These findings could aid the development of appropriate interventions to address health disparities, if present. Furthermore, closing the evidence gap between Western countries and Japan would contribute to international policies that safeguard the rights, freedom, and dignity of SGM people.
+
+Here, we aimed to estimate the proportion of the Japanese SGM population and to provide descriptive comparisons of socioeconomic and selected health indicators between SGM groups and cisgender heterosexual counterparts, using nationwide Internet-based cross-sectional survey data.
+
+Method
+
+Participants and Procedure
+
+This study used data from the third wave of the COVID-19 and Society Internet Survey in Japan (JACSIS 2022), conducted by Rakuten Insight Inc. (Rakuten) from September 12 to October 19, 2022 (Someko et al., 2026). Participants were recruited from a panel of 2.3 million Japanese individuals, ensuring diverse representation. They provided demographic information at registration and consented to participate. Minors provided parental consent. The initial JACSIS study used multistage sampling, with stratification by age and sex, and reached a sample size of 28,000 through email invitations. For JACSIS 2022, the target sample size was 32,000, with priority invitations sent to previous respondents. Response rate was 65.7% (27,327 respondents) of the total invited respondents (41,626).
+
+This study applied two pre-set algorithms to exclude inattentive respondents, also known as “satisficers,” who adversely affect the representativeness of respondents in Internet surveys.
+
+The following criteria were used as the initial exclusion algorithm to identify 3,370 inattentive respondents: (1) Households of more than 15, given that the maximum number in a single household in the Comprehensive Survey of Living Conditions of People on Health and Welfare in 2019 (CSLCPHW 2019) was 14; (2) respondents who responded incorrectly to a directed question scale asking them to choose the answer second from the bottom (as directed questions scale); and (3) respondents who provided straight-line responses to the survey on comorbidities and substance use (i.e., responding “Currently having this condition” and “I am a current user” for all items, respectively) were also excluded. This exclusion algorithm follows recommended practices for detecting “satisficers” (Meade & Craig, 2012; Schneider et al., 2018).
+
+After this initial exclusion, 28,630 respondents remained eligible, representing 91.0% of all JACSIS 2022 respondents. Age ranged from 15 to 82 years and 49.1% registered their sex as male. The pre-configured algorithm removed the excluded 9.0%, who were not included in the calculation of sampling weights (see Analyses below) or in any analyses of the JACSIS 2022 studies.
+
+Afterward, we further excluded 940 inattentive respondents in this SGM study after applying the subsequent exclusion algorithm as follows: (1) respondents who responded that their own sex assigned at birth on their birth certificate was something other than male or female; (2) respondents who responded that their partners’ sex assigned at birth was something other than male or female if they had a partner; this is because, under Japan’s family register act, sex is only registered as either “male” or “female”; and (3) respondents who selected “5 (others)” for the romantic/sexual attraction (sexual orientation) item; because no self-describe field was available, these cases could not be assigned to the 5-category SOGI classification and were excluded from the primary analyses. The former two questions were also included in the “directed questions scale” (Meade & Craig, 2012; Schneider et al., 2018). We considered the remaining 27,690 respondents as eligible for this SGM study (Fig. 1).
+
+Flowchart for eligible study participants
+
+Measures
+
+Ascertainment of Sexual Orientation and Gender Identity
+
+Table 1 shows the survey questionnaire used to determine SOGI. The questionnaire design followed a “two-step approach,” which has been frequently used in previous research (Badgett et al., 2009). All the questionnaires in a survey conducted by Rakuten Insight Inc. had to be displayed in a single matrix-style block, with the same response options applied to every sub-item (Fig. 2). Under the two-step approach, the “sex assigned at birth” items should present only 1 (male) and 2 (female); options 3 (both sexes), 4 (unable to decide/undecided), and 5 (others) are not valid for these items. However, because the SOGI questionnaire also had to be implemented in a single matrix-style block that forces the same response list across all sub-items, non-applicable options were also displayed at the “assigned sex at birth” item. To prevent misclassification and enhance quality control, we intentionally treated the “assigned sex at birth” and “spouse/partner’s one” items as a “directed question scale” and appended the instruction with “Choose 1 (male) or 2 (female)” (consistent with the Japanese birth certificate system). Inattentive respondents who responded other than 1 or 2 to these items were not considered eligible. These items were not intended to exclude SGM.
+
+Questionnaire on sexual orientation and gender diversity and spouse/partner sex
+
+Flowchart for the ascertainment of sexual orientation and gender identity (example for women)
+
+Initially, individuals with a mismatch between assigned sex at birth and gender identity, or those indicating non-binary/questioning identities (e.g., selecting “both” or “unable to decide/undecided” for gender identity), were classified as gender diverse (transgender/non-binary/questioning) (GD) via the two-step approach.
+
+Among respondents whose gender identity aligned with their assigned sex at birth (i.e., cisgender), sexual orientation was categorized as Heterosexual cisgender (hereafter, “Heterosexual”), Gay/Lesbian cisgender (“Gay/Lesbian”), Bisexual cisgender (“Bisexual”), or Asexual cisgender/unsure, based on the romantic/sexual attraction item (i.e., exclusively different-sex, exclusively same-sex, both sexes, or neither/unsure, respectively). Asexual was defined only among cisgender respondents who selected “4 (unable to decide/undecided)” for the romantic/sexual attraction item. Because the instrument provided a combined option without a self-describe field, we could not distinguish between asexual and undecided respondents; therefore, we use the inclusive label “Asexual cisgender/unsure” (hereafter, “Asexual”) and interpret this category with caution. Gender diverse respondents were not reclassified by sexual orientation. For clarity, an example of the SOGI classification logic is shown in Fig. 3.
+
+Sexual and gender minority categories by age group and sex
+
+JACSIS Variables
+
+The JACSIS 2022 survey consists of 92 main questions (items). To ensure complete responses, incentives were only provided to participants who answered all questions, resulting in no missing values in the collected data. All variables were collected through self-report, and several variables were validated by previous research. The variables used in this descriptive epidemiological study were age, marital/partnership status, partners’ assigned sex at birth (if applicable), household components and composition, household equivalent income, academic attainment, employment status, housing tenure ((homeownership status; owning vs. renting), health insurance coverage, body mass index (BMI), smoking status, alcohol consumption, substance use, medical comorbidities, self-rated health, and psychological distress as measured by the Kessler-6 Scale (Kessler et al., 2002) and loneliness as measured by the Japanese version of the short-term UCLA Loneliness Scale (Arimoto & Tadaka, 2019). The precise questionnaires are given in the Supplementary Methods.
+
+Same-sex partnerships or opposite-sex marriages/partnerships were identified based on the self-reported assigned sex at birth of the respondent and their partner.
+
+For income indicators, categories in declining to answer or unknown were treated as missing data. Equivalent household income, calculated by dividing the median of the household income category by the square root of the number of household members, was classified by quintiles.
+
+We categorized academic attainment into three groups: non-degree holders for high school or below, degree holders for college or above, and others. We categorized employment status as either “employed/employee/self-employed,” “worker/unemployed,” or “not in labor force/retirement” and described the details of employment status.
+
+A universal health insurance system has been implemented in Japan, and most of the population is covered by health insurance. Those who responded that they were receiving welfare, were uninsured, or received “other” were categorized as not having health insurance coverage.
+
+BMI was calculated by dividing the weight in kilograms by the square of height in meters and categorized as follows: normal weight (BMI 18.5–24.9), underweight (BMI 30).
+
+We categorized the type of cigarettes used by current smokers into four groups: combustible tobacco only, heated tobacco products or e-cigarettes, other tobacco products, and multiple tobacco product use. Alcohol consumption and substance use were categorized as never drinker/user, former drinker/user (several times or habitually in the past), or current drinker/user (occasionally or almost every day). A “habitual substance user” was operationally defined as someone who responded “occasionally” or “almost every day” for one or more substances. The substance use items were selected by the authors to capture a broad range of substances relevant to drug misuse in Japan, including regulated drugs such as non-prescription opioids, illicit drugs, cannabis, and stimulants, cocaine, or heroin, as well as commonly misused psychoactive substances such as sedatives or tranquilizers and organic solvents (see the Supplementary Methods). We accounted for the presence of comorbidities other than substance use disorder. Participants were classified as having a comorbidity if they currently had at least one condition. The specific comorbidities included are described in the Supplementary Methods.
+
+Statistical Analyses
+
+Sampling weights for this study were derived from nationally representative and census population-based samples of CSLCPHW 2019, obtained from the Ministry of Health, Labour, and Welfare. JACSIS 2022 and CSLCPHW 2019 data were merged and used in a logistic regression model to estimate propensity scores. The sampling weights, calculated for 28,630 respondents after initial exclusions, were predicted from a logistic model in which we adjusted for area of residence, marital status, education status, housing tenure, self-rated health, and smoking status for individuals aged 20–82; and area of residence, education status, housing tenure, and self-rated health (omitting marital status and smoking status) in individuals aged 15–19 years, using the CSLCPHW 2019 data. The outcome variable in the logistic model was the type of survey (JACSIS 2022 or CSLCPHW 2019), and the sampling weight represented the probability of “being an internet survey respondent.”
+
+To adjust survey results for potential sampling bias between the respondents to this Internet survey and the general population in Japan, we applied inverse probability weighting (IPW). The adjustment of sampling bias in web surveys based on sampling weights has been established (Hoshino, 2009) and has been used in epidemiological research (Tabuchi et al., 2016). Descriptive analyses included unweighted numbers and weighted proportions (henceforth, written as “proportion”) with 95% confidence intervals (CIs) for discrete variables and weighted means with 95% CIs for continuous variables, calculated using a robust variance estimator to account for IPW. We performed survey-design-based statistical tests across SOGI categories, both overall and within each assigned sex at birth, and between both sexes within each SOGI category. Statistical significance was set at p < 0.05. We did not apply a regression model that adjusts for covariates within the descriptive epidemiology framework in this study (Fox et al., 2022; Lesko et al., 2022). All analyses were conducted using Stata version 17 (StataCorp LLC, College Station, TX, USA).
+
+Results
+
+Assigned Sex at Birth and Age
+
+Among the Japanese population aged 15 years and over, 8.6% were estimated to identify as SGM, including 4.9% as gay/lesbian, 1.1% as bisexual, 1.0% as asexual, and 1.6% as GD. The distribution by assigned sex at birth differed across SOGI categories: Gay respondents were more often male, whereas bisexual and asexual respondents were more often female; GD respondents were similarly distributed by assigned sex at birth (Tables 2 and S1).
+
+Summary characteristics of respondents by sexual orientation and gender diversity
+
+SOGI, sexual orientation and gender identity; CI, confidence interval
+
+All %’s represents weighted percentages
+
+*Presents as weighted mean and weighted 95% CI
+
+†p values correspond to survey-weighted Wald F tests of SOGI category differences
+
+‡Asexual: cisgender respondents selecting option 4 “Unable to decide/undecided” for sexual attraction (no dedicated “no sexual attraction” option)
+
+Mean age differed significantly across SOGI categories, with all SGM groups younger than heterosexual respondents (heterosexual 48.8 years, gay/lesbian 44.7, bisexual 38.3, asexual 40.0, and GD 38.4; p < 0.01) (Table2 and S1). This pattern was consistent after stratification by assigned sex at birth. SGMs were more common under age 30, with little variation in prevalence after age 30 (Fig. 3).
+
+Marriage/Partnership and Household Status
+
+The proportion of married or partnered participants differed significantly across SOGI groups, with the highest proportion among heterosexual respondents and lower proportions across SGM categories (65.1% in heterosexual, 47.7% in gay/lesbian, 38.3% in bisexual, 25.4% in asexual, and 38.1% in GD; p < 0.01). Same-sex partnerships were more prevalent among males than among females within gay/lesbian, bisexual, and GD categories, and none were observed among female bisexuals or asexual respondents of either sex (Table 3).
+
+Same-sex partnerships among married/partnered respondents by SOGI category and sex
+
+¶p value corresponds to the survey-weighted t test for differences by each SOGI category within both assigned sexes
+
+Single households and parenting households varied significantly across SOGI categories (Table 2). After stratification by assigned sex at birth, variation in single households remained significant in both males and females, whereas variation in parenting households was limited. Parenting households within opposite-sex marriages or partnerships were less common in each SGM category than among heterosexual respondents (Tables 4 and 5).
+
+Single households by SOGI category and sex
+
+†p value corresponds to the survey-weighted Wald F test for differences by assigned sex within each SOGI category
+
+Parenting households among married/partnered respondents by SOGI category and sex
+
+*Presents as number of marriages/partnerships
+
+Socioeconomic Status
+
+Mean household equivalent income, academic attainment, and health insurance differed significantly across SOGI categories, whereas employment status and housing tenure did not in the overall sample (Table 2).
+
+After stratification by assigned sex at birth, mean household equivalent income differed significantly across SOGI categories within each sex. Lower income was more common among SGM categories than among heterosexuals, particularly among male SGMs and female GDs (Fig. 4).
+
+Household equivalent income by SOGI category and sex. Abbreviation: SOGI, sexual orientation and gender identity
+
+Academic attainment differed across male SOGI categories, with degree holders most common among heterosexual males. Degree holders were also more common among female than male heterosexual and gay/lesbian respondents (Fig. 5; Table 6).
+
+Academic attainment by SOGI category and sex. Abbreviation: SOGI, sexual orientation and gender identity
+
+Academic attainment (3-category) by SOGI category and sex
+
+Employment status differed across SOGI categories within each sex, with “Worker/unemployed” more common among male than female heterosexual, gay/lesbian, and GD respondents (Table 7; Fig. 6).
+
+Employment status (3-category) by SOGI category and sex
+
+Employment status by SOGI category and sex. Abbreviation: SOGI, sexual orientation and gender identity
+
+After stratification by assigned sex at birth, health insurance coverage differed across SOGI categories within each sex and was lower in SGM categories than among heterosexual respondents (Table 8; Fig. 7). Housing tenure showed significant variation only across male SOGI categories (Tables 2 and 9).
+
+Health insurance coverage by SOGI category and sex
+
+Health insurance coverage by SOGI category and sex. Abbreviation: SOGI, sexual orientation and gender identity
+
+Housing tenure by SOGI category and sex
+
+Health Status
+
+BMI differed significantly across female SOGI categories, with underweight more common among female SGM categories than among female heterosexual respondents. Overweight or obesity tended to be more common among male bisexual, male asexual, and female asexual respondents than among their heterosexual counterparts (Tables 2 and S6; Fig. 8).
+
+Body mass index by SOGI category and sex. Abbreviation: BMI, body mass index: SOGI, sexual orientation and gender identity
+
+For current smoking, variation across SOGI categories in the overall sample was no longer significant after stratification by assigned sex at birth, although GD respondents tended to report higher current smoking within each assigned-sex stratum (Tables 2 and S7; Fig. 9).
+
+Smoking status by SOGI category and sex. Abbreviation: SOGI, sexual orientation and gender identity
+
+Habitual drinking and substance use varied across SOGI categories in the overall sample and among males (Tables 2, 10, and 11). SGM categories tended to report less habitual drinking than heterosexual respondents within each assigned-sex stratum, whereas current use of substances other than tobacco and alcohol tended to be higher in SGM categories, although overall prevalence was low (Tables 10 and 11).
+
+Alcohol consumption by SOGI category and sex
+
+Substance use by SOGI category and sex
+
+‡ Asexual: cisgender respondents selecting option 4 “Unable to decide/undecided” for sexual attraction (no dedicated “no sexual attraction” option)
+
+Medical comorbidity did not differ significantly across SOGI categories within assigned-sex strata or between males and females within each SOGI category (Table 12). Several significant differences were observed in the presence of detailed comorbidities (Table S10).
+
+Medical comorbidity by SOGI category and sex
+
+Good self-rated health, psychological distress, and the UCLA loneliness scale varied across SOGI categories in the overall sample (Table 2). After stratification by assigned sex at birth, self-rated health no longer differed significantly, whereas psychological distress remained consistently more common in SGM categories than among heterosexual respondents. The UCLA loneliness scale showed significant variation within assigned-sex strata but no consistent pattern across SOGI categories (Table 13).
+
+Health-related variables by SOGI category and sex
+
+Discussion
+
+Scope of Interpretation
+
+This study was descriptive and cross-sectional, and all variables were self-reported. We produced survey-design-based population estimates by applying the IPW method, in which we calibrated JACSIS 2022 to the nationally representative CSLCPHW 2019 and thereby improved the representativeness of the estimates. We reported survey-weighted statistical tests only to summarize overall heterogeneity across SOGI categories or between assigned sex at birth within each SOGI category. We avoided extensive post-hoc pairwise comparisons to limit multiplicity. Accordingly, differences were interpreted as weighted distributions rather than causal effects (Fox et al., 2022; Lesko et al., 2022). This discussion is structured to present the distributions of SOGI subpopulations in Japan and to highlight several relevant disparities as hypothesis-generating descriptions rather than causal suggestions. These summaries are intended to inform surveillance and future analytic studies, not to attribute causes. For previous studies, we primarily reference the participant demographics of each study, as shown in Table 1, to compare them with this study. Prevalence estimates are sensitive to measurement choices and survey context, so cross-national comparisons warrant caution.
+
+Principal Findings
+
+This is the first study to estimate the survey-weighted proportion of SGM in Japan and to describe their socioeconomic status and health-related variables using nationwide internet survey data calibrated to a nationally representative CSLCPHW 2019. Our primary finding was that 8.6% of the Japanese population aged ≥ 15 years identified as SGM, namely 4.9% as gay/lesbian, 1.1% as bisexual, 1.0% as asexual, and 1.6% as GD, providing nationally representative data. These estimates are reasonably consistent with previous Japanese SGM studies (Dentsu Diversity Lab, 2023; Kamano et al., 2019; Japan LGBT Research Institute, 2019). We also observed differences in several socioeconomic and health-related indicators between SGM individuals and their heterosexual counterparts, suggesting that SGM populations in Japan experienced persistent disparities despite the country’s relatively tolerant social context for gay/lesbian identity.
+
+Comparison with Prior Studies
+
+The increased proportion of SGMs among younger generations, together with a higher proportion of gay/lesbian people among males and of bisexual and asexual people among females, was consistent with prior research conducted in Western settings (Bogaert, 2004; Gonzales et al., 2016; Jackson et al., 2016; Operario et al., 2015; Shahab et al., 2017; Shokoohi et al., 2022). Younger adults were more likely to self-identify as SGMs because of greater social acceptance and willingness to disclose, and similar dynamics may plausibly have operated in Japan as well (National Academies of Sciences, Engineering, & Medicine, 2020).
+
+A substantial share of gay/lesbian respondents reported opposite-sex marriages or partnerships, and parenting households were also observed among respondents in same-sex partnerships. These patterns may reflect family norms emphasizing marriage and procreation within Confucian cultural traditions, as well as the legal non-recognition of same-sex marriage, structural stigma, fertility intentions, and individual preferences in Japan (Laurent, 2005). Empirical studies directly evaluating these mechanisms among Japanese SGM remain limited.
+
+There are scant research detailing opposite-sex marriages among SGMs. Similarly, mixed-orientation marriages/relationships, namely people in a marriage/relationship whose sexual orientations do not match, are not well studied (Vencill & Wiljamaa, 2016). Previous studies have reported substantial cross-national variation in opposite-sex marriages/relationships among males who have sex with males, ranging from 3 to 9% in the USA to 33 to 51% in China (Catania et al., 2001; Godbole et al., 2014; Jeffries, 2009; Wen & Zheng, 2020). In contrast, population-based data on opposite-sex marriage/partnership among gay/lesbian and bisexual females are scarce (Buxton, 2006; Reinhardt, 2011). Findings on relationship and mental health outcomes in mixed-orientation marriages are inconsistent, possibly reflecting differences in social and cultural norms across countries (Kays et al., 2014; Tornello et al., 2011; Yang et al., 2020).
+
+Findings on income by SOGI category were broadly consistent with previous studies, mainly from Western settings, which have reported lower incomes among SGMs and particularly low incomes among bisexual women (Branstrom et al., 2018; Gonzales et al., 2016; Jackson et al., 2016). Females also had lower incomes than males in each SOGI category. The low income observed among GD respondents was also consistent with a previous study in which a “something else” category had the lowest income among SOGI groups (Jackson et al., 2016).
+
+Academic attainment also showed SOGI-related disparities in Japan, with patterns that differed in part from previous Western studies. Although gay/lesbian and bisexual males have generally been reported to have higher educational attainment than heterosexual males, Japanese males in this study showed the opposite trend (Branstrom et al., 2018; Gonzales et al., 2016; Jackson et al., 2016). Among females, previous findings have been inconsistent, and our findings were closer to studies reporting lower attainment among bisexual females than among gay/lesbian or heterosexual females (Gonzales et al., 2016; Jackson et al., 2016).
+
+Previous studies have found that male and female SGMs were less likely to be employed (Gonzales et al., 2016; Jackson et al., 2016; Operario et al., 2015); however, SGM females were more likely to be employed than heterosexual females in Japan. This may be influenced by the fact that married females in Japan are often “Not in labor force,” which might be associated with the low marriage/partnership proportion among SGM females. Gay/lesbian and GD males and females had worse employment status (e.g., “Worker/unemployed”) than their heterosexual counterparts, partially consistent with a previous study (Jackson et al., 2016).
+
+Male and female SGMs in Japan had a higher proportion of uninsured than heterosexual people, albeit that the numbers are minimal. This result is consistent with studies in the USA (Gonzales et al., 2016; Operario et al., 2015), which does not have universal health coverage. The burden of access to healthcare due to being uninsured in Japan could be a potential contributor to health inequalities between SGMs and heterosexual people.
+
+It has been reported that SGMs are at higher risk of housing instability, especially homelessness (LoSchiavo et al., 2020). However, regarding housing tenure, we showed that asexual males and gay/lesbian females were the least likely to own a home than other SOGI categories. Of note, we showed a significant variation across male SOGI categories only.
+
+A review study showed that gay/lesbian and bisexual females tended to be overweight/obese (VanKim & Laska, 2021). In contrast, this study showed that asexual females appeared to have a more dispersed BMI distribution, with higher proportions of both underweight and overweight/obesity than heterosexual females. A meta-analysis reported that SGM males were less likely to be overweight/obese (Lopez Castillo et al., 2022), partially consistent with this study (for bisexual and asexual males). Minority stress, behavior, or body image as risk factors might account for these differences between Japan and Western countries.
+
+Unlike previous Western studies, current smoking and habitual drinking showed limited differences between heterosexual and SGM groups in this study (Shahab et al., 2017; Shokoohi et al., 2022). Substance use was more prevalent among SGMs than among heterosexual people, although its overall prevalence was very low (Fish et al., 2021). These differences may reflect context-specific patterns of industry targeting, LGBTQ community settings, bullying, or other social factors in Japan.
+
+Comorbidities among SGMs, including immunodeficiency diseases such as HIV and HCV, as well as diabetes, asthma, respiratory disease, cardiovascular disease, cancer, and psychiatric disease, have been reported to be related to socioeconomic status, healthcare access, tobacco, and substance use (Beach et al., 2018; Evans-Polce et al., 2020; Streed et al., 2021). The disparity between heterosexual and SGM regarding medical comorbidities in Japan might be explained in the same way, such as low insurance coverage, worse employment status, and lower income among SGM. On the other hand, this study identified a comparable proportion of current smoking and relatively lower alcohol consumption among SGMs; these results are contradictory to conventionally known risk factors for medical comorbidities. Taken together, the findings warrant continued surveillance and careful assessment of SGM-focused programs in Japan to address potential inequities.
+
+As in this study, other studies have reported that SGMs have poorer self-rated health, a greater feeling of loneliness, and greater experience of psychological distress than heterosexual people (Elmer et al., 2022; Gonzales et al., 2016). Interestingly, when stratified by sex assigned at birth, no significant differences in self-rated health were found among SOGI categories, so future research with covariate adjustment is warranted.
+
+Limitations
+
+The SOGI ascertainment used in this study had important constraints that limited interpretability. We treated SOGI as constructs measurable only by self-reporting and used a two-step approach that recorded assigned sex at birth and current gender identity (Badgett et al., 2009). We classified sexual orientation using a romantic or sexual attraction item. We did not use the spouse or partner sex item to reclassify sexual orientation. We identified GDs using a two-step approach and did not reclassify GDs by sexual orientation, so the GD category combined heterogeneous subgroups. The instrument did not capture finer categories of current gender identity using a self-description option, such as transgender or non-binary, and did not collect sexual orientation among GDs. Accordingly, we were unable to estimate within-GD differences. GD estimates should therefore be read as descriptive aggregates and with caution, and future surveys in Japan should include more closely defined gender identity items and sexual-orientation items for GDs to enable stratified estimation. For the asexual classification, we created an asexual cisgender or unsure category among cisgender respondents who selected neither or unsure on the attraction item; this inclusive operationalization may mix true asexuality and questioning, so estimates warranted cautious interpretation. Moreover, because only male and female categories were included for the assigned sex at birth, respondents with disorders of sex development may also have been excluded. Overall, cross-national comparability of the present and overseas studies is limited because measurement constructs and survey contexts differed across countries.
+
+This study has several other limitations. All variables were self-reported, which introduces potential recall error and social desirability bias. BMI was also derived from self-reported height and weight, so some misclassification may have occurred. Self-administered, web-based modes can reduce the underreporting of sensitive behaviors and identities compared with interviewer-administered surveys, and do not eliminate such biases (Burkill et al., 2016). Accordingly, our estimates for some behaviors may be conservative and might differ by SOGI subgroup. Furthermore, the IPW method may overestimate attributes with few respondents, such as minors or older females (Schonlau et al., 2009). It is essential to assess whether the covariates used to construct sampling weights ensure national representativeness. Further studies with other cohorts or surveys are needed for better national representativeness. Finally, web-based surveys include variables that are unsuitable for questionnaires or cannot be measured, including actual bd health behaviors could not be validated against clinical sources. Additionally, selection bias remained an inherent risk in web-based surveys, particularly regarding the exclusion criteria used in this study. Individuals with limited internet access or low propensity to enroll in commercial panels may have been underrepresented. We applied propensity score IPW calibrated to the nationally representative CSLCPHW 2019 to mitigate this risk. This approach reduced bias but did not eliminate it. Accordingly, external validity was conditional on the covariates used to construct the weights. On the other hand, although our straight-lining screen was designed to identify inattentive responding, it may have excluded a small number of high-burden respondents. Accordingly, this selection bias could not be fully ruled out. This was of particular concern for SGM, given the high prevalence of comorbid conditions and substance use. Future research should use consent designs that enable the individual-level linkage of administrative and clinical data to cross-validate self-reported diagnoses and healthcare access measures, and thereby increase confidence in SGM population estimates.
+
+Implications for Policy and Research
+
+This study suggests several actionable implications. First, where feasible, national administrative surveys should incorporate SOGI measures, sexual-orientation items, and household modules that reference diverse partnership structures. Strengthening these measurements at the administrative level may improve surveillance and yield more actionable evidence for policy development. Routine, survey-design-based estimation enables surveillance of socioeconomic disparities and can aid targeted resource allocation. Second, where Japanese estimates diverged from prior Western reports (e.g., BMI, smoking/drinking), future work should prioritize measurement improvements, the addition of indicators of stigma or discrimination, and consent-based linkage to administrative or clinical data. Thirdly, beyond measurement and research, these findings also suggest the need for practical responses, including accessible mental health support for SGM populations and anti-discrimination efforts in schools and workplaces, which may reduce psychological burden and help address socioeconomic disparities. Finally, moving from description to analysis for the provision of plausible explanations for socioeconomic disparities will require longitudinal or panel designs, oversampling of small subgroups, and analyses which consider intersectionality by age and assigned sex at birth.
+
+Conclusion
+
+We estimated the percentage of SGMs in the Japanese population and described and compared several demographic variables between heterosexual people and SGMs. We clarified the differences in socioeconomic status and health status, which revealed that marital status, academic attainment, employment status, BMI, and smoking and drinking status differ from those in previous Western studies. These results of our descriptive epidemiological study will motivate policymakers, healthcare providers, and researchers to generate, analyze, and evaluate hypotheses in SGM research in Japan. We also hope that the results represent an important step toward ensuring the well-being of SGM and defending their rights in a society that respects diversity and promotes equality.
+
+Supplementary Information
+
+Below is the link to the electronic supplementary material.
+
+Supplementary file1 (DOCX 38 KB)
+
+Supplementary file2 (DOCX 154 KB)
+
+Acknowledgments
+
+The authors used ChatGPT 5.5, developed by OpenAI, to assist with English language editing and improving clarity during manuscript revision. All AI-assisted outputs were reviewed and edited by the authors, who take full responsibility for the final content of the manuscript. No generative AI tool was used as an author.
+
+Author Contributions
+
+T. Minami contributed to conceptualization, methodology, data analysis and interpretation, and writing—original draft. T. Minami, M. Matsushima, T. Yoshioka, and T. Tabuchi were involved in data collection. T. Tabuchi contributed to funding acquisition. M. Inoue and T. Tabuchi were involved in supervision. T. Minami, M. Inoue, M. Matsushima, T. Yoshioka, and T. Tabuchi contributed to writing—review and editing. All authors have read and agreed to the published version of the manuscript.
+
+Funding
+
+This study was supported by the Japan Society for the Promotion of Science (JSPS) KAKENHI grants (grant numbers 17H03589, 19K10671, 19K10446, 18H03107, 18H03062, 19H03860), the JSPS Grant-in-Aid for Scientific Research (grant number 19K19439 and 25K20641), the Research Support Program to Apply the Wisdom of the University to tackle COVID-19 Related Emergency Problems, University of Tsukuba, Health Labour Sciences Research Grant (grant numbers 19FA1005, 19FG2001, 19FA1012), and the Japan Agency for Medical Research and Development (AMED; grant number 2033648). The funding sources had no such involvement in this study.
+
+Availability of Data and Material
+
+The original data can be shared for research and academic proposes on reasonable request to the corresponding author.
+
+Code Availability
+
+The original statistic code file (Stata ver.17 Do-file) can be shared for research and academic purposes on reasonable request to the corresponding author.
+
+Declarations
+
+Conflict of interest
+
+None.
+
+Ethical Approval
+
+The study protocol was approved by the research ethics committees of the Osaka International Cancer Institute and National Cancer Center Japan (approval numbers: 20084 and 2020-447, respectively). All procedures followed the ethical standards of the Declaration of Helsinki and adhered to the Ethical Guidelines for Medical and Biological Research Involving Human Subjects established by the Japanese government. Before participation, all respondents provided web-based informed consent to the use of their data in this research. For minors, parental or guardian consent was obtained. Participants received incentives through “Epoints,” a credit system that can be used for Internet shopping or cash conversion. The study complied with the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) guidelines for cross-sectional studies.
+
+Footnotes
+
+Publisher's Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+References
+
+Associated Data
+
+Supplementary Materials
+
+Data Availability Statement

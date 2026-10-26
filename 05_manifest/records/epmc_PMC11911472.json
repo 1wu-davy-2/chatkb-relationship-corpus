@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11911472",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "&lt;i&gt;AVPR1A&lt;/i&gt; RS3 and relationship maintenance processes in newlywed couples.",
+  "authors": "Makhanova A, McNulty JK, Eckel LA, Nikonova L, Bartz JA, Bloshinsky AS, Hammock EAD.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1303065",
+  "pmcid": "PMC11911472",
+  "url": "https://europepmc.org/article/PMC/PMC11911472",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11911472/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "Introduction Maintaining relationship quality during the first few years can be difficult for many couples. We examined whether variability in the repeat-length polymorphism RS3 on the vasopressin receptor gene AVPR1A is associated with relationship maintenance processes and trajectories of marital satisfaction over the first three years of marriage. Methods Newlywed couples ( N =70; 128 individuals) reported on various aspects of their marriage within three months of their wedding and on their marital satisfaction every four months for three years, and provided saliva samples that we genotyped for RS3 alleles. Based on the literature, we predicted that people with at least one copy of target allele 334 (vs. none) would report more problems in pair bonding. We also used another genotype analysis approach from the extant literature, by testing whether people with a greater (vs. fewer) number of short alleles would report more problems in pair bonding. Results Across both approaches, results failed to support our predictions. In fact, the significant effects that did emerge were in the opposite direction from our predictions: people with at least one copy of allele 334 reported fewer marital problems and less interest in romantic alternatives; the number of short alleles was similarly positively associated with more dedication to the relationship and greater relationship satisfaction at the beginning of marriage. Discussion Discrepancies between these findings and prior research illustrate the challenges of candidate gene studies with small sample sizes. Nevertheless, in offering a potential reconciliation between the discrepancies, we suggest that attending to relational phase may be critical to understanding the role of RS3 in couple functioning; AVPR1A RS3 variability may be differentially associated with pair bonding in the newlywed stage compared to established marriages.",
+  "raw_path": "01_raw/europepmc_xml/PMC11911472.xml",
+  "text_path": "02_text/europepmc/PMC11911472.txt",
+  "raw_bytes": 165934,
+  "text_chars": 58714,
+  "raw_sha256": "a10650c40646d61c5ce387c462fe954939ccbdae1893142f3660cf9e703db3e2",
+  "text_sha256": "a0cd3fa69d95511e63f999fe3c09d7755962a241527d2127d1e0d7091bcb14cd",
+  "retrieved_at": "2026-10-25T15:45:23.694618+00:00"
+}

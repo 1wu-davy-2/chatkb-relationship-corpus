@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC8623679",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Women and Men's Perspectives on the Factors Related to Women's Dyadic Sexual Desire, and on the Treatment of Hypoactive Sexual Desire Disorder.",
+  "authors": "Friedmann E, Cwikel J.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3390/jcm10225321",
+  "pmcid": "PMC8623679",
+  "url": "https://europepmc.org/article/PMC/PMC8623679",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8623679/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction",
+    "sexual_desire_gap"
+  ],
+  "abstract": "Sexuality is a basic human need, which is expressed in the context of intimate personal relations. However, in studies of women's sexuality, men's attitudes are often overlooked. Health care providers can benefit from the examination of how both women and men perceive women's sexual desire and what are the most acceptable avenues for treatment for women's hypoactive sexual desire disorder (HSDD). This research aimed to explore differences between women and men on the factors affecting women's sexual desire and the appropriate avenues for treatment. Data were collected using an online questionnaire from 233 heterosexual adults who had a dyadic, steady intimate relationship over most of the previous year. A theory-based questionnaire of 28 items was developed to explore the factors associated with women's sexual desire. One quarter (7/28) of the items affecting women's sexual desire were ranked significantly differently between women and men. Among women, interpersonal issues and physical attraction, and among men, physical attraction and daily hassles were the significant predictors of women's sexual desire. Women more than men endorsed psychological help such as a sex therapist or psychologist as a more appropriate treatment for HSDD, while both men and women viewed the internet as a reasonable way to gain treatment information. Both women and men viewed gynecologists as a more acceptable source of treatment than a family doctor. Religious authorities were the least likely source of treatment advice for both women and men. The results support a multi-dimensional model of women's sexual desire and suggest that psychological interventions to treat HSDD may be preferred by women more than men.",
+  "raw_path": "01_raw/europepmc_xml/PMC8623679.xml",
+  "text_path": "02_text/europepmc/PMC8623679.txt",
+  "raw_bytes": 152935,
+  "text_chars": 34764,
+  "raw_sha256": "c1ac041f7a7ccc8bb136a041d3eb10d51fcdd2fc0f9305828a80b3296eb73e56",
+  "text_sha256": "2e8f724f306c2520e9051855ee8ecacf120a23ac9c221b0935ff9693ca0212bb",
+  "retrieved_at": "2026-10-25T15:47:02.077459+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9324373",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marriage Intention among Korean Young Adults: Trends and Influencing Factors.",
+  "authors": "An D, Lee SL, Woo H.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3390/ijerph19148557",
+  "pmcid": "PMC9324373",
+  "url": "https://europepmc.org/article/PMC/PMC9324373",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9324373/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_attitudes"
+  ],
+  "abstract": "The recent increase in the tendency of people to marry late or to opt out of marriage entirely is among the key contributors to Korea's low fertility rate. One possible cause of this tendency may be a change in how marriage is valued among Korea's youth. The marriage intentions of young adults can be classified into \"positive\", \"negative\", and \"neutral\". Over time, positive marriage intentions have declined across all age groups (2010: 61% → 2020: 39%; ages 25-29), with no significant change in negative marriage intentions. In contrast, neutral marriage intentions have increased significantly (2010: 36% → 2020: 53%; ages 25-29). This phenomenon may be attributable to the increase in the number of young adults who prioritize survival over thinking about the future. However, neutral marriage values can be changed into positive values at any time. A holistic overview of Korean society is necessary to determine how the values of young adults might be influenced to align with a traditional life process.",
+  "raw_path": "01_raw/europepmc_xml/PMC9324373.xml",
+  "text_path": "02_text/europepmc/PMC9324373.txt",
+  "raw_bytes": 156296,
+  "text_chars": 37742,
+  "raw_sha256": "8d8b11cadbe021c660c0e03ef900c331380318d9b53d179a40f86da338fcaa3f",
+  "text_sha256": "3afae46999fe933679d613954c3624c6d46871db00fb15f5f4ef39fb1c376567",
+  "retrieved_at": "2026-10-25T15:36:08.500454+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_john_bowlby",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "約翰·鮑比",
+  "requested_title": "约翰·鲍尔比",
+  "url": "https://zh.wikipedia.org/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E9%AE%91%E6%AF%94",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 約翰·鮑比",
+  "topics": [
+    "psychology",
+    "attachment"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/john_bowlby.json",
+  "text_path": "02_text/zh_wikipedia/john_bowlby.txt",
+  "raw_bytes": 2405,
+  "text_chars": 1641,
+  "text_sha256": "8bbbd6ff7c97c5d0f54d544fa404ae6c18ea70b6313ec2b6a14f6654db7b2243",
+  "retrieved_at": "2026-10-25T16:26:07.473207+00:00"
+}

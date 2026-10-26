@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10582731",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship beliefs, attachment styles and depression among infertile women.",
+  "authors": "Mobeen T, Dawood S.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1016/j.eurox.2023.100245",
+  "pmcid": "PMC10582731",
+  "url": "https://europepmc.org/article/PMC/PMC10582731",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10582731/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_ideals"
+  ],
+  "abstract": "The stigma of infertility in Pakistan has been conceded as a stressful clinical condition, significantly affecting women's over all wellbeing and spousal relationships. The present study aimed to investigate the connection between relationship beliefs, attachment styles and depression among infertile women. Ex post facto research design was employed. A total sample of 80 infertile women (40 primary and 40 secondary infertility) with age range of 25-45 years participated in the study through purposive sampling from two infertility centers of Lahore city. Data was collected using demographic information form, relationship belief inventory (RBI), attachment style questionnaire (ASQ) and depression scale of symptom checklist-revised (SCL-R). Result indicates that beliefs of disagreement is destructive (DID), mindreading is expected (MIE) and anxious attachment style were positively correlated with depression. Mindreading is expected' and anxious attachment' style emerged as the predictors of depression. However, no significant differences were found between both groups of primary and secondary infertile women. Considering, the dysfunctional relationship beliefs and negative attachment style with spouse as significant correlate and predictor of depression in infertile women. It is suggested to devise intervention focused on alleviating psychological issues related to infertility.",
+  "raw_path": "01_raw/europepmc_xml/PMC10582731.xml",
+  "text_path": "02_text/europepmc/PMC10582731.txt",
+  "raw_bytes": 65356,
+  "text_chars": 24000,
+  "raw_sha256": "b3f18f7c96cbd4001b1800ecbc94f11a1e6dd894fd5543ec2d3831df08ce5ee2",
+  "text_sha256": "15c7329d26b71c29970262d20508c21e8a576a905cb689914245f3abce2282ba",
+  "retrieved_at": "2026-10-25T15:27:42.932735+00:00"
+}

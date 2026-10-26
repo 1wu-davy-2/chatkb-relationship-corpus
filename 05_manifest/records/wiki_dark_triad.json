@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_dark_triad",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "黑暗三角人格",
+  "requested_title": "黑暗三角人格",
+  "url": "https://zh.wikipedia.org/wiki/%E9%BB%91%E6%9A%97%E4%B8%89%E8%A7%92%E4%BA%BA%E6%A0%BC",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "personality",
+    "safety"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/dark_triad.json",
+  "text_path": "02_text/zh_wikipedia/dark_triad.txt",
+  "raw_bytes": 2060,
+  "text_chars": 807,
+  "text_sha256": "6702ac3b8d5a3e6b242fd3320931f60483267f1f2e6b4911836f0378491b5e2d",
+  "retrieved_at": "2026-10-25T15:38:11.480126+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8605500",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Blocking and being blocked on gay dating apps among MSM attending a sexual health clinic: an observational study.",
+  "authors": "Kumar N, Forastiere L, Janmohamed K, Zhang TP, Sha Y, Yu F, Yang L, Tucker JD, Tang W, Alexander M.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1186/s12889-021-12182-w",
+  "pmcid": "PMC8605500",
+  "url": "https://europepmc.org/article/PMC/PMC8605500",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8605500/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "kink_consensual"
+  ],
+  "abstract": "Background There are limited studies on blocking and men who have sex with men (MSM) health outcomes. We need such data in China, to better understand the relationship between Chinese MSM gay app use and health outcomes, thus providing insight on risky sexual behaviors and HIV transmission among Chinese MSM - one of the world's largest MSM communities. Blocking someone is when users select a function on an app to prevent another user from contacting them and being blocked is when someone is prevented from contacting another user. We studied the correlates of blocking on the world's largest gay dating app among Chinese MSM (N = 208). Methods We conducted a cross-sectional survey as part of an HIV testing intervention in Guangzhou, China, May-December 2019. Using logistic regression models, we estimated the correlates of blocking (e.g. sociodemographic characteristics, sexual behavior, HIV testing history, social network data). Results MSM had a mean age of 27.9 years (SD = 7.1) and median of one sexual partner in the last 3 months. About 62% had blocked someone in their lifetime and 46% had been blocked in their lifetime. Each additional male partner was associated with an 87% (aOR = 1.87, 95%CI = 1.03, 3.40) increased chance of being blocked. Reporting a versatile sexual role was related with a 90% (aOR = 0.10, 95%CI = 0.02, 0.45) decreased likelihood of blocking behavior and an 86% (aOR = 0.14, 95%CI = 0.04, 0.46) reduced chance of being blocked. Conclusions Number of male partners may be associated with blocking behavior, with implications for the design of online sexual health interventions.",
+  "raw_path": "01_raw/europepmc_xml/PMC8605500.xml",
+  "text_path": "02_text/europepmc/PMC8605500.txt",
+  "raw_bytes": 89726,
+  "text_chars": 24888,
+  "raw_sha256": "77ed2134c11f9c2f725f0fd19c4d10ab4fcfcf474c723a436ec1a0ff96aec13b",
+  "text_sha256": "f82291ce857ffe6a41c914b520868443972d846afb8bc82268c68ecb8ffc98c1",
+  "retrieved_at": "2026-10-26T12:54:45.449317+00:00"
+}

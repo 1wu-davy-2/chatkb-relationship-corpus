@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12511288",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Understanding dating intentions on linkedin through perceived trustworthiness and user engagement.",
+  "authors": "Arbia MB, Ertz M, Horrich A, Bouzaabia R.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1038/s41598-025-19328-5",
+  "pmcid": "PMC12511288",
+  "url": "https://europepmc.org/article/PMC/PMC12511288",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12511288/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "social_media"
+  ],
+  "abstract": "The fast expansion of social media reshapes interpersonal communication, networking, and identity expression uniquely. The research explores LinkedIn's repurpose as a platform for dating intentions, challenging its conventional use as a professional networking site. By analyzing data from 331 LinkedIn users with dating intentions surveyed via an online questionnaire, the study unveils how perceived trustworthiness, safety, self-presentation, engagement behaviors, social validation, and self-confidence impact romantic pursuits. The findings suggest that trustworthiness enhances safety perceptions, which subsequently foster dating intent. Self-presentation and content engagement positively affect openness to romantic connections, while social validation boosts self-confidence. Surprisingly, self-confidence negatively correlates with dating intent, suggesting highly confident users may prioritize professionalism over personal connections. The study bridges digital marketing, social psychology, and behavioral sciences research while pioneering the burgeoning cross-purpose platform literature with substantive implications for practice and decision-making.",
+  "raw_path": "01_raw/europepmc_xml/PMC12511288.xml",
+  "text_path": "02_text/europepmc/PMC12511288.txt",
+  "raw_bytes": 219178,
+  "text_chars": 84896,
+  "raw_sha256": "e4ed647610bfec8ac5ef3eceb789551b74915e4bb19d4bef2b7a1cbcd2281e32",
+  "text_sha256": "62ab8c07a8616ce2f494ad11fa6568343d231122ae442a304096a90a36d6ecec",
+  "retrieved_at": "2026-10-25T13:51:36.931344+00:00"
+}

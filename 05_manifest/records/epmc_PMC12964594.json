@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12964594",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychometric evaluation of the Perceived Parental Phubbing Scale (PPPS) among Iranian university students: associations with psychosocial factors and group differences.",
+  "authors": "Mohammadi M, Ghanbari N.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12889-026-26498-y",
+  "pmcid": "PMC12964594",
+  "url": "https://europepmc.org/article/PMC/PMC12964594",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12964594/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Background Parental phubbing, the experience of children perceiving parental inattentiveness due to smartphone use, can signal emotional unavailability, perceived rejection, and model maladaptive behaviors. Theoretically, Risky Families Model highlights how emotionally unavailable parenting disrupts children's emotional and social development, PAR theory explains children's psychological responses to perceived parental neglect, and Social Learning Theory describes how children may adopt parents' smartphone habits. Despite these theoretical foundations, most research has been conducted in Chinese populations, limiting cross-cultural generalizability, and no validated Persian-language instrument exists. This study aimed to translate, culturally adapt, and validate the Persian Perceived Parental Phubbing Scale (PPPS) among Iranian university students, and to examine its psychosocial and sociodemographic correlates. Methods A cross-sectional online survey was conducted with 428 Iranian university students (70.8% female; M = 28.03, SD = 8.67). The participants completed the adapted 9-item PPPS alongside validated measures of smartphone addiction (SABAS), loneliness (ULS-8), and fear of missing out (FoMOs). Confirmatory factor analysis (CFA) was used to evaluate structural validity, whereas Cronbach's alpha (α), McDonald's omega (ω), and Guttman's lambda (λ) were used to assess reliability. Group differences were analysed via t tests and ANOVA. Results Confirmatory factor analysis supported a unidimensional structure with acceptable model fit (RMSEA = 0.076, CFI = 0.98), and the PPPS showed high internal consistency (α = 0.90, ω = 0.901). The PPPS score was positively correlated with smartphone addiction (r = .29), loneliness (r = .27), and FoMO (r = .42). Higher scores were found among students with psychological disorders and those in romantic relationships. No significant differences emerged in terms of gender, residence, educational level, or family history of psychological disorders. Conclusions The Persian PPPS is a valid and reliable tool for assessing perceived parental phubbing among Iranian students. The lack of gender differences suggests cultural or developmental nuances in how such behaviors are interpreted. The findings highlight the role of psychological vulnerability and relational context, offering a foundation for future cross-cultural research and culturally responsive interventions promoting mindful smartphone use in families.",
+  "raw_path": "01_raw/europepmc_xml/PMC12964594.xml",
+  "text_path": "02_text/europepmc/PMC12964594.txt",
+  "raw_bytes": 142324,
+  "text_chars": 39053,
+  "raw_sha256": "b448256a0cdb372deea149911835bfb9e30a08e9bcbb9e0782aa780762e63c0e",
+  "text_sha256": "69e292f70e61a8b8dcef2c6dc022e0bd565f6d443826b795181dded6056a8959",
+  "retrieved_at": "2026-10-25T15:36:23.460716+00:00"
+}

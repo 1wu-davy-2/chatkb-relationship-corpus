@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12636061",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Emotion Access and Navigation in Chinese Couples: Insights and Adaptations From Emotionally Focused Couples Therapy Therapists.",
+  "authors": "Tseng CF, Liu J, Fatahian-Tehran HM, Liu T.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jmft.70093",
+  "pmcid": "PMC12636061",
+  "url": "https://europepmc.org/article/PMC/PMC12636061",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12636061/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "The effectiveness of Emotionally Focused Couple Therapy (EFCT) has been well-documented, yet its application with Chinese couples remains underexplored. This is the first qualitative study examining therapists' perspectives on using EFCT with Chinese couples in clinical settings. Thematic analysis of semi-structured interviews with 20 therapists from mainland China, Taiwan, and Hong Kong revealed that therapists viewed EFCT as a useful approach for Chinese couples. EFCT was reported to be helpful for couples with relationship distress and mental health concerns. However, therapists emphasized the importance of understanding cultural values and nuances that influence presenting problems. Overall, therapists recommended adjusting EFCT skills to better serve the needs of Chinese couples, understanding cultural impacts on couples' presenting problems, and incorporating additional components and training for therapists working with Chinese couples. These findings provide a foundation for culturally adapted EFCT, ensuring its relevance for Chinese couples while honoring their unique relational and cultural contexts.",
+  "raw_path": "01_raw/europepmc_xml/PMC12636061.xml",
+  "text_path": "02_text/europepmc/PMC12636061.txt",
+  "raw_bytes": 130386,
+  "text_chars": 64600,
+  "raw_sha256": "0679a41071540e48ace7ff3a66dfe65af3c144d12da5108ff381723eadbddc3e",
+  "text_sha256": "a254cab0e72933a4fefb2103f3040961da45a78487417548250f01c659f06337",
+  "retrieved_at": "2026-10-25T15:30:21.537274+00:00"
+}

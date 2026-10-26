@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9599746",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual double standard: A gender-based prejudice referring to sexual freedom and sexual shyness.",
+  "authors": "Gómez-Berrocal C, Moyano N, Álvarez-Muelas A, Sierra JC.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2022.1006675",
+  "pmcid": "PMC9599746",
+  "url": "https://europepmc.org/article/PMC/PMC9599746",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9599746/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "The sexual double standard (SDS) consists of judging men and women differently for the same sexual behavior. This study contributes to research on the factors that determine inconsistent adherence to the SDS. It uses a descriptive methodology to analyze the association between individual and contextual factors both with adherence to the SDS, and with four SDS adherence typologies (man-favorable SDS, woman-favorable SDS, egalitarian and ambivalent). A total of 1,206 heterosexual Spanish adults (603 men and 603 women) participated. The mean age in the male sample was 41.7 ( SD = 14.25), in the female sample M = 40.84 ( SD = 14.24). The results show that the conceptualization of SDS as a gender-based prejudice is valid to understand the bias of ingroup favoritism that SDS implies: adherence to SDS is more related to the identity of the gender role of men (vs. women). In addition, evidence is provided that the normative context and domain of sexual behavior (i.e., sexual freedom or sexual shyness) determine the form that SDS adopts to express itself. The domain of behaviors related to sexual shyness (vs. domain related to sexual freedom) better discriminates between the different four SDS adherence typologies. The importance of adopting different levels of analysis (i.e., individual, intergroup, societal) to explain and predict both SDS adherence and the prevalence of SDS adherence typologies is discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC9599746.xml",
+  "text_path": "02_text/europepmc/PMC9599746.txt",
+  "raw_bytes": 145895,
+  "text_chars": 49256,
+  "raw_sha256": "f6b388efb114418fbab2953649c33985549834844fb1b6514a327c0ea58ea57d",
+  "text_sha256": "78e3d0b9faf1cdf870d163fefa0253e0dba09c14817b6ccdb9db71f02589f65d",
+  "retrieved_at": "2026-10-26T13:11:50.651257+00:00"
+}

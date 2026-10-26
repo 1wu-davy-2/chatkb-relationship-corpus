@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11404214",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Investigating the relationship between spermogram parameters and sexual desire in infertile men: a cross-sectional study from a tertiary centre in Iran.",
+  "authors": "Amirjannati N, Akhavizadegan H, Mohazzab A, Ghorbani B, Lotfi R, Fathalian M.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1136/bmjopen-2024-084236",
+  "pmcid": "PMC11404214",
+  "url": "https://europepmc.org/article/PMC/PMC11404214",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11404214/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction"
+  ],
+  "abstract": "Background Male factor infertility can affect spermatogenesis, sexual desire, and thus the quality of life of couples. The present study was conducted to investigate the relationship between spermogram parameters, and the score of sexual desire in infertile men. Methods This cross-sectional study was conducted on 315 infertile men referred to the Avicenna Infertility Center of Tehran (March 2022 to March 2023). The participants were selected based on the results of previous spermogram and hormonal tests recorded in their medical records. Eligible men completed the demographic information questionnaire and Hurlbert Index of Sexual Desire. A multivariable linear regression model was used to adjust the effect of variables on Hurlbert's score. Results There was no significant relationship among sperm parameters (count, morphology, motility, vitality, concentration and DNA Fragmentation Index) and with sexual desire of infertile men. Education level, age of men and their partners, the duration of the marriage and duration of infertility did not have a statistically significant effect on sexual desire. However, economic status had an inverse effect on men's sexual desire, with regression coefficients of 7.37 and 7.78 for medium and low socioeconomic levels compared with high (p Conclusion Male sexual desire is primarily influenced by social factors rather than organic ones. Further multicentre prospective studies are recommended for more accurate results.",
+  "raw_path": "01_raw/europepmc_xml/PMC11404214.xml",
+  "text_path": "02_text/europepmc/PMC11404214.txt",
+  "raw_bytes": 77291,
+  "text_chars": 23856,
+  "raw_sha256": "e9cf57decf6d285e4396b4b9cc8ae537b032d90f06fdbdc7afc7b2e535311bf4",
+  "text_sha256": "0b36d54761deb96e77fdab98eb1c83ae756b20c683bf66022258e4bb1dd86112",
+  "retrieved_at": "2026-10-25T15:30:20.141279+00:00"
+}

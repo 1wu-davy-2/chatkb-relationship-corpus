@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12217204",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The mediating role of cognitive emotion regulation skills in the relationship between romantic relationship satisfaction and eating attitudes.",
+  "authors": "Yılmazer E, Türk F, Hamamci Z.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40359-025-02868-w",
+  "pmcid": "PMC12217204",
+  "url": "https://europepmc.org/article/PMC/PMC12217204",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12217204/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance",
+    "romantic_relationship"
+  ],
+  "abstract": "Background Romantic relationship satisfaction has been linked to psychological outcomes, including emotional well-being and eating behaviors. However, the mechanisms underlying this relationship remain unclear. This study examines the mediating role of cognitive emotion regulation strategies-particularly catastrophizing-in the relationship between romantic relationship satisfaction and eating attitudes. Methods A cross-sectional study was conducted with 355 university students. Participants completed the Relationship Satisfaction Scale, the Cognitive Emotion Regulation Questionnaire (CERQ), and the Eating Attitudes Test-26 (EAT-26). Structural equation modeling (SEM) was performed using AMOS and R with robust maximum likelihood estimation. Model fit was evaluated using χ2/df, CFI, GFI, RMSEA, and SRMR. Results Catastrophizing significantly mediated the relationship between romantic relationship satisfaction and eating attitudes. Romantic relationship satisfaction was negatively associated with catastrophizing (β = -0.18, p = .028), and catastrophizing was positively associated with problematic eating attitudes (β = 0.35, p Conclusions These findings highlight the role of maladaptive cognitive emotion regulation-specifically catastrophizing-in linking romantic relationship dissatisfaction with disordered eating attitudes. Targeting catastrophizing in interventions may improve both relationship satisfaction and eating behaviors.",
+  "raw_path": "01_raw/europepmc_xml/PMC12217204.xml",
+  "text_path": "02_text/europepmc/PMC12217204.txt",
+  "raw_bytes": 172684,
+  "text_chars": 63900,
+  "raw_sha256": "68d6ba216cc1715cf4647521622d1b891b8b7944a42bb86aeeaf449e0732138f",
+  "text_sha256": "bba7752d36b8b173543e3bb179d50af8dc25abc3b577ecb3d7f1ac7cdfe93e95",
+  "retrieved_at": "2026-10-25T13:49:49.902059+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10400090",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Influence of psychological inflexibility and mindfulness on hypersexuality and sexual satisfaction in a Spanish sample.",
+  "authors": "Ortega-Otero M, Montesinos F, Charrabe L.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2023.1182222",
+  "pmcid": "PMC10400090",
+  "url": "https://europepmc.org/article/PMC/PMC10400090",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10400090/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "Sexual satisfaction is tremendously relevant to wellbeing and quality of life. Inversely, hypersexuality may increase the risk of psychological distress, unprotected sex, and marital problems. This study attempts to explore the sociodemographic variables related to hypersexuality and the relationship between hypersexuality and sexual dissatisfaction with psychological inflexibility, cognitive fusion, body awareness, bodily dissociation, and mindfulness skills in the Spanish population. The sample was made up of 530 participants between 18 and 67 years of age. In total, 5.5% displayed hypersexuality, more likely in males, lesbians and gay men, singles, and students. An online survey was conducted including standardized questionnaires as follows: AAQ-II, CFQ, SBC, MAAS, NSSS-S, and HBI. Significant moderate positive correlations were found between hypersexuality and psychological inflexibility, cognitive fusion, and bodily dissociation, and an inverse moderate correlation with mindfulness skills. Moderate negative correlations were found between sexual satisfaction and bodily dissociation. Linear regression showed psychological inflexibility was the variable with the most weight on hypersexuality, while bodily dissociation was the variable with the most influence on sexual dissatisfaction. This study suggests lesbians and gay men, males, and singles may show an increased vulnerability toward engaging in hypersexual behavior and provides justification for interventions focused on psychological inflexibility and mindfulness skills to treat hypersexuality and improve sexual satisfaction.",
+  "raw_path": "01_raw/europepmc_xml/PMC10400090.xml",
+  "text_path": "02_text/europepmc/PMC10400090.txt",
+  "raw_bytes": 147870,
+  "text_chars": 31448,
+  "raw_sha256": "d8ac4d161321946e182649974096ded27916922e293ba8bc2ff1222d9efa7639",
+  "text_sha256": "fb9b862428846193eab14d76f78c36e267fc91f7411426097afa6f23391e6b1b",
+  "retrieved_at": "2026-10-26T13:11:35.317970+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11488552",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Evaluating an Integrated Approach to Improve the Couple Sexual Desire Disorders: A Randomized Clinical Trial Study.",
+  "authors": "Samadi P, Alipour Z, Maasoumi R.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.18502/ijph.v53i6.15919",
+  "pmcid": "PMC11488552",
+  "url": "https://europepmc.org/article/PMC/PMC11488552",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11488552/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction"
+  ],
+  "abstract": "Background Treating and changing patterns of low sexual desire and dysfunctions can be done in various ways. However, it is important to recognize the value of integrated approaches when it comes to addressing these issues. To this end, we conducted a randomized clinical trial study to compare the effectiveness of an integrated approach with that of Masters-Johnson Sex Therapy (MJST) for treating hypoactive sexual desire disorder (HSDD) in Iranian couples from Mar 2016 to May 2018. Methods We conducted a clinical trial on 24 couples who were experiencing HSDD. The couples were randomly divided into two groups. The intervention group was given an integrative approach, while the control group received MJST for ten sessions. We collected data using standard questionnaires before, immediately after, and eight weeks after the intervention. Results There was no significant difference in sexual desire and function among men between the MJST and integrative approach groups. However, women in the integrative approach group showed more improvement in sexual desire and dysfunction compared to those in the MJST group. The improvement in sexual function for women and sexual desire for both men and women were maintained at the eight-week follow-up in the integrative approach. Conclusion Our study found that using an integrative approach effectively treated HSDD in couples.",
+  "raw_path": "01_raw/europepmc_xml/PMC11488552.xml",
+  "text_path": "02_text/europepmc/PMC11488552.txt",
+  "raw_bytes": 79354,
+  "text_chars": 19097,
+  "raw_sha256": "bef58bbd75490d8aadc9c937a96ecd81f816be3cb850e1ec9e96b9387d4fa759",
+  "text_sha256": "f118a7618b60f0f5cae676f87d9dccb5b0d24fe4bd3e2307373c9a6aa81f1afa",
+  "retrieved_at": "2026-10-25T15:36:14.852530+00:00"
+}

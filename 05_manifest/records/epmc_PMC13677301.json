@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13677301",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Social determinants of partner and non-partner sexual violence against women in Chile: a population-based multilevel analysis.",
+  "authors": "Crispi F, Fuentes-García A, Libuy N.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1016/j.lana.2026.101656",
+  "pmcid": "PMC13677301",
+  "url": "https://europepmc.org/article/PMC/PMC13677301",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13677301/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_harassment"
+  ],
+  "abstract": "Background Sexual violence against women is a major public health problem in Latin America, yet evidence on its social determinants is scarce and often conflates partner and non-partner forms. We characterised determinants of intimate partner sexual violence (IPSV), non-partner sexual assault (NPSA), and non-partner sexual harassment (NPSH) in Chile and compared their risk profiles. Methods We analysed pooled 2017 and 2020 rounds of the Chilean National Survey on Violence in the Family and Other Settings, representative of urban women aged 15 years or older; fieldwork preceded Chile's first COVID-19 case. We fitted multilevel logistic regression for past-year outcomes, women nested in municipalities. Findings The sample comprised 13,128 women (8335 for IPSV models). Past-year prevalence was 2.8% (95% confidence interval [CI] 2.4-3.3) for IPSV, 2.5% (2.1-3.0) for NPSA, and 11.3% (10.4-12.3) for NPSH. IPSV was associated with relational factors: dominant relationship (adjusted odds ratio [OR] 6.40, 4.68-8.76) and partner violence elsewhere (2.79, 1.75-4.43); between-municipality variance was negligible. NPSA and NPSH concentrated in younger women and the Metropolitan Region (OR 2.92 [2.00-4.28] and 2.29 [1.77-2.96]); both were associated with social participation (1.49 [1.11-2.00] and 1.26 [1.09-1.46]). Childhood sexual abuse was associated with all three (OR 2.05 [1.45-2.89], 3.03 [2.20-4.20], and 2.06 [1.72-2.46]). Reported non-partner victimisation rose between 2017 and 2020, pre-pandemic. Interpretation Risk profiles differed: relational and life-course for IPSV, age-graded and metropolitan for NPSA and NPSH; childhood sexual abuse was common to all three, supporting trauma-informed responses. Funding Agencia Nacional de Investigación y Desarrollo, Chile (Doctoral Scholarship 21212141).",
+  "raw_path": "01_raw/europepmc_xml/PMC13677301.xml",
+  "text_path": "02_text/europepmc/PMC13677301.txt",
+  "raw_bytes": 127362,
+  "text_chars": 66280,
+  "raw_sha256": "e5ca8c17b2194aec871c4a213b6837f5fecc9ea916bebfefaa1990cb7bfc6c52",
+  "text_sha256": "2b72ab2a64099ae9a5e7b02e3d95b8ceae0f78b106d7c6e560968c7d1e9083e9",
+  "retrieved_at": "2026-10-25T15:33:59.796627+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12334320",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Prevalence and associated factors of female sexual dysfunction among primary care practitioners in Malaysia: A cross-sectional study.",
+  "authors": "Salwa R, Haizlene AH, Mazapuspavina MY, Suddin LS.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.51866/oa.883",
+  "pmcid": "PMC12334320",
+  "url": "https://europepmc.org/article/PMC/PMC12334320",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12334320/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_frequency"
+  ],
+  "abstract": "Introduction Sexual health is integral to quality of life, and female sexual dysfunction (FSD) is a significant public health concern recognised by the World Health Organization. Its prevalence is rising globally, with limited data among primary care practitioners (PCPs). Multifactorial issues such as high work burden in PCPs, coupled with low help-seeking behaviours, contribute to the likelihood of FSD and poor quality of life. This study aimed to determine the prevalence and associated factors of FSD among PCPs in Malaysia. Methods This cross-sectional study was conducted using a self-administered online questionnaire for 6 months duration in Malaysia. Sociodemographic, marital and clinical data were collected, and two validated questionnaires namely the Malay Version of the Female Sexual Function Index (MVFSFI) and the Depression, Anxiety and Stress Scale (DASS-21) were utilised. Data analysis included descriptive statistics and logistic regression. Results The study included 382 participants. The prevalence of FSD was 14.7% (95% confidence interval [CI] : 11.1, 18.2) among the participants, and the most affected domain was desire disorder (25.4%). Significant associations were observed between sexual activity two or fewer times per month (adjusted odds ratio [aOR]: 4.880; 95% CI: 2.522, 9.442; P Conclusion This study identifies FSD as a prevalent issue among Malaysian PCPs, emphasising its biopsychosocial complex and the need for a holistic approach. Understanding the cultural determinants of FSD is important to tailor screening and intervention strategies.",
+  "raw_path": "01_raw/europepmc_xml/PMC12334320.xml",
+  "text_path": "02_text/europepmc/PMC12334320.txt",
+  "raw_bytes": 147633,
+  "text_chars": 39091,
+  "raw_sha256": "1feb09e30db9c34877b14674c738bea0e09142c40f9d711bcfaa2c9e73c10da7",
+  "text_sha256": "fbe2619b3cd4d65490dcb909e1feb277d20ec6bee9a5c5e05aaa3543c6654988",
+  "retrieved_at": "2026-10-26T13:08:33.477395+00:00"
+}

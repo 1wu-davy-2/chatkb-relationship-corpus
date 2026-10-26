@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5763452",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Compassionate Love for a Romantic Partner Across the Adult Life Span.",
+  "authors": "Neto F, Wilks DC.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.5964/ejop.v13i4.1204",
+  "pmcid": "PMC5763452",
+  "url": "https://europepmc.org/article/PMC/PMC5763452",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5763452/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "love_styles"
+  ],
+  "abstract": "Compassionate love has received research attention over the last decade, but it is as yet unclear how it is experienced over a lifetime. The purpose of this study was to investigate compassionate love for a romantic partner throughout the adult life span, exploring individual differences in the propensity to experience compassionate love in regard to age, gender, religion, love status, love styles, and subjective well-being. The results showed that religion and love status display significant effects on compassionate love. Believers experienced greater compassionate love than nonbelievers, and individuals in love presented greater compassionate love than those who were not in love. Love styles and subjective well-being were found to be related to compassionate love. These findings corroborate studies that indicate that individuals who experience higher compassionate love for a romantic partner are more likely to report Eros, Agape, and subjective well-being.",
+  "raw_path": "01_raw/europepmc_xml/PMC5763452.xml",
+  "text_path": "02_text/europepmc/PMC5763452.txt",
+  "raw_bytes": 72501,
+  "text_chars": 25189,
+  "raw_sha256": "2d336b2643ed4d03dde491376228c35cba5fde25e0f9f64a7d3796b395d68b08",
+  "text_sha256": "05efe0235eef15ebd6cf079e9bd8627b87266b7e178f50cff9a47e65f0b19cb8",
+  "retrieved_at": "2026-10-25T13:50:21.766493+00:00"
+}

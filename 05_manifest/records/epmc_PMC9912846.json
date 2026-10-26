@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9912846",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Intimate partner violence, substance use, and health comorbidities among women: A narrative review.",
+  "authors": "Mehr JB, Bennett ER, Price JL, de Souza NL, Buckman JF, Wilde EA, Tate DF, Marshall AD, Dams-O'Connor K, Esopenko C.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2022.1028375",
+  "pmcid": "PMC9912846",
+  "url": "https://europepmc.org/article/PMC/PMC9912846",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9912846/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "Exposure to intimate partner violence (IPV), including physical, sexual, and psychological violence, aggression, and/or stalking, impacts overall health and can have lasting mental and physical health consequences. Substance misuse is common among individuals exposed to IPV, and IPV-exposed women (IPV-EW) are at-risk for transitioning from substance misuse to substance use disorder (SUD) and demonstrate greater SUD symptom severity; this too can have lasting mental and physical health consequences. Moreover, brain injury is highly prevalent in IPV-EW and is also associated with risk of substance misuse and SUD. Substance misuse, mental health diagnoses, and brain injury, which are highly comorbid, can increase risk of revictimization. Determining the interaction between these factors on the health outcomes and quality of life of IPV-EW remains a critical need. This narrative review uses a multidisciplinary perspective to foster further discussion and research in this area by examining how substance use patterns can cloud identification of and treatment for brain injury and IPV. We draw on past research and the knowledge of our multidisciplinary team of researchers to provide recommendations to facilitate access to resources and treatment strategies and highlight intervention strategies capable of addressing the varied and complex needs of IPV-EW.",
+  "raw_path": "01_raw/europepmc_xml/PMC9912846.xml",
+  "text_path": "02_text/europepmc/PMC9912846.txt",
+  "raw_bytes": 283853,
+  "text_chars": 40513,
+  "raw_sha256": "df5971d622790362ff8a77e2eded9cbc36cff27e79092b350662f8df40acdcd0",
+  "text_sha256": "8f348120709d2eaa62c952187d0e875298cafe3b646fde0a5c1aadf8252c6727",
+  "retrieved_at": "2026-10-25T15:42:14.533935+00:00"
+}

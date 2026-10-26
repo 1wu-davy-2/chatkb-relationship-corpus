@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10090714",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Fostering Friendship and Dating Skills Among Adults on the Autism Spectrum: A Randomized Controlled Trial of the Polish Version of the PEERS® for Young Adults Curriculum.",
+  "authors": "Płatos M, Wojaczek K, Laugeson EA.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1007/s10803-023-05921-y",
+  "pmcid": "PMC10090714",
+  "url": "https://europepmc.org/article/PMC/PMC10090714",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10090714/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "social_skills"
+  ],
+  "abstract": "PEERS ® for Young Adults is an evidence-based program aimed at teaching social skills needed to establish and maintain close relationships, including friendship and romantic relationships. The study investigated the effects of the Polish adaptation of the curriculum on the social functioning of adults on the autism spectrum. Fifteen young adults (aged 18-32, M = 23.5) were randomly allocated to an immediate or delayed (control) treatment condition. By self and parent report, individuals who participated in the PEERS ® program showed significant improvements in social skills, social cognition, and social knowledge, but limited gains in social engagement. The effects were maintained over six months after the treatment. The intervention was well-accepted and deemed feasible by young adults, their parents, and peers involved in the program.",
+  "raw_path": "01_raw/europepmc_xml/PMC10090714.xml",
+  "text_path": "02_text/europepmc/PMC10090714.txt",
+  "raw_bytes": 138754,
+  "text_chars": 54167,
+  "raw_sha256": "6f3f2de2edd9abf5a622ddf4ae0b1d20ae08aca9a1596fc7fbbab534a1dc602b",
+  "text_sha256": "6e50efcddcf22ba6df7c1220fa10443b47253c6b7c622b604ab44c9f5768d321",
+  "retrieved_at": "2026-10-25T15:26:39.963692+00:00"
+}

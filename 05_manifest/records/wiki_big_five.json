@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_big_five",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "五大性格特质",
+  "requested_title": "五大性格特质",
+  "url": "https://zh.wikipedia.org/wiki/%E4%BA%94%E5%A4%A7%E6%80%A7%E6%A0%BC%E7%89%B9%E8%B4%A8",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "personality",
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/big_five.json",
+  "text_path": "02_text/zh_wikipedia/big_five.txt",
+  "raw_bytes": 45416,
+  "text_chars": 17227,
+  "text_sha256": "e7c9fabc299a86e7b67a0a2002506bf32550e28a13d72a3a19cd02a7dd8cfb91",
+  "retrieved_at": "2026-10-25T15:40:08.812200+00:00"
+}

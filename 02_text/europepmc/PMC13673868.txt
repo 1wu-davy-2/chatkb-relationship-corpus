@@ -1,0 +1,286 @@
+TITLE: Prevalence of self-reported symptoms of male sexual dysfunction among Honduran adults: a cross-sectional study.
+AUTHORS: Guzmán-Castillo J, Castelo-Branco C.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1186/s12889-026-28566-9
+PMCID: PMC13673868
+LICENSE: cc by-nc-nd
+LICENSE_URL: https://creativecommons.org/licenses/by-nc-nd/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC13673868
+TOPICS: sexual_desire_gap
+
+---
+
+ABSTRACT
+BackgroundMale sexual dysfunctions are common worldwide; however, Central America faces a marked scarcity of epidemiological data that would allow for an adequate understanding of their clinical impact and guide public health decision-making.AimTo estimate the survey-based prevalence of self-reported symptoms of male sexual dysfunction among Honduran adult men participating in an online survey during 2025 and to examine variations across age groups.MethodsA cross-sectional analytical study was conducted using voluntary online recruitment. A total of 10,582 adult men from all 18 departments of Honduras completed the epidemiological section of the Honduran Sexuality and Well-Being Questionnaire (CHSB). The self-reported symptoms assessed included delayed ejaculation, low sexual desire, premature ejaculation, pain during intercourse, and erectile difficulty, measured using single dichotomous items referring to the previous 60 days. Differences were estimated using χ² tests and Cramer’s V, followed by multivariable binary logistic regression models adjusted for age, marital status, and territorial setting.ResultsDelayed ejaculation symptoms were the most frequently reported (18.3%), followed by low sexual desire (11.7%), premature ejaculation symptoms (10.5%), erectile difficulty (6.4%), and pain during intercourse (3.0%). Significant differences were observed across age groups, although effect sizes were small (Cramer’s V: 0.04–0.09). Premature ejaculation symptoms and erectile difficulty increased progressively with age, reaching 17.8% and 13.9%, respectively, among men aged 45 years or older. In adjusted models, increasing age was associated with higher odds of low sexual desire, premature ejaculation symptoms, and erectile difficulty; territorial setting and marital status were associated with selected symptoms.Clinical translationThe observed age-specific patterns may help inform future sexual healthscreening strategies in Honduras; however, clinical assessment using validated instruments is required before these symptoms can be interpreted as sexual dysfunctions.ConclusionSelf-reported symptoms of male sexual dysfunction were frequently reported andshowed distinct age-related patterns in this online sample of Honduran adult men. These surveybasedestimates highlight the need for future studies using probabilistic sampling and validated clinical measures.Supplementary InformationThe online version contains supplementary material available at https://doi.org/10.1186/s12889-026-28566-9.
+
+BODY
+Background
+
+Male sexual dysfunctions comprise a group of persistent disturbances that interfere with sexual functioning, emotional well-being, and overall quality of life in men [1]. These conditions may occur at any phase of the sexual response cycle and manifest clinically as difficulties in desire, arousal, erection, orgasm, or ejaculation [2]. Among the most widely studied dysfunctions are delayed ejaculation, hypoactive sexual desire, premature ejaculation, dyspareunia, and erectile dysfunction. Despite their high global prevalence, male sexual dysfunctions remain underdiagnosed and infrequently reported, largely due to social stigma, cultural mandates of masculinity, and the historical reluctance to address male sexual health in clinical settings.
+
+The etiology of male sexual dysfunctions is multifactorial, involving interactions between biological factors—such as age, cardiometabolic conditions, hormonal alterations, inflammatory processes, and medication use—and psychological determinants including anxiety, depression, stress, dysfunctional sexual expectations, and relationship conflicts, alongside broader sociocultural influences related to gender roles, sexual myths, and limited sexual education [3]. Consequently, comprehensive clinical evaluation typically requires a detailed medical history, physical examination, complementary diagnostic testing, and, when appropriate, psychological or sexological assessment.
+
+Beyond their clinical relevance, male sexual dysfunctions represent an important public health concern. They are associated with reduced psychological well-being, increased risk of anxiety and depression, lower life satisfaction, intimacy difficulties, and strain in romantic relationships. In addition, some dysfunctions may serve as early indicators of underlying medical conditions, underscoring the importance of timely identification in primary care settings. However, stigma, fear of judgment, limited awareness of available treatments, and resistance to male emotional vulnerability continue to hinder help-seeking behaviors, contributing to persistent underdiagnosis and epidemiological underestimation.
+
+Available evidence shows marked variability in prevalence estimates across regions, influenced by methodological, cultural, socioeconomic, and diagnostic differences. Delayed ejaculation has been reported in 1%–4% of men, although population-based studies have documented higher rates, including 5.16% in Japanese samples and 6.5% in Amazonian populations [4–6]. Hypoactive sexual desire, often underreported, has been identified in approximately 15.7% of men in outpatient settings and is associated with depressive symptoms, anxiety, fatigue, stress, sleep disturbances, long-term cohabitation, and reduced testosterone levels [7, 8].
+
+Symptoms of premature ejaculation show the widest variation in prevalence, ranging from 6.3% based on ISSM criteria in the United States to substantially higher estimates when assessed using self-reported instruments, with marked heterogeneity across Asian populations [9–11].
+
+Male dyspareunia has received comparatively limited attention and has been linked to infectious, anatomical, dermatological, and psychophysiological factors, with reported prevalence ranging from 0.5% to 13% [12, 13].
+
+Erectile dysfunction is among the most frequently studied conditions, affecting approximately half of men over 40 years of age, with prevalence increasing substantially with age and showing wide variation across European and North American populations [14, 15].
+
+Although an overall increase in reported male sexual dysfunctions has been observed globally—attributed to population aging, chronic disease burden, mental health changes, and improved diagnostic awareness—this epidemiological evolution has not been uniformly examined across regions [16, 17].
+
+In Latin America, research on male sexual dysfunctions remains limited, methodologically heterogeneous, and geographically concentrated, with most evidence derived from clinical or urban samples, thereby constraining population-level inference. In Honduras, scientific evidence on male sexual health remains scarce, limiting the development of preventive, educational, and clinical strategies. To address this gap, the present study aimed to estimate the survey-based prevalence and age-related patterns of self-reported symptoms of male sexual dysfunction among adult men participating in an online survey.
+
+Methods
+
+Study design
+
+An observational, cross-sectional, analytical study was conducted to estimate the survey-based prevalence of self-reported symptoms of male sexual dysfunction among adult men participating in an online survey in Honduras during 2025. The study followed international reporting recommendations for cross-sectional studies.
+
+Setting
+
+Data were collected online between September and November 2025 as part of the Honduran Sexuality and Well-Being Questionnaire (CHSB) project. Participants were reached in all 18 departments of Honduras. This geographic coverage indicates territorial reach but does not imply that the sample was nationally representative. The survey was administered using Microsoft Forms.
+
+Participants
+
+The target population consisted of adult men residing in Honduras. Participants were recruited through a non-probabilistic voluntary self-recruitment strategy, including open dissemination of the survey link via social media and voluntary sharing by university students with their peers. Eligibility was restricted to individuals aged 18 years or older who accessed and completed the online questionnaire. No additional exclusion criteria were applied at recruitment.
+
+Study size
+
+A minimum sample size was estimated using the standard formula for proportions, assuming a 95% confidence level (Z = 1.96), an expected prevalence of 50% (p = .50), and a margin of error of 5% (d = 0.05), yielding a minimum of approximately 384 participants. The final analytic sample included 10,582 adult men. However, because recruitment was voluntary and non-probabilistic, the large sample size does not eliminate selection bias or permit nationally representative prevalence estimates.
+
+Data quality and bias control
+
+Completion times were examined using non-reactive paradata. Submissions completed in less than 320 s were excluded as potentially implausibly rapid responses. Responses exceeding 1,584 s were reviewed for implausible or internally inconsistent patterns. Incomplete questionnaires and responses with missing data in the primary outcome variables were also excluded. No data imputation was performed. The initial CHSB dataset comprised 33,159 respondents. After applying these procedures, the final cleaned dataset included 24,904 respondents: 10,582 men, 14,101 women, and 221 individuals who did not report gender. Only male respondents were retained for the present analysis (Fig. 1).
+
+Fig. 1Participant flow diagram for the analytic sample
+
+Participant flow diagram for the analytic sample
+
+Variables
+
+The primary outcomes were self-reported symptoms of male sexual dysfunction, assessed dichotomously (1 = present, 0 = not present). Each symptom was measured using a single dichotomous item referring to the previous 60 days. The symptoms assessed included delayed ejaculation symptoms, premature ejaculation symptoms, low sexual desire, pain during intercourse, and erectile difficulty. These items were intended to capture self-reported sexual complaints rather than establish clinical diagnoses. Sociodemographic variables included age, marital status, and territorial setting (Urban, rural, mixed). Age was analyzed both continuously and in four groups (18–24, 25–34, 35–44, and ≥ 45 years).
+
+Measurement instrument
+
+The CHSB is a structured digital questionnaire consisting of 50 items. A specific section assessed self-reported sexual symptoms during the previous 60 days. The instrument was reviewed by a panel of seven experts in psychology and sexual education. A pilot test involving 900 participants from multiple departments of Honduras was conducted to evaluate item comprehension and estimate response time.
+
+Statistical methods
+
+All statistical analyses were performed using Jamovi version 2.7.12.0 (The jamovi project. jamovi (Version 2.7.12.0) [Computer software]. 2024. Available from: https://www.jamovi.org). Survey-based prevalence estimates and their corresponding 95% confidence intervals were calculated for each self-reported sexual symptom. Differences across age groups were assessed using Pearson’s chi-square tests, and effect sizes were reported using Cramer’s V. A two-sided significance threshold of p < .05 was applied. Multivariable binary logistic regression models were estimated for each self-reported sexual symptom, adjusting for age, marital status, and territorial setting (urban, mixed, or rural). Age was included as a continuous variable, whereas single status and urban residence were used as reference categories. Adjusted odds ratios (AORs) with 95% confidence intervals were reported. Before fitting the multivariable logistic regression models, the number of outcome events was reviewed relative to the number of predictors included in each model. All outcomes had an adequate number of events for the adjusted models, including the least frequent outcome, pain during intercourse, which had 313 events. Nevertheless, because this outcome had the lowest prevalence, its estimates should be interpreted with additional caution.
+
+Ethical considerations
+
+The study received approval from the UTH ethics committee (register number: UTH-20250917-16) and was conducted in accordance with the principles of the Declaration of Helsinki. Participation was voluntary and uncompensated. All participants provided digital informed consent prior to completing the survey. Confidentiality, anonymity, and secure data management were ensured throughout the study.
+
+Results
+
+Overall survey-based prevalence of self-reported sexual symptoms
+
+Figure 2 illustrates the age distribution of the study sample, showing a clear concentration in younger age groups. Men aged 25–34 years represented the largest proportion of participants (41.8%), followed by those aged 18–24 years (36.1%). Smaller proportions were observed among men aged 35–44 years (14.9%) and those aged 45 years or older (7.2%).
+
+Fig. 2Age distribution of adult male participants in the 2025 online survey
+
+Age distribution of adult male participants in the 2025 online survey
+
+Among the 10,582 adult men included in the analysis, delayed ejaculation symptoms were the most frequently reported (18.3%; 95% CI, 17.6–19.1), followed by low sexual desire (11.7%; 95% CI, 11.1–12.3), premature ejaculation symptoms (10.5%; 95% CI, 9.9–11.1), erectile difficulty (6.4%; 95% CI, 5.9–6.9), and pain during intercourse (3.0%; 95% CI, 2.6–3.3) (Table 1). Participants were recruited from all 18 departments of Honduras, with the largest proportions residing in Cortés (29.3%) and Francisco Morazán (20.9%). These are the country’s two most populated departments, include its two main urban centers, San Pedro Sula and Tegucigalpa, and have historically concentrated substantial internal migration [18, 19]. The full geographic distribution is presented in Supplementary Table S1. Nevertheless, this distribution describes the geographic coverage of the online sample and should not be interpreted as proportional representation of the Honduran adult male population.
+
+Table 1Overall survey-based prevalence of self-reported sexual symptoms in Honduras (N = 10,582)Self-reported sexual dysfunction symptom n Prevalence (%)95% CIDelayed ejaculation symptoms1,93718.317.6–19.1Low sexual desire1,23911.711.1–12.3Premature ejaculation symptoms1,10810.59.9–11.1Pain during intercourse3133.02.6–3.3Erectile difficulty6726.45.9–6.9
+
+Overall survey-based prevalence of self-reported sexual symptoms in Honduras (N = 10,582)
+
+Statistically significant differences across age groups were observed for all assessed sexual complaints, although effect sizes were consistently small.
+
+For reported delayed ejaculation symptoms, prevalence differed significantly by age group (χ²(3, N = 10,582) = 13.3, p = .004). The highest prevalence was observed among men aged 25–34 years (19.6%), followed by those aged 35–44 years (18.1%) and 18–24 years (17.6%), while men aged 45 years or older presented the lowest prevalence (14.7%). The magnitude of the association was very small (Cramer’s V = 0.04) (Table 2).
+
+Table 2Prevalence of self-reported delayed ejaculation symptoms by age group among Honduran adult men (N = 10,582)95% CIAge groupnPrevalence (%)LowerUpperDelayed ejaculation symptoms≥ 45 years76414.712.117.218–24381617.616.418.825–34442419.618.420.835–44157818.116.220.0
+
+Prevalence of self-reported delayed ejaculation symptoms by age group among Honduran adult men (N = 10,582)
+
+Age-related variation was also observed for low sexual desire (χ²(3, N = 10,582) = 30.1, p < .001). The highest prevalence was reported among men aged 45 years or older (16.9%), followed by those aged 35–44 years (13.4%). Lower prevalences were observed among men aged 18–24 years (11.3%) and 25–34 years (10.6%). The effect size was small (Cramer’s V = 0.05) (Table 3).
+
+Table 3Prevalence of self-reported low sexual desire by age group among Honduran adult men (N = 10,582)95% CIAge groupNPrevalence (%)LowerUpperLow sexual desire≥ 45 years76416.914.219.518–24381611.310.212.325–34442410.69.711.535–44157813.411.715.1
+
+Prevalence of self-reported low sexual desire by age group among Honduran adult men (N = 10,582)
+
+Premature ejaculation symptoms showed a statistically significant association with age (χ²(3, N = 10,582) = 72.8, p < .001). Prevalence increased progressively across age groups, from 8.4% among men aged 18–24 years to 10.1% in those aged 25–34 years and 13.0% in the 35–44-year group, reaching 17.8% among men aged 45 years or older. Despite this pattern, the effect size remained small (Cramer’s V = 0.08) (Table 4).
+
+Table 4Prevalence of self-reported premature ejaculation symptoms by age group among Honduran adult men (N = 10,582) 95% CI Age group N Prevalence (%) Lower Upper Premature ejaculation symptoms≥45 years76417.815.120.518–2438168.47.59.325–34442410.19.211.035–44157813.011.314.7
+
+Prevalence of self-reported premature ejaculation symptoms by age group among Honduran adult men (N = 10,582)
+
+Significant age-related differences were also identified for pain during intercourse (χ²(3, N = 10,582) = 14.2, p = .003). Prevalence was 3.6% among men aged 18–24 years, 2.3% among those aged 25–34 years, 3.0% in the 35–44-year group, and 3.7% among men aged 45 years or older. The association demonstrated a very small effect size (Cramer’s V = 0.04) (Table 5).
+
+Table 5Prevalence of self-reported pain during intercourse by age group among Honduran adult men (N = 10,582)95% CIAge groupNPrevalence (%)LowerUpperPain during intercourse≥ 45 years7643.72.35.018–2438163.63.04.225–3444242.31.82.735–4415783.02.14.0
+
+Prevalence of self-reported pain during intercourse by age group among Honduran adult men (N = 10,582)
+
+Finally, erectile difficulty varied significantly across age groups (χ²(3, N = 10,582) = 89.5, p < .001). The highest prevalence was observed among men aged 45 years or older (13.9%), followed by those aged 35–44 years (7.6%) and 25–34 years (5.6%). The lowest prevalence was reported among men aged 18–24 years (5.2%). Although prevalence increased with age, the magnitude of the association was small (Cramer’s V = 0.09) (Table 6).
+
+Table 6Prevalence of self-reported erectile difficulty by age group among Honduran adult men (N = 10,582)95% CIAge groupNPrevalence (%)LowerUpperErectile difficulty≥ 45 years76413.911.416.318–2438165.24.55.925–3444245.64.96.335–4415787.66.38.9
+
+Prevalence of self-reported erectile difficulty by age group among Honduran adult men (N = 10,582)
+
+In multivariable models adjusted for age, marital status, and territorial setting, increasing age was associated with higher odds of low sexual desire, premature ejaculation symptoms, and erectile difficulty. Married participants had lower odds of pain during intercourse and erectile difficulty than single participants. Compared with urban residents, participants in mixed territories had higher odds of premature ejaculation symptoms, pain during intercourse, and erectile difficulty, while rural residents had higher odds of delayed ejaculation symptoms and erectile difficulty (Table 7).
+
+Table 7Multivariable logistic regression models for self-reported sexual symptoms among Honduran adult men (N = 10,582)PredictorDelayed ejaculation symptomsAOR (95% CI)Low sexual desireAOR (95% CI)Premature ejaculation symptomsAOR (95% CI)Pain during intercourseAOR (95% CI)Erectile difficultyAOR (95% CI)Age, per additional year0.996(0.990–1.002)1.014(1.006–1.021)1.027(1.020–1.034)1.006(0.991–1.020)1.040(1.031–1.048)Married vs. single1.038(0.914–1.178)1.040(0.895–1.207)1.097(0.940–1.280)0.650(0.475–0.888)0.791(0.649–0.964)Divorced vs. single1.185(0.852–1.648)1.098(0.752–1.605)0.935(0.623–1.404)0.946(0.450–1.987)1.019(0.650–1.596)Preferred not to answer vs. single0.936(0.750–1.168)1.052(0.811–1.364)1.108(0.846–1.452)0.647(0.367–1.141)0.563(0.369–0.860)Mixed vs. urban1.059(0.947–1.184)0.949(0.830–1.086)1.216(1.057–1.397)1.450(1.137–1.849)1.390(1.168–1.654)Rural vs. urban1.230(1.056–1.434)0.873(0.716–1.064)1.211(0.995–1.474)1.120(0.773–1.624)1.396(1.096–1.777)AOR = adjusted odds ratio; CI = confidence interval. Each model was adjusted for age, marital status, and territorial setting. Age was entered as a continuous variable. Reference categories were single marital status and urban territorial setting. Statistically significant estimates (p < .05) are shown in bold
+
+Multivariable logistic regression models for self-reported sexual symptoms among Honduran adult men (N = 10,582)
+
+0.996
+
+(0.990–1.002)
+
+1.014
+
+(1.006–1.021)
+
+1.027
+
+(1.020–1.034)
+
+1.006
+
+(0.991–1.020)
+
+1.040
+
+(1.031–1.048)
+
+1.038
+
+(0.914–1.178)
+
+(0.895–1.207)
+
+1.097
+
+(0.940–1.280)
+
+0.650
+
+(0.475–0.888)
+
+0.791
+
+(0.649–0.964)
+
+1.185
+
+(0.852–1.648)
+
+1.098
+
+(0.752–1.605)
+
+0.935
+
+(0.623–1.404)
+
+0.946
+
+(0.450–1.987)
+
+1.019
+
+(0.650–1.596)
+
+0.936
+
+(0.750–1.168)
+
+1.052
+
+(0.811–1.364)
+
+1.108
+
+(0.846–1.452)
+
+0.647
+
+(0.367–1.141)
+
+0.563
+
+(0.369–0.860)
+
+1.059
+
+(0.947–1.184)
+
+0.949
+
+(0.830–1.086)
+
+1.216
+
+(1.057–1.397)
+
+1.450
+
+(1.137–1.849)
+
+1.390
+
+(1.168–1.654)
+
+1.230
+
+(1.056–1.434)
+
+0.873
+
+(0.716–1.064)
+
+1.211
+
+(0.995–1.474)
+
+1.120
+
+(0.773–1.624)
+
+1.396
+
+(1.096–1.777)
+
+AOR = adjusted odds ratio; CI = confidence interval. Each model was adjusted for age, marital status, and territorial setting. Age was entered as a continuous variable. Reference categories were single marital status and urban territorial setting. Statistically significant estimates (p < .05) are shown in bold
+
+Discussion
+
+This study provides initial estimates of self-reported sexual symptoms among Honduran adult men using a large online sample with broad geographic coverage. Self-reported symptoms were frequent across adulthood, and statistically significant age-related differences were observed for all assessed symptoms. However, the consistently small effect sizes indicate that age accounts for only a limited proportion of the observed variation.
+
+Interpretation of these findings should consider the Honduran sociocultural and healthcare context. We hypothesize that factors such as access to sexual health services, sexual education, gender norms, and occupational stress may contribute to how sexual difficulties are perceived and reported. However, these factors were not assessed in the present study and should be examined in future research.
+
+Delayed ejaculation symptoms emerged as the most frequently reported complaint, with an overall prevalence of 18.3%, particularly among men aged 18–34 years. This estimate is substantially higher than those reported in Japanese and Amazonian populations, where prevalence typically ranges between 4% and 6%. These differences may be partly explained by methodological factors. Whereas previous studies relied on validated instruments or more specific assessment approaches, the present study employed a single self-reported item administered online, which may capture a broader range of subjective ejaculatory concerns rather than narrowly defined clinical disorders. From a public health perspective, the frequency of these reported symptoms among younger Honduran men indicates an area requiring further investigation. Future research should combine standardized diagnostic tools with qualitative approaches to examine the possible role of sexual expectations, scripts, and sociocultural beliefs in the reporting and experience of ejaculatory difficulties.
+
+Low sexual desire was reported by 11.7% of participants and showed a clear age-related increase, a pattern consistent with findings from Colombian and Belgian populations. Despite differences in measurement strategies, the convergence of age-related trends across diverse contexts suggests that reduced sexual desire warrants attention across adulthood. We hypothesize that, in Honduras, chronic stress, economic insecurity, and sociocultural expectations surrounding long-term partnerships may contribute to this pattern; however, these explanations remain speculative because they were not directly measured in the present study. From a clinical perspective, these results support further research on sexual health needs among men aged 35 years and older. Epidemiologically, they highlight the need for future studies incorporating hormonal, psychological, and relational variables to better understand low sexual desire in this population.
+
+Premature ejaculation symptoms were reported by 10.5% of participants, a prevalence consistent with estimates from large-scale community-based studies. The observed increase with age, reaching 17.8% among men aged 45 years or older, aligns with international evidence linking ejaculatory difficulties to aging, performance anxiety, and relational strain. We hypothesize that, in the Honduran context, cumulative occupational stress, limited access to sexual health education, and persistent cultural expectations regarding male sexual performance may contribute during midlife; future research should investigate these factors directly, as these explanations remain speculative because they were not measured in the present study. Although the inability to distinguish between lifelong and acquired forms and the absence of clinical correlates limit etiological interpretation, these findings support the relevance of further screening research and counseling strategies, particularly for men undergoing midlife transitions.
+
+Pain during intercourse was reported by 3.0% of participants and showed minimal variation across age groups. This low prevalence is consistent with prior evidence suggesting that painful intercourse in men is relatively uncommon but often underrecognized. Because the assessment captured subjective pain during intercourse rather than clinically diagnosed dyspareunia, the estimate likely reflects a heterogeneous range of transient or chronic discomforts that may or may not correspond to specific pathological conditions. The stable age distribution indicates that potential inflammatory or anatomical factors should be explored alongside age-related physiological decline. Clinically, these findings emphasize the importance of increased awareness and structured diagnostic assessment of male genital pain.
+
+Erectile difficulty was reported by 6.4% of participants, with prevalence increasing with age, consistent with global epidemiological patterns. However, the observed prevalence in this sample was considerably lower than estimates commonly reported in European and North American populations, which often range between 20% and 40% among men over 40 years of age. Several factors may explain this discrepancy, including the use of a single self-reported item rather than validated instruments such as the IIEF-5, potential selection bias toward younger and healthier participants in online surveys, and cultural norms discouraging disclosure of sexual difficulties. Despite these limitations, the observed age gradient highlights the importance of further clinical assessment and preventive counseling for men approaching midlife.
+
+Although age-related differences were observed in the descriptive analyses, the multivariable models showed that increasing age was independently associated only with low sexual desire, premature ejaculation symptoms, and erectile difficulty. Territorial setting was also associated with selected symptoms, while married participants reported lower odds of pain during intercourse and erectile difficulty than single participants. These findings indicate that the distribution of self-reported sexual symptoms in this sample cannot be interpreted solely in relation to age. Broader psychosocial and sociocultural determinants, including financial stress, gender norms, sexual literacy, relationship dynamics, and exposure to sexual media, should be examined in future research. An important limitation of our study remains age-related selection bias: because recruitment relied on voluntary online participation, the sample was disproportionately composed of younger men, with only 7.2% aged 45 years or older. Therefore, pooled estimates should not be generalized to the national adult male population.
+
+The major strengths of this study include its large sample size and geographic coverage across all departments of Honduras, making it the most extensive assessment of self-reported male sexual symptoms conducted in the country to date. Nevertheless, limitations must be acknowledged. Voluntary online recruitment limits generalizability, and reliance on single-item self-reported measures prevents clinical diagnosis and assessment of symptom severity or persistence. Additionally, the cross-sectional design precludes causal inference. Although the number of events per variable was adequate for all logistic regression models, the comparatively low prevalence of pain during intercourse may still limit the precision and stability of estimates for this specific outcome.
+
+The observed patterns suggest that self-reported sexual symptoms vary across age groups, while their broader psychosocial and contextual determinants require further investigation. These findings underscore the need to position male sexual health as a relevant domain within Central American public health policy and support the development of culturally sensitive screening, educational, and clinical interventions tailored to the Honduran context.
+
+Conclusions
+
+The findings of this study should be interpreted as hypothesis-generating and have potential clinical and public health relevance that may inform future research and screening efforts. The frequency of self-reported delayed ejaculation symptoms and low sexual desire, particularly among younger men, underscores the need for further research on psychoeducational and preventive strategies focused on emotional regulation, stress management, and sexual health literacy. Conversely, the age-related increase in premature ejaculation symptoms and erectile difficulty highlights the importance of future clinical screening studies using validated measures, especially given the potential association of these symptoms with chronic health conditions.
+
+Beyond the clinical setting, these results support further examination of the integration of mental health and sexual health services. Although stigma and underreporting remain significant challenges, the findings contribute to recognizing self-reported sexual symptoms as a relevant public health concern rather than an issue limited to urological or psychotherapeutic specialties.
+
+Overall, self-reported sexual symptoms were frequently reported among the Honduran adult men participating in this online survey and exhibited patterns that differ from those reported in high-income regions; these findings should be interpreted as hypothesis-generating and may warrant further investigation using validated clinical instruments, probabilistic sampling, and longitudinal designs. By addressing a critical gap in available evidence, this study provides a foundation for future longitudinal research using validated measures and more representative sampling strategies, as well as for culturally sensitive clinical and public health responses.
+
+Supplementary Information
+
+Supplementary Material 1.

@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12917066",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "What Do Asexual Women Want? A Propensity Score Matching Study of Preferred Relationship Options and Ideal Partner Preferences.",
+  "authors": "Bange PC, Botzet LJ, Shea AA, Vitzthum VJ, Gerlach TM.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s10508-025-03365-2",
+  "pmcid": "PMC12917066",
+  "url": "https://europepmc.org/article/PMC/PMC12917066",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12917066/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "asexuality_celibacy",
+    "attraction_physical"
+  ],
+  "abstract": "Research on whether asexual individuals desire (romantic) relationships and, if so, how they picture their ideal relationship has been growing in the past few years. However, less is known about the preferred attributes of an ideal partner in such relationships and whether these partner(ship) preferences are different from what heterosexual individuals want. The goal of the present study was to compare the types of preferred relationships and the ideal characteristics of a long-term partner of self-identified asexual and heterosexual women. Additionally, we examined differences in characteristics of asexual and heterosexual women using self-evaluations of the same attributes used for the partner preference ratings. We used data from the Ideal Partner Survey, a large-scale, multinational online study. Of 51,775 participants, 51,328 identified as heterosexual (M age = 25.13 years) and 447 identified as asexual (M age = 24.03 years). To create comparable samples for analyses, each asexual person was matched with a heterosexual person using propensity score matching (relationship options sample = 646, partner preference sample = 780, self-rating sample = 772). Compared to heterosexual women, asexual women were less interested in purely sexual relationships and more interested in emotionally romantic and alternative types of committed relationships as well as not being in any relationship (\"single\"). Asexual women placed less importance on all partner preference attributes, except educated and intelligent. They also consistently rated themselves lower on all attributes than heterosexual women. These findings suggest distinct differences between asexual and heterosexual women in their relationship interests, partner preferences, and self-perceived characteristics.",
+  "raw_path": "01_raw/europepmc_xml/PMC12917066.xml",
+  "text_path": "02_text/europepmc/PMC12917066.txt",
+  "raw_bytes": 235453,
+  "text_chars": 88569,
+  "raw_sha256": "6b5c6773c36deee14f95163e45c1ed2baa388c72d7b4951934aeee08cecc2d4f",
+  "text_sha256": "4a62a0f53f0fbff302d0d9e6fc4c338e3042e14fd7a99771942aeb8b7e04eb6b",
+  "retrieved_at": "2026-10-25T15:33:43.133517+00:00"
+}

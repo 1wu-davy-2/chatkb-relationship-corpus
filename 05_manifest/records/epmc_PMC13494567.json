@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13494567",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Portraying Mixed-Agenda Couples: Insights From Large-Scale Data Sets.",
+  "authors": "Tang Y, Anderson SR, Johnson LN, Harris SM, Kateregga A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jmft.70165",
+  "pmcid": "PMC13494567",
+  "url": "https://europepmc.org/article/PMC/PMC13494567",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13494567/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "commitment"
+  ],
+  "abstract": "This study investigates \"mixed-agenda\" couples characterized by significant discrepancies in commitment and therapy goals, using both clinical and non-clinical data sets. While theoretical frameworks suggest these couples present unique challenges for treatment planning and therapy outcomes, empirical data on their prevalence have remained limited. We analyzed data from the National Couples' Health and Time Study (NCHAT) and the Marriage and Family Therapy Practice Research Network (MFT-PRN) to identify groups of couples that might practically be classified as mixed-agenda couples. Findings reveal that mixed-agenda dynamics are prevalent, occurring in approximately 10% of the non-clinical sample and nearly 40% of the clinical sample. This exceeds prior clinical estimates and confirms that a substantial portion of couples seeking therapy do so with conflicting motivations. These results validate the mixed-agenda construct beyond anecdotal evidence, suggesting a need for tailored clinical interventions that address dyadic ambivalence to improve therapeutic efficacy and relationship stability.",
+  "raw_path": "01_raw/europepmc_xml/PMC13494567.xml",
+  "text_path": "02_text/europepmc/PMC13494567.txt",
+  "raw_bytes": 87828,
+  "text_chars": 36519,
+  "raw_sha256": "9d790a902f7e6aca474cd9adb50bbac7167c034f902856538b75e94f8cd446f7",
+  "text_sha256": "07ce8f173f731cd81ebc984f455c8689e7d04e572b73f57919021ea6eca01ead",
+  "retrieved_at": "2026-10-25T13:49:53.951027+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_24178",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "孟子",
+  "gutenberg_id": "24178",
+  "url": "https://www.gutenberg.org/ebooks/24178",
+  "download_url": "https://www.gutenberg.org/cache/epub/24178/pg24178.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/24178.txt",
+  "text_path": "02_text/gutenberg/gut_24178_孟子.txt",
+  "raw_bytes": 163166,
+  "text_chars": 47577,
+  "text_sha256": "e7b7e52f31ce03b198e883634706d5b610a88264c429c59b0582b51d7eb6f23d",
+  "retrieved_at": "2026-10-25T15:50:46.049610+00:00"
+}

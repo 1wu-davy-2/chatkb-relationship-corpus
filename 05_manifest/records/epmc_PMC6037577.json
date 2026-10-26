@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6037577",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Examining the Effectiveness of Gottman Couple Therapy on Improving Marital Adjustment and Couples' Intimacy.",
+  "authors": "Davoodvandi M, Navabi Nejad S, Farzad V.",
+  "year": "2018",
+  "journal": "",
+  "doi": "",
+  "pmcid": "PMC6037577",
+  "url": "https://europepmc.org/article/PMC/PMC6037577",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6037577/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gottman"
+  ],
+  "abstract": "Objective: The present study aimed at examining the effectiveness of Gottman couple therapy on improving marital adjustment and couples' intimacy. Method : This was a semi- experimental study with pretest, post-test, and follow-up assessments. A total of 16 couples (32 individuals) were selected using convenience sampling method considering inclusion- exclusion criteria; they were then randomly assigned into experimental (N = 16) and control (N = 16) groups. Participants of the experimental group received ten 45-minute sessions of Gottman's couple therapy. The research tools were Spanier Questionnaire and Walker and Thompson's Questionnaire. Data were analyzed using Mixed design MANOVA. Results: Findings revealed that Gottman's couple therapy approach had positive effects on improving marital adjustment (P = 0/001) and couples' intimacy (P = 0/001). Furthermore, the results of assessments in the follow-up period indicated that Gottman's couple therapy had enduring effects on marital adjustment and couples' intimacy. Conclusion: According to the results of the present study, Gottman method can be used as an effective treatment to improve marital relationships, adjustment, and intimacy. Therefore, researchers, therapists, and other authorities should pay particular attention to this method.",
+  "raw_path": "01_raw/europepmc_xml/PMC6037577.xml",
+  "text_path": "02_text/europepmc/PMC6037577.txt",
+  "raw_bytes": 59631,
+  "text_chars": 18219,
+  "raw_sha256": "1a3434debabcca3875e5dfb2ec0021203b186be845da1b1ac1ce18164610eab3",
+  "text_sha256": "87881447597a59bb4536cd2c34b4157f7f0a76cf81e789c1edb72e0b529a0bad",
+  "retrieved_at": "2026-10-25T13:53:08.553887+00:00"
+}

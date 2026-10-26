@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12484307",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Non-Binary People's Sexuality, Sexual Health, and Relationship Satisfaction: A Review of 12 Years of Quantitative Research (2012-2024).",
+  "authors": "Mastrantonio F, Kovshoff H, Armstrong H.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10508-025-03224-0",
+  "pmcid": "PMC12484307",
+  "url": "https://europepmc.org/article/PMC/PMC12484307",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12484307/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance",
+    "reproductive_sexuality_older"
+  ],
+  "abstract": "Non-binary is a term used by individuals to describe their gender identity, which is better conceptualized outside the man-woman binary. In recent years, research interest in the sexuality of gender minority individuals has grown, as shown by the increasing number of publications on this topic. Accordingly, a comprehensive systematic review which synthesizes the range of sex-related variables captured in research studies with non-binary people is needed. This analysis examined 12 years of quantitative sex research, aiming to (1) outline what is known about the sexuality, sexual health, and relationship satisfaction of non-binary people; and (2) appraise measures used in this literature for the inclusivity of non-binary identities (focusing on language and terminology). Searches were conducted on PsycINFO, Web of Science, and MEDLINE for papers in Italian or English between 2012 and 2024, and 44 articles were included for synthesis. Papers covered a wide range of topics, showing that non-binary people often report non-monosexual sexual identities (e.g., queer, pansexual), more attraction to and relationships with other non-binary individuals, and similar levels of sexual and relationship satisfaction as binary transgender people. However, the language and tools employed within the research were not always expansive or inclusive enough to adequately represent non-binary people's experiences. For example, gender minority individuals were often grouped together for analysis, hiding likely within group differences. Future research should use gender-neutral language and measures and consider non-binary individuals separately, in order to better understand their specific sexual health, well-being, and relationship needs and outcomes.",
+  "raw_path": "01_raw/europepmc_xml/PMC12484307.xml",
+  "text_path": "02_text/europepmc/PMC12484307.txt",
+  "raw_bytes": 303455,
+  "text_chars": 68501,
+  "raw_sha256": "fa7ba853cd32d7f843dd27d9f4e8581856f4ee29b94f0f13c16e53619be94084",
+  "text_sha256": "6c219472b8257b9018cece0185682d07e25a2a76ea1603548c0ca2269bd5d80d",
+  "retrieved_at": "2026-10-25T15:49:34.820731+00:00"
+}

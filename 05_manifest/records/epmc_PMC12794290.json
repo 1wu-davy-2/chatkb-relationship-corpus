@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12794290",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The influence of individual and partner self-esteem on relationship satisfaction: evidence from freshman using actor-partner interdependence model.",
+  "authors": "Yang Y, Wu Y, Song J.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1673074",
+  "pmcid": "PMC12794290",
+  "url": "https://europepmc.org/article/PMC/PMC12794290",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12794290/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "Introduction This study, grounded on the actor-partner interdependence model, explore how individual and partner self-esteem affect their relationship satisfaction. Methods Three independent studies were conducted on freshmen recruited from college students' mental health courses. Study 1 ( n = 423) adopted a conflict situation recall task to measure participants' own and perceived partners' self-esteem and emotional expression. Study 2 ( n = 145) employed the same recall task to assess these variables plus relationship satisfaction for both participants and their perceived partners. Study 3 surveyed 94 couples, measuring self-esteem, emotional expression, and relationship satisfaction for both individuals and their partners. Results The results of Study 1 showed that individual self-esteem and perceived partner self-esteem were positively associated with individual emotional expression and perceived partner emotional expression. Study 2 further revealed that individual emotional expression was positively associated with perceived partner relationship satisfaction, and perceived partner emotional expression was positively associated with individual relationship satisfaction. The results of Study 3 indicated that female self-esteem was only positively related with her emotional expression, while male self-esteem was only positively related with his emotional expression. Moreover, female emotional expression was positively associated with male partners' relationship satisfaction, and male emotional expression was positively associated with female partners' relationship satisfaction. Discussion These results suggest that individuals and their partners mutually influence each other, affecting emotional expression patterns and ultimately impacting relationship satisfaction. The findings highlight the importance of considering the mutual influence between partners in relationship interventions.",
+  "raw_path": "01_raw/europepmc_xml/PMC12794290.xml",
+  "text_path": "02_text/europepmc/PMC12794290.txt",
+  "raw_bytes": 96498,
+  "text_chars": 42696,
+  "raw_sha256": "6bb14ff91f2a7419f4e6acb178c8fe015689152d582b77cd719d39db382599f5",
+  "text_sha256": "58782905469182f9eda934139609ef3b67b624c739134eae76d35be466e59071",
+  "retrieved_at": "2026-10-25T13:57:10.347481+00:00"
+}

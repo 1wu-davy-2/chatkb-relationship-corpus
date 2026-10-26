@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6082652",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Aspirational pursuit of mates in online dating markets.",
+  "authors": "Bruch EE, Newman MEJ.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.1126/sciadv.aap9815",
+  "pmcid": "PMC6082652",
+  "url": "https://europepmc.org/article/PMC/PMC6082652",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6082652/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "Romantic courtship is often described as taking place in a dating market where men and women compete for mates, but the detailed structure and dynamics of dating markets have historically been difficult to quantify for lack of suitable data. In recent years, however, the advent and vigorous growth of the online dating industry has provided a rich new source of information on mate pursuit. We present an empirical analysis of heterosexual dating markets in four large U.S. cities using data from a popular, free online dating service. We show that competition for mates creates a pronounced hierarchy of desirability that correlates strongly with user demographics and is remarkably consistent across cities. We find that both men and women pursue partners who are on average about 25% more desirable than themselves by our measures and that they use different messaging strategies with partners of different desirability. We also find that the probability of receiving a response to an advance drops markedly with increasing difference in desirability between the pursuer and the pursued. Strategic behaviors can improve one's chances of attracting a more desirable mate, although the effects are modest.",
+  "raw_path": "01_raw/europepmc_xml/PMC6082652.xml",
+  "text_path": "02_text/europepmc/PMC6082652.txt",
+  "raw_bytes": 75212,
+  "text_chars": 29975,
+  "raw_sha256": "695154e7b01690a1de2e5d66f4ce1fa495e2cb7a1ab98d7eb2ca172cf4e018bf",
+  "text_sha256": "016427c4e91f3fcbd1040cb8eed0c289d1541c46e2b668c43da1564fc8d0d624",
+  "retrieved_at": "2026-10-25T15:42:26.296139+00:00"
+}

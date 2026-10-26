@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7665789",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring the associations between narcissism, intentions towards infidelity, and relationship satisfaction: Attachment styles as a moderator.",
+  "authors": "Altınok A, Kılıç N.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0242277",
+  "pmcid": "PMC7665789",
+  "url": "https://europepmc.org/article/PMC/PMC7665789",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7665789/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "The ultimate goal of this research was twofold: (1) to investigate the associations between narcissism, intentions towards infidelity, and relationship satisfaction; and (2) to explore the moderating effect of attachment styles on the link between intentions towards infidelity and narcissism. The findings revealed that the link between narcissism and relationship satisfaction is fully mediated by intentions towards infidelity. Similarly, the full mediating effect of relationship satisfaction exists in the association between narcissism and intentions towards infidelity. Mediational analyses further revealed that narcissism is a predictor of intentions towards infidelity, and this link is moderated by preoccupied, fearful, and dismissive attachment styles. As the results indicate, narcissism plays a significant role in young adults' intimate relationships, and attachment styles have a moderating role in narcissism's effect on romantic relationships. Results and implications are discussed in light of the relevant research findings.",
+  "raw_path": "01_raw/europepmc_xml/PMC7665789.xml",
+  "text_path": "02_text/europepmc/PMC7665789.txt",
+  "raw_bytes": 170563,
+  "text_chars": 39332,
+  "raw_sha256": "808e4191bf9ba30db0dc9c3c069897bbe8a4a47f0d33a63031cd7571aeb8de30",
+  "text_sha256": "449a78b33a538e826e8e471e01afa1c525ddd87f88d418a81f5f2d6c8cf4d333",
+  "retrieved_at": "2026-10-25T15:43:28.629723+00:00"
+}

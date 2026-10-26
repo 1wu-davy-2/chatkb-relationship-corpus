@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13687909",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "How system justification sustains sexual inequality: The case of the orgasm gap.",
+  "authors": "Oschatz T, Klein V, Piemonte JL, Imhoff R, Conley T.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/bjso.70141",
+  "pmcid": "PMC13687909",
+  "url": "https://europepmc.org/article/PMC/PMC13687909",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13687909/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "The \"orgasm gap\"-the consistent disparity in orgasm rates in sexual encounters between women and men-represents a striking form of gender inequality. Though orgasms strongly predict women's sexual satisfaction, many women downplay their importance. To explain this paradox, we drew on System Justification Theory (SJT) to investigate whether and how legitimizing the orgasm gap sustains sexual inequality between women and men across four studies with U.S. participants (N = 1967). Study 1 introduced a novel measure of orgasm gap-system justification (OGSJ), showing that stronger justification was associated with lower orgasm centrality and entitlement among women, and higher orgasm entitlement among men. Studies 1 and 2 provided evidence for SJT's palliative function: irregularly-orgasmic women who endorsed OGSJ beliefs reported greater sexual satisfaction despite low orgasm frequency. Studies 2 and 3 (the latter experimental) demonstrated the motivated nature of OGSJ, as irregularly-orgasmic women selectively endorsed system-affirming explanations and judged system-threatening information as less credible than system-affirming information. In Study 4, stronger OGSJ was associated with reduced support for social change initiatives promoting orgasm equality among women and men. These findings highlight how system justification sustains sexual inequality, offering psychological comfort at the cost of structural change.",
+  "raw_path": "01_raw/europepmc_xml/PMC13687909.xml",
+  "text_path": "02_text/europepmc/PMC13687909.txt",
+  "raw_bytes": 251602,
+  "text_chars": 77420,
+  "raw_sha256": "c9689072d0c3519a8375fa24b8b14f8f092d109d1957567c17a81a4ee974156e",
+  "text_sha256": "2d552d621de062acdd331d26279367e69c6c11601378be4683c856592fd40caa",
+  "retrieved_at": "2026-10-26T13:08:04.097429+00:00"
+}

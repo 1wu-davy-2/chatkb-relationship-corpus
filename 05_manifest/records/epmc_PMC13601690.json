@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13601690",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Conflict-Related Coercive Control: A Framework for Understanding Women's Experiences of Group-Based Coercive Control in Conflict-Affected Settings.",
+  "authors": "Swaine A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/10778012251409155",
+  "pmcid": "PMC13601690",
+  "url": "https://europepmc.org/article/PMC/PMC13601690",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13601690/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "This paper presents a new \"Framework of Paramilitary-related Coercive Control.\" Based on empirical research in Northern Ireland, the paper evidences how coercive control can be used as an analytical lens to approach understanding of armed-actor-related intimate-partner violence, as well as being a form of conflict-related harm. The paper advances the concept of \"conflict-related coercive control,\" showing how the predatory nature of armed group social control is the basis for the endemic gendered control of women. It expands the study of intimate partner-based coercive control towards group-based control of women, and by so doing, expands the concept of social control, evidencing the gendered nature of armed group governance.",
+  "raw_path": "01_raw/europepmc_xml/PMC13601690.xml",
+  "text_path": "02_text/europepmc/PMC13601690.txt",
+  "raw_bytes": 119464,
+  "text_chars": 71867,
+  "raw_sha256": "d12a6dc659b463c894d431da0bdbaec10b0e8237d6e635b3406977beea360759",
+  "text_sha256": "03181103690882399517c66b6d89e65d1806392d9b4e012bb28a5e2f01da4f4c",
+  "retrieved_at": "2026-10-25T13:54:48.127550+00:00"
+}

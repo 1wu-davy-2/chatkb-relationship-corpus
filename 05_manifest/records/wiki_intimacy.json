@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_intimacy",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "亲密关系",
+  "requested_title": "亲密关系",
+  "url": "https://zh.wikipedia.org/wiki/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "intimacy",
+    "relationship"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/intimacy.json",
+  "text_path": "02_text/zh_wikipedia/intimacy.txt",
+  "raw_bytes": 12568,
+  "text_chars": 4611,
+  "text_sha256": "406b331ca58ab0f23acc60f2247d983f9ce143c0aaca72bf06c456177d0ad8d0",
+  "retrieved_at": "2026-10-25T15:34:14.818893+00:00"
+}

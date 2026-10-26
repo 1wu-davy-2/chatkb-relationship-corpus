@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_brainwashing",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "洗腦",
+  "requested_title": "洗脑",
+  "url": "https://zh.wikipedia.org/wiki/%E6%B4%97%E8%85%A6",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "manipulation",
+    "safety"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/brainwashing.json",
+  "text_path": "02_text/zh_wikipedia/brainwashing.txt",
+  "raw_bytes": 27497,
+  "text_chars": 9804,
+  "text_sha256": "c145dcee49bdd4e2210bce1a67619b557e03c7977097bc37a5295ab02591dcb2",
+  "retrieved_at": "2026-10-25T15:37:18.438614+00:00"
+}

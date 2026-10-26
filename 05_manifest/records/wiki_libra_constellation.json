@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_libra_constellation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "天秤座",
+  "requested_title": "天秤座",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%A7%A4%E5%BA%A7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 天秤座",
+  "topics": [
+    "zodiac",
+    "astronomy"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/libra_constellation.json",
+  "text_path": "02_text/zh_wikipedia/libra_constellation.txt",
+  "raw_bytes": 4715,
+  "text_chars": 2034,
+  "text_sha256": "c9de325d9f274ad31c5815a33fd158652808564bd36fd72113f441a120257152",
+  "retrieved_at": "2026-10-26T13:05:10.686092+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9899295",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Comparing associations between personality and loneliness at midlife across three cultural groups.",
+  "authors": "Freilich CD, Mann FD, Krueger RF.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1111/jopy.12765",
+  "pmcid": "PMC9899295",
+  "url": "https://europepmc.org/article/PMC/PMC9899295",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9899295/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Objective Loneliness represents a public health threat given its central role in predicting adverse mental and physical health outcomes. Prior research has established four of the Big Five personality traits as consistent cross-sectional predictors of loneliness in largely western, White samples. However, it is not clear if the personality predictors of loneliness vary across cultures. Method The present study estimates associations between the Big Five traits and loneliness across distinct samples of White American, Black American, and Japanese adults (n = 6051 at T1). Confirmatory factor analysis and exploratory structural equation modeling were used to examine measurement invariance properties of the Big Five and loneliness across these groups. The factor structures were then carried forward to estimate associations between personality and loneliness across two assessments waves using structural equation modeling. Results While Neuroticism was a strong predictor across groups, low Extraversion was more predictive of loneliness in Japan than in the U.S., and low Conscientiousness was only a significant predictor in the U.S. Conclusions Previous literature offers a framework for interpreting these findings in that loneliness may be shaped comparatively more through interconnectedness in Japanese culture, while, in the U.S., individual goals and personal romantic expectations are more salient.",
+  "raw_path": "01_raw/europepmc_xml/PMC9899295.xml",
+  "text_path": "02_text/europepmc/PMC9899295.txt",
+  "raw_bytes": 150782,
+  "text_chars": 45755,
+  "raw_sha256": "12c80593a7ee39ac42ff01f9aa9e2bf4df41d37d311202da00f04898c1ee9eb4",
+  "text_sha256": "4021588ff6e21ad3523832382291b0a2b0d56c21b4101ab5f10cba4c4f94ca55",
+  "retrieved_at": "2026-10-25T15:37:22.482065+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11855706",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Cultural Validation of the Fear-of-Intimacy Scale for the Portuguese Population: Exploring Its Relationship with Sociosexual Orientation.",
+  "authors": "Leite Â, Azevedo Â.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/ijerph22020274",
+  "pmcid": "PMC11855706",
+  "url": "https://europepmc.org/article/PMC/PMC11855706",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11855706/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy",
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Objective This study aims to adapt the Fear-of-Intimacy Scale for the Portuguese population and examine its association with sociosexual orientation, as measured by the Sociosexual Orientation Inventory, highlighting the relevance of this association as a public health issue. Methods The Fear-of-Intimacy Scale was validated through confirmatory factor analyses. A multigroup analysis, employing confirmatory factor analysis, was conducted to evaluate the consistency of the Fear-of-Intimacy Scale across individuals in and out of romantic relationships. The reliability of the model was assessed using various indicators, including Cronbach's alpha, McDonald's omega, composite reliability, the average variance extracted (AVE), and the square root of the AVE. Results The results indicated robust psychometric properties for the Fear-of-Intimacy Scale, with a well-fitting model identified. Configural, metric, and scalar invariance related to being in a romantic relationship or not were established; however, error variance invariance was not achieved. Although most dimensions of the two instruments displayed positive and significant relationships, the correlation values were generally modest. Conclusion The findings underscore the importance of understanding the relationship between fear of intimacy and sociosexual orientation within the Portuguese context as a significant public health issue. Adapting the Fear-of-Intimacy Scale enables culturally sensitive research and supports clinical interventions aimed at improving relational and psychological well-being, thereby addressing broader public health challenges.",
+  "raw_path": "01_raw/europepmc_xml/PMC11855706.xml",
+  "text_path": "02_text/europepmc/PMC11855706.txt",
+  "raw_bytes": 236073,
+  "text_chars": 67277,
+  "raw_sha256": "89699afbff810a7e62f4ace0f804bc05c82564bc1ebf7a5f5a5d6838eb8d1c77",
+  "text_sha256": "d049fbfa8f0c7305e545172766cc4067e9fe3a7b300184bd0ad7781349a067f8",
+  "retrieved_at": "2026-10-25T13:59:25.422213+00:00"
+}

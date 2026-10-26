@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10295143",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Sexual Self as a Function of Relationship Status in an Emerging Adult Sample.",
+  "authors": "Rye BJ.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3390/bs13060505",
+  "pmcid": "PMC10295143",
+  "url": "https://europepmc.org/article/PMC/PMC10295143",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10295143/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_self_disclosure"
+  ],
+  "abstract": "A sample of emerging adult university students completed a survey with the goal of investigating components of \"the sexual self\" and how these constructs were influenced by romantic relationship status. Three general aspects of the sexual self were considered: sexual self-concept, comfort with sexuality, and past sexual behavior. Sexual self-concept was defined as composed of constructs such as sexual self-schema, self-efficacy, consciousness, optimism, problem self-blame, power/other control, and motivation to avoid risky sex. Sexual comfort, conceptualized as a personality disposition of erotophobia-erotophilia, was assessed using three instruments. This included the Sexual Opinion Survey, the original individual difference measure of erotophobia-erotophilia. Past sexual behavior was assessed with the Derogatis Sexual Functioning Inventory. Findings suggested that individuals in a relationship had more positive sexual self-concepts and were more erotophilic and comfortable with sexuality generally. These differences were modest, based on effect size statistics. Past sexual experience also differed, contingent on relationship status. Some sexual self-concept scales were predictive of sexual satisfaction, while comfort with sexuality was predictive of relational satisfaction. Romantic relationships may have important implications for sexual selfhood, but this is a tentative suggestion, as this was a correlational study and the relationships are likely bidirectional.",
+  "raw_path": "01_raw/europepmc_xml/PMC10295143.xml",
+  "text_path": "02_text/europepmc/PMC10295143.txt",
+  "raw_bytes": 161017,
+  "text_chars": 51419,
+  "raw_sha256": "6fc041020d49a1fd9c1bcd69bd91ccb956ebe4153a7cf61ce0839b6c91b24eba",
+  "text_sha256": "6333175ee7422cd6d7166a059c6bd54a5d64cc1bcf0c582db45c5263f00c24e3",
+  "retrieved_at": "2026-10-26T13:05:35.685891+00:00"
+}

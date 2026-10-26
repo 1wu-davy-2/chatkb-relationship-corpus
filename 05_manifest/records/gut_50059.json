@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_50059",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "How to Behave and How to Amuse: A Handy Manual of Etiquette and Parlor Games",
+  "gutenberg_id": "50059",
+  "url": "https://www.gutenberg.org/ebooks/50059",
+  "download_url": "https://www.gutenberg.org/cache/epub/50059/pg50059.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/50059.txt",
+  "text_path": "02_text/gutenberg/gut_50059_how_to_behave_and_how_to_amuse_a_handy_m.txt",
+  "raw_bytes": 462910,
+  "text_chars": 420596,
+  "text_sha256": "39ca9f3b1cc4c6f58f2e9819ecd43204dfd521912b9fc346beb7b14f8cbe9ba7",
+  "retrieved_at": "2026-10-25T15:54:43.504599+00:00"
+}

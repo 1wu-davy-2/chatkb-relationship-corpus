@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11708991",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Borderline Personality Disorder and Loneliness: Broadening the Scope of Treatment for Social Rehabilitation.",
+  "authors": "Mermin SA, Steigerwald G, Choi-Kain LW.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1097/hrp.0000000000000417",
+  "pmcid": "PMC11708991",
+  "url": "https://europepmc.org/article/PMC/PMC11708991",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11708991/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "Abstract Borderline personality disorder (BPD) has been described as a condition of intolerance of aloneness. This characteristic drives distinguishing criteria, such as frantic efforts to avoid abandonment. Both BPD and loneliness are linked with elevated mortality risk and multiple negative health outcomes. Psychodynamic theories of BPD emphasize fundamental impairment in attachment and interpersonal functioning. Empirical research demonstrates an association between BPD diagnosis and increased loneliness. Individuals with BPD experience higher levels of loneliness than the general population, and their social networks are systematically smaller, less diverse, and less satisfying. Differences in the subjective experience of loneliness persist when controlling for these relevant social network features, indicating that people with BPD experience more loneliness than others in the same objective social circumstances. According to patients with BPD, increased social connection is often a primary treatment goal and marker of satisfying recovery. There are, however, few evidence-based approaches that primarily target loneliness and building life structures that support durable connections with others. Therefore, loneliness persists as an intractable problem, often failing to remit alongside other symptoms, and few resources are routinely implemented to address this problem. In this article, we argue that loneliness is central to the symptomatic oscillations and subjective experiences of many patients with BPD. We propose that treatment extend beyond the overemphasized therapeutic alliance relationship to also promote socialization and group and vocational settings to enhance patients' social networks. Building larger social networks that rely less on exclusive caregiving and/or romantic relationships and more on role-bound identity building and community relationships would more directly target long-term identity diffusion and relational instability. Such interventions can harness nonclinical community resources, such as group treatment, vocational supports, and peer supports.",
+  "raw_path": "01_raw/europepmc_xml/PMC11708991.xml",
+  "text_path": "02_text/europepmc/PMC11708991.txt",
+  "raw_bytes": 136744,
+  "text_chars": 38146,
+  "raw_sha256": "65d6658bc3eef74f6843a2306d95161ffca03b969545fa152509e7c4100031f1",
+  "text_sha256": "6d14193e25767c6aa6b7af74c583b0ddfc1cb647a6c42aa95ca24fb049dc9549",
+  "retrieved_at": "2026-10-25T15:45:20.490370+00:00"
+}

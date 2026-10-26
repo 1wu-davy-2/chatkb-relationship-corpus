@@ -1,0 +1,30 @@
+{
+  "doc_id": "epmc_PMC12730133",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Satisfaction in Romantic Relationships: The Role of Body Appreciation, Sexual Esteem and Sexual Assertiveness.",
+  "authors": "Rizzo M, Matera C, Caso D, Donizzetti AR, Grano C, Nerini A, Rollero C.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15121730",
+  "pmcid": "PMC12730133",
+  "url": "https://europepmc.org/article/PMC/PMC12730133",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12730133/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance",
+    "sex_communication_training",
+    "sexual_communication",
+    "sexual_pleasure_gender"
+  ],
+  "abstract": "Romantic relationship satisfaction is widely recognized as a foundational contributor to both psychological and physical well-being. However, research on its association with other key constructs, such as body appreciation, sexual esteem and sexual assertiveness, is still lacking, especially in reference to romantic relationships. The present study investigates the interplay between body appreciation, sexual esteem, and sexual assertiveness, and their combined influence on relationship satisfaction in individuals in heterosexual relationships in Italy. Participants were 473 adults (50.1% men, 49.7% women, 0.2% other; age range 18-49). Structural equation modeling revealed that while body appreciation was indirectly associated with sexual assertiveness, it significantly predicted sexual esteem. Sexual assertiveness, but not sexual esteem, was positively associated with relationship satisfaction. No significant gender differences were found in the structural relationships among the variables. These findings underscore a process through which sexual assertiveness and body appreciation can enhance relational well-being and inform educational programs aimed at promoting healthy romantic relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC12730133.xml",
+  "text_path": "02_text/europepmc/PMC12730133.txt",
+  "raw_bytes": 151494,
+  "text_chars": 39501,
+  "raw_sha256": "f53a642cccc47333ee0721138f7fb8eb3d1befdd555ede1b1a6ea0758a8e8992",
+  "text_sha256": "5279ef67f131780a3a734b35f9364d0a5eca4ca826b16c3708c9d047e8b2ba0f",
+  "retrieved_at": "2026-10-25T13:47:56.248247+00:00"
+}

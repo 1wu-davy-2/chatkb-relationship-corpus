@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8427304",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploration of the Relationships Among Narcissism, Life Satisfaction, and Loneliness of Instagram Users and the High- and Low-Level Features of Their Photographs.",
+  "authors": "Kim Y, Nan D, Kim JH.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2021.707074",
+  "pmcid": "PMC8427304",
+  "url": "https://europepmc.org/article/PMC/PMC8427304",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8427304/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "We examined the associations between the characteristics of Instagram users and the features of their photographs. Narcissism, life satisfaction, and loneliness were employed for user variables and the features at high- (content) and low-levels (pixel) were employed to analyze the Instagram photographs. An online survey was conducted with 179 university students, and their Instagram photographs, 25,394 in total, were collected and analyzed. High-level features were extracted using Computer Vision and Emotion Application Programming Interfaces (APIs) in Microsoft Azure Cognitive Services, and low-level features were extracted utilizing the program written by the authors. The results of correlation analysis indicate that narcissism, life satisfaction, and loneliness were significantly associated with a part of photograph features at high- and low-levels. The results of the predictive analysis suggest that narcissism, loneliness in total, and social loneliness could be predicted with acceptable accuracy from Instagram photograph features, while characteristics such as life satisfaction, family loneliness, and romantic loneliness could not be predicted. Implications of this research and suggestions for further research were presented.",
+  "raw_path": "01_raw/europepmc_xml/PMC8427304.xml",
+  "text_path": "02_text/europepmc/PMC8427304.txt",
+  "raw_bytes": 168366,
+  "text_chars": 50569,
+  "raw_sha256": "712310fb201dfde14df99a1cbd7e4ac50422d018c2e362410196a244850c2af8",
+  "text_sha256": "5d70ee6a898ef92ee846494b3fd51c512194e52ff5ec20eb71f1861cec1f33ac",
+  "retrieved_at": "2026-10-25T15:44:02.569558+00:00"
+}

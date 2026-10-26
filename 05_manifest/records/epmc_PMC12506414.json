@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12506414",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The effect of emotionally focused couple therapy (EFCT) on shame and intimacy in couples: a randomized controlled trial (RCT).",
+  "authors": "Mirzazade Z, Molazade J, Hadianfard H, Taghavi M.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40359-025-03415-3",
+  "pmcid": "PMC12506414",
+  "url": "https://europepmc.org/article/PMC/PMC12506414",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12506414/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_disclosure"
+  ],
+  "abstract": "Objectives Intimate relationships can enhance quality of life and reduce the risk of psychological disorders. Self-disclosure, a fundamental component of intimacy, occurs only when vulnerability is met with acceptance rather than rejection. However, shame disrupts this process by inhibiting vulnerability and promoting defensive strategies, thereby undermining intimacy and relational security. This study aimed to address shame within an Emotionally Focused Couple Therapy framework to enhance intimacy. Method A randomized controlled design was employed. Twenty-six married couples were randomly assigned to either an experimental group or a control group. The Experience of Shame Scale and the Personal Assessment of Intimacy in Relationships were used as assessment tools. Results Compared with the control, EFCT significantly increased intimacy and reduced shame in the experimental group (p Conclusion Shame may disrupt both intimacy and the therapeutic relationship and should be addressed during treatment. The discussion outlines possible mechanisms of change. Trial registration This paper has been registered with the Clinical Trial ID (71773). It was registered on 2024/10/04. (Clinical Trial Number IRCT20230801058994N1).",
+  "raw_path": "01_raw/europepmc_xml/PMC12506414.xml",
+  "text_path": "02_text/europepmc/PMC12506414.txt",
+  "raw_bytes": 145653,
+  "text_chars": 53719,
+  "raw_sha256": "b54a9ece43bfa03ee7d0cf4530a4ff6b91ef6a494623f74ba4e43b1174422812",
+  "text_sha256": "ae8626f3b222ea950e3975769cc590df886c0aaec19a2d6654395dc571b13469",
+  "retrieved_at": "2026-10-25T13:51:56.228016+00:00"
+}

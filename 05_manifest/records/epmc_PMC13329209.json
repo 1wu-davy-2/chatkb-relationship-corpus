@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13329209",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Narratives About COVID Challenges in Mexican American Couples as Predictors of Relationship Satisfaction.",
+  "authors": "Reischer HN, Fivecoat HC, Blum L, Cunningham CN, Ho S, Lawrence E.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/famp.70176",
+  "pmcid": "PMC13329209",
+  "url": "https://europepmc.org/article/PMC/PMC13329209",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13329209/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "The objective of this study was to describe the narrative themes that emerged in Mexican American couples' stories about their relationship challenges at the beginning of the COVID-19 pandemic-during lockdown-and to examine how those themes related to their relationship satisfaction. We surveyed 58 male-female married couples (n = 116 participants; 73.33% Mexican American) recruited from the Southwest United States and enrolled in a longitudinal study of relationship functioning. Spouses wrote stories about the greatest COVID-19-related challenges they were facing as a couple. To explore associations between relationship satisfaction and the lived experience of COVID-19, stories were coded for established narrative identity themes (agency, communion, affect, meaning-making) and themes developed to account for the context of marital challenges (challenge outcomes, couple stress responses, familismo, overriding positive regard). Relationship satisfaction was associated with six narrative themes for wives (0.29 ≤ |r| ≤ 0.56) and three themes for husbands (0.29 ≤ |r| ≤ 0.40). Actor-partner interdependence modeling showed six actor effects and one partner effect for wives but no significant effects for husbands. This research provides novel insight into the challenges faced by Mexican American couples during the pandemic and suggests great promise for using narrative identity research to understand how individuals' narrations of couple stories are linked to relationship satisfaction. Further, our findings suggest that the narrative themes characterizing how conflict is storied by partners within the couple therapy room might be directly targeted as a means to improve relationship satisfaction.",
+  "raw_path": "01_raw/europepmc_xml/PMC13329209.xml",
+  "text_path": "02_text/europepmc/PMC13329209.txt",
+  "raw_bytes": 168071,
+  "text_chars": 53036,
+  "raw_sha256": "e11be8955b3698501e56cc7292f6bc17612eb0c2d93a8f5253c1d5508c598b32",
+  "text_sha256": "688f89833a9f823fca930af0168806e313fcae75c31f428e9798ca21df6f6dc3",
+  "retrieved_at": "2026-10-25T13:54:34.721952+00:00"
+}

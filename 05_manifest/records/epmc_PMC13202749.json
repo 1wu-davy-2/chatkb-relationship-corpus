@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC13202749",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "'Ghya Bharaari Ekatra': study protocol for a cluster randomized trial to evaluate a couples-based intervention for the primary prevention of intimate partner violence in India.",
+  "authors": "Kalokhe AS, Begum S, Bangar S, Bhise M, Freeman MC, Katendra T, Rahane G, Ravi U, Patel SA, Prusty R, Sales JM, Wirtz S, Sahay S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12889-026-26803-9",
+  "pmcid": "PMC13202749",
+  "url": "https://europepmc.org/article/PMC/PMC13202749",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13202749/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence",
+    "sex_communication_training"
+  ],
+  "abstract": "BACKGROUND: Intimate partner violence (IPV) is experienced by one-fourth of women in India and associated with poor mental, physical, sexual and reproductive health. Ghya Bharaari Ekatra (GBE) is an evidence-based, theory-driven, culturally tailored, dyadic intervention, developed and piloted for the primary prevention of IPV among newly-married, low-income couples residing in urban slums in Maharashtra, India. GBE is delivered over six weekly sessions by a team of lay peer educators to groups of five couples and makes use of engaging culturally-tailored delivery methods to challenge norms and build knowledge and skills to address key IPV determinants. This manuscript outlines the protocol for the quantitative evaluation of GBE’s total impact on IPV, mental health, and reproductive autonomy, with consideration of mediating and moderating factors. METHODS: We will conduct a cluster randomized trial among 850 newly married dyads (500 assigned to GBE and 350 controls) in two districts in Maharashtra, India to quantify the impact of the GBE intervention compared to the ethical standard of care (information on IPV and mental and reproductive/sexual health resources) in preventing IPV experience (primary outcome) at 12 months. Secondary outcomes include reproductive autonomy among the newly married women and mental health among both members of the dyad at 12 months. We will also conduct mediation and moderation analyses for the efficacy of the GBE intervention. DISCUSSION: Study findings will provide insight into GBE’s potential to prevent IPV, its mechanism of effect, and contexts that may modify its effects, thereby facilitating future scale-up across India and similar resource-limited, high-burden settings globally upon study completion. TRIAL REGISTRATION: Registered at ClinicalTrials.gov on 6th February 2025: NCT06811922. Registered at Clinical Trials Registry-India (CTRI) on 3rd December 2024 : REF/2024/12/095719.",
+  "raw_path": "01_raw/europepmc_xml/PMC13202749.xml",
+  "text_path": "02_text/europepmc/PMC13202749.txt",
+  "raw_bytes": 159168,
+  "text_chars": 49398,
+  "raw_sha256": "007596910ecab303a94c6a64a05f9eee6959ef292fd03c230a255a85932dc2a2",
+  "text_sha256": "0056cad9e19cd79f3262265700980100b27a66afcd7d059da6929401243d126c",
+  "retrieved_at": "2026-10-25T13:57:16.478927+00:00"
+}

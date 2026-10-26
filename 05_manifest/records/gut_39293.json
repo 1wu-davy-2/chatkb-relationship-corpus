@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_39293",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "The Gentlemen's Book of Etiquette and Manual of Politeness",
+  "gutenberg_id": "39293",
+  "url": "https://www.gutenberg.org/ebooks/39293",
+  "download_url": "https://www.gutenberg.org/cache/epub/39293/pg39293.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/39293.txt",
+  "text_path": "02_text/gutenberg/gut_39293_the_gentlemen_s_book_of_etiquette_and_ma.txt",
+  "raw_bytes": 532408,
+  "text_chars": 500118,
+  "text_sha256": "288f6a11ac314c1826bf44edf3818ff6413dc6d7c63ac9777d0c52896f00474a",
+  "retrieved_at": "2026-10-25T15:45:05.468705+00:00"
+}

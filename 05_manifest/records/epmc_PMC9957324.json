@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9957324",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Pandemic-Related Stress and Other Emotional Difficulties in a Sample of Men and Women Living in Romantic Relationships during the COVID-19 Pandemic.",
+  "authors": "Kozakiewicz A, Izdebski Z, Białorudzki M, Mazur J.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3390/ijerph20042988",
+  "pmcid": "PMC9957324",
+  "url": "https://europepmc.org/article/PMC/PMC9957324",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9957324/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "This study examined the extent to which relationship quality affects variability in perceived stress and other emotional difficulties associated with the pandemic. The study was conducted 2-17 March 2022 using a self-administered online survey. The sample size consisted of 1405 individuals who were in a romantic relationship. The scales used in the study included the PSS-4, ECR-RS, SLS-12 and the standardized Pandemic-ED scale (RMSEA = 0.032). Increased stress levels (U = -5.741), pandemic-related emotional difficulties (U = -8.720), worse romantic relationship quality (U = -2.564) and more frequent anxiety-related attachment (U = -3.371) were characteristic of women. A hierarchical regression model for stress showed that age (b = -0.143), financial situation (b = 0.024), the ECR-RS scores (b = 0.219) and pandemic-related emotional difficulties (b = 0.358) proved to be statistically significant predictors of stress. The hierarchical regression model for pandemic-related emotional difficulties indicated five predictors: gender (b = 0.166), education (b = 0.071), financial situation (b = 0.203), scores on the ECR-RS scale (b = 0.048) and stress (b = 0.367). The SEM model used has satisfactory fit indices (RMSEA = 0.051), romantic relationship quality scores and attachment styles interact with the variability of perceived pandemic-related stress and burdens. The determined model offers conclusions relevant to clinicians working with individuals and couples during periods of intense stress.",
+  "raw_path": "01_raw/europepmc_xml/PMC9957324.xml",
+  "text_path": "02_text/europepmc/PMC9957324.txt",
+  "raw_bytes": 220311,
+  "text_chars": 47512,
+  "raw_sha256": "6b87cd6458fff7c8ecf809228cb9cb4aeb0a9a4893bf84e20e3be2598ba27426",
+  "text_sha256": "4c6fbe0a192200adb3504f8b0453e820d259eec808a64148afe5f979d5b703fa",
+  "retrieved_at": "2026-10-25T15:44:32.621166+00:00"
+}

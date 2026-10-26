@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13282980",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Psychosocial Intervention to Enhance Psychological Empowerment Among Women Survivors of Intimate Partner Violence: A Randomized Controlled Trial.",
+  "authors": "Khodadadi M, Hajihasani M, Kaveh M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.2147/ijwh.s601216",
+  "pmcid": "PMC13282980",
+  "url": "https://europepmc.org/article/PMC/PMC13282980",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13282980/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Objective Intimate partner violence (IPV) is a major public health concern with long-lasting psychological consequences for women survivors. The present randomized controlled trial examined the effectiveness of a structured psychosocial intervention in enhancing psychological empowerment as a mechanism of recovery among women who had experienced IPV in Iran. Methods A randomized controlled trial with a posttest-only design and a 50-day follow-up was conducted on 28 women survivors of IPV, who were randomly assigned to either an intervention group or a control group. The intervention consisted of eight 90-minute group sessions focused on cognitive restructuring and strengthening internal psychological resources. Psychological empowerment was assessed using a validated multidimensional instrument measuring competence, impact, meaning, self-determination, and trust. Data were analyzed using ANCOVA, MANCOVA, and paired-sample t-tests, with age included as a covariate. Results At post-test, the intervention group showed significantly higher psychological empowerment across all domains compared to the control group, including competence (F = 26.31, p 2 = 0.51), impact (F = 21.97, p 2 = 0.46), meaning (F = 33.25, p 2 = 0.57), trust (F = 20.16, p 2 = 0.44), and self-determination (F = 39.12, p 2 = 0.61). However, no statistically significant differences were observed between post-test and follow-up in the intervention group across all dimensions (all p > 0.05), indicating that gains were not significantly different at follow-up. Conclusion The findings suggest that structured psychosocial interventions may enhance psychological empowerment among women survivors of intimate partner violence. However, given the small sample size and posttest-only design, the results should be interpreted with caution. These interventions show promise as a supportive clinical approach, but further studies with larger samples and more rigorous designs are needed to confirm their effectiveness and generalizability.",
+  "raw_path": "01_raw/europepmc_xml/PMC13282980.xml",
+  "text_path": "02_text/europepmc/PMC13282980.txt",
+  "raw_bytes": 100734,
+  "text_chars": 32487,
+  "raw_sha256": "f48c69615feab23ae295299c0908aabd0d616887555649444f34cc56e3817d77",
+  "text_sha256": "9502e91f422801dcc6044787fbea726625726ec2d900282d1e81cc6be1962442",
+  "retrieved_at": "2026-10-25T14:01:23.733354+00:00"
+}

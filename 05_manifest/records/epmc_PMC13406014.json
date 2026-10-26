@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13406014",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Helping to Feel Better or Do Better? Implications of Interpersonal Emotion Regulation for Emotional Well-Being and Successful Goal Pursuit.",
+  "authors": "Pauw LS, Kirin L, Righetti F.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/bs16071071",
+  "pmcid": "PMC13406014",
+  "url": "https://europepmc.org/article/PMC/PMC13406014",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13406014/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "emotion_regulation"
+  ],
+  "abstract": "Personal growth often requires people to cope with setbacks and the negative emotions they evoke. Romantic partners can serve as important sources of support in these situations. In this research, we examined which interpersonal emotion regulation (IER) strategies are most effective for supporting two common goals in such contexts: improving emotional well-being and facilitating goal pursuit. Across three studies, we investigated the effectiveness of seven IER strategies (i.e., interpersonal acceptance, reappraisal, problem-solving, co-rumination, distraction, suppression and ignoring) for helping one's partner feel better (hedonic goal) vs. achieve their goal (instrumental goal). Study 1 assessed whether the perceived effectiveness of these IER strategies was dependent on people's hedonic vs. instrumental regulatory goal. Study 2 examined naturally occurring IER in romantic relationships, testing which IER strategies were related to perceived efficacy of the partner in fostering hedonic and instrumental goal achievement. Study 3 used a one-month longitudinal design to examine changes in negative affect and goal progress over time. Results showed that while people perceive IER strategies as differentially effective for hedonic versus instrumental goals, strategies that address obstacles (i.e., problem-solving) may be especially effective in helping romantic partners support both emotional well-being and goal pursuit, two processes central to personal growth.",
+  "raw_path": "01_raw/europepmc_xml/PMC13406014.xml",
+  "text_path": "02_text/europepmc/PMC13406014.txt",
+  "raw_bytes": 194390,
+  "text_chars": 67390,
+  "raw_sha256": "7f658d49917c693ef4079d7764179c5a7edbbfff1ce23e18a77e5b79aee1b402",
+  "text_sha256": "4629f5a22d94c0551b2ecdbd3de8c843f1bd288ad45c6bd6a4ece6c045763154",
+  "retrieved_at": "2026-10-25T15:29:35.546007+00:00"
+}

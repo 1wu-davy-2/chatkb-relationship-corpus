@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9517675",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Attachment and Dyadic Forgiveness in Individuals in Same-Sex Couple Relationships.",
+  "authors": "Guzmán-González M, Bekios N, Burgos J, Obregón C, Tabilo B, Casu G.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3390/ijerph191811152",
+  "pmcid": "PMC9517675",
+  "url": "https://europepmc.org/article/PMC/PMC9517675",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9517675/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "forgiveness"
+  ],
+  "abstract": "(1) Background: There is abundant evidence linking attachment insecurity to lower levels of interpersonal forgiveness. However, this association has been almost exclusively explored in people in a different-sex couple relationship, and there is little evidence referring to gay, lesbian, and bisexual (LGB) people in a same-sex relationship. The present study examines the association between romantic attachment and dyadic forgiveness in individuals involved in a same-sex couple relationship. (2) Methods: A total of 248 participants (52.8% female) aged 18-67 years (mean age: 31.02 ± 9.39) completed the Experiences in Close Relationships questionnaire and the Transgression-Related Interpersonal Motivation Inventory. (3) Results: Structural equation modeling showed that attachment avoidance was more strongly associated with dyadic forgiveness than attachment anxiety. Higher levels of attachment anxiety and avoidance were both linked to higher levels of avoidance motivation in response to partner transgressions, and higher attachment avoidance was linked to lower benevolence motivation. Multigroup analyses indicated a gender-specific association between attachment avoidance and revenge motivations, which was positive and significant among men only. (4) Conclusions: In the present study, we have identified that attachment avoidance plays a more prominent role in the tendency to forgive in same-sex couples. Implications at both theoretical and clinical practice levels are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC9517675.xml",
+  "text_path": "02_text/europepmc/PMC9517675.txt",
+  "raw_bytes": 152891,
+  "text_chars": 44511,
+  "raw_sha256": "81b659f4d44338cc80cd982101a5ce2d3200dbb2004bffa67a1d275359f69ea5",
+  "text_sha256": "e308f1ebb0243fff91ee8e908ad85242a40fad6ae0df25b61a9e3911a400dadd",
+  "retrieved_at": "2026-10-25T13:50:09.360036+00:00"
+}

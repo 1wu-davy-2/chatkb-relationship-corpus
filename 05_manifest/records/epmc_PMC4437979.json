@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4437979",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Questionnaire for the Assessment of Violent Behaviors in Young Couples: The Italian Version of Dating Violence Questionnaire (DVQ).",
+  "authors": "Presaghi F, Manca M, Rodriguez-Franco L, Curcio G.",
+  "year": "2015",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0126089",
+  "pmcid": "PMC4437979",
+  "url": "https://europepmc.org/article/PMC/PMC4437979",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4437979/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "In the last years, intimate partner violence (IPV) became a relevant problem for community and for social life, particularly in young people. Its correct assessment and evaluation in the population is mandatory. Our objectives were: Confirm factor structure of Dating Violence Questionnaire (DVQ) and investigate its convergent and divergent validity. The DVQ along with other personality measures were filled by a sample of 418 university students (Females = 310) of average age of 23 y.o. (SD = 4.71). A subsample of participants (223 students) consented in being involved also in retest and filled also the Revised Eysenck Personality Questionnaire (short form) and a brief scale for describing the behavior of the (past) partner after the breaking of the relationship (BRS). The 8-factor structure, with respect to the two other competing models, reported better fit indexes and showed significant correlations with other personality measures. Personality traits, both Neuroticism and Psychoticism, correlated with Sexual Violence, while Detachment correlated only with Neuroticism and Coercion, Humiliation and Physical Violence correlated with only Psychoticism. Extraversion did not report significant relationships with any of the 8 DVQ factors. Also the predictive validity of DVQ was satisfactory with the partner violent reaction to the break of relationship predicted positively predicted by Coercion (b = 0.22) and by Humiliation (b = 0.20) and negatively by Emotional Punishment (b = -0.18). The present results indicate a good factor structure of the questionnaire, and interesting correlations with personality traits, allowing to identify psychological aspects with a predisposing role for anti-social aggressive behaviors. Further studies will be aimed at ascertaining other possible determinants of intimate partner violence and the weight of cultural aspects.",
+  "raw_path": "01_raw/europepmc_xml/PMC4437979.xml",
+  "text_path": "02_text/europepmc/PMC4437979.txt",
+  "raw_bytes": 113357,
+  "text_chars": 29371,
+  "raw_sha256": "7def0d7cc45f6a5a221250e2d707c91b43b4cb9c245953e92a67f33225bba30b",
+  "text_sha256": "85eb0920758c47a400abc0b20decf830ba69491a26428b0881c79f653841bdb1",
+  "retrieved_at": "2026-10-25T15:49:37.934300+00:00"
+}

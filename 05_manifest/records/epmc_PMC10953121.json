@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10953121",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Induced erotomania by online romance fraud - a novel form of de Clérambault's syndrome.",
+  "authors": "Alotti N, Osvath P, Tenyi T, Voros V.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s12888-024-05667-6",
+  "pmcid": "PMC10953121",
+  "url": "https://europepmc.org/article/PMC/PMC10953121",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10953121/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "scam"
+  ],
+  "abstract": "Background Although the impact of internet usage on mental health is extensively documented, there is a notable scarcity of reports in the literature concerning internet-induced erotomania. Erotomania is a rare and likely underdiagnosed delusional disorder. It is characterized by an irrational belief held by the affected persons that someone of higher socioeconomic status harbor romantic feelings toward them. Here, we describe the psychopathology of erotomanic delusion induced by online romantic fraud in a female patient. Employing this case as a focal point, we illuminate novel aspects of erotomania that warrant attention and examination. Case presentation We present a compelling case involving a 70-year-old married Caucasian woman diagnosed with medically controlled persistent depressive disorder for several years. The intricacies of her condition became evident as she became deeply engrossed in online profiles featuring the image of a renowned musician, inadvertently falling victim to an online romantic fraud. Subsequently, this distressing experience triggered the emergence of erotomanic delusions and a suicide attempt. The patient's history reveals an array of medical conditions and stressful life events, contributing to her vulnerability. The diagnosis of erotomanic delusional disorder, dysthymia, and mild cognitive impairment with cerebral vascular background was established. Treatment involved her previous antidepressant with low-dose risperidone, alongside supportive individual and group therapy. Her delusion showed remission four weeks later, prompting her discharge for outpatient follow-up. Although she retained some false beliefs, the intensity of the symptoms had notably diminished and her functionality improved. Conclusion This case underscores the complex interplay between mental health, online activities, and the consequences of delusions, including suicidal thoughts, shedding light on the need for a comprehensive approach in addressing such challenging psychiatric scenarios.",
+  "raw_path": "01_raw/europepmc_xml/PMC10953121.xml",
+  "text_path": "02_text/europepmc/PMC10953121.txt",
+  "raw_bytes": 93440,
+  "text_chars": 36508,
+  "raw_sha256": "f17fd476350ab77596e50b5df23e1ca717c0ba19ba2de919a8364182cfb44b3b",
+  "text_sha256": "f2c7405f9bf937f016a7bdabdce67e60d351ea6eabae64f32dda658904b49f87",
+  "retrieved_at": "2026-10-25T13:47:26.189232+00:00"
+}

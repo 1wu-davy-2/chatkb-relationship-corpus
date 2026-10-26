@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13624119",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Gendered domestic labor and family leadership: associations with work-family difficulty and expectations for daughters.",
+  "authors": "Imankul A, Smagambet B.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fsoc.2026.1943089",
+  "pmcid": "PMC13624119",
+  "url": "https://europepmc.org/article/PMC/PMC13624119",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13624119/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "This article examines whether a female-concentrated division of unpaid domestic labor is associated with a reported household financial-management arrangement, normative endorsement of husband/breadwinner headship, work-family difficulty, perceived barriers, and expectations for daughters in contemporary Kazakhstan. We analyze data from a 2025 national quota survey covering all 17 regions of Kazakhstan and its three cities of republican status ( N = 2,400; 1,638 married or cohabiting respondents) using binary logistic regression on outcome-specific complete cases ( N = 1,460-1,523). A one-standard-deviation increase in the domestic-labor index was associated with higher odds that the husband managed the household budget (OR = 1.92), endorsement of the husband or breadwinner as head of household (OR = 1.40), difficulty reconciling work and family (OR = 1.26), and marriage-oriented expectations for daughters (OR = 1.21). The association with naming domestic labor as a barrier to women's participation was not statistically significant after adjustment. The leadership association was stronger among men. Because respondents were individuals, the outcomes capture reported arrangements and attitudes rather than couple-level behavior, and the cross-sectional design precludes causal inference. The results are robust to excluding \"difficult to answer\" responses rather than coding them as the reference category.",
+  "raw_path": "01_raw/europepmc_xml/PMC13624119.xml",
+  "text_path": "02_text/europepmc/PMC13624119.txt",
+  "raw_bytes": 107247,
+  "text_chars": 50399,
+  "raw_sha256": "2c1e53f54fdf68c15d9594177143a0426519a359d31a86abbc5e8704dfedaeb2",
+  "text_sha256": "7c7b6f763f5fdd6d98850c8cf900f1aa15f465586c2871217e8b946d7585c888",
+  "retrieved_at": "2026-10-25T13:47:28.010185+00:00"
+}

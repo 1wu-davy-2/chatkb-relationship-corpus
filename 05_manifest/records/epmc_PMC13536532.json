@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13536532",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marriage, Wealth, and the Spread of Cohabitation in Canada.",
+  "authors": "Pugliese M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/1468-4446.70089",
+  "pmcid": "PMC13536532",
+  "url": "https://europepmc.org/article/PMC/PMC13536532",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13536532/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Research demonstrates a robust link between marriage and wealth. Wealth facilitates marriage, which then fosters wealth accumulation, resulting in significant net worth disparities between married and cohabiting couples. Does the decline of marriage and growth of cohabitation alter this relationship? Previous research suggests variable outcomes across societies and groups. Wealth gaps may persist (or even widen) where cohabitation emerges primarily due to economic uncertainty or as a prolonged stage preceding marriage. However, gaps might narrow substantially where cohabitation diffuses as an alternative to marriage. Using Canada as a comparative case, this paper explores these dynamics. It contrasts the province of Québec, where cohabitation expanded largely as an alternative to marriage among French-speaking residents, with other provinces as well as Québec's anglophones, where cohabitation spread mostly as a preceding stage to marriage and due to economic insecurity. Leveraging data from Canada's Survey of Financial Security and the Longitudinal Administrative Databank, results indicate that marriage-cohabitation wealth gaps have narrowed substantially in French-speaking Québec since the 1990s compared to other provinces and Québec's English-speakers, in line with theoretical predictions. This change appears to hold for both men and women and to stem largely from weakened associations between wealth and marriage entry, alongside more modest reductions in the wealth gains of marriage among men in Québec. These results suggest that when marriage loses cultural centrality and is replaced by alternative union types, as it has in Québec, its link with wealth accumulation may weaken considerably.",
+  "raw_path": "01_raw/europepmc_xml/PMC13536532.xml",
+  "text_path": "02_text/europepmc/PMC13536532.txt",
+  "raw_bytes": 184609,
+  "text_chars": 75392,
+  "raw_sha256": "a721c59a3b98c2637c48468e81d597826e0e905563947bf11f4ac2bd872ac89e",
+  "text_sha256": "005ee06d13c2b27a93ad30a7f3feca6104d99ae2f829c4820b2c217df0ffba02",
+  "retrieved_at": "2026-10-25T13:49:18.090333+00:00"
+}

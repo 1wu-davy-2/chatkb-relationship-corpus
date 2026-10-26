@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11978825",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Immediate memory is associated with alexithymia in Chinese Han first-episode, drug-naïve major depressive disorder.",
+  "authors": "Tian X, Bai FF, Zhao YP, Gao Y, Wang YT, Liu Y, Zhang CH, Li MJ, Li J.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2025.1473204",
+  "pmcid": "PMC11978825",
+  "url": "https://europepmc.org/article/PMC/PMC11978825",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11978825/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "alexithymia"
+  ],
+  "abstract": "Background Alexithymia is defined as a difficulty in identifying and describing one's own emotions. It represents a risk factor for cognitive deficits and is frequently observed in individuals with depressive disorders. However, the relationship between alexithymia and neurocognitive function in major depressive disorder (MDD) is still unknown. This study aimed to explore the association between alexithymia and neurocognition in patients with MDD. Methods A total of 134 Chinese Han first-episode drug-naïve patients with MDD were recruited. The 20-item Toronto Alexithymia scale (TAS-20), the Repeatable Battery for the Assessment of Neuropsychological Status (RBANS), the 9-item Patient Health Questionnaire (PHQ-9) and the Generalized Anxiety Disorder-7 items (GAD-7) was used to assess alexithymia, neurocognitive functioning, and emotion. Multivariable liner regression models were used to estimate the association between alexithymia and neurocognition. Interaction and stratified analyses were conducted according to age, gender, marital and education status. Results Among the 134 patients with MDD, 55 participants (41%) had alexithymia. In the fully adjusted model, TAS total score (TAS-T) (β: -0.34, 95% CI: -0.61~ -0.07) and difficulty identifying feelings (DIF) (β: -0.8, 95% CI: -1.3~-0.31) were statistically significantly associated with immediate memory. Conclusions Higher level of alexithymia, particularly the difficulty identifying feelings facet, is associated with lower scores of immediate memory in patients with MDD.",
+  "raw_path": "01_raw/europepmc_xml/PMC11978825.xml",
+  "text_path": "02_text/europepmc/PMC11978825.txt",
+  "raw_bytes": 126936,
+  "text_chars": 28394,
+  "raw_sha256": "814688e2134f8975508e6726f1f71302c66001397be54a9b4960335da1a5b801",
+  "text_sha256": "0da428f157f73b4c46f052bddd1a9c351297c6e16549cae86a507ce57bf182e7",
+  "retrieved_at": "2026-10-25T15:30:51.336635+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6537270",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Invisibility Is Not Invincibility: The Impact of Intimate Partner Violence on Gay, Bisexual, and Straight Men's Mental Health.",
+  "authors": "Dickerson-Amaya N, Coston BM.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1177/1557988319849734",
+  "pmcid": "PMC6537270",
+  "url": "https://europepmc.org/article/PMC/PMC6537270",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6537270/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "Intimate partner violence (IPV) is a critical public health problem. However, there is limited research conducted on and about men who are survivors. This project extends previous research by examining the post-traumatic impact of diverse forms of IPV (sexual, physical, emotional, control, and stalking) on the internalized and externalized mental health of gay, bisexual, and straight men. Using data from the National Intimate Partner and Sexual Violence Survey (2011; N = 18,957), we find that all men are equally likely to report emotional victimization and controlling tactics (with between 50% and 70% doing so), while bisexual men are significantly more likely to report physical and sexual violence and gay men are significantly more likely to report intimate stalking. Due to these experiences, gay men are significantly more likely to report missing school or work, but bisexual men are significantly more likely to rate their current overall mental health as poor. Around 10% of all men, regardless of sexual orientation, report post-traumatic stress disorder symptomology and 30% of all men report difficulty sleeping. This research suggests that sexual orientation is a critical area of focus in the study of violence and mental health for men and that we can no longer ignore the voices and needs of men survivors: Invisibility is not invincibility.",
+  "raw_path": "01_raw/europepmc_xml/PMC6537270.xml",
+  "text_path": "02_text/europepmc/PMC6537270.txt",
+  "raw_bytes": 132551,
+  "text_chars": 38920,
+  "raw_sha256": "cf0d4a256f0c79a529f4ae9683316fe037ed6474358be0c0a0376786bdba2c00",
+  "text_sha256": "34e57a2c1c5e059d593991b15ad458f7c487be73b69c7e5ba4e864c67aab5174",
+  "retrieved_at": "2026-10-25T15:43:43.168482+00:00"
+}

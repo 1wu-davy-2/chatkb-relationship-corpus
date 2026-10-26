@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9634165",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Romantic relationship satisfaction and phubbing: The role of loneliness and empathy.",
+  "authors": "Zhan S, Shrestha S, Zhong N.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2022.967339",
+  "pmcid": "PMC9634165",
+  "url": "https://europepmc.org/article/PMC/PMC9634165",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9634165/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "This study investigates the effects of loneliness and empathy on romantic relationship satisfaction and phubbing. Loneliness plays a mediating role in romantic relationship satisfaction and phubbing. The level of empathy moderates these mediating effects. Five hundred and four Chinese adults completed tests of romantic relationship satisfaction, phubbing, loneliness, and empathy. The results show that romantic relationship satisfaction is negatively correlated with phubbing. Loneliness mediates this process. Specifically, lower romantic relationship satisfaction leads to more phubbing by increasing loneliness. Our study also shows that the mediating relationship is moderated by the level of empathy. To be more specific, the higher the level of empathy, the stronger the impact of romantic relationship satisfaction on loneliness, and the more phubbing individuals exhibit.",
+  "raw_path": "01_raw/europepmc_xml/PMC9634165.xml",
+  "text_path": "02_text/europepmc/PMC9634165.txt",
+  "raw_bytes": 139587,
+  "text_chars": 45475,
+  "raw_sha256": "f15e8247e670c063a1738bcc6080e4cb77fe1698dc852d6379c08beacfab2431",
+  "text_sha256": "1b0e22a055be08b85abdbbaf40e5ed7998c2531eeff175d341fc679a095caa7a",
+  "retrieved_at": "2026-10-25T15:36:35.243571+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12781369",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Association between exposure to pornography involving physical violence and risky sexual behaviors in young adults.",
+  "authors": "Sanz-Barbero B, Cerdán-Torregrosa A, Otero-García L, Pérez-Martínez V, Vives-Cases C.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s12889-025-25836-w",
+  "pmcid": "PMC12781369",
+  "url": "https://europepmc.org/article/PMC/PMC12781369",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12781369/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "Background Exposure to pornography shapes the acquisition of sexual scripts that are activated in a sexual relationship. These scripts are considered risky for sexual violence if they include impersonal sexual relationships, alcohol/drug use, and communication difficulties. The aim of this study is to analyze the association between the type of pornography consumed-classified by the level of violent content-and sexual behaviors linked to risky sexual scripts in young adult women and men in Spain. Methods Cross-sectional study of a survey conducted online with a sample of 18-34 year olds living in Spain (n = 3607). Dependent variables number of casual partners; frequency of sexual practices under the influence of alcohol/drugs; frequency of acceptance/rejection of unwanted/desired sexual practices. Main independent variable: type of pornography consumed (none; no explicit violence; domination/humiliation; physical violence). Covariates: sociodemographic variables, sexual orientation, sexual partners, and frequency of consumption, Marlowe-Crowne Scale. Analysis (a) Descriptive; (b) Analytical: generalized linear model for ordinal dependent variables (gologit2). The analyses were performed on the total sample and on the sample of consumers. All analyses were stratified by sex. Results In the last 12 months, 18.8% of sexually active women and 31.8% of sexually active men have had casual partners. 49.1% of women and 53.9% of men consumed alcohol or other drugs before or during sexual practices. 44.9% of women and 40.5% of men accepted unwanted sexual practices. In both sexes (referring to people who do not consume pornography), an association was identified between the consumption of pornography involving depictions of physical violence and a higher likelihood of having a higher number of casual partners (OR_women: 2.37; OR_men: 1.90), of consuming alcohol and/or other drugs before or during sexual practices (OR_women: 1.93; OR_men: 1.93) and, in women, of accepting unwanted sexual practices (OR_women: 1.30). Conclusion In both sexes, an association was identified between the consumption of pornography involving physical violence and sexual behaviors associated with risky sexual scripts. These findings, although the cross-sectional nature of the design does not allow for establishing causal relationships, underscore the need to implement policies that control access to pornography and promote a critical stance toward this practice.",
+  "raw_path": "01_raw/europepmc_xml/PMC12781369.xml",
+  "text_path": "02_text/europepmc/PMC12781369.txt",
+  "raw_bytes": 201491,
+  "text_chars": 50884,
+  "raw_sha256": "50249af19cd9cc5312f24b235a6febe952992934f1acbba80e58e82b468e2161",
+  "text_sha256": "3bb38943de3d389208922a6201cd5c6b072704f931baa346297b606bd397a7b0",
+  "retrieved_at": "2026-10-26T12:55:29.557435+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6615125",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Impact of group assertiveness-based sexual training on the quality of marital relationships among female university students.",
+  "authors": "Dastyar N, Sarasyabi AS, Shakiba M, Navidian A.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.4103/jehp.jehp_440_18",
+  "pmcid": "PMC6615125",
+  "url": "https://europepmc.org/article/PMC/PMC6615125",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6615125/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_communication"
+  ],
+  "abstract": "Background Sexual assertiveness plays a crucial role in the quality of sex, as well as in investigating and treating sexual problems. The purpose of this study was to determine the impact of assertiveness-based sexual training on the quality of marital relationships of married female students. Methods This quasi-experimental study was done in southeastern Iran in the academic year of 2017. A total of 80 married women were chosen from university students through convenience sampling, and they were assigned to the intervention ( n = 40) and control ( n = 40) groups. Data were collected using the Perceived Relationship Quality Components Inventory. For the intervention group, assertiveness-based sexual counseling was provided in four sessions (90-120 min each session). The posttest was performed 12 weeks after the last counseling session. Independent t -test and covariance analysis were employed to analyze data using SPSS version 21 software. Results After the intervention, the two groups revealed a significant difference in their respective mean total score of the quality of various dimensions of marital relationships ( P = 0.0001). This indicates that assertiveness-based sexual counseling has improved this mean total score in the intervention group compared to the control group. Conclusion Given the positive impact of assertiveness-based sexual training on the quality of students' marital relationships, the integration of sexual training with focus on assertiveness in usual sexual counseling will help therapists to improve the quality of marital relationship from the perspective of women.",
+  "raw_path": "01_raw/europepmc_xml/PMC6615125.xml",
+  "text_path": "02_text/europepmc/PMC6615125.txt",
+  "raw_bytes": 61516,
+  "text_chars": 23110,
+  "raw_sha256": "50d052bd7cbcd367f67a213c2bed891674acb858c0f5ce257a5d29375bc27d3b",
+  "text_sha256": "65c30e6c353b5a08fe235c7be7e40ab1f4772f9d0cfee026eb4d6debb494c697",
+  "retrieved_at": "2026-10-25T15:35:48.028252+00:00"
+}

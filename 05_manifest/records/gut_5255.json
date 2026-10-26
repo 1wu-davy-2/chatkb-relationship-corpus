@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_5255",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "The Book of Good Manners; a Guide to Polite Usage for All Social Functions",
+  "gutenberg_id": "5255",
+  "url": "https://www.gutenberg.org/ebooks/5255",
+  "download_url": "https://www.gutenberg.org/cache/epub/5255/pg5255.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/5255.txt",
+  "text_path": "02_text/gutenberg/gut_5255_the_book_of_good_manners_a_guide_to_poli.txt",
+  "raw_bytes": 377773,
+  "text_chars": 297212,
+  "text_sha256": "33e922c4361887d59826f7795b17fab11f37413124f9815d0983b2bd1ace5f62",
+  "retrieved_at": "2026-10-25T15:55:11.091024+00:00"
+}

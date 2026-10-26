@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13331002",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Housing precarity and mental health among shoebox house residents in Hong Kong: latent profile analysis of perceived social support and its associations with loneliness, depression, anxiety and stress.",
+  "authors": "Chan YC, Huang YF, Chen Y, Lai Y, Lam F, Chan JHY, Chung SK, Yu WH, Wong LT, Sin HF, Wong EL.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1136/bmjph-2025-004685",
+  "pmcid": "PMC13331002",
+  "url": "https://europepmc.org/article/PMC/PMC13331002",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13331002/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "Introduction Perceived social support is vital for mental health, yet person-centred configurations of support remain understudied in housing-precarious populations. This study investigated perceived social support profiles among residents of subdivided units (SDU) in Hong Kong and their associations with sociodemographic characteristics and mental health. Methods In a cross-sectional sample of 1194 SDU residents recruited via local non-governmental organisations and project promotion activities, perceived social support was measured using the Chinese version of the Multidimensional Scale of Perceived Social Support (12 items; 7-point Likert scale; a =0.937 for family, a =0.941 for friends and a =0.935 for significant others, such as spouse and romantic partners). Latent profile analysis was conducted to identify distinct support profiles, with profile selection guided by the Akaike information criterion, Bayesian information criterion (BIC), sample-size adjusted BIC, entropy, Lo-Mendell-Rubin test and bootstrap likelihood ratio test. We also examined sociodemographic predictors, including age, sex, education, years living in an SDU, household income and residency status as well as mental health outcomes, including loneliness, depression, anxiety and stress. Results Six social support profiles were identified: Strongly supported (32.2%), kin anchored (4.5%), more supported (23.7%), less supported (17.1%), socially strained (11.1%) and minimally supported (11.5%). Age, educational level, years living in an SDU and household income were found to predict social support profiles. Strongly supported residents scored lower on loneliness, depression, anxiety and stress. Notably, those with the highest family support but low friends and significant others' support exhibited similarly good mental health outcomes as those with high support from all three sources. Conclusion The findings highlight the need for systematic assessment of social isolation and targeted interventions strengthening both kin and community support (eg, integrating family support groups in transitional houses) for mental health initiatives aimed at housing-precarious populations.",
+  "raw_path": "01_raw/europepmc_xml/PMC13331002.xml",
+  "text_path": "02_text/europepmc/PMC13331002.txt",
+  "raw_bytes": 147125,
+  "text_chars": 38701,
+  "raw_sha256": "7f44e0960e336c53f91992d6b36d2bb0b20dbb9e345fa532e32f7aa8577ee0d1",
+  "text_sha256": "9b43ba097d9a719f62c53511d3139ecb0185e05ab92ec59136914dec03142082",
+  "retrieved_at": "2026-10-25T15:37:18.353383+00:00"
+}

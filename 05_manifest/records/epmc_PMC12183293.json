@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12183293",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship stigma negatively impacts the relationship quality of trans women.",
+  "authors": "Schuler ES, Sharp PC, Fasan ON, McNeal AJ, Zajkowski TY, Saxena V, Xu A, Suprasert B, Arayasirikul S, Marr AJ, Taylor KD, McFarland W, Wilson EC.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fgwh.2025.1533060",
+  "pmcid": "PMC12183293",
+  "url": "https://europepmc.org/article/PMC/PMC12183293",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12183293/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "Background Trans women face negative health outcomes due to multiple types of anti-trans stigma. Relationship stigma, or when people experience stigma because their romantic partnerships are devalued by society, can negatively impact experiences in relationships of trans women. Relationships and their quality are important predictors of wellness across populations, but little is known about relationship quality for trans women. This study was conducted to determine whether relationship stigma is associated with relationship quality for trans women with main partners. Methods This is a secondary analysis of data from 89 trans women with main partners enrolled in the 2020 Partners Study, an online, interviewer-administered, cross-sectional survey of trans women in the San Francisco Bay Area. Multivariate logistic was used to test for an association between relationship stigma and relationship quality among trans women with main partners. Results The trans women surveyed were White (29.2%), Latinx (24.7%), or multiracial (23.6%), with the majority having never been married (65.2%). Those who often felt they must hide their partnerships had significantly lower odds of reporting satisfaction with intimacy and closeness in their relationships [odds ratio (OR): 0.07; 95% confidence interval (CI): 0.01-0.68, p = 0.02] and of reporting satisfaction with their overall relationship (OR: 0.02; 95% CI: 0.02-0.34, p p = 0.04) and of reporting satisfaction with their overall relationship (OR: 0.08; 95% CI: 0.00, 0.51, p = 0.01). Conclusions Relationship stigma was negatively associated with relationship quality for trans women with main partners in this study. Stigma from family also had a significant negative impact on relationship quality, suggesting the important influence of family on trans women's relationships. Efforts to boost family support may foster intimacy and improve relationship satisfaction for trans women in main partnerships.",
+  "raw_path": "01_raw/europepmc_xml/PMC12183293.xml",
+  "text_path": "02_text/europepmc/PMC12183293.txt",
+  "raw_bytes": 97225,
+  "text_chars": 27584,
+  "raw_sha256": "8ccd946df029f3d95e632c6dbaf955a0369da228dc7dbf80bdf63f411e02e7ca",
+  "text_sha256": "b25af0e58ab1d8e60a9b9a34c3fb4142c6a598072e9b1913ddcdc73665d4b9c2",
+  "retrieved_at": "2026-10-25T15:37:27.028741+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_monogamy",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "單配偶制",
+  "requested_title": "一夫一妻制",
+  "url": "https://zh.wikipedia.org/wiki/%E5%96%AE%E9%85%8D%E5%81%B6%E5%88%B6",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "marriage",
+    "society"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/monogamy.json",
+  "text_path": "02_text/zh_wikipedia/monogamy.txt",
+  "raw_bytes": 7920,
+  "text_chars": 2907,
+  "text_sha256": "57832390e4d6cd7f4a19d3f433ce43f4995e9c515d09439fef88b198cf8fd960",
+  "retrieved_at": "2026-10-25T15:36:09.244783+00:00"
+}

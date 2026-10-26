@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_33716",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Manners and Rules of Good Society; Or, Solecisms to be Avoided",
+  "gutenberg_id": "33716",
+  "url": "https://www.gutenberg.org/ebooks/33716",
+  "download_url": "https://www.gutenberg.org/cache/epub/33716/pg33716.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/33716.txt",
+  "text_path": "02_text/gutenberg/gut_33716_manners_and_rules_of_good_society_or_sol.txt",
+  "raw_bytes": 488088,
+  "text_chars": 435776,
+  "text_sha256": "36c8a7786ea84263a63c1d4d61bf122e0ed1b4a437a91f8d18a2399a905b83de",
+  "retrieved_at": "2026-10-25T15:45:53.641783+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11743556",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A research-driven flowchart to approach change in couples.",
+  "authors": "Capozzi F.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2024.1438394",
+  "pmcid": "PMC11743556",
+  "url": "https://europepmc.org/article/PMC/PMC11743556",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11743556/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "In most cases, couple therapists systemically see couples' distress as the result of reciprocal maladaptive patterns to which each partner contributes. Yet, therapists can struggle to share with the couple such a relational understanding of their distress and identify goals for change accordingly, as structured, step-by-step methods are not available in the extant literature. This perspective paper reviews research across various domains of relationship science to summarize cohesively the best practices for goal identification in a step-by-step flowchart. The flowchart is divided into three main areas, derived from the available literature: establishing couple therapy appropriateness, determining general goals, and conceptualizing specific goals from a systemic perspective. Aimed at facilitating training, the resulting recommendations will broadly support a goal-focused approach to systemic assessment.",
+  "raw_path": "01_raw/europepmc_xml/PMC11743556.xml",
+  "text_path": "02_text/europepmc/PMC11743556.txt",
+  "raw_bytes": 106803,
+  "text_chars": 24762,
+  "raw_sha256": "450605d9b7ab04239395757957013c9036b3306915eaaf3684692f4c005f77b8",
+  "text_sha256": "385a2e09caf739a4a4259909bc4a943fc0407301b7fd235b5e2d0a4f3e7dde51",
+  "retrieved_at": "2026-10-25T15:45:43.883656+00:00"
+}

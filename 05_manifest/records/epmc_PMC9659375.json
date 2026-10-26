@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9659375",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Initial impressions of compatibility and mate value predict later dating and romantic interest.",
+  "authors": "Baxter A, Maxwell JA, Bales KL, Finkel EJ, Impett EA, Eastwick PW.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1073/pnas.2206925119",
+  "pmcid": "PMC9659375",
+  "url": "https://europepmc.org/article/PMC/PMC9659375",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9659375/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Romantic first impressions seem to linger, but why? Few studies have investigated how romantic desire during initial interactions predicts later relational outcomes (e.g., later romantic interest, contact attempts) using a design that can tease apart different possible mechanisms (e.g., mate value, selectivity, compatibility). Across three speed-dating studies ( n = 559) with longitudinal follow-ups (including college and community samples, and a sample of men who date men), we investigated whether different components of initial romantic impressions predicted later romantic outcomes and relationship initiation. Using the social relations model, we partitioned initial desire at speed dating (determined from 6,600+ total dates) into partner effects (a date's consensual desirability, e.g., mate value), actor effects (a participant's general desirousness, e.g., selectivity), and relationship effects (a participant's unique liking for a date over and beyond partner and actor effects, e.g., compatibility) to predict later evaluations (romantic interest, physical attraction, and desire to know better) and behaviors (direct messaging and going on dates). Meta-analyses across the three studies showed that, across 6,100+ follow-up reports, partner and relationship effects were especially strong predictors of relationship initiation variables. Consistent with evolutionary models of human pair bonding, these findings suggest that both consensually desirable traits and unique impressions of compatibility have lingering effects on relationship development, even from the moment that two potential partners meet.",
+  "raw_path": "01_raw/europepmc_xml/PMC9659375.xml",
+  "text_path": "02_text/europepmc/PMC9659375.txt",
+  "raw_bytes": 123970,
+  "text_chars": 45093,
+  "raw_sha256": "663f68acb17026ce48a3df2984a7113447e4a58b0a900b1448faad778a13720e",
+  "text_sha256": "b5a412a088ab6b0cda50b88fac20384e445835fa441474c6098db6888206708e",
+  "retrieved_at": "2026-10-25T15:35:52.176179+00:00"
+}

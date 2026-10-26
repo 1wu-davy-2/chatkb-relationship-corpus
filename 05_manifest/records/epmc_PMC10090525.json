@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10090525",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Men's Reflections on Romantic Jealousy and Intimate Partner Violence in Mwanza, Tanzania.",
+  "authors": "Aloyce D, Stöckl H, Malibwa D, Peter E, Mchome Z, Dwarumpudi A, Buller AM, Kapiga S, Mshana G.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/10778012221108421",
+  "pmcid": "PMC10090525",
+  "url": "https://europepmc.org/article/PMC/PMC10090525",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10090525/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Romantic jealousy is a prominent trigger for intimate partner violence. Yet, there are few studies on this relationship in sub-Saharan Africa and none captures men's perspectives. To expand the existing knowledge on romantic jealousy and its relation to intimate partner violence, our study analyzed 30 in-depth interviews with male participants. Triggers of romantic jealousy included suspicion or confirmed infidelity, reduced attention from their partners, and challenges to male supremacy. Men reported that intimate partner violence was a frequently used response to triggers of romantic jealousy. Social norms and inequitable gender norms were key underlying factors to all those triggers.",
+  "raw_path": "01_raw/europepmc_xml/PMC10090525.xml",
+  "text_path": "02_text/europepmc/PMC10090525.txt",
+  "raw_bytes": 100430,
+  "text_chars": 47156,
+  "raw_sha256": "cae0a4b7d4bc99ac05f04668cee580fbf3c13c4c2e3a401e3a224bfbd8f16ada",
+  "text_sha256": "cfad4c3d416727d9d16445b08520030dc34bf8ea19b050a1208cf35ec88a4232",
+  "retrieved_at": "2026-10-25T15:34:28.046846+00:00"
+}

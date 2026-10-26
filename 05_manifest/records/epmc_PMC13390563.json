@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13390563",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Single Versus Multiple Intimate Partner Violence Relationships: Current Severity of Psychological Distress Among Romantic Partners.",
+  "authors": "Hurd JA, Giff ST, Hall E, Thomas M, Noblejas-Guloy R, Flanagan JC.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1002/jclp.70179",
+  "pmcid": "PMC13390563",
+  "url": "https://europepmc.org/article/PMC/PMC13390563",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13390563/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Objective Experiencing multiple relationships with intimate partner violence (IPVRs) in one's lifetime is linked to poorer mental health outcomes. However, associations among multiple IPVRs, depression symptoms, and posttraumatic stress symptoms (PTSS) have primarily been tested with individual women. The present study examines whether experiencing multiple physical IPVRs, compared to a singular physical IPVR, is associated with greater severity of depression symptoms and PTSS among a sample of romantic couples. We also explored whether gender or current physical IPV victimization severity moderates these associations. Methods A subsample of 116 romantic partners reporting at least one physical IPVR was drawn from a larger study of dyads reporting alcohol use disorder and IPV in their current relationship. Two multilevel models tested associations among multiple physical IPVRs, gender, and current IPV victimization severity with depression symptoms and PTSS while controlling for the interdependence of the dyadic sample and alcohol problem severity. Results Experiencing multiple physical IPVRs, compared to a singular physical IPVR, was related to greater depression symptoms and PTSS, respectively. Alcohol problem severity was also related to greater PTSS. There were no significant associations among gender or current physical IPV severity with depression symptoms or PTSS, nor any significant interactions between these variables and single versus multiple physical IPVRs with depression symptoms or PTSS. Conclusion These findings emphasize the value of examining physical IPV and psychological outcomes in a dyadic context. Prevention and intervention efforts for those who experience multiple physically violent relationships may be valuable for both men's and women's psychological health. Clinical trial registration NCT03046836 (https://clinicaltrials.gov/study/NCT03046836).",
+  "raw_path": "01_raw/europepmc_xml/PMC13390563.xml",
+  "text_path": "02_text/europepmc/PMC13390563.txt",
+  "raw_bytes": 101695,
+  "text_chars": 34054,
+  "raw_sha256": "83e2a33bb973a167031c8233cf675bca25a8bb849f0592380b411cd230bc6966",
+  "text_sha256": "29cf5396ae7af7ac5c96817b13b9a21ddea632abf9a8e97c3ad0faf6fa467c2f",
+  "retrieved_at": "2026-10-25T15:46:31.697604+00:00"
+}

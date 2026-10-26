@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_intimate_partner_violence",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "親密暴力",
+  "requested_title": "親密暴力",
+  "url": "https://zh.wikipedia.org/wiki/%E8%A6%AA%E5%AF%86%E6%9A%B4%E5%8A%9B",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "abuse",
+    "safety"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/intimate_partner_violence.json",
+  "text_path": "02_text/zh_wikipedia/intimate_partner_violence.txt",
+  "raw_bytes": 1890,
+  "text_chars": 732,
+  "text_sha256": "0736ed143b280ddf164ef06f23d29e2bb0322c7f59e9fcffbdb71030c00a573b",
+  "retrieved_at": "2026-10-25T16:00:01.233304+00:00"
+}

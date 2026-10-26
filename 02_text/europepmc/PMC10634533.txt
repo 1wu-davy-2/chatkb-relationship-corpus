@@ -1,0 +1,156 @@
+TITLE: Relationship of widowhood with pulse pressure, fasting blood glucose, and mental health in older adults: a propensity matching score analysis.
+AUTHORS: Zhang Y, Chen X, Sun Y, Feng S, Wang F, Gu H, Jia H, Zhang Q, Ding W, Lu H, Zhang J.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3389/fpubh.2023.1257133
+PMCID: PMC10634533
+LICENSE: cc by
+LICENSE_URL: https://creativecommons.org/licenses/by/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC10634533
+TOPICS: widowhood
+
+---
+
+ABSTRACT
+BackgroundTransitioning from marriage to widowhood presents inevitable and significant challenges for many older adults. This study explored the impact of widowhood on a range of mental health outcomes, including pulse pressure and fasting blood glucose levels, among older adults in nursing homes.MethodsThis cross-sectional study utilized cluster random sampling to recruit participants, with data analyzed from 388 older Chinese adults. Psychosocial traits were assessed using the Perceived Social Support from Family scale (PSS-Fa) for family support, the Generalized Anxiety Disorder 7-item scale (GAD-7) for anxiety symptoms, and the 9-item Patient Health Questionnaire (PHQ-9) for depressive symptoms and suicidal ideation. Propensity score matching (PSM) was employed to control for confounding factors. A multivariate linear regression analysis was performed to explore the relationship between widowhood, mental health outcomes, pulse pressure, and fasting blood glucose levels.ResultsAfter applying PSM, the sample size was refined to 268 (N = 134 for both married and widowed groups) from the initial 388, excluding 120 unmatched cases. Widowed older adults were found to have notably lower family support (β = −0.81, p = 0.002), increased depressive symptoms (β = 1.04, p = 0.043), elevated pulse pressure (β = 8.90, p < 0.001), and higher fasting blood glucose levels (β = 3.22, p = 0.027). These associations exhibited greater beta values compared to pre-matching analysis.ConclusionOur findings revealed that widowed participants had reduced family support, an increased risk of depressive symptoms, heightened pulse pressure, and elevated fasting blood glucose in comparison to their married counterparts. Interventions focusing on social support, mental health, and cardiovascular well-being could be advantageous for this at-risk group.
+
+BODY
+Introduction
+
+In recent years, a noticeable global trend of population aging has emerged, underpinned by advances in longevity and declining mortality rates (1). By 2030, it’s projected that over 1 billion individuals globally will be classified as older adults (2). Guo’s research suggests that China will witness a surge in its aging population by 2050, where those aged 60 and above will constitute approximately a quarter of its total populace (3). This demographic shift is primarily due to China’s one-child policy (4) coupled with the contemporary aspirations of younger couples prioritizing education and professional growth (5). Consequently, many families grapple with the challenge of adequately caring for their older adults loved ones, leading a significant portion of this aging population to opt for nursing home residency (6). However, it’s concerning to note that individuals in nursing homes tend to report higher instances of psychological distress than their counterparts living within family homes, often stemming from a lack of autonomy and the absence of close familial bonds (7). Recognizing and proactively addressing these issues is paramount to fostering a holistic, supportive environment in nursing homes, which is crucial for the overall well-being and mental health of older adults.
+
+Widowhood stands out as a substantial determinant influencing the health of older individuals (8, 9). As couples age, the probability of encountering widowhood naturally increases. Data from a 2000 census spanning several countries, including the United Kingdom, Italy, Finland, France, Greece, Australia, and Russia, has revealed that the proportion of widowed older adults women fluctuates between 52.8% and 65% (10). Drawing from the Sixth National Population Census of China, it’s discerned that the widowed older adults demographic in China amounts to 47.74 million, representing 26.89% of the country’s total older adults population. As the dynamics of an aging society continue to evolve, projections suggest that by 2050, the number of widowed individuals in China can soar to an astounding 118.4 million (11).
+
+Transitioning from marriage to widowhood is an inescapable and formidable journey that many older adults endure. In later life, widows and widowers emerge as a particularly susceptible group burdened by the profound stress of bereavement. This can manifest in intense grief and financial strains (12). A wealth of research indicates that widowhood correlates with a heightened susceptibility to various health complications, encompassing illnesses, mental health disturbances, disability, and even increased mortality (13–15). A community-oriented cross-sectional survey from China has found that widowed individuals are more prone to manifest symptoms of somatization and phobic anxiety (16). Echoing this, Amato’s Divorce-Stress-Adjustment Perspective elucidates that widowhood ushers in a multitude of stressors, intensifying the probability of emotional, behavioral, and health afflictions (17). Given this context, it becomes imperative for society at large, as well as policymakers and institutions, to champion the mental health and holistic well-being of China’s older adults.
+
+Historically, the relationship between diverse variables in research has largely been scrutinized using linear or logistic regression models. Yet, in comparison to randomized controlled trials (RCTs), these models offer only a modicum of control over confounding elements. Addressing this gap, recent methodologies advocate for propensity score matching (PSM) analysis (18, 19). PSM aims to equilibrate covariate distributions by segmenting samples into treatment and control cohorts, allocating propensity scores grounded in initial socio-demographic variables (20). Subsequent to this, unmatched samples are discarded, retaining matched samples for the final analytical phase. Despite its potential, the adoption of PSM as an analytical tool remains scant.
+
+In the existing literature, the focus has predominantly converged on the repercussions of widowhood on mental health dimensions, such as depressive manifestations or suicidal tendencies in the older adults (14, 21, 22). Yet, a discernible research void persists regarding widowhood’s bearing on facets like family support. Concurrently, there’s a noticeable dearth of studies probing the nexus between widowhood and parameters like pulse pressure (PP) and fasting blood glucose, particularly among older Chinese individuals. These metrics are pivotal; elevated PP not only taxes the heart, heightening the susceptibility to cardiovascular incidents but also fosters arterial degradation, amplifying atherosclerotic risks (23, 24). Fasting blood glucose, a barometer of blood sugar post a fasting interval, is instrumental in diabetes risk evaluation. Ascendant levels portend an augmented risk of diabetes onset and cardiovascular complications (25, 26).
+
+In this study, we aimed to achieve several specific goals. First, we explored the effect of widowhood on mental health, especially regarding family support, among older adults in nursing homes. Second, we examined how widowhood affected physiological indices, including PP and fasting blood glucose levels. Finally, we evaluated the efficacy of PSM in controlling for confounders by comparing outcome differences between the pre-PSM and post-matching stages.
+
+Materials and methods
+
+Participants and procedures
+
+We conducted a cross-sectional study using cluster random sampling to assess older adults in nursing homes. Based on economic classifications within Nantong City, four nursing homes were randomly selected as our survey sites. From March 3 to March 25, 2023, participants were recruited from the following nursing homes in Nantong City, Jiangsu Province, China: Nantong Yincheng Health Care Hospital, Nantong Sunshine Nursing Home, OlderYiyuan, and Nantong Sunshine New City Rehabilitation Nursing Home.
+
+Our survey utilized the Wenjuanxing Software, a prominent online questionnaire platform. A trained researcher elucidated the study’s purpose to each participant before distributing our questionnaire link. Emphasizing anonymity, participants were encouraged to fill out the questionnaire autonomously, with the freedom to contact our researchers for any survey-related questions. Participants were also informed of their rights, including the option to withdraw from the survey at any point. Typically, it took most participants around 15 min to complete the questionnaire.
+
+Eligible participants for the survey were those aged 60 years or older, residing in one of the four selected nursing homes, without major mental illnesses, and who were willing to provide written informed consent. Conversely, individuals who felt overwhelmed by the questionnaire and opted to discontinue midway or did not disclose their marital status were excluded. The cross-sectional survey formula was applied to calculate the sampling as follows:
+
+Z1−∂/2 is the statistical value for significance testing, where α = 0.05 and its value is 1.96. p is the prevalence rate of outcome variables, where q = 1−p and d is the allowable error, where d = 0.2p. Prior research indicates that the prevalence rate of outcome variables in older adults spans between 26.6% and 48.0% (27, 28). For our calculations in this study, we used the lower threshold of 26.6%, necessitating a sample size of at least 292 subjects when accounting for a 10% non-response rate.
+
+Of the 602 older individuals surveyed, 506 questionnaires were fully completed, reflecting a response rate of 84.1%. Importantly, 118 older adults did not specify their marital status. Given our study’s focus on married and widowed individuals, these respondents were excluded from the final analysis. Consequently, our analysis encompassed 388 older adults: 239 married and 149 widowed. The average age of this cohort was 83.97 years, with a standard deviation (SD) of 7.19 years.
+
+Ethical approval for this study was granted by the Ethics Committee of Nantong First People’s Hospital under the identification number 2023KT091.
+
+Measures
+
+Basic socio-demographic variables
+
+We gathered essential socio-demographic information from participants, which included age, sex, ethnicity, marital status, residence, monthly income, and educational level. Additionally, we measured the height and weight of each participant to determine their body mass index (BMI) [BMI = Weight (kg) /Height2 (m2)]. The BMI scores were then categorized into four groups: underweight (< 18.5), normal (18.5–24.9), overweight (25.0–29.9), and obese (≥ 30.0).
+
+Family support
+
+Family support was gauged using the Perceived Social Support from Family scale (PSS-Fa) (29). This scale consists of 15 items, each requiring a response of “yes” (scored as 1) or “no” (scored as 0). The overall score can range between 0 and 15, where a higher score signifies greater perceived family support. In our study, the PSS-Fa demonstrated good internal consistency, reflected by Cronbach’s α coefficient of 0.75.
+
+Anxiety symptoms
+
+To evaluate anxiety symptoms, we employed the Generalized Anxiety Disorder 7-item scale (GAD-7). This scale consists of seven items, with participants responding to each on a four-point Likert scale: from “not at all” (scored as 0) to “nearly every day” (scored as 3). By summing the scores of individual items, total scores can range from 0 to 27, where higher scores denote more pronounced anxiety symptoms. In this study, the GAD-7 exhibited excellent internal consistency, as evidenced by Cronbach’s α coefficient of 0.94.
+
+Depressive symptoms
+
+We used the 9-item Patient Health Questionnaire (PHQ-9), developed by Kroenke et al. (30), to assess depressive symptoms. This questionnaire features nine items, and participants indicate the frequency of each symptom over the past 2 weeks, ranging from “not at all” (scored 0) to “nearly every day” (scored 3). The PHQ-9’s total score, which can vary from 0 to 27, is obtained by summing individual item scores, with higher values indicating more severe depressive symptoms. In our study, the PHQ-9 exhibited excellent internal consistency, reflected by Cronbach’s α coefficient of 0.91.
+
+PP and fasting blood glucose
+
+In this study, systolic blood pressure (SBP) and diastolic blood pressure (DBP) were measured for participants seated after resting for at least 5 min using a mercury column sphygmomanometer. PP was calculated as the difference between SBP and DBP, with the formula PP = SBP − DBP. Fasting blood glucose levels adhered to WHO recommendations, taken after an 8–12 h overnight fast using an Accu-Chek Performa glucometer. Participants were informed about the study during their routine care, ensuring they were prepared for the fasting requirement.
+
+Statistical analysis
+
+Descriptive analysis
+
+Descriptive analyses expressed qualitative data as numbers and percentages (N/%), while quantitative data were presented as mean ± SD. To examine differences in basic socio-demographic variables based on marital status, we employed the chi-square test and t-test.
+
+PSM analysis
+
+To account for potential confounders, we employed PSM analysis to align baseline socio-demographic characteristics, including age, sex, residency, education level, monthly income, and BMI. In our study, the experimental group comprised married individuals, whereas the control group consisted of widowed individuals. We implemented nearest neighbor matching with a caliper set at 0.05 and maintained a 1:1 ratio for cases to controls.
+
+Multivariate linear regression
+
+We employed multivariate linear regression models to evaluate the effect of marital status on mental health outcomes, PP, and fasting blood glucose, both pre- and post-matching. The models also incorporated basic socio-demographic covariates. In these analyses, widowhood served as the independent variable (x-variable), while the dependent variables (y-variables) were mental health outcomes, PP, and fasting blood glucose.
+
+For PSM analysis, we used R version 4.0.2. All other statistical analyses were conducted using SPSS version 21.0. A p-value of 0.05 (two-tailed) was the threshold for statistical significance in this study.
+
+Results
+
+General characteristics of older adults
+
+As shown in Table 1, all participants belonged to the Han ethnicity. The sample included 242 females, accounting for 62.4% of the cohort. A majority, 298 older individuals (76.6%), were married. Furthermore, 117 participants (30.2%) reported a monthly disposable income in the range of 3,001–6,000 yuan. Notably, 127 (32.7%) of these older adults presented with varying levels of BMI abnormalities while residing in Chinese nursing homes.
+
+Socio-demographic characteristics and key variables outcomes of participants (N = 388).
+
+The performance of PSM analysis and its outcomes
+
+In our PSM analysis, we designated married older individuals as the control group and compared them with their widowed counterparts in the treatment group. Figure 1 illustrates the propensity score distributions for both unmatched and matched samples. Notably, the total sample size diminished from 388 to 268, with 134 individuals each in the married and widowed categories, leading to the exclusion of 120 unmatched cases.
+
+The distribution of propensity score before and after PSM analysis.
+
+Before matching, the basic socio-demographic characteristics had an absolute standardized mean difference of 0.533. This difference decreased substantially to 0.016 after matching, indicating an excellent covariate balance in the post-matching samples (Figure 2). Additionally, chi-square and t-test results for these socio-demographic characteristics, categorized by marital status both pre- and post-matching, further validated the effectiveness of our PSM analysis. This efficacy was evidenced by the notable reduction in chi-square/T-value and p-value (Table 2).
+
+The absolute standardized mean difference before and after PSM analysis.
+
+The socio-demographic characteristics of participants before and after PSM between married and widowed older adults.
+
+The relationship between marital status and mental health outcomes, PP, and fasting blood glucose
+
+Figure 3 delineates the interplay between marital status and the outcomes of mental health, PP, and fasting blood glucose among older residents of Chinese nursing homes, both prior to and subsequent to the matching process. In the pre-matching phase, after adjusting for socio-demographic covariates using multivariate linear regression models, widowed older individuals exhibited a notably elevated risk in PP (β = 8.00, p < 0.001), fasting blood glucose levels (β = 0.24, p = 0.039), and a reduction in perceived family support (β = −0.66, p = 0.003). Nevertheless, marital status did not exhibit a substantial link with either anxiety or depressive symptoms.
+
+The effect of widowhood on PP, fasting blood glucose, and mental health in older adults before and after PSM analysis.
+
+Post the PSM process, a commendable balance was achieved in all covariates between the married and widowed cohorts. The outcomes of the multivariate linear regression models in this phase diverged from their pre-matching counterparts, presenting augmented beta values. Notably, being widowed was significantly correlated with diminished family support (β = −0.81, p = 0.002), elevated depressive symptoms (β = 1.04, p = 0.043), increased PP (β = 8.90, p < 0.001), and heightened fasting blood glucose levels (β = 3.22, p = 0.027).
+
+For a comprehensive understanding of how socio-demographic covariates impact the primary outcome variables, kindly refer to the Supplementary material provided.
+
+Discussion
+
+In our study focusing on older individuals in Chinese nursing homes, we elucidated the profound impact of widowhood on PP, fasting blood glucose, and mental health. Through the adept application of PSM analysis, we effectively controlled for confounding factors. Our findings were striking: widowhood considerably influenced mental health, manifesting as decreased family support (β = −0.81, p = 0.002) and heightened depressive symptoms (β = 1.04, p = 0.043). Physiologically, it correlated with increased PP (β = 8.90, p < 0.001) and elevated fasting blood glucose levels (β = 3.22, p = 0.027). The meticulous contrast between pre- and post-matching phases underscored the efficacy of PSM in ensuring covariate balance, bolstering the credibility of our results.
+
+Our study sheds light on the impact of widowhood on mental health outcomes
+
+We identified a notable link between widowhood and decreased family support among older individuals in nursing homes, though no significant relationship with anxiety symptoms emerged. This association emphasized the possible social and emotional challenges confronting widowed seniors, and this trend persisted in both pre-PSM and post-PSM analyses. Given the pivotal role of family in Chinese culture, a spouse’s loss can drastically alter the family support dynamics, subsequently affecting the individual’s well-being (31). Echoing prior studies (31–33), our data demonstrated a significant correlation between depressive symptoms and widowhood. It’s apparent that seniors living alone often lack regular interactions with family or friends, potentially escalating feelings of isolation and subsequent depression (34, 35).
+
+While many studies highlight widowhood’s impact on anxiety (36–38), our findings aligned with alternative research, such as Sonja’s study in Zadar, suggesting no direct link between widowhood and anxiety (39). This divergence can arise from multiple factors, including the widowhood duration considered. The emotional repercussions and coping strategies may evolve with time after a spouse’s loss, affecting the onset of anxiety symptoms (40). To deepen our understanding, future investigations should consider the timeline of widowhood in relation to mental health trajectories.
+
+Our study sheds light on the impact of widowhood on adverse physiological changes
+
+Our findings indicated a strong link between widowhood and elevated PP in older adults nursing home residents (β = 8.90, p < 0.001). While prior studies have extensively studied the widowhood-hypertension connection with inconclusive results, the focus on PP has been limited. Liu’s research has highlighted widowhood as a significant hypertension risk in older Chinese individuals (41). Conversely, Randa’s study suggests that divorced or separated women have lower blood pressure compared to married women (40). Our study, pointing to a marked rise in PP in widowed individuals, echoed sentiments that emotional distress and lifestyle upheavals linked with widowhood can lead to cardiovascular complications (42). This reiterates the necessity for cardiovascular monitoring and interventions tailored for the widowed older adults.
+
+On fasting blood glucose levels, we found a considerable association between widowhood and elevated glucose levels. This finding aligned with the idea of widowhood being linked to prediabetes (43). Potential dietary shifts, reduced physical activity, and heightened stress commonly experienced post-widowhood may drive metabolic disruptions (43, 44). Significantly, post-PSM linear regression revealed a heightened effect coefficient relative to pre-PSM analysis. By adeptly controlling confounding variables like age, sex, and BMI through PSM, we could precisely gauge the real impact of widowhood on fasting blood glucose levels while maintaining covariate equilibrium. This discovery stressed the imperative for interventions focused on diabetes management and prevention in widowed seniors.
+
+PSM analysis techniques show effective control for confounding factors
+
+Our study underscored the importance of PSM as an instrumental technique for managing covariate characteristics. By leveraging PSM, we enhanced the comparability between the married and widowed older residents in Chinese nursing homes, especially in relation to baseline socio-demographic attributes. Prior literature has emphasized the influence of such socio-demographic variables on the widowhood-health nexus in the older adults (45, 46). For instance, studies have indicated that widowed men exhibit higher depression levels than their female counterparts (45), while women seem to better acclimate to singlehood (46).
+
+The ‘marriage resource model’ posits that marriage endows individuals with economic, social, and psychological benefits, which collectively uplift health and extend well-being (47, 48). This crucial facet, however, has often been overlooked in previous investigations. In our analysis, the initial absolute standardized mean difference for basic socio-demographic characteristics stood at 0.533. But with PSM application, this difference substantially narrowed to 0.016, signifying a notable covariate balance in our post-matching samples. The subsequent χ2 and T values, which assessed socio-demographic attributes based on marital status pre- and post-matching, reinforced the efficacy of our PSM application in achieving this balance. This enhanced comparability allowed for a refined assessment in our linear regression models, where we observed distinct coefficients and beta values before and after matching. In essence, integrating PSM in observational research amplified statistical precision, bolstering the credibility and robustness of the derived conclusions.
+
+There are several limitations to consider in this study. First and foremost, the cross-sectional nature of our data hindered the determination of causal links between the variables. To bolster our findings, subsequent studies should lean towards longitudinal designs, providing a more nuanced lens into the temporal relationships between variables. Second, while the use of PSM mitigated the influence of several socio-demographic variables, it’s crucial to recognize the potential existence of unmeasured confounders or residual confounding. Such factors might still wield influence over the relationships observed. Third, by relying on self-reported data, we inadvertently introduce the potential for biases, such as those stemming from social desirability or recall inaccuracies. Incorporating objective measures or gleaning data from multiple corroborative sources could elevate the credibility and robustness of findings in future research.
+
+Conclusion
+
+The findings of this study underscored the adverse effects of widowhood on PP, fasting blood glucose, and mental health among older adults individuals in Chinese nursing homes. Compared to their married peers, widowed participants demonstrated diminished family support, an elevated risk of depressive symptoms, heightened PP, and increased fasting blood glucose levels. The application of PSM analysis bolstered the robustness of these findings by adeptly mitigating potential confounding variables.
+
+These results accentuated the pressing need for bespoke interventions and support mechanisms designed to counteract the detrimental health outcomes tied to widowhood in the older adults. Such interventions should extend beyond merely addressing physiological repercussions and delving into the psychological and emotional ramifications of losing a spouse. As we advance, longitudinal studies become paramount to discern the prolonged influences of widowhood on diverse health facets. By grasping the intricate dynamics of these factors, policymakers, medical professionals, and caregivers can craft comprehensive strategies, fostering resilience and support for widowed seniors, thereby elevating their overall life quality.
+
+Data availability statement
+
+The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.
+
+Ethics statement
+
+The studies involving humans were approved by the Ethics Committee of Nantong First People's Hospital with the identification number 2023KT091. The studies were conducted in accordance with the local legislation and institutional requirements. Written informed consent for participation in this study was provided by the participants' legal guardians/next of kin.
+
+Author contributions
+
+YZ: Conceptualization, Funding acquisition, Supervision, Writing – original draft. XC: Writing – review & editing, Conceptualization, Funding acquisition, Supervision. YS: Conceptualization, Funding acquisition, Supervision, Writing – original draft. SF: Conceptualization, Funding acquisition, Supervision, Writing – original draft. FW: Data curation, Investigation, Writing – review & editing. HG: Data curation, Investigation, Writing – review & editing. HJ: Data curation, Investigation, Writing – review & editing. QZ: Data curation, Investigation, Writing – review & editing. WD: Data curation, Investigation, Writing – review & editing. HL: Writing – review & editing, Formal analysis. JZ: Formal analysis, Writing – review & editing.

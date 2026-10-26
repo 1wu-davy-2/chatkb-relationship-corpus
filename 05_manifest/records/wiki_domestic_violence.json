@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_domestic_violence",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "家庭暴力",
+  "requested_title": "家庭暴力",
+  "url": "https://zh.wikipedia.org/wiki/%E5%AE%B6%E5%BA%AD%E6%9A%B4%E5%8A%9B",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "abuse",
+    "safety"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/domestic_violence.json",
+  "text_path": "02_text/zh_wikipedia/domestic_violence.txt",
+  "raw_bytes": 15673,
+  "text_chars": 5732,
+  "text_sha256": "c8a7ed96025cdbb4b151c57b2ba7d91668085bf0caa27d2044d99ce2d5cf9234",
+  "retrieved_at": "2026-10-25T15:36:24.415360+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12316384",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Trust in close relationships revisited.",
+  "authors": "Camanto OJ, Campbell L.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/02654075251346105",
+  "pmcid": "PMC12316384",
+  "url": "https://europepmc.org/article/PMC/PMC12316384",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12316384/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Trust is widely regarded as a fundamental psychological concept in the study of relationships yet-rather than being investigated as a primary, material focus-is often relegated to serving as a proxy for and/or a means to facilitate the exploration of aspects of relationship quality and functioning. We conducted two measurement-focused studies to garner deeper insight into the nature of trust in romantic relationships and explore an account of trust that reframes its development as a process of construction, rather than addition. In Study 1 ( N = 494), we explored the nature and structure of the construct of trust as put forward by Rempel et al. (1985). In Study 2 ( N = 847), we then confirmed our findings from Study 1 and, using measurement invariance techniques and a refined version of Rempel et al.'s (1985) assessment, investigated the extent to which the trust of individuals involved in newly-formed relationships ( n Newly-formed = 387) versus individuals involved in long term relationships ( n Long-term = 460) reflect different conceptualizations of the construct. Across both studies, we (a) identified a compilation of items reflecting key factors of trust-Predictability (3 items), Dependability (4 items), and Faith (10 items)-resembling Rempel et al.'s (1985) framework; and (b) found broad sameness in the construct of trust across newly-formed and long-term relationships but also some granular differences that potentially suggest how the construct may change across stages of relationship development.",
+  "raw_path": "01_raw/europepmc_xml/PMC12316384.xml",
+  "text_path": "02_text/europepmc/PMC12316384.txt",
+  "raw_bytes": 181344,
+  "text_chars": 64066,
+  "raw_sha256": "6474108c84c08a5401ecdeae075855034f5a33f3d93a7d749f2390eddd47775f",
+  "text_sha256": "45ea112d5a4a7558fcb74c9ccf3ade1fe5dfde6db7658601c9f29a466772dc7b",
+  "retrieved_at": "2026-10-25T13:49:55.613238+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12022470",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Machine Learning Approach for Investigating Variable Importance in Relationship and Sexual Satisfaction: The Role of Interpersonal Mindfulness and Psychological Safety.",
+  "authors": "Dias Martins C, Vergara RC, Khoury B.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/jmft.70026",
+  "pmcid": "PMC12022470",
+  "url": "https://europepmc.org/article/PMC/PMC12022470",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12022470/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair",
+    "sexual_satisfaction"
+  ],
+  "abstract": "Numerous studies have shown that mindfulness is positively associated with relationship and sexual satisfaction. However, most have examined the benefits of intrapersonal or trait mindfulness, rather than directly investigating interpersonal mindfulness or considering polyvagal theory. Our main objective was to determine the variable importance of interpersonal mindfulness and psychological safety for relationship and sexual satisfaction using random forests and regression trees and to explore the importance of demographics, social and couple-related factors, and emotional wellbeing in this analysis. 356 adults in committed romantic relationships were recruited for a self-report survey. Results suggested that mindfulness in couple relationships, psychological safety, conflict strategies, and depression symptoms were of top importance for relationship and sexual satisfaction. Limitations and future directions involving dyadic data and physiological measures were discussed. The findings will inform the development of interpersonal mindfulness- and polyvagal-based interventions aimed at promoting safety and stability in relationships while enhancing personal wellbeing.",
+  "raw_path": "01_raw/europepmc_xml/PMC12022470.xml",
+  "text_path": "02_text/europepmc/PMC12022470.txt",
+  "raw_bytes": 202331,
+  "text_chars": 55491,
+  "raw_sha256": "74baf9830aece580ea6ac2b096a8c05da93e2771027e126a55c0d89aae255886",
+  "text_sha256": "ebebc3b99f253c2af3838cadcf85dffd19371a618a806af2d37229c2815d90e8",
+  "retrieved_at": "2026-10-25T15:43:51.420989+00:00"
+}

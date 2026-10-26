@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_investment",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "投资",
+  "requested_title": "投资",
+  "url": "https://zh.wikipedia.org/wiki/%E6%8A%95%E8%B5%84",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 投资",
+  "topics": [
+    "money",
+    "risk"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/investment.json",
+  "text_path": "02_text/zh_wikipedia/investment.txt",
+  "raw_bytes": 5569,
+  "text_chars": 2194,
+  "text_sha256": "af30be1d469106e783a4feb992eaa02bab6e1614be365ef0014340131260a853",
+  "retrieved_at": "2026-10-25T16:30:06.202915+00:00"
+}

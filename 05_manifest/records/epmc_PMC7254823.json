@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7254823",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Online Romance Scams: Relational Dynamics and Psychological Characteristics of the Victims and Scammers. A Scoping Review.",
+  "authors": "Coluccia A, Pozza A, Ferretti F, Carabellese F, Masti A, Gualtieri G.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.2174/1745017902016010024",
+  "pmcid": "PMC7254823",
+  "url": "https://europepmc.org/article/PMC/PMC7254823",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7254823/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "scam"
+  ],
+  "abstract": "Background Digital communication technologies can overcome physical, social and psychological barriers in building romantic relationships. Online romance scams are a modern form of fraud that has spread in Western societies along with the development of social media and dating apps. Through a fictitious Internet profile, the scammer develops a romantic relationship with the victim for 6-8 months, building a deep emotional bond to extort economic resources in a manipulative dynamic. There are two notable features: on the one hand, the double trauma of losing money and a relationship, on the other, the victim's shame upon discovery of the scam, an aspect that might lead to underestimation of the number of cases. Objectives This paper presents a scoping review of the quantitative and qualitative evidence on this issue, focusing on epidemiological aspects, relational dynamics, and the psychological characteristics of victims and scammers. Methods A literature scoping review was conducted using electronic databases and descriptors. Studies were included if they had analyzed the phenomenon in any population or the relationship dynamics characterizing it through whatsoever typology of design. Scoping reviews are a form of knowledge synthesis, which incorporates a range of study designs and wide eligibility criteria to comprehensively summarize evidence with the aim of informing practice, programs, and policy and providing direction to future research priorities. Results Twelve studies were included. Sixty-three percent of social media users and 3% of the general population report having been a victim at least once. Some psychological variables appear to be associated with the risk of being scammed, such as female gender, middle-age, higher levels of neuroticism, tendencies to the romantic idealization of affective relations, sensation seeking, impulsiveness and susceptibility to addiction. We analyse literature limitations and future directions. Conclusion Since this emerging phenomenon is still largely unrecognized, understanding the psychological characteristics of victims and scammers will allow at-risk personality profiles to be identified and prevention/intervention strategies to be developed.",
+  "raw_path": "01_raw/europepmc_xml/PMC7254823.xml",
+  "text_path": "02_text/europepmc/PMC7254823.txt",
+  "raw_bytes": 91689,
+  "text_chars": 27621,
+  "raw_sha256": "5611e39bf7b563204da9016a8f3c06ed0c7554db2470e35cabd2dba240708e54",
+  "text_sha256": "304817ff5c1c0712fcbc3d8acc59c76054c399ef736ca79be429a879a7744ea8",
+  "retrieved_at": "2026-10-25T13:41:14.988987+00:00"
+}

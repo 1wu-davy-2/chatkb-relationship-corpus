@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10513175",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Evidence generation for sustained impact in the response to gender-based violence: lessons from the SRHR Africa Trust Zimbabwe.",
+  "authors": "Mazhambe R, Mushunje M.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fgwh.2023.1135393",
+  "pmcid": "PMC10513175",
+  "url": "https://europepmc.org/article/PMC/PMC10513175",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10513175/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Gender-based violence (GBV) is a pervasive problem in Zimbabwe, affecting women and girls. The types of GBV that are prevalent in Zimbabwe include sexual violence, intimate partner violence, and child marriage. The issue of evidence generation remains crucial in developing interventions that are tailor-made for GBV response. In an attempt to build pathways for the strengthening of GBV programming and to influence policy change, the Sexual and Reproductive Health and Rights (SRHR) Africa Trust (SAT) Zimbabwe conducted a secondary data review of GBV cases recorded in 2018 and 2019 in collaboration with the Zimbabwe Republic Police (Victim Friendly Unit) to understand the incidence of and the driving factors underlying GBV in Zimbabwe, including context-specific information with regard to sexual violence and an overview of perpetrator types. The study proffered recommendations that focus on the importance of improving GBV reporting and programming in Zimbabwe. The study establishes that the driving factors for physical violence include poverty, infidelity, and alcohol and drug abuse, while sexual violence is perpetrated by intimate partners and close relatives, among other driving factors.",
+  "raw_path": "01_raw/europepmc_xml/PMC10513175.xml",
+  "text_path": "02_text/europepmc/PMC10513175.txt",
+  "raw_bytes": 53442,
+  "text_chars": 28309,
+  "raw_sha256": "d56a3635473e7ffc163b19175b0232bd32cf1576854d7db260431c4e76e53f78",
+  "text_sha256": "e3de78c71ffbdab3b358d2aa893de7accbe3c32ba7c68c93ad10c7c9eef4dd43",
+  "retrieved_at": "2026-10-25T15:31:39.914653+00:00"
+}

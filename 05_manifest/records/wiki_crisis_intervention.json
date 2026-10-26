@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_crisis_intervention",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "危機處置",
+  "requested_title": "危机干预",
+  "url": "https://zh.wikipedia.org/wiki/%E5%8D%B1%E6%A9%9F%E8%99%95%E7%BD%AE",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 危機處置",
+  "topics": [
+    "mental_health",
+    "safety"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/crisis_intervention.json",
+  "text_path": "02_text/zh_wikipedia/crisis_intervention.txt",
+  "raw_bytes": 3299,
+  "text_chars": 2134,
+  "text_sha256": "91d19211b3b7a5b6424245495fad821829717ee85fb3233ce46fd4e1550ff4fe",
+  "retrieved_at": "2026-10-25T16:24:23.782755+00:00"
+}

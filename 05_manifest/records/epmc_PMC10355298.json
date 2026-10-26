@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10355298",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mating Performance and Singlehood Across 14 Nations.",
+  "authors": "Apostolou M, Sullman M, Birkás B, Błachnio A, Bushina E, Calvo F, Costello W, Dujlovic T, Hill T, Lajunen TJ, Lisun Y, Manrique-Millones D, Manrique-Pino O, Meskó N, Nechtelberger M, Ohtsubo Y, Ollhoff CK, Przepiórka A, Putz Á, Tagliabue M, Tekeş B, Thomas A, Valentova JV, Varella MAC, Wang Y, Wright P, Font-Mayolas S.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/14747049221150169",
+  "pmcid": "PMC10355298",
+  "url": "https://europepmc.org/article/PMC/PMC10355298",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10355298/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "Adult individuals frequently face difficulties in attracting and keeping mates, which is an important driver of singlehood. In the current research, we investigated the mating performance (i.e., how well people do in attracting and retaining intimate partners) and singlehood status in 14 different countries, namely Austria, Brazil, China, Greece, Hungary, Italy, Japan, Peru, Poland, Russia, Spain, Turkey, the UK, and Ukraine ( N = 7,181). We found that poor mating performance was in high occurrence, with about one in four participants scoring low in this dimension, and more than 57% facing difficulties in starting and/or keeping a relationship. Men and women did not differ in their mating performance scores, but there was a small yet significant effect of age, with older participants indicating higher mating performance. Moreover, nearly 13% of the participants indicated that they were involuntarily single, which accounted for about one-third of the singles in the sample. In addition, more than 15% of the participants indicated that they were voluntarily single, and 10% were between-relationships single. We also found that poor mating performance was associated with an increased likelihood of voluntary, involuntary, and between-relationships singlehood. All types of singlehood were in higher occurrence in younger participants. Although there was some cross-cultural variation, the results were generally consistent across samples.",
+  "raw_path": "01_raw/europepmc_xml/PMC10355298.xml",
+  "text_path": "02_text/europepmc/PMC10355298.txt",
+  "raw_bytes": 158072,
+  "text_chars": 44383,
+  "raw_sha256": "5e4e4486ff33246f6927ab35c392bf8eefba21d84ab7a19ed1a9cd8e11208f46",
+  "text_sha256": "24fcc4a3f82f95907f594ec68cb70cd3ed65be4f12630b2ce9794725da4c4191",
+  "retrieved_at": "2026-10-25T14:01:46.850893+00:00"
+}

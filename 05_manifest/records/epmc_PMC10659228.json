@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10659228",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Impact of Romantic Attachment Styles on Jealousy in Young Adults.",
+  "authors": "Chursina AV.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.11621/pir.2023.0315",
+  "pmcid": "PMC10659228",
+  "url": "https://europepmc.org/article/PMC/PMC10659228",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10659228/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Background Romantic attachment is reflected in various aspects of dyadic interaction in a couple, since it is a self-reinforcing system of cognitive, emotional and behavioral patterns. Romantic jealousy was shown to be associated with dimensions of attachment insecurity in various studies worldwide. Objectives To identify differences in expressions of romantic jealousy based on romantic attachment style. To determine the influence of attachment-related anxiety and attachment-related avoidance on cognitive, emotional, and behavioral jealousy. Design The sample comprised 171 heterosexual individuals. The \"Experiences in Close Relationships - Revised\" questionnaire (ECR-R; Fraley, Waller, & Brennan, 2000; adapted for Russian by Chursina, 2022) and \"Multidimensional Jealousy Scale\" (MJS; Pfeiffer, & Wong, 1989) were used. Results A number of significant differences were identified between insecure and secure attachment styles. Avoidant attachment is characterized by cognitive jealousy, ambivalent attachment is characterized by cognitive and behavioral jealousy, while dismissing attachment showed no significant differences in the manifestations of jealousy in comparison with secure attachment style. Emotional jealousy is equally characteristic of all types. The primacy of romantic attachment in relation to cognitive and behavioral jealousy was also proved. Conclusion The experience of jealousy differs among romantic attachment styles. Attachment-related anxiety is a predictor of intrusive thoughts and behavioral manifestations of jealousy, while attachment-related avoidance is less, the greater the manifestation of jealousy behaviors.",
+  "raw_path": "01_raw/europepmc_xml/PMC10659228.xml",
+  "text_path": "02_text/europepmc/PMC10659228.txt",
+  "raw_bytes": 67981,
+  "text_chars": 24570,
+  "raw_sha256": "c208f1b6fc012133878fb18123d714743030e1661bc25d66fdb3361cc5db6808",
+  "text_sha256": "d25b4eb166c565e4b4c1f7e055a1da5be6484877e7d89919717d9a57913ba4da",
+  "retrieved_at": "2026-10-25T15:37:07.266600+00:00"
+}

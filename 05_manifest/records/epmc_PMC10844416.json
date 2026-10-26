@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10844416",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual Consent Norms in a Sexually Diverse Sample.",
+  "authors": "Harris EA, Morgenroth T, Crone DL, Morgenroth L, Gee I, Pan H.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1007/s10508-023-02741-0",
+  "pmcid": "PMC10844416",
+  "url": "https://europepmc.org/article/PMC/PMC10844416",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10844416/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types"
+  ],
+  "abstract": "Sexual consent has received increased attention in mainstream media, educational, and political settings since the rise of the #MeToo movement in 2017. However, long before #MeToo, sexual consent has been a core practice among people who engage in Bondage and Discipline, Dominance and Submission, Sadism, and Masochism (BDSM). This study examined sexual consent norms among a sexually diverse sample, including people who practice BDSM (n = 116), people who identify with another sexual minority group, such as swingers and sex workers (n = 114), and people who did not identify with a sexual minority group, termed sexual majority group members (n = 158). Explicit consent for both BDSM- and non-BDSM-related activities was rated as more common (descriptively normative) among people who were a member of the BDSM community compared to majority participants. Further, BDSM participants rated consent discussions as less sexually disruptive compared to majority participants. We found no significant group differences in the extent to which people thought sexual consent should be discussed. We also discuss findings from an open-ended question asking participants to recall a recent sexual experience with a new partner. This study demonstrates variability in consent norms between groups and points to the potential to shift sexual consent behaviors among majority participants.",
+  "raw_path": "01_raw/europepmc_xml/PMC10844416.xml",
+  "text_path": "02_text/europepmc/PMC10844416.txt",
+  "raw_bytes": 147849,
+  "text_chars": 66233,
+  "raw_sha256": "57bf648eb7c481fa96a11ec2ce9d02ef15b1e32570f3d65f81d85742a3ae1a9b",
+  "text_sha256": "e847a81d4ed2afc4dec6eb9c925914182b76fa8f13e5af7e745c3d34020956c6",
+  "retrieved_at": "2026-10-26T13:27:42.117708+00:00"
+}

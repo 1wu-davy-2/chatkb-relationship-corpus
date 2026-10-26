@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12570652",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sweet words, secretly sour? Ambivalent sexism may predict disordered eating in Chinese women: the roles of self-objectification, body image comparison, and partner intimacy.",
+  "authors": "Xu R, Chen C.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40337-025-01425-5",
+  "pmcid": "PMC12570652",
+  "url": "https://europepmc.org/article/PMC/PMC12570652",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12570652/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "Background Given the prevalence of disordered eating and the persistence of traditional gender roles in China, this study examined the relationship between ambivalent sexism (including both benevolent and hostile forms) and disordered eating in Chinese women. Hostile sexism refers to overtly negative and antagonistic attitudes toward women, while benevolent sexism involves subjectively positive but patronizing beliefs. The research examined whether women's endorsement of these sexist beliefs is associated with self-objectification and increased appearance comparisons on social networking sites (SNSs), which link to disordered eating. Furthermore, the research explored the moderating role of partner intimacy in romantic relationships. Methods A sample of 761 Chinese college women completed the Ambivalent Sexism Inventory, subscales of the Eating Disorder Inventory, the Self-Objectification Questionnaire, and the Social Network Site Appearance Comparison Scale. Among these participants, 253 women in romantic relationships provided additional self-reports on partner intimacy. Data were analyzed using Hayes' Process Macro Model 6 to test the serial mediation effects (via self-objectification and appearance comparison on SNSs) and Model 85 to test the moderated serial mediation model, where partner intimacy was specified as a moderator. Results The results revealed that both benevolent sexism (b = 0.252, 95% CI [0.14, 0.36]) and hostile sexism (b = 0.162, 95% CI [0.05, 0.27]) were positively associated with disordered eating. These associations were mediated by self-objectification and sequentially through self-objectification and appearance comparison on SNSs. Notably, partner intimacy moderated the path from benevolent sexism to self-objectification (b = 0.095, 95% CI [0.01, 0.18]) and the effects from benevolent sexism to appearance comparison on SNSs (b = - 0.023, 95% CI [-0.04, -0.00]). Conclusions These findings suggest that women's endorsement of ambivalent sexism is associated with disordered eating through self-objectification and appearance-related social comparison, and that romantic relationships are a critical context in which benevolent sexism is linked to women's psychological processes. By integrating ambivalent sexism with objectification theory, this study advances understanding of how gendered beliefs intersect with relationship contexts in relation to women's disordered eating in contemporary China.",
+  "raw_path": "01_raw/europepmc_xml/PMC12570652.xml",
+  "text_path": "02_text/europepmc/PMC12570652.txt",
+  "raw_bytes": 116498,
+  "text_chars": 44737,
+  "raw_sha256": "4859f471e6d31a9109a4e1a57ea7b0a11a79066c2413d3c03b423bcd491b0e20",
+  "text_sha256": "397036d01ed2933bf0f86da651d9d43f96e63816f1498f7a9a7af7f037ae6505",
+  "retrieved_at": "2026-10-25T13:53:41.999567+00:00"
+}

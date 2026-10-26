@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13593118",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship between women climate change anxiety and sexual quality of life.",
+  "authors": "Aygör H, Tunali NŞ, Bayar Y.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1097/md.0000000000046973",
+  "pmcid": "PMC13593118",
+  "url": "https://europepmc.org/article/PMC/PMC13593118",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13593118/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "This correlational descriptive study was performed to investigate the relationship between the climate change anxiety levels and sexual quality of life of women. The study included 952 women. A personal information form, the Women Climate Change Anxiety Scale, and the Sexual Quality of Life - Female Questionnaire were used to collect data. The participants had a mean Women Climate Change Anxiety Scale score of 65.40 ± 11.51 and a mean Sexual Quality of Life - Female Questionnaire score of 34.25 ± 14.68. Age, marriage duration, education status, number of children, and climate change anxiety explained 19.5% of the total variance in the sexual quality of life of the participants. In this study, it was determined that the participants had high climate change anxiety levels and low sexual quality of life levels. Climate change anxiety was identified as a predictor affecting the levels of sexual quality of life. Healthcare workers integrate climate-sensitive approaches and behavioral interventions into their sexual health counseling practices.",
+  "raw_path": "01_raw/europepmc_xml/PMC13593118.xml",
+  "text_path": "02_text/europepmc/PMC13593118.txt",
+  "raw_bytes": 85104,
+  "text_chars": 19821,
+  "raw_sha256": "e30ee491973993e34b086ac32a378e268a323b3993199687b50533053199ff86",
+  "text_sha256": "2744860de65c279f64cac7542e4537417aa7a21e58bf0f7db6b7742339d74a5c",
+  "retrieved_at": "2026-10-26T13:09:22.653611+00:00"
+}

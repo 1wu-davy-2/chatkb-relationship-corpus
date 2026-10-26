@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_33956",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "True Politeness: A Hand-book of Etiquette for Ladies",
+  "gutenberg_id": "33956",
+  "url": "https://www.gutenberg.org/ebooks/33956",
+  "download_url": "https://www.gutenberg.org/cache/epub/33956/pg33956.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/33956.txt",
+  "text_path": "02_text/gutenberg/gut_33956_true_politeness_a_hand_book_of_etiquette.txt",
+  "raw_bytes": 66777,
+  "text_chars": 43924,
+  "text_sha256": "330c09e28e6af8cea16f8db66a1ec41f9ac83d28fbb7cd33d9d35c5e34c89e91",
+  "retrieved_at": "2026-10-25T15:55:02.017653+00:00"
+}

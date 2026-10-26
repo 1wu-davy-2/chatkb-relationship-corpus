@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13247130",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Mediating Role of Self-Control and Shame Between Sensitivity to Punishment and Intimacy.",
+  "authors": "Mirzazade Z, Dehshiri G, Zahraie S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1002/brb3.71543",
+  "pmcid": "PMC13247130",
+  "url": "https://europepmc.org/article/PMC/PMC13247130",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13247130/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "Objectives Interpersonal relationships are among the important aspects of life. Understanding the factors that might affect relationships can improve psychological health. This study aimed to examine the associations between sensitivity to punishment (SP) and intimacy and the mediating role of shame and self-control. Methods The population for this study included married people from Kerman, Iran. A total of 214 individuals completed the sensitivity to punishment and sensitivity to reward questionnaire revised and clarified (SPSRQ-RC), experience of shame scale (ESS), Tangney self-control scale short form, and personal assessment of intimate relationships questionnaire (PAIR). Results The results were analyzed through Pearson correlation and a parallel mediation model. This study demonstrated that SP had a negative, significant association with intimacy. Shame and self-control could significantly mediate this relationship. Conclusion It is concluded that shame and self-control can mediate the relationship between SP and intimacy. Learning how emotions and cognitive functions work in an individual's life might help improve intimacy.",
+  "raw_path": "01_raw/europepmc_xml/PMC13247130.xml",
+  "text_path": "02_text/europepmc/PMC13247130.txt",
+  "raw_bytes": 93526,
+  "text_chars": 30135,
+  "raw_sha256": "12735a7569aa08304b0bba745568f73c103103b886e33f618cb7081d72aa68ff",
+  "text_sha256": "06e1c6953121699ce919ca0df9b62c281ab0099e51ad769c5950b8fde8f2be37",
+  "retrieved_at": "2026-10-25T13:56:09.940910+00:00"
+}

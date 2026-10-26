@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10350486",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mindfulness in sex therapy and intimate relationships: a feasibility and randomized controlled pilot study in a cross-diagnostic group.",
+  "authors": "Krieger JF, Kristensen E, Marquardsen M, Ofer S, Mortensen EL, Giraldi A.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1093/sexmed/qfad033",
+  "pmcid": "PMC10350486",
+  "url": "https://europepmc.org/article/PMC/PMC10350486",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10350486/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_therapy_interventions"
+  ],
+  "abstract": "Background Mindfulness facets can be trained with structured mindfulness interventions, but little is known regarding application on a broader level within sex therapy (e.g. men, partners and different sexual dysfunctions). Aim To evaluate the feasibility and preliminary efficacy of an 8-week intervention-specifically, mindfulness for sex and intimacy in relationships (MSIR)-as a supplement to treatment as usual (TAU) as compared with only TAU in a clinical sample of men and women referred for sexual difficulties with or without a partner. Methods In this randomized controlled feasibility pilot study, 34 participants were randomized to MSIR + TAU (n = 15) or TAU (n = 19). Six healthy partners were also included in the study. MSIR was administered as 2 individual evaluations and six 2-hour group sessions of mixed gender and different types of sexual dysfunction. Outcomes The primary outcome measures were as follows: (1) feasibility, defined as the implementation of recruitment, acceptance, and attendance of intervention in daily clinical practice and the MSIR completion rate; (2) sexual functioning, as measured on a visual analog scale (\"bothered by problem\") and by validated questionnaires (Changes in Sexual Function Questionnaire for Females and Males, Female Sexual Function Index, Female Sexual Distress Scale, International Index of Erectile Function). Results MSIR was feasible and well received by patients, with high rates of acceptance and intervention completion. As compared with pretreatment, the MSIR + TAU group and TAU control group were significantly less bothered by their sexual problems at the end of treatment, but the change was significantly larger in the MSIR + TAU group ( P = .04). Participants in the MSIR + TAU group did not receive fewer TAU sessions than the TAU group (MSIR + TAU mean, 6 sessions; TAU mean, 8 sessions). Clinical implications MSIR could be effectively used in a clinical setting as an add-on to TAU in the treatment of female and male sexual dysfunction and healthy partners. Strengths and limitations The major strength of the study is that it is a randomized controlled study. This study is novel in the sense that it included men and women with different types of sexual dysfunction in the same mindfulness group. Limitations include the pilot nature of the study (e.g. a small sample size), and statistical conclusions should be made with caution. More accurate results may be found in a larger sample. Conclusion Results from this study support already existing evidence that mindfulness-based interventions are feasible and effective for targeting sexual dysfunctions in men and women.",
+  "raw_path": "01_raw/europepmc_xml/PMC10350486.xml",
+  "text_path": "02_text/europepmc/PMC10350486.txt",
+  "raw_bytes": 140232,
+  "text_chars": 47387,
+  "raw_sha256": "8175bf5edaa05c10144a31fa88556fe20c685c527e5b22a76efee11502496aeb",
+  "text_sha256": "e580f7fb0683122afbea4ba2bd3fd6e4458b13b6ad638b071e33a0b48610ba68",
+  "retrieved_at": "2026-10-26T13:10:30.798161+00:00"
+}

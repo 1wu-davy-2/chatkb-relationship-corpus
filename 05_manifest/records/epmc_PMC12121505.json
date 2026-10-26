@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12121505",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Educational intervention on sexual satisfaction of Iranian men: application of the information, motivation and behavioral skills model.",
+  "authors": "Ghaderi N, Zarei F, Ghofranipour F.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpubh.2025.1533261",
+  "pmcid": "PMC12121505",
+  "url": "https://europepmc.org/article/PMC/PMC12121505",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12121505/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction_couple"
+  ],
+  "abstract": "Background Marital satisfaction plays a critical role in fostering healthy relationships between couples, with sexual satisfaction being a key determinant. This study aimed to evaluate the impact of an educational intervention based on the Information-Motivation-Behavioral Skills (IMB) model on the sexual satisfaction of Iranian married men. Materials and methods A quasi-experimental study was conducted among 100 married men in Sanandaj, Kurdistan, Iran. Participants were randomly assigned to either the intervention group, which received an online educational program, or the control group, which did not receive any structured education. The intervention utilized multimedia content, including videos, infographics, and interactive materials, to address three key domains: information, motivation, and behavioral skills related to sexual satisfaction. Data were collected through three validated instruments: the Sexual Health Questionnaire (based on the IMB model), the Male Sexual Function Scale, and Larson's Sexual Satisfaction Scale. Assessments were conducted at baseline (pre-test) and 16 weeks after the intervention (post-test). Results Significant improvements were observed in the intervention group compared to the control group across all (IMB) model constructs and sexual satisfaction measures ( p Conclusion The educational intervention based on the (IMB) model, delivered through an online multimedia platform, was effective in enhancing sexual satisfaction among the participants. This highlights the value of theory-driven, digitally delivered health education programs in improving men's sexual health.",
+  "raw_path": "01_raw/europepmc_xml/PMC12121505.xml",
+  "text_path": "02_text/europepmc/PMC12121505.txt",
+  "raw_bytes": 75214,
+  "text_chars": 20531,
+  "raw_sha256": "410eaab797c5dd2e7d6d2e335dc9b04deaad803e475a7a96c6592a2905aaf0c6",
+  "text_sha256": "93092c717da20ae65eb7849fe5f60015949c0938b5e52d1e815c0362b1732813",
+  "retrieved_at": "2026-10-26T13:14:19.117406+00:00"
+}

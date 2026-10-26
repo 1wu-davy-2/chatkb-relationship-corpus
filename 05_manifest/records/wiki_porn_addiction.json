@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_porn_addiction",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "色情成瘾",
+  "requested_title": "色情成癮",
+  "url": "https://zh.wikipedia.org/wiki/%E8%89%B2%E6%83%85%E6%88%90%E7%98%BE",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 色情成瘾",
+  "topics": [
+    "sexuality",
+    "addiction"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/porn_addiction.json",
+  "text_path": "02_text/zh_wikipedia/porn_addiction.txt",
+  "raw_bytes": 1227,
+  "text_chars": 661,
+  "text_sha256": "24f24896ca13bc3f7179f93e43a3a5dec163584115ec3693dff7cfec5aab338d",
+  "retrieved_at": "2026-10-26T13:01:19.585404+00:00"
+}

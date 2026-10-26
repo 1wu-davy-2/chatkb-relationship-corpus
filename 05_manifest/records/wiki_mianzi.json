@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_mianzi",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "面子",
+  "requested_title": "面子",
+  "url": "https://zh.wikipedia.org/wiki/%E9%9D%A2%E5%AD%90",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "culture",
+    "social"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/mianzi.json",
+  "text_path": "02_text/zh_wikipedia/mianzi.txt",
+  "raw_bytes": 1289,
+  "text_chars": 519,
+  "text_sha256": "4ed14d887331e3bf751de9ce6a8359a194d39c00d9536162f80a559af9934080",
+  "retrieved_at": "2026-10-25T15:41:15.037532+00:00"
+}

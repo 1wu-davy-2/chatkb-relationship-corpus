@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_24048",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "禮記",
+  "gutenberg_id": "24048",
+  "url": "https://www.gutenberg.org/ebooks/24048",
+  "download_url": "https://www.gutenberg.org/cache/epub/24048/pg24048.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/24048.txt",
+  "text_path": "02_text/gutenberg/gut_24048_禮記.txt",
+  "raw_bytes": 398644,
+  "text_chars": 126332,
+  "text_sha256": "bd6b07192e99a2eeeb58ebe041c85b0a01739c4fac3ae59a8162f89e976e6d53",
+  "retrieved_at": "2026-10-25T15:44:31.816898+00:00"
+}

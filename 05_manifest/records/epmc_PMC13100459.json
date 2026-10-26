@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13100459",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Family Systems Intelligence in Couple and Family Therapy-And Beyond.",
+  "authors": "Doherty WJ, Fisher AR, Hardy NR.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jmft.70136",
+  "pmcid": "PMC13100459",
+  "url": "https://europepmc.org/article/PMC/PMC13100459",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13100459/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "This paper introduces family systems intelligence as a capacity that extends beyond emotional intelligence to how individuals understand and respond effectively to family challenges in ways that foster personal and relational health. After defining the general concept of systems intelligence, we define family systems intelligence and distinguish between dyadic and multilateral levels. We argue that couple therapy models are sometimes insufficient when couples face issues involving broader family systems. We illustrate these ideas in three domains where third-party dynamics are central: stepfamilies, families facing medical illness, and ideological differences. We describe initial work on a performance-based measure of family systems intelligence, with the goal of a scalable assessment to support research and training. We conclude with implications for strengthening training in systemic competence among therapists and for influencing the broader culture.",
+  "raw_path": "01_raw/europepmc_xml/PMC13100459.xml",
+  "text_path": "02_text/europepmc/PMC13100459.txt",
+  "raw_bytes": 91888,
+  "text_chars": 52020,
+  "raw_sha256": "886fa00ff23e5e2ae3c5753b8f994d9a728db4dbdd700ae663052fc4501f0701",
+  "text_sha256": "db47bb5cadab606caab3a038b61f1d9fa31408cd1407707bfdae37c9e0ed297a",
+  "retrieved_at": "2026-10-25T15:37:04.147772+00:00"
+}

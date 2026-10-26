@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11090905",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Loneliness and problematic pornography Use: What is the role of emotion regulation and interaction with content Creators?",
+  "authors": "Vescan M, Flack M, Caudwell KM.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1016/j.abrep.2024.100550",
+  "pmcid": "PMC11090905",
+  "url": "https://europepmc.org/article/PMC/PMC11090905",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11090905/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "porn_and_relationship"
+  ],
+  "abstract": "Problematic pornography use is a growing area of interest necessitating a deeper understanding of its contributing factors. Loneliness and emotion regulation difficulties have been advanced as factors that may exacerbate or perpetuate PPU, however, to date, researchers typically consider these factors in isolation. In addition, the evolving landscape of problematic pornography is further shaped by the emergence of pornography content creators. This study explores the relationships between loneliness, emotion regulation difficulties and problematic pornography use and individuals' interactions with pornography content creators. Specifically, we examine whether emotion regulation difficulties mediate the relationship between loneliness and PPU and whether this mediation is contingent on interactions with content creators. A total of 213 adults ( M age = 35.57 years, SD = 16.90; 77.50 % men) participants completed an online questionnaire assessing PPU, emotion regulation difficulties and loneliness. Results revealed loneliness is associated with increased PPU and emotion regulation difficulties. Emotion regulation difficulties, in turn, relate to PPU. Though interaction with pornographic content creators was associated with reduced PPU, interacting with content creators did not moderate the effect of emotion regulation on the relationship between loneliness and PPU. Our findings support the hypothesised model, suggesting that emotion regulation difficulties mediate the relationship between loneliness and PPU. The identified mediating role of emotion regulation difficulties provides a foundation for further investigations into the underlying mechanisms connecting emotional well-being and problematic pornography use, offering potential directions for future research.",
+  "raw_path": "01_raw/europepmc_xml/PMC11090905.xml",
+  "text_path": "02_text/europepmc/PMC11090905.txt",
+  "raw_bytes": 100799,
+  "text_chars": 26325,
+  "raw_sha256": "9eff0157dae2802814650d369bc3101a8cf35f6523a97a83c5515527c571c1e1",
+  "text_sha256": "63d623152f85f8d666ff304bb0680e319416d81b7081246407975ddb79624c6e",
+  "retrieved_at": "2026-10-26T12:54:30.475539+00:00"
+}

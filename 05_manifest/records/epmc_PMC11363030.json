@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11363030",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "An Experimental Test of Jealousy's Evolved Function: Imagined Partner Infidelity Induces Jealousy, Which Predicts Positive Attitude Towards Mate Retention.",
+  "authors": "Arnocky S, Kubinec K, MacKinnon M, Mazmanian D.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/14747049241267226",
+  "pmcid": "PMC11363030",
+  "url": "https://europepmc.org/article/PMC/PMC11363030",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11363030/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Jealousy may have evolved to motivate adaptive compensatory behavior in response to threats to a valued relationship. This suggests that jealousy follows a temporal sequence: A perceived relational threat induces state feelings of jealousy which in turn motivates compensatory behavior, such as mate retention effort. Yet to date, tests of this mediation model have been limited to cross-sectional data. This study is the first to experimentally test this theoretical model. Men and women ( N = 222) who were currently in committed romantic relationships were primed with an imagined partner infidelity (versus control) scenario. Participants then completed measures of state jealousy and intended mate retention behavior. Results found that those primed with the infidelity threat scenario experienced an increase in state jealousy, which in turn predicted more intended benefit-provisioning and cost-inflicting mate retention. Findings suggest that jealousy mediated the relationship between infidelity threat and intended mate retention behavior, supporting the evolutionary account of state jealousy.",
+  "raw_path": "01_raw/europepmc_xml/PMC11363030.xml",
+  "text_path": "02_text/europepmc/PMC11363030.txt",
+  "raw_bytes": 98889,
+  "text_chars": 29880,
+  "raw_sha256": "e7b8bef3564a1c6b39d8994d0958557d9d200e84618543904a04a85a9d574f3a",
+  "text_sha256": "76924fc87d7fa3e8a1f3962341b28b6927b63254f04fcfdfe063c046dc0f27d3",
+  "retrieved_at": "2026-10-25T15:30:55.534941+00:00"
+}

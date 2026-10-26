@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12304368",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The role of fear of intimacy and loneliness in predicting of academic enthusiasm in medical science students: a cross-sectional study from the Iran.",
+  "authors": "Asadi MR, Senmar M, Shafiei Kisomi Z, Hosseinkhani Z, Ahmadi AE, Mozafari M, Oustam F, Ahmadieh A.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s44192-025-00257-8",
+  "pmcid": "PMC12304368",
+  "url": "https://europepmc.org/article/PMC/PMC12304368",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12304368/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_anxiety"
+  ],
+  "abstract": "Background Academic enthusiasm is one of the most effective factors in achieving the best in students' education. Therefore, this study aimed to determine the role of fear of intimacy and loneliness in predicting academic enthusiasm in medical science students. this descriptive-cross-sectional study was conducted among students of Qazvin University of Medical Sciences in iran, 2023-2024. The data was collected using the demographic profile checklist, Frederick et al.'s academic enthusiasm inventory, Russell's loneliness scale, and Thelen and Descunter's fear of intimacy scale. The data was analyzed using descriptive-analytical statistics and SPSS version 22 software. Results In total, 212 (55.5%) of the 380 students participating in the study were female and the rest were male. The mean age of the students was (21.83 ± 9.97) years. According to the results, students' academic enthusiasm with an average of 42.79 ± 8.09, and a score of 45.0 out of 100 is average. Based on the results, the feeling of loneliness with a standard score of 45.0 and a mean of 47.02 ± 9.76, and fear of intimacy, with a standard score of 40.86 and a mean of 92.21 ± 20.17, are at the moderate and below-average levels, respectively. The results of univariate regression analysis showed that for one unit increase in loneliness score, the academic enthusiasm in students decreased by 0.17 (P Conclusion The results showed that in medical science students, academic enthusiasm and loneliness are at an average level, but the fear of intimacy in this group is below the average level. In addition, the results showed that the feeling of loneliness has a predictive role in academic enthusiasm, and as the feeling of loneliness increases, academic enthusiasm decreases. Based on this, students are expected to participate in cultural workshops, communication management and motivation to reduce feelings of loneliness and promote academic enthusiasm.",
+  "raw_path": "01_raw/europepmc_xml/PMC12304368.xml",
+  "text_path": "02_text/europepmc/PMC12304368.txt",
+  "raw_bytes": 91328,
+  "text_chars": 29623,
+  "raw_sha256": "275a22c1033372bbfb5909b2aa01bb04cd7203429c3746aa3ef10e68dffbbdfc",
+  "text_sha256": "10ecb701329dc967c1eed4998f179af1df860e95c5691d0d1eba82fb63e45b34",
+  "retrieved_at": "2026-10-25T13:50:07.892454+00:00"
+}

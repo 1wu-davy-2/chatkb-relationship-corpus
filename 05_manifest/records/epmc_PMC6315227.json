@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6315227",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Meeting Sexual Partners Through Internet Sites and Smartphone Apps in Australia: National Representative Study.",
+  "authors": "Watchirs Smith L, Guy R, Degenhardt L, Yeung A, Rissel C, Richters J, Liu B.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.2196/10683",
+  "pmcid": "PMC6315227",
+  "url": "https://europepmc.org/article/PMC/PMC6315227",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6315227/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "hookups"
+  ],
+  "abstract": "Background Studies have reported on the proportion of the population looking for potential sexual partners using internet sites and smartphone apps, but few have investigated those who have sex with these partners, arguably a more important target group for health promotion. Objective This study aimed to determine the proportion of people who have had sex with someone they met on an internet site or a smartphone app in the previous year. Methods We analyzed data from the 2012-2013 Second Australian Study of Health and Relationships, a nationally representative telephone survey of Australian residents aged 16-69 years (N=20,091). The participation rate for the telephone survey was 66.22%. The prevalence of looking for a potential partner, physically meeting, and having sex with someone first met through an internet site or a smartphone app was estimated. Multivariate logistic regression was used for men and women separately to determine demographic and behavioral factors associated with having had sex with someone met on an internet site or a smartphone app in the last year. Results Overall, 12.09% of respondents had looked for potential partners using these technologies and 5.40% had done so in the last year. In the last year, 2.98% had met someone in person and 1.95% reported having had sex with someone first met on an internet site or a smartphone app. The prevalence of all behaviors was greater in men than in women and in younger respondents than in older respondents. Among sexually active men, factors associated with having had sex with someone met using internet sites or smartphone apps included identifying as gay or bisexual (adjusted odds ratio, AOR: 15.37, 95% CI 8.34-28.35), having either 2-3 or >3 sexual partners in the last year (AOR: 9.20, 95% CI 9.20-34.68 and AOR: 35.77, 95% CI 18.04-70.94, respectively), having had a sexually transmissible infection (STI) test in the past year (AOR: 2.02, 95% CI 1.21-3.38), or an STI in the last year (AOR: 3.15, 95% CI 1.25-7.97). Among sexually active women, factors associated with having had sex with someone met on an internet site or a smartphone app were as follows: having either 2-3 or >3 sexual partners in the last year (AOR: 32.01, 95% CI 13.17-77.78 and AOR: 71:03, 95 % CI 27.48-183.57, respectively), very low and low income (vs very high AOR: 3.40, 95% CI 1.12-10.35), and identifying as lesbian or bisexual (AOR: 2.27, 95% CI 1.04-4.49). Conclusions More than a third of adults who had looked for potential partners using websites and apps each year had sex with such partners, and those who had done so were more sexually active, suggesting that dating and hookup websites and applications are suitable settings for targeted sexual health interventions.",
+  "raw_path": "01_raw/europepmc_xml/PMC6315227.xml",
+  "text_path": "02_text/europepmc/PMC6315227.txt",
+  "raw_bytes": 125911,
+  "text_chars": 33052,
+  "raw_sha256": "6e6a83982f8ec77573f744dd9eecae3e2494aa2bb1b94be5395614bce6c2ee5d",
+  "text_sha256": "46523096aeac2d3b197efd240e223b15653b98e989c85f3547b70b4065aefa17",
+  "retrieved_at": "2026-10-25T15:31:00.288402+00:00"
+}

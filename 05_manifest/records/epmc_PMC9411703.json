@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9411703",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mapping Men's Mental Health Help-Seeking After an Intimate Partner Relationship Break-Up.",
+  "authors": "Oliffe JL, Kelly MT, Gonzalez Montaner G, Seidler ZE, Kealy D, Ogrodniczuk JS, Rice SM.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/10497323221110974",
+  "pmcid": "PMC9411703",
+  "url": "https://europepmc.org/article/PMC/PMC9411703",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9411703/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Deleterious effects of separation and divorce on men's mental health are well-documented; however, little is known about their help-seeking when adjusting to these all-too-common life transitions. Employing interpretive descriptive methods, interviews with 47 men exploring their mental health help-seeking after a relationship break-up were analyzed in deriving three themes: (1) Solitary work and tapping established connections, (2) Reaching out to make new connections, and (3) Engaging professional mental health care. Men relying on solitary work and established connections accessed relationship-focused self-help books, online resources, and confided in friends and/or family. Some participants supplemented solitary work by reaching out to make new connections including peer-based men's groups and education and social activities. Comprising first-time, returning, and continuing users, many men responded to relationship break-up crises by engaging professional mental health care. The findings challenge longstanding commentaries that men actively avoid mental health promotion by illuminating wide-ranging help resources.",
+  "raw_path": "01_raw/europepmc_xml/PMC9411703.xml",
+  "text_path": "02_text/europepmc/PMC9411703.txt",
+  "raw_bytes": 113702,
+  "text_chars": 51729,
+  "raw_sha256": "cf00f774641b570fd43a0a0ec3ea18da5ab2a90facdc112347836a24e8989e25",
+  "text_sha256": "0a8a9fd8aee29addd0d937a387bce2ded372512584ef421a5220e71745d97aed",
+  "retrieved_at": "2026-10-25T15:44:53.760291+00:00"
+}

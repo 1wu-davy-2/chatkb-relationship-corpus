@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8793298",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Changing Cognitive Risk Factors for Sexual Aggression: Risky Sexual Scripts, Low Sexual Self-Esteem, Perception of Pornography, and Acceptance of Sexual Coercion.",
+  "authors": "Schuster I, Tomaszewska P, Krahé B.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/0886260520922341",
+  "pmcid": "PMC8793298",
+  "url": "https://europepmc.org/article/PMC/PMC8793298",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8793298/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "Sexual aggression is a problem among college students worldwide, and a growing body of research has identified variables associated with an increased risk of victimization and perpetration. Among these, sexuality-related cognitions, such as sexual scripts, sexual self-esteem, perceived realism of pornography, and acceptance of sexual coercion, play a major role. The current experimental study aimed to show that these cognitive risk factors of sexual aggression victimization and perpetration are amenable to change, which is a critical condition for evidence-based intervention efforts. College students in Germany ( N = 324) were randomly assigned to one of three groups: a treatment group designed to change participants' sexual scripts for consensual sex with regard to the role of alcohol consumption, casual sex, and ambiguous communication of sexual intentions as risk factors for sexual aggression (EG1), a treatment group designed to promote sexual self-esteem, challenge the perceived realism of pornography, and reduce the acceptance of sexual coercion (EG2), and a non-treatment control group (CG). Baseline (T1), post-experimental (T2), and follow-up (T3) measures were taken across an eight-week period. Sexual scripts contained fewer risk factors for sexual aggression in EG1 than in EG2 and CG at T3. Sexual self-esteem was enhanced in EG2 at T2 relative to the other two groups. Acceptance of sexual coercion was lower in EG2 than in EG1 and CG at T2 and T3. No effect was found for perceived realism of pornography. The findings are discussed in terms of targeting cognitive risk factors as a basis for intervention programs.",
+  "raw_path": "01_raw/europepmc_xml/PMC8793298.xml",
+  "text_path": "02_text/europepmc/PMC8793298.txt",
+  "raw_bytes": 131688,
+  "text_chars": 43584,
+  "raw_sha256": "e8f0e46f4d0f1b038aecf9196baa673c1301e625bcbfe35c9d7d928a2095408b",
+  "text_sha256": "2c0cdeed14c729d752be8233ebb926c68700f3baec8b35d078bf134954652ed6",
+  "retrieved_at": "2026-10-26T13:13:01.410182+00:00"
+}

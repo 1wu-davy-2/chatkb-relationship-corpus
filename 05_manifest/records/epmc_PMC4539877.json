@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4539877",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Social and legal aspects of marriage in women with mental illness in India.",
+  "authors": "Sharma I, Tripathi CB, Pathak A.",
+  "year": "2015",
+  "journal": "",
+  "doi": "10.4103/0019-5545.161499",
+  "pmcid": "PMC4539877",
+  "url": "https://europepmc.org/article/PMC/PMC4539877",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4539877/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_attitudes"
+  ],
+  "abstract": "The institution of marriage in Hindus is regulated by the prevailing social norms and the Hindu Marriage Act (HMA), 1955. Married women with mental illness are heavily discriminated. This paper examines the social and legal aspects of Hindu marriage in women with mental illness. The HMA, 1955 lays down the conditions for a Hindu marriage and also provides matrimonial reliefs: Nullity of marriage, restitution of conjugal rights, judicial separation and divorce. The application of the provisions of HMA in the setting mental illness is difficult and challenging. There is a wide gap between the legislative provisions of HMA, and societal value systems and attitudes towards marriage in Indian society. Societal norms are powerful and often override the legal provisions. The disparities are most glaring in the setting of mental illness in women. This is a reflection of social stigma for mental illness and patriarchal attitude towards women. Concerted efforts are needed to bridge the gap between the legislative provisions of HMA and societal value systems and attitudes toward marriage. Awareness programs regarding the nature and types of mental illness, advances in treatment and information about good outcome of severe mental illness will be helpful. Improvement in moral and religious values will overcome to some extent the negative attitudes and patriarchal mind set toward married women with mental illness.",
+  "raw_path": "01_raw/europepmc_xml/PMC4539877.xml",
+  "text_path": "02_text/europepmc/PMC4539877.txt",
+  "raw_bytes": 75921,
+  "text_chars": 46193,
+  "raw_sha256": "2fbecd15a4fba912db99a22b2ee7f1221c6e634637db7d19bb5809078db59b6f",
+  "text_sha256": "0d08c91362f051e731502b468ffd0718b7b57218097b4192bdcb77b8b6b29ccc",
+  "retrieved_at": "2026-10-25T15:38:39.985197+00:00"
+}

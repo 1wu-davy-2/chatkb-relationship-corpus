@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4907249",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Does online dating lead to higher sexual risk behaviour? A cross-sectional study among MSM in Amsterdam, the Netherlands.",
+  "authors": "Heijman T, Stolte I, Geskus R, Matser A, Davidovich U, Xiridou M, Schim van der Loeff M.",
+  "year": "2016",
+  "journal": "",
+  "doi": "10.1186/s12879-016-1637-5",
+  "pmcid": "PMC4907249",
+  "url": "https://europepmc.org/article/PMC/PMC4907249",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4907249/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "hookups"
+  ],
+  "abstract": "Background Men having sex with men (MSM) frequently use the Internet to find sex partners. We examined the association between unprotected anal intercourse (UAI) with partners dated online and with partners dated offline (met elsewhere), and examined whether differences can be explained by self-perceived HIV status of the index and knowledge of partnership characteristics. Methods MSM were recruited at the Sexually Transmitted Infections Clinic in Amsterdam, in 2008-2009. Participants completed a questionnaire concerning sexual behaviour. Only men reporting both online and offline casual sex partners were included. We assessed the association between online/offline partner dating and UAI, using random-effects logistic regression analysis. Results Five hundred seventy-seven men (351 HIV-negative, 153 HIV-positive, and 73 HIV-unaware) reported UAI in 26 % of 878 online, and 23 % of 903 offline casual partnerships. The crude OR of online dating for UAI was 1.36 (95 % CI 1.03-1.81). HIV-positive men were more likely to report UAI than HIV-negative men (49 % vs. 28 % of partnerships). Adjusted for demographic characteristics, online dating had no significant effect on UAI among HIV-negative and HIV status-unaware men, but HIV-positive men were more likely to have UAI with online partners (aOR = 1.65 [95 % CI 1.05-2.57]). After correction for partner and partnership characteristics the effect of online/offline dating on UAI among HIV-positive MSM was reduced and no longer significant. Conclusions Online dating was not significantly associated with UAI among HIV-negative MSM. HIV-positive MSM were more likely to practise UAI with partners dated online; however, after correction for partner and partnership characteristics, online partnership acquisition was not associated with a significantly increased risk of UAI.",
+  "raw_path": "01_raw/europepmc_xml/PMC4907249.xml",
+  "text_path": "02_text/europepmc/PMC4907249.txt",
+  "raw_bytes": 122906,
+  "text_chars": 30861,
+  "raw_sha256": "6199ad8bae0ad35fcf1da059e57476eb3a497c28f52048e15f8f5f6122e8c716",
+  "text_sha256": "8de486d32f83114173c1fe0e23e6cedc649214b60f80af2276a4f2c824073613",
+  "retrieved_at": "2026-10-25T15:29:44.724232+00:00"
+}

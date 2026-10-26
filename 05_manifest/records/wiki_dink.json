@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_dink",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "頂客族",
+  "requested_title": "丁克",
+  "url": "https://zh.wikipedia.org/wiki/%E9%A0%82%E5%AE%A2%E6%97%8F",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "marriage",
+    "china",
+    "family"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/dink.json",
+  "text_path": "02_text/zh_wikipedia/dink.txt",
+  "raw_bytes": 5193,
+  "text_chars": 1883,
+  "text_sha256": "41a8582e5ccb3d7c65f3be3c0ecb51ea91b9b0c2275d63b6a9ea53997b0262f3",
+  "retrieved_at": "2026-10-25T15:41:08.341527+00:00"
+}

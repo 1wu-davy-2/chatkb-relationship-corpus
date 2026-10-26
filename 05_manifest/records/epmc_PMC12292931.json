@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12292931",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Unwanted Consensual Sex Among College Students: What Makes an Individual More Likely to Consent to Sex They Do Not Want?",
+  "authors": "Barnhart KJ, Leahy KE, Wildey MN.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15070981",
+  "pmcid": "PMC12292931",
+  "url": "https://europepmc.org/article/PMC/PMC12292931",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12292931/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types"
+  ],
+  "abstract": "Sexual consent is essential, but in some instances an individual may consent to sexual behaviors that are unwanted. The likelihood of unwanted consensual sex may be influenced by multiple social and individual factors. The current study examined engagement in unwanted consensual sex based on demographics, relationship and/or hookup history, and sexual communication characteristics among college students. This cross-sectional study was conducted utilizing a random sample of college students at one midwestern university. Data was collected via an online survey, including questions about sexual behavior, communication, and sexual consent. Basic frequencies and bivariate and multivariate analyses were conducted. This random sample included 1263 undergraduate students. Level of comfort communicating about sex was negatively associated with unwanted consensual sex. Gender was significantly associated with the likelihood of unwanted consensual sex and was a significant predictor of unwanted consensual sex among this sample. Unwanted consensual sex may vary based on individual characteristics, like gender. The current findings may help guide future studies on unwanted consensual sex, as well as continued sex education programming on college campuses to increase comfort when communicating about sexual behaviors.",
+  "raw_path": "01_raw/europepmc_xml/PMC12292931.xml",
+  "text_path": "02_text/europepmc/PMC12292931.txt",
+  "raw_bytes": 79459,
+  "text_chars": 25188,
+  "raw_sha256": "eb783c570ba2136ed9c2c8b38696741af6ba264c2ccff1c1e8acefe7bada9cbc",
+  "text_sha256": "7afe5565f15c5743f9277dd41eb88929a8fc4c568bd297230610675da1b18fb0",
+  "retrieved_at": "2026-10-26T13:26:22.898002+00:00"
+}

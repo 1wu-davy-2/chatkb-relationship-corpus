@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13681873",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sensory impairment, loneliness, and the emergence of physical-psychological-cognitive multimorbidity: a cross-national cohort study in China, the United States, and England.",
+  "authors": "Pan Y, Bi J, Sun L, Feng L, Wang R, Qu J, Du B.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12939-026-02958-0",
+  "pmcid": "PMC13681873",
+  "url": "https://europepmc.org/article/PMC/PMC13681873",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13681873/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "Background The co-occurrence of physical diseases, psychological disorders, and cognitive impairment-here termed physical-psychological-cognitive multimorbidity (PPC-M)-poses growing challenges to healthy aging but its upstream, modifiable determinants remain underexplored. Sensory impairments are common in later life and may be associated with the emergence of PPC-M, partly through psychosocial factors such as loneliness. This study aimed to examine the associations of vision, hearing, and dual sensory impairments with incident PPC-M and to assess whether loneliness partly explains these associations in three national ageing cohorts. Methods We analyzed 15,022 adults aged ≥ 45 years from three nationally representative aging cohorts-CHARLS (China), HRS (United States), and ELSA (England)-followed for 6-8 years. Vision impairment (VI), hearing impairment (HI), and dual sensory impairment (DSI) were self-reported at baseline. Incident PPC-M patterns included: physical-psychological (P1P2), physical-cognitive (P1C), psychological-cognitive (P2C), and triple comorbidity (P1P2C). We fitted Cox proportional hazards models and multi-state survival models, adjusting for demographic factors, educational level, marital status, and health behaviours. Loneliness was assessed using harmonized measures and tested as a mediator within a counterfactual mediation framework. Sensitivity analyses included propensity score matching, competing risk of death, and alternative definitions of exposures and outcomes. Findings At baseline, 52.8% reported no sensory impairment, 10.9% HI only, 17.2% VI only, and 19.1% DSI. A graded association emerged across PPC-M outcomes. Compared with no impairment, DSI showed the strongest associations with P1P2 (HR = 2.18), P2C (HR = 2.36), and P1P2C (HR = 1.56; 95% CI: 1.19-2.03), with VI generally showing stronger associations than HI. Results were directionally consistent across countries and robust in sensitivity analyses. Loneliness statistically accounted for approximately 10-12% of the observed associations across impairment types, suggesting a potential psychosocial explanatory pathway. Multi-state models suggested accelerated transitions from single-domain conditions to combined multimorbidity among those with DSI. Interpretation Sensory impairments-especially dual impairment-were independently associated with the onset and progression of PPC-M. Loneliness accounted for a meaningful share of these associations, suggesting a potential target for risk stratification and intervention. Integrating accessible and affordable vision/hearing services with loneliness-reduction strategies may help identify older adults at elevated risk of complex multimorbidity and inform equitable healthy-aging strategies across diverse settings.",
+  "raw_path": "01_raw/europepmc_xml/PMC13681873.xml",
+  "text_path": "02_text/europepmc/PMC13681873.txt",
+  "raw_bytes": 123967,
+  "text_chars": 41889,
+  "raw_sha256": "c20cb892726abcd61afec217200422cb0f94cd7a18517b484906045b36797124",
+  "text_sha256": "19c767e758a53ac5187d3913c36d4d4045f54ef56d4f44d9513977fe491426e5",
+  "retrieved_at": "2026-10-25T15:38:59.621443+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10576901",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Factors of relationship satisfaction for autistic and non-autistic partners in long-term relationships.",
+  "authors": "Yew RY, Hooley M, Stokes MA.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/13623613231160244",
+  "pmcid": "PMC10576901",
+  "url": "https://europepmc.org/article/PMC/PMC10576901",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10576901/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "responsiveness"
+  ],
+  "abstract": "Lay abstract Previous research has found that autistic people report lower satisfaction in their romantic relationships compared to non-autistic people. However, the majority of this research has focused on autistic traits as barriers to relationship satisfaction, while overlooking the role of their partners in these relationships. Our study explored a range of factors in both autistic people and non-autistic partners of autistic people and how they may be linked to long-term relationship satisfaction. These factors included social and communication skills, personality traits, social loneliness, partner responsiveness, and sexual satisfaction. We found that partner responsiveness was a strong predictor of relationship satisfaction for both autistic and non-autistic partners, suggesting that rather than focusing intervention solely on the autistic person, the role of their partner should also be considered. Service providers who work with couples involving an autistic person to enhance their relationship satisfaction could focus on assisting their clients to identify each other's needs and how best to meet them.",
+  "raw_path": "01_raw/europepmc_xml/PMC10576901.xml",
+  "text_path": "02_text/europepmc/PMC10576901.txt",
+  "raw_bytes": 141396,
+  "text_chars": 44713,
+  "raw_sha256": "21b61bb80d46593807b95e09f2f214b62e26eefef1772bb62490263d46700aa8",
+  "text_sha256": "9df98b350fa9172aae8c90dd8d9fb36842c29f33070e7711d3e860558c28e080",
+  "retrieved_at": "2026-10-25T15:39:02.991126+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4455962",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Attitudes on marriage and new relationships: Cross-national evidence on the deinstitutionalization of marriage.",
+  "authors": "Treas J, Lui J, Gubernskaya Z.",
+  "year": "2014",
+  "journal": "",
+  "doi": "10.4054/demres.2014.30.54",
+  "pmcid": "PMC4455962",
+  "url": "https://europepmc.org/article/PMC/PMC4455962",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4455962/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "Background Consistent with the deinstitutionalization-of-marriage thesis, studies report a decline in support for marital conventions and increased approval of other relationship types. Generalizations are limited by the lack of cross-national research for a broad domain of attitudes on marriage and alternative arrangements, and by the lack of consensus on what counts as evidence. Objective Acknowledging the conceptual distinction between expectations for behavior inside and outside marriage, we address the deinstitutionalization debate by testing whether support for marital conventions has declined for a range of attitudes across countries. Methods Based on eleven International Social Survey Program items replicated between the late 1980s and the 2000s, OLS regressions evaluate attitude changes in up to 21 countries. Results Consistent with the deinstitutionalization argument, disapproval declined for marital alternatives (cohabitation, unmarried parents, premarital and same-sex sex). For attitudes on the behavior of married people and the nature of marriage the results are mixed: despite a shift away from gender specialization, disapproval of extramarital sex increased over time. On most items, most countries changed as predicted by the deinstitutionalization thesis. Conclusions Attitude changes on 'new relationships' and marital alternatives are compatible with the deinstitutionalization of marriage. Beliefs arguably more central to the marital institution do not conform as neatly to this thesis. Because results are sensitive to the indicators used, the deinstitutionalization of marriage argument merits greater empirical and conceptual attention.",
+  "raw_path": "01_raw/europepmc_xml/PMC4455962.xml",
+  "text_path": "02_text/europepmc/PMC4455962.txt",
+  "raw_bytes": 183924,
+  "text_chars": 49086,
+  "raw_sha256": "de4f3cdfb1bd394992f717eec64ad52a21b87f05295756d0be372fe6d4b67936",
+  "text_sha256": "24fcc4371624750b04472c75d6b2637e4876f38faec190ed318365b945638913",
+  "retrieved_at": "2026-10-25T15:46:09.854767+00:00"
+}

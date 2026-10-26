@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12724118",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dark Tetrad personality traits and attitudes supportive of vindictive rape: mediating role of empathy.",
+  "authors": "Veggi S, Benfante A, Di Tella M, Bergstrøm H, Freilone F, Castelli L, Zara G.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1192/bjo.2025.10933",
+  "pmcid": "PMC12724118",
+  "url": "https://europepmc.org/article/PMC/PMC12724118",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12724118/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "Background Research on gender-based violence has shown the influence of Dark Tetrad personality traits (i.e. Machiavellianism, narcissism, psychopathy and sadism) on the development and perpetuation of sexist attitudes and cognitions that justify or condone harmful behaviours. Aims This study explored the potential mediating role of empathy in the relationship between the Dark Tetrad personality traits and support for vindictive rape, as a form of revenge for the perceived violation of traditional sexual norms. Method A sample of 1548 adult individuals from the general community (67.3% female, age range 18-83 years) completed the Dark Triad Dirty Dozen, the Short Sadistic Impulse Scale, the Basic Empathy Scale and the Vindictive Rape Attitude Questionnaire. Results The results showed that empathy partially mediated the relationship between sadism and attitudes supportive of vindictive rape, while a full mediation of empathy was found in the association between Machiavellianism, psychopathy and attitudes supportive of vindictive rape. Conversely, no significant association between empathy or vindictive rape and narcissism was observed. Conclusions Empathy plays an important role in mitigating the effects of Dark Tetrad personality traits on support for vindictive rape. Given the global prevalence of violence against women, these findings are discussed in the context of a social climate that may reinforce the perpetuation of gender inequalities and sex-based stereotypes that are at the root of the acceptance of violence.",
+  "raw_path": "01_raw/europepmc_xml/PMC12724118.xml",
+  "text_path": "02_text/europepmc/PMC12724118.txt",
+  "raw_bytes": 89392,
+  "text_chars": 32691,
+  "raw_sha256": "0b9ac87f17afb2ae9cf2f690f280c87b6730451010132519a0b975f11376d0b0",
+  "text_sha256": "2ac2dfefaf6c798e2f65e89c843e8c1173e1c0fcfba7392e9c40dc523ffe8d08",
+  "retrieved_at": "2026-10-26T13:07:39.592573+00:00"
+}

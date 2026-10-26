@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11673081",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Emotional Dependence and Narcissism in Couple Relationships: Echo and Narcissus Syndrome.",
+  "authors": "Moral-Jiménez MV, Mena-Baumann A.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/bs14121190",
+  "pmcid": "PMC11673081",
+  "url": "https://europepmc.org/article/PMC/PMC11673081",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11673081/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Emotional dependency consists of an extreme affective need that manifests pathologically, such that it has been established that the partners of emotionally dependent individuals exhibit narcissistic traits. The present study aimed to examine the relationship between emotional dependency, the narcissistic traits of a romantic partner, and psychological abuse, in addition to examining the sex differences in the first two variables. This study included 271 subjects (144 women and 127 men) between the ages of 18 and 66 ( M = 36.9; SD = 14.748). This study compared individuals with and without emotional dependency, finding that those with emotional dependency reported more narcissistic partners. Furthermore, psychological abuse was positively correlated with the narcissism of the partner. There were no significant sex differences in emotional dependency or in the exhibition of narcissistic traits. The importance of examining the connections between emotional dependency, the narcissistic traits of a romantic partner, and the potential for psychological abuse within these relationships are highlighted.",
+  "raw_path": "01_raw/europepmc_xml/PMC11673081.xml",
+  "text_path": "02_text/europepmc/PMC11673081.txt",
+  "raw_bytes": 138664,
+  "text_chars": 44623,
+  "raw_sha256": "663869d2a14113a20fcbffe54b6d1af028849f41b68fe4e8dcaf0602a348cd4c",
+  "text_sha256": "0ad863388b4da002f63b6d1d326dd285525adceacdc1945fc786b9dd7338cfc2",
+  "retrieved_at": "2026-10-25T13:52:26.035215+00:00"
+}

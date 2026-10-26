@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7055899",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Assimilation and ethnic marriage squeeze in early 20 th century America: A gender perspective.",
+  "authors": "Weiss I, Stecklov G.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.4054/demres.2020.42.4",
+  "pmcid": "PMC7055899",
+  "url": "https://europepmc.org/article/PMC/PMC7055899",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7055899/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_market"
+  ],
+  "abstract": "Background During the 19 th and early 20 th centuries, large waves of international immigrants, often heterogeneous in terms of age and sex structure, arrived in the United States. Within a relatively short time, many of these immigrants were assimilated. While prior studies have identified an impact of the marriage squeeze on intermarriage, the role of gender is less known. Methods We use data from the 1930 census to examine the role played by variation in the sex ratios of the six largest immigrant groups at the beginning of the 20 th century on marital outcomes by sex. Results Our analyses show that the probability of marrying outside one's ethnic group in this period is strongly tied to local ethnic sex ratios. Marital outcomes are affected for both sexes, but sex ratios are found to be more influential on males marrying out of their ethnic group. While a surplus of one's own sex increases the probability of exogamy for males, it is likely to increase the probability of being single for females. Contribution Our findings highlight the importance of ethnic sex ratios in local marriage markets at a critical juncture of American immigration and its consequences. We focus on an understudied aspect of this process: gender differences in the association between sex ratios and marital assimilation. We show that marital decisions differed by sex and that the high levels of intermarriage in this period are more likely to be explained by unbalanced sex ratios for males than for females.",
+  "raw_path": "01_raw/europepmc_xml/PMC7055899.xml",
+  "text_path": "02_text/europepmc/PMC7055899.txt",
+  "raw_bytes": 169675,
+  "text_chars": 52088,
+  "raw_sha256": "ea306c15cbb2e60644bd4abe586dc260b97f17cb25bd02dbdc9bc0c01b826616",
+  "text_sha256": "9c398715dff028b9da81f02bd38870abd2f43a4a6ba961b8c0a1b5a577a1f1a2",
+  "retrieved_at": "2026-10-25T15:33:56.304671+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6695927",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sociosexuality and Bright and Dark Personality: The Prediction of Behavior, Attitude, and Desire to Engage in Casual Sex.",
+  "authors": "Fernández Del Río E, Ramos-Villagrasa PJ, Castro Á, Barrada JR.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.3390/ijerph16152731",
+  "pmcid": "PMC6695927",
+  "url": "https://europepmc.org/article/PMC/PMC6695927",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6695927/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Research about sociosexuality, understood as differences in people's willingness to have sex without commitment in terms of its predictors, such as demographics, relationship status, or individual traits, such as personality, is still scarce. Although sociosexuality was initially considered unidimensional, a tridimensional structure-with behavior, attitudes, and desire as its components-is gaining momentum in the literature nowadays. The present study proposes to develop different predictive models for each dimension, examining the role of personality (i.e., the \"Big Five\" and the \"Dark Tetrad\") and sociodemographic variables. Participants were 991 university students from a Spanish university (75.5% women, 72.0% heterosexual, M age = 20.66). Our results provide evidence that predictors of sociosexuality vary depending on the dimension under analysis. Being female, older, not having a heterosexual orientation, and not being involved in a current relationship predicted higher scores in sociosexual behavior and attitudes. Regarding personality, psychopathy and extraversion were the only traits involved in all three components of sociosexuality. Neuroticism, agreeableness, and conscientiousness also play a role in the prediction of some of the sociosexuality dimensions. These results help to disentangle the relationship between personality and sociosexuality and to design more effective programs and policies to promote sexual health.",
+  "raw_path": "01_raw/europepmc_xml/PMC6695927.xml",
+  "text_path": "02_text/europepmc/PMC6695927.txt",
+  "raw_bytes": 139753,
+  "text_chars": 31618,
+  "raw_sha256": "b93277d00b5fe2e38a8635767c4f1a72b9bb29bb1cb915b31f9aa81af61be487",
+  "text_sha256": "6a3e2f5683771858c97c8c313159c5095c47dcf975be81bc118c89b327f4002b",
+  "retrieved_at": "2026-10-26T13:11:43.767419+00:00"
+}

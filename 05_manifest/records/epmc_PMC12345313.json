@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12345313",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dynamics of droplet breakup symmetrically placed between two collapsing cavities via numerical simulations.",
+  "authors": "Pandey DK, Kumar R, Ranade VV.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1016/j.ultsonch.2025.107493",
+  "pmcid": "PMC12345313",
+  "url": "https://europepmc.org/article/PMC/PMC12345313",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12345313/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Hydrodynamic cavitation is increasingly used for the production of liquid-liquid emulsions, yet the detailed mechanisms of droplet breakup induced by cavity collapse remain poorly understood. This study presents direct numerical simulations (DNS) of oil droplet fragmentation under the influence of two symmetrically collapsing cavities in water, mimicking conditions in cavitation-based emulsification devices. A volume-of-fluid (VOF) multiphase model is employed to examine the effects of interfacial tension (σ), viscosity ratio (λ), droplet-to-cavity size ratio (β), and driving pressure (ΔP) on droplet deformation and energy dissipation rate (ε). Unlike prior studies focused on single-cavity interactions or turbulent flows, this work reveals that symmetric cavity collapse generates complex, multi-phase breakup dynamics involving vortex-induced deformation and secondary droplet formation. Results indicate that ε increases with an increase in β, σ dc and ΔP, whereas higher values of λ result in a decrease in ε. The dimensionless droplet perimeter (P/P 0 ) was found to vary exponentially with the key parameters. The dimensionless perimeter of the droplet at the time of breakup (P B ) decreases with an increase in σ dc , λ, ΔP and increases with β. A quantitative relationship is proposed between energy dissipation rate (ε), key parameters and dimensionless numbers (Weber and Ohnesorge numbers), identifying driving pressure and interfacial tension as dominant contributors. These insights enhance the mechanistic understanding of cavitation-driven emulsification and offer a foundation for optimising droplet size control and energy efficiency in industrial cavitation systems.",
+  "raw_path": "01_raw/europepmc_xml/PMC12345313.xml",
+  "text_path": "02_text/europepmc/PMC12345313.txt",
+  "raw_bytes": 318160,
+  "text_chars": 74549,
+  "raw_sha256": "3aca97103159d36c9ab7ca5a16c3187189afbf07ac9b97985fc8ffae506d0b23",
+  "text_sha256": "fd4ceed69f36431065e6251fa4d3cc3ddb4f22a77582c4e6fa976cfbfd36aa65",
+  "retrieved_at": "2026-10-25T15:31:42.387743+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13149055",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Dating app-facilitated infidelity, sexual attitudes, and personality.",
+  "authors": "Freyth L.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1782214",
+  "pmcid": "PMC13149055",
+  "url": "https://europepmc.org/article/PMC/PMC13149055",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13149055/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "",
+  "raw_path": "01_raw/europepmc_xml/PMC13149055.xml",
+  "text_path": "02_text/europepmc/PMC13149055.txt",
+  "raw_bytes": 102653,
+  "text_chars": 23364,
+  "raw_sha256": "74ebe68c4b9077fa8570ce21f59c1104cce375b6ea8322aa048e5b1670045d38",
+  "text_sha256": "0ae32381d55e8aa24c70c2c769f41c9559a7e21e9d779a967da8c0a0a973130a",
+  "retrieved_at": "2026-10-25T15:45:13.046935+00:00"
+}

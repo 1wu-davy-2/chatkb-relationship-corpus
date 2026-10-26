@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_27582",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "喻世明言",
+  "gutenberg_id": "27582",
+  "url": "https://www.gutenberg.org/ebooks/27582",
+  "download_url": "https://www.gutenberg.org/cache/epub/27582/pg27582.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/27582.txt",
+  "text_path": "02_text/gutenberg/gut_27582_喻世明言.txt",
+  "raw_bytes": 1130409,
+  "text_chars": 370434,
+  "text_sha256": "ddf2c3fa4cd8810e6e5810a9c3364adc6724ecfb21728018a276666a9f55c56b",
+  "retrieved_at": "2026-10-25T15:45:20.695583+00:00"
+}

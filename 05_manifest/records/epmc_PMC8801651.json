@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8801651",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Perceived Partner Responsiveness Forecasts Behavioral Intimacy as Measured by Affectionate Touch.",
+  "authors": "Jolink TA, Chang YP, Algoe SB.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/0146167221993349",
+  "pmcid": "PMC8801651",
+  "url": "https://europepmc.org/article/PMC/PMC8801651",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8801651/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "responsiveness"
+  ],
+  "abstract": "Affectionate touch is an important behavior in close relationships throughout the lifespan. Research has investigated the relational and individual psychological and physical benefits of affectionate touch, but the situational factors that give rise to it have been overlooked. Theorizing from the interpersonal process model of intimacy, the current studies tested whether perceived partner responsiveness forecasts affectionate touch in romantic couples. Following a preliminary integrative data analysis ( N = 842), three prospective studies use ecologically valid behavioral (Studies 1 and 2) and daily (Studies 2 and 3) data, showing a positive association between perceived partner responsiveness and affectionate touch. Furthermore, in Study 3, we tested a theoretical extension of the interpersonal process of intimacy, finding that affectionate touch forecasts the partner's perception of the touch-giver's responsiveness the next day. Findings suggest affectionate touch may be an untested mechanism at the heart of the interpersonal process of intimacy.",
+  "raw_path": "01_raw/europepmc_xml/PMC8801651.xml",
+  "text_path": "02_text/europepmc/PMC8801651.txt",
+  "raw_bytes": 205216,
+  "text_chars": 88128,
+  "raw_sha256": "dc08e940fd190554eb9e30871e329b295c334d807174ac65e3dda32a0e42723d",
+  "text_sha256": "2bb52c96a3d867e5b5c17b6d68c22fbe1df8aa75fe6177ac5ffa3e7b7a394ecb",
+  "retrieved_at": "2026-10-25T14:00:21.957230+00:00"
+}

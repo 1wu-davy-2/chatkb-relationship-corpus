@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC9820285",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Romantic Duration, Relationship Quality, and Attachment Insecurity among Dating Couples.",
+  "authors": "Freeman H, Simons J, Benson NF.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3390/ijerph20010856",
+  "pmcid": "PMC9820285",
+  "url": "https://europepmc.org/article/PMC/PMC9820285",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9820285/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship",
+    "sexual_frequency"
+  ],
+  "abstract": "For many young adults today dating is not taken as a path to marriage, but as a relationship to be considered on its own terms with a beginning, middle, and end. Yet, research has not kept pace as most studies that look at relationships over time focus on marriages. In the present study, we look at individual differences and normative patterns of dating relationship quality over time. We tested a path model of associations between relationship duration, attachment insecurity, and four relationship quality domains (sexual frequency, commitment, satisfaction, and companionship) among a large sample of dating young adults ( N = 1345). Based on a conceptual model of romantic relationship development, results supported expectations that dating trajectories are curvilinear, with unique patterns of accent, peak, and decent for each relationship domain. Dating duration also moderated the relationship between dating quality and attachment insecurity with anxious attachment becoming a more salient predictor of lower satisfaction and lower commitment in long-term versus short-term relationships. A quadratic interaction with sexual frequency indicated that insecurity predicted less sexual activity in new relationships, more activity among relationships between two and four years, but then less again in longer-term relationships. Findings suggest patterns of stability and change in dating relationships during emerging adulthood that complement those observed from the marriage literature.",
+  "raw_path": "01_raw/europepmc_xml/PMC9820285.xml",
+  "text_path": "02_text/europepmc/PMC9820285.txt",
+  "raw_bytes": 157561,
+  "text_chars": 50004,
+  "raw_sha256": "f691a4374e5b745cefe5618b77e609d78fef0c427fd24c7832f942b80f4d60dd",
+  "text_sha256": "ff28131bfe288451f8b4cec460f45cdcde4c2c925e189193b05b347b1d37f2e4",
+  "retrieved_at": "2026-10-25T15:46:59.428391+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12130603",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Young Women's Silencing-Type Behaviors in Heterosexual Relationships.",
+  "authors": "Samardzic T, Barata PC, Morton M, Yen J.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/08862605241265417",
+  "pmcid": "PMC12130603",
+  "url": "https://europepmc.org/article/PMC/PMC12130603",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12130603/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "assertiveness_boundaries"
+  ],
+  "abstract": "Feminist researchers have demonstrated that engagement in silencing of the self (i.e., self-restrictive and sacrificial behaviors reflecting how women \"should\" be in relationships) remains a prevalent strategy for relationship maintenance. However, little is known about (young) women silencing themselves in relationships where abuse is present. Young women's experiences of silencing and other partner-focused behaviors (e.g., sexual compliance) within their relationships were thus explored. Young, partnered women ( M age = 21; N = 146) completed an online survey and open-ended questions about their current intimate relationships. Comparing between groups (abuse, n = 108; non-abuse, n = 38), the former scored higher on measures of total self-silencing, sexual compliance, and non-constructive communication and lower on measures of constructive communication (all p < .001). A mixed inductive and deductive content analysis found that while the importance of communicating with their partner was a preferred strategy for conflict management, multiple participants still emphasized self-suppression as an important part of their experience of relational conflict. Also, most participants indicated feeling as though they could be their authentic selves in their relationships, which suggests that their silencing may be situational and strategic in nature. These findings nuance previous understandings of self-silencing as inherently harmful and instead frame it as something sporadic and done strategically. They also bring forth questions about the extent to which young women's emphasis on communication and insistence that they can be authentic are a product of changing societal expectations of women in today's society compared to the 1980s/1990s when much of the foundational work on self-silencing was being done.",
+  "raw_path": "01_raw/europepmc_xml/PMC12130603.xml",
+  "text_path": "02_text/europepmc/PMC12130603.txt",
+  "raw_bytes": 150104,
+  "text_chars": 46539,
+  "raw_sha256": "3f65004f9ff3300674d27853d23aa163dc05b96bbce113be32af4b299aece0aa",
+  "text_sha256": "d308a98a586566c84b2a386c774090c6ac7dad5eb4690616903ec1e1b72d0df7",
+  "retrieved_at": "2026-10-25T15:29:33.486144+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10726052",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "An assessment of appraisals of dating relationship conflicts and perceptions of appropriate coping strategies with psychologically abusive interactions.",
+  "authors": "Matheson K, Wornovitzky D, Landry J, Anisman H.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2023.1286139",
+  "pmcid": "PMC10726052",
+  "url": "https://europepmc.org/article/PMC/PMC10726052",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10726052/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "situationship"
+  ],
+  "abstract": "Introduction Stemming from a stress appraisal and coping perspective, the present investigation developed a methodology for assessing how individuals appraise abusive dating relationship conflicts (Study 1) and the implications of such appraisals for informing coping responses to abusive interactions (Study 2). Methods Participants ranging in age from 17 to 29 years (Study 1: 102 males, 339 females; Study 2: 88 males, 362 females) completed a survey in which they were presented with a series of 10 scenarios that conveyed relationship conflict cues that were ostensibly aligned with various forms of psychological abuse. Results Factor analyses indicated that blatant actions conducted in privacy were differentiated from more ambiguous public forms of psychological abuse, in that the latter were appraised by both males and females as more abusive. Females were further likely to appraise blatant conflicts as more threatening but at the same time more resolvable. Participants who had encountered abuse in their own intimate relationships were especially likely to appraise conflicts as abusive, threatening and uncontrollable. Such appraisals were associated with greater endorsement of avoidant coping strategies in response to an abusive encounter, irrespective of personal relationship experiences. Discussion It is suggested that how individuals appraise relationship conflicts may be key to their ability to cope effectively with such encounters or to provide appropriate support to those experiencing psychologically abusive relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC10726052.xml",
+  "text_path": "02_text/europepmc/PMC10726052.txt",
+  "raw_bytes": 179742,
+  "text_chars": 61018,
+  "raw_sha256": "e1696758b990aa080cb6f16f44ba1885545fe4fa7096c4d8b1906452f26277d0",
+  "text_sha256": "b2c5bab14e1158b7569075fac840388a86b6b85d55c81709527fdd39ff266293",
+  "retrieved_at": "2026-10-25T15:27:07.736381+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6702380",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Data set on the influence of members of a couple on family vacation decision-making.",
+  "authors": "Rojas-de-Gracia MM, Alarcón-Urbistondo P, Casado-Molina AM.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1016/j.dib.2019.104233",
+  "pmcid": "PMC6702380",
+  "url": "https://europepmc.org/article/PMC/PMC6702380",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6702380/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_styles"
+  ],
+  "abstract": "This article describes a database on the perceptions of members of a couple regarding the influence exerted in three stages (initiation, search, and final decision) and seven sub-decisions (destination, accommodation, transport, budget, date, activities, restaurants) in the family vacation decision-making process. We obtained responses from 375 couples, whose members each completed the questionnaire individually, which also enables researchers to obtain information about the consensus between the perceptions of both regarding said influence. To complement this information, we also included sociodemographic and travel behavior variables for the couples analyzed. The data are publicly available at https://github.com/mmrojasgracia/Data-in-Brief_Influence. For interpretation and discussion, please see the original article entitled \"Is asking only one member of a couple sufficient to determine who influences tourism decisions?\" (Rojas-de-Gracia et al., 2019) (Rojas-de-Gracia et al., 2019).",
+  "raw_path": "01_raw/europepmc_xml/PMC6702380.xml",
+  "text_path": "02_text/europepmc/PMC6702380.txt",
+  "raw_bytes": 37464,
+  "text_chars": 10460,
+  "raw_sha256": "5f916d131390f13403a7740bee3221557d6f69ed3b48b7bc71153edf4b692ed3",
+  "text_sha256": "3fcf9e90dc414e903c985f231e1c3cdbe43980c018069cf324b87224d2ec0780",
+  "retrieved_at": "2026-10-25T15:32:20.929151+00:00"
+}

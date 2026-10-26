@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11887320",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Romantic relationship status and internalized homophobia in LGB individuals: a parallel mediation model examining the roles of gender and coming out status.",
+  "authors": "Yu N, Chen K, Song M, Zhang N, Liu S.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40359-025-02521-6",
+  "pmcid": "PMC11887320",
+  "url": "https://europepmc.org/article/PMC/PMC11887320",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11887320/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_esteem"
+  ],
+  "abstract": "Background To examine the parallel mediating effects of social networking site use and self-esteem on the internalization of homophobia among LGB individuals, with a focus on variations across gender and coming out status. Methods A sample of 657 homosexual and bisexual individuals (mean age: 22.81 ± 6.15 years) was recruited through online social media platforms. This study examined romantic relationship status, coming out status, and the use of social networking sites. It also assessed internalized homophobia using the Internalized Homophobia Scale (IHS), social network site engagement with the Social Network Site Intensity Scale (SNSIS), and self-esteem using the Self-Esteem Scale (SES). SPSS PROCESS was used to examine the parallel mediation model, while Amos was employed to analyze the moderated mediation model. Results The social networking site use and self-esteem serve as parallel mediators in the relationship between romantic relationship status and the internalized homophobia. The mediating effect accounted for 23.75% and 21.88% of the total effect, respectively. Gender acts as a mediator in the pathways involving social networking site use and self-esteem, while coming out status mediates each component of these pathways. The romantic relationship status of LGB individuals is linked to internalized homophobia. Social networking site use and self-esteem act as parallel mediators in their relationship, while gender and coming out status playing a moderating role. Conclusions This study sheds light on the intricate factors influencing internalized homophobia among LGB individuals, emphasizing the mediating roles of social networking site usage and self-esteem, along with the moderating effects of gender and coming out status. The findings underscore the importance of fostering inclusive environments that support self-expression and reduce discrimination against LGB individuals. Furthermore, this study suggests directions for future research, including the use of longitudinal designs, the detailed categorization of romantic relationship statuses, and deeper exploration of psychological and behavioral differences across various LGB identities. By addressing these limitations, future studies can offer a more nuanced understanding of internalized homophobia and contribute to the development of effective intervention and prevention strategies for this vulnerable population.",
+  "raw_path": "01_raw/europepmc_xml/PMC11887320.xml",
+  "text_path": "02_text/europepmc/PMC11887320.txt",
+  "raw_bytes": 133040,
+  "text_chars": 45670,
+  "raw_sha256": "7dd96439b3bd78aa2f20d3e1e01401760fa9896ec1fb61db8b2c57677efb23b7",
+  "text_sha256": "ec899b37d1c2404ae963877f9bbda833c303c1c37d9e913ac3f8f4e2415175ac",
+  "retrieved_at": "2026-10-25T15:31:10.280043+00:00"
+}

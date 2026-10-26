@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_7375",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "大學 章句",
+  "gutenberg_id": "7375",
+  "url": "https://www.gutenberg.org/ebooks/7375",
+  "download_url": "https://www.gutenberg.org/cache/epub/7375/pg7375.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/7375.txt",
+  "text_path": "02_text/gutenberg/gut_7375_大學_章句.txt",
+  "raw_bytes": 45225,
+  "text_chars": 9044,
+  "text_sha256": "ee7681542f6df76496d43003142e3909becf272b52ab35c0bc53e98500447639",
+  "retrieved_at": "2026-10-25T16:06:31.880837+00:00"
+}

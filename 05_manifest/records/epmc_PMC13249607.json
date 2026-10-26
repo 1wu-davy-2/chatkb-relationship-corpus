@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13249607",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Intimate Partner Violence and Mental Health in Rural Women.",
+  "authors": "Kumar K, Mehra A, Kaur S, Kiran T, Goel K.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/09727531261447039",
+  "pmcid": "PMC13249607",
+  "url": "https://europepmc.org/article/PMC/PMC13249607",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13249607/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Background Intimate partner violence (IPV) is a significant problem; however, researchers and clinicians have not paid much attention. Purpose To assess the prevalence of IPV among married rural women and its correlates. Methods This cross-sectional study was conducted in a rural area. All the eligible females were assessed on the Intimate Partner Violence Questionnaire (IPVQ), Generalised Anxiety Disorder Questionnaire-7 (GAD-7) and Patient Health Questionnaire (PHQ)-9. Results 169 females included with the mean age of 35.8 years. The prevalence of lifetime experience of IPV was 29.0%. Controlling behaviour was most common, followed by physical violence, threatening behaviour and sexual behaviour. About one-fourth (26%) had depres-sion, and a little less than one-third (30.8%) had an anxiety disorder. Severity of depression and anxiety had a significant posi-tive correlation with IPV and other domains of IPV. Those participants whose husbands were consuming alcohol or other illicit drugs and were from a lower socio-economic status reported a significantly higher experience of IPV. Conclusion The stakeholders, such as community health organisations, Ministry of Family and Healthcare organisations and others, should work in collaboration with a non-govern-mental organisation in a coordinated and planned manner and can take a pivotal role in research, prevention of IPV and other psychiatric problems among rural females.",
+  "raw_path": "01_raw/europepmc_xml/PMC13249607.xml",
+  "text_path": "02_text/europepmc/PMC13249607.txt",
+  "raw_bytes": 77065,
+  "text_chars": 18778,
+  "raw_sha256": "27530cd7f07c86210f6792b27d87bbb3fa5e079a0f333f172c91d30dd18fd9a1",
+  "text_sha256": "46095e5ab04079a2a6cd761efb9742c1482a0b50eeb24075cd142370c4b70811",
+  "retrieved_at": "2026-10-25T14:00:27.081603+00:00"
+}

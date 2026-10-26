@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13310266",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "What Narcissists Look Like and Why It's Important.",
+  "authors": "Smith S, Proulx T, Haddock G.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/01461672251339014",
+  "pmcid": "PMC13310266",
+  "url": "https://europepmc.org/article/PMC/PMC13310266",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13310266/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Prior research investigating public perceptions of narcissistic individuals has relied on participant ratings of researcher-selected dimensions or character vignettes, limiting generalizability and ecological validity. Using reverse correlation-a bottom-up, participant-driven method-we examined how people visually represent narcissists, and the consequences of these representations on attributional perceptions (e.g., trust, leadership, attraction). As narcissism is commonly perceived in terms of selfishness or vanity, participants generated facial images where the selfish (Experiment 1) or vain (Experiment 2) dimensions of narcissism were made salient-resulting in selfish-narcissistic versus non-selfish faces and vain-narcissistic versus non-vain faces. Experiment 3 directly compared representations of selfish- and vain-narcissistic faces and their non-narcissistic counterparts. While narcissistic facial images were generally perceived unfavorably by naïve raters, the vain-narcissistic face was seen as more agentic (e.g., competent) and attractive than the selfish-narcissistic face. Narcissistic (vs. non-narcissistic) raters also viewed the vain-narcissistic face more favorably, an effect mediated by perceived similarity.",
+  "raw_path": "01_raw/europepmc_xml/PMC13310266.xml",
+  "text_path": "02_text/europepmc/PMC13310266.txt",
+  "raw_bytes": 209304,
+  "text_chars": 66208,
+  "raw_sha256": "2d0de5dbd1098ec515c16f7058109c705f70ec37d42e5d59107d0c8b600fd107",
+  "text_sha256": "30737eb01196a5b3aac40e5f0c32895c7ab3fed82e0f08fc089b9aa2d2929675",
+  "retrieved_at": "2026-10-25T13:58:12.203259+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_25399",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "石點頭",
+  "gutenberg_id": "25399",
+  "url": "https://www.gutenberg.org/ebooks/25399",
+  "download_url": "https://www.gutenberg.org/cache/epub/25399/pg25399.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/25399.txt",
+  "text_path": "02_text/gutenberg/gut_25399_石點頭.txt",
+  "raw_bytes": 636303,
+  "text_chars": 206630,
+  "text_sha256": "e3b1be3b1da6dda55817002369daa833bedb2981137f00f6a06a9df6d003c809",
+  "retrieved_at": "2026-10-25T16:05:38.958573+00:00"
+}

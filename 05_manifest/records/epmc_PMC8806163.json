@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8806163",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Effect of Emotional Reactivity on Marital Quality in Chinese Couples: The Mediating Role of Perceived Partner Responsiveness.",
+  "authors": "Yuan Q, Fan Z, Leng J.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2021.787899",
+  "pmcid": "PMC8806163",
+  "url": "https://europepmc.org/article/PMC/PMC8806163",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8806163/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "responsiveness"
+  ],
+  "abstract": "This study investigated the mediating role of perceived partner responsiveness in the relationship between emotional reactivity and marital quality among Chinese couples. The survey participants included 550 couples from 28 provinces in the Eastern, Central and Western China. The ages of the husbands range from 39 to 64 years old whose average age is 46.45 years old, while the ages of the wives vary between 32 and 62 years old whose average age is 45.08 years old. The Emotion Reactivity Scale, Perceived Partner Responsiveness Scale, and Quality of Marriage Index were selected for measurement. The results showed that the scores of husbands perceived partner responsiveness and marital quality were significantly higher than those of wives, and there was no significant difference in emotional reactivity between husbands and wives. Correlation analysis showed that emotional reactivity of couples was negatively correlated with perceived partner responsiveness and marital quality, while perceived partner responsiveness was positively correlated with marital quality. Based on the Actor-Partner Interdependence Model (APIM), it was found that the emotional reactivity of both spouses was a significant negative predictor of their marital quality (actor effect). It also significantly negatively predicted the marital quality of the spouse (partner effect). The mediating effect analysis results showed that the husbands' perceived partner responsiveness played a mediating role in the emotional reactivity of the couples on marital quality of the husbands, and the wives' perceived partner responsiveness played a mediating role in the emotional reactivity of the couples on marital quality of the husbands. The wives' perceived partner responsiveness played a mediating role in the effect of the couples' emotional reactivity on the wives' marital quality. The results of this study contribute to a better understanding of the mechanism of emotional reactivity of couples affecting marital quality and have a guiding significance for improving marital quality.",
+  "raw_path": "01_raw/europepmc_xml/PMC8806163.xml",
+  "text_path": "02_text/europepmc/PMC8806163.txt",
+  "raw_bytes": 112615,
+  "text_chars": 39839,
+  "raw_sha256": "ea15cf4043d8c06d50971b5304b448974255ef2d3e69fb60a8b53951c2e78d13",
+  "text_sha256": "17de5fb96e1b55f494558c8ef26cf5c2700fa69bb4fe54d79c1203e5844a62a4",
+  "retrieved_at": "2026-10-25T13:55:59.631889+00:00"
+}

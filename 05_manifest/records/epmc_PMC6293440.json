@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6293440",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marriage as a training ground: Examining change in self-control and forgiveness over the first 4 years of marriage.",
+  "authors": "Pronk TM, Buyukcan-Tetik A, Iliás MMAH, Finkenauer C.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1177/0265407517721065",
+  "pmcid": "PMC6293440",
+  "url": "https://europepmc.org/article/PMC/PMC6293440",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6293440/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "forgiveness"
+  ],
+  "abstract": "Do partners' levels of self-control and forgiveness change over the course of marriage? Based on the idea that marriage may function as a training ground for these vital relationship abilities, we hypothesized that people increase their levels of self-control and forgiveness over time and that these developments take place simultaneously. We tested these predictions among 199 newlywed couples in the first 4 years of marriage, using a dyadic latent growth curves analysis. Confirming our hypotheses, results showed significant increases in self-control and forgiveness as well as a positive concurrent correlation between these variables. However, the developments of self-control and forgiveness were unrelated. So, while people become more self-controlled and forgiving over the course of a marriage, these developments do not coincide.",
+  "raw_path": "01_raw/europepmc_xml/PMC6293440.xml",
+  "text_path": "02_text/europepmc/PMC6293440.txt",
+  "raw_bytes": 153675,
+  "text_chars": 47250,
+  "raw_sha256": "a566ce709fbebbd5cfca3cd9d354705bc4e09f99cb9dddadc344f4f064531f08",
+  "text_sha256": "c2a66de34c82717677cb7fcbf80c6a6ce8fd6c631136cc338857cd6582c61b7f",
+  "retrieved_at": "2026-10-25T13:56:22.260153+00:00"
+}

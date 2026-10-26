@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_dowry",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "嫁妆",
+  "requested_title": "嫁妆",
+  "url": "https://zh.wikipedia.org/wiki/%E5%AB%81%E5%A6%86",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "marriage",
+    "money",
+    "china"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/dowry.json",
+  "text_path": "02_text/zh_wikipedia/dowry.txt",
+  "raw_bytes": 26024,
+  "text_chars": 8915,
+  "text_sha256": "561f3373f43b4c88d8d2ad7e5cf8c53abea83b9d861cdc340f217251e7014915",
+  "retrieved_at": "2026-10-25T15:40:19.940979+00:00"
+}

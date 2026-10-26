@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_pickup_artist",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "勾引社群",
+  "requested_title": "搭讪艺术家",
+  "url": "https://zh.wikipedia.org/wiki/%E5%8B%BE%E5%BC%95%E7%A4%BE%E7%BE%A4",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "pua",
+    "manipulation"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/pickup_artist.json",
+  "text_path": "02_text/zh_wikipedia/pickup_artist.txt",
+  "raw_bytes": 4021,
+  "text_chars": 1613,
+  "text_sha256": "3f2c7f32aee101a1758c6878b066592347b044949013b2824ede14966b8d8744",
+  "retrieved_at": "2026-10-25T15:38:13.294253+00:00"
+}

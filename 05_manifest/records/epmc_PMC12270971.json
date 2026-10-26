@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12270971",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Recognition of a Mating Partner Using Cuticular Hydrocarbons in a Species with an Extreme Intra-sexual Dimorphism.",
+  "authors": "Moris VC, Wirtgen A, Niehuis O, Schmitt T.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10886-025-01624-z",
+  "pmcid": "PMC12270971",
+  "url": "https://europepmc.org/article/PMC/PMC12270971",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12270971/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "Attracting a mate at the right time is critical for many species that reproduce sexually. In insects, short-range communication between potential mates is often mediated by cuticular hydrocarbons (CHCs), which cover most of the insect cuticle. Although the CHC profiles of many insects have been studied, we know little about what aspects of a CHC profile cause changes in mate attractiveness over the lifetime of an individual. We addressed this question by studying the mason wasp Odynerus spinipes, whose females exhibit age-related quantitative changes in their CHC profile composition. First, we created an ethogram of the male mating behavior. We observed in preliminary investigations that males do not attempt to mate with recently eclosed adult females. By coating wasp dummies with different CHC extracts, we were able to show that the CHC profiles of 0-day-old females are indeed less attractive to males than those of 3-day-old females. CHC profiles of 3-day-old females are characterized by significant decrease of the relative abundance of methyl-branched alkanes. These results, along with the consistently high relative abundance of methyl-branched alkanes in the CHC profile of males throughout their adult lifetime, suggest that in O. spinipes, methyl-branched alkanes may function as anti-aphrodisiacs. They likely reduce the harassment of females before they are ready to mate and help to prevent homosexual courtship.",
+  "raw_path": "01_raw/europepmc_xml/PMC12270971.xml",
+  "text_path": "02_text/europepmc/PMC12270971.txt",
+  "raw_bytes": 98781,
+  "text_chars": 41441,
+  "raw_sha256": "bcd16a99249a07ee59cf84ce93e9024a78051c7e8ba35537e489f43c1fd0e6d3",
+  "text_sha256": "7489ca43d58add1eaf34a4bb80ab05b5f7158d780c593b3a1edea46a659d9ddb",
+  "retrieved_at": "2026-10-25T15:38:08.485465+00:00"
+}

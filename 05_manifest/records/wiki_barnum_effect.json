@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_barnum_effect",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "巴納姆效應",
+  "requested_title": "巴纳姆效应",
+  "url": "https://zh.wikipedia.org/wiki/%E5%B7%B4%E7%B4%8D%E5%A7%86%E6%95%88%E6%87%89",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "cognition",
+    "bias",
+    "astrology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/barnum_effect.json",
+  "text_path": "02_text/zh_wikipedia/barnum_effect.txt",
+  "raw_bytes": 6173,
+  "text_chars": 2449,
+  "text_sha256": "7a2b7d98a76b41a987e5d39349a21de4022c8f2d21718f6a5a384da814c3c2fc",
+  "retrieved_at": "2026-10-25T15:33:19.647734+00:00"
+}

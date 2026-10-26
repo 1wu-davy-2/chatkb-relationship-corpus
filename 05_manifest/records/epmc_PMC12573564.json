@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12573564",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship experiences of transgender and non-binary adults: Exploring dating goals, relationship structures, minority stress, sexual fetishization, and relationship victimization.",
+  "authors": "Perez J, Pepping CA.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1080/26895269.2024.2316690",
+  "pmcid": "PMC12573564",
+  "url": "https://europepmc.org/article/PMC/PMC12573564",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12573564/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control",
+    "sexual_coercion"
+  ],
+  "abstract": "Objective Here we investigate the relationship experiences of TNB individuals, with a particular focus on (1) relationship status and structure; (2) dating motivations and dating app use; (3) minority stress in relational contexts, including rates and experiences of fetishization, and minority stress-related difficulties in relationship formation and maintenance; (4) rates of relationship violence, victimization, and online harassment; and (5) relationship outcomes, namely sexual and relationship satisfaction. Method 316 TNB adults ( M age = 26.84 years, SD = 7.47) completed a survey to assess their relationship experiences. Results Just over half the sample was in a romantic relationship; 68% were monogamous and 32% were consensually non-monogamous (CNM). Almost 75% of partnered individuals were satisfied in their relationship, and neither sexual nor relationship satisfaction differed by gender or relationship structure (monogamous vs. CNM). The highest rated motivation for dating was to find a love relationship, and the lowest rated motivation was for casual sex. Almost 70% reported difficulties finding a partner because of their gender identity or expression, and 63% reported having experienced fetishization. Compared with men and non-binary individuals, rates of fetishization were highest for women. Finally, high rates of online and in-person victimization were found, including verbal abuse (52%), sexual coercion (44%) and physical violence (34%). Conclusion Results provide new evidence about the relationship experiences of TNB adults. Results suggest that many TNB individuals form and maintain satisfying relationships, but also face significant minority stress-related challenges in relational contexts. More research into relationship interventions to better support TNB individuals is warranted.",
+  "raw_path": "01_raw/europepmc_xml/PMC12573564.xml",
+  "text_path": "02_text/europepmc/PMC12573564.txt",
+  "raw_bytes": 181611,
+  "text_chars": 59625,
+  "raw_sha256": "58efc36a6e735f437ba4e73ba527e4f963d51cceea689343eb5141f09362558b",
+  "text_sha256": "7fb39ecfdbc02e4e271f30f429bd8e457ea7c57b4d238c169e10b1829f19929b",
+  "retrieved_at": "2026-10-25T15:45:54.871234+00:00"
+}

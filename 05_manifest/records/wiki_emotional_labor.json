@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_emotional_labor",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "情緒勞動",
+  "requested_title": "情绪劳动",
+  "url": "https://zh.wikipedia.org/wiki/%E6%83%85%E7%B7%92%E5%8B%9E%E5%8B%95",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "boundaries",
+    "emotion"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/emotional_labor.json",
+  "text_path": "02_text/zh_wikipedia/emotional_labor.txt",
+  "raw_bytes": 4210,
+  "text_chars": 1569,
+  "text_sha256": "ca7a50fc3d65b4e3764ee10e760e261a689b9d255129f9b04c4a66b8e1cf5961",
+  "retrieved_at": "2026-10-25T15:37:05.590995+00:00"
+}

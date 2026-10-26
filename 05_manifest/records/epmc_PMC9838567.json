@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9838567",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Micro-Level Explanation for Suicidal Ideation Based on Marriage-Squeeze and Social Support Among Rural Men in China.",
+  "authors": "Yang X, Li R, Wang S.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/15579883221142188",
+  "pmcid": "PMC9838567",
+  "url": "https://europepmc.org/article/PMC/PMC9838567",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9838567/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "china_marriage"
+  ],
+  "abstract": "Higher sex ratio at birth often leads to sex imbalance and a severe squeeze on the marriage market. Up to now, no systematic studies have examined the relationship between marriage squeeze and suicidal ideation among rural men in a context of sex imbalance. Using surveys conducted in Chaohu (Anhui Province) and Ankang (Shaanxi Province) in China, this study analyzed the impact of marriage squeeze and social support on suicidal ideation among rural men. The perceived marriage squeeze significantly and positively affected suicidal ideation and the perceived social support negatively affected suicidal ideation among married and unmarried rural men. Objective social support did not significantly affect suicidal ideation among married men; however, it negatively affected suicidal ideation among unmarried men. Marriage squeeze increased the incidence of suicidal ideation among rural men, but perceived social support acted as a protective factor against suicidal ideation. These findings support the main effect hypothesis of social support. Objective social support is a double-edged sword, which may increase suicidal ideation incidence among rural men. The article ends with the conclusions and limitations of this study.",
+  "raw_path": "01_raw/europepmc_xml/PMC9838567.xml",
+  "text_path": "02_text/europepmc/PMC9838567.txt",
+  "raw_bytes": 135111,
+  "text_chars": 46427,
+  "raw_sha256": "208bd45f2d09d5baf6f5b109fdfaa7b603143160721d931c724bbea6949b5ed0",
+  "text_sha256": "ca2aaeaf15a8c1a7171e4db56da44dec839347ce6394789d22a1ab609868f861",
+  "retrieved_at": "2026-10-25T13:50:56.744240+00:00"
+}

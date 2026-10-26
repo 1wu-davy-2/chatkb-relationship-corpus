@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12027100",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Gender Perspectives in Intimate Partner Violence: The Influence of Alexithymia in Peri-Urban Contexts.",
+  "authors": "Coronel-Dávila A, Zavaleta-Aguilar G, Pérez-Lara C.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/healthcare13080853",
+  "pmcid": "PMC12027100",
+  "url": "https://europepmc.org/article/PMC/PMC12027100",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12027100/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "alexithymia"
+  ],
+  "abstract": "Background/Objectives : Intimate partner violence (IPV) remains a critical social issue, with gender perspectives offering valuable insights into its dynamics. Recent studies suggest that alexithymia, or the inability to identify and express emotions, may play a significant role in exacerbating IPV, especially in peri-urban areas. The general objective of this study was to determine the moderating role of gender in the relationship between alexithymia and intimate partner violence among adults in populated centers in Trujillo in 2024. Methods : A correlational research design with explanatory scope was employed, including moderation analysis. The sample consisted of 108 adults aged 18 to 35 from populated centers. The instruments used included the Intimate Partner Violence Scale, the Toronto Alexithymia Scale, and a sociodemographic questionnaire. Results : Results indicated that, in the alexithymia variable, females predominated with a high level (78%), followed by a medium level (19%). In the intimate partner violence variable, females also predominated, with 48% at a high level and 39% at a medium level. Additionally, a positive, moderate-to-high, and significant correlation (ρ = 0.78, p Conclusions : The study concluded that gender does indeed serve as a moderating variable (E = 1.42, p < 0.001) in the relationship between alexithymia and intimate partner violence in adults from populated centers.",
+  "raw_path": "01_raw/europepmc_xml/PMC12027100.xml",
+  "text_path": "02_text/europepmc/PMC12027100.txt",
+  "raw_bytes": 157186,
+  "text_chars": 35749,
+  "raw_sha256": "56f2c07e323557d673ef90aa634920ac5695b4c13a3b0e7bcc047a10fee88685",
+  "text_sha256": "b846ba75c03d4ae157b175034f81ddf575baa6db41c9b000ad9521f06247c2d1",
+  "retrieved_at": "2026-10-25T15:29:36.739596+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12798524",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The relationship between ambivalence over the expression of emotions and somatic symptoms among Iranian long-distance and geographically close partners: The mediating role of emotional suppression.",
+  "authors": "Okati N, Rangamiztoosi L, Gholipour M, Zarani F.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1371/journal.pmen.0000434",
+  "pmcid": "PMC12798524",
+  "url": "https://europepmc.org/article/PMC/PMC12798524",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12798524/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "emotion_regulation"
+  ],
+  "abstract": "Previous research has shown that difficulties in emotional expression may be linked to physical health symptoms, but few studies have explored this in the context of romantic relationship types. This study investigates the role of emotional suppression as a mediator between emotional ambivalence and somatic symptoms in long-distance (LDR) and geographically close relationships (GCR). A cross-sectional design was used with a convenience sample of 442 adults currently in romantic relationships, including 215 in LDRs (M_age = 26.8 years; 179 females, 48 males) and 227 in GCRs (M_age = 31.3 years; 187 females, 28 males). Participants completed the Ambivalence Over the Expression of Emotion Questionnaire (AEQ), Emotion Regulation Questionnaire (ERQ), Patient Health Questionnaire-15 (PHQ-15), and the Long-Distance Romantic Relationship Index. Data were analyzed using Structural Equation Modeling (SEM) and multigroup analysis via SmartPLS. There was a significant correlation between negative emotional ambivalence and somatic symptoms in both relationship groups. However, the mediating role of emotional suppression in this relationship was not supported. Gender differences in emotional suppression showed contrasting patterns between LDRs and GCRs. Moreover, participants in LDRs reported significantly higher somatic symptoms compared to those in GCRs. These findings suggest that the link between emotional ambivalence and somatic symptoms may involve other contributing factors beyond emotional suppression. This research highlights the importance of considering relationship context and gender in understanding how emotional experiences affect physical health.",
+  "raw_path": "01_raw/europepmc_xml/PMC12798524.xml",
+  "text_path": "02_text/europepmc/PMC12798524.txt",
+  "raw_bytes": 163266,
+  "text_chars": 31401,
+  "raw_sha256": "43f13ed8684cb49d5f2050d207c6d284101d29bca0a907f65dfc7933fcc211d2",
+  "text_sha256": "70ed8d479ead6cde40562862aebf5095b670a285d3549f8abd211b2760397973",
+  "retrieved_at": "2026-10-25T15:35:14.671116+00:00"
+}

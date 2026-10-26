@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13537554",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Fertility increases women's desire for conspicuous luxury.",
+  "authors": "Kim A, Durante KM, Laran J, Nikiforidis L, Griskevicius V.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0354126",
+  "pmcid": "PMC13537554",
+  "url": "https://europepmc.org/article/PMC/PMC13537554",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13537554/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "This paper examines hormonal fluctuations associated with fertility as one of the reasons behind women's desire for luxury. We suggest that women engage in conspicuous luxury consumption during ovulation, when they have a physiologically activated mating goal, because doing so helps women be noticed by men. Being noticed by as many men as possible increases the likelihood of attracting a desired partner for a romantic relationship. The finding that ovulation-the time of peak fertility-increases women's desire to purchase conspicuous luxury goods challenges previous research suggesting that women use luxury to signal high standards and limit their pool of potential partners. We reconcile this apparent contradiction by proposing a two-phase mating process: women first seek to attract a broad pool of potential partners (attraction phase), then select from among them for a romantic relationship (selection phase). These findings have benefits for researchers' understanding of how ovulation changes women's behavior towards men, and how mating motives can be a driver of the desire for luxury and conspicuous consumption in general.",
+  "raw_path": "01_raw/europepmc_xml/PMC13537554.xml",
+  "text_path": "02_text/europepmc/PMC13537554.txt",
+  "raw_bytes": 139005,
+  "text_chars": 62997,
+  "raw_sha256": "9eff35fd2d7e6055619752d45a20e4a56a051ed9986aaa000fe786c9581e7045",
+  "text_sha256": "8e2f8c0746eb30d759310f4005e484b1c21c678fe3269b0c5e0e5599c47a299a",
+  "retrieved_at": "2026-10-25T13:49:52.975718+00:00"
+}

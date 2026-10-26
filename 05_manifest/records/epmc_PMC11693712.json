@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11693712",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The magnitude of casual sex and associated factors among students at Debre Berhan University.",
+  "authors": "Mathewos T, Tesfahun E, Aemiro MT, Dejene TM.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/frph.2024.1491617",
+  "pmcid": "PMC11693712",
+  "url": "https://europepmc.org/article/PMC/PMC11693712",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11693712/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "Background Today's youth are adopting a new trend: casual sex. College students are expected to engage in a range of potentially harmful sexual activities, such as casual sex. Numerous factors can lead students to engage in casual sexual encounters. However, there has been limited research on the prevalence of casual sex and related issues in higher education institutions in Ethiopia. Objective To assess the prevalence of casual sex and its associated factors among regular undergraduate students at Debre Berhan University in 2023. Methods From 15 May 2023, to 30 May 2023, regular undergraduate students from Debre Berhan University participated in a cross-sectional study. A total of 512 samples were collected using a multistage sampling technique. Subsequently, a simple random sampling technique was employed to select the students, with a proportionate allocation of samples distributed to randomly selected colleges, departments, and academic years. The data were collected using a structured, pretested, and self-administered questionnaire. Once the data were imported into Epi-data version 4.6 and exported to SPSS version 20 for analysis, frequencies, percentages, and tables were generated. Bivariate and multivariate logistic regression models were used to identify characteristics associated with casual sex. Results The prevalence of casual sex among regular undergraduate students at Debre Berhan University was 31.0% 95% CI (27.2-34.6). Several factors were significantly associated with casual sex. These included students from urban areas [AOR: 2.95; 95% CI (1.66-5.24)], students with poor academic performance [AOR: 2.81; 95% CI (1.51-5.22)], alcohol consumption [AOR: 4.59; 95% CI (2.60-8.12)], attending nightclubs [AOR: 2.75; 95% CI (1.47-5.16)], watching pornography [AOR: 2.59; 95% CI (1.47-5.16)], and peer pressure [AOR: 2.24; 95% CI (1.38-3.65)]. Conclusion The prevalence of casual sex was high among Debre Berhan University students. In order to lessen the negative effects of casual sex practices, this study found predictors that can be avoided through various interventions. Key preventative measures include improving student academic performance, providing engaging and free entertainment, restricting access to pornographic websites on university Wi-Fi, and employing peer educators.",
+  "raw_path": "01_raw/europepmc_xml/PMC11693712.xml",
+  "text_path": "02_text/europepmc/PMC11693712.txt",
+  "raw_bytes": 92190,
+  "text_chars": 25023,
+  "raw_sha256": "7e8bbeea2e5669acf55eb3ca3544b7124fe577e51f82adf286070bbe7c437f02",
+  "text_sha256": "83cbf1018133cfa3cf2f61284671c20ad40dafd8066b4574cbb84e5bb58b4649",
+  "retrieved_at": "2026-10-26T12:54:42.152094+00:00"
+}

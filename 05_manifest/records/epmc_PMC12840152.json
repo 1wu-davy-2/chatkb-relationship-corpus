@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12840152",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Translating and Validating the Ghosting Questionnaire (GHOST) into French: Results Against the Romantic Ghosting Scale (RG-C).",
+  "authors": "Jahrami H, Husain W, Saif Z, Ammar A, Trabelsi K.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/ejihpe16010015",
+  "pmcid": "PMC12840152",
+  "url": "https://europepmc.org/article/PMC/PMC12840152",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12840152/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "ghosting"
+  ],
+  "abstract": "Background Ghosting, the sudden cessation of communication without explanation, is a growing phenomenon in digital interactions. Objective This study translated and validated the Ghosting Questionnaire (GHOST) into French to address the lack of a culturally appropriate tool for French-speaking populations. Methods Using a cross-sectional design, we followed rigorous translation protocols, including forward and back translation, expert review, and pilot testing. A diverse group of 274 French-speaking adults participated in a multisite study in Bahrain and Tunisia by completing the French language GHOST and the Romantic Ghosting Scale (RG-C). Results Psychometric analyses revealed strong reliability (Cronbach's α = 0.880, test-retest ICC = 0.920) and a unidimensional structure (CFI = 0.963, RMSEA = 0.058). Convergent validity was confirmed through significant correlations with RG-C subscales: Role of Aggressor (r = 0.899), Role of Victim (r = 0.829), and Emotional Impact (r = 0.632, all p Conclusions The French GHOST offers a robust instrument for researchers and clinicians to explore ghosting's psychological impacts in French-speaking communities.",
+  "raw_path": "01_raw/europepmc_xml/PMC12840152.xml",
+  "text_path": "02_text/europepmc/PMC12840152.txt",
+  "raw_bytes": 137500,
+  "text_chars": 54171,
+  "raw_sha256": "ab5c28b6f1886063cbc802d9698dccc9bfd78bbcc1deaa1dc8eb299d21ff8385",
+  "text_sha256": "91b0907f22f02870ca978ba398376629110132fdf9175507be79592c8ab172e8",
+  "retrieved_at": "2026-10-25T13:49:07.394774+00:00"
+}

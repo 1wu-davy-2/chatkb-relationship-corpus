@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9896526",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Reflecting on Legal Responses to Intimate Partner Femicide in Scotland.",
+  "authors": "McPherson R.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/10778012221094068",
+  "pmcid": "PMC9896526",
+  "url": "https://europepmc.org/article/PMC/PMC9896526",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9896526/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "This article considers legal responses to intimate partner femicide in Scotland. It reflects on how the plea of provocation on the basis of infidelity has been used, pointing to misrepresentation of the relationship between domestic abuse and stalking. From there, findings from 57 intimate partner femicide cases are presented. These findings indicate problematic stereotypes in how intimate partner femicide cases are reported and the operation of the \"love narrative\" in sentencing. It is concluded that more must be done to label intimate partner femicide cases appropriately and that improvements are achievable within the current criminal justice framework.",
+  "raw_path": "01_raw/europepmc_xml/PMC9896526.xml",
+  "text_path": "02_text/europepmc/PMC9896526.txt",
+  "raw_bytes": 90043,
+  "text_chars": 52129,
+  "raw_sha256": "51d6a7284be75681f73608fddda6b2578adf39dd48bbeda7623c8784933fae69",
+  "text_sha256": "3c53b80dd2a5e73d020ed61068925abc08aa78332be58d4de27ec4214ce6628d",
+  "retrieved_at": "2026-10-25T15:40:23.159865+00:00"
+}

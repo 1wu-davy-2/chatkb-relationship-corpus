@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10858602",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "\"Counteract the gaslighting\" - a thematic analysis of open-ended responses about what women survivors of intimate partner sexual violence need from service providers.",
+  "authors": "Peeren S, McLindon E, Tarzia L.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s12905-024-02943-1",
+  "pmcid": "PMC10858602",
+  "url": "https://europepmc.org/article/PMC/PMC10858602",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10858602/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Background Intimate partner sexual violence (IPSV) is a prevalent but misunderstood form of gender-based violence with significant impacts women's health and well-being. Research suggests that IPSV has a specific context and unique impacts, but little is known about how to tailor service responses. To address this gap, we explored help-seeking experiences and needs among IPSV survivors after disclosure. Methods This study draws on qualitative data from a subsample of women who participated in a cross-sectional survey about the service needs of intimate partner violence survivors. Women who reported IPSV and provided information about IPSV-specific help-seeking needs after disclosure were included in the analysis. Open-ended text responses of 37 IPSV survivors were analysed using thematic analysis. Results IPSV was invisible and silenced in service responses. Three themes suggest potential ways forward. In the first theme, 'Don't dismiss it', women needed providers to take their disclosures seriously and listen to the significant impacts of IPSV on their well-being and safety. In the second theme, 'See the bigger picture', women needed service providers to understand that IPSV fits into broader patterns of abuse, and that psychological abuse and coercive control impacts women's ability to consent. In the third theme, 'counteract the gaslighting', women needed providers to educate them about the continuum of IPSV and help them label IPSV as a form of violence. Conclusions Our exploratory findings extend the limited evidence base on IPSV and highlight a need for further in-depth research to explore a tailored approach to supporting IPSV survivors. To avoid contributing to the silencing of IPSV survivors, service responses should recognise the harmful and sexualised nature of IPSV, challenge cultural stereotypes that minimise IPSV, and understand that co-occurring psychological abuse may exacerbate shame and prevent women from articulating the source of their distress.",
+  "raw_path": "01_raw/europepmc_xml/PMC10858602.xml",
+  "text_path": "02_text/europepmc/PMC10858602.txt",
+  "raw_bytes": 91790,
+  "text_chars": 44304,
+  "raw_sha256": "241fdf31b1795fe2fc5b53d725b9d801e112af4258c9f6d5d6b69ec69e3e77f9",
+  "text_sha256": "0379f4b1fa809236128fed15a1cdf9f7454545845c3b25080f4dc08373d2b1d5",
+  "retrieved_at": "2026-10-25T15:47:18.334946+00:00"
+}

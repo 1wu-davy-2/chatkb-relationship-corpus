@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11176543",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Military sexual trauma and lower relationship satisfaction are associated with suicide risk among male service members and veterans.",
+  "authors": "Livingston WS, Blais RK.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2024.1355355",
+  "pmcid": "PMC11176543",
+  "url": "https://europepmc.org/article/PMC/PMC11176543",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11176543/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Male service members/veterans die by suicide at increased rates relative to civilians and females in the military, with risk increasing following military sexual trauma (MST) exposure. Suicide theories emphasize the role of feeling connected to others, and in the context of romantic relationships, it is possible that higher relationship satisfaction buffers the effects of MST. That said, MST exposure is associated with higher relationship distress, so the potential buffering effects are unclear. The current brief report assessed the interaction of relationship satisfaction and MST exposure as correlates of suicide risk among a convenience sample of 290 partnered male service members/veterans. This secondary analysis utilized a survey to assess MST exposure, relationship satisfaction, suicide risk, and demographics. Using linear regression, suicide risk was regressed on MST exposure, relationship satisfaction, and their interaction, as well as demographic covariates. The average score for relationship satisfaction suggested distressed relationships ( M =13.41, SD = 4.55) and 16.21% ( n= 47) reported MST. Suicide risk was elevated ( M =5.95, SD =3.23). The linear regression revealed that MST exposure ( B =1.21, p =.02) and lower relationship satisfaction ( B =-0.97, p p >.05). MST exposure and satisfaction in one's romantic relationship have unique and separate associations with suicide risk. Relationship satisfaction did not buffer the effects of MST on suicide, and this may be due to overall poor satisfaction scores. Notwithstanding, findings highlight the need to address both MST exposure and relationship satisfaction to reduce risk of suicide.",
+  "raw_path": "01_raw/europepmc_xml/PMC11176543.xml",
+  "text_path": "02_text/europepmc/PMC11176543.txt",
+  "raw_bytes": 52683,
+  "text_chars": 17958,
+  "raw_sha256": "d624e3d9603520f15db7544479c81afb8336ce6555e401b86796cb2dcd227cbf",
+  "text_sha256": "4c9ac1089cfef536cb4147822ae393c765b56f2695e0f1600945c75c720dc854",
+  "retrieved_at": "2026-10-25T15:48:06.331023+00:00"
+}

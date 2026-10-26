@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13099548",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Reply to Deng: Polygyny's marriage squeeze has little power to explain violence.",
+  "authors": "Gaddy H, Sear R, Fortunato L.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1073/pnas.2607580123",
+  "pmcid": "PMC13099548",
+  "url": "https://europepmc.org/article/PMC/PMC13099548",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13099548/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_market"
+  ],
+  "abstract": "",
+  "raw_path": "01_raw/europepmc_xml/PMC13099548.xml",
+  "text_path": "02_text/europepmc/PMC13099548.txt",
+  "raw_bytes": 15702,
+  "text_chars": 3726,
+  "raw_sha256": "1c8f3c1c76b1c624debefec39bbe12580fe7674e9151e90808152d51682496e6",
+  "text_sha256": "a8ac96ee769721f5076eb2379ddd14523f940042ad8cb1484ab4292c1cc84625",
+  "retrieved_at": "2026-10-25T15:27:15.276048+00:00"
+}

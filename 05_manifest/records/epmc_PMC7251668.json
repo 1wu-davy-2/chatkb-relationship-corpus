@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7251668",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The safe use of dating applications among men who have sex with men: a study protocol for a randomised controlled trial to evaluate an interactive web-based intervention to reduce risky sexual behaviours.",
+  "authors": "Choi EPH, Chow EPF, Wan EYF, Wong WCW, Wong JYH, Fong DYT.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.1186/s12889-020-08914-z",
+  "pmcid": "PMC7251668",
+  "url": "https://europepmc.org/article/PMC/PMC7251668",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7251668/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_apps_safety"
+  ],
+  "abstract": "Background Notably, both international and local studies have found a high prevalence of sexually transmitted infections (STIs) and risky sexual behaviours, such as condomless anal sex, substance misuse in conjunction with sex ('chemsex') and group sex, among men who have sex with men (MSM) dating application (app) users. Although the use of dating apps is an emerging sexual risk factor, little effort has been expended on the promotion of safe sex and good sexual health among the users of those apps. Therefore, the aim of the proposed study is to develop and evaluate the effectiveness of an interactive web-based intervention in improving the sexual health of MSM dating app users in Hong Kong. Methods A two-armed randomised controlled trial will be conducted. Chinese MSM dating app users will be recruited and randomly allocated into either the intervention (n = 200) or control group (n = 200). Subjects in the intervention group will receive the web-based intervention containing interactive content that (1) encourages a positive attitude towards consistent condom use and HIV/STI testing and negative attitude towards chemsex and group sex; (2) positions condom use and regular HIV/STI testing as normative; and (3) targets improved perceived self-efficacy concerning condom use and negotiation and HIV/STI testing. The control group will receive only web-based information without sexual health components. Subjects in both groups will be evaluated at baseline and three and 6 months after baseline. The primary outcome will be the frequency of condomless anal sex in the past 3 months. Discussion The proposed study will aid development of culturally relevant health promotion programmes aimed at minimising the potential harm of dating app use and promoting the sexual health of MSM dating app users. The web-based intervention, if found successful, will have important clinical and policy implications, as it can be adopted by the government and non-governmental organisations targeting MSM. Moreover, the proposed intervention can reach many MSM at relatively low cost, and thus has the potential to check the burgeoning HIV/STI epidemic among MSM in Hong Kong in a cost-effective manner. Trial registration International standard randomized controlled trial number (ISRCTN) registry: ISRCTN16681863 registered on 28 April 2020.",
+  "raw_path": "01_raw/europepmc_xml/PMC7251668.xml",
+  "text_path": "02_text/europepmc/PMC7251668.txt",
+  "raw_bytes": 77455,
+  "text_chars": 23299,
+  "raw_sha256": "1c298dbefa55b2798dddff99102e4fdc064084748f3bf3f09ea422cb6485c096",
+  "text_sha256": "62e0b0d63d3a542a4fd2775345613615c1fc9be8f926bc191bad0b9e1720239b",
+  "retrieved_at": "2026-10-25T15:29:07.018930+00:00"
+}

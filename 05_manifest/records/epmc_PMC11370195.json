@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11370195",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Scoping Review of Intimate Partner Violence Prevention Programs for Undergraduate College Students.",
+  "authors": "An S, Welch-Brewer C, Tadese H.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/15248380241237201",
+  "pmcid": "PMC11370195",
+  "url": "https://europepmc.org/article/PMC/PMC11370195",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11370195/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "Recognizing that intimate partner violence (IPV) negatively affects college students' health and well-being, colleges offer preventive interventions to address these effects. However, scholarly evidence on this effort has been limited, such that we know little about the risk factors addressed, theoretical approaches, target outcomes, and other essential intervention characteristics. To address this gap, this study reviewed evidence-based IPV preventive interventions conducted in U.S. colleges reported in 25 peer-reviewed articles and dissertations published between 2010 and 2020. Findings showed that IPV preventive interventions for college students were designed to address multilevel risk factors of IPV, typically via bystander interventions and emerging skill-building interventions. Most IPV preventive interventions were theoretically driven primary preventions or a combination of primary and secondary preventions. Most studies of program outcomes focus on awareness of IPV and bystander roles, but 44% of the included articles measured participants' behavioral outcomes (e.g., actual bystander behavior, reaction to IPV disclosure, IPV screening behavior, social emotional skill use, or decreased rates of IPV perpetration) based on participants' use of skill-building components (e.g., bystander strategies, healthy relationship skills, conflict resolution, communication skills, empathy, and self-regulation). Student participants in the included studies were predominantly white (>60%) and only two studies included any Latinx students or students at historically Black colleges and universities. This review indicates that future IPV prevention practice, policy, and research must further define and explore how multilevel IPV prevention approaches can address the various systems level of needs among diverse student subpopulations.",
+  "raw_path": "01_raw/europepmc_xml/PMC11370195.xml",
+  "text_path": "02_text/europepmc/PMC11370195.txt",
+  "raw_bytes": 182972,
+  "text_chars": 53215,
+  "raw_sha256": "7958772eed9dc45417291c09af88cfc982291a24ebb364f4b8eeea5a24bd9ca6",
+  "text_sha256": "60185d584eae2efc6de3304c21352917d9dec65e41169d76807c17b608998771",
+  "retrieved_at": "2026-10-25T15:34:51.740243+00:00"
+}

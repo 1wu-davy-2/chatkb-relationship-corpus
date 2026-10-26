@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_sexual_consent",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "性同意",
+  "requested_title": "性同意",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E5%90%8C%E6%84%8F",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "consent",
+    "sexuality"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/sexual_consent.json",
+  "text_path": "02_text/zh_wikipedia/sexual_consent.txt",
+  "raw_bytes": 13751,
+  "text_chars": 5061,
+  "text_sha256": "ea624d31e35fa738915f796ae0e4a2baa22b1aead3882723a3b2f5bb2c59c45c",
+  "retrieved_at": "2026-10-25T15:36:20.094896+00:00"
+}

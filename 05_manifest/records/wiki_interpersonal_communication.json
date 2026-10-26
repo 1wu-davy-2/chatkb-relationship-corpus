@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_interpersonal_communication",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "人際溝通",
+  "requested_title": "人际沟通",
+  "url": "https://zh.wikipedia.org/wiki/%E4%BA%BA%E9%9A%9B%E6%BA%9D%E9%80%9A",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "communication",
+    "skills"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/interpersonal_communication.json",
+  "text_path": "02_text/zh_wikipedia/interpersonal_communication.txt",
+  "raw_bytes": 18912,
+  "text_chars": 6979,
+  "text_sha256": "b77888566f35adc032577685b69492e80b1ee0c1b2a407cb77a6901878fc5a63",
+  "retrieved_at": "2026-10-25T15:30:29.621695+00:00"
+}

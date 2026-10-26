@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11966886",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A longitudinal network analysis of the relationship between love addiction, insecure attachment patterns, and interpersonal dependence.",
+  "authors": "Guan C, Wang J, Zhang L, Xu Z, Zhang Y, Jiang B.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40359-025-02605-3",
+  "pmcid": "PMC11966886",
+  "url": "https://europepmc.org/article/PMC/PMC11966886",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11966886/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "The present study employed a network analysis approach to explore interrelationships among love addiction, attachment anxiety, attachment avoidance, and interpersonal dependence. The sample included 80 couples (N = 160) in romantic relationships, assessed longitudinally through online self-reports at the study's initiation and three months later. The findings revealed that attachment anxiety correlated strongly with low self-confidence, attachment avoidance related to autonomy, and love addiction showed a positive association with emotional dependence but a negative association with attachment avoidance. These findings underscore the associations among love addiction, insecure attachment patterns, and dimensions of interpersonal dependence. Addressing the core link between love addiction and insecure attachment patterns may enhance the psychological well-being of both partners in a couple.",
+  "raw_path": "01_raw/europepmc_xml/PMC11966886.xml",
+  "text_path": "02_text/europepmc/PMC11966886.txt",
+  "raw_bytes": 150889,
+  "text_chars": 55179,
+  "raw_sha256": "7f064406edceab392a8de3ca4e45e1dce6dc655b683ddc68823b7b9d6f0fc2e4",
+  "text_sha256": "369d74e19acba842e6d954ab904e47ae7d9c2307e9f50d9f5136d68d6f5761af",
+  "retrieved_at": "2026-10-25T15:39:40.856709+00:00"
+}

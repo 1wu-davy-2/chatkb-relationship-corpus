@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12283867",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Counseling Aces: Experiences of Asexual Clients in China.",
+  "authors": "Lu R, Chui H.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s10508-025-03148-9",
+  "pmcid": "PMC12283867",
+  "url": "https://europepmc.org/article/PMC/PMC12283867",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12283867/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "asexuality_celibacy"
+  ],
+  "abstract": "To understand Chinese asexual individuals' mental health needs and service utilization, the present research aimed to explore Chinese asexual individuals' navigation of their asexual identity within the Chinese sociocultural context and their experience of interacting with mental health practitioners on asexuality issues. A sample of 10 self-identified asexual individuals in China aged between 21 and 32 were recruited to participate in two semi-structured interviews. Interpretative phenomenological analysis was employed to explore the participants' perspectives in depth. The analysis established four themes, including (1) identity exploration and negotiation, (2) service consideration, (3) satisfying experiences, and (4) unsatisfying experiences. Themes uncover the support needs of Chinese asexual individuals, their barriers and facilitators to help-seeking, and their interactions with mental health practitioners. Findings highlight the importance of incorporating cultural competence, cultural humility, and affirmative practice to assist asexual individuals' navigation of identity and cultivation of resiliency. There is a pressing need to de-pathologize asexuality in mental health settings and integrate asexual issues in multicultural training and supervision.",
+  "raw_path": "01_raw/europepmc_xml/PMC12283867.xml",
+  "text_path": "02_text/europepmc/PMC12283867.txt",
+  "raw_bytes": 179447,
+  "text_chars": 85027,
+  "raw_sha256": "b5608b230b69d312804e46e12c94520db1f15a18780f9bb6ed99ce38a275effb",
+  "text_sha256": "fc8134708362913aae124c4547d8a0f4253cd7733cf387250cbe3cfda3147daf",
+  "retrieved_at": "2026-10-26T12:54:36.405411+00:00"
+}

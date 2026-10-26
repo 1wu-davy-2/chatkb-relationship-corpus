@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5792014",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A short educational intervention diminishes causal illusions and specific paranormal beliefs in undergraduates.",
+  "authors": "Barberia I, Tubau E, Matute H, Rodríguez-Ferreiro J.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0191907",
+  "pmcid": "PMC5792014",
+  "url": "https://europepmc.org/article/PMC/PMC5792014",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5792014/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "barnum_forer"
+  ],
+  "abstract": "Cognitive biases such as causal illusions have been related to paranormal and pseudoscientific beliefs and, thus, pose a real threat to the development of adequate critical thinking abilities. We aimed to reduce causal illusions in undergraduates by means of an educational intervention combining training-in-bias and training-in-rules techniques. First, participants directly experienced situations that tend to induce the Barnum effect and the confirmation bias. Thereafter, these effects were explained and examples of their influence over everyday life were provided. Compared to a control group, participants who received the intervention showed diminished causal illusions in a contingency learning task and a decrease in the precognition dimension of a paranormal belief scale. Overall, results suggest that evidence-based educational interventions like the one presented here could be used to significantly improve critical thinking skills in our students.",
+  "raw_path": "01_raw/europepmc_xml/PMC5792014.xml",
+  "text_path": "02_text/europepmc/PMC5792014.txt",
+  "raw_bytes": 101228,
+  "text_chars": 37699,
+  "raw_sha256": "946f8c5e03f45aa4e12b6d1f15c3320b9f99c33a5cf9fb3fc0d9e075c055b78d",
+  "text_sha256": "a07885bcced342083d6345ec74593880f753f45a54fc67b929990b107a8bb9d0",
+  "retrieved_at": "2026-10-26T12:53:39.415941+00:00"
+}

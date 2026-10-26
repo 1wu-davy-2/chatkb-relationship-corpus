@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13683605",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Individual- and community-level factors associated with intimate partner controlling behavior among women in Somaliland: a multilevel analysis of the 2020 Somaliland demographic and health survey.",
+  "authors": "Nuh AM, Guled AM, Mohamed MA, Muse AH, Ali HA, Abdi HA, Ahmed AM, Salih O, Mohamed RA.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpubh.2026.1953781",
+  "pmcid": "PMC13683605",
+  "url": "https://europepmc.org/article/PMC/PMC13683605",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13683605/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Background Intimate partner controlling behavior (IPCB) is a key manifestation of coercive control and an important precursor to other forms of intimate partner violence. Despite its adverse consequences for women's autonomy, mental health, and well-being, evidence on the prevalence and factors associated with IPCB in Somaliland remains limited. This study aimed to estimate the prevalence and identify the individual- and community-level factors associated with IPCB among ever-married women in Somaliland. Methods A secondary analysis of the 2020 Somaliland Demographic and Health Survey (SLDHS) was conducted using a weighted sample of 9,428.14 (unweighted n = 9,593) ever-married women aged 15-49 years. IPCB was defined as experiencing at least one of five partner controlling behaviors reported for the respondent's current husband/partner. Multilevel logistic regression models, incorporating the DHS sample weight (V005) and clustering by primary sampling unit (135 clusters), were fitted to account for the hierarchical structure of the survey data and to identify factors associated with IPCB. Adjusted odds ratios (AORs) with 95% confidence intervals (CIs) were reported, and statistical significance was declared at p Results The prevalence of IPCB was 26.7% (95% CI: 25.8-27.6%; unweighted prevalence 25.1%). Women aged 25-29 years (AOR = 1.60, 95% CI: 1.01-2.53), those with primary education (AOR = 1.70, 95% CI: 1.44-2.00), and women from middle- (AOR = 1.46, 95% CI: 1.20-1.77) and rich-wealth households (AOR = 1.56, 95% CI: 1.30-1.88) had higher odds of experiencing IPCB. Conversely, joint healthcare decision-making (AOR = 0.69, 95% CI: 0.60-0.79), current pregnancy (AOR = 0.73, 95% CI: 0.63-0.85), marriage at ages 19-26 years (AOR = 0.71, 95% CI: 0.63-0.80) or >26 years (AOR = 0.63, 95% CI: 0.49-0.81), household size of 4-7 members (AOR = 0.81, 95% CI: 0.71-0.92), partner employment (AOR = 0.77, 95% CI: 0.68-0.87), and residence in Marodijeh, Togdheer, Sool, and Sanaag regions were associated with lower odds of IPCB. Conclusion Approximately one in four ever-married women in Somaliland experienced intimate partner controlling behavior, underscoring IPCB as an important public health and gender equality concern. Both individual- and community-level factors were significantly associated with women's odds of experiencing IPCB, highlighting the need for multilevel interventions that strengthen women's decision-making autonomy, delay early marriage, promote girls' education, and implement context-specific strategies to prevent coercive control and advance gender equality.",
+  "raw_path": "01_raw/europepmc_xml/PMC13683605.xml",
+  "text_path": "02_text/europepmc/PMC13683605.txt",
+  "raw_bytes": 133867,
+  "text_chars": 37095,
+  "raw_sha256": "e35ba9616c9bb62a2433352cd8c330b9c0b7bb89ced28344094d2840af450773",
+  "text_sha256": "c3b987364e4bf007239c1371af7fcc0ad904655965774c4d2bb518f15cf5ad8d",
+  "retrieved_at": "2026-10-25T13:56:57.599934+00:00"
+}

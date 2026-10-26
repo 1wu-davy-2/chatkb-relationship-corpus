@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10480888",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Red is romantic, but only for feminine females: sexual dimorphism moderates red effect on sexual attraction.",
+  "authors": "Wen F, Zuo B, Wu Y, Sun S, Liu K.",
+  "year": "2014",
+  "journal": "",
+  "doi": "",
+  "pmcid": "PMC10480888",
+  "url": "https://europepmc.org/article/PMC/PMC10480888",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10480888/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Previous researchers have documented that the color red enhances one's sexual attraction to the opposite sex. The current study further examined the moderating role of sexual dimorphism in red effects. The results indicated that red enhanced men's sexual attraction to women with more feminine facial characteristics but had no effect on ratings of perceived general attractiveness. Red clothing also had a marginally significant effect on men's sexual attractiveness. In addition, regardless of sexual dimorphism cues, male participants rated women with red as warmer and more competent. The underlying mechanisms of the red effect, the limitations of the current study, and suggestions for future directions are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC10480888.xml",
+  "text_path": "02_text/europepmc/PMC10480888.txt",
+  "raw_bytes": 100193,
+  "text_chars": 37564,
+  "raw_sha256": "a521bf77ff3680cc86d3800abaad43c5b3d8f158e82391aa85b70c5d2bea77cb",
+  "text_sha256": "b01a03bcda8b800943007d63ea4a3af421dafa85d2214b4241247836dee6f035",
+  "retrieved_at": "2026-10-25T15:48:40.530909+00:00"
+}

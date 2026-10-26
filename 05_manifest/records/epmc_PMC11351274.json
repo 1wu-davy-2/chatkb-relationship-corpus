@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11351274",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mate Choice Plurality, Choice Overload, and Singlehood: Are More Options Always Better?",
+  "authors": "Apostolou M, Constantinidou L, Kagialis A.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/bs14080703",
+  "pmcid": "PMC11351274",
+  "url": "https://europepmc.org/article/PMC/PMC11351274",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11351274/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "A lack of options can make it challenging for individuals to find a desirable intimate partner. Conversely, an abundance of choices might lead to mate choice overload, making it difficult to determine the most suitable match. Additionally, having numerous alternatives after entering a relationship could undermine its stability by decreasing satisfaction with the current partner. The present research aimed to examine the effects of mate choice plurality on singlehood status and the willingness to stay in a relationship within the Greek cultural context. Specifically, we employed closed-ended questionnaires, which included instruments developed using AI, with a sample of 804 Greek-speaking participants. We found that participants who perceived they had a wider range of potential romantic partners reported a lower likelihood of being single. Furthermore, more perceived mate choices were associated with fewer years spent as single. However, mate choice plurality was also linked to higher choice overload, which, in turn, increased the likelihood of being single rather than in an intimate relationship. Moreover, more perceived mate choices were associated with more regrets about being in the current relationship. These regrets were linked to lower relationship satisfaction and ultimately contributed to a decreased willingness to stay in the relationship. Notably, this indirect effect was significant only for male participants.",
+  "raw_path": "01_raw/europepmc_xml/PMC11351274.xml",
+  "text_path": "02_text/europepmc/PMC11351274.txt",
+  "raw_bytes": 96941,
+  "text_chars": 35897,
+  "raw_sha256": "78ee43c49d5c00ef54c76f4bc52124dcc7018e542989c8d83f2f6c8d9427b455",
+  "text_sha256": "326f97f72ae169a7f90a41e3b7e5b520a5be377ecd99582b4d156b4e33f2fd83",
+  "retrieved_at": "2026-10-25T13:52:54.583187+00:00"
+}

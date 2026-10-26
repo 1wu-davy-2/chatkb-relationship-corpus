@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12644164",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Gendered Racial Microaggressions and Depressive Symptoms Among Emerging Adult Asian American Women: Racial/Ethnic Differences Among Asian and White Romantic Partners.",
+  "authors": "Wong MJ, Keum BT, Nguyen M, Na JY.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1007/s40615-024-02184-w",
+  "pmcid": "PMC12644164",
+  "url": "https://europepmc.org/article/PMC/PMC12644164",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12644164/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "validation"
+  ],
+  "abstract": "Discrimination can contribute to adverse mental health outcomes among individuals in romantic partnerships. However, research has yet to examine how differences in partner race/ethnicity can shape the link between gendered racial microaggressions, an intersectional form of discrimination, and depressive symptoms among Asian American women. Accordingly, we assessed the link between gendered racial microaggressions and depressive symptoms, and whether partner race/ethnicity (White vs. Asian) moderated the link. Using a sample of 156 Asian American women (M age = 26.5, SD = 5.33), we conducted multiple regressions to assess the main effects between four gendered racial microaggression stress subscale factors and depressive symptoms. We then examined partner race/ethnicity as a moderator in these associations. All four gendered racial microaggression stress subscale factors of ascribed submissiveness, assumptions of universal appearance, Asian fetishism, and media invalidation significantly predicted greater depressive symptoms. However, only Asian fetishism experiences maintained a significant and positive association with depressive symptoms for Asian American women with White male partners. The association between Asian fetishism and depressive symptoms was no longer significant for Asian American women with Asian male partners. Results indicate that Asian fetishization may be a uniquely oppressive experience for Asian American women with White partners that can contribute to greater depressive symptoms. These findings demonstrate an increased need for the development of critical consciousness in individual and couples counseling sessions to help Asian American women and their romantic partners identify and mitigate the negative effects of gendered racial microaggressions.",
+  "raw_path": "01_raw/europepmc_xml/PMC12644164.xml",
+  "text_path": "02_text/europepmc/PMC12644164.txt",
+  "raw_bytes": 135961,
+  "text_chars": 47364,
+  "raw_sha256": "84898b5bc01dec425988671056c9172471984e7c029a0889a9bd7c10623eb1bb",
+  "text_sha256": "0d8fd165ab28d127f641f8455be5caf1487d5c43ad52cda484f9a265af5c94a3",
+  "retrieved_at": "2026-10-25T13:52:56.795211+00:00"
+}

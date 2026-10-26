@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8597186",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "We're Not That Choosy: Emerging Evidence of a Progression Bias in Romantic Relationships.",
+  "authors": "Joel S, MacDonald G.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1177/10888683211025860",
+  "pmcid": "PMC8597186",
+  "url": "https://europepmc.org/article/PMC/PMC8597186",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8597186/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Dating is widely thought of as a test phase for romantic relationships, during which new romantic partners carefully evaluate each other for long-term fit. However, this cultural narrative assumes that people are well equipped to reject poorly suited partners. In this article, we argue that humans are biased toward pro-relationship decisions-decisions that favor the initiation, advancement, and maintenance of romantic relationships. We first review evidence for a progression bias in the context of relationship initiation, investment, and breakup decisions. We next consider possible theoretical underpinnings-both evolutionary and cultural-that may explain why getting into a relationship is often easier than getting out of one, and why being in a less desirable relationship is often preferred over being in no relationship at all. We discuss potential boundary conditions that the phenomenon may have, as well as its implications for existing theoretical models of mate selection and relationship development.",
+  "raw_path": "01_raw/europepmc_xml/PMC8597186.xml",
+  "text_path": "02_text/europepmc/PMC8597186.txt",
+  "raw_bytes": 353373,
+  "text_chars": 108503,
+  "raw_sha256": "7c68451ba5cbc6a0e611b6008c5d8696315bc87d4e6e6ad8a16e1fb89a5d52ee",
+  "text_sha256": "47c72a7e3950bf66496b1cb75285512a99d86df67430b9583f46efdc50069941",
+  "retrieved_at": "2026-10-25T15:36:39.745192+00:00"
+}

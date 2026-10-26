@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10475216",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Coping or Thriving? Reviewing Intrapersonal, Interpersonal, and Societal Factors Associated With Well-Being in Singlehood From a Within-Group Perspective.",
+  "authors": "Girme YU, Park Y, MacDonald G.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/17456916221136119",
+  "pmcid": "PMC10475216",
+  "url": "https://europepmc.org/article/PMC/PMC10475216",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10475216/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "Singlehood, defined as not being in a romantic relationship, is becoming increasingly common worldwide. Despite this, research on singlehood has not received remotely equivalent research attention as romantic relationships. Well-being research that has explicitly included singles has focused on whether coupled versus single people are more satisfied with their lives. However, these between-group comparisons have not attended to within-group variability among singles that can point to when and for whom singlehood is associated with thriving. In this review, we document findings from the emerging field of singlehood studies to highlight what is and is not known about factors that are associated with the well-being of single individuals from a within-group perspective. Our review examines (a) intrapersonal factors (characteristics of the individual), (b) interpersonal experiences (qualities of one's social relationships and experiences), and (c) societal influences (features related to one's broader social or cultural context) related to well-being in singlehood. We conclude by offering future directions for the conceptualization of and research on singlehood with the goal of promoting a thorough and inclusive perspective.",
+  "raw_path": "01_raw/europepmc_xml/PMC10475216.xml",
+  "text_path": "02_text/europepmc/PMC10475216.txt",
+  "raw_bytes": 289405,
+  "text_chars": 82978,
+  "raw_sha256": "56aa6ce1036476c0879bd9c35ceab3d30f7e9b865ae3000a0b71d42f39890d6f",
+  "text_sha256": "da6ff4586fb465288bb8fbfb4488f2c2c0c8a0fc32fc969460a83097b2f5ccbe",
+  "retrieved_at": "2026-10-25T13:55:30.319986+00:00"
+}

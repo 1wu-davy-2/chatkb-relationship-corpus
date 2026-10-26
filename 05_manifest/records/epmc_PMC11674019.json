@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11674019",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Emotion Regulation Difficulties as a Mediator Between Relationship Satisfaction Predicting Depressive Symptom Trajectories Among Couples in Couple Therapy.",
+  "authors": "Morgan PC, Wittenborn AK, Morlan GL, Snyder R.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/bs14121215",
+  "pmcid": "PMC11674019",
+  "url": "https://europepmc.org/article/PMC/PMC11674019",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11674019/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "romantic_relationship"
+  ],
+  "abstract": "Although adults with depression struggle to effectively emotionally regulate themselves, these findings are limited to one partner in a romantic relationship, community samples, and cross-sectional designs. Hence, we aimed to address these gaps in the literature by investigating emotion regulation difficulties as a predictor of change in depression among couples in couple therapy. Additionally, we aimed to investigate whether emotion regulation difficulties mediated the well-established association between relationship satisfaction and changes in depression of couples in couple therapy. We examined 484 different-sex couples in couple therapy from the Marriage and Family Therapy Practice Research Network-a clinical dataset from clinics across the United States. Dyadic latent growth models revealed the actor and partner effects of emotion regulation difficulties at session 1, predicting decreases in depression trajectories across 16 sessions of couple therapy. Additionally, dyadic latent growth mediation models revealed that emotion regulation difficulties at session four did not mediate the associations between relationship satisfaction at session 1 with depression trajectories of sessions eight through 16. For couple therapy clinicians, emotion regulation difficulties can play a direct role in the treatment of depression. However, our results did not support emotion regulation difficulties as a mediator for the well-established association between relationship satisfaction and depression trajectories.",
+  "raw_path": "01_raw/europepmc_xml/PMC11674019.xml",
+  "text_path": "02_text/europepmc/PMC11674019.txt",
+  "raw_bytes": 195896,
+  "text_chars": 39393,
+  "raw_sha256": "18960ad6cd894d48e7403361c40728251f89eeb1c019ecc74acf3b5d55e89131",
+  "text_sha256": "9d37188e462923d5d1073a7f6d08e81f2d17f4bfef023aa2f154973911a7fbd9",
+  "retrieved_at": "2026-10-25T15:41:05.826587+00:00"
+}

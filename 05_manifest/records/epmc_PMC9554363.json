@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9554363",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Development and Validation of the Stalking and Obsessive Relational Intrusions Questionnaire (SORI-Q).",
+  "authors": "Gamache D, Savard C, Faucher J, Cloutier MÈ.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1177/08862605211042808",
+  "pmcid": "PMC9554363",
+  "url": "https://europepmc.org/article/PMC/PMC9554363",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9554363/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "Stalking and obsessive relational intrusions both refer to a pervasive and unwanted pattern of pursuit behaviors, the former being a criminal offense evoking fear and a sense of menace in the victim, while the latter may be perceived as annoying or otherwise undesirable, but not necessarily fear inducing. While the individual and societal costs of stalking and obsessive relational intrusion are increasingly recognized, research regarding these behaviors and their consequences has been limited by measurement issues, as most studies have relied on questionnaires and checklists based on very limited validation data. The goal of the present study is to report on the development and validation of the Stalking and Obsessive Relational Intrusions Questionnaire (SORI-Q), a 28-item self-report questionnaire designed to probe for perpetration of stalking-like behaviors. Young adults (age 18-30 years) from a community sample ( N = 1,804; 82.6% women) were recruited online. They completed the SORI-Q, along with measures of dark personality traits, insecure attachment dimensions, and intimate partner violence. Overall, the SORI-Q displayed sound psychometric properties. Exploratory and Confirmatory Factor Analysis yielded a two-factor solution ( Hyper-intimacy and Domineering control ) with adequate to good fit indices. The total scale and the two factor scores showed high internal consistency (above 0.70 for all indices). A number of gender differences were observed at total-, factor-, and item-level, the most outstanding being that women had a higher score on the total SORI-Q score, and on the Domineering control factor and most of its items. The questionnaire showed conceptually meaningful positive correlations with dark personality traits, attachment anxiety, and intimate partner violence. Dominance analysis revealed that attachment anxiety and Machiavellianism were the strongest statistical predictors of SORI-Q scores. The SORI-Q should be seen as a promising new measure of stalking-like and ORI behaviors in young adults from community settings.",
+  "raw_path": "01_raw/europepmc_xml/PMC9554363.xml",
+  "text_path": "02_text/europepmc/PMC9554363.txt",
+  "raw_bytes": 167718,
+  "text_chars": 50240,
+  "raw_sha256": "073a04ad2b5b26292a0e760bcf403017734dc9932ac59b179a1efbcd96cc9ec2",
+  "text_sha256": "b00accc72165516f40abfffe05e95fc03aacbc5450fb77bc4fa0de4c4c8e5378",
+  "retrieved_at": "2026-10-25T15:38:43.027669+00:00"
+}

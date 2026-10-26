@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC7820393",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Study of Sexual Satisfaction in Different Typologies of Adherence to the Sexual Double Standard.",
+  "authors": "Álvarez-Muelas A, Gómez-Berrocal C, Sierra JC.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2020.609571",
+  "pmcid": "PMC7820393",
+  "url": "https://europepmc.org/article/PMC/PMC7820393",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7820393/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts",
+    "shyness"
+  ],
+  "abstract": "The sexual double standard (SDS) refers to the acceptance of different criteria to assess the same sexual behavior in men and women. To date, the few studies that have addressed the relationship between SDS and sexual satisfaction have obtained inconclusive results. In addition, no study has analyzed sexual satisfaction in people who maintain different forms of adherence to the SDS. This study establishes three SDS typologies of adherence (man-favorable, woman-favorable, egalitarian) in two areas of sexual behavior (sexual freedom and sexual shyness) to examine the predictive capacity of personal variables (age, social dominance orientation, propensity for sexual excitation/inhibition), interpersonal variables (relationship satisfaction) and social variables (gender norms about sexual behaviors) in sexual satisfaction. A sample of 1194 heterosexual adults (51.1% men, 48.8% women) aged between 18 and 87 years ( M = 40.63; SD = 15.67), who had been in a relationship for more than 6 months, was evaluated. In men, the highest sexual satisfaction levels were obtained in the egalitarian typology in the sexual freedom area. In women, no significant differences were found between the typologies of adherence to the SDS. Regression models showed that relationship satisfaction was the main predictor of sexual satisfaction in all the typologies in both men and women. In addition, the predictive relationship of personal variables with sexual satisfaction varied according to gender and the SDS adherence type. The results show the importance of studying sexual satisfaction by taking into account not only the differences between men and women. Furthermore, it is essential to consider other differences between people; for example, the difference that derives from the way of psychologically internalizing attitude toward the SDS.",
+  "raw_path": "01_raw/europepmc_xml/PMC7820393.xml",
+  "text_path": "02_text/europepmc/PMC7820393.txt",
+  "raw_bytes": 175716,
+  "text_chars": 48541,
+  "raw_sha256": "ead0b7b2198d7f4fca7e3462f012395368ec2b814d301e13676f7f8a13a35033",
+  "text_sha256": "b6639f71bc63fa0ab1c32673c510229f390ec6b14ad62dfa2b296373b1516666",
+  "retrieved_at": "2026-10-25T15:28:45.305607+00:00"
+}

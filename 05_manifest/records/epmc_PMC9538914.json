@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9538914",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Pathways from economic hardship to couple conflict by socioeconomic status during COVID-19 in Korea.",
+  "authors": "Lee J, Yoo J, Chin M, Son S, Sung M, Chang YE.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1111/fare.12771",
+  "pmcid": "PMC9538914",
+  "url": "https://europepmc.org/article/PMC/PMC9538914",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9538914/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Objective The purpose of this study was to examine the direct and indirect relationships among economic hardship, economic strain, emotional stress, and couple conflict for married Koreans during the COVID-19 pandemic. In particular, we investigated whether these pathways were different between lower and higher socioeconomic status (SES) groups. Background Due to the global economic downturn brought on by COVID-19, many couples experienced economic hardship including increased household debt, job loss, and reduced work hours. This context provides a valuable opportunity to test the family stress model (FSM) of romantic relationships, which explains the indirect pathways from economic hardship to couple-level outcomes. Method We collected the data using an online survey in May 2020, when the Seoul metropolitan area experienced the first surge of COVID-19 cases. The sample came from 605 married Korean adults (282 women, 323 men) and was analyzed using multigroup path analysis. Results Among the three markers of economic hardship, increased household debt had a stronger association with couple conflict for lower SES respondents directly and indirectly through elevated economic strain and emotional distress. The total effects of job loss and reduced work hours on more frequent couple conflict were stronger for the higher SES group. Conclusion The process from the three markers of economic hardship to couple conflict was different depending on socioeconomic resources. Implications Family practitioners need to consider SES variations and to work with financial counselors to better support couples with both economic and relationship difficulties.",
+  "raw_path": "01_raw/europepmc_xml/PMC9538914.xml",
+  "text_path": "02_text/europepmc/PMC9538914.txt",
+  "raw_bytes": 145355,
+  "text_chars": 47600,
+  "raw_sha256": "2023bf6e923ce28830e88fce4f5ba4bd3697221eec321bb8927283b530bc9206",
+  "text_sha256": "efded22c9815a1784c8335574368a69bde69c8db36032bf34d4b544043d4d29d",
+  "retrieved_at": "2026-10-25T15:43:15.807179+00:00"
+}

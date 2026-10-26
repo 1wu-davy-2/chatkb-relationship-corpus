@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13186869",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marital status and post-radical prostatectomy outcomes: results from the SEARCH database.",
+  "authors": "Burwell A, Ithisuphalap J, Janes JL, Helms VM, Amling CL, Aronson WJ, Cooperberg MR, Kane CJ, Klaassen Z, Terris MK, Rivera LG, Freedland SJ, Sleight AG.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s00520-026-10783-y",
+  "pmcid": "PMC13186869",
+  "url": "https://europepmc.org/article/PMC/PMC13186869",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13186869/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "widowhood"
+  ],
+  "abstract": "Purpose Social support, specifically marital status, has been shown as a significant prognostic factor for survival of multiple malignancies, including prostate cancer. However, this has not been investigated in an equal access Veterans Affairs (VA) cohort where other support systems exist that may minimize the potential benefit of social support from a partner. Methods We retrospectively reviewed data from 9,931 patients undergoing primary radical prostatectomy (RP) in the VA from 1988-2020 across 9 VA centers. Univariable and multivariable Cox proportional hazards models were used to test the association between marital status and biochemical recurrence (BCR), metastasis, castration-resistant PC (CRPC) and prostate cancer specific mortality (PCSM). Results 8,285 patients met the inclusion criteria: 54% were married, 30% were divorced/separated, 9% were single/never married, and 6% were widowed at the time of RP. Single/never married men were younger (median 61 vs 62-65 years), had surgery more recently (median 2009 vs 2003-2008), had higher PSA (median 6.9 ng/mL vs 6.4-6.8 ng/mL), and had lower BMI (median 27 vs 28) compared to other groups (all p 0.05). Conclusion Among men with localized prostate cancer undergoing RP within the VA, we found no association between marital status-defined as a demographic indicator of self-reported relationship category-and oncologic outcomes. Whether marital satisfaction or perceived partner support, which were not assessed in this study, influence post-RP outcomes remains to be investigated.",
+  "raw_path": "01_raw/europepmc_xml/PMC13186869.xml",
+  "text_path": "02_text/europepmc/PMC13186869.txt",
+  "raw_bytes": 98365,
+  "text_chars": 21275,
+  "raw_sha256": "d4092344c9ca1582e2c591c11a0403d861ba9d2550060cf80d42dca8687ecc21",
+  "text_sha256": "51354c479d16226355a193956e863bf7d5b8afee122787dfcb2f172f55b6c259",
+  "retrieved_at": "2026-10-25T15:43:05.260803+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC13500985",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "When a partner objectifies other women: Associations with women's body image, self-esteem, and relationship satisfaction over an eight-month period.",
+  "authors": "Beaupré-Battisti E, Lacerte R, Lavoie C, Lavigne G, Carbonneau N.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/17455057261483474",
+  "pmcid": "PMC13500985",
+  "url": "https://europepmc.org/article/PMC/PMC13500985",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13500985/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance",
+    "romantic_relationship"
+  ],
+  "abstract": "BackgroundResearch indicates that sexual objectification (i.e., treating a person as an object and reducing them to their physical appearance or body parts) within romantic relationships is linked to adverse outcomes such as lower self-esteem and relationship satisfaction. However, no prior research has examined women's perceptions of their romantic partner's sexually objectifying behaviors toward other women, nor how these perceptions relate to their own psychological and relational outcomes over time.ObjectivesThe present study extends the sexual objectification literature by testing a cross-lagged panel structural equation model (SEM) assessing reciprocal associations between women's perceived partner objectification of other women and their own body image, self-esteem, and relationship satisfaction.DesignA two-wave longitudinal design was used.MethodsA total of 388 French-Canadian women ( M = 36.2 years, SD = 8.6 years, range = 18-66) currently in a romantic relationship completed two self-reported questionnaires eight months apart.ResultsThe analyses revealed temporal stability across all constructs, indicating that individual differences were largely stable over time. Nonetheless, women's perceptions of their partner's sexually objectifying behaviors toward other women predicted subsequent decreases in self-esteem and relationship satisfaction, but no significant changes in body surveillance. No evidence emerged for reciprocal effects, suggesting that perceived partner objectification predicted later outcomes but was not itself shaped by them.ConclusionOverall, these findings suggest that perceiving one's partner as sexually objectifying other women may undermine women's psychological and relational well-being, underscoring the importance of integrating objectifying dynamics into couple-focused research and intervention.",
+  "raw_path": "01_raw/europepmc_xml/PMC13500985.xml",
+  "text_path": "02_text/europepmc/PMC13500985.txt",
+  "raw_bytes": 97222,
+  "text_chars": 34676,
+  "raw_sha256": "731540f5e1dda258c02e956d4fb29c7e9b000f67d855903d8ad0726ddd6627e5",
+  "text_sha256": "3436bd171024efbc4d5e43f7498aae305ce5d7611c7b24cfed7740a7b2b0a427",
+  "retrieved_at": "2026-10-25T13:58:18.300773+00:00"
+}

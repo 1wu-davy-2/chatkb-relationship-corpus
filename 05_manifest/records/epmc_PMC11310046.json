@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11310046",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Variations in positive well-being as a function of the interaction between paranormal belief and schizotypy.",
+  "authors": "Dagnall N, Drinkwater KG, Denovan A, Gascón AE.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2024.1396485",
+  "pmcid": "PMC11310046",
+  "url": "https://europepmc.org/article/PMC/PMC11310046",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11310046/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "paranormal_belief"
+  ],
+  "abstract": "This study examined variations in positive well-being as a function of paranormal belief and schizotypy. A sample of 2,362 United Kingdom-based respondents completed self-report measures assessing paranormal belief, schizotypy, positive well-being (meaning in life, satisfaction with life, and self-esteem), paranormal experience, and belief in conspiracies. The paranormal belief was most strongly related to the cognitive-perceptual factor of schizotypy. Both paranormal belief and the cognitive-perceptual factor were associated with reporting paranormal experiences and endorsement of conspiracist beliefs. Despite commonality, paranormal belief and schizotypy were differentially related to well-being. Paranormal belief correlated positively with meaning in life (presence and search) and satisfaction with life. Schizotypy correlated negatively with presence, satisfaction with life, and self-esteem and positively with search. Latent profile analysis identified four subgroups: Profile 1, low belief and schizotypy (49% of the sample); Profile 2, low belief and cognitive-perceptual, moderate interpersonal and disorganised (13.6%); Profile 3, high belief, moderate cognitive-perceptual and interpersonal, low disorganised (24.3%); and Profile 4, high belief and schizotypy (13.1%). Multivariate analysis of variance (MANOVA) found that low belief with mixed schizotypy was associated with lower presence, and low belief and schizotypy (vs. high) were related to higher presence. Paranormal belief and schizotypy were associated with greater search, higher scores on paranormal experiential factors, and endorsement of generic conspiracist beliefs. Finally, lower belief and schizotypy were concomitant with higher satisfaction with life and self-esteem. Overall, paranormal belief was related to positive well-being, whereas schizotypy was associated with lower positive wellbeing.",
+  "raw_path": "01_raw/europepmc_xml/PMC11310046.xml",
+  "text_path": "02_text/europepmc/PMC11310046.txt",
+  "raw_bytes": 132846,
+  "text_chars": 38749,
+  "raw_sha256": "10e93328c8a432656d1e193e825455aed8cbd3cc488cca214f71e5827f6a3531",
+  "text_sha256": "cf8e38cd24083d88faa6a66054261ecc24cd92ee0dcfffdc30d526941a6039bd",
+  "retrieved_at": "2026-10-26T13:27:29.792050+00:00"
+}

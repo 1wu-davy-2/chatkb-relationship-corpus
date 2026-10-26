@@ -1,0 +1,20 @@
+{
+  "doc_id": "wiki_anxiety",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "焦慮",
+  "requested_title": "焦虑",
+  "url": "https://zh.wikipedia.org/wiki/%E7%84%A6%E6%85%AE",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "mental_health"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/anxiety.json",
+  "text_path": "02_text/zh_wikipedia/anxiety.txt",
+  "raw_bytes": 14043,
+  "text_chars": 5078,
+  "text_sha256": "dab9a8c801c0cc20427cdbcb32e7f036d5a0459ec5b63ab9565bb09d9c0ee554",
+  "retrieved_at": "2026-10-25T15:33:02.259822+00:00"
+}

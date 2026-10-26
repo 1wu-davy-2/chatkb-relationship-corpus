@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_sexology",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "性學",
+  "requested_title": "性学",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E5%AD%B8",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 性學",
+  "topics": [
+    "sexuality",
+    "science"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/sexology.json",
+  "text_path": "02_text/zh_wikipedia/sexology.txt",
+  "raw_bytes": 9636,
+  "text_chars": 4122,
+  "text_sha256": "9c7b2a7886f02a92c2f4166430245635c29dbc2e3e74bcd41adb5cc933959ace",
+  "retrieved_at": "2026-10-26T12:59:04.868104+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11851490",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Untangling Relational Ties: How Internalized Homonegativity and Adult Attachment Shape Relationship Quality in Lesbian and Gay Couples.",
+  "authors": "Trombetta T, Fusco C, Rollè L, Santona A.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15020205",
+  "pmcid": "PMC11851490",
+  "url": "https://europepmc.org/article/PMC/PMC11851490",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11851490/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Introduction Several studies point to an association between minority stress, especially internalized homonegativity and the quality of the couple relationship. However, the dimensions of psychological functioning that might moderate this relationship seem to be scarcely explored. Accordingly, the present study aimed to investigate the association between internalized homonegativity and relationship quality by examining the moderating role of adult attachment (dimensions of anxiety and avoidance) in lesbian and gay (LG) people. Materials and methods A total of 674 LG participants who had been in a couple relationship for at least 12 months were included in the study and completed self-report questionnaires. Results The results show a direct negative effect of internalized homonegativity on relationship quality. Adult attachment seems to moderate this relationship: on the one hand, the negative relationship between internalized homonegativity and relationship quality is significant at high levels of anxious attachment, but not at low levels. On the other hand, the negative relationship between internalized homonegativity and relationship quality turns out to be significant at low levels of avoidant attachment, but not at high levels. Discussion The results suggest that attachment anxiety and avoidance play different roles in the relationship between internalized homonegativity and relationship quality. While high levels of anxious attachment appear to be a risk factor, high levels of avoidant attachment seem to play a protective role. Although future studies are needed to investigate the present preliminary findings further, the results of the present study provide useful clinical and research insights.",
+  "raw_path": "01_raw/europepmc_xml/PMC11851490.xml",
+  "text_path": "02_text/europepmc/PMC11851490.txt",
+  "raw_bytes": 153798,
+  "text_chars": 49466,
+  "raw_sha256": "b44c0ae01f013f29d8eefa395099536c2c9272d13ed60bfc058b31981f20f44e",
+  "text_sha256": "491e0c4539758dc005fd25dbb04437d9fbb93ea38b318abf0a5494ddb7c14617",
+  "retrieved_at": "2026-10-25T15:38:50.217165+00:00"
+}

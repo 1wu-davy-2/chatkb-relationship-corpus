@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_online_fraud",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "网络诈骗",
+  "requested_title": "网络诈骗",
+  "url": "https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E8%AF%88%E9%AA%97",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "scam",
+    "fraud"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/online_fraud.json",
+  "text_path": "02_text/zh_wikipedia/online_fraud.txt",
+  "raw_bytes": 2572,
+  "text_chars": 980,
+  "text_sha256": "105035a2b274ceb84c888e2e2943025c2d0c7b48458f8b1c368890496a8cbba7",
+  "retrieved_at": "2026-10-25T15:38:18.706423+00:00"
+}

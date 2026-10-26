@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5880392",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Correlates of domestic violence experience among recently-married women residing in slums in Pune, India.",
+  "authors": "Kalokhe AS, Iyer SR, Kolhe AR, Dhayarkar S, Paranjape A, Del Rio C, Stephenson R, Sahay S.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0195152",
+  "pmcid": "PMC5880392",
+  "url": "https://europepmc.org/article/PMC/PMC5880392",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5880392/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "bride_price"
+  ],
+  "abstract": "The high risk of experiencing domestic violence (DV) among married women in India who reside in slum communities underscores the need for effective, evidence-based, and culturally-tailored primary prevention. To inform such DV primary prevention strategies for this population, we herein aimed to identify correlates of DV experience in early marriage. Utilizing a cross-sectional design, potential correlates of DV experience were explored among a geographically-clustered random sample of 100 recently-married women residing in slums in Pune, India. In multivariable regression, DV experience was associated with less educational attainment by the participant's spouse (standardized β = -0.281, p = 0.004), less satisfaction of the spouse's family with the maanpaan (wedding-related gifts provided by the bride's family) they received at the time of marriage (standardized β = -0.298, p<0.001), poorer conflict negotiation skills (standardized β = -0.308, p<0.001), and greater acknowledgement of DV occurrence in family and friends (standardized β = 0.436, p<0.001). These correlates suggest strategies that could be incorporated into future DV primary prevention interventions for this vulnerable population (i.e. promoting completion of formal education of boys alongside girls, mitigating causes of familial dowry harassment, improving conflict negotiation skills, and challenging norms surrounding DV).",
+  "raw_path": "01_raw/europepmc_xml/PMC5880392.xml",
+  "text_path": "02_text/europepmc/PMC5880392.txt",
+  "raw_bytes": 144732,
+  "text_chars": 32414,
+  "raw_sha256": "681ad451387ae5c14092245f79145ffcb237d9442942fd009bebd8f3a2b1fc00",
+  "text_sha256": "dcf1b989aa3b590dc021f30908d5fabacb5ffe468edfd38287cd3e9a135cfa8e",
+  "retrieved_at": "2026-10-25T15:36:09.908696+00:00"
+}

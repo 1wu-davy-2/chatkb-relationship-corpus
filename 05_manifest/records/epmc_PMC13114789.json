@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13114789",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Role of Worry and Emotional Intelligence in Depression in a Non-Clinical and Subclinical Sample.",
+  "authors": "Sergi MR, Saggino A, Balsamo M, Carlucci L, Terrei M, Tommasi M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/ejihpe16040048",
+  "pmcid": "PMC13114789",
+  "url": "https://europepmc.org/article/PMC/PMC13114789",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13114789/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "emotional_intelligence"
+  ],
+  "abstract": "Background Recent data show that approximately 3.8% of the global population has a diagnosis of depression. Understanding psychological risk and protective factors is crucial for improving prevention strategies and mental health interventions. Among these, worry and emotional intelligence (EI) have emerged as relevant, yet they are rarely studied together. To date, no studies that analyzed the relationship between emotional intelligence, worry, and depression have been found. Therefore, this study aims to investigate the association among EI, worry, and depression. Methods This study included 924 participants ( N = 806 non-clinical and N = 118 subclinical sample with elevated depressive symptoms), with a mean age of M = 25.55 years (SD = 11.38). A total of 118 participants (12.8%) met the criteria for clinical depression based on the BDI-II cut-off. All participants completed the Penn State Worry Questionnaire, the Beck Depression Inventory-II, and the Emotional Intelligence Scale. To examine the relationships among all variables examined, zero-order correlation coefficients were calculated. To investigate the predictive power of EI and worry on depression, Bayesian linear regression was conducted. Results The results showed significant and positive correlations between worry and depression in both samples. EI showed significant and negative correlations with both depression and worry in both the subclinical sample with elevated depressive symptoms and the non-clinical sample. Finally, worry emerged as the strongest contributor to the somatic dimension of depression in both groups. In the subclinical sample with elevated depressive symptoms, age and Evaluation and Expression of Emotion to Self, along with worry, were the best predictors of somatic symptoms. Conclusions Our data suggest that higher worry levels are associated with higher levels of depressive symptoms, whereas higher EI was negatively associated with depressive symptoms and may play a potential buffering role. Training programs designed to enhance EI could help mitigate the impact of negative events, improve problem-solving skills, and enhance the expression of one's own emotions.",
+  "raw_path": "01_raw/europepmc_xml/PMC13114789.xml",
+  "text_path": "02_text/europepmc/PMC13114789.txt",
+  "raw_bytes": 284540,
+  "text_chars": 54917,
+  "raw_sha256": "acd1f5487626e2c48424843c209fb0b13db04b9dc7a9053369cc565f28a67bd3",
+  "text_sha256": "a43785f8e2b4703e3f1eb661a357ac2150286876e071c6ecda3d23e3245b04a1",
+  "retrieved_at": "2026-10-25T15:28:16.441214+00:00"
+}

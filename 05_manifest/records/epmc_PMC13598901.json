@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13598901",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Attachment Behavior Change Following Emotionally Focused Couple Therapy: A Randomized Controlled Trial With Spanish-Speaking Couples.",
+  "authors": "Andrade-Urbina D, Rodríguez-González M, Cueli-Naranjo MA, Osorio A, Sandberg JG.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jmft.70173",
+  "pmcid": "PMC13598901",
+  "url": "https://europepmc.org/article/PMC/PMC13598901",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13598901/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "This study evaluated changes in attachment behaviors among Spanish-speaking couples participating in emotionally focused couple therapy (EFCT), using data from a randomized clinical trial of EFCT in this population. The study examined perceived secure attachment behaviors -accessibility, responsiveness, and engagement- measured by the Brief Accessibility, Responsiveness, and Engagement (BARE) scale, and their association with dyadic adjustment measured by the Dyadic Adjustment Scale (DAS). Seventy couples were randomly assigned to EFCT or a waiting list; two withdrew before beginning the intervention, resulting in a final analyzed sample of 68 couples. Results showed some changes in attachment behaviors, with significant effects observed only in women's perceptions of their partners. Increases in both self- and partner-perceived secure attachment behaviors significantly predicted improvements in dyadic adjustment. These findings highlight the clinical relevance of targeting secure attachment behaviors as mechanisms of therapeutic change related to relationship satisfaction.",
+  "raw_path": "01_raw/europepmc_xml/PMC13598901.xml",
+  "text_path": "02_text/europepmc/PMC13598901.txt",
+  "raw_bytes": 154423,
+  "text_chars": 57579,
+  "raw_sha256": "828dbe9d4f51385f445666230d59a33748c61273badaa4c7388891be92469644",
+  "text_sha256": "e7d37ce227b7fb8299abc3afab15acd237b8830e31aedb914448acaaea7d6af3",
+  "retrieved_at": "2026-10-25T15:47:39.639749+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_family_therapy",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "家庭治療",
+  "requested_title": "家庭治疗",
+  "url": "https://zh.wikipedia.org/wiki/%E5%AE%B6%E5%BA%AD%E6%B2%BB%E7%99%82",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 家庭治療",
+  "topics": [
+    "therapy",
+    "family"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/family_therapy.json",
+  "text_path": "02_text/zh_wikipedia/family_therapy.txt",
+  "raw_bytes": 2389,
+  "text_chars": 1249,
+  "text_sha256": "e605590eb92ac0608c3e3d84db97d73213b47964aef98b233d165a14236994ce",
+  "retrieved_at": "2026-10-25T16:25:15.540407+00:00"
+}

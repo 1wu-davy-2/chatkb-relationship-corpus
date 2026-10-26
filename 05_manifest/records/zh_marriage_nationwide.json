@@ -1,0 +1,24 @@
+{
+  "doc_id": "zh_marriage_nationwide",
+  "source": "zh_official",
+  "source_type": "official_qa",
+  "title": "民政部将施行婚姻登记“全国通办”（赤峰市政府政策解读）",
+  "page_title": "领证不用再回老家了！民政部将施行婚姻登记“全国通办”",
+  "url": "https://www.chifeng.gov.cn/zmhd_01/zcwdk/wdkhj/202503/t20250326_2561897.html",
+  "requested_url": "https://www.chifeng.gov.cn/zmhd_01/zcwdk/wdkhj/202503/t20250326_2561897.html",
+  "language": "zh",
+  "license": "official_public_document",
+  "license_url": "",
+  "topics": [
+    "marriage",
+    "china",
+    "policy"
+  ],
+  "excerpt_only": false,
+  "raw_path": "01_raw/zh_official/marriage_nationwide.html",
+  "text_path": "02_text/zh_official/marriage_nationwide.txt",
+  "raw_bytes": 52128,
+  "text_chars": 1388,
+  "text_sha256": "5f5a8b27ae6b81d62756d4854af38ba6649e65ccc304390b9a4ea63660de07d8",
+  "retrieved_at": "2026-10-25T16:24:01.072254+00:00"
+}

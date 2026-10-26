@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6757024",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sextual Intercourse: Considering Social-Cognitive Predictors and Subsequent Outcomes of Sexting Behavior in Adulthood.",
+  "authors": "Brodie ZP, Wilson C, Scott GG.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1007/s10508-019-01497-w",
+  "pmcid": "PMC6757024",
+  "url": "https://europepmc.org/article/PMC/PMC6757024",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6757024/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "The purpose of this study was to identify specific social-cognitive factors that may influence the likelihood of engaging in sexting, and potential positive and negative outcomes of such behaviors, in adults. We asked 244 adult participants (64.5% women) to complete a set of online measures reflecting sexting engagement, social-cognitive factors (definitions, differential association, differential reinforcement, and imitation), and outcomes of sexting behavior (risky sexual behavior appraisal, sexual satisfaction, and relationship satisfaction). Results showed that 77.6% of our sample had sexted. Sexting in the context of a romantic relationship was predicted by differential reinforcement and friend imitation, while positive definitions of sexting alone predicted sexting someone outside the context of a romantic relationship. This indicates that motivations for sexting engagement may be context specific in adulthood. Those who had sexted demonstrated significantly higher sexual satisfaction than those who had never sexted. However, sexting outside of a romantic relationship predicted reduced perceived risk and heightened perceived benefit of engaging in real-life risky sexual behaviors. This suggests there may be both positive and negative implications of sexting engagement in adulthood.",
+  "raw_path": "01_raw/europepmc_xml/PMC6757024.xml",
+  "text_path": "02_text/europepmc/PMC6757024.txt",
+  "raw_bytes": 148726,
+  "text_chars": 51882,
+  "raw_sha256": "5f2b913139f321b0e408a66ae8b69924349c805e61dcb260b1fce8157d6a358b",
+  "text_sha256": "7b31d6dc50d13ce4a0f9a64cf6554468944b78b3704ced7ee882f7cdf111c83f",
+  "retrieved_at": "2026-10-26T13:11:14.923401+00:00"
+}

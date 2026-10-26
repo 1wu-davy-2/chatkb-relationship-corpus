@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13613076",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Imagery Rescripting for Pathological Affective Dependence in Intimate Partner Violence (ImRs-PAD): An In-Person Proof-of-Concept Study.",
+  "authors": "Pugliese E, Uvelli A, Barbaro MGF, Papa C, Visco-Comandini F, Mancini F, van Emmerik AAP.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1002/cpp.70339",
+  "pmcid": "PMC13613076",
+  "url": "https://europepmc.org/article/PMC/PMC13613076",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13613076/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "This study evaluated the feasibility and preliminary effects of in-person Imagery Rescripting for Pathological Affective Dependence (ImRs-PAD), a trauma-focused and mechanism-based intervention for survivors of intimate partner violence (IPV). ImRs-PAD targets trauma-related relational dynamics-specifically Pathological Affective Dependence (PAD)-together with the related relational processes that may contribute to difficulties disengaging from abusive relationships. PAD is conceptualized as a relational constraint rooted in trauma, rather than individual pathology or responsibility. This study employed an exploratory single-arm repeated-measures proof-of-concept design conducted in Italy. Eighteen adult women survivors of IPV received a 13-session ImRs-PAD intervention, delivered within anti-violence services by supervised psychotherapy trainees. Primary outcomes included state and trait levels of PAD, relational commitment and intention to return to the abusive relationship, which were conceived as different, although potentially overlapping self-report indicators of relational entrapment. Secondary outcomes assessed complex trauma symptoms, psychological well-being and resilience. Participants were assessed at baseline/pre-treatment, mid-treatment, post-treatment and 1-month follow-up. Significant reductions were observed in PAD, relational commitment and intention to return over the course of the intervention. Improvements were also noted in trauma-related symptoms, psychological well-being and resilience from baseline to post-treatment. At 1-month follow-up, changes in the primary relational outcomes and resilience were largely maintained, whereas trauma-related symptoms showed slight attenuation but remained significantly improved relative to baseline. ImRs-PAD appears to be a feasible and promising intervention in real-world anti-violence centre settings, specifically targeting unmet relational needs implicated in IPV-related entrapment. Changes in the primary relational outcomes were more consistently maintained at follow-up than improvements in trauma-related symptoms after treatment termination, suggesting the potential importance of integrating such interventions within broader systems of psychosocial support. Trial Registration: ClinicalTrials.gov identifier: NCT06670326.",
+  "raw_path": "01_raw/europepmc_xml/PMC13613076.xml",
+  "text_path": "02_text/europepmc/PMC13613076.txt",
+  "raw_bytes": 183482,
+  "text_chars": 70328,
+  "raw_sha256": "e00631dde4d63a2f42a6e22e1af41449f00237265994a525473a0a32e2caea33",
+  "text_sha256": "b2657d28abbb7534d2b47effdd2297eb72554436d030f77d164bf530da1a55e5",
+  "retrieved_at": "2026-10-25T13:51:02.782247+00:00"
+}

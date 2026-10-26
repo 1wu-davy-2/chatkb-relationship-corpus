@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10484705",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The influence of insecure attachment on undergraduates' jealousy: the mediating effect of self-differentiation.",
+  "authors": "Deng M, Tadesse E, Khalid S, Zhang W, Song J, Gao C.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2023.1153866",
+  "pmcid": "PMC10484705",
+  "url": "https://europepmc.org/article/PMC/PMC10484705",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10484705/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Background Jealousy is a complex emotion and can be healthy or pathological, depending on the intensity and the degree of control. Excessive jealousy was characterized by anxiety, anger, and alienation in the insecure attachment relationship. Objective To explore how insecure attachment triggered this intense emotion, this study investigated the relationship between two insecure attachment dimensions and jealousy and explored the influence of self-differentiation on the relationship. Method A total of 477 undergraduates participated in the study, and the Bringle self-report jealousy scale (BSJS), the relationship questionnaire (RQ), the intimate relationship experience questionnaire (ECR), and the revised edition of self-the differentiation questionnaire (DSR) were used. Result The results showed that: (1) attachment anxiety had a significant positive predictive effect on jealousy, but attachment avoidance had no significant positive predictive effect; (2) self-differentiation partially mediated the relationship between attachment anxiety and jealousy, but it has no significant mediating effect between attachment avoidance and jealousy. Conclusion The results suggest that attachment anxiety was correlated with jealousy because it strengthened the intensity of anxiety and anger toward their attachment figures and became out of control through a lower level of self-differentiation, which has important implications for clinical intervention.",
+  "raw_path": "01_raw/europepmc_xml/PMC10484705.xml",
+  "text_path": "02_text/europepmc/PMC10484705.txt",
+  "raw_bytes": 88274,
+  "text_chars": 28072,
+  "raw_sha256": "7ca17e8376b3da40a7910736f8ceaee4d32539e6830e61c02a798b4c1e6ca508",
+  "text_sha256": "8f035194f3769c27fbf71f7de0ee0532cb8dc273664b849922a90c21a2c292f7",
+  "retrieved_at": "2026-10-25T15:40:21.579024+00:00"
+}

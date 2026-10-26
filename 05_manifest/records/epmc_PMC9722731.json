@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9722731",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Validation study of the Italian brief version of the multidimensional jealousy scale: Psychometric properties, measurement invariance across gender, and convergent validity.",
+  "authors": "Diotaiuti P, Valente G, Mancone S, Girelli L, Cavicchiolo E, Chirico A.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2022.1013584",
+  "pmcid": "PMC9722731",
+  "url": "https://europepmc.org/article/PMC/PMC9722731",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9722731/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Introduction The multidimensional jealousy scale (MJS) is among the most internationally used instruments for the assessment of jealousy in its three dimensions: cognitive, emotional, and behavioral. This study aimed to replicate the Italian validation process of the shortened MJS in order to confirm its psychometric properties and measurement invariance across gender. Materials and methods Exploratory factor analysis (EFA) and confirmatory factor analysis (CFA) were conducted in a large sample of adults ( n = 2,928). To reliably estimate mean differences across gender, the measurement invariance of the scale was first established by means of CFA. Convergent validity was than tested by administrating the tool to a convenient sample ( n = 304). Results A 15-item version of the Italian MJS was retained in its three-factor structure. The tool showed good fit with both the CFA (χ 2 = 211.827, CFI = 0.969, TLI = 0.959, RMSEA = 0.047, RMSEA 90% CI = 0.039-0.055) and the results confirmed the strong measurement invariance of the MJS across gender. The internal consistency measures were found to be fully satisfactory. Predictive associations with constructs such as avoidance and anxiety referred to attachment in relationships (ECR-R), obsessive jealousy, depressive jealousy, jealousy associated with separation anxiety, paranoid jealousy (QUEGE), and basic self-esteem (BSE) were confirmed. Discussion The MJS is particularly apt to collect information quickly and efficiently about jealousy in a current relationship. The multidimensional and brief structure makes it particularly suitable for preliminary screening, couple therapy assessment, and research purposes.",
+  "raw_path": "01_raw/europepmc_xml/PMC9722731.xml",
+  "text_path": "02_text/europepmc/PMC9722731.txt",
+  "raw_bytes": 229552,
+  "text_chars": 45853,
+  "raw_sha256": "d716964aca6628dec30977ab1b25227c4fb9f6ae03d13ee57f908d685c31c056",
+  "text_sha256": "7895ccaddb94de404ffcbe9cce26566c412c3564efed7ae361ca2ffb83f283f1",
+  "retrieved_at": "2026-10-25T15:42:49.322593+00:00"
+}

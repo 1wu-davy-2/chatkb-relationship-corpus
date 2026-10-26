@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_59386",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "The history of human marriage",
+  "gutenberg_id": "59386",
+  "url": "https://www.gutenberg.org/ebooks/59386",
+  "download_url": "https://www.gutenberg.org/cache/epub/59386/pg59386.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "courtship"
+  ],
+  "raw_path": "01_raw/gutenberg/59386.txt",
+  "text_path": "02_text/gutenberg/gut_59386_the_history_of_human_marriage.txt",
+  "raw_bytes": 1705155,
+  "text_chars": 1587631,
+  "text_sha256": "424d5a65115dae06bdaed8ba5acc368b2ac4dc1df1f2270b46dea58edc8a9b80",
+  "retrieved_at": "2026-10-26T12:54:43.077846+00:00"
+}

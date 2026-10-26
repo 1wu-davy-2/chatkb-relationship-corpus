@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12246941",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Religious faith, gratitude, conflict resolution styles, and romantic love.",
+  "authors": "Marici M, Furdui Florea A, Runcan P.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fsoc.2025.1588365",
+  "pmcid": "PMC12246941",
+  "url": "https://europepmc.org/article/PMC/PMC12246941",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12246941/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "Background The study emphasizes the value of integrating psychological and spiritual dimensions in understanding relational harmony. The aim of this research was to investigate the role of gratitude and conflict resolution styles as mediators between religious faith and romantic love. Methods A structural equation model was performed with data from married males and females from Romania ( N = 226, M age = 40.67, SD age = 11.76). Established measurement tools assessed key variables, while the model's validity was evaluated through multiple statistical benchmarks (e.g., fit indices), allowing a comprehensive assessment of pathways linking religious faith, gratitude, conflict resolution, and romantic love. Results Analyses indicated that religious faith strongly predicted gratitude. Gratitude, in turn, had a favorable impact on cooperative conflict-resolution behaviors, which were closely linked to strengthened romantic love. The model exhibited strong validity. Conclusions The findings underscore the central role of intrinsic spiritual values and gratitude in fostering effective conflict management and enriching romantic love. These insights highlight potential applications in therapeutic settings and relationship-building programs, suggesting that fostering these personal qualities could enhance partnership satisfaction.",
+  "raw_path": "01_raw/europepmc_xml/PMC12246941.xml",
+  "text_path": "02_text/europepmc/PMC12246941.txt",
+  "raw_bytes": 95399,
+  "text_chars": 30129,
+  "raw_sha256": "09cde832e626fe3575fc5229356e1ad7dbdc2fe1d1cac5a60c6f07e608dd4ae3",
+  "text_sha256": "5e7f457b909e3f3638bc78f9feed05b0424e60aabfc14d49ad4918ec8e5380f4",
+  "retrieved_at": "2026-10-25T15:38:51.689900+00:00"
+}

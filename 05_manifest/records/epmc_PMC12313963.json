@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12313963",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual partner number and distribution over time affect long-term partner evaluation: evidence from 11 countries across 5 continents.",
+  "authors": "Thomas AG, Costello W, Bendixen M, Kennair LEO, Apostolou M, Bártová K, Burýšek O, Lowe R, Jonason P, Kowal M, de Moraes YL, O J, Sorokowski P, Sulikowski D, Štěrbová Z, Valentova JV, Varella MAC, Wang Y, Wisman A, Wright P, Stewart-Williams S.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1038/s41598-025-12607-1",
+  "pmcid": "PMC12313963",
+  "url": "https://europepmc.org/article/PMC/PMC12313963",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12313963/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "A prospective partner’s sexual history provides important information that can be used to minimise mating-related risks. Such information includes the number of past sexual partners, which has an inverse relationship with positive suitor evaluation. However, sexual encounters with new partners vary in frequency over time, providing an additional dimension of context not previously considered. Across three studies (N = 5,331) with 15 samples, we demonstrate that the impact of past partner number on a suitor’s desirability as a long-term partner varies as a function of distribution over time. Using graphical representations of a suitor’s sexual history, we found that past partner number effects were smaller when the frequency of new sexual encounters decreased over time. This moderation effect was stronger, and often curvilinear, when past partner numbers were higher. We replicated these findings in 11 countries from five world regions. Sex differences were minimal and inconsistent pointing to a lack of a sexual double standards. Sociosexuality (openness to casual sex) was a consistent moderator and tended to mute the sexual history effects. These findings suggest that people not only attend to a potential long-term mate’s quantity of sexual partners, but also the context surrounding these encounters such as pattern and timing. Together, the findings raise the possibility of an evolved mechanism for managing mating risks present in both sexes and across populations and adds nuance to a contentious topic of public interest.",
+  "raw_path": "01_raw/europepmc_xml/PMC12313963.xml",
+  "text_path": "02_text/europepmc/PMC12313963.txt",
+  "raw_bytes": 139903,
+  "text_chars": 43342,
+  "raw_sha256": "56e26984f0d7485da971c85fef47d505289cac616b99b6bb218e8f42f9d1c0b7",
+  "text_sha256": "8f1f8ddd18181e7880fed5ae4406fec25bae65cc55e86432ae9e61f87a8c3bab",
+  "retrieved_at": "2026-10-26T13:11:21.959606+00:00"
+}

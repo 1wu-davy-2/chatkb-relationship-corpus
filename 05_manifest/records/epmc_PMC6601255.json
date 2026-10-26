@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6601255",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexting, Web-Based Risks, and Safety in Two Representative National Samples of Young Australians: Prevalence, Perspectives, and Predictors.",
+  "authors": "Milton AC, Gill BA, Davenport TA, Dowling M, Burns JM, Hickie IB.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.2196/13338",
+  "pmcid": "PMC6601255",
+  "url": "https://europepmc.org/article/PMC/PMC6601255",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6601255/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Background The rapid uptake of information and communication technology (ICT) over the past decade-particularly the smartphone-has coincided with large increases in sexting. All previous Australian studies examining the prevalence of sexting activities in young people have relied on convenience or self-selected samples. Concurrently, there have been recent calls to undertake more in-depth research on the relationship between mental health problems, suicidal thoughts and behaviors, and sexting. How sexters (including those who receive, send, and two-way sext) and nonsexters apply ICT safety skills warrants further research. Objective This study aimed to extend the Australian sexting literature by measuring (1) changes in the frequency of young people's sexting activities from 2012 to 2014; (2) young people's beliefs about sexting; (3) association of demographics, mental health and well-being items, and internet use with sexting; and (4) the relationship between sexting and ICT safety skills. Methods Computer-assisted telephone interviewing using random digit dialing was used in two Young and Well National Surveys conducted in 2012 and 2014. The participants included representative and random samples of 1400 young people aged 16 to 25 years. Results From 2012 to 2014, two-way sexting (2012: 521/1369, 38.06%; 2014: 591/1400, 42.21%; P=.03) and receiving sexts (2012: 375/1369, 27.39%; 2014: 433/1400, 30.93%; P .05) did not significantly change. In addition, two-way sexting and sending sexts were found to be associated with demographics (male, second language, and being in a relationship), mental health and well-being items (suicidal thoughts and behaviors and body image concerns), and ICT risks (cyberbullying others and late-night internet use). Receiving sexts was significantly associated with demographics (being male and not living with parents or guardians) and ICT risks (being cyberbullied and late-night internet use). Contrary to nonsexters, Pearson correlations demonstrated that all sexting groups (two-way, sending, and receiving) had a negative relationship with endorsing the ICT safety items relating to being careful when using the Web and not giving out personal details. Conclusions Our research demonstrates that most young Australians are sexting or exposed to sexting in some capacity. Sexting is associated with some negative health and well-being outcomes-specifically, sending sexts is linked to suicidal thoughts and behaviors, body image issues, and ICT safety risks, including cyberbullying and late-night internet use. Those who do sext are less likely to engage in many preventative ICT safety behaviors. How the community works in partnership with young people to address this needs to be a multifaceted approach, where sexting is positioned within a wider proactive conversation about gender, culture, psychosocial health, and respecting and caring for each other when on the Web.",
+  "raw_path": "01_raw/europepmc_xml/PMC6601255.xml",
+  "text_path": "02_text/europepmc/PMC6601255.txt",
+  "raw_bytes": 177391,
+  "text_chars": 47304,
+  "raw_sha256": "9b25633c83533f6eb0fe5a0476977a8a2ff2e9d1546352b2df27ba537680eadb",
+  "text_sha256": "584c29bc2bbb323d21977c48a4c1f748fc0d3d8442107190d8ae421bccea87a9",
+  "retrieved_at": "2026-10-26T13:11:55.418805+00:00"
+}

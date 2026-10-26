@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11939346",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "From Pornography Consumption to Sexually Violent Practices: Uncovering the Hidden Influence of Sexual Norms.",
+  "authors": "Leon CM, Quiñonez-Toral T, Aizpurua E.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15030243",
+  "pmcid": "PMC11939346",
+  "url": "https://europepmc.org/article/PMC/PMC11939346",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11939346/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "Understanding the dynamics of sexually violent behavior is essential for developing effective interventions and policies that promote safe and respectful sexual relationships. An important area of research in this context is examining the influence of pornography on sexual behavior, which can inform these efforts. This study explores how sexually permissive attitudes and acceptance of the sexual double standard mediate the relationship between pornography consumption and engagement in violent sexual practices among a sample of the general population in Castilla-La Mancha, Spain (N = 1003; 50.7% men). The sexual double standard refers to the societal belief that men and women should be judged differently for the same sexual behaviors, with men often praised or excused for promiscuity, while women face stigma and shame. The findings reveal gender differences in engagement in sexually violent practices during sexual relationships. Men are more likely to perpetrate these behaviors, while women are more likely to experience them. Importantly, both lifetime and last year pornography consumption are associated with an increased involvement in such practices. This relationship is partially mediated by sexually permissive attitudes, with a stronger mediation effect observed in men. Practitioners can leverage these insights to develop comprehensive strategies that mitigate the risks associated with pornography consumption.",
+  "raw_path": "01_raw/europepmc_xml/PMC11939346.xml",
+  "text_path": "02_text/europepmc/PMC11939346.txt",
+  "raw_bytes": 205629,
+  "text_chars": 59804,
+  "raw_sha256": "7c06ff26c7e9b049fa83e222da84b08aa2356e6f333c4ae2c9ce985daa5e5cae",
+  "text_sha256": "8c0ec0f60c2acd6247777381d26587b05cd885db84f1e8ec69ecac81e43256d7",
+  "retrieved_at": "2026-10-26T12:54:21.909026+00:00"
+}

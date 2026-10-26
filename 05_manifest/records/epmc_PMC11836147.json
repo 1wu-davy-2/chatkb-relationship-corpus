@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11836147",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Love as a Commitment Device : Evidence from a Cross-Cultural Study across 90 Countries.",
+  "authors": "Kowal M, Bode A, Koszałkowska K, Roberts SC, Gjoneska B, Frederick D, Studzinska A, Dubrov D, Grigoryev D, Aavik T, Prokop P, Grano C, Çetinkaya H, Duyar DA, Baiocco R, Batres C, Belkacem Y, Boğa M, Burduli N, Can AR, Chegeni R, Chopik WJ, Don Y, Dural S, Duyar I, Etchezahar E, Fekih-Romdhane F, Frackowiak T, García FE, Yepes TG, Guemaz F, Hamdaoui BB, Koyuncu M, Landa-Blanco M, Lins S, Marot T, Mayorga-Lascano M, Mebarak M, Morelli M, Ndukaihe ILG, Fauzee MSO, Pacquing MCT, Parise M, Pazhoohi F, Pirtskhalava E, Ponnet K, Reips UD, Reyes MES, Şahin A, Sahli FZ, Senyk O, Spasovski O, Tulyakul S, Ungaretti J, Vintila M, Volkodav T, Wlodarczyk A, Yoo G, Gelbart B, Sorokowski P.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1007/s12110-024-09482-6",
+  "pmcid": "PMC11836147",
+  "url": "https://europepmc.org/article/PMC/PMC11836147",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11836147/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "commitment",
+    "romantic_relationship"
+  ],
+  "abstract": "Given the ubiquitous nature of love, numerous theories have been proposed to explain its existence. One such theory refers to love as a commitment device, suggesting that romantic love evolved to foster commitment between partners and enhance their reproductive success. In the present study, we investigated this hypothesis using a large-scale sample of 86,310 individual responses collected across 90 countries. If romantic love is universally perceived as a force that fosters commitment between long-term partners, we expected that individuals likely to suffer greater losses from the termination of their relationships-including people of lower socioeconomic status, those with many children, and women-would place a higher value on romantic love compared to people with higher status, those with fewer children, and men. These predictions were supported. Additionally, we observed that individuals from countries with a higher (vs. lower) Human Development Index placed a greater level of importance on romantic love, suggesting that modernization might influence how romantic love is evaluated. On average, participants worldwide were unwilling to commit to a long-term romantic relationship without love, highlighting romantic love's universal importance.",
+  "raw_path": "01_raw/europepmc_xml/PMC11836147.xml",
+  "text_path": "02_text/europepmc/PMC11836147.txt",
+  "raw_bytes": 149624,
+  "text_chars": 39465,
+  "raw_sha256": "21ac6efec41ed1898ea4073e44628d460a037a57ff964643dc57a335a836e6be",
+  "text_sha256": "a5730187668b419c0c887ce1490aa071dc2fa7b375e01c25f0984ffd994a33e3",
+  "retrieved_at": "2026-10-25T13:52:34.994041+00:00"
+}

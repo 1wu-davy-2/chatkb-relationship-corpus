@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12968121",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mating behavior and preliminary evidence of putative odor-mediated interactions in Raoiella indica (Acari: Tenuipalpidae).",
+  "authors": "de Oliveira Lopes Gomes MI, Chaves Dos Santos R, da Silva Melo JW, de Lima DB.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s10493-026-01111-4",
+  "pmcid": "PMC12968121",
+  "url": "https://europepmc.org/article/PMC/PMC12968121",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12968121/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "Odour and contact chemical traces play central roles in the sexual communication of mites, mediating partner encounter and recognition of the female reproductive status. We investigated the mating behavior of Raoiella indica Hirst and the role of female-associated chemical cues in male attraction. Behavioral observations were conducted under controlled laboratory conditions, and three complementary bioassays were performed: (i) detailed recording of courtship and copulation sequences, (ii) two-choice tests to evaluate male preference for arenas associated with females at different reproductive stages, and (iii) assays testing male responses to substrate-borne traces left by females. Our objective was to describe the mating sequence of R. indica and assess how odor and contact traces contribute to male. Mating followed a stereotyped sequence composed of four stages. Males showed preference only for arenas associated with teleiochrysalis females, whereas no preference was observed for virgin or mated adult females. In contrast, males were attracted to traces left by virgin females but not to those left by recently mated females. These results indicate that male orientation in R. indica is mediated by stage-specific chemical cues and that contact traces provide reliable information about female reproductive status. Overall, our findings expand knowledge of chemical communication and mating strategies in R. indica, offering new insights into the behavioral ecology of tenuipalpid mites.",
+  "raw_path": "01_raw/europepmc_xml/PMC12968121.xml",
+  "text_path": "02_text/europepmc/PMC12968121.txt",
+  "raw_bytes": 84622,
+  "text_chars": 31310,
+  "raw_sha256": "d121403383fe5a06f708d8ab2eda629aaaec626de0ecb6dbe8cd6d5fee183e5d",
+  "text_sha256": "1821193348f5c8295e03c9636213619fd150455d90aa39aeebb7507310bb78bb",
+  "retrieved_at": "2026-10-25T15:36:24.906496+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11504636",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Conceptions of Consensual versus Non-Consensual Sexual Activity among Young People from Colombia.",
+  "authors": "Prieto LE, Moyano N.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.3390/bs14100884",
+  "pmcid": "PMC11504636",
+  "url": "https://europepmc.org/article/PMC/PMC11504636",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11504636/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent",
+    "consent_types"
+  ],
+  "abstract": "Conceptions or ideas that couples hold about sexual consent could be a key factor in their communication, mutual respect, and the prevention of sexual violence. The multifaceted nature of sexual consent makes it a complex concept. The aim of the present study was to explore individuals' ideas and understanding of sexual intercourse in two distinct contexts: consensual and non-consensual. We used a qualitative approach, adopting the methodology of thematic analysis. In total, 113 surveys obtained from the general population (76.1% women and 23.9% men aged 18 to 59 years) were studied. Two open-ended questions were asked about the general topic of sexual consent, where we distinguished sexual activity in which there is sexual consent vs. no consent. The phases of the thematic analysis approach were applied. For the consensual context, the following themes emerged: mutual reciprocity and respect; open, clear communication and agreements; and awareness and emotional well-being. For the non-consensual context, the following themes emerged: violence and sexual assault, absence and ambiguity of sexual consent, and lack of communication. All of these aspects should be considered in couples' communication and sexual education to facilitate and improve sexual relationships and, in turn, prevent violence and sexual aggression.",
+  "raw_path": "01_raw/europepmc_xml/PMC11504636.xml",
+  "text_path": "02_text/europepmc/PMC11504636.txt",
+  "raw_bytes": 117631,
+  "text_chars": 39938,
+  "raw_sha256": "5d0fa7dd200a9c7eaa68d611a4d993d91d1cf390ea8b37bea2dc5a7a77b6f84f",
+  "text_sha256": "dbf6d1f7c6e40bb6cd86066c6e7e691e485b0190da09b7c55a2b1b3ca4341e61",
+  "retrieved_at": "2026-10-25T13:47:24.963355+00:00"
+}

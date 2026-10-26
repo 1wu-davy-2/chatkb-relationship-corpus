@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13290925",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Latent class analysis of dyadic psychosocial adaptation in young and middle-aged couples with liver cirrhosis.",
+  "authors": "Wang X, Zhang S, An H.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1798196",
+  "pmcid": "PMC13290925",
+  "url": "https://europepmc.org/article/PMC/PMC13290925",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13290925/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Objective This study aimed to identify distinct dyadic psychosocial adaptation profiles among patients with liver cirrhosis and their spouses, and to examine clinical and psychosocial factors associated with profile membership. Methods In this cross-sectional study conducted in a tertiary hospital in Zhengzhou, China, between February 2023 and August 2024, 321 patient-spouse dyads completed validated measures including the Psychosocial Adjustment to Illness Scale (PAIS-SR), the 10-item Connor-Davidson Resilience Scale (CD-RISC-10), the 10-item Family Health Scale-Short Form (FHS-SF), and the 11-item Comprehensive Score for Financial Toxicity (COST). Latent profile analysis (LPA) was conducted to derive dyadic adaptation profiles, and multinomial logistic regression was conducted to examine the predictors of maladaptive profiles. Results Five distinct dyadic profiles were identified-dyadic maladjustment ( n = 49, 15.27%), patient-predominant maladjustment ( n = 59, 18.38%), spouse-predominant maladjustment ( n = 75, 23.37%), pseudo-synergistic adaptation ( n = 95, 29.60%), and dyadic positive adaptation ( n = 43, 13.40%). Lower resilience, poorer family health, greater financial toxicity, and lower patient education were independently associated with the membership in maladaptive profiles (all p -values Conclusion Dyadic psychosocial adaptation in liver cirrhosis is heterogeneous and shaped by the interplay of personal, familial, and socioeconomic factors rather than clinical severity alone. Early dyadic screening for resilience, family functioning, health literacy, and financial strain may guide precision-targeted, couple-centered interventions to enhance adaptation and quality of life for both patients and their spouses.",
+  "raw_path": "01_raw/europepmc_xml/PMC13290925.xml",
+  "text_path": "02_text/europepmc/PMC13290925.txt",
+  "raw_bytes": 165840,
+  "text_chars": 43456,
+  "raw_sha256": "799c926539e518063a352541a9e1293212dd216ce61b0101d8004a9507f487fe",
+  "text_sha256": "400af8482489b70d6d361a022ecbfd9b4a6eb955ca7ddb6946d8c85e76784fcd",
+  "retrieved_at": "2026-10-25T13:55:42.076318+00:00"
+}

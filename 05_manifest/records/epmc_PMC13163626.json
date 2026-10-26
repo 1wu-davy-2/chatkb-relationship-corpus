@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC13163626",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mapping Life Satisfaction Over the First Years of Cohabitation Among Former Singles Living Alone in UK and Germany.",
+  "authors": "El-Awad U, Eves R, Hachenberger J, Entringer TM, Goodwin R, Realo A, Lemola S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jopy.70013",
+  "pmcid": "PMC13163626",
+  "url": "https://europepmc.org/article/PMC/PMC13163626",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13163626/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication",
+    "singles"
+  ],
+  "abstract": "Objective As social norms and relationship dynamics evolve, it is important to examine how transitions from singlehood to partnership, cohabitation, and marriage relate to well-being. Method Using data from two large panel studies in the UK and Germany (1984-2019), we identified N = 27,459 individuals who reported being single and living alone at least once. Analyses focused on a subset (N = 1103; M age = 38.35, SD age = 13.87; 43.8% women) who later entered a relationship and moved in with a partner. Results Life satisfaction increased over the short to medium term after cohabitation across most socio-demographic groups. The increase peaked in the year of moving in (Δ ≈ 0.48 SD) and remained above pre-transition levels for the 2 subsequent years analyzed. Those who had found a partner one year before had already achieved significantly higher life satisfaction, while cohabitation showed no additional effect. Marriage showed a short-lived additional effect in the early 1990s, but not more recently. Lower-income individuals experienced a stronger post-peak decline. Conclusion Findings suggest that well-being increases are more closely aligned with relationship formation than with cohabitation or marriage. Among participants already in a relationship, increases in well-being were observed prior to cohabitation, suggesting anticipatory effects.",
+  "raw_path": "01_raw/europepmc_xml/PMC13163626.xml",
+  "text_path": "02_text/europepmc/PMC13163626.txt",
+  "raw_bytes": 133881,
+  "text_chars": 50778,
+  "raw_sha256": "6e5a4dbc162cf5bd8bcf2b3a428916260152ecb759c61200ea0a21d6545d2ced",
+  "text_sha256": "6ea7d877cf8ced3a29e03177921369fc513ba48d5b55adaf8132e8815e9e5747",
+  "retrieved_at": "2026-10-25T13:57:47.126829+00:00"
+}

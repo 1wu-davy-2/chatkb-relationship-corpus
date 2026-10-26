@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11264650",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Examining Dyadic Stress Appraisal Processes Within Romantic Relationships from a Challenge and Threat Perspective.",
+  "authors": "Peters BJ, Overall NC, Gresham AM, Tudder A, Chang VT, Reis HT, Jamieson JP.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1007/s42761-024-00235-3",
+  "pmcid": "PMC11264650",
+  "url": "https://europepmc.org/article/PMC/PMC11264650",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11264650/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "The biopsychosocial model of challenge and threat emphasizes how individuals appraise stress. Close relationship theories emphasize the interpersonal context, communication, and outcomes that arise from stress. We integrate these approaches by examining the individual variability surrounding appraisals of sufficient (more challenge, less threat) or insufficient (more threat, less challenge) resources to cope with demands and examining how these appraisals are associated with couples' behavior and feelings toward each other. Across three studies, 459 romantic couples ( N = 918), and various potentially stressful in-lab conversations (extra-dyadic problem, dislikes about each other, dependability, and relationship conflict), we found evidence that stress appraisals indicative of more challenge and less threat were associated with more approach- and less avoidance-oriented behaviors within interactions. These approach- and avoidance-oriented behaviors were associated with greater feelings of relationship security and well-being after the conversation. However, whose (actors or partners) appraisals and behaviors were associated with security and well-being varied across the three studies. This work provides theoretical and empirical evidence for an interpersonal emphasis on intraindividual stress appraisal processes through a dyadic and close relationships lens. Our integrative theoretical framework breaks away from the idea that stress is inherently \"bad\" or \"maladaptive\" to show that appraising stress as more manageable (more challenge, less threat) is associated with more relationship behaviors that approach incentives and less that avoid threats and enhance feelings of relationship security and well-being. Supplementary information The online version contains supplementary material available at 10.1007/s42761-024-00235-3.",
+  "raw_path": "01_raw/europepmc_xml/PMC11264650.xml",
+  "text_path": "02_text/europepmc/PMC11264650.txt",
+  "raw_bytes": 153152,
+  "text_chars": 42198,
+  "raw_sha256": "e6c5ef281b2b98100ac6d7fbadbc96ab5fe2ea071b1c8901c0220e96f77fbecc",
+  "text_sha256": "2eee0e0020b2cd6c89faae1564fa701e4515b013f94b53752cae2e9edff8935c",
+  "retrieved_at": "2026-10-26T13:13:07.529172+00:00"
+}

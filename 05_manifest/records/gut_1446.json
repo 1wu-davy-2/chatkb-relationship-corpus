@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_1446",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Perfect Behavior: A Guide for Ladies and Gentlemen in All Social Crises",
+  "gutenberg_id": "1446",
+  "url": "https://www.gutenberg.org/ebooks/1446",
+  "download_url": "https://www.gutenberg.org/cache/epub/1446/pg1446.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/1446.txt",
+  "text_path": "02_text/gutenberg/gut_1446_perfect_behavior_a_guide_for_ladies_and.txt",
+  "raw_bytes": 259274,
+  "text_chars": 211901,
+  "text_sha256": "c828434aa4449a5cafad4ecd7ec77a617ebefa711c0c7e103dc877ee4e2b3fa6",
+  "retrieved_at": "2026-10-25T15:54:27.711189+00:00"
+}

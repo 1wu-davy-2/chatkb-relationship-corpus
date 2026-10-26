@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11918749",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Partner responses to pain among male partners of women with provoked vestibulodynia-a cross-sectional study.",
+  "authors": "Myrtveit-Stensrud L, Ekholm E, Flink I, Ter Kuile M, Engman L, Suvaal I, Groven KS, Reme SE.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1097/pr9.0000000000001265",
+  "pmcid": "PMC11918749",
+  "url": "https://europepmc.org/article/PMC/PMC11918749",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11918749/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction"
+  ],
+  "abstract": "Introduction Provoked vestibulodynia (PVD) is a prevalent persistent pain disorder, localized to the vulva, not only affecting the sexual health of women suffering from it but also of their partners. Partner's behavioral response to the pain has implications for the affected woman's pain and sexual function, as well as the relational dynamics of the couple. Objectives The main aim of this study was to explore facilitative, solicitous, and negative male partner responses to women with PVD and their links to demographic and psychosexual characteristics. Further, we investigated the discrepancies in psychosexual health between currently sexually active and inactive participants, as well as levels of anxiety and depressive symptoms within our sample of male partners (N = 127). Methods: Cross-sectional associations were examined using bivariate correlations. Differences in psychosexual health between the two sub-samples were examined using Mann-Whitney U test. Results Our results showed that facilitative partner responses were significantly associated with higher relationship and sexual satisfaction, as well as with lower sexual distress and more approach goals. Negative partner responses were significantly associated with higher sexual distress, as well as with lower relationship and sexual satisfaction. Negative partner responses were the only responses significantly associated with the men's anxiety and depression, which suggests that mental health plays a role in partners' management of vulvodynia. In our sample, 10.2% scored above cut-off for clinical levels of depressive symptoms and 8.7% for anxiety, similar to a Swedish community sample. Conclusion: Partner responses were associated with psychosexual health. In our sample, male partners of women with PVD did not have more anxiety or depression than other men of the same age in the general population.",
+  "raw_path": "01_raw/europepmc_xml/PMC11918749.xml",
+  "text_path": "02_text/europepmc/PMC11918749.txt",
+  "raw_bytes": 103046,
+  "text_chars": 29890,
+  "raw_sha256": "a57402bcf6cbcddb74ef07633a57d9db1ac6f58002bf028389689b82682f208a",
+  "text_sha256": "0d30249bd79945930a4749fde6585e416445c3fcc7152989911927cfcba3a12d",
+  "retrieved_at": "2026-10-25T15:37:02.680902+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13618944",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Adverse early-life conditions and their impact on the marriage market and social mobility: The Poznań birth cohort, 1830-1855.",
+  "authors": "Antosik S, Bengtsson T, Antosik P, Liczbińska G.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0345394",
+  "pmcid": "PMC13618944",
+  "url": "https://europepmc.org/article/PMC/PMC13618944",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13618944/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_market"
+  ],
+  "abstract": "Objectives Early-life conditions may influence later-life outcomes through biological scarring and selective survival mechanisms. However, the long-term effects of childhood adversity on marriage formation and social mobility remain insufficiently explored in historical populations. This study examines whether exposure to adverse early-life conditions affected the probability of entering a first marriage and social mobility at first marriage in 19th-century Poznań. Methods The study draws on linked individual-level data from the Poznań Historical Population Database, including birth, marriage and death records from the Catholic and Protestant parishes of Poznań. The analysis focuses on individuals born between 1830 and 1855 who survived at least age 15. Logistic regression models were used to examine (1) the association between early-life adversity and the probability of entering first marriage by age 45 (N = 15,121), and (2) the relationship between early-life conditions and social mobility between birth and first marriage among individuals whose first marriage occurred by age 45 and for whom socioeconomic position at birth and marriage could be determined (N = 802). Early-life adversity was assessed using population-level indicators of prenatal, infant, and childhood conditions, including the sex ratio at birth, floods, rye prices, infant mortality rate, and crude death rate. Results A low sex ratio at birth in the year of conception and high rye prices during infancy, both indicative of adverse conditions, were associated with lower odds of entering marriage. In contrast, high rye prices during the prenatal period were associated with a higher probability of marriage, which may reflect selective survival processes. Exposure to high infant mortality did not significantly affect the probability of marriage. Analyses of social mobility revealed limited effects of early-life adversity among individuals who survived and entered marriage. However, exposure to high crude death rates at ages two and three was associated with lower odds of downward mobility. Conclusion Early-life adversity influenced later-life demographic outcomes in 19th-century Poznań, particularly marriage formation. The findings suggest that both scarring and selection mechanisms shaped the observed associations between childhood conditions and adult outcomes. The limited effects on social mobility highlight the importance of considering selective survival and the restricted nature of historical marriage records when analysing the long-term consequences of adverse early-life conditions.",
+  "raw_path": "01_raw/europepmc_xml/PMC13618944.xml",
+  "text_path": "02_text/europepmc/PMC13618944.txt",
+  "raw_bytes": 168394,
+  "text_chars": 55844,
+  "raw_sha256": "1ed7bc69194b9a1a745b92947b11d3981c2605fe0c1245d67275a25274117fdc",
+  "text_sha256": "bb44ec5105ec1b4cdd3b663f9b9e93aa1dccc10503fcf86cb0f23aa93690d686",
+  "retrieved_at": "2026-10-25T15:28:37.640870+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13562208",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "[Quality of relationships among the oldest old in Germany-an examination of the association with depressive symptoms and loneliness].",
+  "authors": "Hajek A, König HH.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s00103-026-04277-9",
+  "pmcid": "PMC13562208",
+  "url": "https://europepmc.org/article/PMC/PMC13562208",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13562208/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "ger",
+  "topics": [
+    "loneliness"
+  ],
+  "abstract": "Background To date, there is restricted knowledge with regard to the association of relationship quality with family and friends and depressive symptoms and loneliness among the oldest old. Thus, we aimed to address this knowledge gap. Methods Data were taken from wave 8 of the German Ageing Survey (December 2022 to June 2023), a nationally representative sample of community-dwelling individuals in their second half of life. We restricted our analytical sample (n = 810 respondents) to individuals aged 80 years and over (i.e., oldest old). Loneliness was measured using the De Jong Gierveld tool. The Center for Epidemiologic Studies Depression Scale (CES-D) was used to measure depressive symptoms. Multiple linear regression models were estimated. Both the quality of relationships with family and friends was measured via single-item tools. Multiple linear regression models were used. Results A high quality of relationship with family (compared to a low-quality relationship) was neither statistically significantly associated with depressive symptoms nor with loneliness. Contrary, a high quality of relationship with friends (compared to a low-quality relationship) was significantly associated with fewer depressive symptoms (β = -3.71, p Conclusions Our findings revealed an association of a high quality of relationship with friends and fewer depressive symptoms and lower loneliness scores among the oldest old in Germany. Upcoming research should elucidate the underlying mechanisms of the identified associations.",
+  "raw_path": "01_raw/europepmc_xml/PMC13562208.xml",
+  "text_path": "02_text/europepmc/PMC13562208.txt",
+  "raw_bytes": 87034,
+  "text_chars": 26030,
+  "raw_sha256": "95a2800fd0db2d52aee6bf9c21fae4f182af47bd24df71d1bb9ae8771a7bff0f",
+  "text_sha256": "4763b51430eeceebd44e49a9ce1845ababcd6976813b29196dd97ab4b36b0aac",
+  "retrieved_at": "2026-10-25T15:35:42.587199+00:00"
+}

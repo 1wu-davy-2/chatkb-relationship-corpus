@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11619192",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Systematic review of the barriers and facilitators to cross-sector partnerships in promoting physical activity.",
+  "authors": "Kolovou V, Bolton N, Crone D, Willis S, Walklett J.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/17579139231170784",
+  "pmcid": "PMC11619192",
+  "url": "https://europepmc.org/article/PMC/PMC11619192",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11619192/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Aims To review the barriers and facilitators that cross-sector partners face in promoting physical activity. Methods We searched Medline, Embase, PsychINFO, ProQuest Central, SCOPUS and SPORTDiscus to identify published records dating from 1986 to August 2021. We searched for public health interventions drawn from partnerships, where the partners worked across sectors and their shared goal was to promote or increase physical activity through partnership approaches. We used the Critical Appraisal Skills Programme UK (CASP) checklist and Risk Of Bias In Non-randomised Studies - of Interventions (ROBINS-I) tool to guide the critical appraisal of included records, and thematic analysis to summarise and synthesise the findings. Results Findings ( n = 32 articles) described public health interventions ( n = 19) aiming to promote physical activity through cross-sector collaboration and/or partnerships. We identified barriers, facilitators and recommendations in relation to four broad themes: approaching and selecting partners, funding, building capacity and taking joint action. Conclusion Common challenges that partners face are related to allocating time and resources, and sustaining momentum. Identifying similarities and differences between partners early on and building good relationships, strong momentum and trust can take considerable time. However, these factors may be essential for fruitful collaboration. Boundary spanners in the physical activity system could help translate differences and consolidate common ground between cross-sector partners, accelerating joint leadership and introducing systems thinking. Prospero registration number CRD42020226207.",
+  "raw_path": "01_raw/europepmc_xml/PMC11619192.xml",
+  "text_path": "02_text/europepmc/PMC11619192.txt",
+  "raw_bytes": 100113,
+  "text_chars": 24439,
+  "raw_sha256": "1a31b25b8d1df612a99a5d0df3d17c38a3b97c380ac78906a6487d3ba7c032be",
+  "text_sha256": "b2bd71a12d141b8a7152906f47bd901706f465a84e1775dab542d4b5eaf4a7a6",
+  "retrieved_at": "2026-10-25T15:38:24.906649+00:00"
+}

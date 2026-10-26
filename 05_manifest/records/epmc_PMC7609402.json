@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7609402",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Oxytocin and Three Kinds of Dangerous Behaviors in a Romantic Relationship: Playing, Suffering, and Stalking.",
+  "authors": "Chuang JY.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.3389/fpsyt.2020.572654",
+  "pmcid": "PMC7609402",
+  "url": "https://europepmc.org/article/PMC/PMC7609402",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7609402/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "Romantic relationships are an essential element of healthy living. Although difficulties in love are encountered often, it seems that three kinds of behaviors in a romantic relationship are more susceptible to physical or psychiatric disorders: playing (sexually transmitted disease), suffering (major depressive disorder or suicide), and stalking (violence or homicide). Oxytocin plays an important role in pair-bonding. Elevated plasma oxytocin concentrations have been observed in new lovers when compared with singles. It is hypothesized that those who display these dangerous behaviors in a romantic relationship might possess specific oxytocin receptor gene aberrancy and the resultant deviant pair-bonding pattern is likely to recur in successive relationships. It is postulated that a blunted oxytocin surge might be observed in playing, whereas exaggerated oxytocin surge might be observed in suffering and stalking. The distinction between suffering and stalking might stem from the difference in their aggression tendencies. Those who suffer displays aggression toward self, while those who stalk displays aggression toward others. The exaggerated oxytocin concentrations in people who suffer and people who stalk might not be suppressed by the discouraging attitudes of their partners and might be maintained by rumination. Considering the whole-body influence of oxytocin, intranasal oxytocin application or gene therapy should be used exclusively for those who display these dangerous behaviors and not for the general population. Future research is warranted to confirm this hypothesis with analysis of modifiers such as gender.",
+  "raw_path": "01_raw/europepmc_xml/PMC7609402.xml",
+  "text_path": "02_text/europepmc/PMC7609402.txt",
+  "raw_bytes": 49138,
+  "text_chars": 17348,
+  "raw_sha256": "c866036d2e439158f419e3557bc5dd19bcce10a3033bac32b055cb8a29a780f2",
+  "text_sha256": "3399aa4f9e9f76c977a5b6542db9c5a221d7a3687965e9eb1673e0e892d8785b",
+  "retrieved_at": "2026-10-25T15:34:38.121418+00:00"
+}

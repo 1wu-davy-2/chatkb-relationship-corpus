@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8857692",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Approaches to Determine and Manage Sexual Consent Abilities for People With Cognitive Disabilities: Systematic Review.",
+  "authors": "Esmail S, Concannon B.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.2196/28137",
+  "pmcid": "PMC8857692",
+  "url": "https://europepmc.org/article/PMC/PMC8857692",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8857692/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent"
+  ],
+  "abstract": "Background This review focused on how sexual consent ability was determined, managed, and enhanced in people with cognitive disabilities, with the aim of better understanding the recurring themes influencing the design and implementation of these approaches. If a person's consensual ability becomes compromised, owing to either an early or late-onset cognitive disability, the formal systems involved must establish plans to balance the individual's rights and restrictions on sexual expression. This review identified these plans, focusing on how they promoted the intimacy rights of the individual. Objective This study aims to identify approaches that determine sexual consent ability in people with cognitive disabilities, identify the means of managing and enhancing sexual consent ability in people with cognitive disabilities, and note the recurring themes that influence how these approaches and management systems are designed and implemented. Methods A systematic literature review was performed using EBSCOhost (Social Gerontology, CINAHL Plus, MEDLINE, and SocINDEX), Embase, PsyInfo, and Scopus to locate reports on terms expanded on sexual consent and cognitive disability. Results In all, 47 articles were identified, featuring assessment practices, legal case studies, and clinical standards for managing sexual consent capacity in people with cognitive disabilities. A total of 8 studies (5/8, 63% qualitative and 3/8, 38% quantitative) were included out of the 47 articles identified. Approaches for determining sexual consent included functional capacity and person-centered, integrated, and contextual approaches. Management of sexual consent ability included education, attitude, and advanced directives and support networks. The recurring themes that influenced these approaches included the 3 legal criteria of consent, American Bar Association and American Psychological Association Model, Lichtenberg and Strzepek Instrument, Ames and Samowitz Instrument, Lyden approach, Mental Capacity Act of 2005, and Vancouver Coastal Health Authority of 2009. Conclusions Determining sexual consent takes a holistic approach, with individuals judged in terms of their adaptive abilities, capacities, and human rights. The attitudes of those using this holistic approach need to be balanced; otherwise, the sexual rights of assessed people could be moved either in favor or against them. The ideal outcome, after person-centered considerations of those living with cognitive disabilities includes the people themselves being involved in the process of personalizing these approaches used to facilitate healthy intimate relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC8857692.xml",
+  "text_path": "02_text/europepmc/PMC8857692.txt",
+  "raw_bytes": 226251,
+  "text_chars": 75654,
+  "raw_sha256": "9e53bc80f7c451afc751ed476915e990c9009da7309552e5855c852c035c1b36",
+  "text_sha256": "d8fe71e21f5116a97881be6f1b5adbd9f6b1a771a3224655cbe5cd9927406010",
+  "retrieved_at": "2026-10-25T15:29:15.078098+00:00"
+}

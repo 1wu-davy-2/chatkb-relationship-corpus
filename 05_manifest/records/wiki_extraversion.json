@@ -1,0 +1,20 @@
+{
+  "doc_id": "wiki_extraversion",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "外向性与内向性",
+  "requested_title": "外向",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A4%96%E5%90%91%E6%80%A7%E4%B8%8E%E5%86%85%E5%90%91%E6%80%A7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "personality"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/extraversion.json",
+  "text_path": "02_text/zh_wikipedia/extraversion.txt",
+  "raw_bytes": 3963,
+  "text_chars": 1414,
+  "text_sha256": "abec593f9bfcb349e6161ff976865afc0168a8f36c980cb399b32996a96fa4bb",
+  "retrieved_at": "2026-10-25T15:40:14.621374+00:00"
+}

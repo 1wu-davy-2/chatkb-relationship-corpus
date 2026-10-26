@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12373347",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual harassment and job satisfaction among female workers at private sectors: Job stress as a mediator.",
+  "authors": "Ahmed JO, Kakamd KK, Mawlod KS.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.4103/ipj.ipj_498_24",
+  "pmcid": "PMC12373347",
+  "url": "https://europepmc.org/article/PMC/PMC12373347",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12373347/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_harassment"
+  ],
+  "abstract": "Background Female workers often face sexual harassment in the workplace. It places them under stress and reduces their job satisfaction. Aim Understanding the mediating effect of job stress in relation to harassment and job satisfaction is the main objective of the study. Materials and methods This cross-sectional study focused on women workers in the private sector from the Kurdistan region of Iraq. We measured sexual harassment using the sex behavior and workplace questionnaire and assessed job stress using the job stress survey questionnaire. The researchers developed a job satisfaction scale. We analyzed the data using ANOVA, simple linear regression, and Sobel mediation. Results Study sample consisted of 400 women workers who had experienced sexual harassment at work. The divorced/widowed had higher levels of harassment (M = 76.68), higher levels of job stress (M = 56.94), and worse job satisfaction (M = 50.16). We found a substantial positive link between sexual harassment and job stress and a large, significant negative correlation with job satisfaction. The indirect effect of sexual harassment through job stress accounts for 15% of the impact on job satisfaction. Conclusion Among female workers, divorced or widowed, older, and lower levels of education are the main risk factors for sexual harassment.",
+  "raw_path": "01_raw/europepmc_xml/PMC12373347.xml",
+  "text_path": "02_text/europepmc/PMC12373347.txt",
+  "raw_bytes": 76739,
+  "text_chars": 20473,
+  "raw_sha256": "e46754705b0cc36477d935ee5717d42445d20b6b932cefc2f27481bcb5cfcfa0",
+  "text_sha256": "9cd107a027418a76d289974d61afcf4280067b1669f61e243741cf5a1013ad2a",
+  "retrieved_at": "2026-10-25T15:28:42.383811+00:00"
+}

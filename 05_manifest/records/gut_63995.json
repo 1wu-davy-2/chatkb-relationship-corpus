@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_63995",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "The Art of Conversation: Twelve Golden Rules",
+  "gutenberg_id": "63995",
+  "url": "https://www.gutenberg.org/ebooks/63995",
+  "download_url": "https://www.gutenberg.org/cache/epub/63995/pg63995.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "conversation"
+  ],
+  "raw_path": "01_raw/gutenberg/63995.txt",
+  "text_path": "02_text/gutenberg/gut_63995_the_art_of_conversation_twelve_golden_ru.txt",
+  "raw_bytes": 79068,
+  "text_chars": 57438,
+  "text_sha256": "c25a7b375f25c249f1aa2ac6e91cbb50352be79d9b04df76578799f3d6a550e1",
+  "retrieved_at": "2026-10-26T12:54:59.280620+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9751938",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Narcissism on interpersonal circumplex model: Reactions to imaginary abandonment and rejection.",
+  "authors": "Şen-Pakyürek G, Barışkın E.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2022.987038",
+  "pmcid": "PMC9751938",
+  "url": "https://europepmc.org/article/PMC/PMC9751938",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9751938/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Aim Narcissism is a direct result of the lack of self-expression. Thus, this trait is enshrined in cycles of strategies to protect self-worth in interpersonal relationships. The aim of the present study was to understand in what way narcissistic individuals understand their interactions with themselves and others. Method The study included two groups comprising high grandiose narcissism (GN, n = 43) and high vulnerable narcissism (VN, n = 44). The participants who received scores that were one standard deviation (SD) above the mean, either on the PNI-grandiosity or on the PNI-vulnerable dimensions, constituted the GN and VN groups among 518 students (Age: M = 23.57, Sd = 2.13). Results The chi-square test was performed to evaluate the dimensions of narcissism with respect to responses of the participants and their partners (behavioral, cognitive, and emotional). The Pathological Narcissism Inventory (PNI) was administered to evaluate narcissistic characteristics. The \"Criticism Story\" of the Story Completion Inventory in Romantic Relationships (SCIRR) was used for criticism. The circular pattern between the responses of the participants and their partners was examined using the Interpersonal Schemas Scale (ISS). The results revealed that the vulnerable group gave more complementary responses emotionally and made more complementary predictions in terms of the expected reactions from the romantic partner than the grandiose group. Discussion The results were discussed in reference to the basic self-esteem-protecting motivations of the groups.",
+  "raw_path": "01_raw/europepmc_xml/PMC9751938.xml",
+  "text_path": "02_text/europepmc/PMC9751938.txt",
+  "raw_bytes": 146015,
+  "text_chars": 46722,
+  "raw_sha256": "578a1213bb45fea7e66a0af2b19fe8e110513cc9275e7eea0b10719989cee819",
+  "text_sha256": "f06261c2a01492afd1a62b56cb7a88716d1f69939d702e804f19a2416d5021ed",
+  "retrieved_at": "2026-10-25T15:38:54.422181+00:00"
+}

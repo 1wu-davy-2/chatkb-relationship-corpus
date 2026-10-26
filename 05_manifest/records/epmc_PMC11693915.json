@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11693915",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Love actually: Is relationship status associated with dark triad personality traits and attitudes towards love?",
+  "authors": "Benfante A, Di Tella M, Veggi S, Freilone F, Castelli L, Zara G.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1016/j.heliyon.2024.e40215",
+  "pmcid": "PMC11693915",
+  "url": "https://europepmc.org/article/PMC/PMC11693915",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11693915/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Romantic love plays a central role in the lives of individuals and influences decisions about lasting relationships such as marriage or cohabitation. To understand the dynamics of intimate relationships, both personality traits and attitudes toward love styles need to be explored. This cross-sectional study aimed to examine the possible differences between married/cohabiting and single individuals in terms of Dark Triad personality traits and attitudes towards love styles, and to investigate which of these factors can significantly predict participants' relationship status. As a secondary objective, we analysed the presence of gender differences in the examined constructs. A total of 1101 participants (mean age ± SD: 40.75 ± 16.07; women: 710, 64.5 %) completed the Dark Triad Dirty Dozen and the Love Attitudes Scale - Short Form. Data for this study were collected via a web-based survey. Study's results revealed that married/cohabiting participants scored lower on all Dark Triad Dirty Dozen subscales, and they were characterised by more Eros and Agape and less Ludus, Mania, Pragma, and Storge styles compared to their single counterparts. Age, narcissism, Eros, Agape, Mania, and Storge were significant predictors of marriage/cohabitation. The final model explained 53 % of the variance, with 81 % of participants correctly categorised as married/cohabiting vs. single. Finally, men were more ludic and agapic in their love styles than women. These findings suggest that dark personality traits and attitudes toward love styles characterise married/cohabiting and single individuals differently. Understanding these distinctions sheds light on the complexities of romantic relationships across different relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC11693915.xml",
+  "text_path": "02_text/europepmc/PMC11693915.txt",
+  "raw_bytes": 92725,
+  "text_chars": 31654,
+  "raw_sha256": "8b6c8ba9aacab84608c1798373be4b457ba572102b656f87daa020d27ab4398b",
+  "text_sha256": "439279965e4944f1b75ca5b40302dc7cd2244d2ebb411ebcb5acda3b2a27241a",
+  "retrieved_at": "2026-10-25T15:39:08.168076+00:00"
+}

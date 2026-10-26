@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_superstition",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "迷信",
+  "requested_title": "迷信",
+  "url": "https://zh.wikipedia.org/wiki/%E8%BF%B7%E4%BF%A1",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 迷信",
+  "topics": [
+    "belief",
+    "culture"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/superstition.json",
+  "text_path": "02_text/zh_wikipedia/superstition.txt",
+  "raw_bytes": 5184,
+  "text_chars": 2028,
+  "text_sha256": "7c4e8de25e951a514e4c9350b19901b7d684e347e7bb90dbd68be330427c4dd2",
+  "retrieved_at": "2026-10-26T13:04:07.590636+00:00"
+}

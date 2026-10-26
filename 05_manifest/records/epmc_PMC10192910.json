@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10192910",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Toward consistent reporting of sample characteristics in studies investigating the biological mechanisms of romantic love.",
+  "authors": "Bode A, Kowal M.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2023.983419",
+  "pmcid": "PMC10192910",
+  "url": "https://europepmc.org/article/PMC/PMC10192910",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10192910/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "In this non-systematic review, we consider the sample reporting practices of 42 studies up to and including 2021 investigating the biological mechanisms of romantic love (i.e., 31 neuroimaging studies, nine endocrinological studies, one genetics study, and one combined neuroimaging and genetics study). We searched scientific databases using key terms and drew on our and other authors' knowledge to identify studies that investigated the mechanisms associated with romantic love using neuroimaging, endocrinological, and genetic methods. Only studies with a group or entire sample experiencing romantic love were included. The aim was to collate all relevant studies and determine the comparability of studies and ability to assess the generalizability of findings. We summarize how these studies report sex/gender, age, romantic love, relationship duration/time in love, and sample descriptors. We then outline the case for promoting comparability and the ability to determine generalizability in future studies. The findings indicate a limited ability to compare studies' samples or make an assessment of the generalizability of findings. Existing studies are not representative of the general population in a particular country or globally. We conclude by presenting ideas about how best to report sex, age, romantic love characteristics, relationship status, time in love, relationship duration, relationship satisfaction, type of unrequited love, sexual activity, cultural characteristics, socio-economic status, student status, and method-relevant descriptors. If our ideas are adopted, in part or in whole, we expect the comparability of studies to increase. Adopting our ideas will also make it easier to make an assessment of the generalizability of findings.",
+  "raw_path": "01_raw/europepmc_xml/PMC10192910.xml",
+  "text_path": "02_text/europepmc/PMC10192910.txt",
+  "raw_bytes": 157724,
+  "text_chars": 46563,
+  "raw_sha256": "3c7df4be0929a7deea6876616b7320b3fba3a8756f23d0a9cd3bf7a1e61cd47c",
+  "text_sha256": "8c544adc234b11c08e3a3fc9212735efbcb7c113b9e68a75e9d1e0cc12a348de",
+  "retrieved_at": "2026-10-25T14:02:10.126831+00:00"
+}

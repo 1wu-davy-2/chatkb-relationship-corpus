@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9520904",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring Iraqi people's perception about early marriage: a qualitative study.",
+  "authors": "Saleh AM, Othman SM, Ismail KH, Shabila NP.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1186/s12905-022-01980-y",
+  "pmcid": "PMC9520904",
+  "url": "https://europepmc.org/article/PMC/PMC9520904",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9520904/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_attitudes"
+  ],
+  "abstract": "Background and objective Early marriage is prevalent in Iraq, but the factors related to this behavior, especially people's attitudes about it, have not been well studied. It has been proven that early marriage seriously threatens young girls' lives and health. This study aimed to explore the perception of people about early marriage in the Iraqi Kurdistan region. Methods A qualitative method was employed to carry out this study in 2020. Data were collected through 16 focus group discussions in different health centers in Erbil, Iraq. Each focus group included 8-12 participants who had the experience of early marriage. The transcripts of the focus groups were analyzed through the six methodological activities of Van Manen. The trustworthiness of the data was confirmed by using qualitative data evaluation criteria. Results Different themes and subthemes regarding the ideal age of marriage, attitudes toward marriage, reasons for early marriage, advantages and disadvantages of early marriage, and practice of early marriage in the community emerged from focus group discussions. Most participants identified early marriage as inappropriate social behavior that should not be practiced. Reasons for early marriage included poor economic status, protection of girls and boys, low educational level, and respect for old traditions of the community. Divorce and violence against women were the main disadvantages of early marriage. Conclusion There is a generally negative attitude towards early marriage, and the practice's disadvantages and health and psychological consequences are well recognized in Iraqi Kurdistan Region. However, different social, traditional, economic, educational, and religious factors encourage early marriage in the region. Further research is recommended in other governorates in the area to have a more precise and representative idea about the topic.",
+  "raw_path": "01_raw/europepmc_xml/PMC9520904.xml",
+  "text_path": "02_text/europepmc/PMC9520904.txt",
+  "raw_bytes": 81270,
+  "text_chars": 35053,
+  "raw_sha256": "bbd7f0413c14f9b3d2c1fad9ccb8dbdc1e922eb18f237fbea704f1de1b53aa1a",
+  "text_sha256": "31381c41605e7fe3174436151cf6bc6c815aef1415da6fea5628e1c6b2d8cf05",
+  "retrieved_at": "2026-10-25T15:36:52.119768+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_15858",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "The Social Emergency: Studies in Sex Hygiene and Morals",
+  "gutenberg_id": "15858",
+  "url": "https://www.gutenberg.org/ebooks/15858",
+  "download_url": "https://www.gutenberg.org/cache/epub/15858/pg15858.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "sex education"
+  ],
+  "raw_path": "01_raw/gutenberg/15858.txt",
+  "text_path": "02_text/gutenberg/gut_15858_the_social_emergency_studies_in_sex_hygi.txt",
+  "raw_bytes": 289417,
+  "text_chars": 261508,
+  "text_sha256": "6c8197c8d39e0d1cee6a60956b428b5de21a9a035fe566b575f0504a9819234c",
+  "retrieved_at": "2026-10-26T13:01:22.545394+00:00"
+}

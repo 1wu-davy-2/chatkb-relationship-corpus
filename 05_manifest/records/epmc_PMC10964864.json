@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10964864",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Conjoint Couple Therapy with a Woman Survivor of Intimate Partner Violence: Strengths and Challenges.",
+  "authors": "Roy R, Vranda MN, Jagannathan A, Cicil VR, Prabhu JR.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/02537176231154820",
+  "pmcid": "PMC10964864",
+  "url": "https://europepmc.org/article/PMC/PMC10964864",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10964864/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "Intimate Partner Violence (IPV) or Domestic Violence (DV) affects the mental health of women. Systemic family therapy has been found to help bring change in a couple's relationship and the cessation of violence in the relationship, provided both couples are motivated by the therapy to preserve the marital relationship. This article presents a case of offering brief tailor-made individual intervention as well as couple therapy for a woman with depression experiencing violence.",
+  "raw_path": "01_raw/europepmc_xml/PMC10964864.xml",
+  "text_path": "02_text/europepmc/PMC10964864.txt",
+  "raw_bytes": 47902,
+  "text_chars": 17421,
+  "raw_sha256": "a835a1f6c046ce25667c417142a3911f7e2165f8913a872ad61547c83f010d82",
+  "text_sha256": "9b920bf29e3ed41f836a62a56bb92fab4230556aed9a73f250695e0d824fd714",
+  "retrieved_at": "2026-10-25T15:47:34.321265+00:00"
+}

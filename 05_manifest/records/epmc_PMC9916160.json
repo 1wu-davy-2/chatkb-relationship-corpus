@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9916160",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Willingness to Pay for a Dating App: Psychological Correlates.",
+  "authors": "Rochat L, Orita E, Jeannot E, Achab S, Khazaal Y.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3390/ijerph20032101",
+  "pmcid": "PMC9916160",
+  "url": "https://europepmc.org/article/PMC/PMC9916160",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9916160/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "The smartphone dating app, Tinder, has become hugely popular in recent years. Although most people use a free version of the app, some pay for an augmented version to improve their experience. However, there is little evidence of the association between the willingness to pay for a dating app such as Tinder and users' psychological characteristics. This study thus aims to compare Tinder paying versus non-paying users in terms of their pattern of use, excessive use of Tinder, motives for using Tinder, impulsivity traits, depressive mood, and sociodemographic variables, as well as to examine which variables best predict group membership. A total of 1159 Tinder users participated in an online survey. Group comparisons indicated that payers were more frequently male, reported greater motives for using Tinder than non-payers, and differed in their pattern of use compared with non-payers. Impulsivity traits did not significantly differ between the two groups. Being male and reporting greater motives for Tinder use significantly predicted being a payer. These findings provide insights into the processes that stimulate users' greater consumption of online dating apps, such as reinforcement mechanisms and reward sensitivity.",
+  "raw_path": "01_raw/europepmc_xml/PMC9916160.xml",
+  "text_path": "02_text/europepmc/PMC9916160.txt",
+  "raw_bytes": 90648,
+  "text_chars": 24024,
+  "raw_sha256": "0a8b01e0c817af07767096592ab52f0eae6c51c9d5ae98e59e90737671ecfd3c",
+  "text_sha256": "3ba3d83a51d5eff3b6a640873337e8122da616f62fbc41148f74ba10aeaecac7",
+  "retrieved_at": "2026-10-25T15:46:17.057492+00:00"
+}

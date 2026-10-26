@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_family_of_origin",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "原生家庭",
+  "requested_title": "原生家庭",
+  "url": "https://zh.wikipedia.org/wiki/%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 原生家庭",
+  "topics": [
+    "family",
+    "psychology",
+    "china"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/family_of_origin.json",
+  "text_path": "02_text/zh_wikipedia/family_of_origin.txt",
+  "raw_bytes": 1865,
+  "text_chars": 889,
+  "text_sha256": "e83de1e86e8478d59eec9973c43e82a320eac643f3ca351d011a1ee1e08b6cd7",
+  "retrieved_at": "2026-10-25T16:26:18.664344+00:00"
+}

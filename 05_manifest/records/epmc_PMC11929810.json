@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11929810",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Accuracy and bias in the perceptions of partner's negative emotions: the role of trait mindfulness.",
+  "authors": "Zoppolat G, Overall N, Karremans JC, Kammrath LK, van der Schans KL, Chang V, Doyle DM, Righetti F.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1038/s41598-025-94581-2",
+  "pmcid": "PMC11929810",
+  "url": "https://europepmc.org/article/PMC/PMC11929810",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11929810/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "mindfulness"
+  ],
+  "abstract": "Theoretical and empirical work suggests that mindfulness is beneficial for close relationships. However, the ways in which mindfulness shapes important relational processes are not well understood. The current study examines the role that trait mindfulness plays in shaping people's perceptions of their romantic partner's emotions. In two dyadic studies (Study 1 n = 121 couples; Study 2 n = 138 couples), heterosexual couples engaged in a conversation about a problem in their relationship. Prior to the conversation, participants completed measures of their relational (Study 1) or general trait (Study 2) mindfulness, and then rated their own and their partner's (negative) emotions immediately following the conflict. Multilevel Truth and Bias models were used to assess accuracy and bias in perceptions. Results revealed that men low in mindfulness overestimated their partner's negative emotions especially when their partners' negative emotions were higher, whereas more mindful men did not overestimate their partners' negative emotions and were less perceptually sensitive to their partner's higher levels of negative emotions. This pattern of results was less consistent for women. Overall, this study advances understanding of how mindfulness may enhance relationships by suggesting that mindfulness reduces hypervigilance to and overestimation of partner's negative emotions, particularly for men.",
+  "raw_path": "01_raw/europepmc_xml/PMC11929810.xml",
+  "text_path": "02_text/europepmc/PMC11929810.txt",
+  "raw_bytes": 131242,
+  "text_chars": 42939,
+  "raw_sha256": "dc6c8741432375594f539fc1c85a8967f8a20c551e72c0c7e554ed82075aca37",
+  "text_sha256": "ddac8280674375f385f2cc889088992b7734936175e0d542311dd9ac9cdd9d0f",
+  "retrieved_at": "2026-10-25T15:31:15.198681+00:00"
+}

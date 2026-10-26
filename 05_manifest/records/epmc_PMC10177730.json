@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10177730",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Feelings toward lying flatism and attitudes toward singlehood: the mediating role of happiness belief.",
+  "authors": "Heng ZQ, Chin J, Tan CS.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1186/s40359-023-01187-2",
+  "pmcid": "PMC10177730",
+  "url": "https://europepmc.org/article/PMC/PMC10177730",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10177730/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "Background Lying flatism, a new emerging lifestyle by refusing to participate in consumerist lifestyles, is anticipated to be related to singlehood. Based on the Theory of Reasoned Action, we proposed a mediation model to examine the indirect relationship between feelings towards lying flatism and attitudes toward singlehood via individuals' belief in that happiness can be achieved without romantic relationships (happiness belief). Methods Using purposive and snowball sampling methods, 232 single Malaysian young adults participated in an online experiment consisting of a writing task (to manipulate feelings toward lying flatism), single-item measures of manipulation checking and happiness belief, Attitudes toward Singlehood Scale, Negative Stereotyping of Single Persons Scale (a measure of singlism) and Fear of Being Single Scale. Results T-Test results support the writing task that successfully induced positive feelings toward lying flatism. Mediation analysis showed that the feelings toward lying flatism measured before the writing task, but not the manipulation of lying flatism, has an indirect relationship with attitudes toward singlehood via happiness belief, after controlling for gender, singlism, and fear of being single. Conclusions The findings offer preliminary support to the hypothetical relationships among feelings towards lying flatism, happiness belief, and attitudes toward singlehood. Implications of the findings are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC10177730.xml",
+  "text_path": "02_text/europepmc/PMC10177730.txt",
+  "raw_bytes": 126026,
+  "text_chars": 46971,
+  "raw_sha256": "52f60b22c543c4f815a52a16af82c31bdf589e37367efbe7ccdbed4763b0c128",
+  "text_sha256": "cc0183964c236d105cae20e4a4b8ed082242acc43074c324f4e5fda74fea7d2d",
+  "retrieved_at": "2026-10-25T13:56:29.035078+00:00"
+}

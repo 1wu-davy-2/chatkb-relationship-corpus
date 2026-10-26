@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8123381",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A scoping review of education and training resources supporting care home staff in facilitating residents' sexuality, intimacy and relational needs.",
+  "authors": "Horne M, Youell J, Brown LJE, Simpson P, Dickinson T, Brown-Wilson C.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1093/ageing/afab022",
+  "pmcid": "PMC8123381",
+  "url": "https://europepmc.org/article/PMC/PMC8123381",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8123381/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_self_disclosure"
+  ],
+  "abstract": "Background Having positive intimate, sexual and relational experiences is an important issue for older adults in care settings, yet little is known on the extent to which nursing staff and care workers have received education or training in addressing and meeting these needs among older residents. This scoping review aimed to identify and examine what education and training resources exist to assist nursing staff and care workers to meet their residents' needs in this area. Methods and analysis Using the Arksey and O'Malley framework, we systematically searched papers and grey literature to identify education interventions and resources that aimed to facilitate care home staff to meet their residents' sexuality, intimacy and relational needs. Results Eleven studies (one dissertation) and three education resources met the inclusion criteria; most were conducted in the USA and Australia. Across the studies and resources identified, the education content was mixed and the methodology, presentation, design and duration varied widely. The focus of the education interventions and resources was to increase knowledge and improve and/or change attitudes towards the: (i) sexual expression of older people living in residential aged care, (ii) sexuality and ageing and (iii) expression of sexuality in people with dementia. Conclusion Few education interventions and training resources were identified. The findings suggest that education interventions can improve knowledge and/or change care staff attitudes, in the short-term, towards older people's sexuality, intimacy and relational needs in care home settings, which can lead to facilitating staff to enhance person-centred care in this area of need.",
+  "raw_path": "01_raw/europepmc_xml/PMC8123381.xml",
+  "text_path": "02_text/europepmc/PMC8123381.txt",
+  "raw_bytes": 118618,
+  "text_chars": 41030,
+  "raw_sha256": "0a5957d7ff873ed3b770bf5674826eb41a29a90230b432b4a01a1fbeed8284a7",
+  "text_sha256": "612d119f96c5ecc214bbbfcbbddcb2b072ff75b50cce9716cf8ef9648ff1fcbe",
+  "retrieved_at": "2026-10-26T13:09:29.039489+00:00"
+}

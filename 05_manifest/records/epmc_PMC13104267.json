@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC13104267",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Helping with Outcomes for Low Desire (HOLD): Study protocol for a randomized clinical trial assessing a cognitive-behavioral couple therapy for sexual interest/arousal disorder.",
+  "authors": "Shimizu JPK, Bouchard KN, Bergeron S, Girouard A, Popova N, Rosen NO.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s13063-026-09619-1",
+  "pmcid": "PMC13104267",
+  "url": "https://europepmc.org/article/PMC/PMC13104267",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13104267/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "emotion_regulation",
+    "sexual_satisfaction"
+  ],
+  "abstract": "Background A strong, satisfying sexual relationship-for which sexual desire and arousal can be key components-is often important for maintaining well-being in long-term romantic relationships. However, sexual interest/arousal disorder, defined by persistently low and distressing levels of sexual desire and/or arousal, is the most common sexual problem among women and gender-diverse people and is associated with psychological (e.g., depressive symptoms) and relational (e.g., lower relationship satisfaction) consequences. Partners of individuals with sexual interest/arousal disorder have also reported lower sexual and relationship satisfaction, higher sexual distress, and poorer sexual function compared to partners of people without this disorder. Prominent clinical and theoretical models emphasize that sexual interest and arousal are strongly influenced by interpersonal factors, and emerging dyadic studies support these conceptualizations. Although couple-based sex therapy is recommended, no studies have examined the efficacy of an evidence-based couple therapy for sexual interest/arousal disorder, nor its mechanisms of change. The current randomized clinical trial (RCT) aims to address these gaps by evaluating the efficacy of a novel cognitive-behavioral couple therapy for sexual interest/arousal disorder. Methods We aim to recruit women and gender-diverse people with sexual interest/arousal disorder and their partners (N = 170 couples), who will be randomly assigned to either an intervention or waitlist control condition. The intervention is a cognitive-behavioral couple therapy consisting of 16, 60-min (first session 90 min) manualized therapy sessions delivered over 18 weeks by a supervised therapist trained in clinical psychology. Participants will complete validated measures at baseline, during the treatment period, post-treatment, and at a 6-month follow-up. Conditions will be compared on primary outcomes of sexual desire and distress and secondary sexual and psychological outcomes using an intention-to-treat approach and multilevel modeling. Emotion regulation will be analyzed as a potential mediator of treatment benefits. Discussion This study is the first to evaluate the efficacy of cognitive-behavioral couple therapy for sexual interest/arousal disorder, which has yet to be tested in a large RCT. Findings aim to provide clinicians with an evidence-based treatment to better support couples coping with sexual interest/arousal disorder and to identify a key mechanism for treatment benefits. Trial registration This study was registered 15 January, 2025 on ClinicalTrials.gov (identifier: NCT06777277).",
+  "raw_path": "01_raw/europepmc_xml/PMC13104267.xml",
+  "text_path": "02_text/europepmc/PMC13104267.txt",
+  "raw_bytes": 135911,
+  "text_chars": 58316,
+  "raw_sha256": "6fc21f9f12dd8b707fb565c0515b588958c825f9a8652502bcfbdc523823e735",
+  "text_sha256": "4209e21c8e1e7ad1fa894ca628b9a66b7bb9fbee487ebca78d89b66f3fc3e436",
+  "retrieved_at": "2026-10-25T15:32:56.039349+00:00"
+}

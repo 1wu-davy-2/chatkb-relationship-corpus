@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9486337",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "How do cohabitation and marital status affect mortality risk? Results from a cohort study in Thailand.",
+  "authors": "Zhao J, Law CK, Kelly M, Yiengprugsawan V, Seubsman SA, Sleigh A.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1136/bmjopen-2022-062811",
+  "pmcid": "PMC9486337",
+  "url": "https://europepmc.org/article/PMC/PMC9486337",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9486337/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "Objective To examine the relationship between baseline union status (ie, including marriage and cohabitation) and mortality, paying attention to gender differentials, through an 11-year follow-up of a large cohort in Thailand. Design Cohort data from Thai Cohort Study (TCS) were linked official death records over an 11-year follow-up period. Setting Community-based adults in Thailand. Participants 87 151 Thai adults participated in TCS cohort. Method Cox regression models measured longitudinal associations between union status and 11-year mortality. Results From 2005 (baseline) to 2016, persons who cohabited and lived with a partner, married persons but not living with a partner and separated/divorced/widowed people were more likely to die compared with those married and living together with a partner. Those who did not have good family support had a higher death risk than those having good family support.Single or cohabiting women had higher risks of mortality than women who were married and living together with a partner throughout follow-up, while separated/divorced/widowed men had higher risks of mortality than counterpart males. Conclusions Our study reveals the protective effect of marriage and living together on mortality in Thailand, an understudied setting where institutionalisation of cohabitation is low leading to a limited mortality protection. Public policies for moderating mortality should thus be gender nuanced, culturally and institutionally specific. Also, we demonstrate that in settings such as Thailand, where marital status is not always defined in the same way as in western cultures, the need to measure cohabitation in locally relevant terms is important.",
+  "raw_path": "01_raw/europepmc_xml/PMC9486337.xml",
+  "text_path": "02_text/europepmc/PMC9486337.txt",
+  "raw_bytes": 180814,
+  "text_chars": 35300,
+  "raw_sha256": "54131bc703700a79bb73fae4eaf4aab07d26837c9a74587702dca161e7556d3b",
+  "text_sha256": "c6bddc1423a2aed766ac116d50a5949af9a827745d29ef7cdc39b0b33abf0fe5",
+  "retrieved_at": "2026-10-25T15:42:54.125099+00:00"
+}

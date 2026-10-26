@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12383001",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Link Between Mate Value Discrepancy and Relationship Satisfaction-An Empirical Examination Using Response Surface Analysis.",
+  "authors": "Mehmetoglu M, Määttänen I, Mittner M.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15081131",
+  "pmcid": "PMC12383001",
+  "url": "https://europepmc.org/article/PMC/PMC12383001",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12383001/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "Existing studies on mate value discrepancy and relationship satisfaction often suffer from two key limitations: they conceptualize mate value as a single, undifferentiated construct and rely on simple difference scores to model discrepancy effects. The present study addresses these issues by examining the relationship between mate value discrepancy and relationship satisfaction using a multidimensional operationalization of mate value and applying response surface analysis. Data were collected in 2016 in Norway via a web-based survey administered by a market research company, with a sample stratified across the country's 19 counties. The final estimation sample included 904 individuals currently in romantic relationships. The analysis involved a combination of confirmatory factor analysis and response surface analysis. The findings indicate that relationship satisfaction is highest when both partners exhibit high levels of Family orientation, resourcefulness, appearance, sociability, and physical condition. Among these, family orientation emerged as the most important dimension. Notably, relationship satisfaction declined when both partners scored equally low on these traits. Implications for future research and theoretical implications are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC12383001.xml",
+  "text_path": "02_text/europepmc/PMC12383001.txt",
+  "raw_bytes": 151258,
+  "text_chars": 37564,
+  "raw_sha256": "f71e7832e06d2a3007ba8b3aa649921834e9e662ed64224fcc04fb62fe4d2a7d",
+  "text_sha256": "fce03879f49bf9e842653dd530aaae002915ebd5a7e057cd2616a0b3a51444de",
+  "retrieved_at": "2026-10-25T15:38:15.541189+00:00"
+}

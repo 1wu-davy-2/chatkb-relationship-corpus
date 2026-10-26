@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_stress",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "心理壓力",
+  "requested_title": "心理压力",
+  "url": "https://zh.wikipedia.org/wiki/%E5%BF%83%E7%90%86%E5%A3%93%E5%8A%9B",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 心理壓力",
+  "topics": [
+    "mental_health",
+    "stress"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/stress.json",
+  "text_path": "02_text/zh_wikipedia/stress.txt",
+  "raw_bytes": 2367,
+  "text_chars": 1131,
+  "text_sha256": "c1d2a1e6cbf3d93bce3f119d2a76810a5b6c116826df954e5143954b2d39e7c3",
+  "retrieved_at": "2026-10-26T13:57:56.307799+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12918220",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A mixed-methods survey to explore current status of college students' views on marriage and childbearing and their influencing factors.",
+  "authors": "Yue YR, Xia WT, Tao J, Zhang Y, Tang J, Su D.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12889-026-26326-3",
+  "pmcid": "PMC12918220",
+  "url": "https://europepmc.org/article/PMC/PMC12918220",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12918220/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_attitudes"
+  ],
+  "abstract": "BACKGROUND AND OBJECTIVE: Marriage and fertility rates in China have declined steadily in recent years, raising concerns about their social and structural determinants. College students, as young adults at a critical life stage, play an important role in shaping future demographic trends. Guided by the socio-ecological framework, this study examined Chinese college students’ attitudes toward marriage and childbearing and explored how individual, social, and structural factors jointly shape these attitudes. PARTICIPANTS AND SETTING: A total of 238 college students participated in the quantitative phase, and 12 college students were interviewed in the qualitative phase. METHODS: A mixed-methods design was employed, combining standardized questionnaires with semi-structured interviews. Quantitative data were analyzed using descriptive statistics and multivariate logistic regression, while qualitative data were examined through thematic analysis. Quantitative and qualitative findings were integrated to clarify mechanisms underlying observed statistical patterns. RESULTS: Quantitative results indicated substantial variation in attitudes toward marriage and childbearing. Male students, senior students, and those in romantic relationships reported more positive attitudes toward marriage, while male students and junior students expressed more positive attitudes toward childbearing. Qualitative findings showed that women’s cautious attitudes, as shaped by gendered social experiences, were influenced by pre-childbearing anxiety, reproductive health concerns, and perceived workplace penalties, which helped explain the observed gender differences. In addition, economic pressure, restrictive policies, and high-pressure social environments emerged as key structural factors contributing to the low prevalence of highly positive marriage and childbearing attitudes across the sample. CONCLUSIONS: College students’ attitudes toward marriage and childbearing are shaped by multi-level influences within the socio-ecological framework, including embodied risk perceptions, economic pressure, cultural norms, and institutional constraints. By integrating quantitative patterns with qualitative mechanisms, this study demonstrates the value of a mixed-methods design grounded in the socio-ecological framework for understanding contemporary marriage and fertility attitudes and for informing education and policy interventions aimed at reducing structural barriers to family formation.",
+  "raw_path": "01_raw/europepmc_xml/PMC12918220.xml",
+  "text_path": "02_text/europepmc/PMC12918220.txt",
+  "raw_bytes": 119597,
+  "text_chars": 46423,
+  "raw_sha256": "012e8be53b30ee288e06e65e85a1971fa77899530dc9ac5e4cc9648ee1593895",
+  "text_sha256": "256bbef8358a2409d9e33d73daa2bc713d321af6d7dc29c86a8ae130b99fd677",
+  "retrieved_at": "2026-10-25T15:28:33.351146+00:00"
+}

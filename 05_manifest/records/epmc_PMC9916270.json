@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9916270",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Attitudes toward Homosexuality and Same-Sex Marriage: The Roles of Parental Attitudes, Traditional Gender Role Values, and Filial Piety.",
+  "authors": "Ng TK, Lee TH, Yuen H, Chan W.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3390/ijerph20032194",
+  "pmcid": "PMC9916270",
+  "url": "https://europepmc.org/article/PMC/PMC9916270",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9916270/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gender_roles"
+  ],
+  "abstract": "Past studies have suggested that people's attitudes toward homosexuality and same-sex marriages are influenced by their parents' attitudes toward homosexuality. The current study intends to contribute to a more nuanced understanding of these associations by proposing a moderated mediation model incorporating traditional gender role values as a mediator and filial piety as a moderator. One hundred and fifteen adults (33.9% male and 66.1% female) aged from 18 to 36 years (M = 21.47, SD = 3.78) from Hong Kong completed an online questionnaire. The results of the latent moderated structural equations model showed that filial piety significantly moderated the indirect effects of negative parental attitudes toward homosexuality on attitudes toward homosexuality and attitudes toward same-sex marriage via traditional gender role values. The indirect effects were only significant when filial piety was high or medium but not when filial piety was low. These findings unpack the mechanisms underlying the effects of negative parental attitudes toward homosexuality on attitudes toward homosexuality and same-sex marriage and provide the boundary condition for the indirect effects of negative parental attitudes toward homosexuality on attitudes toward homosexuality and same-sex marriage through traditional gender role values.",
+  "raw_path": "01_raw/europepmc_xml/PMC9916270.xml",
+  "text_path": "02_text/europepmc/PMC9916270.txt",
+  "raw_bytes": 106582,
+  "text_chars": 33286,
+  "raw_sha256": "64781d6c8f992a9f2e10eb6d53321dadf3a0ccac13476648a6d691fd72646ec8",
+  "text_sha256": "256c2bc5f735d95fb1e7dcfc7a70372a0aaead804e63501648d9268a716c801a",
+  "retrieved_at": "2026-10-25T13:56:18.147969+00:00"
+}

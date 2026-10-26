@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC12903840",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Turning Everything Upside Down: The Impact of Illness on Romantic Relationships-A SEM-Based Actor-Partner Interdependence Model.",
+  "authors": "Reinhardt F, Maatouk I.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/famp.70129",
+  "pmcid": "PMC12903840",
+  "url": "https://europepmc.org/article/PMC/PMC12903840",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12903840/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair",
+    "intimacy"
+  ],
+  "abstract": "Illnesses are often associated with fundamental changes in relationship dynamics. Yet, little is known about how different acute and chronic conditions distinctly impact both partners' well-being. This study analyzed the reciprocal associations between different illnesses on life satisfaction and relationship satisfaction in partnerships. Based on data from the Family Demographic Panel (FReDA), 14,426 people were analyzed in a two-stage analysis process. In the first step, a Welch-ANOVA examined disease-specific differences in life satisfaction as a function of partnership status, focusing on the well-being of the ill individual. In the second step, an extended Actor-Partner Interdependence Model (APIM) was applied to partnered dyads, shifting the focus to the healthy partner and analyzing how the illness of one partner and relational factors are associated with the partner's relationship and life satisfaction. The results revealed substantial crossover effects, with consistent partnership-related patterns across illness types. Disease severity and duration were negatively associated with relationship satisfaction, whereas intimacy and constructive conflict resolution emerged as universal protective factors. These findings underscore the relevance of a systemic perspective in healthcare and show the need for partnership-oriented interventions.",
+  "raw_path": "01_raw/europepmc_xml/PMC12903840.xml",
+  "text_path": "02_text/europepmc/PMC12903840.txt",
+  "raw_bytes": 204665,
+  "text_chars": 55666,
+  "raw_sha256": "ccc89307b75ff82cf7837a4c43ba804d071cf6e52724f89fdf81d41ac18c6ec0",
+  "text_sha256": "44e7b97651c2546c340db0a1e6a19ce74b977fb270ed2b346aea8e79f0656220",
+  "retrieved_at": "2026-10-25T13:52:31.768444+00:00"
+}

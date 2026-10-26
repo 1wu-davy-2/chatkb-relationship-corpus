@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_sex_ratio",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "性別比",
+  "requested_title": "性别比",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%A5%E6%AF%94",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "demography",
+    "marriage"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/sex_ratio.json",
+  "text_path": "02_text/zh_wikipedia/sex_ratio.txt",
+  "raw_bytes": 1285,
+  "text_chars": 549,
+  "text_sha256": "bba5807785f776419e54db52f6a0616d6819e4385d5fb195d57820f0bb1095b5",
+  "retrieved_at": "2026-10-25T15:43:16.069735+00:00"
+}

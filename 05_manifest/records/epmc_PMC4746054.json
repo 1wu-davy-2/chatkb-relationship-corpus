@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4746054",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The association between Myers-Briggs Type Indicator and Psychiatry as the specialty choice.",
+  "authors": "Yang C, Richard G, Durkin M.",
+  "year": "2016",
+  "journal": "",
+  "doi": "10.5116/ijme.5698.e2cd",
+  "pmcid": "PMC4746054",
+  "url": "https://europepmc.org/article/PMC/PMC4746054",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4746054/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "mbti"
+  ],
+  "abstract": "Objective The purpose of this pilot study is to examine the association between Myers-Briggs Type Indicator (MBTI) and prospective psychiatry residents. Methods Forty-six American medical schools were contacted and asked to participate in this study. Data were collected and an aggregated list was compiled that included the following information: date of MBTI administration, academic year, MBTI form/version, residency match information and student demographic information. The data includes 835 American medical students who completed the MBTI survey and matched into a residency training program in the United States. All analyses were performed using R 3.1.2. Results The probability of an introvert matching to a psychiatry residency is no different than that of an extravert (p= 0.30). The probability of an intuitive individual matching to a psychiatry residency is no different than that of a sensing type (p=0.20). The probability of a feeling type matching to a psychiatry residency is no different than that of a thinking type (p= 0.50). The probability of a perceiving type matching to a psychiatry residency is no different than that of a judging type (p= 0.60). Conclusions Further analyses may elicit more accurate information regarding the personality profile of prospective psychiatry residents. The improvement in communication, team dynamics, mentor-mentee relationships and reduction in workplace conflicts are possible with the awareness of MBTI personality profiles.",
+  "raw_path": "01_raw/europepmc_xml/PMC4746054.xml",
+  "text_path": "02_text/europepmc/PMC4746054.txt",
+  "raw_bytes": 41478,
+  "text_chars": 15815,
+  "raw_sha256": "542222706d550c9c88e34f60fab0206e0523ce16efcb19819a72f99e240279ea",
+  "text_sha256": "c509e037e0427c0ee721d38c0058fdaacab9eb15cf4a2c7aa15a1d42081176a4",
+  "retrieved_at": "2026-10-25T15:26:25.169458+00:00"
+}

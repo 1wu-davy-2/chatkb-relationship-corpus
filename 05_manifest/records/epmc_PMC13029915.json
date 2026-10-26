@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13029915",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Evaluation of Photoprotective Strategies in Asexual &lt;i&gt;Michelia guangdongensis&lt;/i&gt; Lines Under High Temperature and Strong Light Stress Using the Entropy-Weighted TOPSIS Method.",
+  "authors": "Liu J, Xu F, Chen X, Wang Y, Deng Z, Bai Q, Liao H, Zhu B, Zhang W.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/plants15060900",
+  "pmcid": "PMC13029915",
+  "url": "https://europepmc.org/article/PMC/PMC13029915",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13029915/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "asexuality_celibacy"
+  ],
+  "abstract": "Photosynthesis is of pivotal significance to the growth, development, and survival of plants. The conservation of endangered plant species represents a significant challenge within the broader context of biodiversity conservation. Analysis of the photosynthetic, physiological, and ecological characteristics of endangered plants is of significant value in understanding their survival mechanisms under adverse conditions, and can also provide key scientific support for the development of effective conservation measures. This study selected one-year-old Michelia guangdongensis seedlings to measure diurnal photosynthetic variations across different asexual lines. Using entropy-weighted TOPSIS evaluation and statistical analysis, we aimed to investigate photosynthetic differences among asexual lines and their relationship with environmental factors, thereby revealing the physiological characteristics of photosynthesis in M. guangdongensis seedlings. The results showed that the daily net photosynthetic rate variation of asexual lines CG3 and 1 of M. guangdongensis had asymmetric double-peak curves. Moreover, strains 9073, 8898, 8812, and 5 showed single-peak curves. Leaf transpiration rate (Trmmol) and CO 2 concentration (Ca) pathway analysis indicated these as the primary factors influencing the net photosynthetic rate of M. guangdongensis, with effective values of 1.17 and 0.9, respectively. TOPSIS entropy-weighted analysis indicated that the Ci values for CG3 and Leaf 1 exceeded 0.7, which indicated strong photosynthetic capacity. Additionally, the underside of the leaves exhibited superior coloration, thereby enhancing their ornamental value. This study provides a scientific basis and practical guidance for the breeding of asexual lines of M. guangdongensis .",
+  "raw_path": "01_raw/europepmc_xml/PMC13029915.xml",
+  "text_path": "02_text/europepmc/PMC13029915.txt",
+  "raw_bytes": 162447,
+  "text_chars": 52294,
+  "raw_sha256": "59ad934f2582a6583d38954ad8cf3e00e40e1e83016350bb56936dc0327e3af6",
+  "text_sha256": "4c1ed565aad92accb88c7147a1b8218e53a576f446c384622777c5be04ae9f04",
+  "retrieved_at": "2026-10-26T13:10:02.478169+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11944733",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Risk Determinants of Sexual Behaviors: Dating Apps, History of Sexually Transmitted Infections, Substance Use, and Pornography Consumption in Health Science Students.",
+  "authors": "Naranjo-Márquez M, Bocchino A, Gilart E, Cotobal-Calvo EM, Procentese F, Palazón-Fernández JL.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/nursrep15030083",
+  "pmcid": "PMC11944733",
+  "url": "https://europepmc.org/article/PMC/PMC11944733",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11944733/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating",
+    "porn_and_relationship"
+  ],
+  "abstract": "Background : Since 2020, there has been a significant increase in sexually transmitted infections (STIs), especially in young people, and these include syphilis, gonorrhea, chlamydia, and lymphogranuloma venereum, which are often asymptomatic but with the potential for transmission. In addition, certain risk behaviors, such as the use of dating apps, pornography, and substance use, reduce adherence to barrier methods, especially in men, thus facilitating the spread of these infections. Methods : This observational, cross-sectional study aimed to explore the relationship between the use of dating apps, drug and pornographic material consumption, and STI history in university students of the health sciences. Results : The sample consisted of 730 participants. The results indicated that individuals who identified as gay, lesbian, or bisexual reported significantly higher rates of dating app use, drug use, and pornography consumption compared to those who identified as heterosexual. Also, these groups showed lower adherence to contraceptive and protective methods. A statistical analysis revealed a relationship between the use of dating apps and increased sexual risk behaviors, suggesting that the accessibility of these platforms could influence the frequency and type of sexual contact. Conclusions : The increase in the prevalence of STIs in recent years has highlighted the urgency of strengthening prevention and sexual health promotion strategies, especially in young and high-risk populations. This study emphasizes the need for early and targeted interventions in high-risk groups to reduce the incidence of STIs and promote responsible sexual health practices.",
+  "raw_path": "01_raw/europepmc_xml/PMC11944733.xml",
+  "text_path": "02_text/europepmc/PMC11944733.txt",
+  "raw_bytes": 125542,
+  "text_chars": 36611,
+  "raw_sha256": "1b6ff0b593f0cb06dd86928e96c9fe5a7969d53cf36bcef48e445ace836cb758",
+  "text_sha256": "af7382e90f591f7a89094a4f28f63d8a5f4b3e10e59e37b35a5f4c970e485781",
+  "retrieved_at": "2026-10-25T15:43:12.737168+00:00"
+}

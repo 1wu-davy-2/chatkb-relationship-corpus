@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11414875",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Effects of integrative behavioral couple therapy on communication patterns and marital adjustment.",
+  "authors": "Salimi C, Kachooei M, Dadashi M, Farahani H.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.4103/jehp.jehp_201_23",
+  "pmcid": "PMC11414875",
+  "url": "https://europepmc.org/article/PMC/PMC11414875",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11414875/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "Background Couples experience maladjustment and serious problems in establishing and maintaining intimate relationships. Therefore, therapists employ different methods for helping couples experience more intimate and compatible relationships. Nowadays, professionals are more interested in using integrative approaches than ever before. Integrative behavioral couple therapy (IBCT) is an exemplar of such methods. This study aimed to analyze the effects of IBCT on communication patterns and marital adjustment. Materials and methods This study included pretest and posttest steps with a control group. The statistical population included couples aged 20-45 years old visiting the counseling and psychological service centers of Tehran for marital conflicts in 2022. After the initial evaluation, 76 couples were selected as the sample through convenience sampling. They were then randomly assigned to the test and control groups. All participants were asked to fill out the Spanier Dyadic Adjustment Scale (DAS) and the Communication Patterns Questionnaire (CPQ) one week before the first intervention session and one week after the last intervention session. Participants in the test group attended eleven 90-minute sessions of IBCT, whereas those in the control group received no interventions in this period. The one-way ANCOVA was used for data analysis in SPSS 26. Results The results indicated that IBCT managed to significantly improve marital adjustment and constructive communication patterns. It reduced two communication patterns called \"mutual avoidance\" and \"demand/withdraw\" in the test group ( P = 0.001). However, since the effect size of \"demand/withdraw\" was 0.26, this result should be interpreted cautiously. Conclusion According to the research findings, Iranian couple therapists can employ IBCT to improve constructive communication patterns and mitigate destructive ones in couples. Given the effect size, IBCT increased dyadic cohesion, affection, dyadic satisfaction, and dyadic consensus as well as improving the marital adjustment of participants.",
+  "raw_path": "01_raw/europepmc_xml/PMC11414875.xml",
+  "text_path": "02_text/europepmc/PMC11414875.txt",
+  "raw_bytes": 72369,
+  "text_chars": 25324,
+  "raw_sha256": "0c74e4a3a713e7fbde18ad9a367c2992673c52ac380d5bdf2b98330e696dfd2a",
+  "text_sha256": "8a88f8c4921f5ae2f1fa8c4c9eabcfd806d59b5046f17dc2fec4b73c3d2d8466",
+  "retrieved_at": "2026-10-25T15:48:17.803081+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_marriage_custom_reform",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "全国婚俗改革实验区",
+  "requested_title": "婚俗改革",
+  "url": "https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E5%A9%9A%E4%BF%97%E6%94%B9%E9%9D%A9%E5%AE%9E%E9%AA%8C%E5%8C%BA",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 全国婚俗改革实验区",
+  "topics": [
+    "china",
+    "policy",
+    "money"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/marriage_custom_reform.json",
+  "text_path": "02_text/zh_wikipedia/marriage_custom_reform.txt",
+  "raw_bytes": 3126,
+  "text_chars": 1303,
+  "text_sha256": "daa01c5f6a80df27d0e3a9ae36154cb89f685fbdab2e1beceaae4242be8d9570",
+  "retrieved_at": "2026-10-25T16:28:01.889334+00:00"
+}

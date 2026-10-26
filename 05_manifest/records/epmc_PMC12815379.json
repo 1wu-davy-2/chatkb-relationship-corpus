@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12815379",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Rhetoric of Disenchantment: Ghost Belief and Secular Critique in Early Twentieth-Century China.",
+  "authors": "Hong Z, Chen Y.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/cogs.70158",
+  "pmcid": "PMC12815379",
+  "url": "https://europepmc.org/article/PMC/PMC12815379",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12815379/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "paranormal_belief"
+  ],
+  "abstract": "This study presents the first large-scale empirical analysis of how ghosts and spirits were debated during China's early twentieth-century secular transformation. Using a novel dataset of over 2000 digitized texts-including newspapers, periodicals, and essays from 1890 to 1949-we combine close reading, AI-assisted annotation, and statistical modeling to examine rhetorical strategies surrounding supernatural belief. We find a clear asymmetry: critics emphasized theoretical arguments (e.g., science, rationality, education), while defenders relied more on empirical or anecdotal evidence. These patterns reflect broader institutional and cognitive shifts, including the rise of science as a dominant epistemology and the increasing use of psychological explanations to pathologize belief. While reformist elites often cast ghost belief as superstition, we also identify agnostic, cautious, and reconciliatory positions. By situating these debates within the broader context of Chinese cultural modernization, the study sheds new light on how supernatural belief became a contested domain and offers fresh tools for studying the cultural evolution of religious cognition.",
+  "raw_path": "01_raw/europepmc_xml/PMC12815379.xml",
+  "text_path": "02_text/europepmc/PMC12815379.txt",
+  "raw_bytes": 103567,
+  "text_chars": 51157,
+  "raw_sha256": "f1fe64e601f8976231cb6d9a7c40fb2728d12f9afed2bec3ffdc7f6039bc5271",
+  "text_sha256": "bc7fb3b146a7da8e019e0eb4cd7372b9cbd5ab76ed44bd968896da298e37fd4d",
+  "retrieved_at": "2026-10-26T13:27:08.310379+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12244275",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Problematic Online Dating: Systematic Review of Definitions, Correlates, and Study Designs.",
+  "authors": "Thomas MF, Dörfler S, Mittmann G, Steiner-Hofbauer V.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.2196/72850",
+  "pmcid": "PMC12244275",
+  "url": "https://europepmc.org/article/PMC/PMC12244275",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12244275/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "Background Users describe mobile dating apps as addictive, and researchers have attempted to formalize compulsive dating app use as a behavioral addiction. However, the concept of online dating addiction remains debated. Objective This systematic literature review synthesized quantitative research on problematized online dating behaviors with a specific focus on (1) definitions and measurement of problematic dating app use, (2) the examined adverse correlates, and (3) study designs. Methods From 16 databases, we identified 263 reports related to problematic online dating. Twenty-nine papers-published between 2009 and 2024-met inclusion criteria. They covered 32 quantitative studies investigating problematic dating app use. Sample sizes varied between 64 and 4057, and participant ages ranged between 13 and 80 years, while many participants were aged between 18 and 35 years. Results Researchers problematized the following online dating behaviors (in descending order of frequency): use for certain motives (in 10 reports), problematic use in the sense of behavioral addiction (n=9), specific activities or experiences (n=9), compulsive use (n=6), a disbalance between offline and online interactions (too many or too few online interactions, n=4), and mere use or frequency (n=4). Even using dating apps for sexual motivations and relationship-seeking was linked to adverse correlates. Scholars have examined adverse correlates, including (1) mood and emotional issues (n=11), (2) anxieties (n=9), (3) user motives and other media variables (n=9), (4) undesired behaviors (n=8), (5) personality (n=8), (6) self-attitudes (n=7), (7) partner choice (n=5), (8) sexuality (n=5), and (9) interpersonal correlates (n=4). Methodologically, the most common scales (measuring use for certain motives and the 6-component behavioral addiction items) include life problems within their measurement of problematic dating app use (eg, use to forget problems and conflict due to use). Of 32 studies, only 3 were randomized experiments. All surveys measured dating app variables only at a single time point (cross-sectionally) and focused on between-person effects rather than within-person dynamics. Conclusions Research on user motives dominates the field. To understand harmful media effects, researchers should measure media use and harmful consequences separately. However, motives are often worded as coping with an undesired state (eg, use to forget problems) or enhancing a desired state (eg, use for self-esteem enhancement). Similarly, behavioral addiction scales include life problems (eg, conflict due to use). These scales thus conflate predictor and outcome. Future literature reviews or meta-analyses that examine associations should include only results of scales that validly distinguish media use from its adverse outcomes. Overall, research on internet dating addiction-and internet addiction in general-requires theoretically grounded definitions as well as experimental and longitudinal studies modeling between- and within-person effects.",
+  "raw_path": "01_raw/europepmc_xml/PMC12244275.xml",
+  "text_path": "02_text/europepmc/PMC12244275.txt",
+  "raw_bytes": 153207,
+  "text_chars": 48970,
+  "raw_sha256": "3ed4280e2393477ca578b6f00f3811085916fd1eb7882131aa6a29cdb7ba5bcc",
+  "text_sha256": "3d511a88c2b4d5fc2903c2a5dafee284c043c0656421ee908fdaf3c7d40cb32c",
+  "retrieved_at": "2026-10-25T13:51:59.586211+00:00"
+}

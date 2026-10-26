@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_24239",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "醒世恆言",
+  "gutenberg_id": "24239",
+  "url": "https://www.gutenberg.org/ebooks/24239",
+  "download_url": "https://www.gutenberg.org/cache/epub/24239/pg24239.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/24239.txt",
+  "text_path": "02_text/gutenberg/gut_24239_醒世恆言.txt",
+  "raw_bytes": 1651633,
+  "text_chars": 539011,
+  "text_sha256": "336c1d2f11f364aa262d548739e062776cb03cfd79c70c76bdd20a5cd253c3ed",
+  "retrieved_at": "2026-10-25T15:45:40.125312+00:00"
+}

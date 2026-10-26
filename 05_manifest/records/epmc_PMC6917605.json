@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6917605",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Detrimental Effect of Sexual Objectification on Targets' and Perpetrators' Sexual Satisfaction: The Mediating Role of Sexual Coercion.",
+  "authors": "Sáez G, Alonso-Ferres M, Garrido-Macías M, Valor-Segura I, Expósito F.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2019.02748",
+  "pmcid": "PMC6917605",
+  "url": "https://europepmc.org/article/PMC/PMC6917605",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6917605/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "Sexual objectification is a variable to consider for understanding the sexual violence that takes place into intimate context. The set of studies presented here aims to connect sexual objectification phenomena with sexual coercion and explore the consequences that both have on sexual satisfaction. Two studies examined the association between sexual objectification and sexual satisfaction for both views: female target (Study 1) and male perpetrator (Study 2) perspectives. The results of the first study ( n = 138 heterosexual women) demonstrated that perceiving partner objectification (but not reporting general sexual objectification victimization) is indirectly linked to a lower sexual satisfaction because of lower rejection and higher sexual coercion rates. The second study ( n = 136 heterosexual men) showed the indirect effect of partner objectification and general sexual objectification perpetration on sexual satisfaction after sexual coercion perpetration. Results of both studies demonstrated the negative consequences that sexual objectification has on sexual satisfaction for both male perpetrators and female targets.",
+  "raw_path": "01_raw/europepmc_xml/PMC6917605.xml",
+  "text_path": "02_text/europepmc/PMC6917605.txt",
+  "raw_bytes": 143272,
+  "text_chars": 61888,
+  "raw_sha256": "415ff7a61645f06603f88ec10b36d06025cbca97fab70c69e8e9738f3351e643",
+  "text_sha256": "08e70d73d3a020b0466a36b94297f6f577839d26c3f1fcd9b37df16fe3b8fb93",
+  "retrieved_at": "2026-10-26T13:09:48.363976+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_libido",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "性欲",
+  "requested_title": "性欲",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E6%AC%B2",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 性欲",
+  "topics": [
+    "sexuality",
+    "desire"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/libido.json",
+  "text_path": "02_text/zh_wikipedia/libido.txt",
+  "raw_bytes": 15870,
+  "text_chars": 5697,
+  "text_sha256": "e0d19e9af8cfaed34bce6b46ecdf65c91a33561362e08d1f0f5f390e48388d4e",
+  "retrieved_at": "2026-10-26T13:00:00.137070+00:00"
+}

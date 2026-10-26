@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12053488",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Why are we willing to tolerate manipulation? Love addiction and perceived acceptability of gaslighting: the mediating effects of sense of giving and relationship power.",
+  "authors": "Wang Y, Li J, Zhang Y, He X, Luo Y.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1525402",
+  "pmcid": "PMC12053488",
+  "url": "https://europepmc.org/article/PMC/PMC12053488",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12053488/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control"
+  ],
+  "abstract": "Objective This study investigates how love addiction influences individuals' perceived acceptability of gaslighting in romantic relationships, focusing on the mediating roles of sense of giving and relationship power. Methods Surveys were administered online to university students in Southwestern China between October and December 2023, utilizing the Love Addiction Inventory, Sense of Giving Questionnaire, Sexual Relationship Power Scale, and Gaslighting Questionnaire. From an initial pool of 480 responses, 464 valid questionnaires were retained for analysis (96.7% valid response rate). Data were processed and analyzed using SPSS 27.0, beginning with descriptive statistics (means, standard deviations), followed by Pearson correlation analysis and chain mediation analysis. Results The findings revealed that love addiction did not directly predict perceived acceptability of gaslighting ( β = 0.037, p = 0.549) after accounting for the mediating roles of sense of giving and relationship power. Instead, love addiction influenced perceived acceptability of gaslighting entirely through three pathways: (1) an independent mediating effect via sense of giving ( β = 0.106, 95% CI [0.014,0.202], 36.30% of total effect), (2) an independent mediating effect via relationship power ( β = 0.106, 95% CI [0.054,0.166], 36.30% of total effect), and (3) a chain mediation through both sense of giving and relationship power ( β = 0.043, 95% CI [0.009,0.079], 14.73% of total effect). Together, these mediators explained 87.33% of the total effect, indicating a complete mediation model. Conclusion These results emphasize the importance of considering the effects of love addiction when understanding perceived acceptability of gaslighting and highlight that sense of giving and relationship power can explain the potential mechanisms of the association between love addiction and perceived acceptability of gaslighting. This provides valuable insights for developing interventions aimed at mitigating gaslighting.",
+  "raw_path": "01_raw/europepmc_xml/PMC12053488.xml",
+  "text_path": "02_text/europepmc/PMC12053488.txt",
+  "raw_bytes": 124280,
+  "text_chars": 41501,
+  "raw_sha256": "31d8d55c60f807a0957786534faf46276f5cc608499e33dc3ea1867855961b07",
+  "text_sha256": "a1491c51afc8f59ef7d7d50c1aaaf9e10884295b42f59c78dff37b6e65f58b73",
+  "retrieved_at": "2026-10-25T15:40:55.533351+00:00"
+}

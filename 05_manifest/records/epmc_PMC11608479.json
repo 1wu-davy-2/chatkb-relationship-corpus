@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11608479",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Young people's attitudes toward marriage, gender roles, and related factors : Attitudes toward marriage, gender roles.",
+  "authors": "Sonkaya Zİ, Öcal NÜ.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s12889-024-20904-z",
+  "pmcid": "PMC11608479",
+  "url": "https://europepmc.org/article/PMC/PMC11608479",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11608479/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "gender_roles"
+  ],
+  "abstract": "Background In this study, the effects of university students' sociodemographic characteristics and their thoughts on marriage on their attitudes towards marriage and gender roles were discussed. Methods A cross-sectional descriptive study was designed, involving a sample of 1082 university students. The data for this study were collected using a socio-demographic questionnaire, the Inönü Marital Attitude Scale (IMAS), and the Gender Roles Attitude Scale (GRAS). The data were analyzed with descriptive statistics, Kruskal Wallis Test, and Pearson Correlation analysis. Results The mean age of the participants was 20.53 ± 1.96 years, 67.9% were female and 32.1% were male. The participants' mean GRAS total score was 144.93 ± 26.62, and the mean IMAS score was 71.80 ± 16.42. Significant gender-based differences were observed in IMAS and GRAS total/subscale scores (p Conclusions The participating students' gender role total scores were found to be very high. Accordingly, as parents of the future, young people are the group that needs to be prioritized, and it is essential to promote their positive attitudes towards marriage and gender equality.",
+  "raw_path": "01_raw/europepmc_xml/PMC11608479.xml",
+  "text_path": "02_text/europepmc/PMC11608479.txt",
+  "raw_bytes": 131482,
+  "text_chars": 37651,
+  "raw_sha256": "d1ae76ec821dd219f9c629cfa60d60ac626adc7d238e103a73d1b99a83172e0d",
+  "text_sha256": "1156be4acad7bb3b588c984d1806f488f7dd147c656c47e9db9d91d905664116",
+  "retrieved_at": "2026-10-25T13:52:39.877141+00:00"
+}

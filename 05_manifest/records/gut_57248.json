@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_57248",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "初刻拍案驚奇",
+  "gutenberg_id": "57248",
+  "url": "https://www.gutenberg.org/ebooks/57248",
+  "download_url": "https://www.gutenberg.org/cache/epub/57248/pg57248.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/57248.txt",
+  "text_path": "02_text/gutenberg/gut_57248_初刻拍案驚奇.txt",
+  "raw_bytes": 1213458,
+  "text_chars": 397805,
+  "text_sha256": "026feacd94644a69acd573afeb18dff0c9d374c7057afb29eb9ec4f82f10db40",
+  "retrieved_at": "2026-10-25T15:50:24.248232+00:00"
+}

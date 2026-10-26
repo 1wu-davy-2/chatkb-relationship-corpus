@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC9333243",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "'Relationships on campus are situationships': A grounded theory study of sexual relationships at a Ugandan university.",
+  "authors": "Choudhry V, Petterson KO, Emmelin M, Muchunguzi C, Agardh A.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0271495",
+  "pmcid": "PMC9333243",
+  "url": "https://europepmc.org/article/PMC/PMC9333243",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9333243/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_scripts",
+    "sexual_scripts"
+  ],
+  "abstract": "Understanding the complexities of sexual relationships is essential to understand the risky sexual behaviours among young people in Ugandan universities. Nine focus group discussions conducted with 31 males and 33 female students in 2014 utilising the grounded theory approach explored the role of sexual relationships in their lives. 'Relationships in campus are situationships' emerged as the core category and referred to the variety of sexual interactions within relationships among young people in a Ugandan university. The study findings indicated that sexual interactions often follow a sexual script that undergoes transitions to negotiate various situations. The sexual scripts in these situationships were strongly influenced by local socio-cultural norms and global aspirations among young people. Students often discussed these sexual scripts within a wider discourse on transactional sexual relationships. The motivations for transactional sexual relationships ranged from 'fulfilling aspirations' of various kinds on the one hand to 'being forced into trading sex' to overcome socio-economic vulnerabilities. Sexual relationships were facilitated by the perception of a university as a sexualized space in which one may enjoy a period of emerging adulthood characterized by exploration in relationships, access to alcohol and prolonged delay in assuming the traditional adult roles of marriage and family. The sexual scripts at the cultural level were grounded in traditional gender roles although at the same time, were under transition during university life with the growing influence of globalization and consumerism in the Ugandan society. Young men and young women must be engaged to critically challenge the implicit assumptions about sexual interactions within various situations that may put them at risk for poor sexual health outcomes.",
+  "raw_path": "01_raw/europepmc_xml/PMC9333243.xml",
+  "text_path": "02_text/europepmc/PMC9333243.txt",
+  "raw_bytes": 179511,
+  "text_chars": 59438,
+  "raw_sha256": "5dc21012ffade2162964ec229fdbc08cb344277e62ae68d59e2a28bc31725500",
+  "text_sha256": "960ecd9e63a6f6cb5d39e536af703e84ae0757ce40da6bb399eb9175373b296f",
+  "retrieved_at": "2026-10-25T15:27:16.917439+00:00"
+}

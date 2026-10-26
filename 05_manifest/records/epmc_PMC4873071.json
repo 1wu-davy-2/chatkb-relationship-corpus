@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC4873071",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Darker Shade of Love: Machiavellianism and Positive Assortative Mating Based on Romantic Ideals.",
+  "authors": "Ináncsi T, Láng A, Bereczkei T.",
+  "year": "2016",
+  "journal": "",
+  "doi": "10.5964/ejop.v12i1.1007",
+  "pmcid": "PMC4873071",
+  "url": "https://europepmc.org/article/PMC/PMC4873071",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4873071/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Machiavellianism is a personality trait that is characterized by manipulative and exploitative attitude toward others, lack of empathy, and a cynical view of human nature. In itself or as part of the Dark Triad it has been the target of several studies investigating romantic relations. Nevertheless, the relationship between Machiavellianism and romantic ideals has not been revealed yet. An undergraduate sample of 143 (92 females) with an average age of 19.83 years (SD = 1.51 years) filled out self-report measures of Machiavellianism (Mach-IV Scale) and romantic ideals (Ideal Standards Scale and NEO-FFI-IDEAL). According to our results, Machiavellianism correlated negatively with the importance of partner's warmth-trustworthiness, extraversion, openness, agreeableness, and with the importance of intimacy and loyalty in their ideal relationships. Machiavellianism correlated positively with the ideal partner's possession over status and resources. Explorative factor analysis revealed three components of ideal partner's characteristics. Machiavellianism loaded significantly on two out of three components. Results are discussed with regard to Ideal Standards Model and the Big Five model of personality.",
+  "raw_path": "01_raw/europepmc_xml/PMC4873071.xml",
+  "text_path": "02_text/europepmc/PMC4873071.txt",
+  "raw_bytes": 111351,
+  "text_chars": 32838,
+  "raw_sha256": "fc3814f9424ba4d19807f3b91ff849b5fb51bf78d08de3a39101457c461b1953",
+  "text_sha256": "1596561657a4db98b9840cade0424680c0e22f264e3b081bf8e35bfe19fd828b",
+  "retrieved_at": "2026-10-25T15:46:33.760963+00:00"
+}

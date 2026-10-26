@@ -1,0 +1,23 @@
+{
+  "doc_id": "wiki_sexual_assault",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "性侵犯",
+  "requested_title": "性侵犯",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E4%BE%B5%E7%8A%AF",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 性侵犯",
+  "topics": [
+    "safety",
+    "consent",
+    "law"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/sexual_assault.json",
+  "text_path": "02_text/zh_wikipedia/sexual_assault.txt",
+  "raw_bytes": 22517,
+  "text_chars": 8571,
+  "text_sha256": "dba516a41c7d254362b88424453a42fc75a0f7bf26bab85a600969eea15ebadd",
+  "retrieved_at": "2026-10-26T13:02:15.659337+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8614044",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Trust and responsibility in food systems transformation. Engaging with Big Food: marriage or mirage?",
+  "authors": "Yates J, Gillespie S, Savona N, Deeney M, Kadiyala S.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1136/bmjgh-2021-007350",
+  "pmcid": "PMC8614044",
+  "url": "https://europepmc.org/article/PMC/PMC8614044",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8614044/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Concentration of power among transnational 'Big Food' companies has contributed to food systems that are unsustainable, unhealthy and inequitable for people and planet. Given these commercial determinants of health, if 'food systems transformation' is to be authentic-more than a passing narrative-then leveraging Big Food is paramount. To this end, researchers, practitioners and policy-makers are increasingly encouraged to engage with these powerful entities. However, given the conflicts of interest at stake, engagement relies on trust and transparency, that all stakeholders take responsibility for their actions and demonstrate commitment to do no harm. Given Big Food's track record in influencing policy, shifting costs and responsibility for their harms-and while profit primarily drives business decision making-we question whether it is logical to expect trust.This analysis explores concepts of responsibility and trust in relation to food systems transformation involving public-private partnerships. Through short cautionary case studies-looking at the United Nations Food Systems Summit, and Big Food's plastic burden-it argues that unless such companies take responsibility for their cross-cutting effects and earn authentic trust through demonstrably doing no harm, their participation in evidence generation and policy processes should be limited to responding to information requests and adhering to regulation. Any involvement in research agenda-setting or formulating policy solutions introduces conflicts of interest, legitimises corporate irresponsibility and jeopardises scientific integrity. Big Food has dynamism and power to address food system problems, but while it contributes to so many of these problems it should follow-not formulate-transformational evidence, policies and regulations.",
+  "raw_path": "01_raw/europepmc_xml/PMC8614044.xml",
+  "text_path": "02_text/europepmc/PMC8614044.txt",
+  "raw_bytes": 95652,
+  "text_chars": 30732,
+  "raw_sha256": "7eacf16984691236ddd1174900ef515263b0608e413e02d17abdc30e4fc5c543",
+  "text_sha256": "d8d943f824b453871e8c4b88b500b2f205e8c916177fce5117a323bde55b38ff",
+  "retrieved_at": "2026-10-25T15:35:53.306763+00:00"
+}

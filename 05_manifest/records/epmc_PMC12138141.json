@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12138141",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Police-Identified Psychological Distress, Substance Use, and Physical Violence Among Male Intimate Partner Stalkers.",
+  "authors": "Landwehr E, Roberts L, Garratt-Reed D, Maxwell-Smith C.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/0306624x241228977",
+  "pmcid": "PMC12138141",
+  "url": "https://europepmc.org/article/PMC/PMC12138141",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12138141/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "stalking"
+  ],
+  "abstract": "Risk factors for stalking violence are not well understood and few studies have examined psychological distress and substance use specifically. This study aimed to assess whether factors extant in police data could predict severity of stalking violence against intimate partner victims. Western Australia Police Force provided data for 603 men linked to a stalking charge relating to a female intimate partner. Binomial logistic regressions showed police-identified histories of psychological distress and drug use predicted moderate violence, but not severe violence. A co-occurring history of drug use and alcohol use was the strongest predictor of moderate violence (OR = 6.8). These findings suggest accounting for violence severity and substance type when examining stalking violence risk factors. Whether psychological distress and/or substance use were active problems for the men during their stalking behavior is unknown, however the detection of these problems may indicate an unmet need for treatment among this group.",
+  "raw_path": "01_raw/europepmc_xml/PMC12138141.xml",
+  "text_path": "02_text/europepmc/PMC12138141.txt",
+  "raw_bytes": 115308,
+  "text_chars": 35323,
+  "raw_sha256": "7043ef64bbbf501736972541bb0b123a9ebd82bef277d65f7b4cd17faddc26b5",
+  "text_sha256": "11f29891a6ef792b77640d244d0a44f2cdf48392bd9d2545b7658a806d224db1",
+  "retrieved_at": "2026-10-25T15:33:07.954749+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_open_relationship",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "开放式关系",
+  "requested_title": "开放式关系",
+  "url": "https://zh.wikipedia.org/wiki/%E5%BC%80%E6%94%BE%E5%BC%8F%E5%85%B3%E7%B3%BB",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 开放式关系",
+  "topics": [
+    "relationship",
+    "consent"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/open_relationship.json",
+  "text_path": "02_text/zh_wikipedia/open_relationship.txt",
+  "raw_bytes": 4027,
+  "text_chars": 1689,
+  "text_sha256": "aa5503e0ca8529faef46f0faeb2d21b575774fc291828c8cdb20243c5c365397",
+  "retrieved_at": "2026-10-26T13:02:23.228257+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC3705690",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Hinduism, marriage and mental illness.",
+  "authors": "Sharma I, Pandit B, Pathak A, Sharma R.",
+  "year": "2013",
+  "journal": "",
+  "doi": "10.4103/0019-5545.105544",
+  "pmcid": "PMC3705690",
+  "url": "https://europepmc.org/article/PMC/PMC3705690",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3705690/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "bride_price"
+  ],
+  "abstract": "For Hindus, marriage is a sacrosanct union. It is also an important social institution. Marriages in India are between two families, rather two individuals, arranged marriages and dowry are customary. The society as well as the Indian legislation attempt to protect marriage. Indian society is predominantly patriarchal. There are stringent gender roles, with women having a passive role and husband an active dominating role. Marriage and motherhood are the primary status roles for women. When afflicted mental illness married women are discriminated against married men. In the setting of mental illness many of the social values take their ugly forms in the form of domestic violence, dowry harassment, abuse of dowry law, dowry death, separation, and divorce. Societal norms are powerful and often override the legislative provisions in real life situations.",
+  "raw_path": "01_raw/europepmc_xml/PMC3705690.xml",
+  "text_path": "02_text/europepmc/PMC3705690.txt",
+  "raw_bytes": 59934,
+  "text_chars": 32497,
+  "raw_sha256": "3a6c056d411ea93709e8efdd0ff4c5ae908179aeb74e27c5c02979aaba916587",
+  "text_sha256": "1619bba43d96cb75f5fffce1d3d7ea6cbbccde35bb4653f799bb5ab6c8a452d4",
+  "retrieved_at": "2026-10-25T15:35:25.147683+00:00"
+}

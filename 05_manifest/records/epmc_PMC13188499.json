@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13188499",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The effect of university students' self-esteem and belief in dating violence myths on their attitudes towards dating violence.",
+  "authors": "Sezer NA, Gökçay G, Altun L.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-04515-4",
+  "pmcid": "PMC13188499",
+  "url": "https://europepmc.org/article/PMC/PMC13188499",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13188499/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_esteem"
+  ],
+  "abstract": "BACKGROUND: The phenomenon of violence, which can be seen at every stage of human life, is a mental and public health problem and violates human rights.The study was conducted to examine the effects of university students’self-esteem and belief in dating violence myths on their attitudes towards dating violence. METHODS: The study had a descriptive design and was conducted online with the participation of 1305 university students between June 3 and March 26, 2025. The data were collected using a questionnaire form that included the Personal Information Form, Two-Dimensional Self-Esteem Scale, Dating Violence Myths Scale, and Dating Violence Attitudes Scale. The SPSS V-27.0 software was used to evaluate the data. RESULTS: University students scored 57.88 ± 9.89 on the total of the Two-Dimensional Self-Esteem: Self-Love/Self-Efficacy Scale, 22.75 ± 9.80 on the Dating Violence Myths Scale, and 117.22 ± 18.08 on the Dating Violence Attitudes Scale. The Self-Esteem Scale explained 1.3% of the variance in the Dating Violence Attitudes Scale. Then, using the Hierarchical Regression Model, the total of the Dating Violence Myths Scale was included in the model, and the result suggested that the total of the Two-Dimensional Self-Esteem and Dating Violence Myths Scale explained 21.5% of the variance in dating violence attitude. CONCLUSION: The study concluded that students do not support dating violence, have moderate self-esteem, and hold few myths about dating violence. Based on the results, awareness about dating violence needs to be increased and training programs expanded.",
+  "raw_path": "01_raw/europepmc_xml/PMC13188499.xml",
+  "text_path": "02_text/europepmc/PMC13188499.txt",
+  "raw_bytes": 150971,
+  "text_chars": 42592,
+  "raw_sha256": "4c0c8005ffbef1693e247d6d38b20fa450cb5b222745ab715c5ea992bb1649ff",
+  "text_sha256": "abee6351e0f2cffe130d9bdcaf56fb414af929be9b2c2097c811be54feafbbcc",
+  "retrieved_at": "2026-10-25T15:27:27.749536+00:00"
+}

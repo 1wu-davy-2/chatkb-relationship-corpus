@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_mindfulness",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "正念",
+  "requested_title": "正念",
+  "url": "https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%BF%B5",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "emotion",
+    "wellbeing"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/mindfulness.json",
+  "text_path": "02_text/zh_wikipedia/mindfulness.txt",
+  "raw_bytes": 26861,
+  "text_chars": 10365,
+  "text_sha256": "b5f738d599da0a93a8fed9fac1e7699383b313ddc747de35ae4f58753e1908d3",
+  "retrieved_at": "2026-10-25T15:32:02.249481+00:00"
+}

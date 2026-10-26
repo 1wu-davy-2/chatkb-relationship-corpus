@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10212736",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Impact of Cohabitation during Confinement on Older Adults' Negative Affect: What Specificity of Life as a Couple?",
+  "authors": "Caillot-Ranjeva S, Bergua V, Meillon C, Amieva H.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.14283/jfa.2023.25",
+  "pmcid": "PMC10212736",
+  "url": "https://europepmc.org/article/PMC/PMC10212736",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10212736/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "Background Social isolation is a risk factor for older adults' physical and psychological health. The beneficial effect of social connections in times of major health events is undeniable. Nevertheless, it remains unclear whether the positive effect of social support depends on the relationship type. Objectives This study aimed to investigate the influence of older adults' living conditions on the risk of experiencing negative affect during the first lockdown and post-lockdown. Design An epidemiological study conducted during the COVID-19 crisis, at the time of the first lockdown, and 2 to 3 months following the lockdown. Setting A subset sample of the PACOVID survey, a population-based survey of older adults. Participants Altogether, 277 participants were included into three groups depending on their living conditions: Group 1 \"living alone\" (n = 141); Group 2 \"living with their spouse\" (n = 106); Group 3 \"living in cohabitation with relatives\" (n = 30). Measurements Mixed logistic regression analyses were used to study the change in the risk of experiencing negative affects over time according to the living conditions. The presence of negative affects during lockdown was assessed using three items from the 20-item Center for Epidemiologic Studies Depression Scale : «Do you feel sad?»; «Do you feel depressed?; «Do you feel lonely? Results Participants living with their relatives or partner were significantly less likely to experience negative affect than those living alone during lockdown. Moreover, over time, only those living with their spouse had this lesser risk compared to those living alone. Conclusions These findings highlight the protective effect of social support over time and more specifically of that provided by the spouse. Couple functioning ought to be given consideration when studying the impact of health crisis situation on the mental health of older adults.",
+  "raw_path": "01_raw/europepmc_xml/PMC10212736.xml",
+  "text_path": "02_text/europepmc/PMC10212736.txt",
+  "raw_bytes": 108305,
+  "text_chars": 26002,
+  "raw_sha256": "19a305492a7e35bbf025645639a3ae4d9ad5382ae7403f56460d3f40558d8836",
+  "text_sha256": "fff4e873d468486d83bac2e428df43a042163886daca77f776e9910b96a95dd2",
+  "retrieved_at": "2026-10-25T15:37:47.594319+00:00"
+}

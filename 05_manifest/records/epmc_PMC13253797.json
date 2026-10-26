@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13253797",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Post-divorce growth: a mixed-methods investigation of how post-traumatic stress shapes growth after divorce.",
+  "authors": "Altinisik MS.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1850508",
+  "pmcid": "PMC13253797",
+  "url": "https://europepmc.org/article/PMC/PMC13253797",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13253797/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Introduction This study aimed to examine the relationship between post-traumatic stress (PTS) and post-traumatic growth (PTG) after divorce among divorced individuals and to identify factors influencing growth through quantitative and qualitative findings. Methods A mixed-methods design was employed in two phases. In the first phase, data were collected from 489 participants using a Personal Information Form, the PTSD Checklist for DSM-5 (PCL-5), and the Posttraumatic Growth Inventory (PTGI). In the second phase, four groups were formed based on high and low scores, and qualitative data were obtained from 16 participants through semi-structured interviews. Results Quantitative findings showed that PTS was negatively associated with PTG, r = -0.32, p R 2 = 0.10. In addition, PTG differed significantly by age and duration of marriage, whereas no significant differences were found by parenthood status or receipt of psychological support. Qualitative findings revealed that facilitating factors included hope, social support, spiritual coping, and cognitive restructuring, whereas inhibiting factors involved rumination, economic difficulties, social pressure, and negative emotions. Discussion Overall, the findings suggest that post-traumatic growth after divorce is associated with the interaction of individual and contextual factors, highlighting the importance of psychosocial support in the growth process.",
+  "raw_path": "01_raw/europepmc_xml/PMC13253797.xml",
+  "text_path": "02_text/europepmc/PMC13253797.txt",
+  "raw_bytes": 181503,
+  "text_chars": 52262,
+  "raw_sha256": "0102625644bcf46892fcbc153ed2247d8243137c5b8d8fb660ce1a6edbfe3baa",
+  "text_sha256": "196934e9cac324cd5fa163994b77626a6238702d90c5225cbec60cd2f06629a3",
+  "retrieved_at": "2026-10-25T13:51:26.716512+00:00"
+}

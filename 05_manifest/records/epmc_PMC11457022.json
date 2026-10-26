@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11457022",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The PornLoS Treatment Program: Study protocol of a new psychotherapeutic approach for treating pornography use disorder.",
+  "authors": "Stark R, Markert C, Golder S, Psarros R, Discher JP, Khatib S, Metzger J, Palmer S, Rechmann J, Storz F, Walter B, Allard S, Antons S, Bledzka M, Brand M, Dörrenbächer S, Englisch J, Friehs T, Da Cunha Gonçalves K, Haberkamp A, Hall M, Kananian S, Kemmerer P, Klingelhöfer D, Lutz W, Melzig CA, Michael T, Neumann A, Neusser S, Niemann A, Odenthal M, Rubel J, Schlierenkamp S, Speckemeier C, Ünlü L, Vogt R, Wölfling K, Zachariassen W, Zur Hausen G, Heinz C.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1556/2006.2024.00046",
+  "pmcid": "PMC11457022",
+  "url": "https://europepmc.org/article/PMC/PMC11457022",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11457022/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "porn_and_relationship"
+  ],
+  "abstract": "Background The introduction of Compulsive Sexual Behavior Disorder (CSBD) into the 11th International Classification of Diseases has raised expectations for better treatment options for CSBD. Furthermore, the treatment demand has increased, particularly for pornography use disorder (PUD), a subtype of CSBD. Presumably due to the easy access to Internet pornography an increasing prevalence of PUD is observed. Consequently, providing tailored and effective treatment is essential. Methods This article provides an overview of the manualized short-term PornLoS Treatment Program (Pornografienutzungsstörung effektiv behandeln- Leben ohne Suchtdruck; translation: Treating pornography use disorder effectively - life without craving). The program combines 24 individual and 6 group psychotherapy sessions with an interdisciplinary approach by offering a novel treatment framework. This includes, e.g., a mobile app, establishment of self-help groups, and access to other social services such as couple counseling. The cognitive-behavioral treatment program contains interventions addressing psychoeducation, cue exposure, impulse control, cognitive restructuring, emotional regulation, and relapse management.We here also describe the study protocol of an ongoing four-arm randomized controlled trial. The aim is to test two variants of the PornLoS Treatment Program differing with respect to their treatment goal (abstinence or reduced pornography use) against cognitive-behavioral treatment as usual and against a waitlist control group. The primary outcome is the absence of a PUD diagnosis at the end of therapy. The total target sample size will comprise n = 316 patients with PUD across eight study sites. Results The results will be presented at international conferences and published in a scientific peer-reviewed journal.",
+  "raw_path": "01_raw/europepmc_xml/PMC11457022.xml",
+  "text_path": "02_text/europepmc/PMC11457022.txt",
+  "raw_bytes": 167173,
+  "text_chars": 68553,
+  "raw_sha256": "1684ee2169ade828e3c120a8569cc1244b8db24377fbfd2666610aa39d0d1a69",
+  "text_sha256": "6fcefb95909091304d2884d76001e2f8f533df309e871ce720677c4d0674428d",
+  "retrieved_at": "2026-10-26T12:57:15.732080+00:00"
+}

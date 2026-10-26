@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12193425",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Science Speed Dating to Spur Inter-Institutional Collaborative Research.",
+  "authors": "Chang SP, Braun KL, Yanagihara R, De Heer H, Wu YY, Chen Z, Cox MB, Gorniak SL, Haddad G, Hohmann CF, Lee ES, Stiles JK, Teufel-Shone NI, Nerurkar VR.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/ijerph22060919",
+  "pmcid": "PMC12193425",
+  "url": "https://europepmc.org/article/PMC/PMC12193425",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12193425/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction_physical"
+  ],
+  "abstract": "A principal strategic goal of the RCMI Coordinating Center (RCMI-CC) is to improve the health of minority populations and to reduce ethnic and geographic disparities in health by coordinating the development and facilitating the implementation of clinical research across the RCMI Consortium. To more effectively spur inter-institutional collaborative research, the RCMI-CC supports a Clinical Research Pilot Projects Program for hypothesis-driven clinical research projects proposed by postdoctoral fellows, early-career faculty and/or early-stage investigators from two or more RCMI U54 Centers. The purpose of this brief report is to summarize the Science Speed Dating sessions to facilitate cross-site collaboration at the RCMI Investigator Development Core (IDC) Workshop, held in conjunction with the 2024 RCMI Consortium National Conference. RCMI investigators and IDC Directors from 20 RCMI U54 Centers participated in two rounds of highly interactive small-group presentations of research ideas and resource needs in search of new collaborative and mentoring partnerships. Workshop participants expressed a high level of satisfaction with the speed-networking format and strongly agreed that the workshop was beneficial to their professional-development goals.",
+  "raw_path": "01_raw/europepmc_xml/PMC12193425.xml",
+  "text_path": "02_text/europepmc/PMC12193425.txt",
+  "raw_bytes": 84989,
+  "text_chars": 24167,
+  "raw_sha256": "affc1359057a9f473fd36023587bc6c023bcf418046d69dd062fe1c8dd832538",
+  "text_sha256": "d1957f699df2187188a65d849b93cac4c0ba174906a51008fba1fd826d9aadf8",
+  "retrieved_at": "2026-10-25T15:34:25.356218+00:00"
+}

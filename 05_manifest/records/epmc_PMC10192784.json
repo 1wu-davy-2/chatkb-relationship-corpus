@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10192784",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Let's Talk About Single Men: A Qualitative Investigation of Never Married Men's Experiences of Singlehood.",
+  "authors": "Mrozowicz-Wrońska M, Janowicz K, Soroko E, Adamczyk K.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1007/s11199-023-01380-y",
+  "pmcid": "PMC10192784",
+  "url": "https://europepmc.org/article/PMC/PMC10192784",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10192784/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "singles"
+  ],
+  "abstract": "Existing research on singlehood has largely focused on the experiences of single women, and little is known about singlehood among men. The current investigation examined the experience of long-term singlehood through individual, semi-structured interviews with 22 never-married single men living in Poland who were aged 22-43 years. Thematic analysis revealed five key themes: (1) the sense of being deficient-is there something wrong with me?; (2) navigating outside the dominant discourse of traditional masculinity, marriage and family; (3) the benefits and downsides of singlehood; (4) adaptation to singlehood; and (5) the dilemma between waiting and actively searching for a romantic partner. An analysis of single men's narratives revealed that men experience their single status in the context of their various needs and hopes and as a status that determines their adult life course. This study contributes to the singlehood literature, highlighting the complexity of singlehood for men and the importance of traditional masculinity norms in experiencing long-term singlehood. These findings challenge stereotypical and unrealistic views of singlehood among men and have practical implications for psychotherapists, counsellors and educators working with single men.",
+  "raw_path": "01_raw/europepmc_xml/PMC10192784.xml",
+  "text_path": "02_text/europepmc/PMC10192784.txt",
+  "raw_bytes": 148957,
+  "text_chars": 73297,
+  "raw_sha256": "d135fb90908e0eb8f814a3ac7332072000f456d1682766d76ae0e801d3579da1",
+  "text_sha256": "f5d67728181cd4be9812e944be4fdc1554cb25b1e6617d61637f5e2093b8e020",
+  "retrieved_at": "2026-10-25T13:50:23.799260+00:00"
+}

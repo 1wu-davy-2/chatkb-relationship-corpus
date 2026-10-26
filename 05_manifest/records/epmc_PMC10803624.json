@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10803624",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Workplace bullying and sexual harassment at work among hotel housekeepers in the Balearic Islands (Spain).",
+  "authors": "Chela-Alvarez X, Bulilete O, García-Buades ME, Ferrer-Perez VA, Llobera J.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2023.1241255",
+  "pmcid": "PMC10803624",
+  "url": "https://europepmc.org/article/PMC/PMC10803624",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10803624/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_harassment"
+  ],
+  "abstract": "Introduction Hotel housekeepers are close to being a 100% feminized occupational group in Spain. This fact, coupled with some features of the job, places them at high risk of sexual harassment at work and bullying in the workplace. This study aims to explore experiences of sexual harassment at work and workplace bullying among hotel housekeepers in the Balearic Islands. Second, it aims to describe and estimate the prevalence of both phenomena. Methods This is a mixed-methods study. Ten semi-structured interviews were conducted with key informants, and six focus groups were held with hotel housekeepers. Additionally, a quantitative cross-sectional study ( n = 1,043) was undertaken. Results Most participants in focus groups had been sexually harassed at work. However, they had normalized this kind of situations, not labeling themselves as victims of sexual harassment; and harassment events were seen as unimportant, normal, and unquestioned, as well as being part of their daily work. Hotel housekeepers who were sexually harassed indicated high levels of stress at work and low social support. The prevalence of different workplace bullying behaviors was quite high among hotel housekeepers working in the Balearic Islands. Some were associated with poorer self-rated health, less satisfaction with the job and the salary, lower social support, and higher levels of stress. Despite this, qualitative methods informed us that less severe behaviors were normalized and perceived by hotel housekeepers as intrinsic to their job. Discussion The results show the high tolerance to less severe expressions of sexual harassment at work and workplace bullying, as well as difficulties in or reluctance to labeling this kind of experiences as such.",
+  "raw_path": "01_raw/europepmc_xml/PMC10803624.xml",
+  "text_path": "02_text/europepmc/PMC10803624.txt",
+  "raw_bytes": 195983,
+  "text_chars": 57025,
+  "raw_sha256": "0804556d0bb486ff94fea02c9ccf6f314a7ca23e520aad797aff254d13911a52",
+  "text_sha256": "2f9a0981cbdae882edf701b75f9bc97604ba5ff4c6760f43329103cbd92923ef",
+  "retrieved_at": "2026-10-25T15:33:09.447386+00:00"
+}

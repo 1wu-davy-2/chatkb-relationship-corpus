@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13274202",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Disability and sexual harassment and coercion in higher education in Ghana: the moderating role of financial support.",
+  "authors": "Ameyaw EK, Gbagbo FY, Rockson GNY, Quansah F, Agbadi P, Amoah PA.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s12889-026-27426-w",
+  "pmcid": "PMC13274202",
+  "url": "https://europepmc.org/article/PMC/PMC13274202",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13274202/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "INTRODUCTION: Higher education students with disabilities are susceptible to all forms of violence and have an increased risk of sexual harassment and coercion (SHC). SHC victims face a range of structural and social marginalizations, including physical accessibility challenges, communication barriers, and social isolation, which truncate their ability to seek help or assert boundaries. In Ghana, where about 8% (2,098,138) of the population live with disabilities, SHC and how it varies across disability types and differential socioeconomic backgrounds have received limited scholarly attention. The present study, therefore, examines how socioeconomic background shapes the relationship between disability type and experience of SHC. METHODS: We used a cross-sectional study design. A census approach was used to include all students with disabilities across four public universities in Ghana, who were available to participate (n = 438). Experience of SHC was measured using the Sexual Harassment and Coercion Experience (SHCE) scale. The moderator variable was the source of financial support. Multiple linear regression was used to estimate the effects of independent variables on the dependent variables. RESULTS: Participants reported various disabilities, including visual impairment (52.97%), physical disability (27.17%), hearing impairment (16.67%), and other disabilities (3.20%). Majority of participants relied on parents and relatives for financial support (62.33%), followed by scholarships (24.43%) and self-financing (13.24%). Compared to participants living with physical disability, visually impaired students experienced significantly higher SHCE overall (B = 0.241, p < 0.01), verbal sexual abuse (B = 0.373, p < 0.001), and sexual coercion (B = 0.249, p < 0.01). Students with hearing impairments who receive financial support from parents and relatives reported significantly lower SHCE compared to those who fund themselves. CONCLUSION: Experience of sexual harassment and coercion differs across disability types among university students. Considering the critical role of the source of financial support in SHCE, it is imperative that students with disabilities are provided a sustainable source of funding along with protective interventions tailored to diverse disability conditions. More importantly, universities ought to prioritise a multi-level and inclusive approach to achieve equitable educational experiences for all learners.",
+  "raw_path": "01_raw/europepmc_xml/PMC13274202.xml",
+  "text_path": "02_text/europepmc/PMC13274202.txt",
+  "raw_bytes": 129066,
+  "text_chars": 39695,
+  "raw_sha256": "af29515663e59b84c26f1c349e131c21bb8113c1a532a468dd454db1b42ba6a7",
+  "text_sha256": "becdebd1484111aca2278535e5814ba1152371b2bc1d578a1656d3375546079d",
+  "retrieved_at": "2026-10-26T12:54:26.128422+00:00"
+}

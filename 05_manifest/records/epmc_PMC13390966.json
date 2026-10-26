@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13390966",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Prevalence and Associated Factors of Codependency Among Wives of Alcohol Users.",
+  "authors": "Prabhu S, Velayudhan B, Pundir P, Gershuni O.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1002/puh2.70231",
+  "pmcid": "PMC13390966",
+  "url": "https://europepmc.org/article/PMC/PMC13390966",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13390966/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "people_pleasing"
+  ],
+  "abstract": "Background Codependency refers to an excessive emotional or psychological dependence on a partner, typically one who is struggling with addiction or illness and requires continuous care. Among wives of alcohol users, codependent behaviors are commonly observed and can significantly impact their mental health, social functioning, and overall well-being. Despite the growing recognition of this issue, there is a lack of comprehensive evidence summarizing the prevalence and associated factors of codependency in this population. This scoping review aims to address this gap in the existing literature. Methods A comprehensive search was conducted in PubMed (MEDLINE), CINAHL, Scopus, Web of Science, and Embase for studies published in English since 2000. Records were screened independently by two reviewers using predefined eligibility criteria. Data were extracted using the Joanna Briggs Institute (JBI) tool and summarized narratively and in tabular form. Results Eighteen studies involving 2299 participants from India, Iran, Pakistan, and Turkey were included. Thirteen studies reported prevalence rates of codependency among wives of alcohol users, ranging from 25% to 98%, with most indicating mild to moderate levels. Three major domains were identified as associated factors: (1) psychological (depression, anxiety, and low self-esteem), (2) social (marital life, family interaction, interpersonal relationship, social support, and coping), and (3) physical (trauma or abuse history). Conclusion This scoping review highlights that codependency is a common and multifaceted issue among wives of alcohol users. The findings can inform the development of targeted interventions and policies aimed at promoting the mental health and overall well-being of spouses of alcohol users.",
+  "raw_path": "01_raw/europepmc_xml/PMC13390966.xml",
+  "text_path": "02_text/europepmc/PMC13390966.txt",
+  "raw_bytes": 120164,
+  "text_chars": 33247,
+  "raw_sha256": "1a5a51a4e2bd9b0c076a2db2c0ce41311babc9b8eb7b99d2644a570b2264bf33",
+  "text_sha256": "3a4dc95b2d13501fa912aa2c018ff96be758f9381a216602f2ffbdb6be8093c5",
+  "retrieved_at": "2026-10-25T15:26:43.902000+00:00"
+}

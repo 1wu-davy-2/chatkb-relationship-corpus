@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_comprehensive_sexuality_education",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "全面性教育",
+  "requested_title": "全面性教育",
+  "url": "https://zh.wikipedia.org/wiki/%E5%85%A8%E9%9D%A2%E6%80%A7%E6%95%99%E8%82%B2",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 全面性教育",
+  "topics": [
+    "sexuality",
+    "education"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/comprehensive_sexuality_education.json",
+  "text_path": "02_text/zh_wikipedia/comprehensive_sexuality_education.txt",
+  "raw_bytes": 8640,
+  "text_chars": 3416,
+  "text_sha256": "e46c2a99963f8bd8e70c16f78aa9ff0680c22682736125ec275de4556a94fe96",
+  "retrieved_at": "2026-10-26T13:01:27.119401+00:00"
+}

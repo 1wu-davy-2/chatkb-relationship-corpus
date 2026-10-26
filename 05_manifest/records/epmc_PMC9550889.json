@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9550889",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Pooling of Wealth in Marriage: The Role of Premarital Cohabitation.",
+  "authors": "Vitali A, Fraboni R.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1007/s10680-022-09627-2",
+  "pmcid": "PMC9550889",
+  "url": "https://europepmc.org/article/PMC/PMC9550889",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9550889/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "Previous studies documented the existence of a 'cohabitation-marriage gap' in resource pooling among opposite-sex partners, with cohabiters being more likely to separate income and wealth than married individuals. Surprisingly, despite many non-marital cohabitations transform into marriages, we know little about income and wealth pooling of 'spousal cohabiters', i.e. spouses who transition to marriage after experiencing a period of non-marital cohabitation. The comparison between 'spousal cohabiters' and directly married spouses is particularly interesting because it offers a litmus test of theories of marriage in relation to how and why economic resources are differently distributed within married vs. cohabiting couples. This paper compares directly married couples and 'spousal cohabiters' in Italy, focusing on one aspect of resource pooling: the marital property regime, i.e. the choice made at the time of marriage between joint or separate ownership of wealth accumulated during marriage. Competing hypotheses are developed on the basis of the arguments that marriage yields legal protection, that selection mechanisms drive both the choice of community vs. separation of property and direct marriage vs. premarital cohabitation, and that, by inertia, 'spousal cohabiters' continue to separate resources upon transition to marriage. Results based on the 2016 Italian 'Family and social subjects' survey show that 'spousal cohabiters' are significantly more likely to choose separation of property compared to directly married spouses. Such differences, however, are drastically reduced once relevant confounders are controlled for, hence suggesting that existing differences between directly married and previously cohabiting couples and, more generally, differences between married and cohabiting couples are driven, above all, by selection mechanisms. Supplementary information The online version contains supplementary material available at 10.1007/s10680-022-09627-2.",
+  "raw_path": "01_raw/europepmc_xml/PMC9550889.xml",
+  "text_path": "02_text/europepmc/PMC9550889.txt",
+  "raw_bytes": 238192,
+  "text_chars": 73899,
+  "raw_sha256": "0e4dbbad1e21e9b0962cfe59bc3e92b65ccee229a43d2f91be2d9e272749296d",
+  "text_sha256": "b809b2d3a85cd8a6f02fc8c714c103db570c2e5bdd9519d44419880b9e379991",
+  "retrieved_at": "2026-10-25T15:38:38.840144+00:00"
+}

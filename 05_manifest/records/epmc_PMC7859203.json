@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7859203",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "CD38 is associated with bonding-relevant cognitions and relationship satisfaction over the first 3 years of marriage.",
+  "authors": "Makhanova A, McNulty JK, Eckel LA, Nikonova L, Bartz JA, Hammock EAD.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1038/s41598-021-82307-z",
+  "pmcid": "PMC7859203",
+  "url": "https://europepmc.org/article/PMC/PMC7859203",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7859203/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "forgiveness"
+  ],
+  "abstract": "Although there are numerous benefits to having a satisfying romantic relationship, maintaining high levels of relationship satisfaction is difficult. Many couples experience declines in relationship satisfaction in the early years of marriage, and such declines predict not only relationship dissolution but also poor mental and physical health. Several recent studies indicate that genetic variation on the CD38 gene (CD38), at the single nucleotide polymorphism (SNP) rs3796863, is associated with cognitions and behaviors related to pair bonding; we thus leveraged longitudinal data from a sample of newlywed couples (N = 139 genotyped individuals; 71 couples) to examine whether rs3796863 is associated with relationship maintenance processes and, in turn, relationship satisfaction in the early years of marriage. Replicating and extending prior research, we found that individuals with the CC genotype (vs. AC/AA) of rs3796863 reported higher levels of gratitude, trust, and forgiveness and that trust mediated the association between rs3796863 and marital satisfaction. Moreover, the benefits conferred to CC individuals lasted over the first 3 years of marriage. To our knowledge, this is the first study to examine the link between variation in CD38 rs3796863 and marital functioning over time.",
+  "raw_path": "01_raw/europepmc_xml/PMC7859203.xml",
+  "text_path": "02_text/europepmc/PMC7859203.txt",
+  "raw_bytes": 166010,
+  "text_chars": 51449,
+  "raw_sha256": "4763dffb7db1d1f820f99d41ec55e9a0fb99ee1a407cb294cb2b07d3fde8ebb8",
+  "text_sha256": "bd558d8096ae8ebb4fe5974f0b59b46ad5d1a262a691907e5c997577c1974a01",
+  "retrieved_at": "2026-10-25T13:52:47.861485+00:00"
+}

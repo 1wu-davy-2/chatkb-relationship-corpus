@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_aries_constellation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "白羊座",
+  "requested_title": "白羊座",
+  "url": "https://zh.wikipedia.org/wiki/%E7%99%BD%E7%BE%8A%E5%BA%A7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 白羊座",
+  "topics": [
+    "zodiac",
+    "astronomy"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/aries_constellation.json",
+  "text_path": "02_text/zh_wikipedia/aries_constellation.txt",
+  "raw_bytes": 19530,
+  "text_chars": 7537,
+  "text_sha256": "b2434a12ee9e26c43d37a12446497fcf7287e62fdcde66409a7eafe10184e3d7",
+  "retrieved_at": "2026-10-26T13:04:23.750229+00:00"
+}

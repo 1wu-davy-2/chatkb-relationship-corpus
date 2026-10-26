@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13523052",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Socio-demographic factors, sexual autonomy, and self-reported sexually transmitted infection/symptoms among coupled women in Indonesia: A secondary analysis of a national survey.",
+  "authors": "Laksmini P, Besral.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.33546/bnj.4759",
+  "pmcid": "PMC13523052",
+  "url": "https://europepmc.org/article/PMC/PMC13523052",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13523052/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "safer_sex_communication"
+  ],
+  "abstract": "Background Female reproductive health vulnerabilities are influenced by socio-demographic factors and domestic power imbalances. In Indonesia, investigating how relational empowerment affects sexual health outcomes remains a critical public health necessity. Objective This study aimed to evaluate the association between sexual autonomy, socio-demographic determinants, and self-reported sexually transmitted infection (STI) symptoms among coupled women in Indonesia. Methods A secondary analysis was conducted using nationally representative data from the 2017 Indonesia Demographic and Health Survey (IDHS). The analytical sample comprised 28,264 currently married or cohabiting coupled women. A composite index for sexual autonomy was constructed based on standardized sexual negotiation indicators. Survey-weighted binary logistic regression analysis was conducted to calculate adjusted odds ratios ( AORs ) with 95% confidence intervals ( CIs ). Results The multivariate analysis demonstrated a significant association between sexual autonomy and self-reported STIs. Women with high sexual autonomy had 1.51 times higher odds of reporting STI symptoms than those with low sexual autonomy ( AOR = 1.51; 95% CI: 1.23-1.84). Rather than indicating greater biological risk, this association suggest a symptom disclosure effect related to greater health awareness. In contrast, structural vulnerabilities independently reduced protective capacity; lower decision-making autonomy ( AOR = 1.14), primary education ( AOR = 1.29), and a strong justification of intimate partner violence ( AOR = 2.08) were all significantly associated with higher odds of experiencing and reporting STIs. Conclusion The association between high individual sexual autonomy and elevated STI symptom reporting highlights a health disclosure mechanism rather than biological disease incidence. Among coupled Indonesian women, reproductive health outcomes are deeply shaped by gender power relations. Public health and community nursing interventions should therefore prioritize addressing structural domestic coercion, normalizing the rejection of violence, and creating safe environments that support health transparency.",
+  "raw_path": "01_raw/europepmc_xml/PMC13523052.xml",
+  "text_path": "02_text/europepmc/PMC13523052.txt",
+  "raw_bytes": 136634,
+  "text_chars": 41433,
+  "raw_sha256": "0150756f35a864f3a452b0dee4b589d9bad0618490322b6535d05e290e0393c3",
+  "text_sha256": "df6b8730a2a77e0ddf5e754337b7149c5b826e4835e4d8c25bc95aa25b08aacf",
+  "retrieved_at": "2026-10-26T12:56:38.322558+00:00"
+}

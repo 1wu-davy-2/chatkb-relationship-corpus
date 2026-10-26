@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9271060",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Implementation intentions to express gratitude increase daily time co-present with an intimate partner, and moderate effects of variation in CD38.",
+  "authors": "Chang YP, Way BM, Sheeran P, Kurtz LE, Baucom DH, Algoe SB.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1038/s41598-022-15650-4",
+  "pmcid": "PMC9271060",
+  "url": "https://europepmc.org/article/PMC/PMC9271060",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9271060/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gratitude"
+  ],
+  "abstract": "Close social connections drive mental and physical health and promote longevity. Positive, other-focused behavior like expressing gratitude may be a key mechanism for increasing close bonds. Existing evidence consistent with this claim is predominantly correlational, likely driven by challenges in causally influencing and sustaining behavior change in the context of ongoing relationships. This 5-week field experiment with daily data from couples provides the first evidence for a brief, low-cost behavioral technique to increase everyday expressed gratitude to a romantic partner. Random assignment to the gratitude expression treatment (GET) increased the amount of time couples spent co-present in everyday life, from the weeks before GET to the weeks after, relative to the control condition. This effect was mediated by the change in expressed gratitude. Voluntary co-presence is an important behavioral indicator of close bonds in non-human animals. Further analyses with a functional genotype related to the oxytocin system (rs6449182) suggest a neurochemical pathway involved in the effects of expressing gratitude. Together, this evidence bridges animal and human research on bonding behavior and sets up future experiments on biopsychosocial mechanisms linking close bonds to health.",
+  "raw_path": "01_raw/europepmc_xml/PMC9271060.xml",
+  "text_path": "02_text/europepmc/PMC9271060.txt",
+  "raw_bytes": 141458,
+  "text_chars": 49736,
+  "raw_sha256": "0ccd6fcea629e2548ade5c808d3ab9b84ca45ea8bfc3357c333b6c9b8b5ef946",
+  "text_sha256": "d27d42664da9bc37ff0862ae69a9487ad195a863392ebaad1ee495adedb32315",
+  "retrieved_at": "2026-10-25T15:31:56.274660+00:00"
+}

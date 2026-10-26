@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11657851",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marital happiness in a Middle Eastern context: are men happier?",
+  "authors": "Al Fazari M, Almaawali M, Omara E, Khalaf MA.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s40359-024-02232-4",
+  "pmcid": "PMC11657851",
+  "url": "https://europepmc.org/article/PMC/PMC11657851",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11657851/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Background Research on marital happiness in Middle Eastern cultures is lacking. This lack of understanding has created several challenges for policymakers and marriage counselors as divorce rates have increased over the past decade. Method This study aimed to assess the prevalence of marital happiness among Omani couples and its association with demographic variables, including gender, level of education, and duration of marriage. A convenience sample of 1137 married people from different regions in Oman responded to the Marital Happiness Scale. Results Omani couples, in general, indicated a high level of marital happiness. Married men seemed significantly happier about their marriages than wives did. Income and education level also affect perceived marital happiness. Marital happiness increased as income increased while level of education was partially associated with marital happiness. Place of living was not a significant predictor of marital happiness. Lower levels of perceived marital happiness among couples in polygamous marriages were observed. The spouses' kinship did not affect their perception of marital happiness. Conclusion This study showed that financial stressors and education level significantly influence marital happiness. Men and women also perceive marital happiness differently. The results offer implications for research and practice, especially for policymakers and marital counselors.",
+  "raw_path": "01_raw/europepmc_xml/PMC11657851.xml",
+  "text_path": "02_text/europepmc/PMC11657851.txt",
+  "raw_bytes": 113246,
+  "text_chars": 39223,
+  "raw_sha256": "a1597f90e34c42a7da9e7f7556bb1be808bbc5e731634e638f666709f06e02e5",
+  "text_sha256": "2e2d159025fad5fb8a3af24cadb7e94d5e4ce513625f0efb785f9af1e9ec4b3f",
+  "retrieved_at": "2026-10-25T15:39:51.545360+00:00"
+}

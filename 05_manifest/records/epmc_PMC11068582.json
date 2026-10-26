@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11068582",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Characteristics of Young People Reporting a Low Sexual Desire in Switzerland.",
+  "authors": "Chok L, Suris JC, Barrense-Dias Y.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1007/s12119-023-10171-2",
+  "pmcid": "PMC11068582",
+  "url": "https://europepmc.org/article/PMC/PMC11068582",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11068582/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_satisfaction"
+  ],
+  "abstract": "This study explores the characteristics of young female and male adults (mean age 26.3 years) reporting a low sexual desire. A 2017 Swiss national survey was carried out among young adults. Participants were divided into two groups based on their level of sexual desire: Low and High. Overall, 17.2% of females and 5.7% of males reported a low sexual desire. At the multivariate level, compared to females in the High group, females in the Low group had higher odds of being dissatisfied with their social life and with their sexual life in the past 4 weeks, having no current relationship and having accepted several times sexual intercourse without really wanting. Compared to males in the High group, males in the Low group had higher odds of reporting a non-heterosexual attraction (trend), having no current relationship and having accepted several times sexual intercourse without really wanting. The prevailing idea that young people, particularly males, always have high levels of sexual desire may not be accurate and warrants further consideration. These results show that sexual desire encompasses social aspects and underscore importance of addressing how stereotypes and social norms may influence our sexuality.",
+  "raw_path": "01_raw/europepmc_xml/PMC11068582.xml",
+  "text_path": "02_text/europepmc/PMC11068582.txt",
+  "raw_bytes": 117312,
+  "text_chars": 32496,
+  "raw_sha256": "2ae7a1dfede6a6901bc69f98a1610666b7b8ba78b419c5482634fa2e2556e96c",
+  "text_sha256": "a7e2bf5561415679fa4b7286b332c7d2e3be88ad8590af312fd270ade036c1ec",
+  "retrieved_at": "2026-10-25T15:39:34.491093+00:00"
+}

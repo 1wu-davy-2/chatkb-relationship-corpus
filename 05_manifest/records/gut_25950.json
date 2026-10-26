@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_25950",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "The Complete Bachelor: Manners for Men",
+  "gutenberg_id": "25950",
+  "url": "https://www.gutenberg.org/ebooks/25950",
+  "download_url": "https://www.gutenberg.org/cache/epub/25950/pg25950.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/25950.txt",
+  "text_path": "02_text/gutenberg/gut_25950_the_complete_bachelor_manners_for_men.txt",
+  "raw_bytes": 265569,
+  "text_chars": 238911,
+  "text_sha256": "ed6fa0f28c4af6e6ce4f00c20fdb492ed74bdcca8af13d71db6da7d552afce0f",
+  "retrieved_at": "2026-10-25T15:45:48.654925+00:00"
+}

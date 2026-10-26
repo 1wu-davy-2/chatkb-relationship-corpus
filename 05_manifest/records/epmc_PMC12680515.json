@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12680515",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A qualitative exploration of declining sexual intimacy among married men and women.",
+  "authors": "Azimi S, Hashemiparast M, Alizadeh Mizani M, Javadivala Z, Bagherzadeh B, Allahverdipour H.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.34172/hpp.025.44424",
+  "pmcid": "PMC12680515",
+  "url": "https://europepmc.org/article/PMC/PMC12680515",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12680515/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "intimacy"
+  ],
+  "abstract": "Background A decline in sexual intimacy within marital relationships can significantly impact the overall dynamics of the partnership, potentially leading to a progressive deterioration of emotional and physical closeness between couples. This study sought to examine married individuals' perceptions of the factors contributing to diminished sexual intimacy, as well as the barriers impeding its sustenance. By elucidating these dimensions, the research aims to provide a nuanced understanding of the psychosocial and interpersonal mechanisms underlying this phenomenon. Methods Employing a qualitative design, the study utilized a conventional content analysis approach to investigate these phenomena. A purposive sample of 26 married men and women participated in the study, with data collected through individual semi-structured interviews. Concurrent analysis was performed during data collection, with MAXQDA 2020 software used for textual data management and organization. Results Thematic analysis yielded five principal themes (with fourteen sub-themes) characterizing factors contributing to diminished sexual intimacy. These comprised: (1) sex drive mismatch, (2) lack of perceived emotional intimacy, (3) sexual dissatisfaction, (4) restrictive sexual stereotypes, and (5) sexual nostalgia. The findings indicate that diminished sexual intimacy arises from interacting intrapersonal, interpersonal, and sociocultural factors, which cumulatively affect sexual relationship quality and, by extension, marital intimacy. Conclusion In light of these findings, it is recommended that sexual health delivery systems prioritize implement targeted couple consultations addressing multidimensional barriers to intimacy (psychological, relational, and societal). Such evidence-based interventions could enhance sexual and marital satisfaction by providing comprehensive support tailored to couples' needs.",
+  "raw_path": "01_raw/europepmc_xml/PMC12680515.xml",
+  "text_path": "02_text/europepmc/PMC12680515.txt",
+  "raw_bytes": 118077,
+  "text_chars": 35333,
+  "raw_sha256": "1ac823969cc059e7292b96e37b492e5a3d4ae08d83e72ee22edcececa1cd8893",
+  "text_sha256": "a0974433518ffd80d13369b5f1e0e2a7688d7873e0c9f1a37e22941ec49c7b39",
+  "retrieved_at": "2026-10-25T15:42:39.244105+00:00"
+}

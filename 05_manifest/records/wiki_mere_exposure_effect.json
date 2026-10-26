@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_mere_exposure_effect",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "多看效應",
+  "requested_title": "多看效应",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A4%9A%E7%9C%8B%E6%95%88%E6%87%89",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 多看效應",
+  "topics": [
+    "psychology",
+    "attraction"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/mere_exposure_effect.json",
+  "text_path": "02_text/zh_wikipedia/mere_exposure_effect.txt",
+  "raw_bytes": 1587,
+  "text_chars": 839,
+  "text_sha256": "08f65038c04133ba50ccc31d4336a4ee0ec1300532b0e27e0bbbbc13e5c3fea0",
+  "retrieved_at": "2026-10-25T16:21:19.637991+00:00"
+}

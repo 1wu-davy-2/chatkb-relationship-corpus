@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8700214",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sex on the Screen: A Content Analysis of Free Internet Pornography Depicting Mixed-Sex Threesomes from 2012-2020.",
+  "authors": "Kulibert D, Moran JB, Preman S, Vannier SA, Thompson AE.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3390/ejihpe11040110",
+  "pmcid": "PMC8700214",
+  "url": "https://europepmc.org/article/PMC/PMC8700214",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8700214/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_scripts"
+  ],
+  "abstract": "Viewing online pornography is common among US adults, with mixed-sex threesome (MST) videos being one of the top 10 most popular categories of pornography for both men and women. The current content analysis applied sexual script theory to understand the themes present in these mixed-sex threesome videos. Independent coders viewed a total of 50 videos (25 MMF and 25 FFM) at each timepoint (2012, 2015, 2020) and coded for different sexual behaviors and themes in each video. By examining both same-sex (female-female, male-male) and other-sex (female-male) behaviors, as well as themes of aggression and sexual initiation in different videos and across three timepoints, it was determined that other-sex behaviors are more common in MST videos than same-sex behaviors. Same-sex behaviors between two female actors were more common than same-sex behaviors between two male actors. Aggression was a common theme in videos, with male actors being more aggressive on average than female actors. Most of these trends did not change across 8 years, suggesting that the impacts of traditional sexual scripts are pervasive in pornography, even in current online content. Important implications for both researchers and clinical professionals are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC8700214.xml",
+  "text_path": "02_text/europepmc/PMC8700214.txt",
+  "raw_bytes": 180489,
+  "text_chars": 44081,
+  "raw_sha256": "a0f8bd2e47aed02604e3517155b32f03e0195501d32a2d7ce0b3eb81f906949b",
+  "text_sha256": "390ada284c77f3407e67452016b0b13a2213835bf3a1b7cba03ba65621f3e22d",
+  "retrieved_at": "2026-10-26T13:09:42.492550+00:00"
+}

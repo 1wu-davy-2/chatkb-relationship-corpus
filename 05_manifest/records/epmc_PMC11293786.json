@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11293786",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Decision-making styles, magical thinking, and intolerance of uncertainty in opioid use disorder.",
+  "authors": "Danışman M, İspir GZ.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.4103/indianjpsychiatry.indianjpsychiatry_630_23",
+  "pmcid": "PMC11293786",
+  "url": "https://europepmc.org/article/PMC/PMC11293786",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11293786/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "superstition_decision"
+  ],
+  "abstract": "Background The global opioid use problem presents a complex public health challenge characterized by increasing overdoses, addiction rates, and fatalities. Personal factors such as cognitive traits, distress tolerance, and decision-making styles play a crucial role in influencing opioid use trajectories. Aim This study aimed to investigate decision-making styles, magical ideation, and intolerance of uncertainty among current and past opioid users and healthy controls to contribute to the literature on opioid use disorder. Methods Three groups were involved: current opioid users (n = 94), past opioid users (n = 93), and healthy controls (n = 100). Participants completed self-report scales assessing magical ideation, intolerance of uncertainty, and decision-making styles. Data were analyzed using descriptive statistics, analysis of variance, correlation analysis, and multiple linear regression. Results Current opioid users exhibited lower vigilance decision-making styles and higher magical ideation scores than past users and controls. Decisional self-esteem correlated positively with vigilant decision-making in current and past opioid users. Magical ideation scores correlated positively with maladaptive decision-making styles across all groups. Intolerance of uncertainty did not differ significantly between groups. Conclusions This study emphasizes that decision-making styles and magical thinking might have significant roles in opioid use disorder. These results contribute valuable insights to tailor interventions and support systems for individuals struggling with opioid use disorder.",
+  "raw_path": "01_raw/europepmc_xml/PMC11293786.xml",
+  "text_path": "02_text/europepmc/PMC11293786.txt",
+  "raw_bytes": 128213,
+  "text_chars": 26513,
+  "raw_sha256": "133446ccaadfbd31948e1e2678fae08462569302be3d797fd8e6d531ddccab94",
+  "text_sha256": "a219c790327d405b0f7c96a16254d070627f66700d08cfdb6a792b621ab47934",
+  "retrieved_at": "2026-10-26T13:32:23.526675+00:00"
+}

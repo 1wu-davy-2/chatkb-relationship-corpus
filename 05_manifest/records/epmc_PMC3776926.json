@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC3776926",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Failure to capitalize on sharing good news with romantic partners: Exploring positivity deficits of socially anxious people with self-reports, partner-reports, and behavioral observations.",
+  "authors": "Kashdan TB, Ferssizidis P, Farmer AS, Adams LM, McKnight PE.",
+  "year": "2013",
+  "journal": "",
+  "doi": "10.1016/j.brat.2013.04.006",
+  "pmcid": "PMC3776926",
+  "url": "https://europepmc.org/article/PMC/PMC3776926",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3776926/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "capitalization"
+  ],
+  "abstract": "Extending prior work on social anxiety and positivity deficits, we examined whether individual differences in social anxiety alter the ability to share and respond to the good news of romantic partners (i.e., capitalization support) and how this influences romantic relationship satisfaction and commitment. In this study of 174 heterosexual couples (average age of 21.5 with 58.3% identifying as Caucasian), greater social anxiety was associated with the provision and receipt of less supportive responses to shared positive events as measured by trait questionnaires, partner reports, and behavioral observations in the laboratory. In longitudinal analyses, individuals in romantic relationships with socially anxious partners who experienced inadequate capitalization support were more likely to terminate their relationship and report a decline in relationship quality six months later. As evidence of construct specificity, social anxiety effects were independent of depressive symptoms. Taken together, social anxiety influenced a person's ability to receive and provide support for shared positive events; these deficits had adverse romantic consequences. Researchers and clinicians may better understand social anxiety by exploring a wider range of interpersonal contexts and positive constructs. The addition of capitalization support to the social anxiety literature offers new insights into interpersonal approaches and treatments.",
+  "raw_path": "01_raw/europepmc_xml/PMC3776926.xml",
+  "text_path": "02_text/europepmc/PMC3776926.txt",
+  "raw_bytes": 181093,
+  "text_chars": 84907,
+  "raw_sha256": "bc433b4518d29cd4dafaeff593cdc18f38dae08bd2527fd242ed630ad54be28b",
+  "text_sha256": "ba0d9ae3277eef1dec4ed63bba3e11b9cbac5a59f9b696b8dfb840eca0a5200b",
+  "retrieved_at": "2026-10-25T15:30:54.352576+00:00"
+}

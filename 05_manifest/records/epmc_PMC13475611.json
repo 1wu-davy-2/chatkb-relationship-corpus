@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13475611",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Therapist self-disclosure: a systematic review and brief person-centered framework for clinical practice and training.",
+  "authors": "Jeffery D.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1869955",
+  "pmcid": "PMC13475611",
+  "url": "https://europepmc.org/article/PMC/PMC13475611",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13475611/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_disclosure"
+  ],
+  "abstract": "Introduction Therapist self-disclosure (TSD) is a widely used yet clinically complex intervention associated with both therapeutic benefit and potential harm. Existing literature suggests that TSD can strengthen the therapeutic relationship, enhance client engagement, and support culturally responsive practice. However, uncertainty remains regarding when, how, and why therapists should disclose personal information in clinical settings. Methods This systematic review synthesized contemporary empirical literature examining the effectiveness, risks, benefits, and cultural considerations associated with TSD. A PRISMA-guided review process was employed, and findings were analyzed using both inductive and deductive thematic analysis. The review also examined the continued relevance of foundational recommendations for TSD and interpreted findings through the Rogerian core conditions of congruence, unconditional positive regard, and accurate empathy. Results Findings indicated strong contemporary support for several of recommendations, particularly prioritizing client benefit, maintaining professional boundaries, exercising clinical intentionality, and returning focus to the client. However, ambiguity remained regarding appropriate disclosure content, levels of intimacy, and reasons for disclosure. This ambiguity was most effectively resolved when disclosure decisions were evaluated through relational attunement, client context, and therapeutic intent. TSD also emerged as an important component of culturally responsive practice, particularly when used to facilitate cultural broaching, relational safety, and engagement with issues of power and identity. Discussion The findings suggest that the Rogerian core conditions provide a coherent theoretical framework for guiding TSD decision-making while requiring explicit attention to cultural sensitivity and power dynamics. Overall, effective and ethical TSD appears to depend less on specific disclosure characteristics and more on the therapist's attunement to client needs, therapeutic intent, and relational context. This review contributes a brief person-centered framework to support therapists' in-the-moment reflective decision-making regarding the ethical, effective, and culturally responsive use of TSD in clinical practice and training.",
+  "raw_path": "01_raw/europepmc_xml/PMC13475611.xml",
+  "text_path": "02_text/europepmc/PMC13475611.txt",
+  "raw_bytes": 146399,
+  "text_chars": 48344,
+  "raw_sha256": "da0c5b76face12dfb8c0abd154558431c69472555f7750b6a366baa8067cd1af",
+  "text_sha256": "d94faf86ec67ddf87ad2151b5779d423c04e0306f72e39f83195f946c8e880ce",
+  "retrieved_at": "2026-10-25T13:50:26.923076+00:00"
+}

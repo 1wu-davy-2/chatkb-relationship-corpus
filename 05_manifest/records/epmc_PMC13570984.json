@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13570984",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Evaluating the Effectiveness of an Intimate Partner Violence Training Intervention on Healthcare Providers' Preparedness, Knowledge, and Experiences: A Mixed-Methods Study From Nepal.",
+  "authors": "Koju R, Shrestha R, Dhungana J, Lamichhane A, Misra A, Ekström AM, Deuba K.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1177/08862605261444014",
+  "pmcid": "PMC13570984",
+  "url": "https://europepmc.org/article/PMC/PMC13570984",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13570984/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Intimate partner violence (IPV) places a considerable burden on health systems globally due to its profound effects on women's health, and women who experience violence often seek care from healthcare providers (HCPs). However, HCPs often lack the preparedness and confidence to respond effectively, resulting in missed opportunities for support and care. This study, conducted in Nepal, evaluated the impact of structured training intervention on HCPs' perceived preparedness, knowledge, and attitudes toward managing IPV and its mental health consequences, including self-harm and suicidal tendencies. The study was nested within a larger cluster randomized trial. A convergent mixed-methods design with a comparison group was conducted among 46 female HCPs in all public hospitals (except one) and 17 primary healthcare centers in Madhesh Province, Nepal. The intervention group ( n = 24) received a 10-day intensive IPV and mental health training, while the control group ( n = 22) completed 3-day training. Quantitative data were collected using a validated self-administered Physician's Readiness to Manage IPV questionnaire and IPV consequences scale. Paired and independent t -tests were applied to assess changes. Insights from key informant interviews were thematically analyzed to explore participant experiences and perceived impacts. At baseline, over 80% of participants had not received IPV management training. Post-intervention, significant improvements were observed in HCPs perceived preparedness (median change 2.1; 95% confidence interval (CI): 1.1- 2.9), knowledge (median change 2.7; 95% CI: 2.0-3.1), and awareness of IPV consequences (mean difference 1.2; 95% CI: 0.5-2.0), with greater gains in the intervention group. Qualitative findings revealed enhanced confidence in identifying IPV, addressing psychological impacts, and supporting survivors through safety planning and referral. The training significantly improved HCPs' knowledge, preparedness, and confidence to manage IPV and related mental health issues, underscoring the need to scale similar programs to frontline providers, particularly in rural and underserved settings, to strengthen health system's response to IPV.",
+  "raw_path": "01_raw/europepmc_xml/PMC13570984.xml",
+  "text_path": "02_text/europepmc/PMC13570984.txt",
+  "raw_bytes": 119114,
+  "text_chars": 49854,
+  "raw_sha256": "1beb57a232ae34b8818fb820df03c02640a811e393d0a3f03519733e17a6790c",
+  "text_sha256": "1ce16ea431e184f6479b65ff313b0790eaa9f3f2717e6b9a6a98cd1367750f34",
+  "retrieved_at": "2026-10-25T15:43:27.153902+00:00"
+}

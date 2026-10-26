@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_extramarital_affair",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "外遇",
+  "requested_title": "婚外情",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A4%96%E9%81%87",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "infidelity",
+    "relationship"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/extramarital_affair.json",
+  "text_path": "02_text/zh_wikipedia/extramarital_affair.txt",
+  "raw_bytes": 6213,
+  "text_chars": 2256,
+  "text_sha256": "9eba4cfb0e3d6a40c408ded0437d6686e027f9c57601f5d525d315894297e80b",
+  "retrieved_at": "2026-10-25T15:36:15.297871+00:00"
+}

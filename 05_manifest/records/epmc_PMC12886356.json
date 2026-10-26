@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12886356",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Resilience to ghosting? A randomized controlled trial examining the consequences of ghosting on sleep quality in potential romantic relationships.",
+  "authors": "Langlais MR, Pons A, Dechert O, Murvich AM, Bigalke JA.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1742356",
+  "pmcid": "PMC12886356",
+  "url": "https://europepmc.org/article/PMC/PMC12886356",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12886356/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "ghosting"
+  ],
+  "abstract": "Introduction Grounded in belongingness theory, the goal of this study is to understand the consequences of ghosting (an approach to ending relationships that involves ending all forms of communication with someone without explanation) on objective and subjective sleep quality in young adults seeking romantic relationships. Methods Data for this experimental study comes from emerging adults recruited from a university in the Southern Central United States ( N = 112) who were told that they would be put into a dating pool and matched with a romantic partner. All participants were randomly assigned to one of three conditions: ghosting ( N = 40), courteous ending ( N = 35), or a control condition ( N = 37). In the ghosting condition, participants received a text message initiating conversation with a romantic partner \"match\" (laboratory confederate), but the conversation was abruptly ended after 2 hours. In the courteous ending group, participants conversed with a laboratory confederate, but after two hours the confederate politely ended the conversation and said that they would reach out to them in the future. The control condition received no text message. Participants wore Oura rings for two days and completed a sleep diary for two consecutive mornings (i.e., pre- and post-experimental manipulation) to capture objective and subjective sleep. Results Contrary to our hypothesis, we did not observe any influence of acute experimental ghosting on objective or subjective sleep measures. Discussion This study is unique in that it aimed to experimentally elicit relationship stress using a novel low-investment ghosting protocol to assess the influence of relationship stress on objective and subjective sleep parameters. In addition, the study demonstrates the feasibility and limitations of a controlled experimental protocol for modeling ghosting in early-stage romantic contexts, providing a foundation for future experimental research on relational disengagement.",
+  "raw_path": "01_raw/europepmc_xml/PMC12886356.xml",
+  "text_path": "02_text/europepmc/PMC12886356.txt",
+  "raw_bytes": 148859,
+  "text_chars": 53689,
+  "raw_sha256": "537e527dd9ee9786f569783ba43d52e692d00eecc1595ace8786ddcca12b5451",
+  "text_sha256": "84d13725006a98534244101a52e1804db8feb0dfb5cfa1a511465181ff89cbde",
+  "retrieved_at": "2026-10-25T13:46:11.161515+00:00"
+}

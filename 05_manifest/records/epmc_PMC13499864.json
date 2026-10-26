@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13499864",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Intimate partner femicide, understanding perpetrator behaviour: a cross-cultural analytical review of weapon choice, injury patterns, and cultural-criminological insights.",
+  "authors": "Tripi D, Ghamlouch A, Duca FD, Racciatti M, Frati P, Ferracuti S, Maiese A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1007/s00414-026-03843-9",
+  "pmcid": "PMC13499864",
+  "url": "https://europepmc.org/article/PMC/PMC13499864",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13499864/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Intimate Partner Femicide (IPF) is the lethal result of prolonged gender-based violence, often driven by control, jealousy, and emotional instability, while psychiatric disorders or substance abuse are reported in only a minority of cases. Victims typically endure years of abuse, facing significant barriers to escape due to fear, isolation, or dependency. Unlike IPF, Non-Intimate Partner Femicide (NIPF) involves perpetrators without close ties to the victim. Cultural and regional factors influence the occurrence and handling of femicides.The aim of this narrative review with systematic literature search is to synthesize the epidemiological, criminological, and forensic patterns of intimate partner femicide (IPF) across different countries, focusing on victim and perpetrator profiles, common autopsy findings, risk factors, and cultural variations. Following the PRISMA statement, sixteen studies were retrieved on the epidemiology and criminology of femicide across several countries. In the U.S., most IPF cases involve prior abuse, with firearms being the most common weapon. Strangulation, blunt-force trauma, and poisoning are more common in low-middle income countries, where stricter gun laws exist. Psychiatric issues and substance abuse, particularly alcohol, are major risk factors, with mental disorders affecting 5-10% of perpetrators and 15-20% struggling with chronic substance use. Risk factors for IPF include young women (30-50), often employed, killed by long-term partners, with prior violence. The risk is highest after a relationship ends, especially in the first year. Violence often occurs in the victim's home, where the abuser asserts dominance. Jealousy is a key motivator, escalating to violence as a tool of control, and is often seen as justified in patriarchal societies. The review stresses the need for prevention strategies that address these risks, including better mental health care, substance abuse treatment, and support for victims. Autopsy findings highlight common injuries in femicide cases, such as stab wounds, head injuries, and defensive wounds. These injuries, combined with other violent methods like strangulation, indicate an escalation of violence and are key to understanding femicide dynamics. The study emphasizes the importance of continued research and data collection to improve prevention and support systems for victims, aiming to reduce IPF rates globally.",
+  "raw_path": "01_raw/europepmc_xml/PMC13499864.xml",
+  "text_path": "02_text/europepmc/PMC13499864.txt",
+  "raw_bytes": 118735,
+  "text_chars": 35906,
+  "raw_sha256": "9e7af835bd6159af961b455cdc9d5188215c47ffa81749663ce3c2a5ef7d8f31",
+  "text_sha256": "4d839821d8be1ba3cbd4e10a31d90101f39c41e0a663e5914b74cb1fbdad1453",
+  "retrieved_at": "2026-10-25T15:35:16.193948+00:00"
+}

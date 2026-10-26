@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11696241",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Choice of props for courtship dancing in estrildid finches.",
+  "authors": "Soma M, Nakatani M, Ota N.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1038/s41598-024-81419-6",
+  "pmcid": "PMC11696241",
+  "url": "https://europepmc.org/article/PMC/PMC11696241",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11696241/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "Among the diverse sexual signals used by birds, the possible signaling functions of non-bodily objects during mating/courting displays remain unexplained. It is unclear whether such object-holding gestures are purely ritualistic or serve as an advertisement of an extended phenotype to potential mates. Estrildid finches (family Estrildidae) are characterized by mutual courtship, during which either a male or female will hold nesting material (usually grass stems or straw) in the beak while singing and dancing toward the opposite sex. We predicted that this display of potential nesting material advertises the ability of an individual to collect and transport such materials. Captive adult red-cheeked cordon-bleus (Uraeginthus bengalus) and star finches (Neochmia ruficauda) were presented with different string lengths in choice tests, and results were compared with those obtained from field observations of courtship displays among U. bengalus and blue-capped cordon-bleus (Uraeginthus cyanocephalus). Both captive and wild estrildid finches preferred longer strings for displays, which is compatible with the idea that non-bodily ornaments (strings) convey information on the maximum performance potential. The evolution of nesting material holding displays is likely associated with the nesting ecology of estrildid finches, which is characterized by a high predation risk and joint nest building by mating pairs.",
+  "raw_path": "01_raw/europepmc_xml/PMC11696241.xml",
+  "text_path": "02_text/europepmc/PMC11696241.txt",
+  "raw_bytes": 88746,
+  "text_chars": 25699,
+  "raw_sha256": "29e0e570351c26c51b1dfedf1eb44ae850d27d1a588bc155938611209cba60c6",
+  "text_sha256": "e1408e9ab490e5c1dc29a266bf86d282128d5f6ff5267f1e4d86fb0d9ee68916",
+  "retrieved_at": "2026-10-25T15:35:40.101312+00:00"
+}

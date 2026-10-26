@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13203467",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring Prejudice Toward Tinder: Two Experiments on the Social Perception of Dating App Users and Online-Formed Couples.",
+  "authors": "Sciara S, Contu F, Montano F, Steffano CS, Pantaleo G.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/bs16050691",
+  "pmcid": "PMC13203467",
+  "url": "https://europepmc.org/article/PMC/PMC13203467",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13203467/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "While dating apps such as Tinder are now widespread, social stigma toward their users remains a significant yet underexplored issue. Two experiments examined how prejudice toward Tinder shapes social perception and interpersonal attraction. Study 1 ( N = 206) investigated impressions toward a potential partner whose profile was described as originating from Tinder versus Facebook. Higher prejudice predicted reduced attention to the target's images when the profile was presented as coming from Tinder and was associated with slightly more negative trait attributions. Curiously, participants with experience using dating apps appeared to be less attracted to the Tinder user. Study 2 ( N = 481) tested evaluations of couples formed offline, on Facebook, or on Tinder. Online-formed couples-regardless of platform-were judged more negatively than offline couples. Furthermore, a form of projected embarrassment emerged, whereby participants believed that Tinder-initiated couples, more than others, would be less willing to tell others about their true origin. Together, these findings document a persistent bias toward online dating. The implications of these results are discussed in relation to the striking paradox between this enduring social stigma and the documented success of some online-formed bonds, highlighting how such prejudice may ultimately preclude individuals from accessing significant relational opportunities.",
+  "raw_path": "01_raw/europepmc_xml/PMC13203467.xml",
+  "text_path": "02_text/europepmc/PMC13203467.txt",
+  "raw_bytes": 153151,
+  "text_chars": 76007,
+  "raw_sha256": "3ee7bb5c30444a94111f0553f6e7287a1427082b6d226cd2b09b5f5ee8a781e6",
+  "text_sha256": "cb43c80143f89aee60c198211c148c0bc3047d16aacd22e25a2d785964f88be1",
+  "retrieved_at": "2026-10-25T13:50:30.253987+00:00"
+}

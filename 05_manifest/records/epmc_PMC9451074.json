@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9451074",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Positive fortune telling enhances men's financial risk taking.",
+  "authors": "Tan X, van Prooijen JW, van Lange PAM.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0273233",
+  "pmcid": "PMC9451074",
+  "url": "https://europepmc.org/article/PMC/PMC9451074",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9451074/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "fortune_telling_china"
+  ],
+  "abstract": "Fortune telling is a widespread phenomenon, yet little is known about the extent to which people are affected by it-including those who consider themselves non-believers. The present research has investigated the power of a positive fortune telling outcome (vs. neutral vs. negative) on people's financial risk taking. In two online experiments (n1 = 252; n2 = 441), we consistently found that positive fortune telling enhanced financial risk taking particularly among men. Additionally, we used a real online gambling game in a lab setting (n3 = 193) and found that positive fortune telling enhanced the likelihood that college students gambled for money. Furthermore, a meta-analysis of these three studies demonstrated that the effect of positive fortune telling versus neutral fortune telling was significant for men, but virtually absent for women. Thus, positive fortune telling can yield increased financial risk taking in men, but not (or less so) in women.",
+  "raw_path": "01_raw/europepmc_xml/PMC9451074.xml",
+  "text_path": "02_text/europepmc/PMC9451074.txt",
+  "raw_bytes": 148844,
+  "text_chars": 59522,
+  "raw_sha256": "8769f0b9b1489c02146c671ea5313e14352f48442983455eb280337f344fa1e7",
+  "text_sha256": "609bbaf8282f12d17d549cab889c2fcf2952c1e546b8215c32211535e2e8a048",
+  "retrieved_at": "2026-10-26T12:53:41.431202+00:00"
+}

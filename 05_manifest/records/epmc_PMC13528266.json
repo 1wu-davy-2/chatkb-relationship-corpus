@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13528266",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Effects of Cognitive Behavioral Couple Therapy With Integrated Mindfulness on Mindful Attention, Depressive Symptoms, and Dyadic Adjustment in Low-Income Couples: A Pilot Randomized Clinical Trial.",
+  "authors": "Durães RSS, Vargas ZEP, Dias ACG, Lotufo-Neto F, Ramos RT, Serafim AP.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jmft.70169",
+  "pmcid": "PMC13528266",
+  "url": "https://europepmc.org/article/PMC/PMC13528266",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13528266/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair"
+  ],
+  "abstract": "Psychosocial distress can exacerbate marital conflict, maladjustment, and mental health vulnerability. This pilot randomized clinical trial examined cognitive-behavioral couple therapy (CBCT) integrated with mindfulness in low-income Brazilian couples (per-capita household income up to one minimum wage). Thirty-four participants (17 heterosexual couples) were randomized (independent computer-generated sequence) to an experimental (n = 16) or waitlist control group (n = 18). We assessed dyadic adjustment, mindful attention, marital social skills, and depressive symptoms (R-DAS, MAAS, IHSC, BDI-II) at baseline, post-treatment, and 3-month follow-up. The intervention was eight 80-min conjoint sessions plus daily home exercises. Time × group effects favored the experimental group for dyadic adjustment, mindful attention, and depressive symptoms (all p < 0.001, ηp2 = 0.20-0.37), but not marital social skills (p = 0.14). Because two outcomes differed at baseline, effects were confirmed with baseline- and dependence-adjusted sensitivity analyses. These findings provide preliminary evidence that CBCT with mindfulness may benefit disadvantaged couples.",
+  "raw_path": "01_raw/europepmc_xml/PMC13528266.xml",
+  "text_path": "02_text/europepmc/PMC13528266.txt",
+  "raw_bytes": 237336,
+  "text_chars": 63869,
+  "raw_sha256": "07318e2d43715701876b743bcba51d406307139c05a9e52eee7b259ebaba2d18",
+  "text_sha256": "28e04cb993ab76111b84aeca03e0001098d16f2b6a260a6434ce3ce506884ae7",
+  "retrieved_at": "2026-10-25T13:49:11.397026+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_27830",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Conversation : What to say and how to say it",
+  "gutenberg_id": "27830",
+  "url": "https://www.gutenberg.org/ebooks/27830",
+  "download_url": "https://www.gutenberg.org/cache/epub/27830/pg27830.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "conversation"
+  ],
+  "raw_path": "01_raw/gutenberg/27830.txt",
+  "text_path": "02_text/gutenberg/gut_27830_conversation_what_to_say_and_how_to_say.txt",
+  "raw_bytes": 158286,
+  "text_chars": 135045,
+  "text_sha256": "43a452fbf80bd269d76f5e5afeaeba99da973b1d4b74c915211bd74c5dc6c8d2",
+  "retrieved_at": "2026-10-26T12:54:57.453410+00:00"
+}

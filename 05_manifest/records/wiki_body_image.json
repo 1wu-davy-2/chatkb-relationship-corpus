@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_body_image",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "身體意象",
+  "requested_title": "身体形象",
+  "url": "https://zh.wikipedia.org/wiki/%E8%BA%AB%E9%AB%94%E6%84%8F%E8%B1%A1",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 身體意象",
+  "topics": [
+    "psychology",
+    "wellbeing"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/body_image.json",
+  "text_path": "02_text/zh_wikipedia/body_image.txt",
+  "raw_bytes": 9468,
+  "text_chars": 4517,
+  "text_sha256": "53487928a9afc3b12b6f38be3168c7d8007a55649b61e66625fdcc3a7557f0d3",
+  "retrieved_at": "2026-10-25T16:23:16.831454+00:00"
+}

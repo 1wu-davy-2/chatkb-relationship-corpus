@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9298911",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Helping couples achieve relationship success: A decade of progress in couple relationship education research and practice, 2010-2019.",
+  "authors": "Markman HJ, Hawkins AJ, Stanley SM, Halford WK, Rhoades G.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1111/jmft.12565",
+  "pmcid": "PMC9298911",
+  "url": "https://europepmc.org/article/PMC/PMC9298911",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9298911/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "relationship_education"
+  ],
+  "abstract": "This article systematically reviewed 34 rigorous evaluation studies of couple relationship education (CRE) programs from 2010 to 2019 that met the criteria for Level 1 well-established interventions. Significant advances include reaching more diverse and disadvantaged target populations with positive intervention effects on a wider range of outcomes beyond relationship quality, including physical and mental health, coparenting, and even child well-being, and evidence that high-risk couples often benefit the most. In addition, considerable progress has been made delivering effective online CRE, increasing services to individuals rather than to couples, and giving greater attention to youth and young adults to teach them principles and skills that may help them form healthy relationships. Ongoing challenges include expanding our understanding of program moderators and change mechanisms, attending to emerging everyday issues facing couples (e.g., healthy breaking ups, long-distance relationships) and gaining increased institutional support for CRE.",
+  "raw_path": "01_raw/europepmc_xml/PMC9298911.xml",
+  "text_path": "02_text/europepmc/PMC9298911.txt",
+  "raw_bytes": 207374,
+  "text_chars": 52492,
+  "raw_sha256": "81844d63a6171eb2fe478da227f2736c7fff2026c68527aaf209637b10375cdb",
+  "text_sha256": "7696de8de2b9517743d67cf825af466cfb4b014cd07c21c9c4214676c7c3b563",
+  "retrieved_at": "2026-10-25T15:43:20.901657+00:00"
+}

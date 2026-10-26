@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_courtship",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "求偶",
+  "requested_title": "求偶",
+  "url": "https://zh.wikipedia.org/wiki/%E6%B1%82%E5%81%B6",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "courtship",
+    "dating"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/courtship.json",
+  "text_path": "02_text/zh_wikipedia/courtship.txt",
+  "raw_bytes": 4470,
+  "text_chars": 1651,
+  "text_sha256": "e9d9c69b3bec030f5d58b4ced72426a43167b36b3334d590af8525b76740fe1d",
+  "retrieved_at": "2026-10-25T15:35:02.916655+00:00"
+}

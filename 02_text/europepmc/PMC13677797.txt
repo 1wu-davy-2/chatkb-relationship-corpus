@@ -1,0 +1,294 @@
+TITLE: Perpetrator alcohol use and intimate partner violence in high-income countries: A systematic review and meta-analysis.
+AUTHORS: Tanyos A, Willoughby B, Hopkins C, Alen GD, Jiang H, Jenkinson R, MacLean S, Laslett AM.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1111/add.70540
+PMCID: PMC13677797
+LICENSE: cc by-nc
+LICENSE_URL: https://creativecommons.org/licenses/by-nc/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC13677797
+TOPICS: dating_violence
+
+---
+
+ABSTRACT
+AbstractBackground and aimsHarmful alcohol use is commonly associated with intimate partner violence (IPV) perpetration. This systematic review estimated the association between harmful alcohol use and man‐to‐woman IPV (MWIPV) and woman‐to‐man IPV (WMIPV) in high‐income countries (HICs), using national and community studies, and compared associations by key moderators such as abuse type and alcohol measurement.MethodsSystematic review and multi‐level random‐effects meta‐analysis, registered in PROSPERO and reported in accordance with PRISMA guidelines. Eligible studies were peer‐reviewed and published in English. All included studies were conducted in HICs and included adults aged 18 years and older in heterosexual intimate relationships, drawn from national and community‐based studies. The exposure was perpetrator harmful alcohol use, including alcohol use disorder, dependence, binge/heavy drinking patterns and other harmful drinking measures. The outcomes were MWIPV and WMIPV models. Quality assessment of studies, moderator, subgroup and sensitivity analyses, heterogeneity using Cochran's Q test and I2 statistics, and influence diagnostics were also conducted.ResultsOut of 5879 database records identified from MEDLINE, CINAHL, ProQuest, PsycINFO, PubMed and EMBASE between January 2011 and January 2024, 3062 duplicates were removed. After screening titles and abstracts of 2817 studies, 247 underwent full‐text review. Backward citation searching identified five additional records, two of which were eligible. Overall, 21 studies, including 76 736 participants, were included in quality assessment and data extraction. Harmful alcohol use was significantly associated with increased odds of MWIPV and WMIPV [odds ratio (OR) = 1.41, 95% confidence interval (CI) = 1.19–1.67; OR = 1.15, 95% CI = 1.04–1.27, respectively]. Univariate moderator models showed that among men, those who have an alcohol use disorder, dependence or binge/heavy drinking patterns (not just drinking sometimes) were much more likely to be violent toward their partners. For women, the alcohol–IPV link was stronger in national‐sample studies than in community‐sample studies and was evident when harmful drinking was measured categorically, but not when alcohol consumption was measured continuously, such as the number of drinks per week.ConclusionsHarmful alcohol use appears to be associated with increased odds of man‐to‐woman and woman‐to‐man intimate partner violence perpetration in high‐income countries. The results highlight the importance of integrating alcohol‐focused strategies into intimate partner violence prevention and intervention efforts, particularly to reduce the prevalence and severity of man‐to‐woman intimate partner violence.
+
+BODY
+INTRODUCTION
+
+Intimate partner violence (IPV) is a prevalent public health issue affecting populations worldwide, including high‐income countries (HICs). It is defined as physical, sexual or psychological violence by a current or former intimate partner [1]. IPV occurs in same‐sex partner relationships and in partner relationships involving people who are gender diverse [2]. However, our focus here is on its occurrence/prevalence in heterosexual partnerships. Global estimates suggest that nearly one in three women aged 15 years and older have experienced physical and/or sexual IPV in their lifetime, with documented prevalence reaching 38% in some regions [3]. Men can also be victims of IPV [4]; however, there are few global prevalence estimates of this. A recent review from industrialised English‐speaking countries reported a pooled lifetime prevalence of experiencing physical IPV of 14.6% in women and 11.8% in men [5]. Alongside facing a higher prevalence of IPV than men, women tend to suffer more severe injuries and long‐term impacts [6]. These consequences include health and social impacts such as elevated rates of physical injury and mental health disorders, lost productivity, diminished overall life satisfaction and homicide [3, 7, 8]. These findings highlight the need to consider man‐to‐woman IPV (MWIPV) and woman‐to‐man IPV (WMIPV) as distinct forms of violence to understand and prevent partner violence.
+
+A growing body of research identifies ‘harmful alcohol use’, defined in a variety of ways, including alcohol use, alcohol use disorder, alcohol abuse, alcohol dependence, risky drinking, heavy (episodic) drinking, binge drinking, etc., as a key modifiable risk factor for MWIPV in many settings [9, 10]. Consistent with this, the World Health Organisation (WHO) recognises harmful alcohol use as a significant contributor to the risk for perpetration and victimisation of IPV [1]. Where possible, we also use the term harmful alcohol use. Previous meta‐analytic reviews found a small‐to‐moderate pooled effect size for the association between harmful alcohol use and physical MWIPV, with stronger effects observed in cases of severe alcohol involvement, such as alcohol use disorder and alcohol dependence [4, 11]. Other studies similarly found that heavy drinking was more strongly associated with IPV perpetration than occasional or moderate drinking [11, 12]. Harmful alcohol use is also associated with an increased frequency and severity of IPV [6, 9]. This association was evident across different study designs, including cross‐sectional [13, 14], longitudinal [15, 16] and experimental [17, 18] studies. For example, a cross‐sectional Australian study found that women were more likely than men to experience physical abuse, verbal abuse and fear from a partner under the influence of alcohol [19]. Similarly, in a multi‐country study, men who reported binge drinking (six or more drinks on one occasion at least monthly) had more than three times the odds of perpetrating IPV compared with abstainers [12]. Some of these studies also identified links between harmful alcohol use and WMIPV [12, 19].
+
+Few studies have examined the role of alcohol in WMIPV perpetration, with existing studies showing inconsistent findings. For example, in 2008 Foran and O′Leary’s meta‐analytic review found a small overall effect size for the association between alcohol use and female‐to‐male aggression [4]. National survey data from the USA indicate that about one‐third of IPV incidents involve alcohol, and cases of severe WMIPV (e.g. choking, beating, forced sex or threats/use of a knife or gun) are more likely to involve women’s drinking [20]. One study found that women’s ‘tough guise motives’ (wanting to appear intimidating) mediated the link between alcohol use and IPV aggression [21]. On the other hand, a daily diary study of college women found no day‐to‐day effect of alcohol on their reported perpetration of WMIPV [22]. Other studies on women’s experiences of victimisation have shown that women’s own alcohol consumption is associated with their experiences of victimisation (where men target intoxicated women), and as a response to experiences of violence [23]. A systematic review indicated that women’s alcohol use was temporally associated with an increased odds of being victims of MWIPV and, conversely, experiencing IPV was associated with increased odds of subsequent alcohol use [23]. However, the effect of a woman’s drinking on her victimisation risk may be confounded by her partner’s heavy drinking, as women who drink heavily often have partners who also drink heavily, and the partner’s intoxication can lead to violence. This could reflect scenarios where both partners drink, and conflict escalates mutually [24].
+
+The relationship between alcohol use and IPV is complex and influenced by both personal and socio‐cultural factors. Theories like alcohol myopia [25] and the I3 model [26] explain the proximal association between alcohol and aggression through lowering self‐control and increasing aggression during conflict, especially when strong emotions or relationship stress are present. However, rather than violence being simply an effect of alcohol, the alcohol–IPV link can be explained by intersecting factors across the socio‐ecological model. These include individual drinking (often men’s), relationship power and control, community norms, and social determinants such as poverty and gender inequality [27, 28, 29, 30, 31]. At the community level, norms influencing men’s drinking, the social tolerance of alcohol‐related partner aggression, limited support services for women (e.g. health, legal and social services), and high alcohol outlet density have been identified as contextual factors that can increase alcohol‐related harms to women and children [27].
+
+Although prior reviews demonstrate an overall association between alcohol use and MWIPV and WMIPV, important gaps remain. Existing studies have often pooled diverse types of violence in clinical and community groups, including samples that show high rates of MWIPV (e.g. men in substance abuse treatment or domestic violence programs) [4, 32]. In addition, previous meta‐analyses have focused on physical violence and/or sexual violence, and not the wider range of abusive behaviours, including aggression and coercive control [33]. To address these gaps, this meta‐analysis examines the association between harmful alcohol use and MWIPV and WMIPV in general populations in HICs, focusing on the drinking of the perpetrator via self and partner report, as measured using different patterns of alcohol use, investigating temporal associations whenever possible. We also explore whether these associations vary by the type of abuse and the way alcohol use is measured.
+
+METHODS
+
+Search strategy
+
+This systematic review used the Preferred Reporting Items for Systematic Reviews and Meta‐Analyses (PRISMA) [34] and is registered with PROSPERO (CRD42022287648). Six major databases (MEDLINE, CINAHL, ProQuest, PsycINFO, PubMed and EMBASE) were searched for studies published from 2011 to 2024. PubMed was used to capture records not indexed in MEDLINE. The year 2011 was selected as the starting point to update the evidence beyond previously published meta‐analyses [4, 11, 23]. Searches were conducted on 24 October 2021 and were updated on 5 April 2022 and 22 January 2024 before performing the final analyses. Backward citation searching was conducted by screening the reference lists of included studies. A senior librarian provided advice on search terms. Three concepts were used for the search strategy: alcohol use, intimate partner violence and study type. MeSH terms and keywords for each concept were applied with Boolean operators (AND, OR) to structure the search strategy (Method S1; Tables S1–S5).
+
+Inclusion and exclusion criteria
+
+Eligible studies examined harmful alcohol use by the perpetrator as the exposure and IPV as the outcome. Harmful alcohol use included validated measures of consumption or harmful use (e.g. frequency/quantity, heavy episodic drinking or alcohol abuse/dependence assessed via diagnostic criteria). IPV outcomes included physical, sexual, psychological and controlling behaviours assessed using validated instruments (e.g. Conflict Tactics Scale, CTS). Studies fulfilling the following criteria were included: (i) peer‐reviewed journal articles; (ii) published in English; (iii) had observational quantitative study designs, including cross‐sectional and longitudinal designs; (iv) included adults (18 years and older) in heterosexual relationships; (v) conducted at population/community level in HICs according to the World Bank classification in 2022 [35, 36] (studies were limited to HICs to improve contextual comparability, given international differences in alcohol consumption patterns, policy contexts, social norms and IPV measurement/reporting practices [37, 38, 39]); (vi) reported harmful alcohol use by the IPV perpetrator in their model, whether assessed through self‐report or partner report; and (vii) reported general associations between alcohol and IPV, not event‐level (proximal) associations under the influence of alcohol.
+
+Studies were excluded if they: (i) were dissertations or non‐empirical (e.g. editorials, commentaries, simulation studies, case studies and conference papers); (ii) examined dating violence, as these studies generally focus on adolescents, young adults or college students [40], and involve different relationship contexts, developmental stages and measurement approaches from studies of adult partner or ex‐partner violence [41, 42]; (iii) involved same‐sex couples (IPV in same‐sex relationships may have different dynamics and forms of abuse, including identity‐related forms of coercion and control [43, 44], so should be examined using a separate conceptual and coding framework [45]; in addition, the small and heterogeneous evidence base on alcohol use and IPV in same‐sex partnerships would have limited any meaningful meta‐analysis and risked unstable pooled estimates); (iv) focused on other specific populations, such as pregnant women and clinical and emergency department samples; and (v) examined the victim’s drinking only (victim alcohol use may represent different mechanisms, including coping with IPV, trauma‐related drinking, shared drinking situations or increased vulnerability to victimisation; combining victim drinking with perpetrator drinking would reduce the comparability and risk victim‐blaming interpretations [23, 46]).
+
+Study selection
+
+The systematic review process was managed in Covidence [47]. Duplicates were removed by Covidence and manual checking. Independent title/abstract screening and full‐text evaluation were conducted by at least two reviewers (AT, BW, CH, RD—research officer), with discrepancies resolved by a third reviewer or team consensus (AL, HJ, RJ). Studies that appeared to meet the inclusion criteria but were excluded at full‐text review are cited and explained in Text S1.
+
+Data extraction
+
+Two reviewers independently extracted data using a PRISMA 2020‐guided template. Extracted information included: (i) study characteristics, including title, author(s), publication year, country, study period, study design and national or community level samples; (ii) sample and recruitment including sampling strategy, sample size, gender composition, age, relationship type and relationship duration; (iii) alcohol exposure (via assessment tools), alcohol items and author’s specific definition of alcohol use (e.g. binge, heavy, problematic drinking); (iv) IPV outcome details, including measurement tool, number of items, abuse type, IPV reference period, direction of violence and author‐specific definition of IPV; (v) effect estimates as adjusted ORs and 95% CIs, B‐coefficients, standard errors, P‐values and z‐scores (if multiple models were reported, we extracted data from the most fully adjusted model); and (vi) covariates, limitations, policy or research implications were recorded.
+
+Harmful alcohol use was coded as: (i) problematic alcohol use; (ii) alcohol abuse/dependence, which was assessed through several tools (e.g. Alcohol Use Disorders Identification Test, AUDIT); (iii) frequency of alcohol use; (iv) frequency quantity; and (v) binge/heavy drinking (e.g. frequency of intoxication, binge drinking). IPV type was coded as: (i) physical abuse; (ii) sexual/physical abuse, including sexual and physical and/or sexual abuse; and (iii) psychological/coercive abuse, including psychological, financial, social‐psychological abuse and controlling behaviour. When studies reported multiple alcohol measures or IPV outcomes, all relevant effect sizes were extracted and assigned the same study ID.
+
+Quality assessment
+
+We used the Newcastle–Ottawa Scale (NOS) adapted for cross‐sectional studies and cohort designs to assess the risk of bias [48]. This tool assesses three domains: selection, comparability and outcome. The tool emphasised methodological rigour, control of confounding, validity of outcome measurement and statistical analysis (Methods S2 and S3). A template was created and circulated through Covidence to guide reviewers. Two reviewers independently assessed each study and assigned a quality score, ranging from 0 to 9: scores of 7–9 indicated high quality, 4–6 indicated a high risk of bias and 0–3 indicated a very high risk of bias. Discrepancies were resolved by a third reviewer (Tables S6 and S7).
+
+Analytical plan
+
+We conducted a multi‐level random‐effects meta‐analysis to quantitatively synthesise the association between harmful alcohol use and IPV. A multi‐level model was used because several studies contributed more than one relevant effect size (e.g. estimates for different IPV outcomes, alcohol measures or participant subgroups). This approach allowed these effect sizes to be retained while accounting for their statistical dependency within the same study or sample. Because most eligible studies reported odds ratios (ORs), we extracted adjusted odds ratios (aORs) and their 95% confidence intervals (95% CIs) as the primary measure of association and converted them to the log scale with corresponding standard errors for pooling. Other reported estimates (e.g. B‐coefficients or relative risks) were converted to OR approximations using appropriate formulas. Heterogeneity was assessed using Cochran’s Q‐test [49] and the I 2 statistics [50]. Outliers were examined to identify studies having a significant impact on the overall estimate, followed by influence diagnostics using Cook’s distance, dfbetas (difference in betas) and hat values [51, 52].
+
+Further moderator and subgroup analyses were performed where heterogeneity was detected (I 2 > 75%) [53], stratifying studies by alcohol use (e.g. frequency of drinking, abuse/dependence) and type of abuse (e.g. physical, psychological) as well as gender, sample type and other study characteristics to explore whether the association varied by these different moderators. Additionally, the exposure variable (harmful alcohol use) was operationalised differently across studies (either categorically or continuously), and the information required to dichotomise continuous variables (e.g. means and standard deviations) [53, 54] was unavailable for most studies. Therefore, following prior meta‐analytic approaches [4, 55], subgroup analyses were conducted to assess whether effect sizes differed by alcohol variable type (categorical vs continuous). Given the relatively small number of included studies, we report the univariate models of moderator and subgroup analyses.
+
+Sensitivity analyses were performed by excluding studies using path analysis, and influential studies were detected as outliers by diagnostic tests to evaluate the robustness of pooled estimates. As an additional sensitivity analysis, the MWIPV and WMIPV data sets were combined at the effect‐size level, and a single three‐level meta‐analytic model was fitted to estimate the overall association across IPV directions. Funnel plots at both the effect size level and the study level, accounting for the multi‐level structure of the data and the multi‐level Egger’s regression test [56, 57, 58], were used to assess potential publication bias. The code for funnel plots was adapted from Fernández‐Castilla et al. [59]. Analyses were performed in R 4.4.3 [60].
+
+RESULTS
+
+Search results
+
+We identified 5879 studies through database searches, which were imported into EndNote and then into Covidence. A total of 3062 duplicates were removed, 2720 via EndNote and 342 in Covidence (191 automatically and 151 manually). Subsequently, 2817 records were screened by title and abstract, and 247 full‐text articles were assessed for eligibility. Of these, 19 studies met the inclusion criteria and were included in the meta‐analysis. Additionally, backward citation searching identified five additional records; after full‐text assessment, two met the eligibility criteria and were included. Overall, 21 studies were included in the review, with 18 contributing to the MWIPV analysis and 13 contributing to the WMIPV analysis (Figure 1).
+
+PRISMA flow chart for studies examining the association between harmful alcohol use and intimate partner violence (IPV).
+
+Characteristics of the studies
+
+The characteristics of the included studies are described in Table 1. Overall, 16 different samples with a total of 76 736 participants were included. Studies were conducted predominantly in the USA (n = 19), followed by the UK (n = 2), Australia (n = 1), Germany (n = 1), New Zealand (n = 1) and Spain (n = 1). The majority used a cross‐sectional design or involved cross‐sectional analysis of a specific wave of a longitudinal study (n = 19 studies). Two studies were longitudinal. Studies examined MWIPV and/or WMIPV. The majority included adult participants in marital or cohabiting relationships, and some included unmarried or former partners. Participants were aged between 18 and 65 years old, and their mean ages ranged from 27 to 42 years.
+
+Characteristics of the studies included in the meta‐analysis examining the association between harmful alcohol use and intimate partner violence (IPV).
+
+MWIPV
+
+WMIPV
+
+n = 25 778
+
+11 850 men
+
+13 928 women
+
+Physical or sexual
+
+Psychological
+
+Controlling behaviours
+
+648 African American
+
+569 Latina
+
+5017 European American
+
+354 other
+
+18–64
+
+41 (12)
+
+Frequency of getting drunk
+
+Heavy episodic drinking
+
+Individual frequency and quantity questions
+
+Physical
+
+CTS2
+
+General Social Survey on Victimisation Canada
+
+Sexual
+
+Financial
+
+Social‐psychological
+
+18–50
+
+41.9 (5.5)
+
+619 respondents
+
+194 male
+
+425 female (68.7%)
+
+18–65
+
+36.67 (8.93)
+
+Sexual Experiences Survey
+
+25 631 total
+
+11 782 male
+
+13 843 female
+
+18–35
+
+27.07 (5.28)
+
+13 238 men
+
+15 488 women
+
+Individual items for types of IPV
+
+Frequency of aggressive acts and possible injuries
+
+950 women
+
+704 50–65 years
+
+246 66–86 years
+
+50–65
+
+66–86
+
+Frequency and quantity questions
+
+Heavy drinking
+
+18–45
+
+36.90 (5.80)
+
+Abbreviations: ADS = Alcohol Dependence Scale; AUDADIS = Alcohol Use Disorder and Associated Disabilities Interview Schedule; AUDIT = Alcohol Use Disorders Identification Test; AUDIT‐C = Alcohol Use Disorders Identification Test—Consumption; CTS = Conflict Tactics Scale; IPV = intimate partner violence; MWIPV = man‐to‐woman intimate partner violence; CTS2 = Revised Conflict Tactics Scale; WMIPV = woman‐to‐man intimate partner violence.
+
+O'Leary et al. (2014) examined both MWIPV and WMIPV; however, only the MWIPV estimate was included because the WMIPV model did not report an adjusted OR for alcohol use.
+
+Alcohol exposure was measured using validated instruments such as AUDIT (n = 5), AUDIT—consumption (AUDIT‐C; n = 1), Alcohol Use Disorder and Associated Disabilities Interview Schedule (AUDADIS; n = 2), Alcohol Dependence Scale (ADS; n = 1) or through specific frequency or frequency–quantity measures (binge or heavy drinking, frequency of getting drunk). IPV outcomes were also assessed using validated measures such as the CTS and its revised forms (n = 14), or individual items about physical, sexual, psychological or controlling behaviours (Table 1).
+
+Association between harmful alcohol use and MWIPV
+
+A total of 33 effect sizes from 18 unique studies (n = 40 172; 30 729 men and 9443 women) were included in a multi‐level random‐effects meta‐analysis of the association between men’s harmful alcohol use and IPV perpetration against women. Men with higher levels of harmful alcohol use had significantly greater odds of perpetrating IPV compared with those with lower or no use (pooled OR = 1.41, 95% CI = 1.19–1.67). Substantial heterogeneity was observed among studies [I 2 = 99.38%; Q(32) = 239.00; P < 0.001] (Figure 2). Variance decomposition showed that most variability was attributable to heterogeneity rather than sampling error, with the majority (I 2 level3 = 65.76%; τ2 = 0.067) arising from between‐study differences and, to a lesser extent, from within‐study differences (I 2 level2 = 33.62%; τ2 = 0.0341) (Figure S1). Funnel plots at both effect size levels and study levels showed slight asymmetry, suggesting a small‐study effect. This was supported statistically by Egger’s multi‐level regression test [F(1,31) = 9.37, P = 0.005] (Figures S2 and S3). Three potential outliers were identified [61, 62, 67], but after an examination of these studies, they did not have any deviation from the rest of the sample, nor did they impact the pooled OR; they were retained in the final analysis (Figures S4 and S5).
+
+Forest plot: association between men’s harmful alcohol use and man‐to‐woman intimate partner violence (MWIPV).
+
+Univariate moderator analyses showed that abuse type significantly moderated the association between men’s harmful alcohol use and MWIPV [F(2,30) = 11.94, P = 0.000], indicating a significant difference between the subgroups. Subgroup analysis showed that the association varied between the abuse types, with the strongest pooled effect observed for sexual/physical abuse (OR = 2.36, 95% CI = 1.73–3.21), followed by psychological/coercive control (OR = 1.66, 95% CI = 1.29–2.13) and physical abuse (OR = 1.17, 95% CI = 1.06–1.30). Alcohol measure and alcohol variable type (continuous vs categorical) were also significant moderators [F(3,14) = 5.17, P = 0.013; F(1,16) = 13.67, P = 0.002, respectively]. Significant associations were observed for abuse/dependence (OR = 1.92, 95% CI = 1.42–2.59) and binge/heavy drinking (OR = 1.53, 95% CI = 1.26–1.85) measures, whereas frequency of drinking or problem drinking measures were not significant (Table 2). Categorical alcohol variables showed a stronger association with MWIPV (OR = 1.71, 95% CI = 1.42–2.06) than continuous alcohol measures.
+
+Results of moderator and subgroup analyses for the association between harmful alcohol use and MWIPV and WMIPV meta‐analyses.
+
+Abbreviations: k = number of studies; ES = number of effect sizes; MWIPV = man‐to‐woman intimate partner violence; WMIPV = woman‐to‐man intimate partner violence.
+
+Country, sample size and the number of IPV and alcohol items were tested as moderators in both models but were not statistically significant, and therefore are not presented in the table.
+
+Men self‐reporting perpetration against women versus women reporting partner perpetration or experiencing violence from a male partner.
+
+Subgroup pooled ORs (95% CIs) were obtained from multi‐level random‐effects meta‐regression using dummy‐coded moderators without an intercept [e.g. mods = ~ factor(abuse_type) – 1], providing separate estimates for each subgroup.
+
+Omnibus moderation was tested using multi‐level meta‐regression models with an intercept [e.g. mods = ~ factor(abuse_type)], with moderator effects evaluated using F‐tests with Satterthwaite degrees of freedom [81].
+
+All participants in the included WMIPV studies were women, so gender was not included as a moderator.
+
+Bold values indicate statistically significant moderators.
+
+In contrast, study design [cross‐sectional vs longitudinal; F(1,16) = 0.72, P = 0.409], population gender [corresponded to reporting source in the MWIPV; men self‐reporting perpetration vs women reporting partner perpetration; F(1,31) = 0.38, P = 0.541] were not significant moderators of the association. Age could not be examined as a moderator because studies reported it in different ways (e.g. means, ranges or open‐ended categories such as 18+ years). Although population gender was not a significant moderator, subgroup analyses showed slightly higher pooled estimates in studies that included female participants (OR = 1.52, 95% CI = 1.13–2.05) than those that included male participants (OR = 1.37, 95% CI: 1.22–1.66).
+
+Sensitivity analyses showed that excluding two longitudinal studies yielded a slightly smaller but significant pooled OR for cross‐sectional studies (OR = 1.38, 95% CI = 1.14–1.67), while the overall OR for longitudinal studies was non‐significant. Excluding two studies that used path analytic models produced a significant and slightly increased OR (OR = 1.47, 95% CI = 1.21–1.78).
+
+Association between women’s harmful alcohol use and WMIPV
+
+A multi‐level random‐effect meta‐analysis of 25 effect sizes from 13 studies (n = 36 564 women) showed that women’s alcohol use was associated with a significantly increased odds of WMIPV perpetration (OR = 1.15, 95% CI = 1.04–1.27, P = 0.01). Heterogeneity was high [Q(24) = 145.73, P < 0.0001, I 2 = 99.24%], with most variance attributable to between‐study differences (I 2 level3 = 89.45%; τ2 = 0.02) and a smaller proportion associated with within‐study variation (I 2 level2 = 9.79%; τ2 = 0.002) (Figures 3 and S6). Funnel plots showed asymmetry, suggesting small‐study effects. This was supported statistically by Egger’s multi‐level test [F(1,23) = 22.03, P < 0.0001] (Figures S7 and S8). Three potential outliers were identified [64, 66, 71], but did not influence the pooled estimate and were retained (Figures S9 and S10).
+
+Forest plot: association between women’s harmful alcohol use and woman‐to‐man intimate partner violence (WMIPV).
+
+Moderator analyses (Table 2) showed that sample type (national surveys vs community studies) and alcohol variable type (categorical vs continuous) significantly moderated the association between women’s harmful alcohol use and WMIPV [F(1,11) = 7.02, P = 0.023; F(1,11) = 22.42, P = 0.001, respectively]. Stronger associations were observed in national surveys compared with community studies (OR = 1.32, 95% CI = 1.13–1.53, P = 0.002) and when alcohol was measured categorically rather than continuously (OR = 1.52, 95% CI = 1.29–1.80, P = 0.000). Subgroup analyses showed significant pooled effects for physical abuse (OR = 1.13, 95% CI = 1.03–1.22, P = 0.008), sexual/physical abuse (OR = 1.55, 95% CI = 1.12–2.14, P = 0.011) and alcohol abuse/dependence (OR = 1.35, 95% CI = 1.05–1.75, P = 0.027) measures. Sensitivity analysis excluding the single longitudinal study [74] slightly decreased the pooled estimate (OR = 1.12, 95% CI = 1.03–1.22) compared with the full model, while excluding the three studies [21, 70, 77] that employed path analysis slightly increased it (OR = 1.23, 95% CI = 1.05–1.43).
+
+Combined three‐level meta‐analysis including MWIPV and WMIPV
+
+As a sensitivity analysis, a combined three‐level meta‐analysis including both MWIPV and WMIPV effect sizes was conducted. The overall combined estimate was OR = 1.36, 95% CI = 1.19–1.56, P = 0.0001.
+
+DISCUSSION
+
+In this systematic review and meta‐analysis, we examined the association between harmful alcohol use and IPV perpetration in community and national surveys in HICs. The results showed a significant association that varied by the direction of IPV, with different patterns observed for MWIPV and WMIPV. We found that the pooled estimate was higher for men’s harmful alcohol use and MWIPV (OR = 1.41, 95% CI = 1.19–1.67) than for women’s harmful alcohol use and WMIPV (OR = 1.15, 95% CI = 1.04–1.27). These results are consistent with previous meta‐analyses, which found a small‐to‐moderate association between alcohol use/abuse and male‐to‐female partner violence, and a small association between alcohol use/abuse and female‐to‐male partner violence [4, 11, 82]. Similarly, a meta‐analysis examining victimisation among men and women identified ‘alcohol misuse’ as a risk marker, with slightly larger effect sizes for women than for men [83]. In addition, our pooled estimates align with qualitative evidence on women’s lived experiences from multiple countries that describe alcohol as a catalyst of conflict, jealousy and coercive control [84]. These results suggest that although alcohol consumption contributes to IPV risk for both men and women, the association is higher in the context of men’s drinking and women’s experiences of IPV.
+
+Notably, our effect size estimates are substantially smaller than those reported in one previous meta‐analysis, which found an overall OR of 4.57 for the association between men’s alcohol use and IPV perpetration [32]. This might reflect the inclusion of high‐risk and clinical samples and case–control designs in earlier reviews, in contrast with our review, which included national surveys and community samples only, and focused on adjusted effect estimates. This suggests that, when the association between alcohol use and IPV is estimated using population‐based evidence rather than higher‐risk or treatment‐based samples, the association may be smaller but remains statistically significant. This is an important contribution of the present review, as it provides a more conservative and potentially more generalisable estimate of the association between harmful alcohol use and IPV perpetration in HICs.
+
+Our univariate moderator analyses revealed that alcohol measure was a significant moderator for the alcohol–MWIPV link, and this association was significantly greater for measures of alcohol abuse/dependence and heavy/binge drinking than for frequency of drinking and problem drinking measures. In contrast to our study, Cafferky et al. found that problematic alcohol use measures, including abuse, dependence and drinking problems, were statistically similar correlates of IPV perpetration to alcohol consumption measures, such as alcohol use or frequency [11]. Consistent with our findings, Foran and O′Leary’s meta‐analysis showed that associations varied according to the alcohol measure used, with the largest effect sizes observed in studies examining alcohol ‘abuse’/dependence, while studies looking at drinking frequency tended to produce smaller effect sizes [4]. Similarly, Rothman et al.’s meta‐analysis reported the strongest association between problem alcohol use, including alcohol use disorder/dependence measures, and dating violence perpetration, followed by heavy episodic drinking, with the weakest association found for the drinking frequency/quantity measures [85]. Frequency measures might reflect more social drinking and therefore reduce the association. Overall, our moderator analysis showed that the alcohol–IPV association can vary depending on how alcohol use is measured and defined, which is an important point for researchers, clinicians and policymakers to consider.
+
+In the WMIPV moderator models, both sample type (national vs community studies) and type of alcohol variable (continuous vs categorical) significantly moderated the association between alcohol and women’s perpetration of violence. Specifically, alcohol–IPV associations were significantly stronger in national surveys than in community studies and when alcohol was measured categorically rather than continuously. One explanation is that national surveys often use an anonymous private self‐report mode, which might promote the disclosure of self‐perpetration of WMIPV by women compared with the reviewer‐administered format [86]. Moreover, the large, weighted samples in national surveys might have greater power to detect the small associations between harmful alcohol use and women’s perpetration of violence. Regarding the significance of the categorical measures in the alcohol–WMIPV model, which is consistent with a non‐linear alcohol–IPV relationship [87], clear cut‐off thresholds of alcohol abuse/dependence or binge/heavy drinking might better explain associations because they identify those who drink at high‐risk levels, while a linear continuous score combines high‐ and low‐risk drinking and therefore might weaken the alcohol–IPV associations [87]. Another possible methodological explanation is that some included studies may have used inadequate reference groups for categorical exposures (e.g. pooling former and never drinkers), which might bias the results and increase the effect sizes [88, 89]. These interpretations warrant caution, and future research should consider these methodological issues.
+
+Strengths
+
+One of the strengths of this study is that it measured the general association between patterns of harmful alcohol use and IPV perpetration, with both measured mostly over the past year. This approach captures long‐term behavioural patterns rather than event‐level associations that only reflect acute pharmacological effects of intoxication. We used multi‐level random‐effects meta‐analyses to account for multiple effects per study. Furthermore, restricting inclusion to general population samples (national surveys and community studies) strengthens the external validity and avoids the selection biases common in clinical or treatment samples. Our study also covers various types of abuse, including psychological and controlling behaviours as well as physical or sexual violence, thus highlighting findings reviews that focus on one type of abuse might miss.
+
+Limitations
+
+This review has several limitations. First, although we excluded dating‐only samples, many included studies examined several types of relationship statuses (married, cohabitating, boy/girlfriends, dating, in romantic relationship and former partners). Therefore, we could not analyse relationship subgroups because we were limited by how studies reported their data. Second, the alcohol use variable was measured differently in the included studies as a categorical or continuous measure, and we combined both in our main meta‐analyses. However, we conducted moderator analyses to assess the impact of different alcohol operationalisations on the observed associations. Third, participant age could not be examined as a moderator owing to inconsistencies in reporting (as means, ranges or open‐ended categories). Future research would benefit from more standardised reporting of demographic characteristics to allow an exploration of age‐related differences.
+
+Fourth, alcohol use was reported differently across the included studies, using either self‐reported or partner‐reported drinking. Self‐reported drinking may be affected by recall error, stigma, social desirability bias or under‐reporting, particularly when linked to IPV perpetration. Partner‐reported drinking may capture alcohol‐related harm that the person causing harm may not disclose, but partners may not know the exact quantity, frequency or pattern of drinking, especially when drinking occurs outside their presence [90]. However, in the MWIPV model, population gender corresponded to reporting source, and this was not a statistically significant moderator, suggesting that the association did not differ between studies based on self‐reported versus partner‐reported alcohol use or alcohol‐related harm. Fifth, another limitation concerns variation in recall periods for both the alcohol exposure and IPV outcome measures. Although many studies used past 12‐month measures, recall periods were not fully consistent across studies. Alcohol use was sometimes assessed using monthly drinking patterns or unclear time frames, while IPV outcomes were assessed using past 12‐month, past 5‐year, lifetime, ever, mixed or unclear recall periods. These differences may have reduced comparability across studies and contributed to heterogeneity. Finally, the search was conducted up to January 2024; therefore, studies published after this date were not included.
+
+Implications
+
+Future research on alcohol use and IPV should prioritise measures of heavy episodic drinking and alcohol abuse/dependence, as these measures showed a stronger impact than frequency alone. Research should also quantitatively address less studied IPV outcomes, such as psychological, financial and controlling behaviours for women and men [84]. The significant overall association between harmful alcohol use and men’s and women’s perpetration of violence underscores the need to integrate alcohol reduction strategies in IPV prevention policies and behaviour change programmes. In addition, there is a need to develop, implement and evaluate gender‐specific prevention strategies that address harmful alcohol use. It is recommended that practitioners screen for harmful alcohol use in IPV services and for IPV in alcohol and other drugs (AOD) settings.
+
+CONCLUSION
+
+This review shows a significant association between men’s and women’s harmful alcohol use and MWIPV and WMIPV, with a larger pooled effect size for men’s alcohol use and IPV perpetration than for women’s alcohol use and IPV perpetration. The effects were stronger when alcohol use was measured as binge/heavy drinking or ‘abuse’/dependence, rather than via a frequency measure. Policy and practice should aim to integrate alcohol‐focused interventions into IPV prevention strategies, particularly to reduce the prevalence and severity of MWIPV. Future research should prioritise binge/heavy drinking and abuse/dependence measures and address the less studied abuse types, such as psychological, financial and controlling behaviours.
+
+AUTHOR CONTRIBUTIONS
+
+Amany Tanyos: Conceptualization; investigation; methodology; software; formal analysis; data curation; writing—review and editing; visualization; writing—original draft; project administration; validation. Bree Willoughby: Writing—review and editing; investigation; software; validation; formal analysis. Cassandra Hopkins: Writing—review and editing; investigation; software; validation. Gedefaw Diress Alen: Investigation; writing—review and editing; software; data curation; formal analysis; validation. Heng Jiang: Conceptualization; investigation; writing—review and editing; methodology; validation; supervision; software. Rebecca Jenkinson: Conceptualization; investigation; writing—review and editing; validation; supervision; methodology. Sarah MacLean: Conceptualization; investigation; writing—review and editing; validation; methodology; supervision. Anne‐Marie Laslett: Conceptualization; investigation; funding acquisition; writing—review and editing; validation; methodology; supervision; resources; project administration.
+
+DECLARATION OF INTERESTS
+
+None.
+
+Supporting information
+
+Figure S1. Variance decomposition of heterogeneity in the multi‐level meta‐analysis of man‐to‐woman intimate partner violence (MWIPV). Figure S2. Multi‐level funnel plot of all effect sizes for the alcohol and man‐to‐woman intimate partner violence (MWIPV) model. Figure S3. Study‐level multi‐level funnel plot for the alcohol and man‐to‐woman intimate partner violence (MWIPV) model. Figure S4. Distribution of effect sizes with identified outliers (y i = log OR). Figure S5. Cook’s distance plot for influence diagnostics in the multi‐level model of alcohol and man‐to‐woman intimate partner violence (MWIPV). Figure S6. Variance decomposition of heterogeneity in the multi‐level meta‐analysis for the alcohol and woman‐to‐man intimate partner violence (WMIPV) model. Figure S7. Multi‐level funnel plot of all effect sizes for the alcohol and woman‐to‐man intimate partner violence (WMIPV) model. Figure S8. Study‐level multi‐level funnel plot of the alcohol and woman‐to‐man intimate partner violence (WMIPV) model. Figure S9. Distribution of effect sizes with identified outliers of the alcohol and woman‐to‐man intimate partner violence (WMIPV) model (y i = log OR). Figure S10. Cook’s distance plot for influence diagnostics in the multi‐level model of alcohol and woman‐to‐man intimate partner violence (WMIPV). Table S1. Medline database. Table S2. CINHAL database. Table S3. PubMed database. Table S4. EMBASE database. Table S5. PsycINFO database. Table S6. Quality assessment of cross‐sectional studies. Table S7. Quality assessment of cohort/longitudinal studies.
+
+Figure S1. Variance decomposition of heterogeneity in the multi‐level meta‐analysis of man‐to‐woman intimate partner violence (MWIPV).
+
+Figure S2. Multi‐level funnel plot of all effect sizes for the alcohol and man‐to‐woman intimate partner violence (MWIPV) model.
+
+Figure S3. Study‐level multi‐level funnel plot for the alcohol and man‐to‐woman intimate partner violence (MWIPV) model.
+
+Figure S4. Distribution of effect sizes with identified outliers (y i = log OR).
+
+Figure S5. Cook’s distance plot for influence diagnostics in the multi‐level model of alcohol and man‐to‐woman intimate partner violence (MWIPV).
+
+Figure S6. Variance decomposition of heterogeneity in the multi‐level meta‐analysis for the alcohol and woman‐to‐man intimate partner violence (WMIPV) model.
+
+Figure S7. Multi‐level funnel plot of all effect sizes for the alcohol and woman‐to‐man intimate partner violence (WMIPV) model.
+
+Figure S8. Study‐level multi‐level funnel plot of the alcohol and woman‐to‐man intimate partner violence (WMIPV) model.
+
+Figure S9. Distribution of effect sizes with identified outliers of the alcohol and woman‐to‐man intimate partner violence (WMIPV) model (y i = log OR).
+
+Figure S10. Cook’s distance plot for influence diagnostics in the multi‐level model of alcohol and woman‐to‐man intimate partner violence (WMIPV).
+
+Table S1. Medline database.
+
+Table S2. CINHAL database.
+
+Table S3. PubMed database.
+
+Table S4. EMBASE database.
+
+Table S5. PsycINFO database.
+
+Table S6. Quality assessment of cross‐sectional studies.
+
+Table S7. Quality assessment of cohort/longitudinal studies.

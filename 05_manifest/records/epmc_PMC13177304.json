@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13177304",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Associations between complex post-traumatic stress disorder and intimate relationship quality: the parallel mediating roles of mentalization and playfulness.",
+  "authors": "Tan SX, Li H, Chu C, Tan JW.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1779202",
+  "pmcid": "PMC13177304",
+  "url": "https://europepmc.org/article/PMC/PMC13177304",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13177304/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "humor_playfulness"
+  ],
+  "abstract": "Background The association between Complex Post-Traumatic Stress Disorder (CPTSD) and intimate relationship quality remains underexplored, particularly regarding protective factors that may buffer against trauma-related impairments. Methods A total of 3,250 participants completed self-report surveys assessing CPTSD symptoms, intimate relationship quality, mentalization, and playfulness, with 12.8% ( N = 416) meeting criteria for probable CPTSD. A dynamic network heatmap and Mantel-based network analysis revealed distinct connectivity patterns. Structural equation modeling (SEM) was used to examine the relationships among the variables. Results Our study indicates that CPTSD symptoms formed a negatively correlated network with relationship quality indicators. Structural equation modeling further showed that CPTSD was negatively associated with relationship quality, mentalization, and playfulness; while mentalization and playfulness positively associated with relationship quality. Mentalization and playfulness served as parallel mediators in the association between CPTSD and relationship quality. Conclusions The present study is the first to reveal the dual mediating roles of mentalization and playfulness in the association between CPTSD and intimate relationship quality. Our findings suggest that enhancing mentalization and playfulness may serve as effective intervention strategies for improving relationship quality among individuals exhibiting symptoms of CPTSD.",
+  "raw_path": "01_raw/europepmc_xml/PMC13177304.xml",
+  "text_path": "02_text/europepmc/PMC13177304.txt",
+  "raw_bytes": 166752,
+  "text_chars": 42605,
+  "raw_sha256": "fdfdc2c8f94efaed39d8f0b1c227e538f78176eeb33a2b40869ce2df0979c3af",
+  "text_sha256": "27c1d6d34f6c986dc02879e6b7e349073a679058b40a16fb025915008a28089d",
+  "retrieved_at": "2026-10-25T15:26:36.070453+00:00"
+}

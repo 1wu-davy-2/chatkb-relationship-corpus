@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13464354",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A latent profile analysis of exercise intensity preference and tolerance: associations with exercise affective experiences and physical activity.",
+  "authors": "Cai Y, Dai J, Gan Y, Zhao Z.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-04953-0",
+  "pmcid": "PMC13464354",
+  "url": "https://europepmc.org/article/PMC/PMC13464354",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13464354/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Objective Low levels of physical activity among university students have become a persistent public health concern. Although regular exercise is well known to benefit both physical and mental health, substantial individual differences remain in exercise affective experiences and participation behaviors. Prior research has not sufficiently clarified how university students differ in their exercise intensity preference and tolerance, nor how such differences relate to exercise affective experiences and physical activity. This study aimed to identify latent profiles of exercise intensity preference and tolerance among university students and to examine differences across profiles in physical activity levels and exercise affective experiences. Methods A total of 1,274 university students (Mage = 19.5 years, SD = 1.21) from a university in China were recruited. Participants completed online self-report measures assessing exercise intensity preference and tolerance, physical activity levels, and exercise affective experiences. Results Five latent profiles were identified based on the Preference for and Tolerance of Exercise Intensity Questionnaire: Low-Intensity Rejection Type (LIRT, 4.5%), High-Intensity Inclined Type (HIIT, 57.8%), Extreme Low-Intensity Avoidance Type (ELAT, 4%), High-Intensity Dominant Type (HIDT, 5.7%), and Moderate Balanced Type (MBT, 27.9%). Compared with other profiles, the High-Intensity Dominant Type showed the highest levels of physical activity, competence, vitality, pleasure, and attraction, and the lowest level of tension. The Extreme Low-Intensity Avoidance Type scored lowest on most positive affective indicators. The Low-Intensity Rejection Type had the lowest physical activity level, with no significant difference from the Extreme Low-Intensity Avoidance Type. Conclusion Focusing on two psychological characteristics-exercise intensity preference and tolerance-this study examined their associations with physical activity behavior and exercise affective experiences. The findings offer a new perspective for understanding insufficient physical activity among university students and provide empirical support for more targeted exercise interventions, differentiated instruction, and personalized exercise guidance.",
+  "raw_path": "01_raw/europepmc_xml/PMC13464354.xml",
+  "text_path": "02_text/europepmc/PMC13464354.txt",
+  "raw_bytes": 171835,
+  "text_chars": 58132,
+  "raw_sha256": "a5384b944e3717958815580cbd2e0f5a489975a23d8b1f58cad84aad478daa30",
+  "text_sha256": "a9ef61e97752646d3f71673e2514f92a280848f3580882585b2aefac1d25bb0f",
+  "retrieved_at": "2026-10-25T13:57:55.749129+00:00"
+}

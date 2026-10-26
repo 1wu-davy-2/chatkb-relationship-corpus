@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_35975",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "Book of Etiquette, Volume I",
+  "gutenberg_id": "35975",
+  "url": "https://www.gutenberg.org/ebooks/35975",
+  "download_url": "https://www.gutenberg.org/cache/epub/35975/pg35975.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/35975.txt",
+  "text_path": "02_text/gutenberg/gut_35975_book_of_etiquette_volume_i.txt",
+  "raw_bytes": 473407,
+  "text_chars": 431993,
+  "text_sha256": "78dde29a97d3b73d434a5ee1d8d8ea01060fdf8b6d4642b00fa9e28921c2f808",
+  "retrieved_at": "2026-10-25T15:54:30.720549+00:00"
+}

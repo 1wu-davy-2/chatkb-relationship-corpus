@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12865521",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Using Theater Testing to Inform Community-Engaged Cultural Adaptation in Couple and Family Therapy Research.",
+  "authors": "Edwards C, Holtrop K, Wittenborn A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jmft.70116",
+  "pmcid": "PMC12865521",
+  "url": "https://europepmc.org/article/PMC/PMC12865521",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12865521/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "couple_therapy"
+  ],
+  "abstract": "Researchers seeking to use community-engaged methods to culturally adapt a couple and family therapy intervention often face a dilemma of how to gather meaningful feedback from a focal community about adapting an intervention that may be unfamiliar to them. The use of theater testing can provide a beneficial means for solving this challenge. Theater testing is an innovative approach allowing members of the focal population to experience elements of the target intervention to elicit informed and specific feedback. This paper provides a detailed description of theater testing, a set of specific steps for conducting theater testing, and a thorough discussion of the decision points and considerations relevant for applying theater testing to inform cultural adaptation research. We also provide a case example describing the use of theater testing to culturally adapt Emotionally Focused Couple Therapy with members of LGBTQIA+ communities.",
+  "raw_path": "01_raw/europepmc_xml/PMC12865521.xml",
+  "text_path": "02_text/europepmc/PMC12865521.txt",
+  "raw_bytes": 154645,
+  "text_chars": 61921,
+  "raw_sha256": "b9d5c4541cfde8707bdc160737b96b6264a61c43b03dc6260c53dfe064a8c26f",
+  "text_sha256": "091ce109870ed67b6b0494a0c03002fc827c0c6f19be96652290959838b87653",
+  "retrieved_at": "2026-10-25T15:39:36.010086+00:00"
+}

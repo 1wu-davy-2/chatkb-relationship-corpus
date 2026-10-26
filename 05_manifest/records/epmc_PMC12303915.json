@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12303915",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Psychology of Sexting: How Risk and Nomophobia Intersect.",
+  "authors": "Ratakonda N, Pandian DR, Madanagopal D, Rajesh L, Madhumitha AS.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/09727531251353055",
+  "pmcid": "PMC12303915",
+  "url": "https://europepmc.org/article/PMC/PMC12303915",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12303915/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Background Sexting, the explicit sharing of digital content, is found common among young adults in this era. It appears to originate from a process of identity exploration and need for external validation or attention. Social media is used as a tool to validate this need, with easy access to smartphones and impulsivity contributing to its rise. Purpose Nomophobia, the fear of being separated from one's mobile, has become a significant concern among young adults in today's digital era. This study aimed to examine the psychological and emotional implications of nomophobia, focusing on its relationship with risky decision-making and sexting behaviour. Methods A sample of 206 young adults aged 18-25 is utilised. Data is collected using self-report questionnaires: the nomophobia questionnaire (NMP-Q), the sexting behaviour scale (SBS) and the domain-specific risk-taking scale (DOSPERT). Results Linear regression was conducted to evaluate the predictive relationships between risky decision-making, sexting behaviour and nomophobia. Baron and Kenny's mediational analysis examined the role of sexting behaviour as a mediator. Results: This study found that males reported higher levels of risky decision-making ( M = 4.03, M = 1.94, p = .051) compared to females. Regression analysis revealed that risky decision-making significantly predicted nomophobia ( β = 0.454, p β = 0.502, p β = 0.454), and the indirect effect through sexting behaviour was also significant ( β = 0.111). Conclusion The findings highlight the significant role of risky decision-making and sexting behaviour in predicting nomophobia, with notable gender differences observed in these variables. This study emphasises the need for targeted strategies to address the psychological impact of excessive dependence on mobile devices among young adults.",
+  "raw_path": "01_raw/europepmc_xml/PMC12303915.xml",
+  "text_path": "02_text/europepmc/PMC12303915.txt",
+  "raw_bytes": 67220,
+  "text_chars": 26013,
+  "raw_sha256": "711c5b2bb3ac2a26aab2e12bb4f92e149ef50659b4dd59b3432a82a302f0cf30",
+  "text_sha256": "9c71e897857d8521e01ebf2d2a601494f3ad8ebbd29b0caffd51726a4c3ffb03",
+  "retrieved_at": "2026-10-26T12:55:38.007094+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11381698",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Effective community entry: reflections on community engagement in culturally sensitive research in southwestern Nigeria.",
+  "authors": "Omobowale O, Koski A, Olaniyan H, Nelson B, Egbokhare O, Omigbodun O.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1136/bmjgh-2024-015068",
+  "pmcid": "PMC11381698",
+  "url": "https://europepmc.org/article/PMC/PMC11381698",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11381698/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Effective community entry processes influence community participation and acceptance of public health interventions. Though there is a growing body of literature on the importance of community partnerships, there is a lack of pragmatic and practical documentation of the experiences involved in the community entry process as it relates to culturally sensitive topics such as child marriage which can help to support researchers working in this field. This article highlights key themes related to knowledge of the community, effective communication, cultural sensitivity, coproduction and giving feedback which help to build trust between the community members and the research team. Institutional representation, not managing expectations, and lack of clarity, along with personal opinions of community gatekeepers can create challenges for the fostering of trustworthy relationships with the community. These realities must be actively addressed right at the onset of the process between the research team and community stakeholders. Researchers can develop trust, form connections and engage different communities by working with local groups and leaders, using culturally appropriate methods, and addressing community concerns. Future projects working with communities on child marriage in Nigeria and other countries would benefit from the reflections presented in this paper.",
+  "raw_path": "01_raw/europepmc_xml/PMC11381698.xml",
+  "text_path": "02_text/europepmc/PMC11381698.txt",
+  "raw_bytes": 55775,
+  "text_chars": 24772,
+  "raw_sha256": "adaeadf3b13925cf72d7b45550be2c7f6138423f9ed24fdc657110f149ad1b03",
+  "text_sha256": "a49fe753d83bea9a6dc9ffce3f37f4fa527b2c9d4b451b5c8461eed6b67e74c6",
+  "retrieved_at": "2026-10-25T13:57:31.308005+00:00"
+}

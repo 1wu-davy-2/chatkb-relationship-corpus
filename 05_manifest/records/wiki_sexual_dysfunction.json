@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_sexual_dysfunction",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "性功能障碍",
+  "requested_title": "性功能障碍",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E5%8A%9F%E8%83%BD%E9%9A%9C%E7%A2%8D",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 性功能障碍",
+  "topics": [
+    "sexuality",
+    "health"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/sexual_dysfunction.json",
+  "text_path": "02_text/zh_wikipedia/sexual_dysfunction.txt",
+  "raw_bytes": 8674,
+  "text_chars": 3274,
+  "text_sha256": "5601594d80604a1d60893def80c5e768d488ab0e43b120c93b810faa7cbf99da",
+  "retrieved_at": "2026-10-26T13:00:03.979688+00:00"
+}

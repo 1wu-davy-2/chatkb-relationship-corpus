@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC11491701",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Moderating Effect of Gender Role in Relationship Between Emotional Divorce and Marital Satisfaction: Comparison of Partial Least Square (PLS) and Consistent Partial Least Square Methods (PlSc) Methods.",
+  "authors": "Khosravi F, Jamali J, Didehban E, Norouzi Z.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.18502/jfrh.v18i3.16661",
+  "pmcid": "PMC11491701",
+  "url": "https://europepmc.org/article/PMC/PMC11491701",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11491701/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce",
+    "gender_roles"
+  ],
+  "abstract": "Objective Emotional divorce refers to a state of emotional disengagement from one's spouse, which can lead to marital dissatisfaction. Gender role conflict is a predictor of marital dissatisfaction and ultimately, divorce. The literature suggests that rigid adherence to traditional gender roles may contribute to emotional divorce. In this article, the authors aim to investigate the moderating effect of gender roles in the relationship between emotional divorce and marital satisfaction by using two multivariate methods in statistical analysis. Materials and methods This cross-sectional study was conducted on 539 women aged 18-65 years. The standard questionnaires used include 1) Bem Sex Role Inventory (Short form), 2) Gutman's Emotional Divorce Questionnaire, and 3) Evaluation and Nurturing Relationship Issues, Communication and Happiness (ENRICH) Marital Satisfaction (EMS) Scale. To achieve the purpose of the study, PLS and PLSc methods have been used. Results The mean age and time of marriage were 33.88 ± 6.6 and 13.03 ± 7.29 years. There is a significant negative relationship between emotional divorce and marital satisfaction. The gender role of most participants in the study has been androgenic and feminine, which has increased the moderating effect of this relationship. Also, when there is a common (reflective) factor model, Consistent Partial Least Square is more likely to provide a better fit than Partial Least Square. Conclusion The results showed that higher women's marital satisfaction would be associated with lower emotional divorce. On the other hand, the role of gender is a mediating factor in marital satisfaction and emotional divorce. Having good male and female characteristics can have a positive impact on marital satisfaction, so increasing couples' knowledge of gender roles and trying to reduce traditional extreme roles can help increase marital satisfaction and reduce emotional divorce.",
+  "raw_path": "01_raw/europepmc_xml/PMC11491701.xml",
+  "text_path": "02_text/europepmc/PMC11491701.txt",
+  "raw_bytes": 79876,
+  "text_chars": 27188,
+  "raw_sha256": "a54bb5a2600fd55f6add46b6fcd74d0b813496f9c78b03df0546ef945da7dcf8",
+  "text_sha256": "dbadff389c218405815c0adaf5f1c9cc05cc09afd25655e6c8e8c86c7829e785",
+  "retrieved_at": "2026-10-25T13:58:26.055325+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6743509",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Polar Similars: Using Massive Mobile Dating Data to Predict Synchronization and Similarity in Dating Preferences.",
+  "authors": "Levy J, Markell D, Cerf M.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2019.02010",
+  "pmcid": "PMC6743509",
+  "url": "https://europepmc.org/article/PMC/PMC6743509",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6743509/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Leveraging a massive dataset of over 421 million potential matches between single users on a leading mobile dating application, we were able to identify numerous characteristics of effective matching. Effective matching is defined as the exchange of contact information with the likely intent to meet in person. The characteristics of effective match include alignment of psychological traits (i.e., extroversion), physical traits (i.e., height), personal choices (i.e., desiring the same relationship type), and shared experiences. For nearly all characteristics, the more similar the individuals were, the higher the likelihood was of them finding each other desirable and opting to meet in person. The only exception was introversion, where introverts rarely had an effective match with other introverts. When investigating the preliminary stages of the choice process we looked at the consistency between the choice of men/women, the time it took users to make these binary choices, and the tendency of yes/no decisions. We used a biologically inspired choice model to estimate the decision process and could predict the selection and response time with nearly 60% accuracy. Given that people make their initial selection in no more than 11 s, and ultimately prefer a partner who shares numerous attributes with them, we suggest that users are less selective in their early preferences and gradually, during their conversation, converge onto clusters that share a high degree of similarity in characteristics.",
+  "raw_path": "01_raw/europepmc_xml/PMC6743509.xml",
+  "text_path": "02_text/europepmc/PMC6743509.txt",
+  "raw_bytes": 257457,
+  "text_chars": 107549,
+  "raw_sha256": "d9da0f79bbbf3bac4f10e419f6420a71ffe3e1ad62b91b667f95063a472c7acd",
+  "text_sha256": "970b02339cf26370ec298c433a674818aff56cd52332dd5e7eb286a2cdf9d672",
+  "retrieved_at": "2026-10-25T15:47:42.336056+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_tarot",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "塔羅牌",
+  "requested_title": "塔罗牌",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A1%94%E7%BE%85%E7%89%8C",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 塔羅牌",
+  "topics": [
+    "divination",
+    "culture"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/tarot.json",
+  "text_path": "02_text/zh_wikipedia/tarot.txt",
+  "raw_bytes": 24541,
+  "text_chars": 9175,
+  "text_sha256": "7d54ac5419ee729a24b9dd9b9f8c5200be185f7a18f19f06ce1c70ab2b6f245c",
+  "retrieved_at": "2026-10-26T13:03:12.580063+00:00"
+}

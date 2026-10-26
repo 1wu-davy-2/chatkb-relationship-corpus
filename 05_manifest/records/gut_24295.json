@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_24295",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "遊仙窟",
+  "gutenberg_id": "24295",
+  "url": "https://www.gutenberg.org/ebooks/24295",
+  "download_url": "https://www.gutenberg.org/cache/epub/24295/pg24295.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/24295.txt",
+  "text_path": "02_text/gutenberg/gut_24295_遊仙窟.txt",
+  "raw_bytes": 53753,
+  "text_chars": 11742,
+  "text_sha256": "c6c1f53b2e47d809f1aeb25ae7413236abcd97015072f1d20626585aeee473e7",
+  "retrieved_at": "2026-10-25T16:06:16.696680+00:00"
+}

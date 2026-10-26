@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13072600",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Blurred boundaries in the digital era: a theory-driven development of the digital boundary ambiguity scale (DBAS).",
+  "authors": "Göçet-Tekin E, Taş İ, Eker H.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-04128-x",
+  "pmcid": "PMC13072600",
+  "url": "https://europepmc.org/article/PMC/PMC13072600",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13072600/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "PURPOSE: The increasing integration of digital technologies into romantic relationships has blurred boundaries between personal and public spheres, giving rise to digital boundary ambiguity. Grounded in Boundary Ambiguity Theory and the Relational Turbulence Model, this study aimed to develop and validate the Digital Boundary Ambiguity Scale (DBAS), a multidimensional tool designed to capture couples’ uncertainty and inconsistency in defining acceptable online behaviors. METHOD: Data were collected from adults (N = 673, age range = 18–65) in romantic relationships who actively use social media. Following a pretrial with 40 participants, the 20-item draft scale was administered to 365 individuals for Exploratory Factor Analysis (EFA), and to 308 individuals for Confirmatory Factor Analysis (CFA). Reliability analyses included Cronbach’s alpha, McDonald’s omega, test–retest reliability, and item–total correlations. Criterion validity was examined using the Relational Uncertainty Scale, and additional associations were tested with dyadic trust, aimless internet browsing, and number of social media accounts. RESULTS: Findings supported a four-factor, 16-item structure comprising clarity of online boundaries, perceived ambiguity, frequency of misunderstandings, and comfort with digital privacy rules. CFA demonstrated good model fit (CFI = 0.94, TLI = 0.93, RMSEA = 0.06, SRMR = 0.05). Subscales showed acceptable-to-excellent reliability (α = 0.71–0.88; ω = 0.72–0.88). Digital boundary ambiguity negatively correlated with dyadic trust and positively with aimless internet browsing but showed no significant relationship with number of social media accounts. Gender and education differences also emerged, reflecting nuanced digital boundary management. CONCLUSION: The DBAS provides a valid and reliable instrument for examining digital boundary ambiguity in romantic relationships, offering both theoretical refinement and practical applications for counseling and relational research.",
+  "raw_path": "01_raw/europepmc_xml/PMC13072600.xml",
+  "text_path": "02_text/europepmc/PMC13072600.txt",
+  "raw_bytes": 139356,
+  "text_chars": 56250,
+  "raw_sha256": "51a0b918286f6ae0545c25a96f1d7b543ca2b2a3268bd6e090672b4124d3312a",
+  "text_sha256": "36a9459065ea2758969816ee40297d3c2584a381f9d1d806f4709b1ec124df2e",
+  "retrieved_at": "2026-10-25T13:48:20.661913+00:00"
+}

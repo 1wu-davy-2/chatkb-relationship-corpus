@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6646594",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Oxytocin Modulates the Cognitive Appraisal of the Own and Others Close Intimate Relationships.",
+  "authors": "Aguilar-Raab C, Eckstein M, Geracitano S, Prevost M, Gold I, Heinrichs M, Bilderbeck A, Ehlert U, Ditzen B.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.3389/fnins.2019.00714",
+  "pmcid": "PMC6646594",
+  "url": "https://europepmc.org/article/PMC/PMC6646594",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6646594/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Close and intimate relationships are important promoters of health. Oxytocin and its association with social cognition have been investigated in a large number of studies, especially highlighting the neuropeptide's involvement in attachment behavior and intimate relationships. However, mixed findings on exogenous oxytocin application have led to the focus on moderators and mediators, suggesting that the effects are depended on specific factors - namely context and salience. The objective of the current study was to assess the effect of intranasal oxytocin on social appraisal of own and others' close intimate relationship characteristics. Different characteristics of relationships, including trust or closeness, between romantic couples (unknown and own) were assessed using the Couple Appraisal Task. In a randomized controlled double-blind cross-over within subject design, N = 71 healthy men and women were investigated after receiving first intranasal oxytocin and 2 weeks later placebo, or vice versa. We found an oxytocin-induced increase in the positive appraisal of one's own overall relationship characteristics but not in the evaluation of the relationship of others. The present study - one of the first of its kind administrating oxytocin in a repeated measures cross-over design - adds further evidence to the mediating role of oxytocin in social cognition, specifically with regard to romantic relationship characteristics.",
+  "raw_path": "01_raw/europepmc_xml/PMC6646594.xml",
+  "text_path": "02_text/europepmc/PMC6646594.txt",
+  "raw_bytes": 156523,
+  "text_chars": 32747,
+  "raw_sha256": "2876543ef9fdb10073441951bac5ce54dfdc103813140d1feb845a6866700f8d",
+  "text_sha256": "f778cf1e4943a07aff19ceecdf943a5e2ff03c39255d125416844a28096f1546",
+  "retrieved_at": "2026-10-25T15:41:12.213715+00:00"
+}

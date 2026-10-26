@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC13600499",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Aggressive conflict tactics in romantic relationships: Examining the roles of trust and loneliness in a Cypriot sample.",
+  "authors": "Mousoulidou M, Christodoulou A, Palli AM.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0357368",
+  "pmcid": "PMC13600499",
+  "url": "https://europepmc.org/article/PMC/PMC13600499",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13600499/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_repair",
+    "sexual_coercion"
+  ],
+  "abstract": "Purpose Aggressive conflict tactics in romantic relationships are an increasing concern, highlighting the importance of examining the emotional factors that may be associated with their use in the general population. This study aimed to assess the prevalence of aggressive conflict tactics among Greek-speaking adults in Cyprus and to explore their associations with demographic characteristics, relationship trust, and loneliness. Methods In this cross-sectional design, 300 Greek-speaking adults residing in Cyprus (63% female; M age = 32.85 years) were recruited through convenience and snowball sampling. Participants completed an online questionnaire comprising the Revised Conflict Tactics Scale, the Trust in Close Interpersonal Relationships Scale, and the UCLA Loneliness Scale to assess aggressive conflict tactics, levels of trust in interpersonal relationships, and loneliness. Results Findings suggest that (a) aggressive conflict tactics are highly prevalent, with psychological aggression reported by over 85% of participants and nearly 30% reporting physical assault; (b) sexual coercion was the only aggressive conflict tactic consistently associated with demographic variables, including gender, age, and education; (c) lower levels of trust were associated with the perpetration and victimization of physical assault, as well as victimization of sexual coercion and injury; and (d) higher loneliness was associated with sexual coercion perpetration. Conclusions These findings highlight the importance of emotional factors in understanding the dynamics of aggressive conflict in romantic relationships. Trust and loneliness were associated with the use and experience of aggression, highlighting the need for relationship education programs that promote emotional safety, trust-building, and awareness around consent and communication.",
+  "raw_path": "01_raw/europepmc_xml/PMC13600499.xml",
+  "text_path": "02_text/europepmc/PMC13600499.txt",
+  "raw_bytes": 183724,
+  "text_chars": 71435,
+  "raw_sha256": "34205eead8966b1be929f3d24cbf91b0beaa4e91244c4ca5ef7e911208a9cb66",
+  "text_sha256": "707787d5a0f8ed2f58db4c44d141578ff46a35a3b64a9d1506c2d098658b7d5d",
+  "retrieved_at": "2026-10-25T13:50:38.738347+00:00"
+}

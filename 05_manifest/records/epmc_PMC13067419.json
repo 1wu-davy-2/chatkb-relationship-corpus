@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13067419",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychological inflexibility as a longitudinal mediator between relationship satisfaction and subjective vitality.",
+  "authors": "Okur S, Erus SM, Deniz ME, Satıcı SA.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-04316-9",
+  "pmcid": "PMC13067419",
+  "url": "https://europepmc.org/article/PMC/PMC13067419",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13067419/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance"
+  ],
+  "abstract": "Satisfaction experienced in romantic relationships is a significant variable that can influence individuals’ physical and psychological well-being. Most studies examining relationship satisfaction have employed cross-sectional designs. The lack of longitudinal studies addressing this variable, which can have long-term effects on various aspects of individuals’ lives, represents a notable gap in the literature. This study aims to examine the longitudinal relationship between relationship satisfaction, psychological inflexibility, and subjective vitality. Conducted with 268 Turkish participants, the study investigated the longitudinal mediating role of psychological inflexibility in the link between relationship satisfaction and subjective vitality. A two-wave cross-lagged panel design was utilized for this analysis. Gender was included as a covariance variable in the model. The findings revealed that psychological inflexibility longitudinally mediated the association between relationship satisfaction and subjective vitality. The direct cross-lagged path from relationship satisfaction at T1 to subjective vitality at T2 was not statistically significant (β = 0.004, p > .05; 95% CI [-0.065, 0.014]). Specifically, relationship satisfaction at T1 negatively predicted psychological inflexibility at T2 (β = −0.15, p < .01), and psychological inflexibility at T1 negatively predicted subjective vitality at T2 (β = −0.12, p < .05), supporting the proposed longitudinal mediation. The autoregressive paths indicated substantial stability over time for relationship satisfaction (β = 0.86, p < .01), psychological inflexibility (β = 0.65, p < .01), and subjective vitality (β = 0.63, p < .01). These results contribute to the literature at a longitudinal level by expanding our understanding of the psychological processes involved in romantic relationships. Nonetheless, the findings should be interpreted within the boundaries of the study’s cultural context and convenience sampling strategy, given that the data were obtained from a Turkish sample using a two-wave longitudinal design.",
+  "raw_path": "01_raw/europepmc_xml/PMC13067419.xml",
+  "text_path": "02_text/europepmc/PMC13067419.txt",
+  "raw_bytes": 112069,
+  "text_chars": 42167,
+  "raw_sha256": "908031d374815e2629b404a389d1b07eb9577208e873c984d42b5ddf2e2d40d0",
+  "text_sha256": "e45ec7e49da904e542adcc48470a9794d32493b7b969e1bcad29e7eb1ffdf77a",
+  "retrieved_at": "2026-10-25T13:52:22.295635+00:00"
+}

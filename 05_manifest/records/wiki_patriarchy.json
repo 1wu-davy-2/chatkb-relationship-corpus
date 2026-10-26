@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_patriarchy",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "父權",
+  "requested_title": "父权",
+  "url": "https://zh.wikipedia.org/wiki/%E7%88%B6%E6%AC%8A",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "gender",
+    "society"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/patriarchy.json",
+  "text_path": "02_text/zh_wikipedia/patriarchy.txt",
+  "raw_bytes": 28474,
+  "text_chars": 10926,
+  "text_sha256": "eb574dfb2b2f8c9c5225871fab7fb36244ff2830f2c6290511e27e60af98b3dd",
+  "retrieved_at": "2026-10-25T15:42:19.046324+00:00"
+}

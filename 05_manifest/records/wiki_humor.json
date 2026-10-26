@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_humor",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "幽默",
+  "requested_title": "幽默",
+  "url": "https://zh.wikipedia.org/wiki/%E5%B9%BD%E9%BB%98",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "communication",
+    "attraction"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/humor.json",
+  "text_path": "02_text/zh_wikipedia/humor.txt",
+  "raw_bytes": 5832,
+  "text_chars": 2092,
+  "text_sha256": "d2c3725d88e74d6146dc279f39ad88f17fa3aae1519a5527adcb022d0ea57560",
+  "retrieved_at": "2026-10-25T15:31:09.216253+00:00"
+}

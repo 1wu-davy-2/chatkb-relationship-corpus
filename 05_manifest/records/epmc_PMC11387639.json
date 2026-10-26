@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11387639",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Relationship power attenuated the effects of gratitude on perceived partner responsiveness and satisfaction in romantic relationships.",
+  "authors": "Jin L, Zhu T, Wang Y.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1038/s41598-024-71994-z",
+  "pmcid": "PMC11387639",
+  "url": "https://europepmc.org/article/PMC/PMC11387639",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11387639/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "responsiveness"
+  ],
+  "abstract": "There is a gap in whether relationship power affects the association between gratitude and relationship satisfaction in romantic relationships. Based on the relationship maintenance model and the social distance theory of power, the present study adopted a digital questionnaire design on an online platform to test the mediating role of perceived partner responsiveness between gratitude and satisfaction as well as the moderating role of relationship power. A total of 825 subjects (M age = 27.2, SD = 10.6; female 46.9%) who had been in romantic relationships for more than six months participated in this study. Overall, the results of the moderator-mediator model indicated that, compared to individuals with low levels of relationship power, the relationship between gratitude and perceived partner responsiveness as well as that between perceived partner responsiveness and relationship satisfaction was weaker among those with high levels of power. These findings are revealing for interventions designed to promote satisfaction between couples with power imbalances.",
+  "raw_path": "01_raw/europepmc_xml/PMC11387639.xml",
+  "text_path": "02_text/europepmc/PMC11387639.txt",
+  "raw_bytes": 155897,
+  "text_chars": 38161,
+  "raw_sha256": "424cdd77e1cba87412112bb27c6210e8f9ed2ef7bfe17918279a34fc446140d0",
+  "text_sha256": "8f7152861ed3e8695cbea0d7faf6efeac6ac5305396d5c53796737a9766166b7",
+  "retrieved_at": "2026-10-25T13:49:31.680961+00:00"
+}

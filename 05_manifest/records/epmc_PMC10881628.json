@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10881628",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "State-Run Dating Apps: Are They Morally Desirable?",
+  "authors": "de Vries B.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1007/s13347-024-00719-x",
+  "pmcid": "PMC10881628",
+  "url": "https://europepmc.org/article/PMC/PMC10881628",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10881628/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "In a bid to boost fertility levels, Iran and Japan have recently launched their own dating apps, with more countries likely to follow. The aim of this article is to consider whether state-run dating apps are morally desirable, which is a question that has not received any scholarly attention. It finds that such apps have at least two benefits that collectively, if not individually, render their introduction to be welcomed provided certain conditions are met. These benefits are that they are better placed than commercial dating apps such as Tinder, Bumble, and Badoo to (i) help people find lasting love and to (ii) protect individuals from spending too much money and/or time on online dating. Several objections are discussed and shown to be unconvincing as arguments against state-run dating apps tout court , including the objection that for states to offer their own dating apps is unduly expensive; the objection that it gives them too much power; and the objection that they should invest in creating offline opportunities for meeting potential partners instead.",
+  "raw_path": "01_raw/europepmc_xml/PMC10881628.xml",
+  "text_path": "02_text/europepmc/PMC10881628.txt",
+  "raw_bytes": 127618,
+  "text_chars": 48900,
+  "raw_sha256": "8c448de7c9d9a86df7ea9dbf5fb5e3c774e785e9a7bfa8fac3da46f49e324c1c",
+  "text_sha256": "17c8866e47ccd6afde650d334470f59207724519603d6b865296301239f1050e",
+  "retrieved_at": "2026-10-25T15:45:48.276058+00:00"
+}

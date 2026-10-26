@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC9663354",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Age Effects on Women's and Men's Dyadic and Solitary Sexual Desire.",
+  "authors": "Wieczorek LL, Chivers M, Koehn MA, DeBruine LM, Jones BC.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1007/s10508-022-02375-8",
+  "pmcid": "PMC9663354",
+  "url": "https://europepmc.org/article/PMC/PMC9663354",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9663354/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction",
+    "sexual_desire_gap"
+  ],
+  "abstract": "While most studies on sexuality in later life report that sexual desire declines with age, little is known about the exact nature of age effects on sexual desire. Using self-reported dyadic sexual desire relating to a partner, dyadic sexual desire relating to an attractive person, and solitary sexual desire from a large (N > 8000) and age diverse (14.6-80.2 years) online sample, the current study had three goals: First, we investigated relationships between men and women's sexual desire and age. Second, we examined whether individual differences such as gender/sex, sexual orientation, self-rated masculinity, relationship status, self-rated attractiveness, and self-rated health predict sexual desire. Third, we examined how these associations differed across sexual desire facets. On average, the associations between age and both men and women's sexual desire followed nonlinear trends and differed between genders/sexes and types of sexual desire. Average levels of all types of sexual desire were generally higher in men. Dyadic sexual desire related positively to self-rated masculinity and having a romantic partner and solitary desire was higher in people with same-sex attraction. We discuss the results in the context of the evolutionary hypothesis that predict an increase of sexual desire and female reproductive effort prior to declining fertility. Our findings both support and challenge beliefs about gender/sex specificity of age effects on sexual desire and highlight the importance of differentiating between desire types.",
+  "raw_path": "01_raw/europepmc_xml/PMC9663354.xml",
+  "text_path": "02_text/europepmc/PMC9663354.txt",
+  "raw_bytes": 263460,
+  "text_chars": 66003,
+  "raw_sha256": "8144d3afe685e359e59842c8ecbae07f3f1cd991ef49c9a14feeeb60a81d276f",
+  "text_sha256": "9b5f51ebd2d33b2ce4ce76e11d97fd1864523b675e047687fccbb0614ee1f5b7",
+  "retrieved_at": "2026-10-25T15:46:38.718845+00:00"
+}

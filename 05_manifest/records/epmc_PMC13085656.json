@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13085656",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Masculine behaviors in cyber dating abuse among athletes: the mediating role of dark personality traits and the moderating effect of digital habits.",
+  "authors": "Sağ S, Engin SG, Polat E.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-04313-y",
+  "pmcid": "PMC13085656",
+  "url": "https://europepmc.org/article/PMC/PMC13085656",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13085656/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "This study examines the effect of masculine behaviors on cyber dating abuse through dark personality traits (Machiavellianism, Psychopathy, and Narcissism) and the moderating role of digital gaming habits. The sample of the study consisted of 1,020 active athletes playing digital games (58.4% male; Age Mean = 21.82, SD = 3.88) who were reached through an online survey. Participants' demographic information, frequency of digital gaming, and preferred game types are presented in detail. Individuals' personality traits and behavioral tendencies were assessed using the Masculinity Scale, the Short Dark Triad Scale, and the Cyber Dating Abuse Scale. Hypotheses were tested using regression-based conditional process analysis with SPSS PROCESS Macro v4.2. Indirect effects were assessed using 95% bias-adjusted confidence intervals obtained from a 5,000-bootstrap sample. An indirect effect was considered significant if the 95% CI did not include zero (α = .05). The research findings indicate that masculine behaviors do not have a significant direct effect on cyber dating abuse. However, indirect and statistically significant effects were found through dark personality traits such as Machiavellianism, psychopathy, and narcissism. In particular, the indirect effect through Machiavellianism and Psychopathy was found to be stronger, while narcissism played a weaker but significant mediating role. The frequency of digital gaming and the type of game emerged as an important moderating variable in this relationship. Among participants who played digital games every day, the effect of masculine behavior on cyber dating abuse was found to be significant and positive; among those who played a few days a week or a month, this relationship lost its significance. Furthermore, the effects were positive and significant among those who preferred action-adventure and simulation games, while a negative relationship was observed among those who played sports games. In conclusion, it has been revealed that masculine behaviors affect cyber dating abuse behaviors indirectly through dark personality traits and in the context of digital gaming habits, rather than directly. These findings indicate that digital gaming habits are an important determinant of online interaction patterns.",
+  "raw_path": "01_raw/europepmc_xml/PMC13085656.xml",
+  "text_path": "02_text/europepmc/PMC13085656.txt",
+  "raw_bytes": 129045,
+  "text_chars": 43762,
+  "raw_sha256": "fafe77538aa782fdfa7f7aa097fc675e0aa27f643bca3c329ae506ed4bd2b0c7",
+  "text_sha256": "55520caa766411d1092b228e0e9078a3d82bcf3a20e65ac12188ef62d2a5e48d",
+  "retrieved_at": "2026-10-25T13:47:52.958198+00:00"
+}

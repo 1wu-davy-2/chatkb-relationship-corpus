@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13580420",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The Role of Community Health Professionals in Addressing Intimate Partner Violence: A Scoping Review.",
+  "authors": "Adhia A, Wingert M, Chadwick K, Herrenkohl TI, Kett P, Bekemeier B.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/phn.70166",
+  "pmcid": "PMC13580420",
+  "url": "https://europepmc.org/article/PMC/PMC13580420",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13580420/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Objective Community settings, such as homes, community-based organizations, and schools, are important loci for addressing intimate partner violence (IPV). We identified and synthesized studies on the role of community health professionals in preventing IPV. More specifically, we considered the range and type of interventions used by community health professionals in community settings and whether these interventions appear to be effective in reducing IPV. Design We systematically searched four databases for empirical peer-reviewed articles based in the U.S. through August 2024, following the Preferred Reporting Items for Systematic Reviews and Meta-analyses Extension for Scoping Reviews (PRISMA-ScR) guidelines. Results We included 45 articles published between 1999 and 2024, spanning quantitative and qualitative study designs. The community health professionals described were most commonly nurses, often delivering home-based interventions focused on perinatal women. Activities related to IPV included providing health education in schools, building community or organizational capacity, providing direct service and case management, and providing coaching and social support to empower individuals. Conclusions Community health professionals have an important role in effectively preventing IPV. Additional research is needed to guide these professionals in promoting and implementing a range of IPV interventions in communities, particularly those focused on primary prevention of IPV.",
+  "raw_path": "01_raw/europepmc_xml/PMC13580420.xml",
+  "text_path": "02_text/europepmc/PMC13580420.txt",
+  "raw_bytes": 123149,
+  "text_chars": 32934,
+  "raw_sha256": "e01ac8d15f69ca3ab1a4fecbfa8186e603565e63b83257d4c85b08ffd9037b20",
+  "text_sha256": "4935fe4be65d4e8ec3a0662e805b776552c5797c92a5e3d44422e1ae23d68a1b",
+  "retrieved_at": "2026-10-25T15:42:35.794185+00:00"
+}

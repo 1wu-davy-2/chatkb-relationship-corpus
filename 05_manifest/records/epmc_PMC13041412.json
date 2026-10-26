@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13041412",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Measuring marital choice as an indicator of women's marital agency in rural India.",
+  "authors": "Raj A, Gebrehanna H, Johns NE, Rao N, Ghule M, Battala M, Begum S, Clark CJ.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40834-026-00437-z",
+  "pmcid": "PMC13041412",
+  "url": "https://europepmc.org/article/PMC/PMC13041412",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13041412/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "arranged_marriage"
+  ],
+  "abstract": "BACKGROUND: There is limited data on forced marriages in the context of India. This study involved validation of new measures of women’s marital choice in terms of partner selection and timing of marriage as indicators of women’s marital agency in rural India. METHODS: We conducted a cross-sectional analysis of survey data from N = 1192 married women aged 18–30 who participated in the Counseling Husbands and wives to Achieve Reproductive health and Marital equity (CHARM2) trial in rural Maharashtra, India. We included two novel items on women’s decision-making regarding who the married and when they married. We evaluated the construct validity of these measures by testing their associations with other traditionally gender normative practices related to marriage including girl child marriage, purdah, and dowry using Fisher’s exact test. We then conducted crude and adjusted regression models to determine associations between our marital choice variables and indicators of current marital agency, specifically recent intimate partner violence, marital quality, and contraceptive self-efficacy. RESULTS: 15.5% of women reported they were the primary decision-maker on marital partner selection and 9.4% reported they were the primary decision-maker on marital timing. Both measures were highly corelated to each other (r = 0.8) and with reports of arranged marriage (with partner choice r = 0.9; with marriage timing r = 0.6). Having choice over marriage partner and timing were equally inversely correlated with child marriage (r = -0.3, respectively) and equally and positively correlated with not receiving a dowry (r = 0.4, respectively). Both choice variables were negatively correlated with the practice of purdah (r = -0.3 and − 0.1). Our marital choice variables were not associated with any agency in marriage dependent variables, except for choice of partner and marital quality (adjusted odds ratio = 1.5; 95% confidence interval: 1.0, 2.1), but all outcomes trended in the expected direction. CONCLUSION: The findings indicate that our marital choice measures show partial construct validity, linked to normative practices restricting women and girls’ agency at marital entry, and may be a useful indicator of non-forced marriage, but measures of agency at marriage largely do not correlate with agency in marriage.",
+  "raw_path": "01_raw/europepmc_xml/PMC13041412.xml",
+  "text_path": "02_text/europepmc/PMC13041412.txt",
+  "raw_bytes": 95856,
+  "text_chars": 36389,
+  "raw_sha256": "864487e1fc39932634d7f2ccb98ea66ac5a0e88d91c009d4c8f6a812fadf34c1",
+  "text_sha256": "a2803c925f3bc49e7f80b26f103caaefb90ffdbde179fade973e5fe0b68fc982",
+  "retrieved_at": "2026-10-25T13:50:04.507685+00:00"
+}

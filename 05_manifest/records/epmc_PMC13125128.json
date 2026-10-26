@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13125128",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "What captures women's visual attention and what they remember in romantic encounters: eye-tracking metrics and self-reports.",
+  "authors": "Romaniuk O, Mühlhans J, Ansorge U.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1773619",
+  "pmcid": "PMC13125128",
+  "url": "https://europepmc.org/article/PMC/PMC13125128",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13125128/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Introduction Visual cues play a central role in romantic attraction, yet individuals may not accurately recall what captured their attention. Drawing on dual-process models of cognition, this study examined the correspondence between measured gaze behavior and retrospective self-reported salience in women's romantic perception. Methods Sixty-eight women viewed 10 romantic scenes portraying heterosexual couples while their eye movements were recorded. Five areas of interest (AOIs)-female face, male face, female body, male body, and background-were analyzed across key eye-tracking metrics: total dwell time, average fixation duration, fixation count, and first fixations. Participants then ranked these AOIs by perceived salience and reported up to three visual attraction cues (e.g., smile, hands, legs) per AOI. Results Women's sustained visual attention was preferentially directed toward same-sex targets. Faces served as attentional anchors, attracting both early attention and deeper processing, as reflected in longer fixation durations, whereas gender differences were more pronounced for bodies, with male bodies consistently receiving the least attention. Introspective access was metric-specific: Self-reports aligned most strongly with fixation duration, moderately with first fixation, weakly with total dwell time, and not with fixation count. At the cue level, early orienting showed only limited correspondence with the most salient self-reported cue, but stronger alignment when broader any-match criteria were applied. Self-reports prioritized expressive (e.g., smile, eyes) and grooming facial cues (e.g., hairstyle, beard), as well as sexually dimorphic and stylistic body-related cues (e.g., legs, breasts, outfit, and body shape for women; hands, outfit, shoulder width, and arm muscles for men). Conclusion These findings indicate that romantic visual attention operates across distinct processing stages, with only partial overlap between what individuals look at and what they report. While sustained attention is partly accessible to introspection, early attentional processes remain largely automatic, highlighting limits in awareness during initial impression formation.",
+  "raw_path": "01_raw/europepmc_xml/PMC13125128.xml",
+  "text_path": "02_text/europepmc/PMC13125128.txt",
+  "raw_bytes": 150854,
+  "text_chars": 55302,
+  "raw_sha256": "22c68bf5633623b82fc457880403c8f594bd0a6bfd5d87222cb3957c4f24beae",
+  "text_sha256": "e1f23e728dba61ca5b8e00861d6ce70e53642bca2032a483623934ce5f0d3a28",
+  "retrieved_at": "2026-10-25T13:52:33.482999+00:00"
+}

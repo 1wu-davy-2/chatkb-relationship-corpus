@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_prenuptial_agreement",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "婚前協議書",
+  "requested_title": "婚前协议",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A9%9A%E5%89%8D%E5%8D%94%E8%AD%B0%E6%9B%B8",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 婚前協議書",
+  "topics": [
+    "law",
+    "money"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/prenuptial_agreement.json",
+  "text_path": "02_text/zh_wikipedia/prenuptial_agreement.txt",
+  "raw_bytes": 2953,
+  "text_chars": 1239,
+  "text_sha256": "b4da97f11b8f337248a8c92138714390f84fa9007b80b828fd7f252009693ebf",
+  "retrieved_at": "2026-10-25T16:33:12.567322+00:00"
+}

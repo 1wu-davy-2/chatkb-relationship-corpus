@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_identity_theft",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "身份盗窃",
+  "requested_title": "身份盗窃",
+  "url": "https://zh.wikipedia.org/wiki/%E8%BA%AB%E4%BB%BD%E7%9B%97%E7%AA%83",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 身份盗窃",
+  "topics": [
+    "scam",
+    "safety"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/identity_theft.json",
+  "text_path": "02_text/zh_wikipedia/identity_theft.txt",
+  "raw_bytes": 1588,
+  "text_chars": 869,
+  "text_sha256": "6ee4f42a6674aac84a227d9c5f2a35bf669187022bdd6c341a0b2bc1d5eec9e3",
+  "retrieved_at": "2026-10-25T16:30:18.591166+00:00"
+}

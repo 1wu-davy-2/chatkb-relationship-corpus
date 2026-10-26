@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_23839",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "論語",
+  "gutenberg_id": "23839",
+  "url": "https://www.gutenberg.org/ebooks/23839",
+  "download_url": "https://www.gutenberg.org/cache/epub/23839/pg23839.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/23839.txt",
+  "text_path": "02_text/gutenberg/gut_23839_論語.txt",
+  "raw_bytes": 88528,
+  "text_chars": 24500,
+  "text_sha256": "58effa56f3f49d4bdfbe57513de30b895a61f37fa7599e5b1569a7f9c9bbc0df",
+  "retrieved_at": "2026-10-25T15:45:08.467606+00:00"
+}

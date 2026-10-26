@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7865053",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Nation of Bastards? Registered Cohabitation, Childbearing, and First-Marriage Formation in Iceland, 1994-2013.",
+  "authors": "Jónsson AK.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1007/s10680-020-09560-2",
+  "pmcid": "PMC7865053",
+  "url": "https://europepmc.org/article/PMC/PMC7865053",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7865053/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "Nowhere in Europe is extramarital childbearing more pervasive than in Iceland. Roughly, 70% of children born in 2018 were conceived outside of marriage, thereof 83% of firstborn, which, on the surface, puts Iceland at the vanguard of a development often associated with a second demographic transition. In this study, we investigate the union formation behaviour of Icelandic women during a period of 20 years (1994-2013) with the objectives of gaining insight into the interplay of childbearing, registered cohabitation, and marriage and to enhance our understanding of the function of registered cohabitation in the family-building process. We use administrative population register data, covering the childbearing and marital history of the total female population born in Iceland during 1962-1997. The data are analysed by means of event history techniques and presented as annual indices of first-registered cohabitation and first-marriage formation, respectively. We find indications of forceful postponement of registering cohabitation over time, but a stable portion of around 80% of women registered cohabitation before any first marriage or age 46. Around 70% of women married before age 46, and the standardized marriage rates remained relatively stable during most of our study period. Our findings suggest that within a context such as the Icelandic one, most people tend to marry, regardless of the prevalence of cohabitation. We propose that registered cohabitation should be seen as providing a semi-regulated union status for prospective parents in relation to childbearing. Marriage on the other hand could be seen as providing an elevated union status to couples.",
+  "raw_path": "01_raw/europepmc_xml/PMC7865053.xml",
+  "text_path": "02_text/europepmc/PMC7865053.txt",
+  "raw_bytes": 153537,
+  "text_chars": 61384,
+  "raw_sha256": "46885734696de518c94b921f9f8d4ba7811faefbe3ee28eb4f6070eb7c8d98c4",
+  "text_sha256": "aef7ed7ec8d10652296ea638f07e72718041ade1ea9b8344be1dea8c7b274e49",
+  "retrieved_at": "2026-10-25T15:41:22.152520+00:00"
+}

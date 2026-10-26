@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC6115968",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Exploring Definitions and Prevalence of Verbal Sexual Coercion and Its Relationship to Consent to Unwanted Sex: Implications for Affirmative Consent Standards on College Campuses.",
+  "authors": "Pugh B, Becker P.",
+  "year": "2018",
+  "journal": "",
+  "doi": "10.3390/bs8080069",
+  "pmcid": "PMC6115968",
+  "url": "https://europepmc.org/article/PMC/PMC6115968",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6115968/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types",
+    "sexual_scripts"
+  ],
+  "abstract": "Campus sexual assault is a pervasive issue impacting the well-being, quality of life, and education of all students. There have been many recent efforts to prevent and address campus sexual assault, most notably the adoption of affirmative consent standards. (1) Efforts to address sexual assault on college campuses through an affirmative consent standard could be undermined by traditional gender norms, sexual scripts, and the power dynamics inherent in heterosexual relations, which lead to situations in which many women provide consent to unwanted sex. (2) Studies indicate that college women are likely to experience verbal sexual coercion, yet research has failed to come to a consensus on how to define, operationalize, and study verbal sexual coercion. (3) Research on sexual consent is also lacking, in particular as it relates to consent to unwanted sex as a result of the presence of verbal sexual coercion. (4) This article discusses how multiple forms of unwanted sex can be conceptually examined. (5) Policy implications and areas for future research are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC6115968.xml",
+  "text_path": "02_text/europepmc/PMC6115968.txt",
+  "raw_bytes": 293683,
+  "text_chars": 85208,
+  "raw_sha256": "15774dc4de3561bc4653b5e0f9aa3ee63148e969ea3890fca9a83b24490bb6fd",
+  "text_sha256": "060d308d4998a5de50fd7208ed6d0b06a37f41d8312d54086dbbfe17fafc3a39",
+  "retrieved_at": "2026-10-26T13:14:48.074121+00:00"
+}

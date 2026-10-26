@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11129046",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Individual differences and personality traits across situations.",
+  "authors": "Nasello JA, Triffaux JM, Hansenne M.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.5114/cipp/159942",
+  "pmcid": "PMC11129046",
+  "url": "https://europepmc.org/article/PMC/PMC11129046",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11129046/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Background According to the Big Five theory, personality can be classified into five traits (i.e., extraversion, neuroticism, conscientiousness, agreeableness, and openness), and past research showed that situations impact personality. In the present study, (1) we measured which of these five personality traits changed according to different situations and (2) tested whether the across-situation variability (ASV; i.e., a continuous variable showing how much people change their personality traits according to situations) was significantly connected with specific personality domains, revealing a potential marker of personality disturbance. Participants and procedure We recruited 80 participants (40 women) to complete the five situation-version (family, work, friends, romantic partner, and hobbies/leisure) of the Big Five Inventory to measure whether personality traits significantly changed across these situations. In addition, we ran a network analysis to reveal how the ASV is related to personality traits. Results The findings showed that all traits significantly changed across the situations, except openness, which remained stable. The network analysis revealed that the ASV variable was especially connected with conscientiousness (in romantic partner and family situations). Conclusions Most personality traits were flexible, showing how important it is to consider the role of situations in the study of personality. Openness appeared to be particularly stable and understanding its nature represents a challenge for future studies. Finally, the network analysis demonstrated that the ASV shows specific connections with conscientiousness and might be a potential psychopathology marker.",
+  "raw_path": "01_raw/europepmc_xml/PMC11129046.xml",
+  "text_path": "02_text/europepmc/PMC11129046.txt",
+  "raw_bytes": 89259,
+  "text_chars": 29970,
+  "raw_sha256": "e97f97545d527a2b07050241c3edd9d37f146ae37b4910a5182398d5da9198ae",
+  "text_sha256": "f5bba4c3e0c53c26589a7fd00ccd76c339571a3822a8683f7ab632571d0a1f28",
+  "retrieved_at": "2026-10-25T14:00:30.512416+00:00"
+}

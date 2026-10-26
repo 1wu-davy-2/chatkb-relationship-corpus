@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10367193",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Romantic Love and Attentional Biases Toward Attractive Alternatives and Rivals: Long-Term Relationship Maintenance Among Female Chinese College Students.",
+  "authors": "Ma Y, Xue W, Zhao G, Tu S, Zheng Y.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.1177/1474704919897601",
+  "pmcid": "PMC10367193",
+  "url": "https://europepmc.org/article/PMC/PMC10367193",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10367193/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Studies about heterosexual individuals' long-term relationship maintenance have indicated that committed individuals possess evolved psychological mechanisms that help protect their ongoing romantic relationships against threats from attractive others during early stage attentional processing when mating-related motivation is activated. In this study, two experiments tested the relationship maintenance mechanism among committed female college students in the Chinese cultural context under different love priming conditions. Committed Chinese women displayed inattention to attractive alternatives in positive love-scenario priming (Study 1: 114 female undergraduates, age range = 18-26 years), subliminal semantic love priming (Study 2: 110 female undergraduates, age range = 18-25 years), and baseline conditions (Studies 1 and 2). Those with high levels of chronic jealousy showed significantly increased attention to and difficulty disengaging attention from attractive rivals when subliminally primed with love. This provides further evidence, from an Eastern cultural context, for the existence of attentional biases toward attractive alternatives and rivals in early stage attentional processes for relationship maintenance. This research also illustrates the important role of romantic love in maintaining long-term romantic relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC10367193.xml",
+  "text_path": "02_text/europepmc/PMC10367193.txt",
+  "raw_bytes": 154366,
+  "text_chars": 56901,
+  "raw_sha256": "a81d9ebb03a6da3c8b434fe6445ac6e086512ca67ad4c41cc46bc8da40c9378f",
+  "text_sha256": "7e4436ec2f6bf3d0e7ed958e8bb3c8d9ba95090feed86d09d34e21812b941ef0",
+  "retrieved_at": "2026-10-25T15:48:14.107972+00:00"
+}

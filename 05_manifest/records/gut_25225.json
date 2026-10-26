@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_25225",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "古文觀止",
+  "gutenberg_id": "25225",
+  "url": "https://www.gutenberg.org/ebooks/25225",
+  "download_url": "https://www.gutenberg.org/cache/epub/25225/pg25225.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/25225.txt",
+  "text_path": "02_text/gutenberg/gut_25225_古文觀止.txt",
+  "raw_bytes": 562960,
+  "text_chars": 181910,
+  "text_sha256": "8aff312bfa7f9c9d52f6af82087a15fd54b1aaaa80273bff583d7e2fd03bddaa",
+  "retrieved_at": "2026-10-25T16:05:48.383143+00:00"
+}

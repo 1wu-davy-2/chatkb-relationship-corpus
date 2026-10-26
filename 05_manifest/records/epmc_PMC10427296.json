@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10427296",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Adult playful individuals have more long- and short-term relationships.",
+  "authors": "de Moraes YL, Varella MAC, Santos Alves da Silva C, Valentova JV.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.1017/ehs.2021.19",
+  "pmcid": "PMC10427296",
+  "url": "https://europepmc.org/article/PMC/PMC10427296",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10427296/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "humor_playfulness"
+  ],
+  "abstract": "Number of romantic/sexual relationships is suggested as a proxy of potential reproductive success. Cross-culturally, both sexes desire playful long-term mates and playfulness predicts relationship quality. It is yet to be tested, however, if playfulness is associated with number of long- and short-term relationships. We hypothesised that specific playfulness dimensions would correlate with the number of lifetime short- and long-term relationships. We expected that lighthearted playfulness would be associated with more short-term relationships, while other-directed playfulness would be associated with the number of long-term relationships. In total, 1191 Brazilian adults (mean age = 28.7 years, standard deviation = 10.2) responded to online sociodemographic questions and a playfulness inventory. Other-directed playfulness positively predicted the number of short-term and long-term partners in men and whimsical playfulness predicted the number of short-term relationships in women. This suggests that playfulness is used by both sexes to compete for access to more and better mates, but in slightly different ways. For the first time, we show that playful adults have more partners and that playfulness can be used as a part of mating strategies.",
+  "raw_path": "01_raw/europepmc_xml/PMC10427296.xml",
+  "text_path": "02_text/europepmc/PMC10427296.txt",
+  "raw_bytes": 76655,
+  "text_chars": 28394,
+  "raw_sha256": "ba1778c43851bdba55a862ccc0068e2cc47c8952126d3697a6335063188c85f2",
+  "text_sha256": "d971f3ca18e80f824a27bf3e44f0273b2d32d89afe7019750fbf7755d793257c",
+  "retrieved_at": "2026-10-25T15:31:52.185479+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10654728",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Geochronological results from the Zhela Formation volcanics of the Tethyan Himalaya and their implications for the breakup of eastern Gondwana.",
+  "authors": "Liang J, Bian W, Jiao X, Peng W, Ma J, Wang S, Ma Y, Zhang S, Wu H, Li H, Shi Y, Yang T.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1038/s41598-023-47268-5",
+  "pmcid": "PMC10654728",
+  "url": "https://europepmc.org/article/PMC/PMC10654728",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10654728/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "The relationship between the Kerguelen mantle plume and the breakup of eastern Gondwana is still debated. The new Zircon SHRIMP U-Pb dating of 139.9 ± 4.6 Ma, as well as previous ages from the Zhela Formation volcanic rocks in the Tethyan Himalaya, show that the studied Zhela Formation volcanic rocks formed during the Late Jurassic-Early Cretaceous, rather than the Middle Jurassic. The calculated volume of the Comei-Bunbury igneous rocks is ~ 114,250 km 3 , which is compatible with the large igneous provinces and, consequently, the typical mantle plume models. The new date results, along with existing dates, show that the volcanism attributed to the Kerguelen mantle plume in the Tethyan Himalaya ranges from ca.147 Ma to ca.124 Ma, with two peaks at approximately 141 Ma and 133 Ma. This new finding, together with geochemical and palaeomagnetic data obtained from the Comei-Bunbury igneous rocks, indicate that the Kerguelen mantle plume contributed significantly to the breakup of eastern Gondwana and that eastern Gondwana first disintegrated and dispersed at ca.147 Ma, the Indian plate separated completely from the eastern Gondwana before ca.125 Ma.",
+  "raw_path": "01_raw/europepmc_xml/PMC10654728.xml",
+  "text_path": "02_text/europepmc/PMC10654728.txt",
+  "raw_bytes": 126192,
+  "text_chars": 29750,
+  "raw_sha256": "cfe16ddfe60646d01a46e1dac49b5f1ba06d84433626e25c5b0d8c056eccdb17",
+  "text_sha256": "8a1ebcad0453b10be2afe6d09ca7c15b24c1880edabf742d3a1b0aefa64b7003",
+  "retrieved_at": "2026-10-25T15:39:17.957200+00:00"
+}

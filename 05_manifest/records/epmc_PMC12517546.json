@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12517546",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sexual communication patterns of heterosexual-identified men who have sex with men.",
+  "authors": "Scheadler TR, Rowe MW, Rao S, Beer OWJ, Curtis TJ, Kwan S, Lung SC, Busch A, Vandervoort D, Shuper PA, Eaton AD.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/02654075251377141",
+  "pmcid": "PMC12517546",
+  "url": "https://europepmc.org/article/PMC/PMC12517546",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12517546/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_communication_training"
+  ],
+  "abstract": "The sexual communication patterns that comprise how heterosexual men with concordance between identity and behavior navigate their sexual encounters with women are well-established. Some heterosexual men experience discordance between their sexual identities and behaviors and may have unique practices of sexual communication, but this has not been studied. Knowledge of their sexual communication practices is an important step toward understanding and improving their sexual experiences. Therefore, semi-structured interviews were conducted with 11 heterosexual-identified men who have sex with men to learn more about their sexual communication strategies. Three themes were identified through interpretative phenomenological analysis: meeting sex partners, clear communication with men, and poor communication with women. Findings suggest that sexual communication is gendered. Participants reported utilizing short and explicit verbal and written communication strategies with other men via the internet and in various sexualized venues. Yet, participants more frequently used implicit sexual cues as the primary source of sexual communication when with women. Implications related to boosting sexual satisfaction and preventing nonconsensual sexual encounters are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC12517546.xml",
+  "text_path": "02_text/europepmc/PMC12517546.txt",
+  "raw_bytes": 121432,
+  "text_chars": 50979,
+  "raw_sha256": "98072e1a2a8bd02a733957e84373ba5e435c504b0aed82ee95afb5418540cba3",
+  "text_sha256": "6853e8e8ff6ce9d125f1de93f6518bc1ea9bc569da4ebc60bbeb68517967cc18",
+  "retrieved_at": "2026-10-26T13:32:42.231240+00:00"
+}

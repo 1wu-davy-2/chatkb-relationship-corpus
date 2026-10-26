@@ -1,0 +1,23 @@
+{
+  "doc_id": "zh_wuhan_police",
+  "source": "zh_official",
+  "source_type": "police",
+  "title": "涉案1.8亿！“完美恋人”全流程",
+  "page_title": "武汉市公安局",
+  "url": "https://gaj.wuhan.gov.cn/jmzx/jfts/202506/t20250617_2596634.html",
+  "language": "zh",
+  "license": "official_public_document",
+  "license_url": "",
+  "topics": [
+    "scam",
+    "money",
+    "online_dating"
+  ],
+  "excerpt_only": true,
+  "raw_path": "01_raw/zh_official/wuhan_police.html",
+  "text_path": "02_text/zh_official/wuhan_police.txt",
+  "raw_bytes": 107508,
+  "text_chars": 2100,
+  "text_sha256": "33a30d81bd8c588980a36f7eb25b2573c2758ecbb45d6e3de12386b5a346edfc",
+  "retrieved_at": "2026-10-25T13:58:29.168887+00:00"
+}

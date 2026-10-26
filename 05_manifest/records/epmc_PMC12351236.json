@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12351236",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marital Bargaining and Assortative Mating on Fertility Preference : Evidence based on Cross-sectional Data in China.",
+  "authors": "Zhuang M, Naito H.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.12688/f1000research.151196.4",
+  "pmcid": "PMC12351236",
+  "url": "https://europepmc.org/article/PMC/PMC12351236",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12351236/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_market"
+  ],
+  "abstract": "Background Behaviors regarding child-bearing are among the most consequential ones within families, as child-rearing necessitates the active involvement of both partners. This dynamic suggests that individuals may seek partners with similar fertility preferences, leading to assortative mating based on these shared preferences. Data and methods This study investigates second-child fertility outcomes using data from the 2018 China Family Panel Studies and applies the Ordinary Least Squares (OLS) regression. Furthermore, it examines assortative matching based on fertility preferences, utilizing the 2020 provincial-level sex ratio for individuals aged 20-39 as a proxy for women's bargaining power in the marriage market. Results The results, based on a sample of 2,351 household-level observations, indicate that spouses' preferences are complementary. When a husband (or wife) desires a second child, their own preference has a stronger impact on the actual outcome to have of having a second child if their partner also expresses the same desire. Additionally, the findings reveal evidence of assortative mating in terms of preferences for the desired number of children. Moreover, in provinces with higher male-to-female sex ratios-indicating stronger bargaining power for women-a wife's preference is more strongly aligned with her husband's preference. For men, however, a husband's preference aligns with his wife's preference regardless of the sex ratio, suggesting that men's bargaining power in the marriage market is relatively weak. Conclusions The findings have two key implications. First, shared fertility preferences between spouses show a complementary effect, increasing the likelihood of having a second child. Second, marriage matching is not random, as individuals are more likely to partner with those who share similar fertility preferences. Additionally, women with greater bargaining power are positively associated with their husbands' desired family size.",
+  "raw_path": "01_raw/europepmc_xml/PMC12351236.xml",
+  "text_path": "02_text/europepmc/PMC12351236.txt",
+  "raw_bytes": 176888,
+  "text_chars": 48111,
+  "raw_sha256": "7a1448bb8d73b6bb609010a7e0e1c63bf8ad30d329d1d18d73535b35dd22412d",
+  "text_sha256": "779621c7704d0eebe8b4971c8382ceee9aaf8b059469c08fa36178509389f810",
+  "retrieved_at": "2026-10-25T15:31:04.821890+00:00"
+}

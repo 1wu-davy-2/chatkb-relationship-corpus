@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10766631",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Divorce prediction using machine learning algorithms in Ha'il region, KSA.",
+  "authors": "Moumen A, Shafqat A, Alraqad T, Alshawarbeh ES, Saber H, Shafqat R.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1038/s41598-023-50839-1",
+  "pmcid": "PMC10766631",
+  "url": "https://europepmc.org/article/PMC/PMC10766631",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10766631/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "gottman"
+  ],
+  "abstract": "The application of artificial intelligence (AI) in predictive analytics is growing in popularity. It has the power to offer ground-breaking solutions for a range of social problems and real world societal difficulties. It is helpful in addressing some of the social issues that today's world seems incapable of solving. One of the most significant phenomena affecting people's lives is divorce. The goal of this paper is to study the use of machine learning algorithms to determine the effectiveness of divorce predictor scale (DPS) and identify the reasons that usually lead to divorce in the scenario of Hail region, KSA. For this purpose, in this study, the DPS, based on Gottman couples therapy, was used to predict divorce by applying different machine learning algorithms. There were 54 items of the DPS used as features or attributes for data collection. In addition to the DPS, a personal information form was utilized to gather participants' personal data in order to conduct this study in a more structured and traditional manner. Out of 148 participants 116 participants were married whereas 32 were divorced. With the use of algorithms artificial neural network (ANN), naïve bayes (NB), and random forest (RF), the effectiveness of DPS was examined in this study. The correlation based feature selection method was used to identify the top six features from the same dataset and the highest accuracy rate was 91.66% with RF. The results show that DPS can predict divorce. This scale can help family counselors and therapists in case formulation and intervention plan development process. Additionally, it may be argued that the Hail region, KSA sampling confirmed the Gottman couples treatment predictors.",
+  "raw_path": "01_raw/europepmc_xml/PMC10766631.xml",
+  "text_path": "02_text/europepmc/PMC10766631.txt",
+  "raw_bytes": 95708,
+  "text_chars": 32311,
+  "raw_sha256": "7d4193f4d0c5b829f4ed7d2947eefc65f44d2ebda72d8bac182793d1e80f71a5",
+  "text_sha256": "82d9006fb61f3ba5cc9611e22a687aa448d01ef373a79eefeafb9b233eeba305",
+  "retrieved_at": "2026-10-25T13:47:23.870314+00:00"
+}

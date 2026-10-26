@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12349072",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Infidelity among parents in committed relationships during the COVID-19 pandemic.",
+  "authors": "Campbell JT, Viegas de Moraes Leme LF, Gesselman AN.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1371/journal.pone.0329015",
+  "pmcid": "PMC12349072",
+  "url": "https://europepmc.org/article/PMC/PMC12349072",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12349072/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "The COVID-19 pandemic has profoundly affected various aspects of personal life, including romantic relationships. While existing research has explored the pandemic's impact on relationship quality and behavior, little attention has been given to the influence of the pandemic on infidelity. This study aims to explore how the COVID-19 pandemic may have influenced both the increased desire for and the actual engagement in infidelity among individuals in relationships, with a particular emphasis on parents. We conducted a cross-sectional survey of romantically partnered U.S. adults (N = 1,070), to examine self-reported increased desire for and engagement in infidelity. Using linear and binary logistic regressions, we investigated how parental status (parent vs. non-parent) affected this desire or engagement, with gender (men vs. women) included as a moderating variable and controlling for the occurrence of one or more stressful relationship events during the COVID-19 pandemic. Our findings indicated that parents (vs. non-parents) reported increased desire for, and engagement in, infidelity; men also reported increased desire and engagement than did women, but gender did not moderate the links between parental status and infidelity. These results suggest that parents and men may be especially vulnerable to high stress like that brought about by the COVID-19 pandemic; these individuals and their current romantic relationships may benefit from targeted social support.",
+  "raw_path": "01_raw/europepmc_xml/PMC12349072.xml",
+  "text_path": "02_text/europepmc/PMC12349072.txt",
+  "raw_bytes": 149982,
+  "text_chars": 49240,
+  "raw_sha256": "a3e11434f57eb0b57d9d1ef5a7e6a22d4a2a407db27ee6935f7a3cd42bdc696c",
+  "text_sha256": "fab05d0865088a2425632922922ba4ea8c272f0e362057b13ab738bd7c661ea2",
+  "retrieved_at": "2026-10-25T15:28:25.739250+00:00"
+}

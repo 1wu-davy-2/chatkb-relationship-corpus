@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_guanxi",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "关系 (社会学)",
+  "requested_title": "關係 (社會學)",
+  "url": "https://zh.wikipedia.org/wiki/%E5%85%B3%E7%B3%BB_(%E7%A4%BE%E4%BC%9A%E5%AD%A6)",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "culture",
+    "china",
+    "social"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/guanxi.json",
+  "text_path": "02_text/zh_wikipedia/guanxi.txt",
+  "raw_bytes": 4138,
+  "text_chars": 1575,
+  "text_sha256": "6877fab7295fc2fe4f3a5f1d4e509fc025a45ed571b28277e88a80fdf6dff4a5",
+  "retrieved_at": "2026-10-25T15:59:10.226984+00:00"
+}

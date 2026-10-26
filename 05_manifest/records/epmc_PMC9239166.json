@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9239166",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Neural Processing of Facial Attractiveness and Romantic Love: An Overview and Suggestions for Future Empirical Studies.",
+  "authors": "Ueda R.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2022.896514",
+  "pmcid": "PMC9239166",
+  "url": "https://europepmc.org/article/PMC/PMC9239166",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9239166/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Romantic love is universally observed in human communities, and the manner in which a person chooses a long-term romantic partner has been a central question in studies on close relationships. Numerous empirical psychological studies have demonstrated that facial attractiveness greatly impacts initial romantic attraction. This close link was further investigated by neuroimaging studies showing that both viewing attractive faces and having romantic thoughts recruit the reward system. However, it remains unclear how our brains integrate perceived facial attractiveness into initial romantic attraction. In addition, it remains unclear how our brains shape a persistent attraction to a particular person through interactions; this persistent attraction is hypothesized to contribute to a long-term relationship. After reviewing related studies, I introduce methodologies that could help address these questions.",
+  "raw_path": "01_raw/europepmc_xml/PMC9239166.xml",
+  "text_path": "02_text/europepmc/PMC9239166.txt",
+  "raw_bytes": 109760,
+  "text_chars": 29653,
+  "raw_sha256": "c1959cb80f960e176fa2af27d701c70b6c666b16505184bc743e0c4e620ac404",
+  "text_sha256": "52f46492679e323bae7bfa4f8a86b5ab1647d87d7b40dfd23f3919edc6046fa9",
+  "retrieved_at": "2026-10-25T15:36:36.696526+00:00"
+}

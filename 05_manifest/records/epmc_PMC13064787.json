@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13064787",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Love is expensive: the impact of initiating versus terminating romantic relationships on the onset of obsessive-compulsive disorder.",
+  "authors": "Marazziti D, Fontenelle LF, de-Medeiros GA, Moreira-de-Oliveira ME, de Menezes GB, Carbone MG, Palermo S, Foresi Crowther L, Weiss F, Gurrieri R, Arone A.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1017/s1092852925000033",
+  "pmcid": "PMC13064787",
+  "url": "https://europepmc.org/article/PMC/PMC13064787",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13064787/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "breakup_divorce"
+  ],
+  "abstract": "Introduction Recently, some observational studies suggested that romantic love (RL) might influence the phenotypic expression of obsessive-compulsive disorder (OCD). The aim of the present study was to investigate the impact of different stages of RL on the clinical expression of OCD. Materials and methods Two hundred and twelve patients with OCD onset related to the development or the termination of a romantic relationship (RR) and who were attending outpatient units at the University Psychiatric Clinic of Pisa, Italy, and seven specialized OCD clinics in Brazil were recruited. The assessment instruments were: the Structured Clinical Interview for DSM-5 Disorders (SCID-5), the Yale OCD Natural History Questionnaire, and the Yale-Brown Obsessive-Compulsive Scale (Y-BOCS). Participants were divided into two groups (love-precipitated [LP-OCD] and break-up OCD [BU-OCD]). Results The total Y-BOCS and obsessions and compulsions subscales scores were similar and indicative of severe OCD in the two groups. The average age of onset was significantly lower in the BU-OCD group, perhaps reflecting a vulnerability of the brain's maturational stages to \"undesirable\" events in young individuals at risk for OCD. A trend towards aggression and symmetry, and ordering and rearrangement dimensions in BU-OCD patients emerged, possibly reflecting an amplification of some normal features of a RR. Conclusions Our findings suggest that different stages of RL may influence some features of OCD, namely the age of onset and specific dimensions. Again, RL poses the risk of developing this pathological condition in vulnerable individuals. Further research on the topic should be encouraged.",
+  "raw_path": "01_raw/europepmc_xml/PMC13064787.xml",
+  "text_path": "02_text/europepmc/PMC13064787.txt",
+  "raw_bytes": 97613,
+  "text_chars": 30862,
+  "raw_sha256": "d0ec452c9af89dadf99971f044a298993d34013d2369f632c49b51096217fb24",
+  "text_sha256": "e147ac0fb6f481b49aa42cb48bed317285a7f55be50ac19f9a2d13f59f73e623",
+  "retrieved_at": "2026-10-25T13:57:33.111546+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_orgasm",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "性高潮",
+  "requested_title": "性高潮",
+  "url": "https://zh.wikipedia.org/wiki/%E6%80%A7%E9%AB%98%E6%BD%AE",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 性高潮",
+  "topics": [
+    "sexuality",
+    "physiology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/orgasm.json",
+  "text_path": "02_text/zh_wikipedia/orgasm.txt",
+  "raw_bytes": 56122,
+  "text_chars": 20866,
+  "text_sha256": "838fd359f54834a527b6f5928bce8d67589c7c18d1ed3676828b8ed15cd5e7c3",
+  "retrieved_at": "2026-10-26T13:00:16.381097+00:00"
+}

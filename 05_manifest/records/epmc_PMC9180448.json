@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9180448",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Is This Stalking? Perceptions and Victimization Experiences of Stalking and Intrusive Behaviors in Hong Kong, Mainland China, and Ghana.",
+  "authors": "Chan HCO.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.3390/ijerph19116689",
+  "pmcid": "PMC9180448",
+  "url": "https://europepmc.org/article/PMC/PMC9180448",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9180448/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "china_marriage"
+  ],
+  "abstract": "Many studies of stalking and intrusive behaviors are conducted with samples from individualist Western cultures, and limited information is available on such behavior in collectivist cultures. By using a sample of 1143 adults (440 males and 703 females) from Hong Kong ( n = 305), mainland China ( n = 464), and Ghana ( n = 374), this study compares perceptions and experiences of stalking and intrusive behaviors as well as the frequency and duration of the participants' worst experiences with such behaviors. The lifetime prevalence rate of stalking victimization for the overall sample was 34.6%, 22.3% for the Hong Kongers, 32.3% for the mainland Chinese, and 47.3% for the Ghanaians. Relative to the Hong Kongers and Ghanaians, the mainland Chinese were more likely to judge most intrusive activities as unacceptable. However, the mainland Chinese were generally less likely to have experienced the listed intrusive activities than their counterparts. The Ghanaians, in contrast, reported significantly more victimization experiences than the Hong Kongers and the mainland Chinese, especially with aggression and surveillance, unwanted attention, and persistent courtship and imposition types of behaviors. Furthermore, the mainland Chinese and Ghanaians generally reported significantly higher frequencies of stalking and intrusive behavior in their worst experiences than did the Hong Kongers. Conversely, the Hong Kongers and Ghanaians reported significantly more persistent types of stalking and intrusive behaviors than the mainland Chinese. The results of this study indicate the need for anti-stalking legislation in Hong Kong, mainland China, and Ghana, given the devastating nature and consequences of stalking and intrusive behaviors there.",
+  "raw_path": "01_raw/europepmc_xml/PMC9180448.xml",
+  "text_path": "02_text/europepmc/PMC9180448.txt",
+  "raw_bytes": 299230,
+  "text_chars": 52736,
+  "raw_sha256": "23ef16d87aeff04eedd6a13d34e996f489a8f8e12203e6b14c82d5a920f23113",
+  "text_sha256": "471d0949f6c4072a79c733e10c174046cb2e473d61b8b39890e40310d704868b",
+  "retrieved_at": "2026-10-25T13:58:06.095894+00:00"
+}

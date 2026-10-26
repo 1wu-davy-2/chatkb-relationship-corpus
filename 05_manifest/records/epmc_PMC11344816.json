@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11344816",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Young adults' desired life tradeoffs: love first, sex last.",
+  "authors": "Benenson JF, Markovits H.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1038/s41598-024-70742-7",
+  "pmcid": "PMC11344816",
+  "url": "https://europepmc.org/article/PMC/PMC11344816",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11344816/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "money"
+  ],
+  "abstract": "Every human and non-human animal must make tradeoffs in investments in terms of time, energy, and resources. The aim of this study was to extrapolate from the types of investments in survival and reproduction that non-human animals make and translate these into human motivations. 16 potential goals were presented to 851 childless, 18-23-year-old adults from 11 world regions in an online study. Each young adult was asked to weight the importance of every goal to his or her ideal life. Weights had to sum to 100, requiring tradeoffs. Results revealed striking agreement across young adults with only four goals weighted above chance: Finding a beloved romantic partner, being physically and emotionally healthy, and earning money or resources. Having lots of sexual partners was the least important goal across all world regions for both sexes. Nevertheless, men more than women valued having many sexual partners, being talented outside work, being physically strong, and having a physically attractive romantic partner. Overall, there was cultural variation in some of the less important goals. Helping young adults achieve success requires understanding their own goals, rather than focusing on popularized depictions of what young adults desire.",
+  "raw_path": "01_raw/europepmc_xml/PMC11344816.xml",
+  "text_path": "02_text/europepmc/PMC11344816.txt",
+  "raw_bytes": 187641,
+  "text_chars": 38184,
+  "raw_sha256": "955ac84d3c8538e805f85a8b5d8b2bbe31243f93954bda4f53145409a58f9eab",
+  "text_sha256": "49c88194f2f2cb3a7049fc420410c152cb678cdd8e6af563f60afd7405ccad28",
+  "retrieved_at": "2026-10-25T15:35:37.557326+00:00"
+}

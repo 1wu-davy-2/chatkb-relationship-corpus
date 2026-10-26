@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13112717",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "What makes partners attractive? Slovak adaptation and psychometric validation of the Interpersonal Attraction Scale and its short forms.",
+  "authors": "Kernová L, Halamová J.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1186/s40359-026-04379-8",
+  "pmcid": "PMC13112717",
+  "url": "https://europepmc.org/article/PMC/PMC13112717",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13112717/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "BACKGROUND: Interpersonal attraction, encompassing the positive feelings, perceptions, and behavioral tendencies toward others, plays a fundamental role in the formation and maintenance of romantic relationships. Despite its importance, validated measures of this construct remain scarce outside English-speaking contexts. The Interpersonal Attraction Scale (IAS), measuring social, physical, and task attraction, has been widely used but never validated in Central Europe. This study aimed to translate, culturally adapt, and validate the IAS for Slovak couples, develop shortened versions, and establish population norms. METHODS: The sample comprised 1,090 individuals forming 545 married or cohabiting couples from Slovakia. The original 30-item IAS was adapted into a 21-item Slovak version (IAS-21), from which a 9-item version (IAS-9) was derived. The sample was randomly split for exploratory factor analysis (EFA; n = 544) and confirmatory factor analysis (CFA; n = 546). Reliability was assessed using Cronbach’s alpha and McDonald’s omega. Construct validity was examined through correlations with the Couples Satisfaction Index (CSI-16). Mokken scale analysis evaluated scalability and unidimensionality of subscales. Normative data were calculated separately for men and women. RESULTS: EFA of the IAS-21 revealed a four-factor structure, with reverse-coded items forming a separate method factor. CFA of the IAS-9 confirmed the original three-factor model with satisfactory fit (CFI = 0.982, TLI = 0.973, RMSEA = 0.069, SRMR = 0.039). Both versions demonstrated excellent internal consistency (IAS-21: α = 0.95; IAS-9: α = 0.89) and strong correlations with relationship satisfaction (r = .80 for IAS-21 total score). Mokken analysis confirmed scalability of both versions (H = 0.481 for IAS-21; H = 0.502 for IAS-9), supporting independent subscale use. CONCLUSIONS: The Slovak IAS-9 provides a psychometrically robust and efficient measure of interpersonal attraction in romantic dyads, while the IAS-21 offers a more comprehensive alternative. This study represents the first validation of the IAS in a non-English-speaking European context, contributing to cross-cultural comparability in attraction research. Both versions are recommended for use in research and clinical practice with couples.",
+  "raw_path": "01_raw/europepmc_xml/PMC13112717.xml",
+  "text_path": "02_text/europepmc/PMC13112717.txt",
+  "raw_bytes": 187093,
+  "text_chars": 62609,
+  "raw_sha256": "827093e4707758ac0fa9ab3c3fb926ca89251b6f8de46bf3b851946d56f0ac2e",
+  "text_sha256": "3922eebd8c155283c65562d96fa979d31fb381ddcebb9fb90e07ef509b51d272",
+  "retrieved_at": "2026-10-25T13:48:14.173423+00:00"
+}

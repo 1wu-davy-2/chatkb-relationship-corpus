@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC13534682",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Hormonal contraceptive use is associated with love intensity across 51 countries.",
+  "authors": "Kowal M, Sorokowski P, Misiak M, Malecki WP, Sorokowska A, Craig Roberts S.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1038/s41598-026-56430-8",
+  "pmcid": "PMC13534682",
+  "url": "https://europepmc.org/article/PMC/PMC13534682",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13534682/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "maintenance",
+    "romantic_relationship"
+  ],
+  "abstract": "Hormonal contraception has revolutionized women's reproductive control, yet its effects on romantic relationships are underexplored. We tested the Congruency Hypothesis, which predicts that changes in hormonal contraceptive (HC) use after forming a romantic relationship can reduce relationship quality. Using semi-representative samples from 51 countries (n = 10,482), we analyzed partnered women aged 45 or younger (n = 2,224) who reported HC use both when they met their partner and at the time of the study, and who rated their relationship satisfaction and intensity of the three components of love: Intimacy, Passion, and Commitment toward their partner. We found no robust support for the Congruency Hypothesis. However, in a weighted model, participants who changed their HC use pattern reported slightly lower Passion than those who consistently used (or consistently did not use) HC. Our study contributes to the growing body of research on the role of HCs by offering some reassurance: for most women, choosing or changing HCs is unlikely to meaningfully alter their relationship quality, including their experience of love and relationship satisfaction. We acknowledge, however, that our study was underpowered to detect very small effect sizes (e.g., r = .04) reported in a recent meta-analysis, and should therefore not be read as a definitive contribution in the ongoing debate. Although such small effects are generally considered practically negligible at the population level, they may nonetheless carry personal relevance for individual women.",
+  "raw_path": "01_raw/europepmc_xml/PMC13534682.xml",
+  "text_path": "02_text/europepmc/PMC13534682.txt",
+  "raw_bytes": 143894,
+  "text_chars": 45691,
+  "raw_sha256": "abb0c01c17bf634407c288a4375968f71bb3cc32e367115da9cbd8fc8d20597f",
+  "text_sha256": "0afe26bcf012f37aaea71451155d390bea3d9220d54b058f5e2000509eadf4e2",
+  "retrieved_at": "2026-10-25T13:48:10.681165+00:00"
+}

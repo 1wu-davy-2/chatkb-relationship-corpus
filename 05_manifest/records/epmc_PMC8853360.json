@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8853360",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Was it Good for You? Gender Differences in Motives and Emotional Outcomes Following Casual Sex.",
+  "authors": "McKeen BE, Anderson RC, Mitchell DA.",
+  "year": "2022",
+  "journal": "",
+  "doi": "10.1007/s12119-022-09946-w",
+  "pmcid": "PMC8853360",
+  "url": "https://europepmc.org/article/PMC/PMC8853360",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8853360/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity_sex"
+  ],
+  "abstract": "Casual sex, also referred to as a hookup, has been associated with a range of negative emotional outcomes for women, including regret, anxiety, depression and social stigma. However, it has been argued that it is the nature of the sexual motivation, not gender that influences the emotional outcome. This study was designed to ascertain what motivates people to have casual sex, what emotional outcomes follow casual sex and whether there are gender differences among these variables. Seven hundred and one participants (47% men and 52.8% women) completed a 44-item online survey. Gender differences were found for both sexual motivations and emotional outcomes of casual sex, with women generally having more negative emotional outcomes than men. Additionally, a principal components analysis uncovered four reliable principal motivations underlying engagement in casual sex, and three principal emotional outcomes of casual sex. Predictors of negative emotional outcomes included being motivated to regulate negative emotions and to achieve positive emotions. No predictors (apart from being a man) were found for a positive emotional outcome. While the stigma surrounding female sexual agency is diminishing, results generally support the presence of a sexual double-standard which encourages male promiscuity but dissuades female sexual autonomy.",
+  "raw_path": "01_raw/europepmc_xml/PMC8853360.xml",
+  "text_path": "02_text/europepmc/PMC8853360.txt",
+  "raw_bytes": 145755,
+  "text_chars": 49599,
+  "raw_sha256": "c4b1201703979a8feb301bbe993944272ea63a66cb0b9efc72eda82b75f290cb",
+  "text_sha256": "a07fa70b13049710b7066f29fa4add54de062be09fe8525792e2c41e970aa248",
+  "retrieved_at": "2026-10-26T13:07:27.344963+00:00"
+}

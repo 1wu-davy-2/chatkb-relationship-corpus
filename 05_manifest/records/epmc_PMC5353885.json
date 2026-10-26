@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5353885",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "The gender gap in relation to happiness and preferences in married couples after childbirth: evidence from a field experiment in rural Ghana.",
+  "authors": "Kamiya Y, Akpalu B, Mahama E, Ayipah EK, Owusu-Agyei S, Hodgson A, Shibanuma A, Kikuchi K, Jimba M, Ghana EMBRACE Implementation Research Project Team.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.1186/s41043-017-0084-2",
+  "pmcid": "PMC5353885",
+  "url": "https://europepmc.org/article/PMC/PMC5353885",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5353885/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "trust"
+  ],
+  "abstract": "Background How does the gap in preferences between married couples affect their happiness after childbirth? Are couples that share similar preferences happier? In recent years, gender, marriage, and happiness have been considered to be key issues in public health research. Although much research has examined the happiness status of married couples, practically no study has explored the gender gap in relation to happiness and the preferences of married couples after childbirth. Therefore, our study was conducted to assess the association between the preference gap and the happiness status among married couples in the afterbirth period. Methods We conducted a field experiment in rural communities in the Brong-Ahafo region of Ghana. Participants were 80 married couples who had experienced childbirth within 2 years prior to the survey. As preference indicators, we measured trust, reciprocity, altruism, and risk lovingness through an economic experiment. Then, we assessed how, for a couple, the gap between these preferences affected their happiness. Results Wives' happiness was positively associated with the absolute value of the gap in risk lovingness between a couple (OR = 4.83, p = 0.08), while husbands' happiness was negatively associated with the gap in trust (OR = -3.58, p = 0.04) or altruism (OR = -3.33, p = 0.02). Within a couple, wives felt greater happiness than their husbands if there was a wider gap in trust (OR = 6.22, p = 0.01), reciprocity (OR = 2.80, p = 0.01), or risk lovingness (OR = 3.81, p = 0.07). Conclusions The gender gaps in the preference indicators were found to be closely associated with the happiness levels between married couples after childbirth. For the further improvement of maternal and child health, we must consider the gender gaps between couples in relation to happiness and preferences.",
+  "raw_path": "01_raw/europepmc_xml/PMC5353885.xml",
+  "text_path": "02_text/europepmc/PMC5353885.txt",
+  "raw_bytes": 100237,
+  "text_chars": 27366,
+  "raw_sha256": "55e7bf77377e662b4614fe9e2b126ba3a30c459eca01e6548f33c6a7be738211",
+  "text_sha256": "392e24ed9fb4c5f1374b225a95b640b5991e875f3761006d615ca8bf4542d60a",
+  "retrieved_at": "2026-10-25T15:44:51.858959+00:00"
+}

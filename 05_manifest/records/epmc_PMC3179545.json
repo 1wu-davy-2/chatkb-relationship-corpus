@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC3179545",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mathematical model of the dynamics of psychotherapy.",
+  "authors": "Liebovitch LS, Peluso PR, Norman MD, Su J, Gottman JM.",
+  "year": "2011",
+  "journal": "",
+  "doi": "10.1007/s11571-011-9157-x",
+  "pmcid": "PMC3179545",
+  "url": "https://europepmc.org/article/PMC/PMC3179545",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3179545/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "gottman"
+  ],
+  "abstract": "The success of psychotherapy depends on the nature of the therapeutic relationship between a therapist and a client. We use dynamical systems theory to model the dynamics of the emotional interaction between a therapist and client. We determine how the therapeutic endpoint and the dynamics of getting there depend on the parameters of the model. Previously Gottman et al. used a very similar approach (physical-sciences paradigm) for modeling and making predictions about husband-wife relationships. Given that this novel approach shed light on the dyadic interaction between couples, we have applied it to the study of the relationship between therapist and client. The results of our computations provide a new perspective on the therapeutic relationship and a number of useful insights. Our goal is to create a model that is capable of making solid predictions about the dynamics of psychotherapy with the ultimate intention of using it to better train therapists.",
+  "raw_path": "01_raw/europepmc_xml/PMC3179545.xml",
+  "text_path": "02_text/europepmc/PMC3179545.txt",
+  "raw_bytes": 91652,
+  "text_chars": 39946,
+  "raw_sha256": "a40353b58e1bab40a1139c0c063329807232277dfefc3faad033c630609dce09",
+  "text_sha256": "d7421a9d21922dd7f4d63359e97dc47d21233a6bc5413895628be11be23635d3",
+  "retrieved_at": "2026-10-25T13:54:35.917644+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10303476",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Sperm Competition Risk: The Connections That Partner Attractiveness and Infidelity Risk Have with Mate Retention Behaviors and Semen-Displacing Behaviors.",
+  "authors": "Vance G, Zeigler-Hill V, Shackelford TK.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1177/14747049231161075",
+  "pmcid": "PMC10303476",
+  "url": "https://europepmc.org/article/PMC/PMC10303476",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10303476/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "infidelity"
+  ],
+  "abstract": "The present studies investigated the relationships between men's perceived risk of experiencing sperm competition (i.e., when the ejaculates of two or more men simultaneously occupy the reproductive tract of a single woman), and their use of strategies to detect, prevent, and correct their partner's sexual infidelity. We investigated these associations using self-reports provided by men (Study 1, n = 113), partner-reports provided by women (Study 2, n = 136), and dyadic reports (Study 3, n = 103 couples). The results of these studies indicated that the attractiveness of women was consistently associated with men's use of benefit-provisioning mate retention behaviors (e.g., buying expensive gifts for one's partner, showing signs of physical affection) and semen-displacing behaviors (e.g., deeper copulatory thrusting, more thrusts during copulation), whereas the infidelity risk of women was often associated with men's use of cost-inflicting mate retention behaviors (e.g., threatening to end the relationship, monopolization of partner's free time). Discussion addresses the evolutionary implications of these results, including the possibility that men use both benefit-provisioning mate retention behaviors and semen-displacing behaviors when they perceive their partner to be more attractive, ostensibly as a way to mitigate their risk of sperm competition. Discussion also explores the extent to which these results extend those of previous studies concerning sperm competition risk.",
+  "raw_path": "01_raw/europepmc_xml/PMC10303476.xml",
+  "text_path": "02_text/europepmc/PMC10303476.txt",
+  "raw_bytes": 85529,
+  "text_chars": 44659,
+  "raw_sha256": "d15fdef9f601b9fb497dca63fac9b3f296772ea53e0968a530d97efabad5ad1f",
+  "text_sha256": "49f8de8144ae4aa839eb6a7b4e089733fc651b32886f029c3e1fcd9a06a9ecdb",
+  "retrieved_at": "2026-10-25T15:36:48.975939+00:00"
+}

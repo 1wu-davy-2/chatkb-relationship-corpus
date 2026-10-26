@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13522160",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Psychometric evaluation of a new love scale, measuring the content and modality dimensions, based on love and rejection messages theory.",
+  "authors": "Cǎdariu IE, Vîşcu LI, Eşi MC, Marici M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2026.1806481",
+  "pmcid": "PMC13522160",
+  "url": "https://europepmc.org/article/PMC/PMC13522160",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13522160/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Introduction Existing measures of romantic love primarily assess global feelings, attitudes, or relationship satisfaction, providing limited insight into how love is communicated in everyday interactions. Methods The present study evaluated the psychometric properties of the Marici Love Messages Scale (MLMS), developed within the Love and Rejection Messages Theory (LRMT) to assess two complementary dimensions of love messages: Content (what partners do) and Modality (how these actions are expressed). Two independent community samples were used for exploratory and confirmatory analyses. Results The findings supported the proposed factor structure and demonstrated high internal consistency for both subscales. Strong associations with Sternberg's dimensions of intimacy, passion, and commitment provided evidence of convergent validity, while discriminant validity was also supported. Measurement invariance across gender was supported at the configural, metric, scalar, and strict levels. Regression analyses further indicated that the Content and Modality dimensions explained unique variance beyond Sternberg's model, supporting their incremental validity. Discussion The results suggest that the MLMS is a reliable and valid instrument for assessing everyday expressions of love and may be useful in both relationship research and6 clinical practice.",
+  "raw_path": "01_raw/europepmc_xml/PMC13522160.xml",
+  "text_path": "02_text/europepmc/PMC13522160.txt",
+  "raw_bytes": 124545,
+  "text_chars": 42212,
+  "raw_sha256": "fb92f5608e08137459573e22ef87cfdd603c02124a628348a54c913eb70c435f",
+  "text_sha256": "0b61bbf27556bdb7d6cd33c7af0942c6f277643f1b6bd76c9bfb894582c4ff25",
+  "retrieved_at": "2026-10-25T13:52:06.432217+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11893589",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Distinct roles of early life deprivation and unpredictability in shaping mating-related behaviours and sexual harassment perceptions.",
+  "authors": "Xu C, Sun S, Zhang X, Wang Z.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1548676",
+  "pmcid": "PMC11893589",
+  "url": "https://europepmc.org/article/PMC/PMC11893589",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11893589/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_positive_attitudes"
+  ],
+  "abstract": "Background Evolutionary-developmental theories propose that early life adversity (ELA) shapes mating patterns. However, evidence is mixed, and the extent to which ELA influences attitudes and perceptions remains underexplored. This research takes a dimensional approach to examine how different forms of ELA relate to mating outcomes and social perceptions in men across two distinct samples. Methods Study 1 analysed a U.S. sample ( N = 1036) using Add Health Wave V data. Study 2 examined a Chinese sample ( N = 292), collecting data on childhood SES, childhood environmental unpredictability, sociosexual orientation, and perceptions of sexual harassment. Results Study 1 found that financial deprivation was associated with a higher number of partner pregnancies and live births but not with the number of sexual partners. Study 2 revealed that childhood unpredictability was positively associated with misperceptions of sexual interest, defined as perceiving mutual romantic interest even when one party experiences unwanted sexual attention. Additionally, childhood SES was positively associated with misperceptions of sexual interest but negatively associated with recognising boundary violations. Conclusion These findings suggest that ELA may influence mating-related outcomes through distinct pathways: childhood unpredictability shapes sociosexual orientation, while deprivation-based adversity involves more multifaceted mechanisms, such as cognitive socialisation processes. This research underscores the need for more nuanced predictions within life history theory and highlights the importance of integrating frameworks that account for the cognitive and developmental consequences of deprivation.",
+  "raw_path": "01_raw/europepmc_xml/PMC11893589.xml",
+  "text_path": "02_text/europepmc/PMC11893589.txt",
+  "raw_bytes": 169242,
+  "text_chars": 57015,
+  "raw_sha256": "ca144f33bd281b4e780b7bcc62582a574af669d34c973cacd73f76ebf7f7d2f0",
+  "text_sha256": "9fcf136f98510404365b3698a8b2e715742098cb0bac9c9d736e1e15e3da3a98",
+  "retrieved_at": "2026-10-26T13:10:13.981536+00:00"
+}

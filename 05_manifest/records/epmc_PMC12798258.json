@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12798258",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "'Finding a relationship': Conversations between mental health and social care staff, and service users about service users' romantic relationships.",
+  "authors": "Emery-Rhowbotham A, Killaspy H, Eager S, Lloyd-Evans B.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1371/journal.pmen.0000184",
+  "pmcid": "PMC12798258",
+  "url": "https://europepmc.org/article/PMC/PMC12798258",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12798258/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "social_media"
+  ],
+  "abstract": "Most people seek to establish romantic or intimate relationships in life, including people with mental health problems. However, this has been a neglected topic in mental health practice and research. This study aimed to investigate views of mental health and social care staff about the appropriateness of helping service users with romantic relationships, barriers to doing this, and suggestions for useful ways to support this. An online survey comprising both closed, multiple response and free-text questions was circulated to mental health organisations across the U.K. via social media, professional networks and use of snowballing sampling. A total of 63 responses were received. Quantitative data were analysed using descriptive statistics, and are reported as frequencies and percentages. Qualitative data were interpreted using thematic analysis, using an inductive approach. Although most participants reported that 'finding a relationship' conversations were appropriate in their job role, many barriers to supporting service users were identified, including: a lack of training; concerns about professional boundaries; concerns about service user capacity and vulnerability; and concerns about being intrusive. Participant suggestions for future support included educating service users on safe dating behaviours, and practical interventions such as assisting service users to use dating sites and engage with social activities to develop social skills and meet others. Staff were willing to help service users seek an intimate relationship but may need specific training or guidance to facilitate this confidently and safely. This study elucidates the need for further research in this area, particularly in understanding service user perspectives, and in developing resources to support staff in this work.",
+  "raw_path": "01_raw/europepmc_xml/PMC12798258.xml",
+  "text_path": "02_text/europepmc/PMC12798258.txt",
+  "raw_bytes": 173223,
+  "text_chars": 49452,
+  "raw_sha256": "d453125dabe11716927699bb2892b5b6e122aa2c7bd039f1f2d7e6c6bb730a82",
+  "text_sha256": "f374cab7d73b07256a68c7da868902c1871b13197a40e72c85493c47c5761008",
+  "retrieved_at": "2026-10-25T13:53:56.389838+00:00"
+}

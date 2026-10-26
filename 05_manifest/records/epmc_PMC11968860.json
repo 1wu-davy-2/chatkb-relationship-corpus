@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11968860",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Neural activation in a septal area is related to intrinsic motivation for non-courtship singing in adult zebra finches.",
+  "authors": "Mori C, Ok-Yi J, Kim Y, Kojima S.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1038/s41598-025-96096-2",
+  "pmcid": "PMC11968860",
+  "url": "https://europepmc.org/article/PMC/PMC11968860",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11968860/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "flirting"
+  ],
+  "abstract": "Intrinsic motivation, which drives animals, including humans, to exhibit various voluntary behaviors, spontaneously originates within the brain without immediate external stimuli such as rewards or punishments. The zebra finch, a songbird, provides an ideal model for studying the neural substrates of intrinsic motivation because male birds spontaneously produce many renditions of non-courtship song (\"undirected song\") with a highly quantifiable structure for vocal practice. Here, we identified a brain area associated with intrinsic motivation for undirected singing through brain-wide mapping of neuronal activity using immediate early gene expression in birds with different levels of singing motivation. We found that birds with relatively high singing motivation exhibit increased expression levels of Arc mRNA in a septal area, the nucleus of the hippocampal commissure (NHpC), compared with birds with low singing motivation. Such high Arc mRNA expression was not observed after highly motivated birds decreased their singing motivation. These findings demonstrate that neuronal activity in the NHpC is associated with the degree of singing motivation, marking a crucial initial step in understanding the neural circuitry regulating intrinsic motivation for spontaneous singing behavior in songbirds.",
+  "raw_path": "01_raw/europepmc_xml/PMC11968860.xml",
+  "text_path": "02_text/europepmc/PMC11968860.txt",
+  "raw_bytes": 89272,
+  "text_chars": 36969,
+  "raw_sha256": "c102bbb884178c3161572ff5221f82ae57792c270b7c4cc0eb6e21c9460e8842",
+  "text_sha256": "ea8f531f13fbf71c94ff6dc9a2696ada70983943120679c61904653385598b4c",
+  "retrieved_at": "2026-10-25T15:37:15.027659+00:00"
+}

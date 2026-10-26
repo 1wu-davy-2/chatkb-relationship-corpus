@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12057299",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A preliminary study of factors associated with accommodation of obsessive-compulsive symptoms by romantic partners.",
+  "authors": "Toohey BG, Quinlan E, Reece J, Wootton BM, Paparo J.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1111/bjc.12499",
+  "pmcid": "PMC12057299",
+  "url": "https://europepmc.org/article/PMC/PMC12057299",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12057299/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "personality"
+  ],
+  "abstract": "Objectives The accommodation of symptoms of obsessive-compulsive disorder (OCD) by loved ones is highly prevalent and impactful on treatment outcomes; however, little is known about factors that influence accommodation by romantic partners of OCD sufferers. The aim of this preliminary investigation was to explore such correlates. Methods A community sample of 50 patients self-identifying with OCD (M age = 29.3; SD = 9.3; 74% female) and 20 individuals self-identifying as the partner of someone with OCD (M age = 32.1; SD = 12.4; 65% female) participated in this study via an online questionnaire. Results Associations were found between partner accommodation of OCD and a range of obsessions and compulsions across the patient and partner samples, as well as patient-reported symptom severity, functional impairment and negative emotion states. Neuroticism was also positively associated with partner accommodation in the patient sample but did not contribute to its prediction over and above other known correlates of family accommodation. In the partner sample, extraversion was found to be a unique negative correlate of partner accommodation. Conclusions These findings highlight the vital role both patient and partner factors play in the accommodation of OCD behaviours by romantic partners and the importance of involving loved ones in the treatment of individuals with OCD.",
+  "raw_path": "01_raw/europepmc_xml/PMC12057299.xml",
+  "text_path": "02_text/europepmc/PMC12057299.txt",
+  "raw_bytes": 136171,
+  "text_chars": 42917,
+  "raw_sha256": "11d7ae9be666d2e9eb87510ef61a2d794a222c79ab7858cc6f45ae9c4d1346c9",
+  "text_sha256": "8a652b566f43d98b7bf73ae746bfbc1c3d044d9eba6424da8a281246375f5b54",
+  "retrieved_at": "2026-10-25T14:02:28.928672+00:00"
+}

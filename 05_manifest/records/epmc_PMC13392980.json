@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13392980",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Associations of Mindful Partnering With Mental and Relational Health.",
+  "authors": "Rigsby BA, Dunlop HC, Brown SM, Faw MH, Lucas-Thompson RG.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/jmft.70158",
+  "pmcid": "PMC13392980",
+  "url": "https://europepmc.org/article/PMC/PMC13392980",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13392980/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "mindfulness"
+  ],
+  "abstract": "Mindfulness is beneficial for mental health and romantic relationships. Recently, there has been a novel application of mindfulness to romantic relationships called \"mindful partnering\" (MP). Emerging evidence from interpersonal mindfulness frameworks suggests that relational forms of mindfulness may provide unique benefits for individuals and their relationships beyond those associated with partners' individual intrapersonal mindfulness. However, interpersonal mindfulness in relationships (MP) is multifaceted, and previous examinations of interpersonal mindfulness in couples have been limited by focusing on a small number of isolated features. In the current study, we applied actor-partner interdependence models in two samples (Ns = 168;170) to test how MP (including self-reports and observations) predicts mental and relational health outcomes. Results indicated that greater MP predicts fewer mental health symptoms and greater relationship health. Alongside literature supporting mindfulness as beneficial for couples, these results suggest that MP may be a strong target for couple-focused interventions.",
+  "raw_path": "01_raw/europepmc_xml/PMC13392980.xml",
+  "text_path": "02_text/europepmc/PMC13392980.txt",
+  "raw_bytes": 172392,
+  "text_chars": 42538,
+  "raw_sha256": "57e70756b844c815a4ff2bc1ec35d44a702d2e10316b21434069864b66655639",
+  "text_sha256": "1c1edea7ad7002510dc1eff2c4c845a898ba465ef84b982eb8fc90c790bba1f7",
+  "retrieved_at": "2026-10-25T15:27:35.424201+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "epmc_PMC10858624",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Digital Dating Abuse: An Application of the Theory of Planned Behavior.",
+  "authors": "McArthur J, Blais J, Ternes M.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/08862605231205595",
+  "pmcid": "PMC10858624",
+  "url": "https://europepmc.org/article/PMC/PMC10858624",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10858624/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "coercive_control",
+    "sexual_coercion"
+  ],
+  "abstract": "Social media and other technologies are being increasingly adopted as mechanisms to perpetrate abuse against dating partners. Using Ajzen's theory of planned behavior as a framework, a sample of 352 emerging adults completed a questionnaire that assessed the core constructs of the theory of planned behavior (i.e., attitudes, subjective norms, perceived behavioral control), as well as intentions to commit three types of digital dating abuse in the near future: digital monitoring and control, digital direct aggression, and digital sexual coercion. The models explained 44%, 34%, and 44% of the variance in intentions to commit digitally facilitated monitoring and control, direct aggression, and sexual coercion, respectively. Attitudes and subjective norms significantly predicted intentions, whereas perceived behavioral control did not. Given the increasing prevalence of digital dating abuse, prevention efforts should target attitudes toward digital dating abuse-related behaviors and perceptions of social acceptability and engagement.",
+  "raw_path": "01_raw/europepmc_xml/PMC10858624.xml",
+  "text_path": "02_text/europepmc/PMC10858624.txt",
+  "raw_bytes": 104689,
+  "text_chars": 39531,
+  "raw_sha256": "bb017bcf749bb3eb0057281aa3fb8518724dc9fa25bb1444b18d02b9d8afbdeb",
+  "text_sha256": "c943246d08256f0b6c0171971f4c875f3950207605b3e43d2069bb531ac90c86",
+  "retrieved_at": "2026-10-25T15:47:38.409984+00:00"
+}

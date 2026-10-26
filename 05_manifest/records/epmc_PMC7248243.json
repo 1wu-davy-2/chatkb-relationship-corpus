@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC7248243",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Towards a Comprehensive Theory of Love: The Quadruple Theory.",
+  "authors": "Tobore TO.",
+  "year": "2020",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2020.00862",
+  "pmcid": "PMC7248243",
+  "url": "https://europepmc.org/article/PMC/PMC7248243",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7248243/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "attraction"
+  ],
+  "abstract": "Scholars across an array of disciplines including social psychologists have been trying to explain the meaning of love for over a century but its polysemous nature has made it difficult to fully understand. In this paper, a quadruple framework of attraction, resonance or connection, trust, and respect are proposed to explain the meaning of love. The framework is used to explain how love grows and dies and to describe brand love, romantic love, and parental love. The synergistic relationship between the factors and how their variations modulate the intensity or levels of love are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC7248243.xml",
+  "text_path": "02_text/europepmc/PMC7248243.txt",
+  "raw_bytes": 241330,
+  "text_chars": 52513,
+  "raw_sha256": "004f366a36aa656796ec390137bb82597ad2b1f00e921a78a1237afe3620dbd8",
+  "text_sha256": "461cbf0f65755d6fd8646b9a35b6778913ec2c47ab43902e72f45bb12b357d1d",
+  "retrieved_at": "2026-10-25T15:44:50.473760+00:00"
+}

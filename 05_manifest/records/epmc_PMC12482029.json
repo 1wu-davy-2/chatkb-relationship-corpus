@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12482029",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A systematic review of counselling approaches and their impact on marital intimacy among women and couples experiencing infertility.",
+  "authors": "Salarfard M, Mahmoudinia M, Rahimi M, Roudsari RL.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s40359-025-03430-4",
+  "pmcid": "PMC12482029",
+  "url": "https://europepmc.org/article/PMC/PMC12482029",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12482029/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "gottman"
+  ],
+  "abstract": "BACKGROUND: Infertility-related stress adversely affects marital intimacy, decreases self-esteem, and decreases the rate of sexual contact. In consideration of the psychological distress and marital issues confronted by individuals with infertility, developing strategies that foster an intimate marital life is essential. This study reviewed counselling approaches and their impact on marital intimacy among women and couples experiencing infertility. METHODS: This systematic review was conducted in accordance with the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) 2020. The search of studies was performed through databases such as Web of Science, the Cochrane Library, Scopus, PubMed, PsycINFO and the Google Scholar search engine without time limitations until 16th July, 2025, using MeSH keywords of ((infertility OR infertile OR subfertile OR sterility OR subfertility OR childlessness)AND (“counselling” OR “psychosocial intervention” OR “psychological intervention” OR psychological OR “couples therapy” OR therapy OR psychotherapy) AND (“Marital intimacy” OR intimacy)). All randomized controlled trials and quasiexperimental studies regarding the effects of infertility counselling interventions on the marital intimacy of women and couples experiencing infertility were assessed by two independent researchers for quality via the Joanna Briggs Institute (JBI) checklist. RESULTS: Out of 1649 studies retrieved from physical and electronic resources, 14 studies including a total of 550 patients were systematically reviewed in this study. The results revealed that various types of infertility counselling interventions, including self-regulatory couple therapy, group therapy on the basis of quality of life, relationship enrichment training, group counselling on acceptance and commitment therapy, psychological intervention, positive couple therapy program, reality therapy, Gottman couple-centered counselling, emotion-focused couple therapy and integrated behavioral approach improve marital intimacy. CONCLUSION: Despite the positive effect of counselling interventions on marital intimacy in infertile couples, owing to the inability to conduct a meta-analysis, there is a need for more robust clinical trials to provide sufficient clinical evidence in this field.",
+  "raw_path": "01_raw/europepmc_xml/PMC12482029.xml",
+  "text_path": "02_text/europepmc/PMC12482029.txt",
+  "raw_bytes": 124878,
+  "text_chars": 39007,
+  "raw_sha256": "d3ea926d0540948153acce1a3c1401b04657f0d1eb12f22dc9b19e5f1bcfb647",
+  "text_sha256": "a6b5dae2ace6053974722653cd37b2349efb17c993ae741a547af9050b96512e",
+  "retrieved_at": "2026-10-25T13:49:12.886268+00:00"
+}

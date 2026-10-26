@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11141967",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Female sexual dysfunction-knowledge, attitude, practices, and barriers encountered by medical fraternity across the country: A web-based cross-sectional study.",
+  "authors": "Kaundal A, Renjhen P, Kumari R, Jha RP, Marwaha PD, Kaur H, Kaushal S, Malik N, Gupta J.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.4103/jfmpc.jfmpc_1013_23",
+  "pmcid": "PMC11141967",
+  "url": "https://europepmc.org/article/PMC/PMC11141967",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11141967/fullTextXML",
+  "license": "cc by-nc-sa",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "language": "eng",
+  "topics": [
+    "sex_therapy_interventions"
+  ],
+  "abstract": "Introduction Sexual dysfunction in women is common yet often remains underdiagnosed due to the lack of adequate training and experience of the doctors to manage female sexual dysfunctions. This study was done to assess the knowledge and attitude of medical professionals toward female sexual dysfunction and the various practices and barriers they encounter while managing women with sexual dysfunction. Materials and methods A web-based cross-sectional study was done using the snowball sampling method. A well-structured, self-administered, and pre-validated questionnaire containing 27 items was administered through social media. Data was collected and evaluated to assess their knowledge, practices they follow, and barriers encountered while managing female sexual dysfunction. Results A total of 513 doctors participated in the study. Out of all, only 11.1% of the doctors were often seeing patients with sexual dysfunction. Loss of desire (44%), painful intercourse (33%), lack of lubrication (18%), and anorgasmia (5%) are common symptoms with which women present. The majority of doctors (78.9%) were comfortable in starting a conversation, over half (52.6%) were confident in making a diagnosis, and 51.3% were confident in providing sexual counseling. Yet, only 11.1% were routinely screening women for sexual dysfunctions, and 33.8% were providing counseling regarding sexual issues. Lack of time (31.6%), lack of adequate training (57.3%), unavailability of effective treatment (11.9%), patient discomfort (60.62%), and patient's reluctance to seek treatment (15.8%) were the barriers encountered by doctors. When assessed for knowledge, around 30.9% had excellent knowledge (≥75 th percentile) about female sexual dysfunction. Conclusion Sexual dysfunction among women is an important health issue that significantly affects the social, mental, and physical well-being of those suffering from it. Screening for sexual dysfunction should be done routinely in day-to-day clinical practice to improve the overall quality of life of a couple.",
+  "raw_path": "01_raw/europepmc_xml/PMC11141967.xml",
+  "text_path": "02_text/europepmc/PMC11141967.txt",
+  "raw_bytes": 80678,
+  "text_chars": 17066,
+  "raw_sha256": "dae20bc247ec378f527681bc5e1b90fc85a9c3e126b06ea1028219ab0ffb5bad",
+  "text_sha256": "7d43288b8d478f8306d1a3ebc8dfb5ddd10be5d6429d1730dfa1e354c27e7917",
+  "retrieved_at": "2026-10-26T13:06:50.899080+00:00"
+}

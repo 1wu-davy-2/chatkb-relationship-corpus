@@ -1,0 +1,24 @@
+{
+  "doc_id": "gut_27414",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "zh_classic",
+  "title": "好逑傳",
+  "gutenberg_id": "27414",
+  "url": "https://www.gutenberg.org/ebooks/27414",
+  "download_url": "https://www.gutenberg.org/cache/epub/27414/pg27414.txt",
+  "language": "zh",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "chinese_classic",
+    "culture",
+    "emotion"
+  ],
+  "raw_path": "01_raw/gutenberg/27414.txt",
+  "text_path": "02_text/gutenberg/gut_27414_好逑傳.txt",
+  "raw_bytes": 408524,
+  "text_chars": 130531,
+  "text_sha256": "0e0a31f06791fadf08573be9f5445b9d02880fa93bb8b895fefdf550464a6a86",
+  "retrieved_at": "2026-10-25T16:05:22.435781+00:00"
+}

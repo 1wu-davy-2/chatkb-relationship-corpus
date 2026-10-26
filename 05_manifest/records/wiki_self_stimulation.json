@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_self_stimulation",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "自慰",
+  "requested_title": "自慰",
+  "url": "https://zh.wikipedia.org/wiki/%E8%87%AA%E6%85%B0",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 自慰",
+  "topics": [
+    "sexuality",
+    "health"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/self_stimulation.json",
+  "text_path": "02_text/zh_wikipedia/self_stimulation.txt",
+  "raw_bytes": 45077,
+  "text_chars": 17353,
+  "text_sha256": "924878deac0bd0f1e619a497a40858317fd60e9058b4d736537b82e1e6b005c6",
+  "retrieved_at": "2026-10-26T13:02:11.636827+00:00"
+}

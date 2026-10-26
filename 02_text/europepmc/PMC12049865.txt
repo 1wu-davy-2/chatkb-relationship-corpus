@@ -1,0 +1,158 @@
+TITLE: Birth outcomes of cohabiting and non-cohabiting minors and young adults in Argentina, 2001-2021: a population-based register study.
+AUTHORS: Alazraqui M, Trotta A, Guevel CG, Godoy MP, Mignone J, Juárez SP, Urquia ML.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1136/bmjpo-2024-003183
+PMCID: PMC12049865
+LICENSE: cc by-nc
+LICENSE_URL: https://creativecommons.org/licenses/by-nc/4.0/
+SOURCE: https://europepmc.org/article/PMC/PMC12049865
+TOPICS: cohabitation
+
+---
+
+ABSTRACT
+AbstractBackgroundMaternal age and cohabitation (women living with a partner in marriage or in a common-law relationship) are known to be associated with adverse birth outcomes. However, how these two factors jointly contribute to birth outcomes is not well understood, particularly among minor mothers.MethodsAll live births that occurred in Argentina 2001–2021 (N=13 807 028) were used to estimate the prevalence of births to minor mothers (<18 years). In analyses restricted to mothers aged ≤24 years (N=5 159 231), multinomial and binary logistic models were used to obtain crude and adjusted ORs (aOR) for the joint association between cohabitation status and maternal age groups (minors: ≤15 and 16–17 years, and young adults: 18–19 years and 20–24 years) with preterm birth (PTB), small-for-gestational age (SGA) groups and repeat birth.ResultsMinor mothers accounted for 6% of all births (n=791 731), lived in poor regions and were more likely to have incomplete primary education and no employment. Among mothers aged <24 years, adverse outcomes jointly varied according to cohabitation status and maternal age (p value for interaction <0.001 in all models). Adverse outcomes were more frequent among minors. Compared with non-cohabiting mothers aged 20–24 years, cohabiting mothers aged 20–24 years had lower odds of very PTB (0.82% vs 1.19%), moderately PTB (7.15% vs 6.33%), extreme SGA (1.98% vs 2.56%) and moderately SGA (3.63% vs 4.48%, respectively). However, compared with non-cohabiting mothers aged 20–24 years, cohabiting minor mothers, particularly those aged ≤15 years had higher odds of very PTB (24–31 gestation weeks) (AOR: 1.86 (95% CI 1.76, 1.97)), moderately PTB (32–36 weeks) (AOR: 1.53 (95% CI 1.49, 1.57)), extreme SGA (<3rd percentile) (AOR: 1.10 (95% CI 1.06, 1.14)) and moderately SGA (3rd to <10th percentile) (AOR: 1.05 (95% CI 1.01, 1.08)).ConclusionsThe cohabitation advantage among young adults was not observed among minor mothers, particularly those aged ≤15 years.
+
+BODY
+WHAT IS ALREADY KNOWN ON THIS TOPIC
+
+Latin America has the highest rates of child marriages, after Asia and Africa, but there is little research conducted in this region, particularly in middle-income countries such as Argentina.
+
+WHAT THIS STUDY ADDS
+
+Using 21 years of nationwide data, we found that adverse birth outcomes jointly varied according to cohabitation status and maternal age.
+
+Cohabitation with a partner was associated with lower rates of preterm birth and small-for-gestational age among adult birthing parents however the cohabitation advantage was weakened or absent among minors, who were at higher risk regardless of cohabitation.
+
+The association between cohabitation and repeat birth was strongest among minors, especially among parents ≤15 years.
+
+HOW THIS STUDY MIGHT AFFECT RESEARCH, PRACTICE OR POLICY
+
+Research studies and initiatives to curve down child and adolescent pregnancies will be incomplete without incorporation of marital arrangements and its local context as a key dimension shaping reproductive health among young parents.
+
+Introduction
+
+It is well established that the frequency of adverse birth outcomes, such as preterm birth (PTB) and low birth weight, is inversely associated with maternal age, even among mothers aged ≤24 years.1 Adverse outcomes in child and teenage pregnancies may reflect social or biological immaturity or a combination of both.1 2 This knowledge is the basis for early pregnancy prevention efforts.3 Marital status is also known to be associated with birth outcomes,4 although most studies are predominantly composed of adult women and conducted in high-income countries. Married adult women generally have better perinatal health outcomes than unmarried women,57 whereas those in common-law unions exhibit intermediate outcomes.5 Adult marriage, as a social institution, is linked to family formation and may favour the adoption and maintenance of healthier attitudes and behaviours, as well as the prevention of risk behaviours.8 Similarly, individuals who choose to marry originate from more advantaged socioeconomic backgrounds and are generally healthier.8 9 However, whether the adult marriage advantage in perinatal health indicators also applies to minor (underage) mothers has been less studied. Recent studies suggest that maternal age and marital status interact among young mothers in a way that living with a stable partner is protective for young adults aged 18–24 years but not necessarily among minors aged <18 years.1013 Nevertheless, less is known about these dynamics in Latin American countries, characterised by high child marriage and early pregnancy rates.1316 The United Nations declares that marriage is a human right among adults but not among minors.17 Therefore, child marriage, defined as a legally formalised or informal union before the age of 18, is increasingly seen by organisations and governments globally as a harmful practice and a violation of human rights.1719 Child marriage is associated with child and teenage childbearing, limited educational and career advancement, less participation in the labour market as adults, greater risk of suffering gender violence and lack of autonomy.17 20 In 2015, all 193 member states of the United Nations, including Argentina, agreed to end child marriage by 2030, as part of the Sustainable Development Goals (Goal 5, Target 5.3).17
+
+To overcome the paucity of perinatal data in this area and to inform policies to address child marriage and adverse birth outcomes in Argentina, we took advantage of cohabitation information collected in Argentinian live birth data to better understand the interplay between maternal age and marital status among children and young adult mothers in the last two decades. Although in Argentina the legal minimum age for marriage without guardian consent is 18 years, those between 16 and 17 years old can marry with the consent of a legal guardian, and those 15 and under can marry with a judicial exemption.16 Many of the unions with children are not officially registered, and the issue of child marriage in Argentina is often invisible, with little public knowledge on the subject21 and leniency regarding violations of the existing laws.16
+
+In this study, we focus on births to minor mothers in the context of a broad definition of adolescence up until age 24,22 including young adults (18–24 years). Although most adult legal rights start at age 18 years, the exercise of adult roles and responsibilities, such as financial independence, usually takes longer. Secular trends in women’s education and labour market participation have resulted in sustained increases in the age at first marriage and first birth in past decades. Thus, young adults can be regarded as a transitionary group towards adulthood and a meaningful comparison group to study the reproductive health of minor parents.
+
+Our objectives were (1) to estimate the prevalence of live births to minor (≤18 years) mothers, according to cohabitation status (married or in a common-law relationship) and sociodemographic characteristics and (2) to examine the joint associations between cohabitation status and age groups with birth outcomes among mothers aged ≤24 years.
+
+Methods
+
+Data
+
+Live birth data, based on the statistical report of live birth, was obtained from the Direction of Health Statistics and Information (DHSI) of the Argentinian Ministry of Health. The study population included all live births occurring in the calendar years 2001–2021. Live birth records contain information on obstetric characteristics of the birth and sociodemographic parental information. Healthcare staff collects and certifies the live birth information, and the local Civil registries compile and transmit the data to the respective provincial Vital Statistics units, which control, code and provide the provincial data to the DHSI.23 24 A validation study using data from the 2001 National Census found that the omission of live births registrations in the vital statistics was 6% and reduced to 3% after accounting for late registrations. The large majority of registered births (99.7%) occurred in healthcare institutions.24
+
+Study design
+
+In this cross-sectional population-based register study, we used two nested samples, based on the study objectives. First, to estimate the proportion of births to <18-year-old mothers according to cohabitation status and other sociodemographic characteristics, we used all births with complete information on maternal age and cohabitation status.
+
+Second, to examine the associations between marital status and birth outcomes according to age groups among young mothers, we restricted the population to singleton births to mothers aged ≤24 years. In this subpopulation, we excluded records with missing or invalid information on gestational age, birth weight, infant sex, maternal place of residence, births outside the gestational age range 24–42 and those with implausible combinations of sex-specific birth weight for gestational age, based on birth weights below or above 4 SDs of the median sex-specific and gestational age-specific birth weight of international newborn standards.25
+
+Definitions
+
+Exposures
+
+For the first objective, maternal age was dichotomised into minors, defined as a maternal age <18 years at the time of the birth, and adult mothers (18–49 years), which is consistent with the legal age of majority in Argentina. For the remaining analyses, maternal age was restricted to a maximum of 24 years and categorised into four age groups; including two groups of minors (≤15 and 16–17 years) and two groups of young adults (18–19 and 20–24 years). This age range and categorisation were chosen to provide a meaningful context for comparisons.
+
+Cohabitation status (yes, no) is assessed in the birth records through the question ‘Does the mother live with the partner? (either as married or in a common-law union)’. The intersection of cohabitation status and maternal ages below 18 years indicates the presence of child marriage, defined as any formal marriage or informal union involving a child under the age of 18.1620
+
+Outcome measures
+
+The outcome measures were chosen based on their relevance,3 use in previous population-based studies,4710 standard definitions allowing comparability between studies41015 25 and availability of data. PTB, defined as a birth before 37 completed weeks of gestation, was subdivided into very preterm (24–31 gestation weeks) and moderately preterm (32–36 weeks) and compared against term births (37–42 weeks). Small for gestational age (SGA), defined as a sex-specific and gestational age-specific birth weight below the 10th percentile, was subdivided into extreme SGA (<3rd percentile) and moderately SGA (3rd to <10th percentile). SGA percentile cut-offs were obtained from an international standard25 to enable international comparisons. Repeat birth was defined as the birth of a mother who had at least a previous live birth or stillbirth.
+
+Covariates
+
+Year of birth of the child was categorised into four groups (2001–2005, 2006–2010, 2011–2015 and 2016–2021). The 24 Argentinian jurisdictions were grouped into five regions with distinct geographic and sociohistorical characteristics (Central, Northeast, Northwest, Cuyo and South). Maternal education was categorised into ‘less than primary school’, including no education or incomplete primary school, ‘at least primary school’, including primary school graduation and any higher educational attainment and unknown. Health insurance was coded as ‘yes’ if the mother had either employer, family or privately paid health insurance. Employment was coded as ‘yes’ if the mother was employed or on maternity leave at the time of the birth registration. Covariates with missing values were dummy coded as ‘unknown’.
+
+Statistical analysis
+
+Descriptive analyses included the estimation of the proportion of births to minor mothers according to sociodemographic characteristics and broken down according to cohabitation status among all births and the distribution of the sociodemographic characteristics according to age groups among births to young mothers.
+
+The outcome rates according to maternal cohabitation and age were expressed as the number of events per 100 births. Multinomial logistic models were used to obtain unadjusted and adjusted ORs (AOR) with 95% CIs for the association between cohabitation status and maternal age groups with very preterm (24–31 weeks) and moderately preterm (32–36 weeks), with term births (37–42 weeks) as the reference group. Likewise, severe SGA (<3rd percentile) and moderately SGA (3rd to <10th percentile) were compared with non-SGA births. For repeat birth, a binary logistic model was used. All models included a product term maternal age group×cohabitation status to test for interaction. Effect estimates were reported as joint associations with births to non-cohabiting mothers aged 20–24 years as the sole reference group, except for repeat birth, for which comparisons were made within strata of maternal age due to the strong correlation between maternal age and parity. Adjusted estimates were obtained by controlling for the relevant variables available in the dataset: repeat birth (except for repeat birth), infant sex (except for SGA and repeat birth), year of birth, region, maternal education, employment and health insurance. All analyses were conducted with SAS V.9.4 (SAS Institute).
+
+Data access
+
+Due to the sensitive nature of the data, maternal ages 12 years and less were recoded as 13 years by the data provider and any variable that could directly or indirectly help identify individuals were removed before the dataset was accessed by the research team. There is no information on surrogacy or gender of the birthing parent in the dataset, and therefore, we broadly refer to ‘mothers’ under the assumption that they were born with female sex and were the biological mothers of the newborns, which may not be accurate in some cases. The anonymised dataset was accessed on 10 January 2024.
+
+Patient and public involvement
+
+Patients were not involved in this research.
+
+Research reporting guideline
+
+We followed the Strengthening the Reporting of Observational Studies in Epidemiology Statement for the reporting of this study, which is presented in the separate research checklist.
+
+Results
+
+There were 14 700 266 records to infants born between 2001 and 2021. We excluded 178 923 records (1.19%) with missing maternal age, 781 471 (5.32%) records with unknown cohabitation status and 47 109 (0.32%) records with unknown place of residence. This cohort included 13 807 028 births (93.9%). Some records met more than one exclusion criterion.
+
+Distribution of births to minor mothers according to cohabitation status
+
+Overall, minor mothers accounted for 791 731 of all births (6.0%) in the study period and nearly two-thirds of which were cohabiting with a partner (n=496 229; 3.8%) (figure 1). The proportion of births to minor mothers was lowest in the most recent period 2016–2021, both among cohabiting and non-cohabiting mothers. The northeast region of the country was home to the highest proportions of births to minors, particularly among cohabiting mothers, followed by the northwest region. Births to minor mothers were also associated with low education, lacking health insurance and unemployed.
+
+Percentage of births to minor mothers (<18 years) among all mothers of reproductive age (<50 years) according to cohabitation status and other maternal characteristics, Argentina, 2001–2021 (N=13 807 028).
+
+Birth outcomes according to maternal age groups and cohabitation status
+
+To assess how the interplay of maternal age and cohabitation status was associated with birth outcomes in the broad context of adolescence, we restricted the analytical sample to the subpopulation of births to mothers ≤24 years (N=5 407 393). We excluded multiple births (N=66 716; 1.2%), unknown infant sex (N=5382; 0.1%), unknown number of previous births (N=88 371; 1.6%); missing gestational age (N=110 085; 2.0%), gestational age 42 weeks (N=10 764; 0.2%) and missing birth weight or implausible combinations of birth weight and gestational age (N=44 581; 0.8%). Some records met more than one exclusion criterion. The final analytical sample retained 5 159 231 births, 95.4% of all births to mothers <24 years.
+
+Missing data on cohabitation status accounted for 56% of excluded records (online supplemental table 1). Missing data were slightly more prevalent among younger mothers living in the poorest region, with incomplete and unknown primary education and employment, experiencing the adverse outcomes and having missing data in other variables.
+
+Minor mothers (<18 years) accounted for 15.3% of births to mothers aged ≤24 years (3.2% to ≤15 and 12.1% to 16–17-year-old mothers) and for 42.2% of births to <20-year-old mothers (8.9% to ≤15 and 33.3% to 16–17-year-old mothers) (table 1). The Northeast and Northwest regions had a higher frequency of births to minor mothers than the country as a whole. Incomplete primary education, lack of health insurance and unemployment were also more common towards lower maternal ages.
+
+Characteristics of births to young mothers (≤24 years) according to maternal age, Argentina, 2001–2021
+
+Column per cent unless otherwise specified.
+
+Table 2 shows crude preterm birth and small-for-gestational age rates according to maternal age groups and cohabitation status. Overall, rates of these birth outcomes increased with decreasing maternal age in both cohabitation groups. Within maternal age groups, rates were lower in the cohabiting group than in the non-cohabiting group, except for moderately preterm (32–36 weeks) among others aged 20–24 years, where they were higher.
+
+Number of births, number of events and rates of very preterm birth (24–31 weeks), moderately preterm birth (32–36 weeks), extreme small-for-gestational age (SGA) (<3rd percentile) and moderately SGA (3rd to <10th percentile) among births to young mothers (≤24 years) according to cohabitation status, Argentina, 2001–2021
+
+Table 3 shows the unadjusted and aORs for the joint associations between maternal age and cohabitation status with the preterm and SGA groups, which were jointly modified by maternal age and cohabitation status (p value for interaction <0.001 in both multinomial models). Within each maternal cohabitation group, the four outcomes consistently exhibited higher odds among minors, particularly among births to <15-year-old mothers. These associations were stronger for very PTB, followed by PTB, before and after adjustment. Compared with births to non-cohabiting mothers aged 20–24 years, births to 20–24-year-old cohabiting mothers had lower odds of the four outcomes in all models. Compared with the same reference group, births to 18–19-year-old cohabiting mothers had also lower odds of very preterm, extreme SGA and moderately SGA but slightly higher odds of moderately PTB, after adjustment.
+
+Joint associations between maternal cohabitation and maternal age groups among young mothers (≤24 years) for very preterm birth (24–31 weeks), moderately preterm birth (32–36 weeks), extreme small-for-gestational age (SGA) (<3rd percentile) and moderately SGA (3rd to <10th percentile), Argentina, 2001–2021
+
+Multinomial models, with 37+ weeks as the reference group for preterm birth and very preterm birth, and 10 percentile+for extreme SGA and moderately SGA. The adjusted preterm birth model included the following variables: maternal cohabitation, maternal age groups, maternal cohabitation×maternal age groups, repeat birth, infant sex, year of birth of the child, region of residence of the mother, maternal education, maternal employment and health insurance. The adjusted SGA model included the following variables: maternal cohabitation, maternal age groups, maternal cohabitation×maternal age groups, repeat birth, year of birth of the child, region of residence of the mother, maternal education, maternal employment and health insurance. Values >1 indicate higher odds than in the reference group. Values <1 indicate lower odds than in the reference group. The product term maternal cohabitation×maternal age groups was statistically significant in all models (p<0.001).
+
+p<0.05.
+
+Repeat birth, or having had at least a previous birth, was more common among cohabiting mothers in all age groups (table 4). However, the association with cohabitation was stronger in the two groups composed of minor mothers, particularly in the ≤15-year-old group (AOR: 2.00; 95% CI 1.91, 2.09) (p value for interaction <0.001) and did not vary between the two age of majority groups, after adjustment.
+
+Repeat birth rates among young mothers (≤24 years) according to age groups and cohabitation status, Argentina, 2001–2021
+
+The adjusted repeat birth model included the following variables: maternal cohabitation, maternal age groups, maternal cohabitation×maternal age groups, year of birth of the child, region of residence of the mother, maternal education, maternal employment and health insurance. Values >1 indicate higher odds than in the reference group. Values <1 indicate lower odds than in the reference group. The product term maternal cohabitation×maternal age groups was statistically significant (p<0.001).
+
+AOR, adjusted OR.
+
+Discussion
+
+Main findings
+
+In this large population-based study, we found that births to minor mothers (<18 years) accounted for 6.0% of all births (3.8% among cohabiting mothers and 2.2% among non-cohabiting mothers) in the study period, which points to child marriage as a key contributor to underage pregnancies. Further, births to minor mothers were more common in subgroups characterised by socioeconomic disadvantage, such as geographical region, low educational attainment, lack of health insurance and employment.
+
+We also found that among births to mothers aged ≤24 years, PTB and SGA were jointly shaped by the intersection of maternal age and cohabitation status. For both cohabitation groups, PTB and SGA were more frequent with decreasing maternal age, and the outcome rates were somewhat lower in the cohabiting group. Despite this advantage of cohabitation within age groups, particularly among mothers aged 20–24 years, both groups of minor non-cohabiting and cohabiting mothers (≤15 years and 16–17 years) had higher rates of adverse outcomes compared with non-cohabiting mothers aged 20–24 years.
+
+Regarding repeat births, rates were higher among older mothers, as expected due to the dependency of the number of births on age. Within age groups, the association with cohabitation was stronger with decreasing maternal age groups, being highest among cohabiting mothers aged ≤15 years.
+
+Comparison with other studies and interpretation
+
+The rate of births to minor mothers observed in Argentina (6.0%) is in between those of other South American countries, such as Ecuador (9.9%) and Brazil (8.9%), and considerably higher than those of North American countries, such as Canada (0.9%) and the USA (1.5%), based on studies using similar data and study designs.1015 In those studies, births to minor mothers were also unevenly distributed across socioeconomically disadvantaged population subgroups, such as poorer regions, racialised minorities and low education. The northeast and the northwest regions have high concentrations of Indigenous populations and transient migrants, which are additional layers of social disadvantage. The fact that the northeast region of Argentina presented the highest proportions of births to minors is of no coincidence given the severity of its indicators of vulnerability, poverty and exclusion.26 The only previous study that quantified child marriage in Argentina, based on 2010 census data, found that at the national level 4.7% of girls aged 14–17 years were cohabiting with a partner but the prevalence of cohabitation was highest in the northeast region, with some counties having rates of over 10%.21 Regional disparities in child marriage and early-age pregnancies should be the focus of dedicated studies informing policies that tackle their distal multisectoral determinants, such as urbanisation and poverty,26 while considering the local cultural contexts that influence reproductive health behaviours, such as gender roles, sexuality education and contraceptive access and use.27
+
+Our data also suggest a modest reduction in the proportion of births to minor mothers in the most recent period 2016–2021, which may partially be due to the Unintended Adolescent Pregnancy Plan (ENIA) that has contributed to a reduction of teenage fertility rates.28 29 A potential impact of the COVID-19 pandemic on these trends may merit further study.
+
+Our main finding regarding the joint variation of birth outcomes among young mothers according to maternal age and marital status is consistent with previous studies conducted in North America1012 and South America14 15 showing that the advantage associated with adult marriage did not offset the increased rates associated with decreasing maternal age. Although in our study we could not distinguish between married and common-law cohabiting mothers, studies conducted in Brazil and Ecuador found that minors in common-law relationships had outcomes intermediate between those of married and non-cohabiting mothers.14 15 Like in our study, non-cohabiting mothers generally exhibited the highest rates of adverse outcomes across age groups. However, the relative advantage associated with cohabitation in Argentina was weaker among mothers aged <18 years than among those aged 18 and over. The existence of relatively better birth outcomes among minor cohabiting mothers may not necessarily reflect a protective effect of cohabitation per se but rather a more disadvantageous constellation of risk factors among non-cohabiting minors, including abuse and sexual violence.29 Human rights local advocates report that in the Argentinian sociocultural environment, characterised by marked socioeconomic, gender and racial inequities, many parents in poor families see handing over their underage daughters to better-off older men in marriage as a way to offer them a better life and protect them from abuse by other men who would respect the husband.21 Child marriage as a way to escape poverty and make men take responsibility for the pregnancy has been reported in other Latin American countries, such as Brazil, Guatemala and Honduras.30 However, child girl marriage may not be as protective as adult marriage due to deeper gender inequities, manifested as power imbalance, lack of autonomy, financial dependence and risk of abuse by the husband or partner.1821 The stronger associations between cohabitation and repeat birth among minors in our study may reflect the submissive role of girls in these unions and their limited ability to negotiate contraceptive use and sexual intercourse frequency resulting in unintended high early fertility.31 Likewise, giving birth to multiple children at an early age may undermine girls’ ability of self-development, which in turn may affect their ability to provide optimal care to their children, thus reproducing intergenerational inequities.
+
+Strengths and limitations
+
+A strength of the study is the large analytic sample resulting from the nationwide population-based coverage of live births over two decades, which made it possible to conduct a detailed examination of the interplay between cohabitation status and age groups, notably ≤15-year-old girls, who are usually collapsed with other teenagers in many studies due to small sample size. There are several limitations. First, cohabitation status included both married and common-law and was not possible to distinguish between the two. This is also a strength, however, since many of the marital unions involving minors are not officially registered in Argentina.21 Second, maternal age and cohabitation status were self-reported and may be affected by misclassification. Third, due to the cross-sectional nature of the data, it was not possible to distinguish whether marriage or informal unions preceded conception or occurred during pregnancy. Fourth, in this 21-year study period, many mothers may have given birth multiple times, but the anonymised birth registrations lacked a maternal identifier relating different births of a same mother, which prevented accounting for their correlation. Fifth, since birth registrations occur at the birth of the child and not at conception, many births to 16-year-old and 18-year-old mothers may have become pregnant at 15 or 17 years of age, respectively, and contributed to an underestimation of early pregnancies. Sixth, missing data on cohabitation status were associated with other variables reflecting socioeconomic disadvantage, which could have biased our results toward the null. Finally, residual confounding due to measurement error and limited availability of covariates may have affected the estimation in the adjusted models. Although we controlled for low education, employment, lack of insurance and region, we lacked a direct measure of socioeconomic status. The dataset also lacks information on obstetric and placental factors, chronic medical conditions, infections, nutritional status and substance use, which could have provided a more complete picture of the risk factors for PTB and SGA in this population. However, controlling for these intermediate factors may lead to overadjustment in the regression models.
+
+Conclusions
+
+This study confirms that, among young mothers, birth outcomes vary with the interplay of maternal age and cohabitation status. Despite a modest protective association with cohabitation, adverse outcomes of minor mothers were higher than those of non-cohabiting young adult mothers. This finding, coupled with unacceptable high rates of child marriage and underage pregnancies, supports efforts to prevent early unions and pregnancies among minor mothers, irrespective of cohabitation or marital status. When prevention efforts are not sufficient, additional support and healthcare may be needed to reduce adverse outcomes among pregnant underage girls. More so, it puts the onus on structural social policies to tackle the root causes of child marriage and underage pregnancies. Recognising the socially patterned nature of child marriage and underage pregnancies and their regional disparities, potential solutions need to consider the specific regional and local contexts.
+
+Supplementary material

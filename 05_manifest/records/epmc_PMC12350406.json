@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12350406",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Association of body mass index and sexual dysfunction among married women in Makkah City, Saudi Arabia.",
+  "authors": "Filfilan LS, Abd El-Fatah NK.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fgwh.2025.1616496",
+  "pmcid": "PMC12350406",
+  "url": "https://europepmc.org/article/PMC/PMC12350406",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12350406/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_function_dysfunction"
+  ],
+  "abstract": "Background Female sexual dysfunction (FSD) is a prevalent yet understudied health concern among married women in Saudi Arabia, where obesity rates among women are alarmingly high. This study aimed to investigate the prevalence of FSD and its association with BMI among married women attending primary health care centers (PHCs) in Makkah, Saudi Arabia. Methods A cross-sectional study was conducted among 332 married women aged 18-50 years attending PHCs in Makkah. Participants completed a structured questionnaire assessing sociodemographics, medical history, reproductive health, and sexual function using the validated Arabic Female Sexual Function Index (ArFSFI). Anthropometric measurements were taken to calculate Body Mass Index (BMI). Chi-square tests, logistic regression, and Kruskal-Wallis analyses were used to examine associations between BMI, FSD, and significant contributors. Results The prevalence of FSD was 84.6%. Obesity was significantly associated with FSD (OR = 2.86, 95% CI: 1.38-5.30, p = .005), particularly affecting lubrication ( p = .002) and orgasm ( p = .014). Key correlates of FSD included partner-related factors, such as the husband's sexual dysfunction (40.9% vs. 5.9%, p p = .010). Psychological distress, particularly higher levels of anxiety (32.0% vs. 11.8%, p = .003) and depression (44.5% vs. 7.8%, p p = .001), and reproductive surgeries ( p = .003) were significantly associated with FSD. Conclusion This study highlights a high burden of FSD among Saudi women with obesity, strongly associated with obesity, mediated by psychological and partner-related factors, as well as reproductive factors. Integrated interventions addressing weight management, mental health, and couples' counseling are urgently needed. Cultural sensitivity in sexual health education and clinical practice is essential to reduce stigma and improve care access.",
+  "raw_path": "01_raw/europepmc_xml/PMC12350406.xml",
+  "text_path": "02_text/europepmc/PMC12350406.txt",
+  "raw_bytes": 137821,
+  "text_chars": 31411,
+  "raw_sha256": "4bafef1101d3992bac97ff160c08fcd75571782dd7df84366afb9217e5c7782d",
+  "text_sha256": "622056cd019a8c474b54a6f1952fefbcdd5e921c8b294f406359a1ae26e64217",
+  "retrieved_at": "2026-10-26T13:06:49.083708+00:00"
+}

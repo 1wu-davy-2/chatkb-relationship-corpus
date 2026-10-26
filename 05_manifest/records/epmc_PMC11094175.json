@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11094175",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Arranged and non-arranged marriages have similar reproductive outcomes in Nepal.",
+  "authors": "Agey E.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1038/s41598-024-61467-8",
+  "pmcid": "PMC11094175",
+  "url": "https://europepmc.org/article/PMC/PMC11094175",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11094175/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "arranged_marriage"
+  ],
+  "abstract": "Much of the evolutionary literature on mate choice presumes that individual mate preferences function to increase individual fitness, and this assumption has been confirmed in several experimental studies with animals. However, human mate choice, in many cultures, is heavily controlled by parents via arranged marriages, rather than the selection of the marrying individuals. Several studies have demonstrated that parents and offspring do not exhibit identical preferences for an in-law or spouse, respectively. If parental choice thwarts offspring's evolved mate preferences from being expressed, then arranged marriages should reduce fitness. Using data from the Chitwan Valley Family Study, I examined whether having an arranged marriage, as compared to a non-arranged marriage, is associated with differences in total births, offspring survival to age 15, or interbirth intervals in Nepal, a culture with a rich history of arranged marriage. I find that there are no differences in any reproductive outcomes between arranged, co-selected, and self-selected marriages. These results indicate that individuals in arranged and non-arranged marriages may achieve similar fitness outcomes via different pathways, which may be unique to human mating systems.",
+  "raw_path": "01_raw/europepmc_xml/PMC11094175.xml",
+  "text_path": "02_text/europepmc/PMC11094175.txt",
+  "raw_bytes": 96538,
+  "text_chars": 38830,
+  "raw_sha256": "65a6f21195cca0bae84f0d505454468955119504a494b3672eaf2825bde7b5c3",
+  "text_sha256": "b5fe9c88417a688d1d1c4404d55ae1f43ce25b960162f38e5f5567ad99f0a37e",
+  "retrieved_at": "2026-10-25T13:51:32.428030+00:00"
+}

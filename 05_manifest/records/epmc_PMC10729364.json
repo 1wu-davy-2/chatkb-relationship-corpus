@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10729364",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Disability and loneliness in the United Kingdom: cross-sectional and longitudinal analyses of trends and transitions.",
+  "authors": "Emerson E, Stancliffe RJ, Aitken Z, Bailie J, Bishop GM, Badland H, Llewellyn G, Kavanagh AM.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1186/s12889-023-17481-y",
+  "pmcid": "PMC10729364",
+  "url": "https://europepmc.org/article/PMC/PMC10729364",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10729364/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "conflict_styles"
+  ],
+  "abstract": "Background Loneliness can have a detrimental impact on health, yet little is known about the association between disability and loneliness. Methods Secondary analysis of three waves of data collected between 2017 and 2020 by the UK's annual household panel study, Understanding Society. Direct age-standardisation was used to compare the prevalence of loneliness at each wave and the persistence of loneliness across all three waves for participants with/without disabilities aged 16-65 years. Transitional probabilities for the stability of loneliness, the stability of non-loneliness, the onset of loneliness and the offset of loneliness between consecutive waves were also estimated. Results At each wave, the prevalence of loneliness was significantly higher among respondents with disabilities than respondents without disabilities; these inequalities persisted with no evidence of change over time. The prevalence of persistent loneliness was 46% for respondents with disabilities compared with 22% for respondents without disabilities. Risk factors for the likelihood of persistent loneliness included disability, financial stress, not living as a couple, living in rented accommodation, being female and not being employed. The probability of the onset and stability of loneliness between successive waves were markedly higher for people with disabilities compared with people without disabilities. Conclusion Adults with disabilities were more likely to experience loneliness, become lonely and remain lonely over time than their peers. Policies and interventions aimed at reducing loneliness should ensure that they are accessible and effective for people with disabilities. Further research is needed to explore the health outcomes of persistent loneliness among people with/without disabilities.",
+  "raw_path": "01_raw/europepmc_xml/PMC10729364.xml",
+  "text_path": "02_text/europepmc/PMC10729364.txt",
+  "raw_bytes": 99880,
+  "text_chars": 32780,
+  "raw_sha256": "30eda55a394fb917ae35b9de0d8e0fceff50159e34d34b020f1fe5af60d2613e",
+  "text_sha256": "dd955beac6db12e499886fc2597ed56642da0b684dd45dd718c0a51f1017ba42",
+  "retrieved_at": "2026-10-25T15:29:09.506620+00:00"
+}

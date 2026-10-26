@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12634639",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Marriage intention and influencing factors of ethnic minority residents in Zang-Qiang-Yi Corridor: a perspective based on the Andersen's behavioral model.",
+  "authors": "Cai L, Lu D, Ning J.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2025.1588247",
+  "pmcid": "PMC12634639",
+  "url": "https://europepmc.org/article/PMC/PMC12634639",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12634639/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "marriage_communication"
+  ],
+  "abstract": "Background With the decline of the global fertility rate, the concepts of marriage and family formation have become important issues of societal concern. Methods This paper employs Andersen's behavioral model to examine the influence of predisposing factors (gender, age, residential place, religious belief), enabling factors (housing numbers, floating population), and demand factors (self-efficacy, family communication, intimate partner violence, anxiety, depression) on the marriage intention of ethnic minority residents in the Zang-Qiang-Yi Corridor. Results The study finds that the marriage intention of ethnic minority residents in the Zang-Qiang-Yi Corridor significantly varies by gender, age, residential place, housing numbers, religious belief, and floating population status, but not by education level. Among these factors, demand factors (self-efficacy, family communication, intimate partner violence, anxiety, depression) have the most significant impact on marriage intention. Predisposing factors (gender, age, residential place, religious belief) and enabling factors (housing numbers, floating population) also have a certain degree of impact. Conclusion These findings suggest that interventions targeting ethnic minority residents in the Zang-Qiang-Yi Corridor should consider a multifaceted approach, addressing both psychological and social determinants of marital intentions to improve marital outcomes.",
+  "raw_path": "01_raw/europepmc_xml/PMC12634639.xml",
+  "text_path": "02_text/europepmc/PMC12634639.txt",
+  "raw_bytes": 134482,
+  "text_chars": 42070,
+  "raw_sha256": "147cf8a2b9a8076963477b7c75f3bd9ce67bc41a0686026237a926ac47de6f9a",
+  "text_sha256": "9c92a4a254939346e60891fe2ae5ac17ac5240f53faff36866cb133ba2da05bb",
+  "retrieved_at": "2026-10-25T13:59:48.807834+00:00"
+}

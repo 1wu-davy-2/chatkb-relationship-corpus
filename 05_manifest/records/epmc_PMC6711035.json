@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC6711035",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "A Health Education Website Developed to Meet Young People's Information Needs About Web-Based Pornography and Sharing of Sexually Explicit Imagery (SCOPE): Usability Study.",
+  "authors": "Davis AC, Wright CJC, Temple-Smith MJ, Hellard ME, Lim MSC.",
+  "year": "2019",
+  "journal": "",
+  "doi": "10.2196/12824",
+  "pmcid": "PMC6711035",
+  "url": "https://europepmc.org/article/PMC/PMC6711035",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6711035/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexting"
+  ],
+  "abstract": "Background Although we know that many young people watch online pornography and engage in sexting, there is limited literature examining their needs in relation to information on these highly sensitive and complex issues. Online resources exist; however, we can find no evidence of any of them having been formally tested for usability within the target population. Objective This study aimed to test the usability of a resource about online pornography and sexting among young people. Methods Semistructured interviews were conducted with 17 participants aged 15 to 29 years. Results We found that the SCOPE resource was perceived as trustworthy and credible because of its evidence-based content, nonjudgmental tone, and balanced perspectives. Multimedia and video content enhanced the layout and usability of the resource; however, content relevance could be improved by targeting age and developmental stages. Participants identified resource sections such as Real Stories from young people as relevant and engaging. However, they raised issues with the translation of formative research findings relating to these stories into their final presentation. Conclusions Our findings suggest that young people prefer online resources about complex issues, such as online pornography and sexting, if they are balanced in content and tone. Most importantly, in the context of responding to complex and sensitive issues such as these, co-design methods can ensure that young people are central to the development of resources and avoid gaps in translating research into practice. In the context of limited literature focusing on the usability of online resources about these topics, this paper provides important insights for public health practitioners working in this emerging space.",
+  "raw_path": "01_raw/europepmc_xml/PMC6711035.xml",
+  "text_path": "02_text/europepmc/PMC6711035.txt",
+  "raw_bytes": 72544,
+  "text_chars": 31706,
+  "raw_sha256": "ef46e5dc7436ee3c1905be7925dcfba25ba569e44fadf690e799b13cfc347117",
+  "text_sha256": "a13f7457d5bb52ba0800a9a06b78eb9b49b1fd8ee40cd88db15198e3350d9168",
+  "retrieved_at": "2026-10-26T13:13:14.514378+00:00"
+}

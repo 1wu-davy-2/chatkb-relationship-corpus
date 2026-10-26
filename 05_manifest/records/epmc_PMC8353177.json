@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC8353177",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Jordanian Men's Experience of Emotional Abuse in Marital Relationships: The Role of Marriage Length and Motivation.",
+  "authors": "Alsawalqa RO, Sa'deh YAR, Alrawashdeh MN.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.3389/fpsyg.2021.689235",
+  "pmcid": "PMC8353177",
+  "url": "https://europepmc.org/article/PMC/PMC8353177",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8353177/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_coercion"
+  ],
+  "abstract": "Though emotional abuse is one of the worst and most common types of intimate partner violence, it has not been investigated in Arabic literature. Thus, this study explored the prevalence of emotional abuse among married Jordanian men. Furthermore, the moderating roles of marriage length, marriage motivation, age, and area in the path to emotional abuse were investigated. An online survey was conducted using a random sample of Jordanian married men in Amman. A total of 1,003 participants with an average age of 42.51 and a marital relationship duration ranging from 1 to 53 years were selected. The results revealed that isolation was the most prevalent emotional abuse domain, followed by degradation, property damage, and sexual coercion. However, all emotional abuse domains were more prevalent among rural rather than urban men, in both traditional and love marriages. Emotional abuse was higher among men who married for love. Younger men reported experiencing higher emotional abuse levels, which declined with age and increasing marriage length. Further research is required to explore the nature of emotional abuse forms and their underlying reasons among married men, as differences in sociodemographic characteristics could affect the identification and understanding of emotional abuse and contribute to developing an intellectual framework capable of finding solutions for abusive marital relations in the Jordanian context.",
+  "raw_path": "01_raw/europepmc_xml/PMC8353177.xml",
+  "text_path": "02_text/europepmc/PMC8353177.txt",
+  "raw_bytes": 164769,
+  "text_chars": 50591,
+  "raw_sha256": "c1a7247cc34aaaf60a084543ed41be461a1d9f6179e42c3a05c0ff21c0bff8ce",
+  "text_sha256": "e64743a7fe3132d66eee2834bf73af2132dac4d70ab81700031de9b9fb7c2d87",
+  "retrieved_at": "2026-10-26T13:14:22.018194+00:00"
+}

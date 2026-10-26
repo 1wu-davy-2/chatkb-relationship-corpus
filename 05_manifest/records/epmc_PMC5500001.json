@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC5500001",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "On the Relationship Between the Marriage Squeeze and the Quality of Life of Rural Men in China.",
+  "authors": "Yang X, Li S, Attané I, Feldman MW.",
+  "year": "2017",
+  "journal": "",
+  "doi": "10.1177/1557988316681220",
+  "pmcid": "PMC5500001",
+  "url": "https://europepmc.org/article/PMC/PMC5500001",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5500001/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "china_marriage"
+  ],
+  "abstract": "China is facing a male marriage squeeze, as there are more men in the marriage market than potential female partners. As a consequence, some men may fail to ever marry. However, while some studies have suggested that most unmarried men affected by the marriage squeeze in rural China feel a sense of failure, the quality of life of the men who remain unmarried against their will remains largely unexplored. Using data collected in rural Hanbin district of Ankang City (Shaanxi, China), this study analyzes the relationship between the marriage squeeze and the quality of life among rural men. Descriptive analyses indicate that the quality of life of unmarried men aged 28 years and older tends to be worse than for both younger unmarried men and married men. Also, the quality of life of men who perceive the marriage squeeze appears to be worse than that of those who do not. Regression analyses reveal that the perceived marriage squeeze and age independently have a significant negative relationship with the quality of life of rural men.",
+  "raw_path": "01_raw/europepmc_xml/PMC5500001.xml",
+  "text_path": "02_text/europepmc/PMC5500001.txt",
+  "raw_bytes": 94475,
+  "text_chars": 29640,
+  "raw_sha256": "1ce3a588d89ad8bf267bec632d3062d8b191053de1e4b32e1e32ef23c3a781b8",
+  "text_sha256": "8aee90193f12d2a457fdb01c9ed002eb6c3fbaf13db828aaab403c5b5b7c9c4e",
+  "retrieved_at": "2026-10-25T14:00:13.269624+00:00"
+}

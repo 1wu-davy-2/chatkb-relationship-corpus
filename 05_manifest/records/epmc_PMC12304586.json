@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12304586",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Life History, Attachment and Romantic Relationship Outcomes in an Eastern European Adult Sample.",
+  "authors": "Kwiek M, Kruger DJ, Piotrowski P.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1177/14747049251355861",
+  "pmcid": "PMC12304586",
+  "url": "https://europepmc.org/article/PMC/PMC12304586",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12304586/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "attachment"
+  ],
+  "abstract": "Developmental environments shape attachment styles and life history (LH) patterns, both of which predict romantic relationship outcomes. However, the ways in which attachment styles interact with LH dimensions-specifically, mating effort and parenting effort-and how these relationships predict romantic relationship outcomes remain unclear. The current study investigated how these factors predict relationship satisfaction and conflict in a sample of Polish adults ( N = 332, M age = 39 years, SD = 9.10). We hypothesized that mating and parenting efforts would mediate the relationship between developmental environments and relationship outcomes independently from attachment style. Results supported this hypothesis for mating effort but not for parenting effort. Additionally, the current study found little support for a connection between mating/parenting effort and attachment styles and indicated that LH can be influenced by a broader range of early developmental experiences than attachment. The results imply that although both mating effort/parenting effort and attachment styles are affected by early environments and can predict the same relationship outcomes, the developmental processes through which they operate may differ. The implications of the obtained results are discussed.",
+  "raw_path": "01_raw/europepmc_xml/PMC12304586.xml",
+  "text_path": "02_text/europepmc/PMC12304586.txt",
+  "raw_bytes": 161303,
+  "text_chars": 43664,
+  "raw_sha256": "16724201d1d4834426d6fc72bba9f85224e5ce5a5cc5f013694992679d247855",
+  "text_sha256": "830d7651259fba6f225865047eeef18198551affb6c92e2e7df84f112654613b",
+  "retrieved_at": "2026-10-25T15:43:10.870292+00:00"
+}

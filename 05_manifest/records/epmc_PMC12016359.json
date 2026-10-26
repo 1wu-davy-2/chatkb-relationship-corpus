@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC12016359",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Intimate partner controlling behaviour and intimate partner violence among married women in rural areas in South Africa.",
+  "authors": "Sulaiman LA, Ojogiwa OT, Ajayi CE.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.1186/s12905-025-03687-2",
+  "pmcid": "PMC12016359",
+  "url": "https://europepmc.org/article/PMC/PMC12016359",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12016359/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "jealousy"
+  ],
+  "abstract": "Background Violence against women is a critical public health issue, and Intimate Partner Violence (IPV) is prevalent globally as its predominant form. Despite extensive research on its prevalence, the connection between IPV and controlling behaviour has not been sufficiently researched, especially within the context of rural living. This study contributes to this gap by assessing the relationship between intimate partner controlling behaviour and IPV among rural dwellers in South Africa. Methods The study used the domestic violence module data from the 2016 South Africa Demographic and Health Survey (SADHS). The data were analysed using both descriptive statistics- percentages, mean, and standard deviation- and inferential statistics-logistic regression. Result The study found intimate partner controlling behaviour as a predictor of IPV among married women residing in rural communities in South Africa. Accusations of infidelity, restrictions on seeing family members, general movement control, and jealousy were the forms of intimate partner controlling behaviour that predicted the occurrence of IPV. Conclusion Intimate partner controlling behaviour is associated with intimate partner violence. Based on this finding, we argue that preventative, and responsive approaches that combine education, awareness raising, pathways to help seeking, women's personal development and empowerment will have greater benefits in helping to tackle the problem of controlling behaviour and intimate partner violence against rural women in South Africa.",
+  "raw_path": "01_raw/europepmc_xml/PMC12016359.xml",
+  "text_path": "02_text/europepmc/PMC12016359.txt",
+  "raw_bytes": 154437,
+  "text_chars": 36694,
+  "raw_sha256": "e197bee14ea3b1484481a6726661e022a5aa003fd31660ab1df89990e876e3af",
+  "text_sha256": "2f4251888cad4267f7ac809d843eb2c568f933130605880e3bda74bf73fe576f",
+  "retrieved_at": "2026-10-25T15:45:37.068747+00:00"
+}

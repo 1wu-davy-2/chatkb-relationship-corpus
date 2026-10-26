@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10170774",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Association between dating app use and unhealthy weight control behaviors and muscle enhancing behaviors in sexual minority men: a cross-sectional study.",
+  "authors": "Tran A, Darboe M, Goyal A, Birk N.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1186/s12889-023-15715-7",
+  "pmcid": "PMC10170774",
+  "url": "https://europepmc.org/article/PMC/PMC10170774",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10170774/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "online_dating"
+  ],
+  "abstract": "Background Body image concerns are prevalent and are viewed as risk factors for engaging in unhealthy weight control behaviors (UWCBs), such as purging, fasting, and the misuse of laxatives and diet pills. Studies have also linked UWCBs to the development of eating disorders. In the United States (U.S.), sexual minority men (e.g., bisexual, gay, and men who have sex with men) are prone to UWCBs often as a result of societal pressures to achieve certain standards of appearance - of which are often perpetuated through various media platforms. A growing number of studies have explored the possible role mobile dating applications (\"dating apps\") play in contributing to UWCBs. To our knowledge, such studies have not explored this possible relationship between dating apps and UWCBs in sexual minority men (SMM). To fill this gap in the scientific literature, the present study assessed the association between dating app use and UWCBs and muscle enhancing behaviors among a sample of adult SMM in the U.S. Method 549 SMM participated in an anonymous survey from Qualtrics Survey Panels. UWCBs and muscle enhancing behaviors were assessed through items adapted from national surveys. Body image dissatisfaction was assessed using the Male Body Attitudes Scales. Participants also reported their history of dating app use. We performed descriptive statistics, chi-square tests, and student's t-tests. Multivariable logistic regression models assessed the relationship between dating app use and UWCBs and muscle enhancing behaviors. Results Dating app users had significantly higher body image dissatisfaction scores than non-users. Dating app users also demonstrated significantly elevated odds of engaging in four UWCBs and muscle enhancing behaviors: laxatives, diet pills, muscle-building supplements, and protein powders. Conclusions This is one of the first studies to assess dating app use and its association with UWCBs and muscle enhancing behaviors in SMM. Increased surveillance and detection for such behaviors among SMM, particularly those using dating apps, are needed.",
+  "raw_path": "01_raw/europepmc_xml/PMC10170774.xml",
+  "text_path": "02_text/europepmc/PMC10170774.txt",
+  "raw_bytes": 100167,
+  "text_chars": 32395,
+  "raw_sha256": "331ff93e6d5e1a96dbc54b95f784eb1b4672533c076c8d53c0e68c1eeb4ac8c0",
+  "text_sha256": "a8515113db7c635453f480a2a81fb3a9a1f6df5cf609d94f3dbb3efcf33acb7f",
+  "retrieved_at": "2026-10-25T15:44:29.192894+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11549805",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Examination of the relationship between dimensions of sexual perfectionism and female sexual function and sexual performance anxiety among Iranian married women of reproductive age: a cross-sectional study.",
+  "authors": "Hosseini FS, Khajavian N.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1186/s40359-024-02160-3",
+  "pmcid": "PMC11549805",
+  "url": "https://europepmc.org/article/PMC/PMC11549805",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11549805/fullTextXML",
+  "license": "cc by-nc-nd",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_function_dysfunction"
+  ],
+  "abstract": "Background Perfectionism is a multidimensional personality trait that manifests itself through various aspects of life as well as sexuality. Yet, the specific nexus between perfectionism and women's sexual experiences continues to remain unaddressed. Hence, this research aimed to investigate the relationship between the dimensions of sexual perfectionism, sexual function, and sexual performance anxiety (SPA) among Iranian married women of reproductive age in Gonabad, Iran. Method A cross-sectional study was conducted in Gonabad City in 2021, involving 450 women of reproductive age. Stratified sampling was used to select public healthcare centers, and participants were chosen via simple random sampling. Data were collected online through platforms like WhatsApp and Telegram, using the Multidimensional Sexual Perfectionism Questionnaire (MSPQ), Female Sexual Function Index (FSFI), and Brief Sexual Performance Anxiety Scale (BSPAS). The validity and reliability of these instruments were confirmed through content validity assessments and Cronbach's α. Hierarchical linear regression was performed using SPSS version 26, with the significance level set at p Results Linear regression analysis indicated that self-oriented sexual perfectionism was positively associated with all FSFI domains, including desire, arousal, lubrication, orgasm, satisfaction, total FSFI (p Conclusion The association found between dimensions of sexual perfectionism, sexual function, and SPA in Iranian women underscores the necessity for educational initiatives tailored to psychologists, psychiatrists, counselors, sexologists, and other healthcare practitioners. These programs would help to build a deeper insight into the origins of women's sexual complaints and identify and manage them within the context of marital relationships.",
+  "raw_path": "01_raw/europepmc_xml/PMC11549805.xml",
+  "text_path": "02_text/europepmc/PMC11549805.txt",
+  "raw_bytes": 110212,
+  "text_chars": 40115,
+  "raw_sha256": "838b229dcdb5df0448ca0940c6bebee60db77237860207ccec1dffbe3933093a",
+  "text_sha256": "8124faf0939662f9ddbf006a187324c8a5aba0b1fda7b8e2408a0fb0d3da74c1",
+  "retrieved_at": "2026-10-26T13:07:16.060386+00:00"
+}

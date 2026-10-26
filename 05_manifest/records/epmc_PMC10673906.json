@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC10673906",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Mode attraction, rejection and control in nonlinear multimode optics.",
+  "authors": "Ji K, Davidson I, Sahu J, Richardson DJ, Wabnitz S, Guasoni M.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.1038/s41467-023-42869-0",
+  "pmcid": "PMC10673906",
+  "url": "https://europepmc.org/article/PMC/PMC10673906",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10673906/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "rejection"
+  ],
+  "abstract": "Novel fundamental notions helping in the interpretation of the complex dynamics of nonlinear systems are essential to our understanding and ability to exploit them. In this work we predict and demonstrate experimentally a fundamental property of Kerr-nonlinear media, which we name mode rejection and takes place when two intense counter-propagating beams interact in a multimode waveguide. In stark contrast to mode attraction phenomena, mode rejection leads to the selective suppression of a spatial mode in the forward beam, which is controlled via the counter-propagating backward beam. Starting from this observation we generalise the ideas of attraction and rejection in nonlinear multimode systems of arbitrary dimension, which paves the way towards a more general idea of all-optical mode control. These ideas represent universal tools to explore novel dynamics and applications in a variety of optical and non-optical nonlinear systems. Coherent beam combination in polarisation-maintaining multicore fibres is demonstrated as example.",
+  "raw_path": "01_raw/europepmc_xml/PMC10673906.xml",
+  "text_path": "02_text/europepmc/PMC10673906.txt",
+  "raw_bytes": 180978,
+  "text_chars": 74256,
+  "raw_sha256": "90a1330084a9a1090e79bb0fc408945ce45e3ab9d83c92069b9804fe845871d2",
+  "text_sha256": "891240fe1dbb3a58b7ce4c18c6fa15213e68830f43d228706961a6ea8b18ad0e",
+  "retrieved_at": "2026-10-25T15:34:48.859267+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13073261",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Technology-Facilitated Online Sexual Violence, Consent Negotiation, and Coping Among Adult Women: A Qualitative Study.",
+  "authors": "Martínez-Díaz A, López-Barranco PJ, Guillén-Martínez AP, Cayuela-Fuentes PS, Segura-López G, Pérez-Franco IM, Leal-Costa C, Jiménez-Ruiz I.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3390/healthcare14070863",
+  "pmcid": "PMC13073261",
+  "url": "https://europepmc.org/article/PMC/PMC13073261",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13073261/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types"
+  ],
+  "abstract": "Background/Objectives: Online sexual violence is an increasingly prevalent form of gender-based harm facilitated by digital technologies, with significant consequences for the health, well-being, and rights of adult women. Despite growing attention to this phenomenon, women's lived experiences remain underexplored, particularly regarding sexual consent and institutional responses. This study aimed to examine how adult women experience online sexual violence, how consent is negotiated or constrained in digital contexts, and how coping and institutional mechanisms are perceived. Methods: A qualitative study with a hermeneutic phenomenological approach was conducted. Data were collected through three focus groups with 23 women aged 21 to 42 years who were active users of social media. Results: Participants reported diverse forms of online sexual violence, including unsolicited sexual messages and images, persistent harassment, coercion, blackmail, and threats. Sexual consent was often undermined by emotional manipulation, social pressure, and fear, placing women in vulnerable positions. These experiences negatively affected well-being, contributing to anxiety, reduced self-esteem, fear, and difficulties in sexual and emotional relationships. Coping strategies were mainly individual, such as blocking perpetrators or reporting content, while social support was frequently perceived as insufficient. A generalized distrust of institutional responses emerged, with formal mechanisms viewed as ineffective or inaccessible. Conclusions: For the study participants, online sexual violence is increasingly normalized and concealed within digital environments, reinforced by anonymity and impunity. The findings highlight the need for continued research and the development of interventions that include early sexual and emotional education, awareness-raising initiatives, digital regulation, specialized professional training, and the strengthening of victim-centered support networks.",
+  "raw_path": "01_raw/europepmc_xml/PMC13073261.xml",
+  "text_path": "02_text/europepmc/PMC13073261.txt",
+  "raw_bytes": 112041,
+  "text_chars": 49217,
+  "raw_sha256": "4f4acef6e458d010e503c1e2e0f5511d31f10134700eb22ad85a6717535fd83b",
+  "text_sha256": "cade4f9acd064ed561cfb21508d4f834de3a9c35426ed3895b08098f62843515",
+  "retrieved_at": "2026-10-26T13:27:04.156741+00:00"
+}

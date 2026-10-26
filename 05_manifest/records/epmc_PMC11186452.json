@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11186452",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Uncovering young people's situational construction of sexual consent.",
+  "authors": "Knountsen EK, Frank VA, Herold M.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1177/14550725231223888",
+  "pmcid": "PMC11186452",
+  "url": "https://europepmc.org/article/PMC/PMC11186452",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11186452/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "consent_types"
+  ],
+  "abstract": "Aim: To investigate how young Danes construct sexual consent generally, but also specifically in relation to heavy alcohol intoxication. Methods: Drawing on 30 qualitative in-depth interviews with young people, aged 19-25 years, and adopting a critical discursive psychological framework, we explored the interpretative repertoires that the participants made use of to construct sexual consent and the subject positions those repertoires enabled. Results: The participants made use of three interpretative repertoires that we named as follows: (1) sexual consent as an agreement between rational individuals; (2) sexual consent as a heteronormative practice; and (3) intoxicated sexual consent. Discussion: Young people draw on different repertoires when discussing sexual consent in general, sexual consent in relation to gendered practices and expectations, and sexual consent in relation to heavy alcohol intoxication. Conclusion: It is vital to keep the situational nature of young people's constructions of sexual consent in mind if we wish to understand and eventually reduce the number of non-consensual sexual experiences.",
+  "raw_path": "01_raw/europepmc_xml/PMC11186452.xml",
+  "text_path": "02_text/europepmc/PMC11186452.txt",
+  "raw_bytes": 142725,
+  "text_chars": 63761,
+  "raw_sha256": "b88c12c42899658686e173e316dd0df18c8d97aa06e03d43a1c0ef4d3f8b21d1",
+  "text_sha256": "8dfca0f12d00f346154ff0c62ca2fb170a363bf0c222244d5a71989c7f62a912",
+  "retrieved_at": "2026-10-26T13:27:33.330913+00:00"
+}

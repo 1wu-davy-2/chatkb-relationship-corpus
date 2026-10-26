@@ -1,0 +1,20 @@
+{
+  "doc_id": "wiki_clinical_depression",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "重性抑郁障碍",
+  "requested_title": "重性抑郁障碍",
+  "url": "https://zh.wikipedia.org/wiki/%E9%87%8D%E6%80%A7%E6%8A%91%E9%83%81%E9%9A%9C%E7%A2%8D",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "mental_health"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/clinical_depression.json",
+  "text_path": "02_text/zh_wikipedia/clinical_depression.txt",
+  "raw_bytes": 59683,
+  "text_chars": 20816,
+  "text_sha256": "ff01b8d886a65a91892e64a7364e0b12fa1941e1a02bc0729ea01852b53413d5",
+  "retrieved_at": "2026-10-25T15:59:03.021762+00:00"
+}

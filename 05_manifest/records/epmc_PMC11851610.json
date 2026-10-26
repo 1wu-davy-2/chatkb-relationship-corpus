@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11851610",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "From Anxiety to Contentment: The Role of Multiple Mediations and Privacy Concerns in the Transition from the FOMO to the JOMO Among Dating App Users.",
+  "authors": "Li Y, Han E.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.3390/bs15020168",
+  "pmcid": "PMC11851610",
+  "url": "https://europepmc.org/article/PMC/PMC11851610",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11851610/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "self_disclosure"
+  ],
+  "abstract": "This research explores the psychological transition that occurs in dating app users from the Fear of Missing Out (FOMO) to the Joy of Missing Out (JOMO) using the Stressor-Strain-Outcome (SSO) model. An online survey of 410 Tinder users reveals that the FOMO significantly influences self-disclosure and social media stalking behaviors, which leads to user fatigue and eventually the JOMO. This survey also finds that privacy concerns play a moderating role in this process. In particular, the results show that a heightened FOMO increases self-disclosure and social media stalking, which intensifies fatigue and fosters the JOMO. Privacy concerns significantly modulate the relationship between the FOMO, fatigue, and the JOMO, thus playing a critical role in user interactions with dating apps. These insights help elucidate the socio-psychological behaviors of dating app users and can inform app design to reduce fatigue and enhance user well-being.",
+  "raw_path": "01_raw/europepmc_xml/PMC11851610.xml",
+  "text_path": "02_text/europepmc/PMC11851610.txt",
+  "raw_bytes": 166142,
+  "text_chars": 44039,
+  "raw_sha256": "d1583f051923de04f92a08d8194114a30f6c8f45e8a557c99fed72bc94f8318e",
+  "text_sha256": "48aa0eb34c9444806bebcf14feaf80ebf9120cdc4419fde2b704a16047002147",
+  "retrieved_at": "2026-10-25T13:52:58.752060+00:00"
+}

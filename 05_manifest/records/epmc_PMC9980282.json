@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC9980282",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Women's marital status and use of family planning services across male- and female-headed households in low- and middle-income countries.",
+  "authors": "Hellwig F, Saad GE, Wendt A, Barros AJ.",
+  "year": "2023",
+  "journal": "",
+  "doi": "10.7189/jogh.13.04015",
+  "pmcid": "PMC9980282",
+  "url": "https://europepmc.org/article/PMC/PMC9980282",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9980282/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "sexual_frequency"
+  ],
+  "abstract": "Background As more households are being led by women, who are often seen as disadvantaged, more attention is being given to the potential association of female household headship with health. We aimed to assess how demand for family planning satisfied by modern methods (mDFPS) is associated with residence in female or male headed households and how this intersects with marital status and sexual activity. Methods We used data from national health surveys carried out in 59 low- and middle-income countries between 2010 and 2020. We included all women aged 15 to 49 years in our analysis, regardless of their relationship with the household head. We explored mDFPS according to household headship and its intersectionality with the women's marital status. We identified households as male-headed households (MHH) or female-headed households (FHH), and classified marital status as not married/in a union, married with the partner living in the household, and married with the partner living elsewhere. Other descriptive variables were time since the last sexual intercourse and reason for not using contraceptives. Results We found statistically significant differences in mDFPS by household headship among reproductive age women in 32 of the 59 countries, with higher mDFPS among women living in MHH in 27 of these 32 countries. We also found large gaps in Bangladesh (FHH = 38%, MHH = 75%), Afghanistan (FHH = 14%, MHH = 40%) and Egypt (FHH = 56%, MHH = 80%). mDFPS was lower among married women with the partner living elsewhere, a common situation in FHH. The proportions of women with no sexual activity in the last six months and who did not use contraception due to infrequent sex were higher in FHH. Conclusions Our findings indicate that a relationship exists between household headship, marital status, sexual activity, and mDFPS. The lower mDFPS we observed among women from FHH seems to be primarily associated with their lower risk of pregnancy; although women from FHH are married, their partners frequently do not live with them, and they are less sexually active than women in MHH.",
+  "raw_path": "01_raw/europepmc_xml/PMC9980282.xml",
+  "text_path": "02_text/europepmc/PMC9980282.txt",
+  "raw_bytes": 191413,
+  "text_chars": 27689,
+  "raw_sha256": "8b949e896692fd13aaaba81a959a3cdd6d891f73df760e13243c1667aaca4d59",
+  "text_sha256": "f8a45d5c6d6b85e58e7bd2f5eba6cdebcc19c80c2978943a16c2ef37cdaf805b",
+  "retrieved_at": "2026-10-26T12:57:09.210727+00:00"
+}

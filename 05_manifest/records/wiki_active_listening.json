@@ -1,0 +1,21 @@
+{
+  "doc_id": "wiki_active_listening",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "積極聆聽",
+  "requested_title": "積極聆聽",
+  "url": "https://zh.wikipedia.org/wiki/%E7%A9%8D%E6%A5%B5%E8%81%86%E8%81%BD",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "topics": [
+    "listening",
+    "communication"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/active_listening.json",
+  "text_path": "02_text/zh_wikipedia/active_listening.txt",
+  "raw_bytes": 1231,
+  "text_chars": 526,
+  "text_sha256": "7a32eade2b6726b574fa04655e936bfa063f4cc20ec00ae9e8fd97496039574b",
+  "retrieved_at": "2026-10-25T15:30:36.744472+00:00"
+}

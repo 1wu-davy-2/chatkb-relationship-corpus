@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_herbivore_men",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "草食男",
+  "requested_title": "草食男",
+  "url": "https://zh.wikipedia.org/wiki/%E8%8D%89%E9%A3%9F%E7%94%B7",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 草食男",
+  "topics": [
+    "culture",
+    "gender"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/herbivore_men.json",
+  "text_path": "02_text/zh_wikipedia/herbivore_men.txt",
+  "raw_bytes": 2648,
+  "text_chars": 1167,
+  "text_sha256": "64e9362475482fb147d5e542ff98a5d5f91cbd59b15493f8a3f85c417cff6360",
+  "retrieved_at": "2026-10-25T16:29:01.424247+00:00"
+}

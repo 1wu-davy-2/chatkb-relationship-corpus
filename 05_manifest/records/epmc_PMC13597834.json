@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13597834",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Associations between social media exposure and COVID-19 preventive behaviors in post-zero-COVID China: a moderated mediation model of risk perception, fear, and mindfulness.",
+  "authors": "Han T, Liu M.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.3389/fpubh.2026.1869399",
+  "pmcid": "PMC13597834",
+  "url": "https://europepmc.org/article/PMC/PMC13597834",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13597834/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "social_media"
+  ],
+  "abstract": "Background In late 2022, the sudden termination of the \"Zero-COVID\" policy in China triggered a massive surge in infections and widespread public uncertainty. During this transition, social media served as the primary infrastructure for health communication. This study investigates the associations between social media and COVID-19 preventive behaviors, specifically examining the mediating roles of risk perception and fear, and the moderating influence of mindfulness. Objective This study aims to investigate the psychological pathways linking social media exposure to COVID-19 preventive behaviors during the abrupt termination of China's \"Zero-COVID\" policy in late 2022. Specifically, the research examines the parallel mediating roles of cognitive risk perception and fear, while evaluating the potential of mindfulness as a self-regulatory resource to moderate the internal states and preventive health behaviors during a public health crisis. Methods A cross-sectional online survey was conducted among 1,167 Chinese adults between December 21, 2022, and January 3, 2023-the peak period of the policy shift. Data were analyzed using the SPSS PROCESS macro. Mediation effects (Model 4) were tested for risk perception and fear, while a moderated mediation model (Model 14) was employed to evaluate whether mindfulness buffered the relationship between fear and preventive action. Results This study found that social media exposure was positively associated with risk perception ( β = 0.600, SE = 0.142, p β = 0.069, SE = 0.012, p β = 0.145, SE = 0.034, p β = 0.238, SE = 0.047, p β = 0.034, 95% CI = 0.013, 0.062). Besides, mindfulness moderated the association between fear and COVID-19 preventive behaviors ( β = 0.170, SE = 0.046, p Conclusion Social media exposure is indirectly associated with preventive actions through risk perception and fear. Notably, mindfulness serves as a critical boundary condition: the positive link between threat-induced fear and adaptive protective behaviors is statistically significant only for individuals with moderate-to-high mindfulness. This study highlights the importance of incorporating emotional regulation into public health communication. Rather than relying solely on fear-inducing information, future communication strategies should couple risk information with digital mindfulness resources to support public health compliance and mental well-being during post-policy transitions.",
+  "raw_path": "01_raw/europepmc_xml/PMC13597834.xml",
+  "text_path": "02_text/europepmc/PMC13597834.txt",
+  "raw_bytes": 171390,
+  "text_chars": 43714,
+  "raw_sha256": "f470395f9717a8e70ca904dafb8a62c2a7ebaffc7b93bf12fd2ba136b0d12c9d",
+  "text_sha256": "6357ed6facb59b3926b2c7f0cd1d7e7256bb5960a99506f19912c56daa450735",
+  "retrieved_at": "2026-10-25T15:33:37.529115+00:00"
+}

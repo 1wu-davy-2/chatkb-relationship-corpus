@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC11111655",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Cohabitation and Marriage Formation in Times of Fertility Decline: The Case of Sweden in the Twenty-First Century.",
+  "authors": "Cantalini S, Ohlsson-Wijk S, Andersson G.",
+  "year": "2024",
+  "journal": "",
+  "doi": "10.1007/s10680-024-09703-9",
+  "pmcid": "PMC11111655",
+  "url": "https://europepmc.org/article/PMC/PMC11111655",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11111655/fullTextXML",
+  "license": "cc by",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": "eng",
+  "topics": [
+    "cohabitation"
+  ],
+  "abstract": "Developments over time in the prevalence of marriage and cohabitation formation has long received much interest, but less is known about more recent developments for different population subgroups in European countries. This applies as well to Sweden, a country considered a forerunner in family-demographic change. In contrast, much attention has been paid to the falling birth rates during the 2010s, and explanations that focus on the role of increasing uncertainties. In the Swedish case, the fertility decline has been documented across all main socio-demographic subgroups. The objective of this study is to examine whether the same situation holds for first marriage and cohabitation formation during the 2010s and the exceptional years of the Covid-19 pandemic. Based on Swedish population registers, including with new cohabitation data, we present annual indices of first marriage formation (1991-2022) and cohabitation formation (2012-2022) across a number of socio-demographic strata. We demonstrate a continuous decline in first marriage formation since the early 2010s with an additional sharp dip during the pandemic and a post-pandemic recovery. In contrast, there was a remarkable stability in cohabitation formation during 2012-2022. Although socio-demographic groups differ in their overall levels of marriage and cohabitation formation, the recent trends are strikingly similar across groups. Cohabiting couples, across population subgroups, have become less inclined to transition their union status to a more committed level, as manifested by marriage or parenthood. This occurred in spite of a positive economic climate in the 2010s and stable family policies, indicating that other forces are at play.",
+  "raw_path": "01_raw/europepmc_xml/PMC11111655.xml",
+  "text_path": "02_text/europepmc/PMC11111655.txt",
+  "raw_bytes": 162661,
+  "text_chars": 55086,
+  "raw_sha256": "5b764da147492711e0eac94e7cd5841a52eb4c2abb4a9daf32e6a26b6c2c1016",
+  "text_sha256": "dc9354e7f825d873469b851902e308b2e3e02cd905f4f0df5ded3ca8ece7bee9",
+  "retrieved_at": "2026-10-25T15:33:52.178121+00:00"
+}

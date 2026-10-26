@@ -1,0 +1,25 @@
+{
+  "doc_id": "gut_35123",
+  "source": "gutenberg",
+  "source_type": "public_domain_book",
+  "group": "en_etiquette",
+  "title": "The Ladies' Book of Etiquette, and Manual of Politeness",
+  "gutenberg_id": "35123",
+  "url": "https://www.gutenberg.org/ebooks/35123",
+  "download_url": "https://www.gutenberg.org/cache/epub/35123/pg35123.txt",
+  "language": "en",
+  "license": "Project Gutenberg License (public domain in the US)",
+  "license_url": "https://www.gutenberg.org/policy/license.html",
+  "topics": [
+    "etiquette",
+    "conversation",
+    "courtship",
+    "etiquette"
+  ],
+  "raw_path": "01_raw/gutenberg/35123.txt",
+  "text_path": "02_text/gutenberg/gut_35123_the_ladies_book_of_etiquette_and_manual.txt",
+  "raw_bytes": 520511,
+  "text_chars": 486533,
+  "text_sha256": "ff85995bfc303c63b314ec1cc8510ab2911fcebf898833f25f5c298adbc327f6",
+  "retrieved_at": "2026-10-25T15:44:42.352318+00:00"
+}

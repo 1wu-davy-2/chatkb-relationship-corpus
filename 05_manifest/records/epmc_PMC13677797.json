@@ -1,0 +1,27 @@
+{
+  "doc_id": "epmc_PMC13677797",
+  "source": "europepmc",
+  "source_type": "open_access_paper",
+  "title": "Perpetrator alcohol use and intimate partner violence in high-income countries: A systematic review and meta-analysis.",
+  "authors": "Tanyos A, Willoughby B, Hopkins C, Alen GD, Jiang H, Jenkinson R, MacLean S, Laslett AM.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.1111/add.70540",
+  "pmcid": "PMC13677797",
+  "url": "https://europepmc.org/article/PMC/PMC13677797",
+  "xml_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13677797/fullTextXML",
+  "license": "cc by-nc",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "language": "eng",
+  "topics": [
+    "dating_violence"
+  ],
+  "abstract": "Background and aims Harmful alcohol use is commonly associated with intimate partner violence (IPV) perpetration. This systematic review estimated the association between harmful alcohol use and man-to-woman IPV (MWIPV) and woman-to-man IPV (WMIPV) in high-income countries (HICs), using national and community studies, and compared associations by key moderators such as abuse type and alcohol measurement. Methods Systematic review and multi-level random-effects meta-analysis, registered in PROSPERO and reported in accordance with PRISMA guidelines. Eligible studies were peer-reviewed and published in English. All included studies were conducted in HICs and included adults aged 18 years and older in heterosexual intimate relationships, drawn from national and community-based studies. The exposure was perpetrator harmful alcohol use, including alcohol use disorder, dependence, binge/heavy drinking patterns and other harmful drinking measures. The outcomes were MWIPV and WMIPV models. Quality assessment of studies, moderator, subgroup and sensitivity analyses, heterogeneity using Cochran's Q test and I 2 statistics, and influence diagnostics were also conducted. Results Out of 5879 database records identified from MEDLINE, CINAHL, ProQuest, PsycINFO, PubMed and EMBASE between January 2011 and January 2024, 3062 duplicates were removed. After screening titles and abstracts of 2817 studies, 247 underwent full-text review. Backward citation searching identified five additional records, two of which were eligible. Overall, 21 studies, including 76 736 participants, were included in quality assessment and data extraction. Harmful alcohol use was significantly associated with increased odds of MWIPV and WMIPV [odds ratio (OR) = 1.41, 95% confidence interval (CI) = 1.19-1.67; OR = 1.15, 95% CI = 1.04-1.27, respectively]. Univariate moderator models showed that among men, those who have an alcohol use disorder, dependence or binge/heavy drinking patterns (not just drinking sometimes) were much more likely to be violent toward their partners. For women, the alcohol-IPV link was stronger in national-sample studies than in community-sample studies and was evident when harmful drinking was measured categorically, but not when alcohol consumption was measured continuously, such as the number of drinks per week. Conclusions Harmful alcohol use appears to be associated with increased odds of man-to-woman and woman-to-man intimate partner violence perpetration in high-income countries. The results highlight the importance of integrating alcohol-focused strategies into intimate partner violence prevention and intervention efforts, particularly to reduce the prevalence and severity of man-to-woman intimate partner violence.",
+  "raw_path": "01_raw/europepmc_xml/PMC13677797.xml",
+  "text_path": "02_text/europepmc/PMC13677797.txt",
+  "raw_bytes": 201811,
+  "text_chars": 45371,
+  "raw_sha256": "d8ee02ac27bfdba8564fa83dda96ac9f3cc7946313c806588279ddaf1fd5aba6",
+  "text_sha256": "888c1e28c92673f3a58e837812845ff7c47b840f843fa75d5255769766b296fb",
+  "retrieved_at": "2026-10-25T13:49:35.838442+00:00"
+}

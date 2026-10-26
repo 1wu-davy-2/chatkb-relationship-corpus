@@ -1,0 +1,22 @@
+{
+  "doc_id": "wiki_victim_blaming",
+  "source": "zh_wikipedia",
+  "source_type": "encyclopedia",
+  "title": "指责受害人",
+  "requested_title": "責怪受害者",
+  "url": "https://zh.wikipedia.org/wiki/%E6%8C%87%E8%B4%A3%E5%8F%97%E5%AE%B3%E4%BA%BA",
+  "language": "zh",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chinese Wikipedia: 指责受害人",
+  "topics": [
+    "safety",
+    "psychology"
+  ],
+  "raw_path": "01_raw/zh_wikipedia/victim_blaming.json",
+  "text_path": "02_text/zh_wikipedia/victim_blaming.txt",
+  "raw_bytes": 20285,
+  "text_chars": 7308,
+  "text_sha256": "f94dd74e567a7ad32d5884e46b04858e62cce4cabe460fd9a04aef4cc9d35150",
+  "retrieved_at": "2026-10-25T16:22:16.281164+00:00"
+}
