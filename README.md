@@ -166,7 +166,7 @@ uv venv .venv
 git init
 git symbolic-ref HEAD refs/heads/main    # git <2.28 这样改名默认分支；新版直接 git init -b main
 git add .
-git status --short | wc -l               # 首次提交为 3559 个文件（正文 + 每篇一条记录）
+git status --short | wc -l               # 全库跟踪 3557 个文件（正文 + 每篇一条记录）
 git commit -F <message-file>             # 中文提交信息走文件，命令行里不要直接打中文
 ```
 
