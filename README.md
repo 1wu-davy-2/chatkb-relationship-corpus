@@ -166,9 +166,11 @@ uv venv .venv
 git init
 git symbolic-ref HEAD refs/heads/main    # git <2.28 这样改名默认分支；新版直接 git init -b main
 git add .
-git status --short | wc -l               # 确认忽略生效（约 1790 个文件）
-git commit -m "chatkb corpus: ..."
+git status --short | wc -l               # 首次提交为 3559 个文件（正文 + 每篇一条记录）
+git commit -F <message-file>             # 中文提交信息走文件，命令行里不要直接打中文
 ```
+
+> 中文文件名在 `git status` / `git log` 里默认显示成 `"\346\226\207..."` 转义序列，只是显示问题；想看原文用 `git -c core.quotepath=false status`（单次生效，不改全局配置）。
 
 # 推到 GitHub（先在网页建一个 **private** 空仓库，不要勾选初始化 README/LICENSE）
 git remote add origin git@github.com:<your-user>/chatkb-relationship-corpus.git
